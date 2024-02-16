@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因少输入字符 Chrome OS 设备更新后变砖",
+  "Link": "https://www.solidot.org/story?sid=68363",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 本周\u003ca href=\"https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e更新 Chrome OS version 91.0.4472.165，结果导致用户在设备更新重启之后\u003ca href=\"https://support.cloud.google.com/portal/system-status?start_time=1626753600000\"\u003e\u003cu\u003e无法登陆\u003c/u\u003e\u003c/a\u003e。Chrome OS 是自动更新，在重启之后切换到新版本，但本周早些时候推送的更新会导致用户设备重启之后变砖。问题是一行代码中的一个字符漏输导致的，这行代码本应是 “if (key_data_.has_value() \u0026amp;\u0026amp; !key_data_-\u0026gt;label().empty()) {”，其中 \u0026amp;\u0026amp; 是代表 AND 的操作符，但 Google 推送更新时少了一个 \u0026amp;，破坏了后半部分的条件语句。Chrome OS 设备的一大卖点是其可靠性，但最新事件显示 Google 的测试流程存在问题。这个问题已经在最新更新中修复。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-23T08:22:22Z",
+  "Author": "WinterIsComing"
+}

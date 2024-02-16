@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "财务软件 bug 导致数百人被错误定罪",
+  "Link": "https://www.solidot.org/story?sid=67589",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国法官\u003ca href=\"https://www.bbc.com/news/business-56859357\" target=\"_blank\"\u003e\u003cu\u003e洗清了 39 名前邮政工作人员的罪名\u003c/u\u003e\u003c/a\u003e。在英国邮政局安装了有问题的财务软件 Horizon 之后，超过 700 人受到了盗窃钱财、欺诈和做假账的指控，这起丑闻被认为是英国最大规模的司法不公案。英国邮政局从 1999 年开始使用存在 bug 的 Horizon 管理财务。Horizon 由日本富士通公司开发，它的早期版本被发现存在严重 bug，会导致误报，有时候会涉及到大量金钱。来自 Horizon 的证据被用于成功起诉了 736 名邮政工作人员，有人因此被关到监狱，生活被彻底改变。而据前开发者透露的信息，富士通公司\u003ca href=\"https://www.computerweekly.com/news/252496560/Fujitsu-bosses-knew-about-Post-Office-Horizon-IT-flaws-says-insider\"\u003e\u003cu\u003e早就知道它的软件存在问题\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-23T15:27:40Z",
+  "Author": "WinterIsComing"
+}

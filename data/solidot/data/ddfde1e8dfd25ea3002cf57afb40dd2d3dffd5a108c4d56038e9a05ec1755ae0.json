@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "神经元的计算复杂度有多高",
+  "Link": "https://www.solidot.org/story?sid=68805",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t与精巧犀利的计算机芯片相比，人类大脑确实是字面意义上的“一团浆糊”。但科学家一直在二者之间进行比较。正如图灵在 1952 年所言，“我们对大脑呈现出「浆糊」态这样的事实并不感兴趣。”换句话说，媒介如何不重要，计算能力才是重点。如今最强大的 AI 系统采用一种名为深度学习的机器学习算法，能通过互连互通的各节点构成的隐藏层结构（即深度神经网络）处理大量数据、进而获得学习能力。顾名思义，深度神经网络的灵感源自大脑中的真实神经网络，其节点也确实以真实神经元为模型——或者至少源自神经科学家在 1950 年代提出的神经元理解成果。自那时开始，我们对单一神经元计算复杂性的认知一直快速发展，并证明生物神经元远比人工神经元更复杂。\u003ca href=\"https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/\"\u003e\u003cu\u003e那么到底有多复杂\u003c/u\u003e\u003c/a\u003e？\n\u003cbr/\u003e\n\u003cbr/\u003e\n为了找到答案，耶路撒冷希伯来大学的 David Beniaguev、Idan Segev 和 Michael London 训练出一套人工深度神经网络，用以模拟生物神经元的计算过程。他们\u003ca href=\"https://www.sciencedirect.com/science/article/abs/pii/S0896627321005018\" target=\"_blank\"\u003e\u003cu\u003e证明\u003c/u\u003e\u003c/a\u003e，深度神经网络需要五到八层相互连接的“神经元”，才能表达单一生物神经元的复杂度。就连作者自己也没有预料到这样的复杂性水平。Beniaguev 指出，“我本以为会更简单、更小。”事实上他预计三到四层应该就足以反映生物神经元内的所有计算活动。Google 旗下 AI 企业 DeepMind 决策算法设计师 \u003ca href=\"https://contrastiveconvergence.net/~timothylillicrap/index.php\"\u003e\u003cu\u003eTimothy Lillicrap\u003c/u\u003e\u003c/a\u003e 表示，这项新成果可能表明我们有必要重新思考要如何将人脑神经元与机器学习神经元进行比较。“这篇论文促使我们更深入地思考这个问题，领悟二者间所能比较的程度。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-03T09:01:13Z",
+  "Author": "wanwan"
+}

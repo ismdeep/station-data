@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "维基共享资源五分之一的请求源自一朵花",
+  "Link": "https://www.solidot.org/story?sid=66902",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在维基共享资源上，\u003ca href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AsterNovi-belgii-flower-1mb.jpg/1280px-AsterNovi-belgii-flower-1mb.jpg\"\u003e\u003cu\u003e一朵花\u003c/u\u003e\u003c/a\u003e图片每天的访问量\u003ca href=\"https://phabricator.wikimedia.org/T273741\" target=\"_blank\"\u003e\u003cu\u003e高达 9000 万\u003c/u\u003e\u003c/a\u003e，而这些访问请求 的 IP 地址来自不同的印度 ISP。这引起了很多人的好奇，调查显示这幅图片出现在 Stackoverflow 等编程问答网站和代码托管平台 Github 的示例代码中，因此可能有人直接拷贝了示例代码构建到一个应用中，而这个应用从去年 7 月开始在印度变得非常火爆，以至于访问量多达千万计，连带着这朵花的访问量也一路攀升。目前还不知道\u0026#34;罪魁祸首\u0026#34;。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-09T06:58:21Z",
+  "Author": "WinterIsComing"
+}

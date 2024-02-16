@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox Warp 大幅改进浏览器性能",
+  "Link": "https://www.solidot.org/story?sid=65660",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox SpiderMonkey (JS) 引擎团队\u003ca href=\"https://groups.google.com/g/mozilla.dev.platform/c/1PHhxBxSehQ?pli=1\" target=\"_blank\"\u003e\u003cu\u003e完成了名为 Warp 的更新\u003c/u\u003e\u003c/a\u003e，显著了改进了浏览器的响应和页面加载性能。Speedometer 测试显示，在启用 Warp 之后，速度加快了大约 10%，JS 引擎的内存占用也减少了。Firefox Nightly 已经默认启用了 Warp。没有启用可以访问 about:config 然后设置 javascript.options.warp 为 true，重启浏览器。目前的测试显示，Win64 GDocs 加载改进了 20%，Android Reddit SpeedIndex 改进 10%，pdfpain 18%，tp6 JS 内存 8%，damp 8%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-26T07:46:50Z",
+  "Author": "WinterIsComing"
+}

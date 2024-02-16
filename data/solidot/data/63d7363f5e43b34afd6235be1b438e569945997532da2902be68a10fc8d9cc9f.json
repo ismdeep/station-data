@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "量子计算的潜在障碍：宇宙射线",
+  "Link": "https://www.solidot.org/story?sid=70015",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近研究人员在 Google 量子处理器上测试纠错时，注意到一个奇怪的现象，即整个纠错方案偶尔会严重失败。他们将此归咎于背景辐射，即宇宙射线和放射性同位素偶尔自然发生的衰变产生的辐射。当时这似乎有点有趣——Google 意外地支付了极其昂贵的宇宙射线探测器的费用。但是处理器背后的人非常认真地对待这个问题，并发表\u003ca href=\"https://www.nature.com/articles/s41567-021-01432-8\"\u003e\u003cu\u003e新论文\u003c/u\u003e\u003c/a\u003e，详细介绍辐射如何影响量子比特。他们得出结论，除非我们能找到一种方法限制射线的影响，否则宇宙射线引起的问题出现的频率高到\u003ca href=\"https://arstechnica.com/science/2021/12/cosmic-rays-can-swamp-error-correction-on-quantum-processors/\"\u003e\u003cu\u003e足以妨碍量子计算纠错\u003c/u\u003e\u003c/a\u003e。宇宙射线和放射性也会给经典计算硬件带来问题。那是因为经典计算机依赖移动和存储电荷，宇宙射线在撞击材料时会产生电荷。而量子比特以物体量子态的形式存储信息——就 Google 的处理器而言，是连接到谐振器的超导线环。宇宙射线也会影响它，但机制完全不同。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-15T10:38:20Z",
+  "Author": "wanwan"
+}

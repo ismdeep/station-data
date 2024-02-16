@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Check Point 在 TikTok 平台发现多个漏洞",
+  "Link": "https://www.solidot.org/story?sid=63210",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以色列网络安全公司Check Point 发布\u003ca href=\"https://research.checkpoint.com/2020/tik-or-tok-is-tiktok-secure-enough/\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e，称在 TikTok 平台\u003ca href=\"https://cn.nytimes.com/technology/20200109/tiktok-security-flaws/\" target=\"_blank\"\u003e发现严重的安全漏洞\u003c/a\u003e。在报告给其运营商北京字节跳动之后，这些漏洞已经修复。这些漏洞可以让攻击者向 TikTok 用户发送带有恶意链接的消息。用户点击链接后，攻击者就能控制他们的帐户，包括上传视频或访问私密视频。通过另一个漏洞，Check Point 研究人员可以从该公司网站上获取 TikTok 用户账户的个人信息。TikTok 于 11 月 20 日了解到 Check Point 的研究结论，表示已在 12 月 15 日之前修复了所有漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-09T06:13:39Z",
+  "Author": "WinterIsComing"
+}

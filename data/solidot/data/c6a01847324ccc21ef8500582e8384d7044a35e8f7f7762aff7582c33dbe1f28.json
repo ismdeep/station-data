@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WhatsApp 将允许用户加密聊天记录备份",
+  "Link": "https://www.solidot.org/story?sid=68895",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWhatsApp \u003ca href=\"https://techcrunch.com/2021/09/10/whatsapp-encrypt-cloud-backup/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将允许用户将加密的聊天历史备份上传到云端。WhatsApp 很早就支持端对端加密聊天，但用户如果要将聊天历史的备份储存到云端如 iCloud（iPhone）或 Google Drive（Android）则没有加密可供选择，只能以未加密格式储存。而储存在苹果和 Google 服务器上的未加密备份数据多年来被世界各地的执法机构用于访问嫌疑人的聊天历史。WhatsApp 现在堵上了这一薄弱环节。WhatsApp 将向用户提供两种加密备份的方式，未来几周用户将会看到一个选项生成 64 位的密钥去锁定储存在云端的备份，用户可选择离线储存密钥或保存在密码管理器中，用户可以选择将密钥储存在云端然后加上一层密码保护。没有用户密码储存在云端的密钥是无法访问的，即使 WhatsApp 在没有密码的情况下也无法访问密钥。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-11T12:42:39Z",
+  "Author": "WinterIsComing"
+}

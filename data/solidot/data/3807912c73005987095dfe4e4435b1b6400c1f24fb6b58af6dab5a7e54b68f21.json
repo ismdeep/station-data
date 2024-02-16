@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DNS 作者谈其起源和现状",
+  "Link": "https://www.solidot.org/story?sid=64784",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在互联网的早期，主机和 IP 地址信息储存在斯坦福研究院维护的一个文本文件 HOSTS.TXT 中，当一台新计算机加入到网络或一台旧电脑修改了它的资料，人们需要联系斯坦福研究院，让他们手动更新文件。想知道一台计算机 IP 地址的人也需要联系斯坦福研究院。而它每个工作日下午五点就会关闭，假日也不会开放。DNS 就是作为一种方法通过利用分布式数据库来解决这个问题。当时在南加州大学工作的 Paul Mockapetris 博士\u003ca href=\"https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris\"\u003e\u003cu\u003e发明和设计了 DNS 系统\u003c/u\u003e\u003c/a\u003e。他说，虽然 DNS 系统设计的非常灵活，但顶级域名本身是政治皮球的一种博弈。DNS 设计的不安全是有意为之，当时的问题是需要人们接受分布式系统这个概念。对于俄罗斯试图建造主权局域网，重建 DNS 基础设施，Mockapetris 博士称技术本身并不难，俄罗斯可以使用开源 DNS 来实现他们的意图。而从商业角度看，对外连接仍然是重要的，即使是“防火墙”也并没有切断连接，而只是寻求控制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T07:37:34Z",
+  "Author": "WinterIsComing"
+}

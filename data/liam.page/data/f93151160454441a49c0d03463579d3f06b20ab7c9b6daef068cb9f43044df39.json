@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "在 VIM 中切换横竖分屏",
+  "Link": "https://liam.page/2017/05/24/switch-between-horizon-and-vertical-split-in-VIM/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e我们都知道，以 \u003ccode\u003evimdiff\u003c/code\u003e 打开多个文件时，VIM 默认会以竖直分屏的方式将文件之间的差异呈现出来。而若以打开文件，我们希望对比缓冲区中的文件和磁盘上另一个文件之间的差异时，则可以在 VIM 编辑状态中，执行 VIM 命令 \u003ccode\u003ediffsplit \u0026lt;filename\u0026gt;\u003c/code\u003e。不过，正如 \u003ccode\u003esplit\u003c/code\u003e 会以水平分屏的方式打开一个新的文件一样，\u003ccode\u003ediffsplit\u003c/code\u003e 也是以水平分屏的方式呈现两个文件的差异的。\u003c/p\u003e\n\u003cp\u003e\u003ccode\u003ediffsplit\u003c/code\u003e 的默认呈现方式，对大多数人来说，想必都是不友好的——不方便对比两个文件之间的差异。若是不想退出 VIM，又希望文件差异以竖直分屏呈现的话，就需要考虑如何切换横竖分屏了。\u003c/p\u003e\n\u003cp\u003eVIM 提供了两个快捷键，用于调整当前缓冲区在分屏模式下的位置。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003eCtrl + w, Shift + h\u003c/code\u003e: 将当前缓冲区置于终端最左侧，并占据整个终端高度；\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003eCtrl + w, Shift + k\u003c/code\u003e: 将当前缓冲区置于终端最顶部，并占据整个终端宽度。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e使用这两个快捷键，我们就能在 VIM 中切换横竖分屏了。\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2017-05-24T12:48:30Z",
+  "Author": "Liam Huang"
+}

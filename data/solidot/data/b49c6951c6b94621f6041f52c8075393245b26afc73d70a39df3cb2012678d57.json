@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 被发现会预连接 Google 搜索",
+  "Link": "https://www.solidot.org/story?sid=68248",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChrome 是基于开源的 Chromium 项目，该项目由 Google 等公司合作开发，但主要由 Google 控制和管理。对 Chromium 源代码的分析\u003ca href=\"https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e PreconnectToSearch 功能，当该功能启用之后浏览器会预先打开和维护一个默认搜索引擎的连接。预连接会预先解析域名、与服务器协商和建立安全连接。所有这些都需要时间，预连接意味着可以节省时间更快的返回用户的查询结果。在比较慢的网络中，预连接能节省十几秒；在比较快的网络中能节省半秒。如果用户不执行搜索，预连接也可能会略微影响页面加载速度。但有一个问题是，Chromium 会检查默认搜索引擎设置，只在默认设置为 Google 时启用该功能。这使得其它搜索引擎在 Chrome 浏览器的搜索速度上相比 Google \u003ca href=\"https://tech.slashdot.org/story/21/07/09/2056209/googles-unfair-performance-advantage-in-chrome\"\u003e\u003cu\u003e处于竞争劣势\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-10T05:54:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 的 Speedometer 跑分超过了 Chrome",
+  "Link": "https://www.solidot.org/story?sid=75549",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 在 Speedometer 浏览器基准测试中的得分超过了 Chrome。Mozilla 开发者表示，自今年五月以来，Firefox 取得了显著进步，与此同时 Chrome 的性能基本原地踏步。性能改进与修复 Bug 1815069 和  Bug 1444491 有关。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.nightly.mozilla.org/2023/07/14/full-speed-into-the-future-these-weeks-in-firefox-issue-142/\u003cbr/\u003e\nhttps://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=0\u0026amp;highlightChangelogData=1\u0026amp;highlightCommonAlerts=0\u0026amp;series=mozilla-central,3735773,1,13\u0026amp;series=mozilla-central,3412459,1,13\u0026amp;timerange=31536000\u003cbr/\u003e\nhttps://blog.nightly.mozilla.org/2023/04/14/dropping-the-banner-hammer-and-more-these-weeks-in-firefox-issue-134/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-18T14:46:22Z",
+  "Author": "Wilson"
+}

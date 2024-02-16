@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Swift 5.3 将支持 Windows 和 Linux 发行版",
+  "Link": "https://www.solidot.org/story?sid=64383",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSwift 5.3 进入到了开发的最后阶段，它的一大目标是\u003ca href=\"https://www.infoq.com/news/2020/05/swift-5-3-windows-linux/\" target=\"_blank\"\u003e\u003cu\u003e扩大支持平台\u003c/u\u003e\u003c/a\u003e，包括 Windows 和更多的 Linux 发行版。Swift 已经支持的 Linux 发行版包括 Ubuntu 16.04 和 Ubuntu 18.04，新增的发行版包括 Ubuntu 20.04、CentOS 8 和 Amazon Linux 2。移植到 CentOS 和 Amazon Linux 需要做出大量小的改编，如 FoundationNetworking 需要切换到不同的 libcurl 版本，Swift 包管理器需要适应 Fedora 包系统，不再依赖 libatomic 等等。 Swift 项目为每一个支持的平台提供了可下载的工具链和 Docker 镜像。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-16T05:53:34Z",
+  "Author": "WinterIsComing"
+}

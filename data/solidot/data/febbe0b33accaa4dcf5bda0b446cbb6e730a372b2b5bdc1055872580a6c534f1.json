@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出补丁修复 112 个安全漏洞",
+  "Link": "https://www.solidot.org/story?sid=66069",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在周二\u003ca href=\"https://www.theregister.com/2020/11/11/patch_tuesday_updates/\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e 11 月例行安全更新，修复了 112 个安全漏洞，其中 17 个为高危级。15 个微软产品受到影响，其中包括  Microsoft Windows、Office、Internet Explorer、Edge (EdgeHTML 和 Chromium 版)、ChakraCore、Exchange Server、Dynamics、Windows Codecs Library、Azure Sphere、Windows Defender、Teams、Azure SDK、Azure DevOps 和 Visual Studio。修复的一个漏洞是 Google 安全团队 Project Zero  在上月底披露的 Windows Kernel Cryptography Driver 漏洞(CVE-2020-17087)，该提权漏洞据信正被利用，因此 Google 提前进行披露。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-11T15:13:32Z",
+  "Author": "WinterIsComing"
+}

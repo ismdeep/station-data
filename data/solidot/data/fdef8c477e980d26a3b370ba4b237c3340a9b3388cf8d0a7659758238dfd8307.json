@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 释出紧急更新修复正被利用的 0day",
+  "Link": "https://www.solidot.org/story?sid=74689",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 释出紧急更新修复了一个正被利用的 0day。编号为 CVE-2023-2033 的漏洞是 Google 旗下 Threat Analysis Group (TAG)的安全研究员 Clément Lecigne 报告的，存在于浏览器使用的 JS 引擎 V8 中，属于类型混淆漏洞。类型混淆允许错误类型的数据访问内存，允许对内存非法读写。Google 称攻击者可通过创建 HTML 页面去利用漏洞。该漏洞被归类为高危级。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://chromereleases.googleblog.com/2023/04/stable-channel-update-for-desktop_14.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-17T13:14:26Z",
+  "Author": "Wilson"
+}

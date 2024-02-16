@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "探索审查 HTTPS 流量的备用“黑盒”",
+  "Link": "https://www.solidot.org/story?sid=69126",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:hxxtom@gmail.com\"\u003e砍猪\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;本年度的 \u003ca href=\"https://conferences.sigcomm.org/sigcomm/2021/workshop-foci.html\"\u003eFOCI 2021 会议\u003c/a\u003e在8月27日以线上 Zoom 会议的形式举行，这也是疫情改变传统学术会议的体现。来自马里兰大学的 Kevin Bock 发表了论文 Even Censors Have a Backup: Examining the GFW’s Double HTTPS Censorship System（\u003ca href=\"https://geneva.cs.umd.edu/papers/foci21.pdf\" target=\"_blank\"\u003ePDF\u003c/a\u003e，\u003ca href=\"https://www.youtube.com/watch?v=ASskHbwnrV4\" target=\"_blank\"\u003e录像\u003c/a\u003e），介绍了对防火长城 SNI 审查机制的新研究，以下是论文的摘要。当用户浏览器发送的 Client Hello 里 SNI 字段有被禁止的值时，审查中间件（Middlebox）就会立即注入3次 RST+ACK，连接即被中断。但论文作者于2019年9月复现时情况发生了变化，作者只观测到一次 RST 注入，且发生在 ClientKeyExchange/CipherSpec 后。作者认为出现这种情况的原因是存在第二个备用的审查中间件（Middlebox RST，记为 MB-R），如果主审查中间件（Middlebox RST+ACK，记为 MB-RA）注入了请求，则备不会注入。为了独立研究备的特性，作者使用了其开发的 \u003ca href=\"https://github.com/kkevsterrr/geneva\"\u003eGeneva 算法\u003c/a\u003e（如利用 TCP 流重组等方法禁用了主的注入）。先前其他人的研究表明注入的可用性为 97%，但这次对备的研究显示它只有 87% 的可用性，而主有 88.2%，两者结合则正好为约 98%。备的注入也是双向的，备也监听全部端口，备和主使用了同样的屏蔽列表。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-01T12:36:06Z",
+  "Author": "blackhat"
+}

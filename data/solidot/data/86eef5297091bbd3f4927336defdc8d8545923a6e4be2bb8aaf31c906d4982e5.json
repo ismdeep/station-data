@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "直升飞机制造商 Kopter 遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=66289",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t直升飞机制造商 Kopter 成为了勒索软件 \u003ca href=\"https://malpedia.caad.fkie.fraunhofer.de/details/win.lockbit\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eLockBit\u003c/a\u003e 的受害者，攻击者在加密公司文件的同时窃取了其内部数据。在 Kopter 拒绝支付赎金之后，LockBit 在其暗网网站上\u003ca href=\"https://www.zdnet.com/article/ransomware-hits-helicopter-maker-kopter/\" target=\"_blank\"\u003e\u003cu\u003e公开了部分文件\u003c/u\u003e\u003c/a\u003e，其中包括商业文件、内部项目，以及多个航空航天和国防工业标准文件。LockBit 背后的运营者声称他们是利用了 Kopter 的弱密码无二步认证的 VPN 应用入侵该公司的内部网络。Kopter 成立于 2007 年，今年初意大利莱昂纳多直升机公司宣布收购 Kopter。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-06T13:51:52Z",
+  "Author": "WinterIsComing"
+}

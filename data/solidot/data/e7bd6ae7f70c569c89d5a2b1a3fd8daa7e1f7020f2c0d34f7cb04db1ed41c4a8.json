@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenZFS 2.0 统一 Linux 和 BSD",
+  "Link": "https://www.solidot.org/story?sid=66259",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tZFS on Linux 项目主开发 Brian Behlendorf \u003ca href=\"https://github.com/openzfs/zfs/releases/tag/zfs-2.0.0\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 OpenZFS 2.0，\u003ca href=\"https://arstechnica.com/gadgets/2020/12/openzfs-2-0-release-unifies-linux-bsd-and-adds-tons-of-new-features/\"\u003e\u003cu\u003e这是一个统一的版本\u003c/u\u003e\u003c/a\u003e，结束了 ZFS on Linux 和 ZFS on BSD 的历史。在 BSD 发行版如 FreeBSD 升级到 OpenZFS 2.0 比较简单，而 Linux 发行版的情况就稍微复杂，绝大部分 Linux 用户需要等待发行版预构建的 OpenZFS 内核模块，而这需要时间，如 Ubuntu 用户可能需要等到明年下半年的 Ubuntu 21.10 才能升级到 OpenZFS 2.0。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-02T13:35:27Z",
+  "Author": "WinterIsComing"
+}

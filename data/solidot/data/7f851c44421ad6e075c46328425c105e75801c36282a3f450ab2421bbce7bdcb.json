@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "域名拼写错误导致美国军方向马里 Web 服务商泄露数百万机密邮件",
+  "Link": "https://www.solidot.org/story?sid=75543",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国军方邮件域名的后缀是.mil，而马里的国家域名是 .ml，美国军方人员经常在发送邮件时因拼写错误而将高度敏感的邮件发送到 .ml 域名。Johannes Zuurbier 是一名荷兰的互联网创业者，他与马里政府签署了长达十年的国家域名管理合同。这份合同即将到期，而马里是俄罗斯的亲密盟友，当合同过期之后，马里当局将会接收到这些发送错误的邮件。Zuurbier 一直试图让美国政府严肃对待这一问题，他控制了逾 11 万封此类邮件，每天收到近千封。他警告美国，这一真实存在的风险可能会被美国的对手利用。\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://it.slashdot.org/story/23/07/17/1117254/typo-leaks-millions-of-us-military-emails-to-mali-web-operator\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-18T06:37:31Z",
+  "Author": "Wilson"
+}

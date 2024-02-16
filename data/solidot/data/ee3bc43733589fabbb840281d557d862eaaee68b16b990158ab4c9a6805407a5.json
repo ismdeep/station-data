@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Project Zero 默认 90 天漏洞披露",
+  "Link": "https://www.solidot.org/story?sid=63202",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Project Zero \u003ca href=\"https://googleprojectzero.blogspot.com/2020/01/policy-and-disclosure-2020-edition.html\" target=\"_blank\"\u003e\u003cu\u003e公布了最新的漏洞披露政策\u003c/u\u003e\u003c/a\u003e：不管有没有修复，它都会在默认 90 天后披露漏洞细节，除非已有协议存在。在这之前，Google Project Zero 的漏洞披露是在 90 天或漏洞修复之后，选择最早的哪个。从 2020 年 1 月 1 日起，新的政策是不管有没有提前修复，漏洞都会在 90 天后披露。Google 安全团队表示，它的目的是补丁的开发能更快更彻底，并能及时推送给用户。改进安全不是发现 bug 或修复 bug，而是让用户知道 bug 和补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-08T09:00:57Z",
+  "Author": "WinterIsComing"
+}

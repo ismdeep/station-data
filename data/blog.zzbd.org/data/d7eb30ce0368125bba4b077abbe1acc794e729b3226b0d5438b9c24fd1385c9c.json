@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "改造foo_uie_lyrics3，有心无力",
+  "Link": "https://blog.zzbd.org/2012/08/26/foo-uie-lyrics3/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e用foobar2000有段时间了，对播放器唯一的要求就是要启动快，音质界面什么的都是次要的。所以只装了foo_uie_lyrics3一个插件用来看歌词。一直都想把 \u003ca href=\"/2011/02/16/music-manager/\"\u003elyrics manager\u003c/a\u003e 整合进去，这样搜索的准确度和速度就大大提高了。今天无意中溜进了插件作者\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://www.hydrogenaudio.org/forums/index.php?showuser=70332\"\u003eThe vern\u003c/a\u003e 的发布帖，原来他早就想到了这点，还特地发布了一个自定义歌词来源的SDK（开源就是好）。赶紧下载下来，用VS2010试着编译了下，不出所料，报了一堆错误。一点点修改源码中的路径错误，终于顺利生成dll文件了。扔到components文件夹里，测试，有效。这说明加上\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://flashlab.info/lyrics-manager/\"\u003elyrics manager\u003c/a\u003e 里的歌词源是完全可行的。正当暗自得意之时，突然发现自己对C++一窍不通。。。然后，然后就没下文了。。。\u003c/p\u003e\u003cp\u003e我把修改后的源码放上来，有兴趣的朋友可以试试。直接解压，用VS2010运行就可以了。\u003c/p\u003e\u003cp\u003e\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://sdrv.ms/OlqqYy\" title=\"http://sdrv.ms/OlqqYy\"\u003ehttp://sdrv.ms/OlqqYy\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2012-08-26T07:42:26Z",
+  "Author": "J. F"
+}

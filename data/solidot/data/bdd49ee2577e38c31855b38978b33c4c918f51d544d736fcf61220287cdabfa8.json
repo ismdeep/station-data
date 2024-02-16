@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软修补了三个正被利用的 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=64131",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在本周二释出的例行更新中，微软\u003ca href=\"https://arstechnica.com/information-technology/2020/04/4-windows-0days-under-active-exploit-get-fixes-in-this-months-update-tuesday/\"\u003e\u003cu\u003e修补了\u003c/u\u003e\u003c/a\u003e三个正被利用执行恶意代码或提权的 0day 漏洞。其中两个 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1020\"\u003eCVE-2020-1020\u003c/a\u003e 和 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0938\" target=\"_blank\"\u003eCVE-2020-0938\u003c/a\u003e 存在于 Adobe Type Manager Library 中，在非 Windows 10 系统中，成功利用漏洞的攻击者能远程执行代码；在 Windows 10 中，攻击者能在 AppContainer 沙盒中运行代码，虽然权限有限制，但仍然能创建账号，使用完整的用户权限安装程序，浏览、修改或删除数据。另一个 0day 漏洞  CVE-2020-1027，利用了 Windows 内核处理内存对象的漏洞进行提权。微软未提供利用漏洞进行攻击的细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-15T14:50:05Z",
+  "Author": "WinterIsComing"
+}

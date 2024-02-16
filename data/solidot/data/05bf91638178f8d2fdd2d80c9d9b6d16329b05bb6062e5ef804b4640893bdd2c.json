@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软的 Rust 实验进展良好",
+  "Link": "https://www.solidot.org/story?sid=62534",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年夏天，微软宣布它将尝试用 Rust 语言取代 C 和 C++ 开发 Windows 底层组件。微软称它过去十年为 Windows 系统释出的安全补丁有七成以上是为了修正与内存相关的错误，而 Rust 语言就是为了解决此类问题而开发出来的。四个月后，\u003ca href=\"https://www.zdnet.com/article/microsofts-rust-experiments-are-going-well-but-some-features-are-missing/\" target=\"_blank\"\u003e\u003cu\u003e微软公布了实验的初步结果\u003c/u\u003e\u003c/a\u003e。Hyper-V 团队工程师 Adam Burch 称，他接受任务用 Rust 实验性重写了一个系统底层组件，他不能指出是哪个组件。虽然项目尚未完成，但他对 Rust 的总体感觉是积极的。总体而言，新的组件或用干净接口的现有组件最容易移植到 Rust。但并非所有事情都如期望的那样顺利。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-08T04:58:58Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Okta 私有代码库被入侵源代码被盗",
+  "Link": "https://www.solidot.org/story?sid=73719",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t身份认证管理服务商 Okta 在一封名为机密信息的邮件中证实它在 GitHub 的私有代码库被入侵源代码被盗。Okta 今年发生了多起安全事故，早些时候黑客组织 Lapsus$ 声称访问了 Okta 管理终端和部分客户数据。最新这起事故是 GitHub 最早发现的，它警告 Okta 其代码库有可疑访问。随后的调查发现黑客拷贝了该公司私有库的源代码，但没有未经授权访问了该公司的系统或客户数据。黑客访问了 Okta Workforce Identity Cloud (WIC)代码库。该公司表示将在公司博客上公布更多信息。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-21T13:59:36Z",
+  "Author": "Wilson"
+}

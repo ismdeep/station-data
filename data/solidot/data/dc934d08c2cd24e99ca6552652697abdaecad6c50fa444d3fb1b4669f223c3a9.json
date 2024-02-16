@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "测试显示微软并没有改变欧洲地区 Edge 浏览器行为",
+  "Link": "https://www.solidot.org/story?sid=76042",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软官方博客上月底表示，最新释出的 Windows 11 Insider Preview Build 23531 将在欧洲经济区（不包括英国）尊重用户的默认浏览器设置，Windows 系统组件将用默认浏览器而不是系统预装的 MS Edge 打开链接。然而测试显示，微软没有改变 Windows 11 的任何行为。AI 助手 Copilot、开始菜单、任务栏和桌面搜索、Windows Spotlight 以及微软第一方应用如 Outlook 等上的 Web 链接仍然强行使用 Edge 打开，没有使用用户默认的浏览器。在挪威和德国的测试结果都一样。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.ctrl.blog/entry/windows-system-components-default-edge.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-11T03:05:24Z",
+  "Author": "Wilson"
+}

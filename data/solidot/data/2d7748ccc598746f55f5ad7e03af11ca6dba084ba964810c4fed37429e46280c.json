@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Swing VPN 是 DDoS 僵尸网络",
+  "Link": "https://www.solidot.org/story?sid=75278",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在苹果 App Store 和 Google PlayStore 作为免费 VPN 服务提供给用户的应用 Swing VPN 被认为会利用用户设备发动 DDOS 攻击。目前无论是苹果还是 Google 都未将 Swing VPN 下架，而仅仅 Google Play 其安装量逾 500 万次。对 Swing VPN 的分析发现，开发者利用了不同的技术混淆和隐藏其恶意行动，使用 github 和 goodle drive 链接下载额外的设置，这些设置文件充当了指令控制机制，秘密发动 DDoS 攻击。比较奇怪的是，它的 DDOS 攻击对象是土库曼斯坦的政府网站。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://apps.apple.com/lv/app/swing-vpn-secure-vpn-proxy/id6447195214\u003cbr/\u003e\nhttps://play.google.com/store/apps/details?id=com.switchvpn.app\u0026amp;hl=en\u0026amp;gl=US\u003cbr/\u003e\nhttps://lecromee.github.io/posts/swing_vpn_ddosing_sites/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-19T05:37:50Z",
+  "Author": "Wilson"
+}

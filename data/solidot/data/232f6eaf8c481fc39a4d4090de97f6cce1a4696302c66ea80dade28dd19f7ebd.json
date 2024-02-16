@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果让 50 个应用豁免防火墙",
+  "Link": "https://www.solidot.org/story?sid=66142",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从去年发布的  macOS Catalina 起，苹果将 50 个应用加入到了防火墙的豁免名单中，即它们的网络流量不会路由经过防火墙。这一豁免直到防火墙在 Big Sur 中重写实现该变动才生效。安全研究人员对此提出了\u003ca href=\"https://arstechnica.com/gadgets/2020/11/apple-lets-some-big-sur-network-traffic-bypass-firewalls/#p3\" target=\"_blank\"\u003e\u003cu\u003e安全方面的担忧\u003c/u\u003e\u003c/a\u003e。安全研究人员 Patrick Wardle 演示了恶意程序如何利用这一机制绕过防火墙的流量屏蔽：防火墙屏蔽所有外出流量，但恶意程序可以设法与列入豁免中的应用进行交互去实现与外界继续通信。苹果还没有给出豁免这些应用的理由，它目前也尚未对此事发表声明。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-19T13:31:28Z",
+  "Author": "WinterIsComing"
+}

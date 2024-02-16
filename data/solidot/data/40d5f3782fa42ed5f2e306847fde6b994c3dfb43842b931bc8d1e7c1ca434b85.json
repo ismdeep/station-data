@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "深圳大疆承诺为其无人机加入本地数据模式",
+  "Link": "https://www.solidot.org/story?sid=65519",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了避免美国的封杀，深圳大疆承诺为其无人机\u003ca href=\"https://www.theregister.com/2020/09/10/dji_local_data_mode_us_potential_ban/\" target=\"_blank\"\u003e\u003cu\u003e加入本地数据模式\u003c/u\u003e\u003c/a\u003e，取消互联网连接，阻止通过互联网传输无人机数据。它还委托 FTI Consulting 对其源代码进行了安全审查。大疆称，它将在未来几个月在 DJI GO4 和 DJI Fly 飞行控制应用中加入“Local Data Mode”。深圳大疆是全球最大的小型无人机供应商，但因为它的总部位于中国深圳，美国正考虑对它的无人机发出禁令。深圳大疆在其网站上公布了委托 FTI Consulting 完成的\u003ca href=\"https://security.dji.com/asset/files/2020_09--FTI%20Cybersecurity--Executive%20Summary%20of%20DJI%20Assessment.pdf\"\u003e\u003cu\u003e安全审查报告\u003c/u\u003e\u003c/a\u003e，检查了它的 2000 万行源代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-12T12:26:20Z",
+  "Author": "WinterIsComing"
+}

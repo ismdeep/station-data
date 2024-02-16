@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Qt 框架加入对应用广告的支持",
+  "Link": "https://www.solidot.org/story?sid=70473",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t广泛使用的 Qt 框架\u003ca href=\"https://www.qt.io/blog/monetizing-cross-platform-use-cases-faster-and-easier-with-qt-digital-advertising-platform\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e加入对客户端应用广告的支持。广告插件支持桌面移动多个平台，其中包括 Windows 10、Ubuntu 20.04、Raspbian Buster、macOS、Android 7.0 和 iOS。Qt 在新闻稿中夸张的宣称要颠覆物联网行业，支持新的商业模式和业务。看起来 Qt 想要给正渗透到生活各个方面的物联网设备引入广告。很多人对此表示\u003ca href=\"https://tech.slashdot.org/story/22/01/22/1751259/kde-powering-qts-new-framework-lets-developers-bring-ads-into-their-apps\"\u003e强烈反感\u003c/a\u003e。KDE 桌面环境就基于 Qt 框架。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-24T05:18:59Z",
+  "Author": "WinterIsComing"
+}

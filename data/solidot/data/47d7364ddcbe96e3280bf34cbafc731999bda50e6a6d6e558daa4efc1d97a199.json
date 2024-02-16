@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Hyperbola GNU/Linux 变成 BSD 发行版",
+  "Link": "https://www.solidot.org/story?sid=63107",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因为不满 Linux 内核现状，一个基于 Linux 的发行版\u003ca href=\"https://www.hyperbola.info/news/announcing-hyperbolabsd-roadmap/\"\u003e\u003cu\u003e决定切换到 BSD\u003c/u\u003e\u003c/a\u003e。Hyperbola GNU/Linux 是一个获得自由软件基金会\u003ca href=\"https://www.gnu.org/distros/free-distros.en.html\"\u003e\u003cu\u003e认证\u003c/u\u003e\u003c/a\u003e的 GNU/Linux 发行版，但现在它决定在 OpenBSD 内核基础上创建一个新版本，改名为 HyperbolaBSD。它在宣布声明中例举了 Linux 内核的种种问题：Linux 内核强迫采用 DRM，包括 HDCP；Linux 内核提议使用 Rust( Rust 包含了一个中心化的代码库，被认为在软件自由上有缺陷）；Linux 内核在开发时没有将安全放在重要位置；众多 GNU 用户空间和核心工具全都强迫采用功能，而在构建时没有提供选项关闭这些功能，如 PulseAudio / SystemD / Rust / Java。Hyperbola 称其 Linux 发行版将一直支持到 2022 年，未来的版本都将使用 HyperbolaBSD。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-30T07:01:38Z",
+  "Author": "WinterIsComing"
+}

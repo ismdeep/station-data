@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "REvil 被发现其勒索软件含有秘密后门",
+  "Link": "https://www.solidot.org/story?sid=69133",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t勒索软件已演变成一种服务，有下线帮助传播恶意程序，并从受害者支付的赎金中获得提成。但最近再次活跃的勒索软件 REvil \u003ca href=\"https://www.zdnet.com/article/these-ransomware-crooks-are-complaining-they-are-getting-ripped-off-by-other-ransomware-crooks/\" target=\"_blank\"\u003e\u003cu\u003e被发现含有秘密后门\u003c/u\u003e\u003c/a\u003e，能让上线的黑客接管与受害者的协商，不给下线提成。在俄语黑客论坛，REvil 的下线抱怨赎金被上线卷走了。一位用户表示早就怀疑  REvil 的策略，他们与一名受害者讨论 700 万美元赎金，但协商突然结束了，他们相信是 REvil 的一名作者使用后门接管了赎金谈判。想要拿回提成是不太可能的，因为这就好像要对斯大林进行仲裁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-03T14:40:06Z",
+  "Author": "WinterIsComing"
+}

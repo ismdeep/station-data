@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客组织以中国核能机构为攻击目标",
+  "Link": "https://www.solidot.org/story?sid=74506",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t被认为来自南亚的黑客组织 Bitter APT 最近正以中国核能机构为攻击目标。安全公司 Intezer 报告，在最近的行动中，Bitter APT 伪装成吉尔吉斯斯坦驻北京大使馆向中国核能公司和该领域的学者发送钓鱼邮件，邀请他们参加吉尔吉斯斯坦大使馆等主办的一个核能会议。邮件签名者是真实存在的，是吉尔吉斯斯坦外交部的一名官员。但邮件附件是恶意的，会执行一系列行动释放恶意负荷。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.intezer.com/blog/research/phishing-campaign-targets-nuclear-energy-industry/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-27T14:56:22Z",
+  "Author": "Wilson"
+}

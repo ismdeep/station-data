@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WinRAR 高危漏洞允许黑客在用户打开压缩文件时运行程序",
+  "Link": "https://www.solidot.org/story?sid=75841",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWinRAR 修复了一个高危漏洞 CVE-2023-40477，该漏洞允许远程攻击者通过引诱受害者打开一个特制的 RAR 压缩文件去执行任意代码。该漏洞需要欺骗用户因此危险等级评分略低为 7.8/10。该漏洞是 Zero Day Initiative 的 研究员 goodbyeselene 发现的，2023 年 6 月 8 日报告给开发商 RARLAB，漏洞存在于恢复卷处理过程中，是未能正确验证用户提供的数据导致的。RARLAB 在 8 月 2 日释出 WinRAR v6.23 修复了该漏洞。WinRAR 用户需要尽可能快的升级。WinRAR v6.23 还修复了另一个会导致错误文件初始化的漏洞。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-1152/\u003cbr/\u003e\nhttps://www.win-rar.com/singlenewsview.html?\u0026amp;L=0\u0026amp;tx_ttnews%5Btt_news%5D=232\u0026amp;cHash=c5bf79590657e32554c6683296a8e8aa\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-19T11:24:48Z",
+  "Author": "Wilson"
+}

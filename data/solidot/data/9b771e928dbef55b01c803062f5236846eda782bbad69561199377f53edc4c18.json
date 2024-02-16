@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Haiku R1B3 发布",
+  "Link": "https://www.solidot.org/story?sid=68378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源 BeOS 操作系统 Haiku \u003ca href=\"https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e第三个 beta 版本 R1B3。BeOS 操作系统在 2001 年被 Palm 收购后停止开发，Haiku 项目在这之后不久正式启动，2002 年发布了首个版本，2012 年发布 Haiku R1 Alpha 4.1，六年后发布了 Haiku R1/beta1。2020 年发布 beta2，7 月 25 日发布 R1/beta3，开发者表示加快发布频率是为了向用户和开发者提供最新最稳定的平台。beta 版本意味着它的功能已经完整，但还存在已知或未知的 bug。新版的主要变化包括：更好的安装流程，改进硬件驱动，改进内置浏览器 WebPositive 的稳定性和兼容性，淘汰 Python 2 让 Python 3 成为默认安装的版本，改进 POSIX 兼容性，bug 修复等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-26T09:48:47Z",
+  "Author": "WinterIsComing"
+}

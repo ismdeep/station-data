@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目宣布用 Rust 重写协议",
+  "Link": "https://www.solidot.org/story?sid=68255",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目\u003ca href=\"https://blog.torproject.org/announcing-arti\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e用 Rust 语言重写 Tor 协议，新的实现被称为 \u003ca href=\"https://gitlab.torproject.org/tpo/core/arti/\"\u003e\u003cu\u003eArti\u003c/u\u003e\u003c/a\u003e，他们已经在该项目上工作了一年多时间，得到了 \u003ca href=\"https://grants.zfnd.org/proposals/215972995-arti-a-pure-rust-tor-implementation-for-zcash-and-beyond\"\u003eZcash Open Major Grants (ZOMG\u003c/a\u003e）的赞助，将作为优先任务投入更多时间开发。开发者称，Tor 协议是用 C 语言开发的，它相比现代语言缺乏高级功能，使得许多编程任务变得非常复杂，C 编程是一个缓慢而辛苦的过程，增加了引入新功能所需的成本。Rust 作为一种现代语言，除了具有高级功能外还特别注重了安全性，这对于编程和调试，以及安全和可靠性来说都是利好，比如更容易实现多线程加密。开发者原计划慢慢的逐步用 Rust 写的模块替换 C 模块，但发现不行，因为 C 模块之间的关系过于紧密，因此决定完全重写。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-12T03:04:37Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 帮助维基百科整理引用链接",
+  "Link": "https://www.solidot.org/story?sid=76407",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t引用对维基百科至关重要，但它的引用经常会指向已失效的链接、不正确的信息或不可靠的来源。Samaya AI 公司的研究人员开发了神经网络系统 SIDE，能帮助维基百科整理其条目中不准确或不完整的参考来源，提高其质量和可靠性。系统能分析引用来源是否能支持条目中的相关断言，为不支持的引用提供更好的参考来源。该工具能为维基百科的编辑和内容审核者节省时间。\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.nature.com/articles/d41586-023-02894-x\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-20T15:07:44Z",
+  "Author": "Wilson"
+}

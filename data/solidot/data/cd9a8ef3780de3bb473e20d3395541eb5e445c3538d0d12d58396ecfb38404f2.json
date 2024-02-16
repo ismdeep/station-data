@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "REvil 运营者再次表示将终止活动",
+  "Link": "https://www.solidot.org/story?sid=69294",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯勒索软件组织 REvil 今年 7 月突然从暗网消失，但在 9 月再次现身。现在，REvil 的一位运营者 0_neday 在 XSS 论坛上\u003ca href=\"https://www.zdnet.com/article/revil-ransomware-operators-claim-group-is-ending-activity-again-happy-blog-now-offline/\" target=\"_blank\"\u003e\u003cu\u003e称有人控制了该组织的  Tor 支付入口和数据泄露网站\u003c/u\u003e\u003c/a\u003e。0_neday 解释说，在 REvil 组织内部只有两个人——他和 Unknown 拥有 REvil 的域名密钥，Unknown 在 7 月消失被认为已经死亡，但上个周末有人用 Unknown 的密钥访问了  REvil 的域名。0_neday 声称 REvil 服务器被入侵，有人正在找他，表示要跑路了，“祝每个人好运”。专家认为，一种可能性是 Unknown “复活”不满意现状，还有一种可能性是在上一次关闭期间政府机构渗透进入了服务器获得了  Unknown 的密钥，决定现在采取行动。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T12:48:32Z",
+  "Author": "WinterIsComing"
+}

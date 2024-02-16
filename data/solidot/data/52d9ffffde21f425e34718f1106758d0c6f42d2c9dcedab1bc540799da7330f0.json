@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Git 服务器配置错误尼桑软件源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=66591",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t尼桑北美公司的一台 Git 服务器配置错误，导致其移动 APP 和内部工具的源代码\u003ca href=\"https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/\" target=\"_blank\"\u003e\u003cu\u003e泄露在网上\u003c/u\u003e\u003c/a\u003e。这台暴露在网上的服务器使用了默认的管理账号和密码 admin/admin。软件工程师 Tillie Kottmann 从匿名消息源获悉之后对服务器进行了分析，发现它包含了尼桑 Nissan NA Mobile 应用、ASIST 诊断工具、内部核心移动库等的源代码。在数据通过  torrent 种子文件的形式进行传播之后，服务器已被下线。尼桑公司发言人表示已经知道此事。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-07T09:51:19Z",
+  "Author": "WinterIsComing"
+}

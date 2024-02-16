@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用户的浏览历史是独一无二的",
+  "Link": "https://www.solidot.org/story?sid=65389",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2012 年，法国和 Google 的研究人员分析了 382,269 名用户的浏览历史所构成的大型数据集，调查浏览历史是否能作为指纹跟踪用户。研究人员\u003ca href=\"https://hal.inria.fr/hal-00747841/document\" target=\"_blank\"\u003e\u003cu\u003e发现（PDF）\u003c/u\u003e\u003c/a\u003e，绝大部分用户的浏览历史是独一无二的，并且相当稳定，可作为指纹使用。在本月举行的 USENIX 会议上，Mozilla 的研究人员\u003ca href=\"https://www.usenix.org/system/files/soups2020-bird.pdf\"\u003e\u003cu\u003e重复了这项研究并进行了延申\u003c/u\u003e\u003c/a\u003e（PDF）。研究人员使用的数据集包含了 5.2 万名 Firefox 用户在两周内的浏览历史，分析显示了 48,919 个可区分的浏览资料，即 99% 的浏览历史是独一无二的。超过八成用户可通过浏览历史重新识别身份。研究人员还发现，只需要考虑 50 个最流行网站就足以获得独特指纹。这项研究凸显出收集浏览历史所带来的\u003ca href=\"https://blog.lukaszolejnik.com/web-browsing-histories-are-private-personal-data-now-what/\" target=\"_blank\"\u003e\u003cu\u003e个人隐私问题\u003c/u\u003e\u003c/a\u003e，研究人员称他们发现大量第三方在收集用户浏览历史将其作为标识符使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-30T10:26:54Z",
+  "Author": "WinterIsComing"
+}

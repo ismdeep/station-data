@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Lyft 研究发现 OpenStreetMap 地图质量非常高",
+  "Link": "https://www.solidot.org/story?sid=66924",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t受维基百科启发的开放地图项目 OpenStreetMap 的地图质量\u003ca href=\"https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec\" target=\"_blank\"\u003e\u003cu\u003e被发现非常高\u003c/u\u003e\u003c/a\u003e。和维基百科一样，OpenStreetMap（OSM） 允许任何人对地图进行编辑，是目前规模最大的地理空间知识众包库。打车软件公司 Lyft 的地图是基于 OSM，它对地图的精确度展开了研究。结果显示，在它研究的 30 个北美城市中，OSM 有着高质量的公路网；在维护地图的可靠性上社区是值得信赖的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-12T11:44:02Z",
+  "Author": "WinterIsComing"
+}

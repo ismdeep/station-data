@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 承诺修正城市内的 GPS 精度",
+  "Link": "https://www.solidot.org/story?sid=66302",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因为摩天大楼会反射 GPS 信号，城市内的 GPS 定位经常不太准确。Google 表示它能修正这个问题为用户提供更精确的定位。Google \u003ca href=\"https://android-developers.googleblog.com/2020/12/improving-urban-gps-accuracy-for-your.html\"\u003e\u003cu\u003e正在开发一个更新\u003c/u\u003e\u003c/a\u003e，利用 Google Maps 的 3D 建筑物数据去计算建筑物如何干扰 GPS，Android 版本的新 3D 测绘辅助修正模块将能修正 GPS 反射。Google  称，城市内的定位将能获得显著的改进，能将街道错误发生的情况减少 75%。3D 测绘辅助修正模块是  Google Play Services 的 Fused Location Provider API (FLP)的一部分，新的定位系统将推送给 Android 用户。它能在全世界 3,850 个城市内工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-08T06:15:47Z",
+  "Author": "WinterIsComing"
+}

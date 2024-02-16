@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究显示 Android 手机会收集传输大量数据",
+  "Link": "https://www.solidot.org/story?sid=69221",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t都柏林三一学院的研究人员调查了不同 Android 厂商手机的数据收集情况，\u003ca href=\"https://www.tcd.ie/news_events/articles/study-reveals-scale-of-data-sharing-from-android-mobile-phones/\" target=\"_blank\"\u003e\u003cu\u003e公布了调查结果\u003c/u\u003e\u003c/a\u003e。研究人员发现，三星、小米、华为和 Realme 的手机都会向厂商传输大量数据，会向预装的系统应用开发商如 Google、Microsoft、Heytap、LinkedIn 和 Facebook 传输大量数据。Android 社区 Mod LineageOS 也会传输相似规模的数据到 Google 服务器（被\u003ca href=\"https://news.ycombinator.com/item?id=28830328\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e与可选择安装的 OpenGapps 有关），但开发者本身并不收集数据，除 Google 之外的预装系统应用也不收集数据。值得一提的是，LineageOS/Android 的另一个自由软件分支 /e/OS 不向开发者、Google 或其它第三方发送数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-13T12:07:15Z",
+  "Author": "WinterIsComing"
+}

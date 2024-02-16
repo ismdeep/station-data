@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 和 Valve 合作改进 Linux 下的 CPU 性能调整",
+  "Link": "https://www.solidot.org/story?sid=68445",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tValve 准备在今年年底发售配备 AMD APU 的 Linux 掌机，利用 Steam Play (Proton / Wine) 兼容层运行原本只支持 Windows 操作系统的游戏。但掌机必须为延长使用时间而进行性能方面的优化，但 AMD 调整 CPU 频率和功耗的驱动  ACPI CPUFreq 在 Linux 下工作并不理想。现在 AMD 和 Valve \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=AMD-Valve-New-CPU-Freq\"\u003e\u003cu\u003e正在合作改进该方面的工作\u003c/u\u003e\u003c/a\u003e。AMD 将在下个月的  XDC 大会上公布更多细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-03T07:33:28Z",
+  "Author": "WinterIsComing"
+}

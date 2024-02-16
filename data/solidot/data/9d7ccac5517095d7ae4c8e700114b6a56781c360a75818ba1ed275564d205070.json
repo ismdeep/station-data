@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 能预测未来两小时内是否会下雨",
+  "Link": "https://www.solidot.org/story?sid=69124",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在《自然》期刊上的\u003ca href=\"https://www.nature.com/articles/s41586-021-03854-z\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e，AI 能预测未来两小时内\u003ca href=\"https://science.slashdot.org/story/21/09/30/2128246/ai-can-predict-if-it-will-rain-in-two-hours-time\" target=\"_blank\"\u003e\u003cu\u003e是否会下雨\u003c/u\u003e\u003c/a\u003e。Google 旗下的 DeepMind 和 Exeter 大学与英国气象局合作构建了即时预报系统。传统方法使用复杂方程式预报天气通常只能预报六小时到两周内的天气，新的 AI 系统能做出更精确的短期预报，包括重要的风暴和洪水。系统首先学习如何识别常见降雨模式，使用 2016 到 2018 年的英国雷达地图训练，然后在 2019 年的雷达地图上进行测试，50 名英国气象局气象学家发现，测试结果的正确率能达到 89%。DeepMind 的高级科学家 Shakir Mohamed 表示现在就采用 AI 系统还为时过早，但实验表明 AI 确实是一种强有力的工具。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-01T10:54:12Z",
+  "Author": "WinterIsComing"
+}

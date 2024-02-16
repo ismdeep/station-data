@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 最新更新破坏了部分型号打印机的功能",
+  "Link": "https://www.solidot.org/story?sid=64650",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软本周释出了例行安全更新，根据用户的反馈，安全更新给部分型号的打印机\u003ca href=\"https://hardware.slashdot.org/story/20/06/12/209210/windows-10s-latest-updates-are-causing-havoc-on-printers\" target=\"_blank\"\u003e\u003cu\u003e造成了严重问题\u003c/u\u003e\u003c/a\u003e。在累积更新释出之后，日本理光打印机用户\u003ca href=\"https://www.reddit.com/r/msp/comments/h0jie2/202006_rollup_kb4560960_and_printing/\" target=\"_blank\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e之前正常工作的打印机出现了无法打印等问题，回滚或更换驱动能解决部分问题。日本兄弟、佳能、京瓷、惠普、东芝和松下等公司部分型号的打印机也都遭遇问题。\n微软工程师\u003ca href=\"https://answers.microsoft.com/en-us/windows/forum/all/unable-to-print-after-installing-update-kb4560960/9c1ecffd-bbc8-44f7-a9d8-23854771c8e3?auth=1\u0026amp;ranMID=24542\u0026amp;ranEAID=kXQk6*ivFEQ\u0026amp;ranSiteID=kXQk6.ivFEQ-Z2w9bjCNY84PDG6EiVxIcQ\u0026amp;epi=kXQk6.ivFEQ-Z2w9bjCNY84PDG6EiVxIcQ\u0026amp;irgwc=1\u0026amp;OCID=AID2000142_aff_7593_1243925\u0026amp;tduid=(ir__p9zfaxlg1wkftii1kk0sohzize2xneil6kgxjsch00)(7593)(1243925)(kXQk6.ivFEQ-Z2w9bjCNY84PDG6EiVxIcQ)()\u0026amp;irclickid=_p9zfaxlg1wkftii1kk0sohzize2xneil6kgxjsch00\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e他们已经知道这个问题，正在开发新补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-13T05:18:47Z",
+  "Author": "WinterIsComing"
+}

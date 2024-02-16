@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "物理学家发现了导电但不导热的金属",
+  "Link": "https://www.solidot.org/story?sid=62824",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t物理学家\u003ca href=\"https://www.sciencealert.com/physicists-identify-a-metal-that-conducts-electricity-but-not-heat\"\u003e\u003cu\u003e确定了一种导电但不导热的金属\u003c/u\u003e\u003c/a\u003e，这是一种非常有用的属性，但违背了我们对导体如何工作的理解。19 世纪发现的\u003ca href=\"https://en.wikipedia.org/wiki/Wiedemann_franz_law\" target=\"_blank\"\u003e\u003cu\u003e维德曼–夫兰兹定理（Wiedemann-Franz Law）\u003c/u\u003e\u003c/a\u003e描述了金属电导率和热导率之间的关系，该定理基本上声明良好的电导体同时也是良好的热导体，这也是电动机和电器使用时会变热的原因。2017 年发现的金属二氧化钒(VO2)违背了这一定理，它的另一个特殊属性是 67 摄氏度时会从透明绝缘体变为金属导体。研究人员在分析了其中的电子后认为，它导电但不导热的原因是二氧化钒中的电子量只有维德曼–夫兰兹定理预言的十分之一，电子像流体一样协调运动，不同于普通金属。对电子来说，热是一种随机运动，普通金属能有效传递热是因为有足够的微观态（microscopic configurations）让个别电子在其间跳跃，而二氧化钒没有这么多的微观态。这种金属未来也许可用于将废热转化为电能，或创造出保持建筑物凉爽的窗帘。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-03T09:30:09Z",
+  "Author": "ai"
+}

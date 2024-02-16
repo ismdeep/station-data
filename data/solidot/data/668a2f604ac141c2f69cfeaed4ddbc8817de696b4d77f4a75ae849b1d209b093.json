@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊发布 Amazon Linux 2022 预览版",
+  "Link": "https://www.solidot.org/story?sid=69733",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊\u003ca href=\"https://aws.amazon.com/cn/about-aws/whats-new/2021/11/preview-amazon-linux-2022/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e用于其 AWS 云服务的 Amazon Linux 2022（AL 2022） 的公开预览版本。AL 2022 是基于 Fedora 发行版，能为客户提供软件的最新版本，如最新的语言运行时。此外 AL2022 默认启用和执行 SELinux。从  AL2022 开始，Amazon Linux 将每两年发布一个大版本，每个版本支持五年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-24T05:43:26Z",
+  "Author": "WinterIsComing"
+}

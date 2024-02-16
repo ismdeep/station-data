@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RIPE NCC 分配了它最后的 IPv4 地址空间",
+  "Link": "https://www.solidot.org/story?sid=62748",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t负责英国、欧洲、中东和部分中亚地区互联网资源分配的欧洲网络协调中心（RIPE NCC）\u003ca href=\"https://www.ripe.net/publications/news/about-ripe-ncc-and-ripe/the-ripe-ncc-has-run-out-of-ipv4-addresses\"\u003e\u003cu\u003e分配了\u003c/u\u003e\u003c/a\u003e它最后的 /22 IPv4 地址空间储备池。这并不意味着 IPv4 地址空间完全枯竭。RIPE 还会从停止运营或需求减少的企业和机构手中回收 IPv4 地址，但少量回收的地址是远远无法满足需求的。RIPE 未来将只会向过去从未分配到 IPv4 地址的实体分配地址，它在声明中表示，这一事件是迈向全球 IPv4 地址空间枯竭的又一步。新兴的\n IPv4 流转市场和运营级网络地址转换（Carrier Grade Network Address Translation 或 CGNAT）虽然能延缓但无法解决真正的问题。它呼吁大规模部署 IPv6。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-26T11:15:41Z",
+  "Author": "WinterIsComing"
+}

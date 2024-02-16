@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 OCSP 事故暴露出它的不道德",
+  "Link": "https://www.solidot.org/story?sid=66351",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月中旬，苹果用户\u003ca href=\"https://www.solidot.org/story?sid=66084\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e应用程序失去响应或需要数分钟时间才能启动运行。问题是苹果 OCSP（Online Certificate Status Protocol）服务器宕机导致的，此事暴露出苹果会收集用户在苹果系统启动的每一个应用程序的信息。苹果随后\u003ca href=\"https://www.solidot.org/story?sid=66103\"\u003e\u003cu\u003e承诺\u003c/u\u003e\u003c/a\u003e停止记录用户 IP 地址，将确保所有任何收集的 IP 地址从日志里移除，明年将提供关闭的选项。自由软件基金会对这起事故\u003ca href=\"https://www.fsf.org/news/the-problems-with-apple-arent-just-outages-they-are-injustices\" target=\"_blank\"\u003e\u003cu\u003e发表文章\u003c/u\u003e\u003c/a\u003e称，苹果的做法在道德上是不可接受的，认为无法确保苹果是否值得信任，是否能真正改进隐私保护，因为 OCSP 系统的基础是关于征服而不是安全。FSF 建议苹果用户转移到 GNU/Linux，因为选择自由而不是选择企业独裁主义是重新获得数字自主权控制自己的计算机的最重要一步。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-13T15:31:40Z",
+  "Author": "WinterIsComing"
+}

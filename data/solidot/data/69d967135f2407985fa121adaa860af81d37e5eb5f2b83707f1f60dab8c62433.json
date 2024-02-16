@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学证明特定类时空是不稳定的",
+  "Link": "https://www.solidot.org/story?sid=64338",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t爱因斯坦真空方程式的三个解是 Minkowski 时空、de Sitter 和 anti-de Sitter 时空，分别对应零曲率、正曲率和负曲率。数学家分别在 1986 年和 1993 年证明 de Sitter 和 Minkowski 时空都是稳定的，证明 anti-de Sitter（AdS)）时空是否稳定花了更长的时间。但数学界的普遍共识是它是不稳定的。不稳定意味着任何小的变化都可能导致时空本身的崩溃。四年前，当时在普林斯顿大学读博现在在加州伯克利做博后的数学家 Georgios Moschidis 被导师 Mihalis Dafermos 分配了一个任务：证明 AdS 时空是否稳定。这不是简单的任务，但 Moschidis 现有的工作已足以让他获得博士学位，所以导师鼓励他去尝试挑战重大难题。他最终\u003ca href=\"https://www.quantamagazine.org/black-holes-prove-that-anti-de-sitter-space-time-is-unstable-20200511/\" target=\"_blank\"\u003e\u003cu\u003e从数学上证明了 AdS 时空是不稳定的\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-12T08:17:10Z",
+  "Author": "WinterIsComing"
+}

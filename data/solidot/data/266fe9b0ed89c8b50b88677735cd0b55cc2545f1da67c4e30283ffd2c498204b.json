@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌兹别克斯坦黑客组织在有卡巴斯基的机器上测试病毒",
+  "Link": "https://www.solidot.org/story?sid=62178",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡巴斯基研究人员\u003ca href=\"https://www.vice.com/en_us/article/3kx5y3/uzbekistan-hacking-operations-uncovered-due-to-spectacularly-bad-opsec\"\u003e曝光了\u003c/a\u003e一个与乌兹别克斯坦国家安全局有关联的黑客组织，原因是该黑客组织在安装有卡巴斯基杀毒软件的机器上测试恶意程序。乌兹别克斯坦不以网络间谍能力著称，但它的国安局有足够的钱去购买商业间谍软件。卡巴斯基称，乌兹别克斯坦购买了以色列公司 NSO Group 和 Candiru 开发的间谍软件。然而除了有钱外，乌兹别克斯坦的黑客组织看起来缺乏基本的常识。黑客组织不停的购买各种 0day 漏洞，但拿到了储存恶意程序的 U 盘之后他们就将其插到了安装卡巴斯基的机器上，卡巴斯基自动将恶意程序样本上传到了它的服务器上，而上传的域名关联到了国安局。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-08T09:42:38Z",
+  "Author": "wenfeixiang"
+}

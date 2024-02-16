@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 招聘广告要求候选人有 12 年的 Kubernetes 管理经验，而 Kubernetes 只有 6 年历史",
+  "Link": "https://www.solidot.org/story?sid=64968",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 的 Global Technology Services 发布了一则招聘广告，要求候选人有至少 12 年的 Kubernetes 管理经验。然而问题是 Kubernetes 项目最早的 commit 是在 2014 年 6 月 7 日递交的，1.0 版本是在 2015 年 5 月 22 日发布的。换句话说 Kubernetes \u003ca href=\"https://www.theregister.com/2020/07/13/ibm_kubernetes_experience_job_ad/\" target=\"_blank\"\u003e\u003cu\u003e只有 6 年历史\u003c/u\u003e\u003c/a\u003e，没有人有 12 年经验。\u003ca href=\"https://intellijobs.ai/job/IBMCloud-Native-Infrastructure-Engineer-Architect-bvJJ6yraexfWOk1nMRKP-bvJJ6yraexfWOk1nMRKP\"\u003e\u003cu\u003e这则广告\u003c/u\u003e\u003c/a\u003e至今没有修改。蓝色巨人不是唯一一个会犯此类愚蠢错误的公司。FastAPI 和 Typer 作者 Sebastián Ramírez 看到一则招聘广告，要求有 4 年以上的 FastAPI 经验。他说他自己也无法申请，因为 FastAPI 诞生至今只有 1.5 年的历史。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-16T15:24:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 年内第六次修复正被利用的 0day",
+  "Link": "https://www.solidot.org/story?sid=72701",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChrome 释出\u003ca href=\"https://chromereleases.googleblog.com/2022/09/stable-channel-update-for-desktop.html\"\u003e\u003cu\u003e紧急更新\u003c/u\u003e\u003c/a\u003e，修复正被利用的高危 0day 漏洞。该漏洞是 Mojo 组件数据验证不足导致的，编号为 CVE-2022-3075。基于 Chromium 的 Microsoft Edge 也释出\u003ca href=\"https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security\" target=\"_blank\"\u003e\u003cu\u003e更新\u003c/u\u003e\u003c/a\u003e修复相同的漏洞。最新的紧急更新是今年至今 Chrome 浏览器第六次修复 0day：\u003ca href=\"https://chromereleases.googleblog.com/2022/02/stable-channel-update-for-desktop_14.html\"\u003eCVE-2022-0609\u003c/a\u003e（二月）、\u003ca href=\"https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_25.html\"\u003eCVE-2022-1096\u003c/a\u003e（三月）、\u003ca href=\"https://chromereleases.googleblog.com/2022/04/stable-channel-update-for-desktop_14.html\"\u003eCVE-2022-1364\u003c/a\u003e（四月）、\u003ca href=\"https://chromereleases.googleblog.com/2022/07/stable-channel-update-for-desktop.html\"\u003eCVE-2022-2294\u003c/a\u003e（七月） 和 \u003ca href=\"https://chromereleases.googleblog.com/2022/08/stable-channel-update-for-desktop_16.html\"\u003eCVE-2022-2856\u003c/a\u003e（八月）。\n\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-07T08:00:08Z",
+  "Author": "WinterIsComing"
+}

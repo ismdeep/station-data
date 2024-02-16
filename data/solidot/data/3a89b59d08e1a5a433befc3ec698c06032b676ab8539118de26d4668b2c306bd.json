@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "量子计算机如何纠正错误",
+  "Link": "https://www.solidot.org/story?sid=69649",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1994 年，当时在新泽西州贝尔实验室工作的数学家 Peter Shor 证明量子计算机能以指数倍于经典计算机的速度解决某些问题。当时的问题是：量子计算机能造出来吗？怀疑论者认为量子态太过精微——环境不可避免地会搞乱量子计算机中的信息，使其不再是量子。\n\u003cbr/\u003e\n\u003cbr/\u003e\n一年后，Shor 做出回应。经典的纠错方案测量单个比特以检查错误，但这种方法不适用于 qubit 或“量子比特”，因为任何测量都会破坏量子状态，从而破坏计算。Shor 提出一种方法无需测量量子比特本身状态检测是否发生错误。Shor 的代码标志着量子纠错领域的开端。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这个领域发展迅速。大多数物理学家将其视为构建强大量子计算机的唯一途径。加州理工学院的物理学家 John Preskill表 示：“没有纠错，我们将无法将量子计算机扩展到可解决真正困难问题的程度。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n与通常的量子计算一样，开发纠错代码是一回事，在工作机器中实现它则是另一回事。在今年 10 月初，由马里兰大学物理学家 Chris Monroe 领导的研究人员\u003ca href=\"https://www.nature.com/articles/s41586-021-03928-y\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/\" target=\"_blank\"\u003e\u003cu\u003e他们演示了运行像 Shor一样的纠错电路所需的许多要素\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-17T09:51:22Z",
+  "Author": "wanwan"
+}

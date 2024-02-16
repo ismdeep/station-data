@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Comcast 用户在下载 Ubuntu 之后收到 DMCA 侵权通知",
+  "Link": "https://www.solidot.org/story?sid=67892",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上\u003ca href=\"https://www.reddit.com/r/linux/comments/nkztyv/copyright_notice_from_isp_for_pirating_linux_is/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf7231a3a660e86892707d25c135533a16a，而它正是 Canonical 官方 ISO 镜像\u003ca href=\"https://torrent.ubuntu.com/tracker_index\"\u003e\u003cu\u003e 64 位 Ubuntu 20.04.2.0 LTS\u003c/u\u003e\u003c/a\u003e 的值。通过 BT 下载  Ubuntu 与侵权显然毫无关系。这起事件再次\u003ca href=\"https://news.slashdot.org/story/21/05/26/2012228/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu\" target=\"_blank\"\u003e\u003cu\u003e凸显了\u003c/u\u003e\u003c/a\u003e反盗版组织滥用 DMCA 通知的问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-28T07:56:17Z",
+  "Author": "WinterIsComing"
+}

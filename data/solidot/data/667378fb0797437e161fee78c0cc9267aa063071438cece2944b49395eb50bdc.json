@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RIPE NCC 即将耗尽 IPv4 地址空间",
+  "Link": "https://www.solidot.org/story?sid=62403",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t负责英国、欧洲、中东和部分中亚地区互联网资源分配的欧洲网络协调中心（RIPE NCC）\u003ca href=\"https://www.ispreview.co.uk/index.php/2019/10/this-time-there-really-are-no-ipv4-internet-addresses-left.html\"\u003e\u003cu\u003e 宣布\u003c/u\u003e\u003c/a\u003e它最后的 IPv4 地址空间储备池将在 11 月内完全耗尽。IPv4 地址空间枯竭早就“狼来了”许多年，大部分 ISP 和设备都已经做好了准备，逐步加入了对 IPv6 的支持。中国最大 ISP 中国电信最近也加快了 IPv6 的部署，最新\u003ca href=\"http://www.worldipv6launch.org/apps/ipv6week/measurement/images/graphs/ChinaTelecom.png\"\u003e\u003cu\u003e数据\u003c/u\u003e\u003c/a\u003e显示它的  IPv6 普及率已经超过了 10%，比一年前\u003ca href=\"https://www.solidot.org/story?sid=56783\"\u003e\u003cu\u003e不到 1%\u003c/u\u003e\u003c/a\u003e 要好得多。RIPE NCC 发言人建议网络运营商估算下手中的 IP 资源，确保 IPv6 部署取得进展。大部分网络资源协调中心的 IPv4 地址空间都已枯竭，但运营商手中还有很多 IPv4 地址空间可用，所以协调中心的 IPv4 资源没有了，并不意味着没有了可分配的  IPv4 地址。此外，无类别域间路由、网络地址转换（NAT）、运营级 NAT 等都在延长 IPv4 的寿命。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-29T04:33:33Z",
+  "Author": "wenfeixiang"
+}

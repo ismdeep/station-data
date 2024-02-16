@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 21.3 发布",
+  "Link": "https://www.solidot.org/story?sid=77137",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux Mint 发行版释出了 v21.3，该版本基于 Ubuntu 22.04 LTS，默认使用 Linux 5.15 kernel，安装时可选择更新到新版本内核。Linux Mint 发行版的桌面环境 Cinnamon 首次实验性的加入了对 Wayland 的支持，但默认不启用，开发者预计要到 2026 年对 Wayland 的支持足够成熟之后才会默认启用。用户可以在登陆屏幕会话选择器中选择 Cinnamon on Wayland (Experimental) 试用 Wayland。Linux Mint 21.3 包含了大量大大小小的改进和增强，可以更方便制作可引导的 U 盘。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.linuxmint.com/rel_virginia_whatsnew.php\u003cbr/\u003e\nhttps://linuxmint.com/download.php\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-15T13:17:50Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布 Radeon Open Compute 3.0",
+  "Link": "https://www.solidot.org/story?sid=63042",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t相比 NVIDIA 的 CUDA，AMD 有类似的产品，但没有那么成熟，它的主要优势在于完全开源。AMD 发布了 \u003ca href=\"https://github.com/RadeonOpenCompute/ROCm/tree/roc-3.0.0\" target=\"_blank\"\u003eRadeon Open Compute 3.0\u003c/a\u003e（或简写 ROCm v3.0），源代码托管在 GitHub 上。ROCm 包含了编辑器、工具和库，支持 Tensorflow 加速。ROCm v3.0 支持 Linux 操作系统如 Ubuntu 16.04. 和 18.04，CentOS v7.7 和 RHEL v7.7，不支持 Windows。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-24T06:22:08Z",
+  "Author": "WinterIsComing"
+}

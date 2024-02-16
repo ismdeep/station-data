@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 和 NASA 开源最大地理空间 AI 基础模型",
+  "Link": "https://www.solidot.org/story?sid=75700",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 和 Hugging Face 宣布开源最大的地理空间 AI 基础模型 watsonx.ai，使用 NASA 的卫星数据构建而成。模型由 IBM 和 NASA 使用 Harmonized Landsat Sentinel-2 项目在一年内对美国大陆的卫星观测数据进行训练，用洪水和火灾后迹地地图的标记数据进行微调。通过进一步的微调，该基础模型可重新部署用于跟踪森林砍伐、预测农作物产量、检测和监测温室气体等各种任务。\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-03T15:53:39Z",
+  "Author": "Wilson"
+}

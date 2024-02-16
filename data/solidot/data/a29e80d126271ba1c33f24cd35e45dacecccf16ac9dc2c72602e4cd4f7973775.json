@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Exascale 级超算尚未到来",
+  "Link": "https://www.solidot.org/story?sid=69656",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTop 500 超算项目公布了\u003ca href=\"https://www.top500.org/news/still-waiting-exascale-japans-fugaku-outperforms-all-competition-once-again/\" target=\"_blank\"\u003e\u003cu\u003e最新的榜单\u003c/u\u003e\u003c/a\u003e，Exascale 级超算尚未到来，日本的 ARM 超算富岳第四次登顶。目前筹备中的 Exascale 级超算美国\u003ca href=\"https://www.hpcwire.com/2021/11/15/top500-no-exascale-fugaku-still-reigns-polaris-debuts-at-12/\"\u003e\u003cu\u003e有两台\u003c/u\u003e\u003c/a\u003e，中国\u003ca href=\"https://www.solidot.org/story?sid=69407\"\u003e\u003cu\u003e也有两台\u003c/u\u003e\u003c/a\u003e。Top 10 中唯一的新人是第十的微软  Azure 超算 \u003cspan style=\"font-weight: 400;\"\u003eVoyager-EUS2\u003c/span\u003e，配备了 AMD EPYC CPU 和英伟达的 100 GPU，性能 30.05 Pflop/s。 AMD 在榜单中取得了明显进步，Top 10 中有四台采用了 AMD 的 CPU，Top 500 中有 54 台 Epyc Rome 系统，17 台 Epyc Milan 系统，2 台 Epyc Naples 系统，总共 73 台，其份额从上半年的 9.4% 增加到了 14.6%，英特尔的比例从上半年的  86.4% 降至了 81.4%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-17T12:49:30Z",
+  "Author": "WinterIsComing"
+}

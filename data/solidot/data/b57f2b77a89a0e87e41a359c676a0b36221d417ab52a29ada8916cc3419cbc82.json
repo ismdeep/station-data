@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 重写旧软件以运行在现代平台上",
+  "Link": "https://www.solidot.org/story?sid=67035",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t蓝色巨人推出了基于 AI 的方法重编程旧的应用\u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/ai-legacy-software-analysis-tool\" target=\"_blank\"\u003e\u003cu\u003e以运行在今天的计算机平台上\u003c/u\u003e\u003c/a\u003e。新的方法被称为  \u003ca href=\"https://developer.ibm.com/series/intro-to-ibm-mono2micro/\"\u003eMono2Micro\u003c/a\u003e 和 \u003ca href=\"https://www.ibm.com/services/cloud/modernize-applications\"\u003eApplication Modernization Accelerator\u003c/a\u003e(AMA)，给予应用架构师新的工具去更新遗留应用程序，从中提取出新的价值。未来有一天，AI 可能会将 COBOL 写的应用程序自动翻译到 Java。IBM 研究院混合云服务总监 Nick Fuller 谨慎的指出，最新的 AI 方法只能将非模块化的大应用程序的遗留机器码分解为独立微服务，而翻译到编程语言仍然是目前还需要解决的根本难题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-25T13:07:20Z",
+  "Author": "WinterIsComing"
+}

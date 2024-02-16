@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中科大首次实现侧信道无关的 QKD 实验",
+  "Link": "https://www.solidot.org/story?sid=71566",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在《物理评论快报》上的\u003ca href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.190503\"\u003e\u003cu\u003e一篇论文\u003c/u\u003e\u003c/a\u003e，中科大等的研究人员\u003ca href=\"https://www.thepaper.cn/newsDetail_forward_18131222\" target=\"_blank\"\u003e\u003cu\u003e首次实现了\u003c/u\u003e\u003c/a\u003e侧信道无关量子密钥分发（QKD）的实验验证。QKD 基于量子力学基本原理，理论上可以为远程用户提供无条件安全的密钥交换。然而，实验实现和理论之间存在很大差距。在实际QKD系统中，由于现实器件并不完美，窃听者可以利用编码维度以外的侧信道，如光子频谱、发射时间、传播方向、空间角动量等来窃取密钥，这给现实 QKD 系统留下了潜在安全性漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-18T08:27:53Z",
+  "Author": "WinterIsComing"
+}

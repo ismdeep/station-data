@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "罗克韦尔的 PLC 曝出远程访问漏洞",
+  "Link": "https://www.solidot.org/story?sid=67053",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t被广泛用于控制工厂设备的可编程逻辑控制器(PLC)\u003ca href=\"https://arstechnica.com/information-technology/2021/02/hard-coded-key-vulnerability-in-logix-plcs-has-severity-score-of-10-out-of-10/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一个可远程访问的高危漏洞。存在漏洞的 PLC 来自罗克韦尔的 Logix 品牌 ，很容易利用。Logix PLC 控制器和工程站包含了一个硬编码的密钥用于验证两个设备之间的通信。黑客在获得密钥之后可以伪装成工程站，操控直接影响制造流程的 PLC 代码或配置。安全研究人员早在 2019 年就通知了罗克韦尔公司，该公司直到本周才披露漏洞，而且没有释出修复漏洞的补丁，只是提供了部分权宜方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-28T12:26:05Z",
+  "Author": "WinterIsComing"
+}

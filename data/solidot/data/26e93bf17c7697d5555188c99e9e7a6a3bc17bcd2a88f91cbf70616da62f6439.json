@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "创业公司尝试商业化实验性内存技术 CeRAM",
+  "Link": "https://www.solidot.org/story?sid=65886",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tARM 研究院（Arm Research）的 7 名工程师本月初成立了一家创业公司 Cerfe Labs，\u003ca href=\"https://spectrum.ieee.org/nanoclast/semiconductors/memory/arm-spinout-details-correlatedelectron-memory-plans\"\u003e\u003cu\u003e尝试商业化\u003c/u\u003e\u003c/a\u003e过去五年与 \u003ca href=\"https://www.symetrixcorp.com/\"\u003eSymetrix\u003c/a\u003e 合作研发的实验性内存技术 CeRAM（correlated electron RAM）。CeRAM 有望成为静态随机存取存储器(SRAM)的非易失替代。CeRAM 能在无电源供应的情况下保存数据， 被认为比 SRAM 更小。大部分半导体物理学是基于一个假设：你可以个别的处理电子。但半个多世纪前 Neville Francis Mott 发现某些材料中电子被迫聚集一起的时候会产生奇特的现象。前 ARM 研究院研究员、现在的 Cerfe Labs 首席技术官 Greg Yeric 称，其中之一是被称为 Mott 转变的金属态和绝缘态之间的可逆转变。他们发现一种碳掺杂的氧化镍材料会在导电体和绝缘体之间转变，而且两个状态都是非易失性的。他们认为 CeRAM 能成为 SRAM 的优秀替代，而且它的速度更快，写入数据能达到 2 纳秒脉冲宽度，与处理器的 L3 缓存相当。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-22T11:10:31Z",
+  "Author": "WinterIsComing"
+}

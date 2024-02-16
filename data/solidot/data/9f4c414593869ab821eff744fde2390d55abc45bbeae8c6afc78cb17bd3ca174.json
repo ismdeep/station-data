@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Elastic 采用新的许可证 SSPL 限制商业使用",
+  "Link": "https://www.solidot.org/story?sid=66702",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发 Elasticsearch 和 Kibana 的公司 Elastic \u003ca href=\"https://www.theregister.com/2021/01/18/elastics_doubling_down_on_open/\"\u003e\u003cu\u003e采用了\u003c/u\u003e\u003c/a\u003e MongoDB 设计的许可证 SSPL (Server Side Public License) 限制云服务商将其产品作为软件即服务提供给用户。ElasticSearch 是一个用于企业搜索的数据库管理程序，而 Kibana 则是数据可视化工具。它们都是开源软件，采用 Apache 2.0 许可证。但联合创始人兼 CEO Shay Banon 在最新\u003ca href=\"https://www.elastic.co/blog/licensing-change\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中宣布两个开源软件将切换到双许可证 Server Side Public License (SSPL)和 Elastic License。Elastic 许可证是非商业许可证，如果要将产品作为软件即服务使用则需要获得商业授权。将 Elasticsearch 作为后端使用的项目不受许可证变更的影响。Elastic 此举受到了社区的广泛批评。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-19T12:21:03Z",
+  "Author": "WinterIsComing"
+}

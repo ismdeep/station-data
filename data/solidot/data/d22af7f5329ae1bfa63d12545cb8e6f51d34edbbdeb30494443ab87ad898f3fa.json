@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 推出端对端加密",
+  "Link": "https://www.solidot.org/story?sid=65806",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t视频会议软件 Zoom \u003ca href=\"https://blog.zoom.us/zoom-rolling-out-end-to-end-encryption-offering/\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将从下周开始提供端对端加密的技术预览版本。免费和付费用户都可以使用端对端加密。Zoom 使用的加密算法是 AES-GCM，它前不久收购了 Keybase，端对端技术的实现就是由 Keybase 联合创始人 Max Krohn 领导的。在端对端加密模式中，视频会议使用的密钥是由用户的机器生成的，加密数据通过 Zoom 服务器中转，因为没有解密密钥，Zoom 并不知道会议内容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-15T06:15:03Z",
+  "Author": "WinterIsComing"
+}

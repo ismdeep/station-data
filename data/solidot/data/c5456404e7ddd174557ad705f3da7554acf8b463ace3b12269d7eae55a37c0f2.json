@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "东京证券交易所 CEO 因十月的故障而辞职",
+  "Link": "https://www.solidot.org/story?sid=66242",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t10 月 1 日东京证券交易所因系统故障在其历史上\u003ca href=\"https://www.solidot.org/story?sid=65713\" target=\"_blank\"\u003e\u003cu\u003e首次全天停止交易\u003c/u\u003e\u003c/a\u003e。东证 CEO Miyahara Koichiro 因这一事故而辞职，运营东证的日本证交所集团接受了他的辞呈。证交所集团公布了这起事故的\u003ca href=\"https://www.jpx.co.jp/english/corporate/news/news-releases/0020/b5b4pj000003t6qd-att/b5b4pj000003t6r9.pdf\" target=\"_blank\"\u003e\u003cu\u003e分析报告\u003c/u\u003e\u003c/a\u003e（PDF）。造成这起严重事故的根源是故障设备中的一个缺陷，而最终搞砸是因为自动切换故障设备的设置不够充分，而东证没有开发出充分的规则去恢复交易。发生故障的是第一共享磁盘设备，按照设计系统将自动切换到第二共享磁盘设备，然而尝试切换被证明是困难的，手动切换到备份花了一个多小时，在此期间故障设备传输给交易员的数据是不精确的，但交易员们已经开始下单了，而东证接受了订单。在此情况下东证决定终止交易一天。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-01T08:23:53Z",
+  "Author": "WinterIsComing"
+}

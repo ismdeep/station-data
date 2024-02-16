@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊 AWS 发布 Elasticsearch 分支 OpenSearch",
+  "Link": "https://www.solidot.org/story?sid=67473",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年 1 月，开发 Elasticsearch 和 Kibana 的公司 Elastic \u003ca href=\"https://www.solidot.org/story?sid=66728\" target=\"_blank\"\u003e\u003cu\u003e宣布更改许可证\u003c/u\u003e\u003c/a\u003e，新版本将不再使用 Apache License, Version 2.0 (ALv2) 而是使用 Elastic License 和 Server Side Public License，此举旨在禁止云服务商（aka AWS）使用它的软件作为一种服务提供给客户。但许可的更改也意味着 Elasticsearch 和 Kibana 不再是开源软件了。现在亚马逊 AWS \u003ca href=\"https://aws.amazon.com/cn/blogs/opensource/introducing-opensearch/\" target=\"_blank\"\u003e\u003cu\u003e正式宣布了\u003c/u\u003e\u003c/a\u003e它创建的 Elasticsearch 分支 \u003ca href=\"https://github.com/opensearch-project/OpenSearch\" target=\"_blank\"\u003e\u003cu\u003eOpenSearch\u003c/u\u003e\u003c/a\u003e 和 Kibana 分支 \u003ca href=\"https://github.com/opensearch-project/OpenSearch-Dashboards\"\u003e\u003cu\u003eOpenSearch Dashboards\u003c/u\u003e\u003c/a\u003e，源代码托管在 GitHub 上，采用 ALv2 许可证。OpenSearch 衍生自 Elasticsearch 7.10.2，OpenSearch Dashboards 衍生自 Kibana 7.10.2。Red Hat、SAP、Capital One 和 Logz.io 表达了对 OpenSearch 项目的支持。AWS 表示将继续维护和支持现有的 Elasticsearch 版本，所有新功能将通过 OpenSearch 项目发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-13T01:37:23Z",
+  "Author": "WinterIsComing"
+}

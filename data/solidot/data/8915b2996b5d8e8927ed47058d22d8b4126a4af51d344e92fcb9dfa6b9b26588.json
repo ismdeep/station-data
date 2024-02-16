@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenTitan 正式开源",
+  "Link": "https://www.solidot.org/story?sid=62507",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedlinux.github.io/\"\u003eHardenedLinux\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext\" target=\"_blank\"\u003eTitan\u003c/a\u003e是 Google 的硬件RoT（信任根）方案用于服务器的各个固件信任链条的建立，\u003ca href=\"https://opentitan.org/\" target=\"_blank\"\u003eOpenTitan\u003c/a\u003e是Google和多个厂商（lowRISC， G+D Mobile security, nuvoTon, 西部数据）以及学校（苏黎世理工）共同合作开发的开放硬件设计的RoT项目，目前\u003ca href=\"https://security.googleblog.com/2019/11/opentitan-open-sourcing-transparent.html\" target=\"_blank\"\u003e正式开源\u003c/a\u003e，包括基于\u003ca href=\"https://github.com/lowRISC/ibex/\" target=\"_blank\"\u003eRISC-V的处理器设计\u003c/a\u003e，密码协处理器，硬件随机数生成器等。OpenTitan的开放度极高，除了流片过程和Analog IP以及芯片工厂相关工具链外，其他部分全部开放，这也意 味着自由硬件社区的黑客们可以基于廉价FPGA去做各种改进，完全开放的硬件方案在\u003ca href=\"https://twitter.com/hugelgupf/status/1191776508227903488\" target=\"_blank\"\u003ex86平台上替代BootGuard\u003c/a\u003e成为了可能，在\u003ca href=\"https://github.com/hardenedlinux/hardenedlinux_profiles/blob/master/slide/hardening_the_core.pdf\" target=\"_blank\"\u003eHardening the COREs\u003c/a\u003e目前的方案中最高级别防御适配到了Kabylake，因为更新的CPU/CHIPSET在Intel可信计算模块场景下需要和BootGuard有更高的耦合度，而OpenTitan未来也会遇到类似的挑战，不管怎样，OpenTitan的开放对于自由固件/硬件社区是一个极大的推进。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-06T07:50:21Z",
+  "Author": "WinterIsComing"
+}

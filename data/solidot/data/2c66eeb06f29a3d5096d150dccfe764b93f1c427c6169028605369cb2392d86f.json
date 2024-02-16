@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Fuchsia 项目欢迎外部贡献者",
+  "Link": "https://www.solidot.org/story?sid=66321",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几年，Google 一直在开发一个全新的开源操作系统 \u003ca href=\"https://fuchsia.googlesource.com/\"\u003e\u003cu\u003eFuchsia\u003c/u\u003e\u003c/a\u003e，没有使用 Linux 内核，而是使用名叫 Zircon 的微内核。现在，Google \u003ca href=\"https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它欢迎外部程序员向 Fuchsia 项目贡献代码。Fuchsia 目前由 Google 的 Fuchsia 团队活跃开发中，为了让外部开发者更好的参与 Fuchsia 项目，Google 创建了新的讨论用的\u003ca href=\"https://fuchsia.dev/fuchsia-src/contribute/community/get-involved\" target=\"_blank\"\u003e\u003cu\u003e公共邮件列表\u003c/u\u003e\u003c/a\u003e，加入了进行决策的\u003ca href=\"https://fuchsia.dev/fuchsia-src/contribute/governance/governance\" target=\"_blank\"\u003e\u003cu\u003e治理模式\u003c/u\u003e\u003c/a\u003e，发布了项目\u003ca href=\"https://fuchsia.dev/fuchsia-src/contribute/roadmap\"\u003e\u003cu\u003e路线图\u003c/u\u003e\u003c/a\u003e帮助外界更好的了解项目的方向和优先任务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-09T13:41:50Z",
+  "Author": "WinterIsComing"
+}

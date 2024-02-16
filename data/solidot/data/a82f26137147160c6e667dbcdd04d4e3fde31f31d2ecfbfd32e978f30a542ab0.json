@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软上周修复的一个漏洞已被利用了两年",
+  "Link": "https://www.solidot.org/story?sid=65271",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上周二释出的例行安全更新修复了一个编号为 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1464\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCVE-2020-1464\u003c/a\u003e 的漏洞，微软称该漏洞允许攻击者绕过安全功能加载没有正确签名的文件。微软没有提到哪位安全研究人员向它报告了该漏洞，只是表示该漏洞正被利用。微软这么做可能是因为它最早被利用的时间是在 2018 年 8 月，过去 18 个月有多名安全研究人员向微软报告了该漏洞，它的安全团队验证了漏洞但一直没有给出修复时间。也就是说，软件巨人用了两年时间\u003ca href=\"https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/\" target=\"_blank\"\u003e\u003cu\u003e去修复一个 0day 漏洞\u003c/u\u003e\u003c/a\u003e。利用该漏洞很简单，只要给一个已被信任软件开发商签名的 MSI 文件添加一个恶意 JAR 文件，用 .jar 扩展名重命名文件，那么 Microsoft Windows 就会将其识别为是一个有效签名的文件。微软没有回答它为什么花了这么长时间修复签名漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-17T13:39:11Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 发布零编程应用构建服务 Honeycode",
+  "Link": "https://www.solidot.org/story?sid=64785",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAmazon Web Services \u003ca href=\"https://www.theregister.com/2020/06/25/amazon_honeycode_nocode/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e基于浏览器的零编程应用构建服务 \u003ca href=\"https://builder.honeycode.aws/\" target=\"_blank\"\u003e\u003cu\u003eAmazon Honeycode\u003c/u\u003e\u003c/a\u003e，让无编程经验的人能构建移动和 Web 应用。AWS \u003ca href=\"https://honeycodecommunity.aws/t/honeycode-browser-mobile-support/1171\"\u003e\u003cu\u003e推荐\u003c/u\u003e\u003c/a\u003e用户使用 Chrome 浏览器构建应用，称使用其它浏览器可能会遇到问题，但 Web 应用可以正常运行在各种主流浏览器上。客户可使用 AWS 的数据库去构建各种应用，从简单的任务跟踪应用到较为复杂的管理多个工作流的项目管理应用。零编程工具最近一段时间比较流行，它被认为可以让没有多少经验的人快速构建所需应用，在疫情流行社会实现隔离政策期间可能更为有用。Honeycode 可免费使用，有付费选项。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T11:18:52Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "donaldfeury.xyz",
+  "Title": "How to drop a collection from MongoDB",
+  "Link": "https://donaldfeury.xyz/how-to-drop-a-collection-from-mongodb/",
+  "Content": "\u003csection class=\"gh-content gh-canvas\"\u003e\n        \u003cp\u003eFor a full overview of MongoDB and all my posts on it, check out my \u003ca href=\"https://donaldfeury.xyz/introduction-to-mongodb/\"\u003eoverview\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWARNING!\u003c/strong\u003e This is a dangerous command that will result in the loss of data\u003c/p\u003e\u003cp\u003eIf you want to completely drop a collection, which will result in the loss of all documents in that collection, there is one simple command to do that called \u003ccode\u003edrop\u003c/code\u003e.\u003c/p\u003e\u003cp\u003eTo drop a collection in your MongoDB instance called \u003ccode\u003epodcasts\u003c/code\u003e:\u003c/p\u003e\u003cpre\u003e\u003ccode class=\"language-javascript\"\u003edb.podcasts.drop()\n\u003c/code\u003e\u003c/pre\u003e\u003cp\u003eOnly do this if you\u0026#39;re sure you want to completely reset that collection.\u003c/p\u003e\u003chr/\u003e\u003cp\u003eDid you find this information useful? If so, consider heading over to my \u003ca href=\"https://donaldfeury.xyz/donate/\"\u003edonation\u003c/a\u003e page and drop me some support.\u003c/p\u003e\u003cp\u003eWant to ask a question or just chat? Contact me \u003ca href=\"https://donaldfeury.xyz/contact\"\u003ehere\u003c/a\u003e\u003c/p\u003e\n    \u003c/section\u003e",
+  "Date": "2021-08-15T14:20:51Z",
+  "Author": "Donald Feury"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国军方关键系统运行 Linux",
+  "Link": "https://www.solidot.org/story?sid=63022",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国政府已经广泛接受开源开发模式，\u003ca href=\"https://linuxsecurity.com/features/features/linux-an-os-capable-of-effectively-meeting-the-us-government-s-security-needs-heading-into-2020\" target=\"_blank\"\u003e\u003cu\u003e并越来越多的使用开源软件\u003c/u\u003e\u003c/a\u003e。2016 年 8 月  8 日，白宫 CIO 发布了联邦源代码政策（Federal Source Code Policy），要求新的软件开发用开源方式构建、共享和改造，以利用代码安全、可靠和有效的促进国家目标。五角大楼已经认可开源开发所具有的优势，\u003ca href=\"https://tech.slashdot.org/story/19/12/21/0723213/many-security-critical-military-systems-are-now-using-linux\" target=\"_blank\"\u003e\u003cu\u003e将 Linux 作为其信任的操作系统\u003c/u\u003e\u003c/a\u003e。美国陆军是 Red Hat Linux 的最大单一客户群，美国海军核潜艇编队运行 Linux，美国未来作战系统同样\u003ca href=\"https://en.wikipedia.org/wiki/Future_Combat_Systems#Operating_system\"\u003e\u003cu\u003e是基于 Linux\u003c/u\u003e\u003c/a\u003e，五角大楼最近还让 Red Hat 公司帮助其改进空军中队的运作和飞行训练。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-22T12:57:08Z",
+  "Author": "WinterIsComing"
+}

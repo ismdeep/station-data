@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么不应将密码保存在浏览器中",
+  "Link": "https://www.solidot.org/story?sid=70198",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t恶意软件 RedLine 瞄准了 Chrome、Edge 和 Opera 等流行浏览器，\u003ca href=\"https://www.bleepingcomputer.com/news/security/redline-malware-shows-why-passwords-shouldnt-be-saved-in-browsers/\" target=\"_blank\"\u003e\u003cu\u003e表明\u003c/u\u003e\u003c/a\u003e为什么将密码存储在浏览器中是个糟糕的主意。这种恶意软件是一种商品化的信息窃取程序，可在网络犯罪论坛上以大约 200 美元买到，不需要太多知识即可轻松部署。AhnLab ASEC 的\u003ca href=\"https://asec.ahnlab.com/en/29885/\"\u003e\u003cu\u003e新报告\u003c/u\u003e\u003c/a\u003e警告称，贪图方便使用浏览器的自动登录功能正成为影响组织和个人的重大安全隐患。使用浏览器存储登录凭据的做法既诱人又方便，但是即使没有感染恶意软件，此举也有风险。因为这将允许在本地或者远程访问计算机的人在几分钟内窃取所有的密码。最好使用专用的密码管理器将一切存储在加密的保险库并要求使用主密码解锁，以及使用多因素认证。RedLine 针对的是基于 Chromium 浏览器的 Login Data 文件以及用于保存用户名和密码的 SQLite 数据库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-30T11:40:18Z",
+  "Author": "wanwan"
+}

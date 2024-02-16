@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意程序使用 Dogecoin API 寻找 C\u0026C 服务器地址",
+  "Link": "https://www.solidot.org/story?sid=65087",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司  Intezer Labs \u003ca href=\"https://www.intezer.com/container-security/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，一种新的恶意程序  Doki 会使用 Dogecoin API \u003ca href=\"https://www.zdnet.com/article/new-linux-malware-uses-dogecoin-api-to-find-c-c-server-addresses/\" target=\"_blank\"\u003e寻找 C\u0026amp;C 服务器地址\u003c/a\u003e。研究人员说，Doki 由黑客组织 Ngrok 控制，它使用硬编码的钱包地址去查询 Dogecoin 区块资源管理器 dogechain.info API，对返回的值执行 SHA256，提取前 12 个字符作为子域名使用，将子域名结合 ddns.net 获得完整地址。Doki 是在今年 1 月左右出现的，半年之后大部分安全软件仍然未能将其检测出来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-29T08:56:26Z",
+  "Author": "WinterIsComing"
+}

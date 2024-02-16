@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Teams 的一项功能发现四个漏洞",
+  "Link": "https://www.solidot.org/story?sid=70099",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMicrosoft Teams 的\u003ca href=\"https://positive.security/blog/ms-teams-1-feature-4-vulns\"\u003e\u003cu\u003e链接预览功能发现了四个漏洞\u003c/u\u003e\u003c/a\u003e。安全研究人员在 3 月就将问题报告给了微软，而到了 12 月 22 日微软只堵上了一个漏洞，研究人员称微软看起来没有意愿或资源保护其客户。这四个漏洞之一能泄露微软本地网络的信息，能用于钓鱼攻击伪装预览，Android 版本下能泄露用户的 IP 地址，Android 版本下用户收到无效链接预览之后应用程序会崩溃，打开包含恶意信息的聊天窗口时会持续崩溃。微软到目前为止修复了泄露用户 IP 地址的漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-22T13:45:27Z",
+  "Author": "WinterIsComing"
+}

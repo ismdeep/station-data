@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国国家运输安全委员会称 Uber 软件有缺陷",
+  "Link": "https://www.solidot.org/story?sid=62523",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国国家运输安全委员会称，2018 年在亚利桑那州发生致命车祸的 Uber 自动驾驶汽车\u003ca href=\"https://www.reuters.com/article/us-uber-crash-idUSKBN1XF2HA\" target=\"_blank\"\u003e\u003cu\u003e其软件有缺陷\u003c/u\u003e\u003c/a\u003e，它披露测试期间发生了 37 次碰撞事故。初步调查报告\u003ca href=\"https://www.thepaper.cn/newsDetail_forward_4890042\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，软件存在几处设计缺陷，包括不能识别乱穿马路的行人等。报告认为，导致事故的主要原因是自动驾驶系统无法应对在人行横道以外出现的行人。自动驾驶系统数据显示，车辆雷达在碰撞发生前大约 6 秒时观测到这名推着自行车穿过马路的行人，当时汽车时速 69 公里，软件反复将其识别为不明物体、车辆、自行车等。报告显示，碰撞前 1.3 秒，自动驾驶软件才判断出需紧急制动以避免碰撞。然而 Uber 设定的自动驾驶系统无法启动紧急制动，只能由安全操作员手动采取制动措施，且自动驾驶系统不能向安全操作员发出警报。车内的安全操作员在碰撞前不到 1 秒时，才掌控方向盘进行干预，碰撞后近 1 秒安全操作员才进行紧急刹车。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-07T08:08:52Z",
+  "Author": "wenfeixiang"
+}

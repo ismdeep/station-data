@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 接近具备常识推理",
+  "Link": "https://www.solidot.org/story?sid=64283",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 GPT-2 的深度学习网络最近因为能根据几段提示就产生一整篇看起来合理的文章而名声大振。AI 研究员 \u003ca href=\"http://garymarcus.com/index.html\" target=\"_blank\"\u003eGary Marcus\u003c/a\u003e 于是对它进行\u003ca href=\"https://talktotransformer.com/\"\u003e\u003cu\u003e一番测试\u003c/u\u003e\u003c/a\u003e，输入了一句话“What happens when you stack kindling and logs in a fireplace and then drop some matches is that you typically start a …”如果它足够聪明的话后面的文字显然是“火（fire）”，但 GPT-2 的回答是“ick”。Marcus 对此并不感到意外，常识推理是 AI 领域的一大难题，困扰了 AI 研究人员数十年。他把结果发布在 Twitter 上，还加了表示“笑死人”的缩略词（LMAO)。GPT-2 也许有令人影响深刻的语言模仿能力，但它缺乏基本常识。华盛顿大学的 AI 研究员  \u003ca href=\"https://homes.cs.washington.edu/~yejin/\" target=\"_blank\"\u003eYejin Choi \u003c/a\u003e在几分钟后看到了 Marcus 的帖子，她正准备发表演讲谈论利用 GPT-2 的系统 \u003ca href=\"https://arxiv.org/abs/1906.05317\"\u003e\u003cu\u003eCOMET\u003c/u\u003e\u003c/a\u003e（预印本）去执行常识推理。她将 Marcus 写的句子输入到 COMET，它产生了 10 个推断，前两个都与火相关。COMET 将常识推理设想为一种对新输入产生可信但可能不完美的反应的过程，而不是通过查阅类似百科全书的庞大数据库去做出无懈可击的推论。\u003ca href=\"https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/\"\u003e\u003cu\u003e它尝试将两种基础上差异巨大的方法融合进 AI\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-06T12:42:50Z",
+  "Author": "WinterIsComing"
+}

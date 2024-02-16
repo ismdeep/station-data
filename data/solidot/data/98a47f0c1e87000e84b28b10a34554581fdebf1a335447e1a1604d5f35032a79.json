@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 COVID-19 恶意程序会删除计算机数据",
+  "Link": "https://www.solidot.org/story?sid=64011",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://www.zdnet.com/article/theres-now-covid-19-malware-that-will-wipe-your-pc-and-rewrite-your-mbr/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e至少五种 COVID-19 主题的恶意程序，其中四种设计是去破坏被感染的计算机，删除文件或覆写主引导记录，还有一种可能只是测试或恶作剧。第一种能覆写主引导的新冠恶意程序是 MalwareHunterTeam 发现的，名字就叫 COVID-19.exe；第二种则伪装成勒索软件，但其主要功能是窃取密码。MalwareHunterTeam 还报告了数据删除的新冠主题恶意程序，其中一种\u003ca href=\"https://twitter.com/malwrhunterteam/status/1227204126016200704\"\u003e\u003cu\u003e使用中文文件名\u003c/u\u003e\u003c/a\u003e，可能设计针对中文用户，还不清楚这种恶意程序是否广泛传播或只是测试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-02T09:26:17Z",
+  "Author": "WinterIsComing"
+}

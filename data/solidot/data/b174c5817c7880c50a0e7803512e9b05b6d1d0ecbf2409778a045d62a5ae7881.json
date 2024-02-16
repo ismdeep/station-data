@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Norton 360 安装挖矿程序",
+  "Link": "https://www.solidot.org/story?sid=70295",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名杀毒软件 Norton 360 \u003ca href=\"https://krebsonsecurity.com/2022/01/norton-360-now-comes-with-a-cryptominer/\" target=\"_blank\"\u003e\u003cu\u003e被发现会在客户计算机上安装挖矿程序\u003c/u\u003e\u003c/a\u003e，但程序没有默认激活，因此客户计算机的闲置算力暂时还不会被用于悄悄挖掘加密货币。NortonLifeLock 的发言人表示，客户可通过暂时关闭 Norton 360 的防篡改功能然后删除挖矿程序 NCrypt.exe。根据 Norton 发布在其网站上的 \u003ca href=\"https://community.norton.com/en/forums/faq-norton-crypto\"\u003e\u003cu\u003eFAQ\u003c/u\u003e\u003c/a\u003e，NCrypt.exe 将在客户计算机闲置时挖掘以太坊，而且客户的计算机硬件需要满足一定条件如至少有 6 GB 显存的英伟达显卡。Norton 将为客户创建一个以太坊钱包地址，对于挖掘出的以太坊它将保留其中的 15%。Norton 是在 2021 年 7 月开始整合挖矿程序，但除非用户选择它并不会启动。客户及安全研究人员通过社交媒体\u003ca href=\"https://news.slashdot.org/story/22/01/08/1737218/norton-360-criticized-for-installing-a-cryptominer\"\u003e\u003cu\u003e批评\u003c/u\u003e\u003c/a\u003e了 Norton 的做法。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-09T12:55:13Z",
+  "Author": "WinterIsComing"
+}

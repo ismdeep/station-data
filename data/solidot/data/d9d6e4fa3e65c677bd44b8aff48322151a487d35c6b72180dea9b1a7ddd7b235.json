@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 72 发布",
+  "Link": "https://www.solidot.org/story?sid=63195",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/72.0/releasenotes/\"\u003e\u003cu\u003e发布了 Firefox 72\u003c/u\u003e\u003c/a\u003e。主要新特性包括：Enhanced Tracking Protection 默认屏蔽指纹脚本；恼人的弹出式通知被对话泡泡取代；视频画中画功能支持 Mac 和 Linux；bug 修复；因使用率低和用户体验不佳而移除对个别域名图像屏蔽功能；实验性支持使用来自操作系统的客户端证书；开发者工具 Debugger Watchpoints；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-08T02:03:52Z",
+  "Author": "WinterIsComing"
+}

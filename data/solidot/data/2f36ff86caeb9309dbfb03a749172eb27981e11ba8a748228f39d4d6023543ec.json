@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chromium 重新设计代码大幅减少 DNS 流量",
+  "Link": "https://www.solidot.org/story?sid=66874",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 8 月，亚太互联网络信息中心（APNIC）\u003ca href=\"https://www.solidot.org/story?sid=65317\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，Chromium 浏览器中检查网络是否存在 NXDOMAIN 拦截的代码会导致大量的垃圾 DNS 查询流量。NXDOMAIN 是域名错误信息，部分 ISP 会对其进行拦截重定向。Chromium 采用的方法是每次启动、每次 IP 地址变化、每次设备 DNS 配置变更时对 3 个随机的 10 个字符长的字符串进行 DNS 查询。APNIC 称 root 服务器一半的查询流量来自于 Chromium 的检查。这相当于每天在 root 服务器系统查询 600 亿次。APNIC 现在\u003ca href=\"https://blog.apnic.net/2021/02/04/how-chromium-reduces-root-dns-traffic/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，Chromium 团队重新设计了代码停止了垃圾 DNS 查询，这一变动包含在 Chromium 87 中。在 Chromium 87 释出前，root 服务器的峰值查询流量高达每天 1430 亿次，释出后降至了每天 840 亿次，减少了 41%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-05T15:24:29Z",
+  "Author": "WinterIsComing"
+}

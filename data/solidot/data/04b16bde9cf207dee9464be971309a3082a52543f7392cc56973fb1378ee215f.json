@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "区块链并不需要能量密集",
+  "Link": "https://www.solidot.org/story?sid=68141",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t分布式账簿区块链是绝大部分加密货币的基础，它通过共识机制来验证交易和更新记录。\u003ca href=\"https://spectrum.ieee.org/computing/networks/cryptocurrency-blockchains-dont-need-to-be-energy-intensive\"\u003e\u003cu\u003e目前流行四种共识机制\u003c/u\u003e\u003c/a\u003e，最常见也是比特币等使用的共识机制是工作量证明（proof of work，PoW）。从本质上说，PoW 让区块链增加交易的计算成本非常昂贵，从而阻止欺诈性交易活动。矿工能博弈 PoW 系统的唯一方法是控制 51% 的区块链挖矿计算量。PoW 的最大缺陷是挖矿需要消耗大量的电力。PoW 的三种替代共识机制都有其优缺点：权益证明(PoS)，燃烧证明(PoB)和容量证明（PoC），消耗的能量都远远比 PoW 少，但 PoS 和 PoB 都可能造成富者愈来愈富，这两种共识机制都奖励拥有大量加密货币的用户。而首个使用 PoC 的加密货币 Chia 发布之后造成了硬盘短缺。三种替代共识机制还没有像比特币那样经过大规模的安全测试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-28T08:38:50Z",
+  "Author": "WinterIsComing"
+}

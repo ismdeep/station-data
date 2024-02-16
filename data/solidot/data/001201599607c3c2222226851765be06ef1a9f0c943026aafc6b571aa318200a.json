@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PostgreSQL 13 发布",
+  "Link": "https://www.solidot.org/story?sid=65643",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源数据库管理系统 PostgreSQL \u003ca href=\"https://www.postgresql.org/about/news/2077/\" target=\"_blank\"\u003e\u003cu\u003e释出了 v13\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.postgresql.org/docs/13/release-13.html\" target=\"_blank\"\u003e\u003cu\u003ePostgreSQL 13\u003c/u\u003e\u003c/a\u003e 改进了索引和查找系统，节省了索引的空间并提升了性能，大型数据库将能从中受益；更快的查询响应时间，使用扩展统计提供更好的查询规划；并行的索引移除；增量排序；等等。其它方面的改进还有优化管理，增强安全和为开发者提供更多便利。更多可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-24T15:33:28Z",
+  "Author": "WinterIsComing"
+}

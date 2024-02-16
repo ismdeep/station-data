@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "闪烁光标的由来",
+  "Link": "https://www.solidot.org/story?sid=70306",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.inverse.com/innovation/blinking-cursor-history\" target=\"_blank\"\u003e\u003cu\u003e计算机上闪烁的光标起源自何处\u003c/u\u003e\u003c/a\u003e？作者将这项发明\u003ca href=\"https://hardware.slashdot.org/story/22/01/08/1824240/the-origin-of-the-blinking-cursor\" target=\"_blank\"\u003e\u003cu\u003e追溯到\u003c/u\u003e\u003c/a\u003e 1960 年代，参加过朝鲜战争的海军老兵、电子工程师 \u003ca href=\"https://www.morrisnilsen.com/obituary/charles-kiesling-sr/\"\u003e\u003cu\u003eCharles Kiesling\u003c/u\u003e\u003c/a\u003e，他的战后岁月投入到爆发性增长的计算机时代。当时距离个人计算机还有几十年的时间，Kiesling 作为工程师修补 IBM 650 和 ENIAC 之类的巨型计算机，它们有房间大小。他于 1955 年加入了 Sperry Rand（即现在的 Unisys），帮助开发普通用户很少想到的那种计算机。其中包含逻辑电路之类的内部结构，让你的计算机能做出复杂的决策，例如“or”、“and”或者“if only”，而不是简单的“yes”或“no”。这些看似无害的进步之一是 1967 年 Kiesling 为闪烁光标提交的专利申请。自称是 Kiesling 儿子的用户在 Stackexchange 上\u003ca href=\"https://ux.stackexchange.com/questions/33640/who-invented-the-blinking-cursor/33644\"\u003e\u003cu\u003e发帖称\u003c/u\u003e\u003c/a\u003e，这项发明的初衷只是为了实用性：“我记得他告诉我光标闪烁背后的原因，这很简单，他说屏幕上没有任何东西可以让你一下子知道光标在哪里。所以他编写了代码，这样就知道他准备在阴极射线管上打字的位置。”事实证明，这种闪烁只是一种吸引编程人员注意并摆脱文本海洋的方式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-10T12:30:25Z",
+  "Author": "wanwan"
+}

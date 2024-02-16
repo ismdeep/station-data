@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 最新预览版加入对 Linux GUI 应用的支持",
+  "Link": "https://www.solidot.org/story?sid=67580",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 10 最新预览版 \u003ca href=\"https://blogs.windows.com/windows-insider/2021/04/21/announcing-windows-10-insider-preview-build-21364/\"\u003e\u003cu\u003eBuild 21364\u003c/u\u003e\u003c/a\u003e 加入了对 Linux GUI 应用的支持，开发者将可以通过 Windows Subsystem for Linux (WSL)运行自己喜欢的 Linux GUI 应用。微软将这一支持图形的子系统命名为 \u003ca href=\"https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/\"\u003e\u003cu\u003eWSLg\u003c/u\u003e\u003c/a\u003e。利用 WSLg，开发者将可以运行任何只有 Linux 版本的 GUI 应用，或者在 Linux 环境运行或测试自己的应用，这对于需要测试跨平台应用支持的开发者非常有帮助。微软称，开发者现在只需要一台 Windows 10 机器就可以了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-23T06:58:39Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 104 释出",
+  "Link": "https://www.solidot.org/story?sid=72552",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/104.0/releasenotes/\"\u003e\u003cu\u003eFirefox 104\u003c/u\u003e\u003c/a\u003e。主要新特性包括：Disney+ 画中画支持字幕，支持 scroll-snap-stop 和 re-snapping 两个滚动属性，Firefox profiler 能分析一个网站的耗电（仅限于 Apple M1 和 Windows 11），最小化或遮挡时 Firefox UI 将限制性能和电池使用，bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-23T13:54:14Z",
+  "Author": "WinterIsComing"
+}

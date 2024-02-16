@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 的 DeepSpeech 项目未来因裁员面临不确定",
+  "Link": "https://www.solidot.org/story?sid=65330",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 最近宣布了裁员，重组公司将注意力集中到有利可图的产品上，许多带有公益性的研究项目在这一次裁员中大受影响，其中就包括了语音文本引擎项目 \u003ca href=\"https://github.com/mozilla/STT\"\u003e\u003cu\u003eDeepSpeech\u003c/u\u003e\u003c/a\u003e。DeepSpeech 是目前最好的语音文本引擎之一，它正接近发布 1.0 稳定版本，但 1.0 之后其未来是不确定的。 Mozilla 的 Reuben Morais 在\u003ca href=\"https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中表示将在不久之后释出了 DeepSpeech 1.0，但 DeepSpeech 何去何从他们暂时也没有明确答案，他们仍然鼓励开发者递交 bug 和 pull requests，相互帮助和在 DeepSpeech 上构建产品。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-24T06:36:20Z",
+  "Author": "WinterIsComing"
+}

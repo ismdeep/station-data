@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "顶尖黑客在 9 个月利用了至少 11 个0day",
+  "Link": "https://www.solidot.org/story?sid=67249",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle  Project Zero 安全研究人员\u003ca href=\"https://googleprojectzero.blogspot.com/2021/03/in-wild-series-october-2020-0-day.html\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，一个顶尖黑客组织在 9 个月内利用了至少 11 个 0day 漏洞。该组织利用的漏洞被修复之后它会迅速改用另一个 0day。研究人员最早是在 2020 年 2 月发现该组织通过水坑攻击利用 4 个 0day 攻击  Windows 和 Android 设备。在之后的 8 个月内同一组织被发现利用了至少另外的 7 个 0day，攻击的范围扩大到了 iOS 设备。Google 研究人员称，攻击者对漏洞利用的开发和利用的漏洞有着专家级别的理解能力，利用的方法相当新颖，它触发 iOS 内核提权漏洞的方法是非同寻常的。攻击者使用的利用链需要突破内置在操作系统和应用中的多层防御。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-19T09:41:32Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WordPerfect 移植到 Linux",
+  "Link": "https://www.solidot.org/story?sid=72204",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在将 Lotus 1-2-3\u003ca href=\"https://github.com/taviso/123elf\" target=\"_blank\"\u003e\u003cu\u003e 移植\u003c/u\u003e\u003c/a\u003e到 Linux 之后， Google Project Zero 团队的白帽子黑客 Tavis Ormandy 又将 1990 年代的经典字处理软件 WordPerfect \u003ca href=\"https://www.theregister.com/2022/07/20/wordperfect_for_unix_for_linux/?td=rt-3a\" target=\"_blank\"\u003e\u003cu\u003e移植到 Linux\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://github.com/taviso/wpunix\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上，移植的版本是  WordPerfect version 7 for Unix。他还将其打包到 .DEB 格式，很容易安装到基于 Ubuntu 和 Debian 的发行版上。\u003ca href=\"https://zh.wikipedia.org/wiki/WordPerfect\"\u003e\u003cu\u003eWordPerfect\u003c/u\u003e\u003c/a\u003e 诞生于 1980 年，最早是为 Data General 计算机开发的，1983 年发布 DOS 版本，1991 年发布 Windows 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-21T07:10:08Z",
+  "Author": "WinterIsComing"
+}

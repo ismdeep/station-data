@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "故意破坏开源库的开发者想要拿回发行权但没人支持",
+  "Link": "https://www.solidot.org/story?sid=70497",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tcolor 和 faker 开发者的 Marak Squires 本月早些时候通过加入无限循环\u003ca href=\"https://www.solidot.org/story?sid=70299\"\u003e\u003cu\u003e故意破坏了\u003c/u\u003e\u003c/a\u003e这两个广泛使用的依赖库。在包管理器 NPM 上，\u003ca href=\"https://www.npmjs.com/package/colors\"\u003e\u003cu\u003ecolors\u003c/u\u003e\u003c/a\u003e 的周下载量超过 2000 万次，有近 19000 个项目依赖它；\u003ca href=\"https://www.npmjs.com/package/faker\"\u003e\u003cu\u003efaker \u003c/u\u003e\u003c/a\u003e的周下载量超过 280 万次，有超过 2500 个项目依赖它。在事故发生之后，GitHub 平台短暂封禁了其账号，在解封之后其发行权仍然被剥夺。faker 之后出现了社区管理的分支。Marak Squires \u003ca href=\"https://twitter.com/marak/status/1484185867027685376\"\u003e\u003cu\u003e想要拿回发行权\u003c/u\u003e\u003c/a\u003e，他声称自己的邮件没有收到任何回应，而他有一百个包需要维护，“每个人都会不时犯下编程错误，没有人是完美的。”但无心之过和故意破坏显然是两码事，他的请求\u003ca href=\"https://developers.slashdot.org/story/22/01/24/0228244/developer-who-intentionally-corrupted-his-libraries-wants-npm-to-restore-his-publishing-rights\"\u003e\u003cu\u003e几乎无人支持\u003c/u\u003e\u003c/a\u003e，认为他的故意破坏损害了开源生态系统的信任原则。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-25T08:00:32Z",
+  "Author": "WinterIsComing"
+}

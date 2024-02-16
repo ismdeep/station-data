@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Hive 勒索软件新变种能加密 Linux 和 FreeBSD 系统",
+  "Link": "https://www.solidot.org/story?sid=69444",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHive 勒索软件新变种\u003ca href=\"https://www.bleepingcomputer.com/news/security/hive-ransomware-now-encrypts-linux-and-freebsd-systems/\" target=\"_blank\"\u003e\u003cu\u003e能加密 Linux 和 FreeBSD 系统\u003c/u\u003e\u003c/a\u003e，但新变种还在开发之中，功能缺乏。安全公司 ESET 的研究人员\u003ca href=\"https://twitter.com/ESETresearch/status/1454100591261667329\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，Hive 的 Linux 变种存在严重 bug，恶意程序在执行时加密会完全失败。Linux 变种只支持一个命令行参数，而它的 Windows 版本支持 5 个执行选项，包括杀死进程，略过磁盘清理，绕过不感兴趣的文件等。Linux 变种如果不是以 root 权限执行的话会无法激活加密。Hive 勒索软件组织是从今年 6 月开始活跃，是众多开始将 Linux 服务器作为攻击目标的勒索软件组织之一。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-31T15:04:08Z",
+  "Author": "WinterIsComing"
+}

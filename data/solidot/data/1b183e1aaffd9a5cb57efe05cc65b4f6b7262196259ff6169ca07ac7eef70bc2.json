@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MIT 的机器学习算法认为社会隔离措施是有效的",
+  "Link": "https://www.solidot.org/story?sid=64157",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t大部分 Covid-19 预测是基于过去的疫情如 SARS 或 MERS 的数据。现在 MIT 的一群工程师\u003ca href=\"http://news.mit.edu/2020/new-model-quantifies-impact-quarantine-measures-covid-19-spread-0416\"\u003e\u003cu\u003e开发了一个机器学习模型\u003c/u\u003e\u003c/a\u003e，使用 Covid-19 疫情数据和神经网络去判断隔离措施的有效性，更好的预测病毒传播。\u003ca href=\"https://www.medrxiv.org/content/10.1101/2020.04.03.20052084v1\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在预印本网站上。预测传染病扩散的绝大部分模型被称为 SEIR，将人群分类为“易感”、“暴露”、“感染”和“康复”四组。MIT 研究人员在此基础上加入了隔离，如果被感染的人处于隔离中，那么病毒将不会传播给其他人。他们的模型发现，像韩国这样的地方，政府迅速采取干预措施去实现强有力的社会隔离，那么病毒的传播将会更快的抵达稳定阶段。而美国和意大利这样比较缓慢的采取政府干预措施的地方，Covid-19 的有效繁殖数更长时间停留在 1 以上，这意味着病毒会继续以指数传播。在目前的社会隔离措施下，意大利和美国将在 4 月 15 日-20 日之间到达稳定阶段。模型显示社会隔离能有效的将病毒的繁殖数从 1 以上降低到 1 以下。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-18T12:42:01Z",
+  "Author": "ai"
+}

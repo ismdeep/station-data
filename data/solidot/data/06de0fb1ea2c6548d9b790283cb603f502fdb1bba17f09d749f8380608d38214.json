@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伊朗黑客组织转向工控系统",
+  "Link": "https://www.solidot.org/story?sid=62731",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个活跃的伊朗黑客组织\u003ca href=\"https://arstechnica.com/information-technology/2019/11/a-notorious-iranian-hacking-crew-is-targeting-industrial-control-systems/#p3\"\u003e\u003cu\u003e正将重心转向了\u003c/u\u003e\u003c/a\u003e电力公司、制造业和炼油厂广泛使用的工业控制系统。该黑客组织被称为 APT33 aka Holmium、Refined Kitten 或 Elfin。微软研究人员报告过去两个月 APT33 的密码破解攻击集中瞄准了工控设备的制造商、供应商和维修服务商。黑客的动机尚不清楚，研究人员猜测是为发动具有物理破坏效应的攻击获取立足点。微软研究员没有公布工控系统企业或产品的名字。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-25T08:52:47Z",
+  "Author": "WinterIsComing"
+}

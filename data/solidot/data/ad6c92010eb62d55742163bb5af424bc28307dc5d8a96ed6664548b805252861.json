@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "两越南黑客出于找乐删除洲际酒店集团的数据库",
+  "Link": "https://www.solidot.org/story?sid=72794",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在全世界逾一百个国家经营 6,028 家酒店的洲际酒店集团上周\u003ca href=\"https://www.solidot.org/story?sid=72700\"\u003e\u003cu\u003e证实\u003c/u\u003e\u003c/a\u003e遭到网络攻击，称攻击严重干扰了房间预定等功能。它没有披露更多细节。现在两位自称 TeaPea 的越南黑客情侣通过 Telegram 联络 BBC，\u003ca href=\"https://www.bbc.com/news/technology-62937678\" target=\"_blank\"\u003e\u003cu\u003e提供了截图作为证据证明攻击是他们发起的\u003c/u\u003e\u003c/a\u003e。他们利用了钓鱼攻击和一个弱密码 Qwerty1234 访问了内部数据库，一开始计划发动勒索软件攻击，但发现 IT 团队隔离了服务器，所以为了找点乐趣决定删库。黑客对于其行动无任何内疚，称越南的薪水太低，月薪只有 300 美元，否则他们宁可有一个合法的工作。黑客称他们在洲际酒店集团的系统中发现其内部密码库的登陆密码是 Qwerty1234。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-17T10:20:01Z",
+  "Author": "WinterIsComing"
+}

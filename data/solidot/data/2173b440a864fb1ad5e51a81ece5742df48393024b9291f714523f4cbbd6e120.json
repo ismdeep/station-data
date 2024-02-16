@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 对 Widevine 破解库递交 DMCA 删除通知",
+  "Link": "https://www.solidot.org/story?sid=66087",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWidevine 是 Google 开发的 DRM 技术，Widevine CDM（内容解密模块）和 Widevine License Server 被用于流媒体内容的 DRM 保护，被 Disney+、Netflix、Amazon Prime Video、YouTube 和 Hulu 等流媒体服务商广泛使用。11 月 9 日 Google 以侵权为由向 GitHub \u003ca href=\"https://github.com/github/dmca/blob/master/2020/11/2020-11-09-Google.md\" target=\"_blank\"\u003e\u003cu\u003e递交 DMCA 删除通知\u003c/u\u003e\u003c/a\u003e，要求 GitHub 删除数十个破解 Widevine  DRM 保护技术的库（都是同一个库的镜像）。GitHub 已经按照 Google 的要求移除了这些库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-13T07:01:17Z",
+  "Author": "WinterIsComing"
+}

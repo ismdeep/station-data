@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LineageOS 17.1 发布",
+  "Link": "https://www.solidot.org/story?sid=64015",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Android 的移动操作系统 LineageOS 释出了\u003ca href=\"https://lineageos.org/Changelog-24/\"\u003e\u003cu\u003e最新的 17.1 版本\u003c/u\u003e\u003c/a\u003e。LineageOS 17.1 是基于 Android Open Source Project 的 Android 10，改进了主题支持，支持屏幕指纹传感器，支持弹出式和旋转式相机，绘文字更新到 Emoji 12.0，WebView 更新到 Chromium 80.0.3987.132，合并了从去年 10 月到今年 3 月的安全补丁，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-02T15:43:47Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "筋疲力尽的开源开发者",
+  "Link": "https://www.solidot.org/story?sid=66169",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t我们今天的互联网绝大部分基础是开源软件，许多开源软件有大公司在背后支持，但还有很多是几个人维护的。OpenSSL 项目几年前曝出严重安全漏洞，引发了对少数人维护的基础性开源软件的\u003ca href=\"https://www.solidot.org/story?sid=39112\"\u003e\u003cu\u003e关注\u003c/u\u003e\u003c/a\u003e。但这种程度的关注仍然是\u003ca href=\"https://www.solidot.org/story?sid=39747\"\u003e\u003cu\u003e远远不够的\u003c/u\u003e\u003c/a\u003e。《连线》\u003ca href=\"https://www.wired.com/story/open-source-coders-few-tired/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，Bootstrap 是一个广泛使用的开源项目，它的开发者 Jacob Thornton 和 Mark Otto 很快发现成功背后的黑暗面：许多人递交 bug 报告，要求新的功能，提出许多问题，开发者发现他们在日常工作之外需要投入大量的时间去回应用户的问题，以至于他们感觉自己都没有休息时间了。他们感到筋疲力尽。他们不是唯一有这种感受的开源开发者。研究显示，9.5% 的开源代码最终被遗弃了。这种现象存在安全风险，被放弃的开源代码可能会被人劫持用于非法用途，比如比特币公司使用的一个开源代码被名叫  right9ctrl 的人接管了，这个人重写了代码试图窃取数字货币。如何帮助筋疲力尽的开源开发者？这是一个亟需解决的难题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-23T12:05:15Z",
+  "Author": "WinterIsComing"
+}

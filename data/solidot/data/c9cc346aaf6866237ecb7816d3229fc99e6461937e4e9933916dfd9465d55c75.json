@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LineageOS 19 释出",
+  "Link": "https://www.solidot.org/story?sid=71367",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t曾被称为 Cyanogen 的 Android 社区发行版 LineageOS 释出了 \u003ca href=\"https://lineageos.org/Changelog-26/\"\u003e\u003cu\u003eLineageOS 19\u003c/u\u003e\u003c/a\u003e。LineageOS 19 是基于 Android 12，安全补丁更新到 2022 年 4 月，默认启用了深色模式。开发者表示，由于 Android 开源项目 AOSP 用 eBPF 取代了 iptables，而设备的内核版本需要高于或等于 Linux kernel 4.9 才能利用 eBPF，使用 4.4 kernel 的设备有向后移植的版本，使用 kernel v 3.18  或更低版本的设备则将停止支持，这意味着 LineageOS 19 将不支持较旧的设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-26T13:21:45Z",
+  "Author": "WinterIsComing"
+}

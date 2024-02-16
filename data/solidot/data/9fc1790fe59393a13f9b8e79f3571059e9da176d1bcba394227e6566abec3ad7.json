@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 将测试 DNS-over-HTTPS (DoH)",
+  "Link": "https://www.solidot.org/story?sid=62063",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Mozilla 之后，Google Chrome 也计划\u003ca href=\"https://www.zdnet.com/article/google-to-run-dns-over-https-doh-experiment-in-chrome/\"\u003e\u003cu\u003e引入\u003c/u\u003e\u003c/a\u003e DNS-over-HTTPS (DoH)功能，加密 DNS 请求发送到非本地 DNS 解析器。用户发送的 DNS 请求通常是明文发送给 ISP 的 DNS 解析服务器，在不同的网络环境下，明文发送 DNS 请求被认为不安全的，DoH 是这个问题的一个解决方案，它通过加密  DNS 请求到第三方或用户设置的 DNS 解析服务器来保护用户的隐私，然而这个方案的缺陷是你选择的 DNS 服务商将掌握你的 DNS 数据，你需要信任你的服务商。Mozilla 的合作伙伴是 Cloudflare，它是一家云服务商，而 Google 本身是网络广告巨头，它选择的 DNS 服务商可能就是自己，这意味着它将掌握用户更多的信息。这可能会引发\u003ca href=\"https://tech.slashdot.org/story/19/09/11/1437235/google-to-run-dns-over-https-doh-experiment-in-chrome\"\u003e\u003cu\u003e新的隐私争议\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-12T07:30:00Z",
+  "Author": "wenfeixiang"
+}

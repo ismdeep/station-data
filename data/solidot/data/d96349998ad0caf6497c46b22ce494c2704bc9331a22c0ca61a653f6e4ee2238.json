@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Let's Encrypt 暂缓撤销证书",
+  "Link": "https://www.solidot.org/story?sid=63730",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLet\u0026#39;s Encrypt 上周\u003ca href=\"https://www.solidot.org/story?sid=63707\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e在 CAA（Certification Authority Authorization）代码中发现 bug，它将从美国东部时间 3 月 4 日下午 3 点开始撤销受到影响的客户证书。在 Let\u0026#39;s Encrypt 签发的 1.16 亿活跃证书中有 3,048,289 个证书需要替换。但由于时间过于仓促，Let\u0026#39;s Encrypt \u003ca href=\"https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591/3\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e暂缓撤销证书。它表示已经有 170 万受影响的网站更换了证书，但还有一百多万网站不太可能在截止日期前完成证书更替。为了避免影响这些网站给其访问者造成困惑，Let\u0026#39;s Encrypt 认为还是暂缓为最佳策略。Let\u0026#39;s Encrypt 的证书有效期只有 90 天，130 万尚未撤销的证书构成的安全风险很低。300 万个受影响证书只有 445 个确实违反了规定，而它们都已经撤销。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-06T09:48:47Z",
+  "Author": "WinterIsComing"
+}

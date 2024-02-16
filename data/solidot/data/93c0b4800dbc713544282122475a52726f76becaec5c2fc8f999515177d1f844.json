@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Freenode 疑似发生巨变",
+  "Link": "https://www.solidot.org/story?sid=67825",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大的自由开源软件 IRC 网络 Freenode \u003ca href=\"https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409\"\u003e\u003cu\u003e疑似发生了剧变\u003c/u\u003e\u003c/a\u003e，多位志愿者辞职并呼吁用户尽快迁移到新的 IRC 网络 \u003ca href=\"https://libera.chat/\"\u003e\u003cu\u003elibera.chat\u003c/u\u003e\u003c/a\u003e，称运行在 freenode.org/net/com 中的 IRC 网络应该被假设控制在一位恶意方手中。Freenode 的域名控制在一家叫 Freenode Limited 的手中，但这家公司并不参与 Freenode 网络的运营，Freenode 网络完全由一群志愿者（被称为 Freenode Staff）管理，所有服务器都由第三方赞助。几年前 Freenode Staff 的前负责人将公司出售给了 Andrew Lee，现在志愿者指责他敌意接管了域名，并试图用自己的人去替代社区志愿者。Andrew Lee 在 \u003ca href=\"https://freenode.net/\"\u003e\u003cu\u003eFreenode 官网\u003c/u\u003e\u003c/a\u003e发表声明，否认了这一指控。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-20T10:03:03Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家首次远距传输三维量子比特",
+  "Link": "https://www.solidot.org/story?sid=61637",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t两个研究团队\u003ca href=\"https://www.scientificamerican.com/article/qutrit-experiments-are-a-first-in-quantum-teleportation/\" target=\"_blank\"\u003e\u003cu\u003e独立演示了\u003c/u\u003e\u003c/a\u003e远距传输三维量子比特（qutrit）。三维量子比特能携带更多的信息，比量子比特更能抵抗噪音。中科大的 Guang-Can Guo 团队于 4 月 28 日在预印本网站发表\u003ca href=\"https://arxiv.org/abs/1904.12249\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，报告了他们的工作，但论文尚未通过同行审议；奥地利科学院 Anton Zeilinger 和中科大潘建伟领导的国际研究小组于 6 月 24 日在预印本网站发表\u003ca href=\"https://arxiv.org/abs/1906.09697\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，论文已通过同行审议，将发表在《Physical Review Letters》期刊上。经典系统中的比特在同一时间只能是 0 或 1，但量子计算机系统中的量子比特在同一时间可以 0 也可以是 1，即 0 和 1 的叠加态；而三维量子比特则可以同时处于 0，1，2 这三个的叠加态，这也意味着制造三维量子比特比量子比特更困难。两个团队都利用光子的三分支路径创造三维量子比特。创造三维量子比特只是一个小小的开端，研究人员之后还需要将两个三维量子比特纠缠起来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-07T09:53:09Z",
+  "Author": "ai"
+}

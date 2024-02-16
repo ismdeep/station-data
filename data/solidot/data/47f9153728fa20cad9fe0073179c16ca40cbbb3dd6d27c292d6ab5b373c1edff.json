@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊 S3 将默认用 AES-256 加密数据",
+  "Link": "https://www.solidot.org/story?sid=73832",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊 Simple Storage Service (S3)将默认在服务器端用 AES-256 自动加密新数据。AWS 的服务器端加密已经存在了十多年，但现在为了加强安全将默认启用。管理员无需采取任何行动，亚马逊表示加密不会对性能产生任何影响。默认的加密算法是 AES-256，管理员可以选择 SSE-C 或 SSE-KMS 等替代方法。其中 SSE-C 将由存储桶的所有者控制密钥，SSE-KMS 将由亚马逊管理密钥。存储桶的所有者还可以为每个 KMS 密钥设置不同的权限以便于细化控制。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://aws.amazon.com/blogs/aws/amazon-s3-encrypts-new-objects-by-default/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-07T14:14:56Z",
+  "Author": "Wilson"
+}

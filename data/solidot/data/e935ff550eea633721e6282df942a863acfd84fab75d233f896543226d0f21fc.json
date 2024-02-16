@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "部分 GPS 设备出现位置精度误差问题",
+  "Link": "https://www.solidot.org/story?sid=66543",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t使用索尼 GPS 芯片组的多款设备在新年伊始\u003ca href=\"https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html\"\u003e\u003cu\u003e报告出现位置精度问题\u003c/u\u003e\u003c/a\u003e，GPS 定位出现了最高数百米的误差。受影响的设备包括了 Garmin、Suunto、Polar、COROS、Wahoo RIVAL 等等。索尼 GPS 芯片组因其节能的优点而被广泛用在这些公司生产的健身设备中。问题被认为与星历数据文件有关，它是 GPS 预缓存文件，文件以每隔几天的频率通过蓝牙或 WiFi 等方法自动更新，它帮助设备在室外快速发现 GPS 卫星。位置精度问题并没有持续多久，用户报告过一段时间之后就自动修正了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-03T11:36:45Z",
+  "Author": "WinterIsComing"
+}

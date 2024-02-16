@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "人脸识别算法中的偏差",
+  "Link": "https://www.solidot.org/story?sid=62398",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t受制于数据集的规模，人脸识别算法总数存在一定偏差，用一个地方人群训练的算法未必适用于另一个地方。让数据库覆盖所有人群是很难实现的。北京邮电大学教授邓伟洪团队报告他们取得了新的进展，揭示了当前人脸识别算法中普遍存在跨国家 / 地区识别偏差问题，构建了评价偏差程度的人脸数据集 \u003ca href=\"http://whdeng.cn/RFW/index.html\"\u003e\u003cu\u003eRFW（racial bias in face recognition）\u003c/u\u003e\u003c/a\u003e，提出了减小识别偏差的信息最大化自适应神经网络，以改进对目标域的识别能力。研究结果在由 IEEE 主办的国际计算机视觉大会（ICCV）上发表。在 RFW 数据库的基础上，研究人员验证了微软、亚马逊、百度、旷视的商业 API 和学术界最先进的 4 个算法，\u003ca href=\"http://news.sciencenet.cn/htmlnews/2019/10/431985.shtm\" target=\"_blank\"\u003e\u003cu\u003e发现偏差确实存在\u003c/u\u003e\u003c/a\u003e。为了探究这种偏差是否是由训练数据的分布不平衡引起的，研究人员收集了一个涵盖全球各地区人类信息的训练数据库，最终发现偏差的发生受到数据和算法两方面影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-28T12:50:11Z",
+  "Author": "wenfeixiang"
+}

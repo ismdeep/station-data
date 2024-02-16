@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 加入 Wayland 分数缩放支持",
+  "Link": "https://www.solidot.org/story?sid=75818",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 合并了 Wayland fractional-scale-v1 协议，支持 Linux 下的浏览器分数缩放。目前该功能默认关闭，可通过设置 widget.wayland.fractional-scale.enabled 启用。另一个主流浏览器 Google Chrome/Chromium 是在今年初合并了 Wayland fractional-scale-v1 协议代码。Linux 下的主要浏览器，以及 KDE Plasma/KWin 和 GNOME 桌面都加入了对 Wayland 分数缩放的支持。 \n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Firefox-Fractional-Scale-v1\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-16T14:23:06Z",
+  "Author": "Wilson"
+}

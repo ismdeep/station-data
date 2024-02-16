@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 辅助编程公司 Kite 关闭和宣布开源",
+  "Link": "https://www.solidot.org/story?sid=73428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t相比微软的 AI 编程助手 GitHub Copilot，AI 辅助编程公司 Kite 起步更早，但很遗憾的是未能建立起一个盈利机制。Copilot 在辅助编程上还有局限，比如在非局部语境下生成代码，Kite 称它在这方面取得了进展，但需要更多投资。虽然它有 50 万月活跃开发者，但他们的支付意愿很低，仅仅提高程序员的编程速度 18% 并不能说服工程经理们掏钱。Kite 宣布停止运作，公开大部分源代码，项目托管在 GitHub 上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/kiteco\u003cbr/\u003e\nhttps://www.kite.com/blog/product/kite-is-saying-farewell/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-21T07:29:29Z",
+  "Author": "WinterIsComing"
+}

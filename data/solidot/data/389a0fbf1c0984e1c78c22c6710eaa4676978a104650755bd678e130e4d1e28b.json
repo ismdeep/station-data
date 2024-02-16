@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔透露 Aurora 超算完整规格",
+  "Link": "https://www.solidot.org/story?sid=75026",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFrontier 是第一台突破 Exascale 超算，而更多的 Exascale 超算即将到来。英特尔周一透露了 Aurora 超算的完整规格。Aurora 超算最初目标是 1 Exascale，如今升级到了 2 Exascale，它有 10,624 个节点，21,248 个基于  Sapphire Rapids-SP 家族的至强 CPU 和 63,744 个基于 Ponte Vecchio 的 GPU。英特尔声称 Ponte Vecchio GPU 的性能强于英伟达的 AI 芯片 H100，它正在开发的下一代 GPU Falcon Shores 预计将在 2025 年推出，将有 288GB 的显存，支持 8 位浮点计算。Aurora 超算配备了 10.9 PB 的 DDR5 系统内存，CPU 使用了 1.36 PB 的 HBM 内存，GPU 使用了 8.16 PB 的 HBM 内存。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://wccftech.com/intel-unveils-aurora-supercomputer-specifications-21248-xeon-cpus-63744-gpus-for-over-2-exaflops/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-23T03:27:03Z",
+  "Author": "Wilson"
+}

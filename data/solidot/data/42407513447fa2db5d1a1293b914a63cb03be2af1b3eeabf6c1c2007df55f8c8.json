@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "UNIX 诞生五十周年",
+  "Link": "https://www.solidot.org/story?sid=62323",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUNIX 诞生于 1969 年 AT\u0026amp;T 公司的贝尔实验室，今天隶属于诺基亚公司的贝尔实验室举办了 \u003ca href=\"https://www.bell-labs.com/unix50/\"\u003e\u003cu\u003eUNIX 诞生五十周年的庆祝活动\u003c/u\u003e\u003c/a\u003e。\u003ci\u003e1969 年的夏天，计算机科学家  Ken Thompson 和 Dennis Ritchie 创造了 UNIX 的首个实现，其目的是为实验室的 PDP-7 迷你计算机设计一种优雅而经济的操作系统。这个普普通通的项目却产生了极其深远的影响。UNIX 让各种计算机系统的大规模网络和互联网成为可能。UNIX 团队还开发了 C 语言，将效率和可表达性的组合带到了编程领域。两者使得计算机变得更便捷。今天，Unix 的最流行派生 Linux 驱动了无数的服务器，而大部分移动设备都有 Unix 和 Linux 元素。与此同时  C++ 仍然是最广泛使用的编程语言之一。Unix 虽然有 50 岁了，但它的影响力在继续增长。\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-22T07:13:48Z",
+  "Author": "wenfeixiang"
+}

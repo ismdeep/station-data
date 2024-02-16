@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "容器化打包格式不是 Linux 应用的未来",
+  "Link": "https://www.solidot.org/story?sid=69766",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Linux 桌面上部署应用曾是一件难事，问题在于库兼容性。不同的发行版，或相同发行版的不同版本，都有着不兼容的库。Linux 桌面缺乏向后兼容的文化传统。但情况已经发生了改变。Linux 桌面的稳定性最近几年有了显著的改善，核心库的开发者终于看到了维护兼容性的好处。尽管如此，应用开发者并没有充分利用预装在发行版上的稳定库，而是转向了容器化打包格式  \u003ca href=\"https://www.flatpak.org/\"\u003eFlatpak\u003c/a\u003e、\u003ca href=\"https://snapcraft.io/\"\u003eSnap\u003c/a\u003e、\u003ca href=\"https://appimage.org/\"\u003eAppImage\u003c/a\u003e、\u003ca href=\"https://www.docker.com/\"\u003eDocker\u003c/a\u003e 和 \u003ca href=\"https://store.steampowered.com/\"\u003eSteam\u003c/a\u003e：运用容器技术将所需要的运行时库直接封装在应用内。Flatpak 自称是应用发行的未来，但容器化打包格式\u003ca href=\"https://ludocode.com/blog/flatpak-is-not-the-future\"\u003e\u003cu\u003e并不是 Linux 应用的未来\u003c/u\u003e\u003c/a\u003e。简单举一个例子，AppImage 的计算器应用 KCalc 高达 152 MB，Flatpak 的相同应用 KCalc 在系统上首次安装需要下载 900 MB，而事实上 KCalc 应用本身只有 4.4 MB，其余都是系统上已安装了的冗余库。再下载一个 GIMP，两个应用就占用了 3GB 磁盘空间。除了更大的磁盘空间外，容器化应用还会占用更多内存，启动时间也更慢。想象下，为了启动一个计算器应用你每次需要等待 7 秒钟。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-25T12:43:12Z",
+  "Author": "WinterIsComing"
+}

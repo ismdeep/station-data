@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究员披露 Chrome 的 Magellan 2.0 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63057",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t腾讯安全研究员\u003ca href=\"https://blade.tencent.com/magellan2/index.html\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e了 Google Chrome 的新 Magellan 2.0 漏洞。研究人员共发现了 5 个漏洞，位于 SQLite 中，统称为 Magellan 2.0，这组漏洞允许攻击者在 Google Chrome 内远程运行恶意代码。Google 与 SQLite 官方已确认并修复了漏洞。如果用户使用 2019 年 12 月 13 日前的旧版本 \u003ca href=\"https://www.sqlite.org/src/timeline\"\u003e\u003cu\u003eSQLite\u003c/u\u003e\u003c/a\u003e 或运行低于 Chrome 79.0.3945.79 并启用了 WebSQL 的设备，那么可能会受到影响。和  Magellan 1.0 类似，这组新漏洞是因为  SQLite 数据库从第三方接受 SQL 命令输入验证不正确导致的。攻击者可以制作包含恶意代码的  SQL 操作命令，当  SQLite 数据库引擎读取该指令时会执行恶意代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-25T07:16:11Z",
+  "Author": "WinterIsComing"
+}

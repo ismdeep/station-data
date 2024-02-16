@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用假的 NordVPN 网站传播银行木马",
+  "Link": "https://www.solidot.org/story?sid=61813",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客\u003ca href=\"https://www.bleepingcomputer.com/news/security/hackers-use-fake-nordvpn-website-to-deliver-banking-trojan/\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e利用假的 NordVPN 网站传播银行木马。NordVPN 克隆网站是在 8 月 8 日上线的，使用了 Let’s Encrypt 签发的有效证书，吸引搜索 NordVPN 服务的用户下载安装程序，安装程序在安装 NordVPN 客户端的同时会丢下恶意负荷银行木马 Win32.Bolik.2 Trojan。这种木马能对不同银行客户端系统执行 Web 注入、流量拦截、按键记录和窃取信息。安全研究人员发现，同一黑客组织还利用类似的克隆知名网站或服务的方法传播银行木马。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T06:59:09Z",
+  "Author": "wenfeixiang"
+}

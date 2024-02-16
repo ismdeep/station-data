@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Guix 将终止支持 Linux 内核",
+  "Link": "https://www.solidot.org/story?sid=64025",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGuix 项目\u003ca href=\"https://guix.gnu.org/blog/2020/deprecating-support-for-the-linux-kernel/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将终止对 Linux 内核的支持。GNU Guix 是一个事务包管理器和 GNU 发行版，使用 Linux-Libre 自由内核，2015 年移植到了 GNU Hurd，开发者在 4 月 1 日宣布将停止支持 Linux 内核，所以\u003ca href=\"https://phoronix.com/scan.php?page=news_item\u0026amp;px=GNU-Guix-Going-Hurd\"\u003e\u003cu\u003e看起来\u003c/u\u003e\u003c/a\u003e是个愚人节玩笑，但开发者确实在努力用 GNU Hurd 内核\u003ca href=\"https://lwn.net/Articles/816674/\" target=\"_blank\"\u003e\u003cu\u003e替换\u003c/u\u003e\u003c/a\u003e Linux-Libre 内核。Guix 开发者称，运行在 Hurd 内核上始终是项目的目标，而支持多个内核是一个巨大的维护负担，因此即将发布的 Guix 1.1 将是最后一个使用 Linux-Libre 内核的版本，Guix System 的未来版本将只运行在 Hurd 内核上，Guix 2.0 将彻底移除 Linux-Libre。开发者希望其它发行版也采用  Hurd 以增加用户的安全和自由。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-03T11:51:36Z",
+  "Author": "WinterIsComing"
+}

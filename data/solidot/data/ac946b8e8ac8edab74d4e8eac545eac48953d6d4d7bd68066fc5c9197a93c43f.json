@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 提议“隐私沙盒”",
+  "Link": "https://www.solidot.org/story?sid=61825",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的 Chrome 团队\u003ca href=\"https://www.cnet.com/news/google-chrome-proposes-privacy-sandbox-to-reform-advertising-evils/\" target=\"_blank\"\u003e提出了\u003c/a\u003e“隐私沙盒”，针对目前的滥用隐私问题提出一种两全其美的解决方法：广告商能针对你的兴趣展示对应广告，但同时不会侵犯你的隐私。Google 是最大的网络广告商，收集了用户大量的隐私信息，为监控资本主义的最佳代表，因此它提出的任何隐私相关的建议\u003ca href=\"https://yro.slashdot.org/story/19/08/22/1453220/google-chrome-proposes-privacy-sandbox-to-reform-advertising-evils\"\u003e\u003cu\u003e都会引发怀疑\u003c/u\u003e\u003c/a\u003e。Chrome 工程总监 Justin Schuh 称，隐私沙盒是一个保护用户隐私的个人安全环境，将创建一套符合用户隐私期望的标准，将会限制跟踪技术，限制用户数据共享，直到被称为差分隐私（differential privacy）和联邦学习（Federated Learning）的技术被广泛使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-23T04:19:36Z",
+  "Author": "wenfeixiang"
+}

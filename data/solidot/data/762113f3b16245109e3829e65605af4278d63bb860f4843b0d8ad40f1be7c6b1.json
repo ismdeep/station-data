@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WireGuard 合并到 OpenBSD",
+  "Link": "https://www.solidot.org/story?sid=64733",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWireGuard \u003ca href=\"https://marc.info/?l=openbsd-cvs\u0026amp;m=159274150512676\u0026amp;w=2\" target=\"_blank\"\u003e\u003cu\u003e合并进入到了 OpenBSD\u003c/u\u003e\u003c/a\u003e，这意味着未来 OpenBSD 将能原生支持 WireGuard VPN。WireGuard 由 Jason Donenfeld 开发，前身是是一个数据渗漏工具，相比 OpenVPN 和 IPSec，WireGuard 代码更简单，它只有 4000 行代码，而 OpenVPN 超过 10 万行。除此之外，它支持最新的加密算法和协议。WireGuard 今年初合并到了 Linux 内核主线，随 Linux kernel 5.6 的发布正式提供给用户，它被认为将对 VPN 服务产生深远影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-22T03:42:55Z",
+  "Author": "WinterIsComing"
+}

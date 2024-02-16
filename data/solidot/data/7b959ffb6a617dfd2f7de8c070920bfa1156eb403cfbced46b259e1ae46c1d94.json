@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.16 释出",
+  "Link": "https://www.solidot.org/story?sid=70297",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lkml.org/lkml/2022/1/9/294\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.16。主要新特性包括：新系统调用 \u003ca href=\"https://lwn.net/Articles/866112/\"\u003e\u003cu\u003efutex_waitv() \u003c/u\u003e\u003c/a\u003e改进 Wine 项目模拟 Windows 游戏的性能，\u003ca href=\"https://lwn.net/Articles/864521/\"\u003e\u003cu\u003ememcpy() 加固\u003c/u\u003e\u003c/a\u003e，新  fanotify 事件类型处理文件系统错误报告，引入\u003ca href=\"https://lwn.net/Articles/849538/\"\u003e\u003cu\u003e内存页码（page folios）\u003c/u\u003e\u003c/a\u003e概念改进内存管理，任务调度器支持集群调度，支持英特尔的 Advanced Matrix Extensions (AMX)指令，基于 \u003ca href=\"https://lwn.net/Articles/863753/\"\u003e\u003cu\u003eDAMON\u003c/u\u003e\u003c/a\u003e 的主动内存回收和物理内存监视，改进写入拥堵，等等。更多可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.16\"\u003e\u003cu\u003eKernelNewbies 5.16\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-10T04:13:50Z",
+  "Author": "WinterIsComing"
+}

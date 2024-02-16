@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.19 加入了 50 万行图形驱动代码",
+  "Link": "https://www.solidot.org/story?sid=71659",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开启合并窗口的 Linux 5.19 \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.19-DRM-Driver-Updates\" target=\"_blank\"\u003e\u003cu\u003e加入了近 50 万行图形驱动代码\u003c/u\u003e\u003c/a\u003e。新增代码 495,793 行，删除代码 32,019 行，大部分新图形驱动代码为 AMD 下一代显卡的预备工作，包括数据中心显卡 CDNA Instinct 和消费者显卡 RDNA3 Radeon RX 7000 系列。在 Linux 内核，AMD 的图形驱动占到了逾四百万行代码。其它新增图形驱动还有英特尔的 DG2，以及高通和联发科的 GPU 驱动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-27T09:15:57Z",
+  "Author": "WinterIsComing"
+}

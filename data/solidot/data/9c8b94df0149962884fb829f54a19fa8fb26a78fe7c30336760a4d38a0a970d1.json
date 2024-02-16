@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Julia 1.7 发布",
+  "Link": "https://www.solidot.org/story?sid=69842",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t面向高性能科学计算的编程语言 Julia \u003ca href=\"https://julialang.org/blog/2021/11/julia-1.7-highlights/\"\u003e\u003cu\u003e释出了v1.7\u003c/u\u003e\u003c/a\u003e。主要\u003ca href=\"https://lwn.net/Articles/871486/\"\u003e\u003cu\u003e新特性\u003c/u\u003e\u003c/a\u003e包括：新随机数生成器；新线程能力，解决了运行时的多个竞争条件，改进了多线程下工作负荷调度，默认随机数生成器对线程更友好，支持可变结构字段原子访问；自动包安装，新 manifest 格式，语法变化，改进 Unicode 支持，REPL 新特性，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-02T06:22:46Z",
+  "Author": "WinterIsComing"
+}

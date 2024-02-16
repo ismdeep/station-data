@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 37 发布",
+  "Link": "https://www.solidot.org/story?sid=73387",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 项目释出了  Fedora Linux 37 的正式版。Fedora 37 新增了自动更新和易于回滚的版本 Fedora CoreOS，适用于基于容器的工作负载。其他更新包括：最新桌面环境 GNOME 43；Firefox 浏览器和语言包分离，用户可删除不需要的语言包；Fedora Server 提供了方便在虚拟机中运行的 KVM 镜像；不再接受 SHA-1 签名，未来计划移除 SHA-1 算法；支持 Raspberry Pi 4；Python 3.11、Golang 1.19、glibc 2.36 和 LLVM 15 等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://fedoramagazine.org/announcing-fedora-37/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-16T10:20:34Z",
+  "Author": "WinterIsComing"
+}

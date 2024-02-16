@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LastPass 限制免费版的设备类型",
+  "Link": "https://www.solidot.org/story?sid=66946",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行密码管理器 LastPass \u003ca href=\"https://support.logmeininc.com/lastpass/help/what-can-i-expect-to-change-for-lastpass-free-on-march-16-2021\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将从 3 月 16 日起限制免费版用户访问其服务的设备类型。LastPass 提供了两种访问其服务的设备类型：计算机（包括运行在台式机和笔记本电脑上各种浏览器）和移动设备（包括手机、智能手表和平板）。免费用户只能选择一种设备类型，但该类型下的设备数量不受限制。免费版用户将在  3 月 16 日之后的首次登陆时选择访问的设备类型。用户有三次机会更换活跃设备类型。付费用户没有任何改变。LastPass 此举引发了很多\u003ca href=\"https://tech.slashdot.org/story/21/02/16/166221/lastpass-free-tier-will-become-a-lot-less-useful-next-month\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e，很多人建议切换到开源的 Keepass 或 \u003ca href=\"https://bitwarden.com/\" target=\"_blank\"\u003eBitWarden\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-17T13:21:32Z",
+  "Author": "WinterIsComing"
+}

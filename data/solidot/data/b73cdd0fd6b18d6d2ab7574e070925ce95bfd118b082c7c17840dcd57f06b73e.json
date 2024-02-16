@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PHP 8.3 释出",
+  "Link": "https://www.solidot.org/story?sid=76715",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPHP 语言释出了 8.3 版本。主要新特性包括：类型化类常量，动态获取类常量，新增 #[\\Override] 属性，只读属性深拷贝，新增 json_validate() 函数，新增 Randomizer::getBytesFromString() 方法，新增 Randomizer::getFloat() 和 Randomizer::nextFloat() 方法，命令行 linter 支持多个文件，新的类、接口和函数，此外还有性能改进、bug 修复等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.php.net/releases/8.3/zh.php\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-24T12:46:05Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 移动版移除了禁用自动播放的选项",
+  "Link": "https://www.solidot.org/story?sid=65479",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 从 Chrome Mobile 中\u003ca href=\"https://support.google.com/chrome/thread/26214034\"\u003e\u003cu\u003e移除了\u003c/u\u003e\u003c/a\u003e禁用视频自动播放的选项。根据 Google 开发者的\u003ca href=\"https://news.ycombinator.com/item?id=24403392\"\u003e\u003cu\u003e回答\u003c/u\u003e\u003c/a\u003e和 \u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1063649#c8\"\u003e\u003cu\u003eChromium 问题报告\u003c/u\u003e\u003c/a\u003e，Google 做出这一决定背后的理由是：禁用视频自动播放会鼓励网站从视频转换到大容量 Gif 动画（出现了上百 MB 大小的动画），或者在 JS 中解码视频绘到画板上，这两种情况对用户来说都是不理想的。其他开发者认为保留选项比一刀切的移除选项更合乎情理。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-08T14:16:03Z",
+  "Author": "WinterIsComing"
+}

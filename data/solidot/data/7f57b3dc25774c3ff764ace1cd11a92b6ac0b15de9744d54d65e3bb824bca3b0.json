@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox VPN 开始 Beta 测试",
+  "Link": "https://www.solidot.org/story?sid=63582",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果你身处美国，有一台 Chromebook 或一台 Windows PC 或一部 Android 设备，你将可以参与测试 \u003ca href=\"https://fpn.firefox.com/\"\u003e\u003cu\u003eFirefox Private Network\u003c/u\u003e\u003c/a\u003e 的 Beta 版本——这是 Mozilla 推出的 VPN 服务。Mozilla 提供的 Firefox Private Network 服务有两个选项，一个是免费的浏览器扩展版本，实际上是 HTTP/HTTPS 代理，由合作伙伴 Cloudflare 运营；另一个是完整的 VPN 服务，每月收费 4.99 美元，由瑞典开源公司  Mullvad 提供，一个账号支持最多 5 个设备同时使用，可选择 30 多个国家的服务器。付费版本不记录用户日志。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-20T05:48:39Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Safari 将停止信任过期时间超过 13 个月的证书",
+  "Link": "https://www.solidot.org/story?sid=63614",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果的 Safari 浏览器将从今年下半年\u003ca href=\"https://www.theregister.co.uk/2020/02/20/apple_shorter_cert_lifetime/\"\u003e\u003cu\u003e开始停止信任过期时间超过 13 个月的新签发证书\u003c/u\u003e\u003c/a\u003e。苹果是在上周举行的 Certification Authority Browser Forum (CA/Browser)会议上透露这一政策的。从 9 月 1 日起，任何网站的新证书如果有效时间超过 398 天，将不会被 Safari 浏览器信任。在这个日期前签发的旧证书则不受影响。苹果将在所有 iOS 和 macOS 设备上执行这一政策，此举将迫使网站管理员和开发者为避免网站在苹果设备上出现访问问题而遵守新的规定。苹果则旨在通过缩短证书信任时间去改进网站的安全。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-24T05:53:04Z",
+  "Author": "WinterIsComing"
+}

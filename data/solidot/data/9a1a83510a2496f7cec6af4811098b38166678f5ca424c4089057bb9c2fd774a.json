@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "间谍应用利用新冠疫情进行传播",
+  "Link": "https://www.solidot.org/story?sid=63876",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Lookout 的研究人员\u003ca href=\"https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19\" target=\"_blank\"\u003e\u003cu\u003e披露间谍应用正在利用新冠疫情\u003c/u\u003e\u003c/a\u003e。其中一个应用叫 corona live 1.1，是合法应用 corona live 的木马版本，它内置了商业间谍软件 SpyMax，允许攻击者控制感染的设备。对该应用的分析显示，其开发还处于早期阶段，它有一个硬编码的控制服务器地址。在检查控制服务器域名时，研究人员发现它正被大约 29 个应用使用，所有这些应用都利用商业间谍软件监视终端用户。Lookout 还没有判断该应用是如何传播的，有多少设备被感染。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-19T14:41:14Z",
+  "Author": "WinterIsComing"
+}

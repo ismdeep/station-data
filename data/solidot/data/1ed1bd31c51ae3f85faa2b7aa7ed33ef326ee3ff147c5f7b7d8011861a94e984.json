@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "如果其他人不喜欢 Microsoft Edge 将停止向用户展示网站通知",
+  "Link": "https://www.solidot.org/story?sid=66955",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t许多网站在用户首次访问时会弹出请求，询问用户“是否允许来自网站的通知”，绝大部分用户对此都是置之不理或者是拒绝。微软正在尝试一种新的解决方案\u003ca href=\"https://www.theverge.com/2021/2/16/22286069/microsoft-edge-adaptive-notification-requests\" target=\"_blank\"\u003e\u003cu\u003e帮助用户处理这一问题\u003c/u\u003e\u003c/a\u003e：如果很多人不同意，那么 Microsoft Edge 将会自动对新用户屏蔽这一请求。该功能被微软称为“自适应通知请求”，它受到了测试者的好评，Edge 88 将会向用户推送这一功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-18T02:30:44Z",
+  "Author": "WinterIsComing"
+}

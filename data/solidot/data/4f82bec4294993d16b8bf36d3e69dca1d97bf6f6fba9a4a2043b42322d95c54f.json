@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora Linux 31 Beta 释出",
+  "Link": "https://www.solidot.org/story?sid=62116",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora Linux 31 即将在今年晚些时候释出，它刚刚发布了\u003ca href=\"https://spins.fedoraproject.org/prerelease\"\u003e\u003cu\u003e Beta 版本\u003c/u\u003e\u003c/a\u003e。Fedora 31 主要变化包括：GNOME 3.34，支持 cgroups v2，RPM 压缩算法切换到 ztsd，支持 RPM 4.15，在包注解中 Python 代表 Python 3，停止构建 i686 内核，等等。详细可浏览 \u003ca href=\"https://fedoraproject.org/wiki/Releases/31/ChangeSet\"\u003e\u003cu\u003eChangeSet\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-18T03:55:55Z",
+  "Author": "wenfeixiang"
+}

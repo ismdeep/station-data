@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Faker.js 成为社区控制的开源项目",
+  "Link": "https://www.solidot.org/story?sid=70383",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在一位开源开发者\u003ca href=\"https://www.solidot.org/story?sid=70299\"\u003e\u003cu\u003e故意破坏\u003c/u\u003e\u003c/a\u003e两个广泛使用的开源库一周之后，其中之一的 Faker.js \u003ca href=\"https://fakerjs.dev/update.html#who-are-the-current-maintainers\" target=\"_blank\"\u003e\u003cu\u003e成为社区控制的开源项目\u003c/u\u003e\u003c/a\u003e。Faker 是一个生成虚假但合理数据的库，可用于测试和开发，最早由 Jason Kohles 在 Perl 语言中实现，之后移植到 Ruby、Python、Java、Clojure 和 PHP 等不同语言，Faker.js 是 JavaScript 的移植版本。新的社区项目托管在 GitHub 上，名字为 \u003ca href=\"https://github.com/faker-js\"\u003e\u003cu\u003efaker-js/faker\u003c/u\u003e\u003c/a\u003e，包含了 8 名维护者。开发者\u003ca href=\"https://news.ycombinator.com/item?id=29961274\"\u003e\u003cu\u003e承诺\u003c/u\u003e\u003c/a\u003e将继续扩展和开发项目， 为 Faker.js 带来新的生命。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-17T03:20:06Z",
+  "Author": "WinterIsComing"
+}

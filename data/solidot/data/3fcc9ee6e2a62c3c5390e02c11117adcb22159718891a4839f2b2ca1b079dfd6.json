@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员发现 Signal 的 TLS 代理会泄漏 DNS 和 API 请求",
+  "Link": "https://www.solidot.org/story?sid=66897",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:realducksoft@gmail.com\"\u003eDuckSoft\u003c/a\u003e 写道\u003ci\u003e \u0026#34;最近，端到端加密消息平台 Signal 被伊朗政府封杀。为了帮助其用户绕过伊朗的审查制度，该公司提出了一个 \u003ca href=\"https://signal.org/blog/help-iran-reconnect/\"\u003eTLS 代理\u003c/a\u003e 的变通方法。\n\u003c/i\u003e\u003ci\u003e\n继 “Signal 无视代理漏洞，称“这不是风险” 事件”（\u003ca href=\"https://www.solidot.org/story?sid=66889\"\u003eSolidot\u003c/a\u003e）后，有研究人员\u003ca href=\"https://community.signalusers.org/t/traffic-not-routed-to-tls-proxies-can-expose-users-to-censors/27479\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e（\u003ca href=\"https://web.archive.org/web/20210208105906/https://community.signalusers.org/t/traffic-not-routed-to-tls-proxies-can-expose-users-to-censors/27479 \" target=\"_blank\"\u003e\u003cu\u003e存档\u003c/u\u003e\u003c/a\u003e），Signal 的  Android 应用的最新测试版未能将所有流量路由到 TLS 代理。应用中存在 DNS 泄漏，这对于审查人员来说，了解哪些 IP 地址连接到 Signal 将易如反掌。\u003c/i\u003e\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e研究人员还报告了其他的流量泄漏问题，包括检查更新等 API 不会走代理等。\u0026#34;\u003c/i\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-09T01:12:55Z",
+  "Author": "WinterIsComing"
+}

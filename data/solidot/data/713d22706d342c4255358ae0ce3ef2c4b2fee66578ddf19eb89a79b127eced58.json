@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "让量子计算机更强大",
+  "Link": "https://www.solidot.org/story?sid=70323",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t瑞士洛桑联邦理工学院（EPFL）的工程师\u003ca href=\"https://techxplore.com/news/2022-01-quantum-powerful.html\" target=\"_blank\"\u003e\u003cu\u003e开发出\u003c/u\u003e\u003c/a\u003e一种能同时读取多个量子比特（量子数据的最小单位）的方法，为新一代更强大的量子计算机铺平了道路。EPFL 工程学院高级量子架构实验室(AQUA Lab)负责人 Edoardo Charbon 教授表示：“IBM 和 Google 目前拥有世界上最强大的量子计算机。”“IBM 刚刚推出了 127 量子比特的机器，而 Google 的机器是 53 量子比特。”由于量子比特数量存在上限，量子计算机变快的范围也有限。Charbon 领导的工程师团队同英国的研究人员合作，开发出了一种很有希望突破这一技术障碍的方法。他们的方法可以更有效地读取量子比特，这意味着可以将更多的量子比特打包到量子处理器中。\u003ca href=\"https://www.nature.com/articles/s41928-021-00687-6\" target=\"_blank\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Nature Electronics》期刊上。量子比特的数量受限于目前没有可以快速读取所有量子比特的技术。Charbon 表示：“更复杂的是，量子比特在接近绝对零度——即-273.15摄氏度的温度下运行。这让阅读和控制它们变得更加困难。工程师通常是在室温下使用机器并控制每个量子比特。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T10:15:31Z",
+  "Author": "wanwan"
+}

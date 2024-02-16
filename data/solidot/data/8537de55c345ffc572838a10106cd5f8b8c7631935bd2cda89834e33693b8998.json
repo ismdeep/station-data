@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度核电站遭遇网络攻击，攻击者被认为与朝鲜有关",
+  "Link": "https://www.solidot.org/story?sid=62417",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t印度古丹库兰邦核电站\u003ca href=\"https://arstechnica.com/information-technology/2019/10/indian-nuke-plants-network-reportedly-hit-by-malware-tied-to-n-korea/\" target=\"_blank\"\u003e\u003cu\u003e遭遇了网络攻击\u003c/u\u003e\u003c/a\u003e，攻击者使用的恶意程序被认为与朝鲜有关。攻击被认为没有影响到反应堆控制，其目的不是破坏核电站而是窃取情报，收集相关的研究和技术情报。攻击者使用的恶意程序被称为 Dtrack，与破坏韩国媒体公司和银行硬盘的恶意程序 DarkSeoul 共享代码，被认为与朝鲜黑客组织 Lazarus 有关联。攻击者获得了域控制器级的访问权限，但核电站官员表示核电站控制系统网络与管理网络是相互隔离的，因此网络攻击对核电站的安全没有构成威胁，但他们还不清楚有哪些数据被窃取了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-30T04:00:41Z",
+  "Author": "wenfeixiang"
+}

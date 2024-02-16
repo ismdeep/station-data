@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科罗拉多州的失业登记系统是基于 COBOL",
+  "Link": "https://www.solidot.org/story?sid=64138",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个月前，Peter Cassidy 还在机场里工作。疫情导致航班越来越少。3 月 17 日他被解雇了。第二天早晨，和其他数百万美国人一样，他在网上填报了失业登记。然而当他点击递交时却返回了错误信息。科罗拉多州的失业登记系统超载了，他必须重新填写文件。接下来三天，情况照旧。他甚至尝试在凌晨三点就起来抢在其他人前面去登陆。但最终他只好放弃，通过电话登记失业。和美国的很多州一样，科罗拉多州的失业登记系统\u003ca href=\"https://www.theverge.com/2020/4/14/21219561/coronavirus-pandemic-unemployment-systems-cobol-legacy-software-infrastructure\" target=\"_blank\"\u003e是基于古老的 COBOL 语言\u003c/a\u003e。调查显示，美国至少有 12 个州的失业登记系统仍然使用 COBOL，包括阿拉斯加、康涅狄格州、加利福尼亚州、爱荷华州、堪萨斯州和罗德岛。科罗拉多州劳工部发言人表示，该州距离从 COBOL 迁移到新环境只差一两个月时间。疫情导致了大量人失业，而 COBOL 成为失业者登记的一大阻碍。加州与 IT 供应商有合同，而其他州如科罗拉多只能依靠自己的程序员。罗德岛州称它目前有 3 名 COBOL 程序员，而在疫情爆发前科罗拉多州只有 1 名全职 COBOL 程序员。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-16T07:47:04Z",
+  "Author": "WinterIsComing"
+}

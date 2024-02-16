@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国用比特币归还索尼员工窃取的 1.54 亿美元",
+  "Link": "https://www.solidot.org/story?sid=70109",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国采取法律行动，\u003ca href=\"https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/\"\u003e\u003cu\u003e没收并归还\u003c/u\u003e\u003c/a\u003e一名员工从索尼子公司 Sony Life Insurance Company Ltd 窃取的 1.54 亿美元比特币。美国司法部表示：根据政府诉讼，东京 Sony Life Insurance Company Ltd.（Sony Life）的一名员工 Rei Ishii 涉嫌在公司财务账户之间转移资金时窃取了 1.54 亿美元。Ishii 伪造交易指令，将资金转移到 Ishii 在加州拉霍亚一家银行控制的账户。法庭文件显示，Ishii 将 Sony Life 的转账地址改为他控制的一个 Silvergate Bank 账户。然后将被盗资金转换为 3879 个比特币，通过 Coinbase 将所有入账资金都自动转移到一个离线加密货币冷钱包中。将钱转换为加密货币后，Ishii 还给主管和 Sony Life 的几位高管发送一封用英语和日语写的勒索电子邮件，试图说服他们不要协助调查人员。勒索电子邮件写道：“如果你们接受和解，我们将退还这笔钱。如果你们要提起刑事诉讼，就无法收回这笔钱了。”“我们会盯着这一切，但有一件事是肯定的，你们会和我们达成一致。我们强烈建议停止与包括执法部门在内的任何第三方沟通。” 12 月 1 日，在与日本执法部门协作调查后，FBI 获得了私钥，在 Ishii 的钱包中查获了 3879.16242937 个比特币，并将这些比特币转移到 FBI 的比特币钱包中。东京警视厅于同一天逮捕了 32 岁的 Ishii，以涉嫌于从欺诈性转账获得1.54亿美元的罪名对他提出刑事指控。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-23T09:14:53Z",
+  "Author": "matrix"
+}

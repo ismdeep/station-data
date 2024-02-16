@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "harbian-audit v0.4发布: 支持Debian 10和CentOS 8",
+  "Link": "https://www.solidot.org/story?sid=63759",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedlinux.github.io/\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;HardenedLinux社区在\u003ca href=\"https://www.solidot.org/story?sid=58819\" target=\"_blank\"\u003e2018年12月公开了harbian-audit项目\u003c/a\u003e后一直持续的进行着bug修复和新功能的开发，\u003ca href=\"https://github.com/hardenedlinux/harbian-audit/tree/V0.4.0\" target=\"_blank\"\u003eharbian-audit v0.4\u003c/a\u003e版本正式发布，根据之前用户的反馈和改进建议，这个版本不仅支持Debian GNU/Linux 9和10，我们也基于\u003ca href=\"https://github.com/hardenedlinux/STIG-OS-mirror/blob/master/redhat-STIG-DOCs/U_Red_Hat_Enterprise_Linux_7_V2R5_STIG.zip\" target=\"_blank\"\u003eSTIG指南的Red Hat Enterprise Linux 7 V2R5\u003c/a\u003e和CIS作为参考实现了对CentOS 8的大部分支持，这也是目前为止唯一一个整合和STIG和CIS两个安全部署合规指南并且覆盖Debian和RHEL/CentOS两大企业部署量最大GNU/Linux发行版的自由软件的公开实现，未来的某些时候或许我们会释出强制访问控制规则的部分以完整实现安全标准的要求，对于之前\u003ca href=\"https://github.com/hardenedlinux/harbian-audit\" target=\"_blank\"\u003eharbian-audit\u003c/a\u003e不少用户热衷于\u003ca href=\"https://www.solidot.org/story?sid=59068\" target=\"_blank\"\u003e定制云虚机镜像\u003c/a\u003e的部分HardenedLinux将不继续维护。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T03:12:32Z",
+  "Author": "WinterIsComing"
+}

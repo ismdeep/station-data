@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美光解释 DDR5 短缺的原因",
+  "Link": "https://www.solidot.org/story?sid=70125",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在最近一次季度收益财报电话会议上，美光\u003ca href=\"https://hothardware.com/news/micron-explains-reason-ddr5-shortage-not-memory-chips\" target=\"_blank\"\u003e\u003cu\u003e解释\u003c/u\u003e\u003c/a\u003e说 DDR5 需求“远远超出供应”的原因是供应商在采购非内存组件方面遇到困难。这暗示美光可以生产出足够多的 DDR5 芯片满足需求，只是构成内存模块的其他组件不容易获得。好消息是情况明年应该会有所缓解。美光首席执行官兼总裁 Sanjay Mehrotra 在电话会议上表示：“整个 PC 行业对 DDR5 产品的需求远远超出供应，这是因为非内存组件短缺影响了内存供应商生产 DDR5 模块的能力。我们预计 2022 年短缺的状况会缓和， 2022 年（日历年）的下半年，使 DDR5 的出货量增长到有意义的水平。”美光没有详细说明是哪些组件供应短缺，不过这可能指的是电源管理IC（PMIC）、电压调节模块（VRM），甚至可能是目前供应紧张的印刷电路板（PCB）。最有可能的罪魁祸首是前两个组件。DDR5 使用这两个组件，而不是继续让主板处理这些杂务，行业调整需要一些时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-24T07:58:58Z",
+  "Author": "wanwan"
+}

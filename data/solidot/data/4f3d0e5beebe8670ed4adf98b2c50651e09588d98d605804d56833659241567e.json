@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 119 释出",
+  "Link": "https://www.solidot.org/story?sid=76433",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 Firefox 119，主要新特性包括：Firefox View 能显示更多内容；支持导入部分 Chrome 扩展；继续加强对系统字体指纹的保护；PDF 编辑功能支持添加图像和替代文本等功能；安全增强机制 Encrypted Client Hello (ECH)——加密客户端和服务器之间的握手（Hello）信息，需要启用 DNS over HTTPS (DoH)；等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.mozilla.org/en-US/firefox/119.0/releasenotes/\n\u003cbr/\u003e\nhttps://support.mozilla.org/zh-CN/kb/understand-encrypted-client-hello\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-24T11:33:28Z",
+  "Author": "Wilson"
+}

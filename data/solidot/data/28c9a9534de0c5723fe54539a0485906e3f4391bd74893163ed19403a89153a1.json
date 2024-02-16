@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mastodon 3.0 发布",
+  "Link": "https://www.solidot.org/story?sid=62182",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://joinmastodon.org/\" target=\"_blank\"\u003eMastodon\u003c/a\u003e（乳齿象）是一个免费开源、去中心化、分布式微博社交网络，区别于 Twitter ，Mastodon 像电子邮件系统一样联邦式运作，由 \u003ca href=\"https://www.pixiv.net/\" target=\"_blank\"\u003ePixiv\u003c/a\u003e 所运营的 \u003ca href=\"https://pawoo.net/\" target=\"_blank\"\u003ePawoo\u003c/a\u003e 正是其中的一员。\u003ca href=\"https://github.com/tootsuite/mastodon/releases/\" target=\"_blank\" style=\"\"\u003e新版本\u003c/a\u003e主要加入了白名单模式（whitelist mode），自动建议哈希标签，搜索改进，加入 OCR 工具，移除 OStatus 协议支持等。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-09T02:05:49Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 出版新书《Building Secure and Reliable Systems》",
+  "Link": "https://www.solidot.org/story?sid=64086",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tO\u0026#39;Reilly 在出版了《网站可靠性管理（Site Reliability Engineering》》和《网站可靠性工作手册（The Site Reliability Workbook》》之后，出版了 Google 工程师的另一本有关网站可靠性的书《\u003ca href=\"https://www.google.com/books/edition/Building_Secure_and_Reliable_Systems/Kn7UxwEACAAJ?hl=en\"\u003e\u003cu\u003eBuilding Secure and Reliable Systems\u003c/u\u003e\u003c/a\u003e》，这次强调的是安全。针对设计、实现和维护系统的开发群体，Google 的工程师分享了设计从基础上安全的可伸缩可靠系统的方法。前两本书都提供了 HTML 免费版本，而新书没有提供 HTML 版本，但提供了 \u003ca href=\"https://landing.google.com/sre/static/pdf/SRS.pdf\"\u003e\u003cu\u003ePDF\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://landing.google.com/sre/static/pdf/srs-epub.epub\"\u003e\u003cu\u003eEPUB\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://landing.google.com/sre/static/pdf/srs-mobi.mobi\"\u003e\u003cu\u003eMOBI \u003c/u\u003e\u003c/a\u003e版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-11T03:10:23Z",
+  "Author": "WinterIsComing"
+}

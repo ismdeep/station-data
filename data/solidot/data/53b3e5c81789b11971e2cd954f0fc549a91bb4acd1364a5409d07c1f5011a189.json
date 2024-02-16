@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 将替换 master 这个术语",
+  "Link": "https://www.solidot.org/story?sid=64658",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub CEO Nat Friedman 周五在 Twitter 上\u003ca href=\"https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，GitHub 将用中性词如  \u0026#34;main\u0026#34; 去替换 \u0026#34;master\u0026#34;这个让人联想到奴隶制的术语。GitHub 成为最新一个支持移除可能冒犯部分群体的术语的公司。替换的术语包括 \u0026#34;master\u0026#34; 和 \u0026#34;slave\u0026#34; 替换为\u0026#34;main/default/primary\u0026#34; 和 \u0026#34;secondary\u0026#34; ，\u0026#34;blacklist\u0026#34; 和 \u0026#34;whitelist\u0026#34; 替换为 \u0026#34;allow list\u0026#34; 和 \u0026#34;deny/exclude list\u0026#34;。最近几周，因为 Black Lives Matter（黑人的命也是命）抗议活动，多个开源项目采取行动替换冒犯性的术语，其中包括  \u003ca href=\"https://github.com/sebastianbergmann/phpunit/commit/8e9c76d33dab4095c9066072076f368193e4166d\"\u003e\u003cu\u003ePHPUnit\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://github.com/curl/curl/pull/5546\"\u003e\u003cu\u003eCurl\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/openzfs/zfs/pull/10435\"\u003e\u003cu\u003eOpenZFS\u003c/u\u003e\u003c/a\u003e，Google Chrome 和 OpenSSL 等项目也都考虑采取类似的行动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-14T15:20:24Z",
+  "Author": "WinterIsComing"
+}

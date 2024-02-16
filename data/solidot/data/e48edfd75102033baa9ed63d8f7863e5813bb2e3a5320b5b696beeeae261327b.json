@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Docs 将使用基于画布的渲染",
+  "Link": "https://www.solidot.org/story?sid=67760",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它更新了 Google Docs 渲染文档的方式，未来几个月它会将 Docs 的底层技术实现从基于 HTML 的渲染方法迁移到基于画布（canvas）的渲染方法。Google 称这将能改进性能和不同平台如何呈现内容的一致性。Google 认为这一改变不会影响 Docs 的功能，但会影响到部分 Chrome 扩展，这些扩展可能将不能正常工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-13T07:59:21Z",
+  "Author": "WinterIsComing"
+}

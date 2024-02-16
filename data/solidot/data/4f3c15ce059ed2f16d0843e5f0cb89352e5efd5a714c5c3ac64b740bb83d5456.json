@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "活动人士的手机多次成为以色列间谍软件的目标",
+  "Link": "https://www.solidot.org/story?sid=62231",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t大赦国际\u003ca href=\"https://arstechnica.com/information-technology/2019/10/activists-phones-targeted-by-one-of-the-worlds-most-advanced-espionage-apps/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，两名人权活动人士的手机多次成为以色列  NSO 公司开发的间谍软件 Pegasus 的目标。摩洛哥人权活动人士 Maâti Monjib 和律师 Abdessadak El Bouchattaoui 的手机收到的短信包含了恶意网站的链接，如果点击链接，网站将会尝试在手机上安装 Pegasus，它是目前曝光的功能全面的最先进间谍软件之一。这不是第一次 NSO 的间谍软件被用于监视活动人士或异议人士。2016 年阿联酋的活动人士 Ahmed Mansoor 就收到短信试图引诱他访问会在 iPhone 手机上安装 Pegasus 的网站，网站利用了三个 iOS 0day 漏洞。NSO 在一份声明中表示会对报道进行调查，如果确认将会采取恰当的行动，包括终止客户对其产品的使用。NSO 声称它三次关闭客户对其系统的访问，大赦国际则对此表示了怀疑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-14T09:38:45Z",
+  "Author": "wenfeixiang"
+}

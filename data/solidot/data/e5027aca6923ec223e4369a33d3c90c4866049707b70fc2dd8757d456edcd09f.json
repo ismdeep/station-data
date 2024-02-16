@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FFmpeg 4.2 \"Ada\" 释出",
+  "Link": "https://www.solidot.org/story?sid=61629",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFFmpeg 多媒体框架释出了\u003ca href=\"http://ffmpeg.org/index.html#pr4.2\" target=\"_blank\"\u003e\u003cu\u003e最新的 4.2 \u0026#34;Ada\u0026#34;\u003c/u\u003e\u003c/a\u003e。FFmpeg 被多媒体应用广泛使用，其中之一是 VLC。最新的版本包含了大量新的过滤器和解码器，其中就包括了期盼已久的 AV1 解码器和过滤器。AV1 是 AOMedia 释出的开源的免专利费编解码器，其 4K UHD 视频压缩率高于竞争的编码器。FFmpeg 开发者建议发行版和用户尽快升级到最新版本。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-07T04:42:21Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "正义黑客破坏 Emotet 僵尸网络",
+  "Link": "https://www.solidot.org/story?sid=65049",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位身份未知的黑客\u003ca href=\"https://www.zdnet.com/article/a-vigilante-is-sabotaging-the-emotet-botnet-by-replacing-malware-payloads-with-gifs/\" target=\"_blank\"\u003e\u003cu\u003e破坏了\u003c/u\u003e\u003c/a\u003e最近恢复活动的僵尸网络 Emotet，用不同的 GIF 动画替换了其恶意负荷，事实上防止受害者被感染。Emotet 是最具危险性的恶意程序之一，它能窃取银行账号，安装不同类型的恶意程序。它主要通过钓鱼邮件诱骗用户点击恶意文件进行传播。Emotet 沉寂了 5 个月，上周开始恢复活动。Emotet 背后的攻击者被发现使用了开源脚本并使用相同的密码管理其  web shell。未知黑客就利用这个弱点对 Emotet 僵尸网络进行破坏，用动画替换恶意负荷。当受害者打开恶意文件，他们不会被感染，因为  Emotet 不会被下载并在机器上执行。跟踪显示，四分之一的 Emotet 恶意负荷下载遭到破坏。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-25T06:53:57Z",
+  "Author": "WinterIsComing"
+}

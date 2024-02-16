@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GPSD Bug 将把计时系统跳回到 2002 年 3 月",
+  "Link": "https://www.solidot.org/story?sid=69339",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从 GPS 系统获取时间的守护进程 \u003ca href=\"https://gpsd.gitlab.io/gpsd/\"\u003e\u003cu\u003eGPSD\u003c/u\u003e\u003c/a\u003e  的一个 bug 将在 2021 年 10 月 24 日\u003ca href=\"https://www.zdnet.com/article/thanks-to-a-nasty-gpsd-bug-real-life-time-travel-trouble-arrives-this-weekend/\"\u003e\u003cu\u003e触发\u003c/u\u003e\u003c/a\u003e，时间会回调到 2002 年 3 月。修改 bug 的补丁早在 8 月释出，但不是所有设备都更新。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这将会很讨厌。或者如 bug 发现者 Stephen Williams 所说“将会出现有趣的时刻”。GPSD 维护者 Gary E. Miller 对代码进行了修复。确切地说，修复是在 2021 年 8 月的 \u003ca href=\"https://gpsd.gitlab.io/gpsd/NEWS\"\u003e\u003cu\u003eGPSD 3.23\u003c/u\u003e\u003c/a\u003e 版本中。既然已经有修复程序了，还有什么问题？\n\u003cbr/\u003e\n\u003cbr/\u003e\n有两个问题。首先，它无法\u003ca href=\"https://gitlab.com/gpsd/gpsd/-/issues/144#note_636906629\"\u003e\u003cu\u003e向后移植\u003c/u\u003e\u003c/a\u003e到以前的版本。如果你仍在使用旧版本，就不走运了。其次，正如 Miller 所观察到的，并非所有发行版都“获取了 GPSD 更新或者上游补丁”。即使操作系统是最新的，也不能保证它有了必要的 GPSD 修复程序。Miller 建议用户手动检查下：“我想引用 Greg K_H 的格言：所有的用户\u003ca href=\"https://gitlab.com/gpsd/gpsd/-/issues/144#note_642351426\"\u003e\u003cu\u003e都必须更新\u003c/u\u003e\u003c/a\u003e。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n想知道这一切 GPS Week Rollover 骚动的神秘根源是什么吗？这是一个遗留下来的 GPS 问题。GPS 信号 GPS 周数使用的是 10 位代码，最大值为 1023。这意味着每19.7 年，GPS 周数会滚动到零。正如 Miller 所说，“代码就是以 1024 为一个周期，等着问题出现。”因此请立刻检查你的系统是否存在此问题。如果你像我们大多数人一样，依赖上游提供正确的时间，请联系他们确认已经解决了这个即将到来的麻烦。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-22T06:50:57Z",
+  "Author": "WinterIsComing"
+}

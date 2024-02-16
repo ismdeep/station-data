@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件黑帮拍卖受害者机密数据",
+  "Link": "https://www.solidot.org/story?sid=64560",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为迫使受害者支付赎金，勒索软件攻击者\u003ca href=\"https://arstechnica.com/information-technology/2020/06/ransomware-gang-is-auctioning-off-victims-confidential-data/\" target=\"_blank\"\u003e\u003cu\u003e宣布拍卖\u003c/u\u003e\u003c/a\u003e受害者的机密数据。勒索软件 REvil、Sodin 和 Sodinokibi 背后的犯罪分子通过其维护的暗网网站 Happy Blog 启动了拍卖流程。以前勒索软件攻击者为了迫使受害者支付赎金会选择性的披露部分窃取的数据。可能是早先的策略效果不佳，攻击者试图通过拍卖对受害者施加更大的压力。Happy Blog 目前拍卖的数据来自于两家公司，其一是食品销售商，另一家是加拿大的农作物生产商。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-03T13:49:18Z",
+  "Author": "WinterIsComing"
+}

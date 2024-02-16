@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BentoML 发布大模型开放平台 OpenLLM",
+  "Link": "https://www.solidot.org/story?sid=75287",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tBentoML 发布了大模型开放平台 OpenLLM，采用 Apache-2.0 许可证，允许用户在云端或本地（对硬件有高要求）部署和运行任何开源大模型，构建 AI 应用。OpenLLM 支持的开源大模型包括了 StableLM、Falcon、Dolly、Flan-T5、ChatGLM 和 StarCoder 等。不同模型对硬件有不同的需求，举例来说，有 400 亿参数的 Falcon 40b 模型需要英伟达 48GB 显存的 A100 专业显卡。开发者表示他们正在开发微调功能，预计会很快释出。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/bentoml/OpenLLM\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-19T15:19:34Z",
+  "Author": "Wilson"
+}

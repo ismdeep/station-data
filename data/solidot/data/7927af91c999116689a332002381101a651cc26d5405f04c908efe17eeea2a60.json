@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌龟如何使用温度决定性别",
+  "Link": "https://www.solidot.org/story?sid=64183",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t众所周知，乌龟的性别是由温度决定的。温度超过 30 摄氏度，绝大部分卵会发育成雌性；温度低于 26 摄氏度，绝大部分卵会发育成雄性。但它的生物系统是如何利用温度去决定性别的？发表在《科学》上的一篇\u003ca href=\"https://science.sciencemag.org/content/368/6488/303\"\u003e论文\u003c/a\u003e提供了线索。2018 年科学家报告发现了名为 Kdm6b 的基因参与调控乌龟的双性基因。但这种基因只在一种温度下制造蛋白质，意味着它并不处于性别决定的上游。现在研究人员\u003ca href=\"https://arstechnica.com/science/2020/04/how-turtles-use-temperature-to-figure-out-their-sex/\"\u003e\u003cu\u003e识别了另一个调控器 Stat3\u003c/u\u003e\u003c/a\u003e，它能阻断雄性决定路径的活性。在触发雌性发育的高温下它有更多的活性形式。屏蔽 Stat3 的活性能促使乌龟发育成雄性，即使在高温下也是如此。而 Stat3 的激活与细胞中钙的累积相关。研究人员发现，性腺中的钙浓度会随着温度而发生差异，也就是说乌龟通过钙的浓度变化来记录温度决定性别。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-21T15:00:06Z",
+  "Author": "ai"
+}

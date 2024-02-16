@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客入侵 WordPress 网站对乌克兰域名发动 DDoS 攻击",
+  "Link": "https://www.solidot.org/story?sid=71094",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客被发现入侵 WordPress 网站\u003ca href=\"https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-force-visitors-to-ddos-ukrainian-targets/\"\u003e\u003cu\u003e植入恶意脚本\u003c/u\u003e\u003c/a\u003e，利用网站访客对多个乌克兰域名发动 DDoS 攻击。被攻击的网站包括乌克兰政府机构、智库、International Legion of Defense of Ukraine 的招募网站等。当用户访问被植入恶意脚本的网站，浏览器会加载脚本对被攻击域名发出 HTTP GET 请求，并发连接数一次最多 1000 次。DDoS 攻击发生在后台，用户察觉不到，最多感觉到浏览器访问缓慢。安全研究员 Andrii Savchenko 称有数百个 WordPress 网站植入了这一恶意脚本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-29T12:51:39Z",
+  "Author": "WinterIsComing"
+}

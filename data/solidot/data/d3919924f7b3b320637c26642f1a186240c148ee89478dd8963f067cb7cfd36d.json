@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "沙特逐步开放互联网",
+  "Link": "https://www.solidot.org/story?sid=65360",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t沙特被广泛视为是世界上最保守的国家之一，政府使用一个过滤系统管理互联网访问，限制访问被认为不可接受或不合适的内容，以保护基于伊斯兰教的社会价值观。但过去几年沙特经历深刻的社会政治变化，网络日益开放。沙特 Taibah 大学和 UC 河滨分校的研究人员\u003ca href=\"https://www.usenix.org/system/files/foci20-paper-alharbi_0.pdf\"\u003e\u003cu\u003e报告（PDF）\u003c/u\u003e\u003c/a\u003e，从 2018 年 3 月到 2020 年 4 月，沙特对网站和应用的屏蔽都放松了，该国主要屏蔽的网站为成人网站和电商网站，屏蔽电商网站的原因可能是它们销售沙特认为非法的商品如酒精和武器。沙特在 2013-2017 之间屏蔽了众多 VoIP 应用如 FaceTime、Skype、Line、Tango、Facebook Messenger、WhatsApp 和 Snapchat，但到了 2020 年这些应用绝大部分都能正常访问，唯一的例外是微信，原因未知。沙特主要使用了四种过滤方法：DNS 过滤、IP 地址过滤、HTTP 过滤和 TLS 过滤。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-26T12:57:21Z",
+  "Author": "WinterIsComing"
+}

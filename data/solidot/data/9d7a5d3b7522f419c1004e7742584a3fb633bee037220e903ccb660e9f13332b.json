@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊关闭 NSO Group 的网络基础设施",
+  "Link": "https://www.solidot.org/story?sid=68325",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在媒体\u003ca href=\"https://www.solidot.org/story?sid=68315\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e以色列公司 NSO Group 的间谍软件被用于入侵世界各地的记者和活动人士的智能手机之后，亚马逊 AWS 服务发表声明\u003ca href=\"https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure\" target=\"_blank\"\u003e\u003cu\u003e宣布关闭\u003c/u\u003e\u003c/a\u003e与 NSO Group 相关的网络基础设施及其账号。大赦国际的技术人员在分析 NSO 间谍软件 Pegasus 之后发现它使用了亚马逊的 CloudFront 服务。它在其发表的\u003ca href=\"https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/\" target=\"_blank\"\u003e\u003cu\u003e调查报告\u003c/u\u003e\u003c/a\u003e中包含了亚马逊的声明，显示在发表前联系了亚马逊公司。另一家调查间谍软件的加拿大多伦多大学公民实验室指出 NSO Group 是在 2021 年广泛使用亚马逊的服务。CloudFront 的基础设施被用于部署攻击目标的恶意程序，研究人员认为此举旨在保护自己防止其基础设施被扫描。NSO 还使用了其它云计算公司的服务，其中包括 Digital Ocean、OVH 和 Linode。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-19T14:56:49Z",
+  "Author": "WinterIsComing"
+}

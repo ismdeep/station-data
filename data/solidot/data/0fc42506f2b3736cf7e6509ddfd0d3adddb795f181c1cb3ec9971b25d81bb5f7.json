@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美日对黑客组织秘密在路由器植入后门固件发出警告",
+  "Link": "https://www.solidot.org/story?sid=76222",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国和日本对黑客组织 BlackTech aka Palmerworm、Temp.Overboard、Circuit Panda 和 Radio Panda 秘密在路由器上植入后门固件发出了警告。BlackTech 的活动至少始于 2010 年，它设法获得管理员凭证访问子公司使用的网络设备，安装后门固件，然后逐渐渗透和入侵关联公司的网络。BlackTech 通常以分支机构使用的路由器为目标，然后滥用企业网络之间路由器的信任关系。安全警告提到了思科的路由器。思科表示攻击者只能在该公司的旧型号路由器上安装后门固件，新路由器能阻止运行未经授权的固件。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.cisa.gov/news-events/cybersecurity-advisories/aa23-270a\n\u003cbr/\u003e\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csa-cyber-report-sept-2023\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-28T09:54:37Z",
+  "Author": "Wilson"
+}

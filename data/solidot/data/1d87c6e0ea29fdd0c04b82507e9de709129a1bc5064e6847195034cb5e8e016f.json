@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rocky Linux 8.4 释出",
+  "Link": "https://www.solidot.org/story?sid=68091",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t企业级发行版 RHEL 的社区版本 Rocky Linux \u003ca href=\"https://rockylinux.org/news/rocky-linux-8-4-ga-release/\" target=\"_blank\"\u003e\u003cu\u003e正式释出了 8.4 版\u003c/u\u003e\u003c/a\u003e。在 Red Hat 杀死 RHEL 的社区版本 CentOS Linux 之后，与 Rocky McGaugh 共同创办 CentOS 的 Gregory Kurtzer 宣布了新的发行版 Rocky Linux——名字中的 Rocky 就是为了纪念 Rocky McGaugh。Rocky Linux 8.4 是基于 RHEL 8.4，支持两个架构 x86_64 和 ARM64 (aarch64)。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-22T03:23:03Z",
+  "Author": "WinterIsComing"
+}

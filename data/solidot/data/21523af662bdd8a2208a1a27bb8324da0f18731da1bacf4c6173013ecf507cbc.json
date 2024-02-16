@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitLab 放弃对用户进行跟踪",
+  "Link": "https://www.solidot.org/story?sid=62430",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitLab 在 10 月 23 日通知用户，为了改善用户体验，它将使用第一方和第三方技术对用户行为进行跟踪。在社区广泛的反对之后，GitLab 迅速\u003ca href=\"https://gitlab.com/gitlab-org/growth/product/issues/164\" target=\"_blank\"\u003e\u003cu\u003e公布了另一则通知\u003c/u\u003e\u003c/a\u003e，宣布放弃对用户进行跟踪。GitLab 同时承诺不会在自己的产品中实现遥测功能，向第三方产品分析服务发送用户行为数据。联合创始人兼 CEO Sid Sijbrandij 在通知中对此表达了道歉，表示将会更多的听取用户和社区的反馈，保持透明，吸取教训。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-30T13:14:05Z",
+  "Author": "wenfeixiang"
+}

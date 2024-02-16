@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 审查军备竞赛",
+  "Link": "https://www.solidot.org/story?sid=61739",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在上周举行的 Def Con 安全会议上，Tor 项目联合创始人 Roger Dingledine \u003ca href=\"https://www.defcon.org/html/defcon-27/dc-27-speakers.html#Dingledine\"\u003e\u003cu\u003e回顾了\u003c/u\u003e\u003c/a\u003e Tor 与政府之间的屏蔽和反屏蔽军备竞赛，\u003ca href=\"https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Roger-Dingledine-TOR-Censorship-Arms-Race.pdf\"\u003e\u003cu\u003e谈论了未来反屏蔽的计划\u003c/u\u003e\u003c/a\u003e（幻灯片 PDF）。Dingledine 称，泰国在 2006 年屏蔽了 Tor 的域名、伊朗和沙特等国在 2007 年利用 websense/smartfilter 屏蔽了 Tor 的 HTTP 目录，Tor 随后采用 TLS 反击了屏蔽，但从 2009 年 6 月起伊朗利用 DPI（深度包检测）去识别 Tor。中国在 2009 年 9 月抓取和屏蔽了公开的中继节点，利用枚举屏蔽了三个私有中继网桥段之一，但漏掉了其它网桥段。2010 年 3 月第二个网桥段被屏蔽。期间中国的 Tor 网桥用户猛增到了 3 万以上。Tor 的应对方法是引入了可插拔传输（\u003ca href=\"https://www.torproject.org/docs/pluggable-transports\"\u003ePluggable Transports\u003c/a\u003e），其中 obfsproxy 加入了一层加密，而 meek 利用了云计算巨头们的域前置 (Domain fronting，已经失效) 。中国的回击则是利用 DPI 主动刺探 Tor 的TLS 握手，之后是 obfs2 和 obfs3。Tor 之后开始推 obfs4 网桥，旧的网桥都很容易被屏蔽。但到了 2018 年中期，obfs4 代理也出现了问题。现在 Tor 推出了一个新的可插拔传输 Snow✓ake 和改进的 obfs4，未来计划包括诱惑路由（decoy routing）和 FTE/Marionette。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-16T02:42:25Z",
+  "Author": "WinterIsComing"
+}

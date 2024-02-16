@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 例行更新导致了很多打印机出现问题",
+  "Link": "https://www.solidot.org/story?sid=67263",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 10 本月释出的例行安全更新被发现导致了许多打印机\u003ca href=\"https://betanews.com/2021/03/18/windows-10-updates-more-printer-problems/\" target=\"_blank\"\u003e\u003cu\u003e出现问题\u003c/u\u003e\u003c/a\u003e，微软已经对此发出了警告，暂时的解决方法是卸载相关补丁，软件巨人表示它正在开发一个解决方案。存在问题的更新包括：\u003ca href=\"https://support.microsoft.com/en-us/topic/march-9-2021-kb5000802-os-builds-19041-867-and-19042-867-63552d64-fe44-4132-8813-ef56d3626e14\"\u003eKB5000802\u003c/a\u003e、\u003ca href=\"https://support.microsoft.com/en-us/topic/march-9-2021-kb5000808-os-build-18363-1440-6989940a-252d-48f3-a2a7-a42bf19fa2c8\"\u003eKB5000808\u003c/a\u003e、\u003ca href=\"https://support.microsoft.com/en-us/topic/march-9-2021-kb5000809-os-build-17134-2087-2601a686-8e12-449d-913c-a63a9b73e2eb\"\u003eKB5000809\u003c/a\u003e 和 \u003ca href=\"https://support.microsoft.com/en-us/topic/march-9-2021-kb5000822-os-build-17763-1817-2eb6197f-e3b1-4f42-ab51-84345e063564\"\u003eKB5000822\u003c/a\u003e。安装补丁之后部分品牌的打印机会显示错误信息 APC_INDEX_MISMATCH 和蓝屏死机，打印输出的页面可能会缺少元素或整个页面空白。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-21T12:22:35Z",
+  "Author": "WinterIsComing"
+}

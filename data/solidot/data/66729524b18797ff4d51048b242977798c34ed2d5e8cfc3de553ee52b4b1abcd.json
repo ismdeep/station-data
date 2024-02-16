@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "爱尔兰卫生部门遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=67787",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t爱尔兰公立医疗保健系统 Health Service Executive (HSE)\u003ca href=\"https://www.bleepingcomputer.com/news/security/ireland-s-health-services-hit-with-20-million-ransomware-demand/\" target=\"_blank\"\u003e\u003cu\u003e遭到了 Conti 勒索软件的攻击\u003c/u\u003e\u003c/a\u003e，攻击者索要 2000 万美元的赎金，HSE 表示拒绝支付，它关闭了整个 IT 系统，正在评估情况。根据 Conti 黑帮与 HSE 之间的聊天记录，Conti 称它访问 HSE 的网络长达两周，窃取了  700 GB 的数据，包括病人和雇员信息，合同、财报和工资信息等。如果 HSE 同意支付 19,999,000 美元的赎金，它将提供解密和删除窃取的数据。爱尔兰总理 Micheál Martin 表示该国不会支付任何赎金。Conti 被认为有俄罗斯黑客组织 Wizard Spider 运营。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-17T06:21:13Z",
+  "Author": "WinterIsComing"
+}

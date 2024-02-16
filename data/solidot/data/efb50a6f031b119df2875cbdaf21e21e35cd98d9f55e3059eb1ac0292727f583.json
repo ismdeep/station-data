@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Exim 邮件服务器再次爆出高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=62007",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tExim 邮件服务器\u003ca href=\"https://exim.org/static/doc/security/CVE-2019-15846.txt\" target=\"_blank\"\u003e\u003cu\u003e再次爆出了高危漏洞\u003c/u\u003e\u003c/a\u003e，4.92.1 以内的所有版本都受到影响。漏洞存在于处理 TLS 的代码中，如果 Exim 服务器接受 TLS 连接，那么它就有漏洞，权益方法是不提供 TLS，但开发者并不推荐该方法。这是一个远程代码执行漏洞，已有 POC 漏洞利用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-07T14:50:58Z",
+  "Author": "wenfeixiang"
+}

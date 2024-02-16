@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "攻击者窃取了十万 npm 用户账号登陆信息",
+  "Link": "https://www.solidot.org/story?sid=71665",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub \u003ca href=\"https://www.bleepingcomputer.com/news/security/github-attackers-stole-login-details-of-100k-npm-user-accounts/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e黑客在 4 月中旬的攻击中窃取了近十万 npm 用户账号登陆信息，这次攻击利用了签发给 \u003ca href=\"https://www.solidot.org/story?sid=71434\"\u003e\u003cu\u003eHeroku\u003c/u\u003e\u003c/a\u003e 和 Travis-CI 的 OAuth 应用令牌。攻击者访问了一个 2015 年的用户信息存档，其中含有近 10 万 npm 用户名，密码哈希和电邮地址，虽然哈希密码是用弱哈希算法如加盐 SHA1 生成因此容易破解，但 GitHub 从 3 月 1 日起对所有账号自动启用了电邮验证，控制账号的尝试会自动阻止。在分析和检查了所有  npm 软件包版本的哈希之后，GitHub 确信攻击者没有修改任何公开的软件包或上传现有软件包的新版本。GitHub 重置了所有受影响用户的密码，并向受影响组织和用户发送了通知。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-28T15:29:04Z",
+  "Author": "WinterIsComing"
+}

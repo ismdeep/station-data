@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 M1 Mac 用户报告过度的 SSD 写入",
+  "Link": "https://www.solidot.org/story?sid=67018",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几天，苹果 M1 Mac 用户\u003ca href=\"https://hardware.slashdot.org/story/21/02/23/2132222/apple-m1-mac-users-report-excessive-ssd-wear\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e固态硬盘（SSD）惊人的数据写入量。过量的数据写入被认为会影响 SSD 的寿命。在 Twitter 和 MacRumors 上，苹果用户报告，M1 Mac 在短时间内的硬盘数据写入量就达到了 SSD 最大保证写入数据量（maximum warrantable total bytes written 或 TBW）的 10% 左右。SSD 上的 Flash 存储器在变得不稳定前只能写入一定的次数。而 SSD 的损耗是使用中的正常现象，但很少有新计算机像 M1 Mac 快速达到 TBW 的阈值。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-24T07:21:50Z",
+  "Author": "WinterIsComing"
+}

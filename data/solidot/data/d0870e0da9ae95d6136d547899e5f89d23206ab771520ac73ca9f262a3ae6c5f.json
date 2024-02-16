@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 雇佣 Rust 编译器团队负责人 Felix Klock",
+  "Link": "https://www.solidot.org/story?sid=66221",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊云服务 AWS \u003ca href=\"https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/\"\u003e\u003cu\u003e雇佣了\u003c/u\u003e\u003c/a\u003e Rust 编译器团队负责人之一的 Felix Klock。AWS 开源团队还表达了对 Rust 语言的强烈兴趣。亚马逊开发者称他们越来越多的用 Rust 构建关键基础设施如 Firecracker VMM，因为它的开箱即用功能减少了满足公司高安全标准所需要的时间和精力，同时又能提供类似  C 和 C++ 的运行时性能。AWS 对 Rust 语言是如此喜欢以至于它还赞助了该项目，甚至还开始雇佣了 Rust 和 Tokio 开发者确保他们拥有进一步改进 Rust 所需的时间和资源。亚马逊雇佣的知名 Rust 开发者除了 Felix Klock 还有 Sean McArthur、Lucio Franco 和 Jon Gjengset。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-28T11:33:01Z",
+  "Author": "WinterIsComing"
+}

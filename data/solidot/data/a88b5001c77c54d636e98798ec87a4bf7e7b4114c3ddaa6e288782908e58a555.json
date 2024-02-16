@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "法国情报机构证实在记者的手机上发现 Pegasus 间谍程序",
+  "Link": "https://www.solidot.org/story?sid=68440",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t法国情报机构\u003ca href=\"https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms\" target=\"_blank\"\u003e\u003cu\u003e证实\u003c/u\u003e\u003c/a\u003e在三名记者的手机上发现了 Pegasus 间谍程序，其中之一是法国国际电视台 France 24 的高级员工。调查称，间谍程序在 2019 年 5 月、2020 年 9 月和 2021 年 1 月三次攻击了这位记者的手机。另外两位成为间谍软件目标的是法国调查网站 Mediapart 的调查记者 Lénaïg Bredoux 和网站总监 Edwy Plenel。在这之前，法国总统 Emmanuel Macron、前总理  Édouard Philippe 以及 14 名部长被发现成为 Pegasus 的攻击目标，而攻击者被认为来自法国的盟友摩洛哥。摩洛哥则对此断然予以否认。Bredoux 曾在 2015 年发表过一系列与摩洛哥内部情报机构负责人 Abdellatif Hammouchi 相关的文章，她主要担心自己的消息来源和联络人暴露。大赦国际在 GitHub 上\u003ca href=\"https://github.com/mvt-project/mvt\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e检查手机是否感染 Pegasus 的工具。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-02T23:57:13Z",
+  "Author": "WinterIsComing"
+}

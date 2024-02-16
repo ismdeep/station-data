@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Julian Assange 曾为众多开源项目贡献代码",
+  "Link": "https://www.solidot.org/story?sid=63067",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWikiLeaks 创始人 Julian Assange 是一位受争议的人物，他是一名黑客，一位活动人士，而在早期他还是一位开源开发者，为众多的自由软件开源项目贡献代码。对源代码作者\u003ca href=\"https://news.ycombinator.com/item?id=21879988\"\u003e\u003cu\u003e的搜索\u003c/u\u003e\u003c/a\u003e显示，在 1996 年他为 PostgreSQL 项目\u003ca href=\"https://git.postgresql.org/gitweb/?p=postgresql.git\u0026amp;a=search\u0026amp;h=HEAD\u0026amp;st=author\u0026amp;s=julian\"\u003e\u003cu\u003e贡献代码\u003c/u\u003e\u003c/a\u003e，是 Emacs 编辑器中 windmove.el 和 window.el 包的\u003ca href=\"http://ergoemacs.org/misc/Richard_Stallman_and_Julian_Assange.html\"\u003e\u003cu\u003e作者\u003c/u\u003e\u003c/a\u003e，还参与了 \u003ca href=\"http://caml.inria.fr/pub/ml-archives/caml-list/2000/08/6b8b195b3a25876e0789fe3db770db9f.en.html\"\u003e\u003cu\u003eOCaml \u003c/u\u003e\u003c/a\u003e和\u003ca href=\"https://gitlab.com/surfraw/Surfraw\"\u003e\u003cu\u003e surfraw \u003c/u\u003e\u003c/a\u003e项目。Assange 目前被关押在英国，正面临引渡到美国受审。他此前在伦敦厄瓜多尔大使馆避难了 7 年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-26T03:54:18Z",
+  "Author": "WinterIsComing"
+}

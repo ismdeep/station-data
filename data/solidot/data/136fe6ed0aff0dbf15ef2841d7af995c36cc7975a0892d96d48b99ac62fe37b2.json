@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NSA 的 Python 手册",
+  "Link": "https://www.solidot.org/story?sid=63562",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 开发者现在可以观摩下美国情报机构 NSA 是如何培训 Python 程序员的。软件工程师 Chris Swenson 根据信息自由法案递交申请，要求访问 NSA 的 Python 培训材料，结果收到了 400 页经过编辑的 NSA COMP 3321 Python 培训课程打印资料。Swenson \u003ca href=\"https://twitter.com/chris_swenson/status/1225836060938125313\"\u003e\u003cu\u003e扫描了打印稿\u003c/u\u003e\u003c/a\u003e，用 OCR 进行识别，确保数字档案可搜索，将其托管在  Digital Oceans Spaces，之后又被上传到了\u003ca href=\"https://archive.org/details/comp3321/page/n89/mode/2up/search/device\"\u003e\u003cu\u003e互联网档案馆\u003c/u\u003e\u003c/a\u003e。Swenson 称他问 NSA 索要 Python 培训材料纯粹是出于好奇。Python 开发者 Kushal Das 观摩之后摘录些\u003ca href=\"https://kushaldas.in/posts/python-course-inside-of-nsa-via-a-foia-request.html\"\u003e\u003cu\u003e有趣的细节\u003c/u\u003e\u003c/a\u003e：NSA 有内部的 Python 包索引，其 GitLab 实例是 gitlab.coi.nsa.ic.gov，为 CentOS、Red Hat Enterprise Linux、Ubuntu 和 Windows 提供了 Git 安装指南，但不包括 Debian。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-18T12:33:38Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "卡巴斯基杀毒软件会泄漏用户 ID",
+  "Link": "https://www.solidot.org/story?sid=61738",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国安全研究人员在测试卡巴斯基杀毒软件时\u003ca href=\"https://www.heise.de/ct/artikel/Kasper-Spy-Kaspersky-Anti-Virus-puts-users-at-risk-4496138.html\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e它会以安全的名义在用户访问的每一个网页注入它的脚本，而这个脚本还带有唯一  ID，这个 ID 在不同计算机上是不同的，也就是说它可以作为跟踪代码使用。研究人员将这一发现报告给了卡巴斯基。卡巴斯基承认了数据泄漏，它释出了补丁修复了编号为 \u003ca href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-8286\" rel=\"external noopener\" target=\"_blank\"\u003eCVE-2019-8286\u003c/a\u003e 的问题。这个补丁去除了唯一 ID，留下了相同的 ID，也就是说网站仍然会知道有安装了卡巴斯基软件的用户访问了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-15T13:03:55Z",
+  "Author": "wenfeixiang"
+}

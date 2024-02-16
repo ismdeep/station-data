@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CentOS Stream发布",
+  "Link": "https://www.solidot.org/story?sid=62135",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;经过四个多月的等待，\u003ca href=\"http://wiki.centos.org/Manuals/ReleaseNotes/CentOSLinux8\" target=\"_blank\"\u003eCentOS 8\u003c/a\u003e正式发布了， 与之一同发布的还有\u003ca href=\"https://wiki.centos.org/Manuals/ReleaseNotes/CentOSStream\" target=\"_blank\"\u003eCentOS Stream\u003c/a\u003e。这是一个滚动升级的Linux发行版，\u003ca href=\"https://lists.centos.org/pipermail/centos-announce/2019-September/023449.html\" target=\"_blank\"\u003e连接了\u003c/a\u003e上游的Fedora与下游的RHEL。未来RHEL的新特性将在Stream中测试从而加快RHEL的发布。详细介绍在\u003ca href=\"http://redhat.com/en/blog/transforming-development-experience-within-centos\" target=\"_blank\"\u003e这\u003c/a\u003e。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-28T07:09:57Z",
+  "Author": "wenfeixiang"
+}

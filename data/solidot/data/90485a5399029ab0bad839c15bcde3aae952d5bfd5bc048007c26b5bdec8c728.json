@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国电信 IPv6 普及度开始上升",
+  "Link": "https://www.solidot.org/story?sid=66650",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国有着世界上最大的网民人口，但 IPv6 普及度长期处于世界最低行列，两年前\u003ca href=\"https://www.solidot.org/story?sid=59509\"\u003e\u003cu\u003e只有 3%-5%\u003c/u\u003e\u003c/a\u003e。IPv4 地址空间已经枯竭，不再可能继续扩充，因此中国 ISP 从 2017 年底开始加快部署 IPv6。三大 ISP 之一的中国电信有 3.46 亿移动和 1.8 亿宽带用户。根据亚太网络信息中心 APNIC 的\u003ca href=\"https://blog.apnic.net/2021/01/12/china-telecoms-ipv6-efforts-are-beginning-to-show-in-the-numbers/\"\u003e\u003cu\u003e数据\u003c/u\u003e\u003c/a\u003e，中国电信的 IPv6 普及度开始上升，但在不同地区普及度仍然存在巨大差异。中国电信上海网络 AS4812 的   IPv6 普及度达到了 15%，但成都 AS134762 的普及度只有 5.8%，进步不大，但至少在上升中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-13T14:46:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cloud Hopper 网络间谍行动规模比以前认为的更庞大",
+  "Link": "https://www.solidot.org/story?sid=63131",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWSJ \u003ca href=\"https://news.slashdot.org/story/19/12/31/1715210/major-us-companies-breached-robbed-and-spied-on-by-chinese-hackers\" target=\"_blank\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，被称为 Cloud Hopper 的网络间谍行动是至今最大规模企业间谍活动之一。中国黑客窃取了大量的知识产权、安全调查细节等情报。Cloud Hopper 采用的策略是所谓的供应链攻击，针对的是云服务供应商，将云服务商作为跳板入侵其客户的计算机网络窃取各种机密。遭到入侵的企业包括了矿业巨头力拓、电子和医疗保健设备制造商飞利浦公司等。被入侵作为跳板的云服务商包括了加拿大的 CGI Group、芬兰的 Tieto Oyj，以及 IBM 和 HPE 等十多家公司。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-01T09:53:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开源 1983 年的 GW-BASIC",
+  "Link": "https://www.solidot.org/story?sid=64444",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在历史参考和教育目的的名义下\u003ca href=\"https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/\"\u003e\u003cu\u003e开源\u003c/u\u003e\u003c/a\u003e了 1983 年的 GW-BASIC，\u003ca href=\"https://github.com/microsoft/GW-BASIC\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 MIT 许可证。微软高级项目经理 Rich Turner 表示他们不接受修改任何代码的 PR 请求。GW-BASIC 是源自 IBM Advanced BASIC/BASICA 的 BASIC 解释器，而后者则是 Microsoft BASIC 的移植。微软不同的 BASIC 实现都可以上溯到比尔盖茨和保罗艾伦完成的微软首个产品：Altair 8800 BASIC 解释器。和 70/80 年代的众多软件一样，GW-BASIC 的源代码是百分之百的汇编语言。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-22T13:37:21Z",
+  "Author": "ai"
+}

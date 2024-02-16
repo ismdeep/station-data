@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西门子合同工承认为确保有工作而植入了逻辑炸弹",
+  "Link": "https://www.solidot.org/story?sid=63010",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t62 岁的前西门子合同工 David A. Tinley 因为植入逻辑炸弹的阴谋而被判\u003ca href=\"https://arstechnica.com/tech-policy/2019/12/contractor-admits-planting-logic-bombs-in-his-software-to-ensure-hed-get-new-work/\" target=\"_blank\"\u003e\u003cu\u003e六个月徒刑七千美元罚款\u003c/u\u003e\u003c/a\u003e。他在今年 7 月\u003ca href=\"https://www.solidot.org/story?sid=61452\"\u003e\u003cu\u003e认罪\u003c/u\u003e\u003c/a\u003e。Tinley 为西门子在 Monroeville 的办事处服务了将近 10 年的时间，他曾被要求为公司创建管理订单的电子表格，包括了自定义脚本可以根件据储存在其他文的当前订单去更新文件，让公司自动化库存和订单管理。他的电子表格正常工作了多年，直到 2014 年开始出现问题。他植入的逻辑炸弹导致了在特定日期后电子表格崩溃。每次崩溃，西门子都会联络他来修复，他会收修复费用。他的阴谋暴露是因为有一次电子表格崩溃而他不在城里，不得不将电子表格的管理密码交给公司的 IT 工作人员去执行紧急修复。西门子的 IT 雇员发现了逻辑炸弹。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-20T13:07:54Z",
+  "Author": "WinterIsComing"
+}

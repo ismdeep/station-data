@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家重命名多个人类基因以避免被 Excel 自动纠正",
+  "Link": "https://www.solidot.org/story?sid=65177",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t人类基因组有数万个基因，每一个都有名字以及字母数字构成的符号。过去一年有 27 个基因被重新命名，原因都是 Microsoft Excel 会不断将这些基因的符号\u003ca href=\"https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates\"\u003e\u003cu\u003e自动纠正为日期\u003c/u\u003e\u003c/a\u003e。作为最流行的电子表格程序，科学家使用 Excel 跟踪他们的工作，记录临床试验数据。但 Excel 的默认设置考虑的是普通用户而不是科学家，因此当用户输入基因的字母数字符号如 MARCH1（代表 \u003ca href=\"https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:26077\"\u003eMembrane Associated Ring-CH-Type Finger 1\u003c/a\u003e）Excel 会自动将其转换为日期 1-Mar。而 Excel 并没有提供选项关闭自动格式化。这既令人沮丧也是非常危险的，科学家必须手动去修正被破坏的数据。2016 年的一项研究检查了 3,597 篇论文的基因数据，发现有五分之一受到了 Excel 错误的影响。为了避开 MS Excel 自动纠正，科学家制定了新的基因命名\u003ca href=\"https://www.nature.com/articles/s41588-020-0669-3\"\u003e\u003cu\u003e指南\u003c/u\u003e\u003c/a\u003e，将 MARCH1 改为 MARCHF1，SEPT1 改为  SEPTIN1，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-07T07:50:01Z",
+  "Author": "WinterIsComing"
+}

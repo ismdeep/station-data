@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员发现一个杀毒软件无法识别的跨平台后门",
+  "Link": "https://www.solidot.org/story?sid=70385",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Intezer 的研究人员\u003ca href=\"https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了一个几乎所有杀毒软件都无法识别的跨平台后门 SysJoker。跨平台恶意程序相当罕见，绝大部分都是为特定平台如 Windows 开发的。SysJoker 是从头开始开发的，使用了 4 个独立的指令控制服务器，显示背后的攻击者投入了大量资源。其 Windows 和  macOS 版本的后缀是 .ts，表明它伪装成 Type script 应用通过 npm JS 库传播。 .ts 扩展名也可能意味着它伪装成视频流内容。研究人员发现，几乎所有的杀毒软件引擎都未能将其识别出来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-17T05:08:41Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客入侵多台超算挖门罗币",
+  "Link": "https://www.solidot.org/story?sid=64388",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国、德国和瑞士的多台超级计算机\u003ca href=\"https://www.zdnet.com/article/supercomputers-hacked-across-europe-to-mine-cryptocurrency/\" target=\"_blank\"\u003e\u003cu\u003e感染了挖掘门罗币的挖矿程序\u003c/u\u003e\u003c/a\u003e，管理者关闭了这些超算对入侵事故展开调查。西班牙的一个高性能计算中心据报道也发生了类似的安全事故。爱丁堡大学最早在周一报告称，它的超算 ARCHER 登陆节点发生了安全事故，它关闭了系统展开了调查，并重置了 SSH 密码以防止再次被入侵。德国协调超算研究项目的组织 bwHPC 也在周一宣布它的五个高性能计算集群因类似的安全事故被关闭。莱布尼茨计算中心周四宣布切断它的一台超算的网络连接，德国尤里希研究中心称因为安全事故它不得不关闭三台超算  JURECA、JUDAC 和 JUWELS。瑞士科学计算中心关闭了超算对外访问。这些研究机构尚未公布入侵细节，但初步报告显示黑客利用了窃取到的 SSH 登陆凭证访问超算集群，利用已知漏洞提权获得 root 权限，然后安装挖矿程序挖掘门罗币。被窃取的登陆凭证属于加拿大、中国和波兰的大学。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-17T13:33:56Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 有意杀死第三方客户端",
+  "Link": "https://www.solidot.org/story?sid=73907",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t第三方 Twitter 客户端如 Twitterific 和 Tweetbot 前几天突然停止工作，根据 Twitter 内部 Slack 服务器上的聊天信息，此举为 Twitter 有意为之。在更换了 API 密钥之后，Tweetbot 一度短暂恢复访问，但之后密钥又被收回了。Twitter 以及马斯克（Elon Musk）都没有对第三方客户端停止工作发表任何公开声明。马斯克早已砍掉了 Twitter 的公共关系和通信部门，此举可能是旨在让用户使用官方客户端，增加其广告收入。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/?p=1910176\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-17T07:42:38Z",
+  "Author": "Wilson"
+}

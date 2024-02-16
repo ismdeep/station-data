@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "报道声称英伟达英特尔达成秘密协议阻止其高端显卡搭配 AMD APU",
+  "Link": "https://www.solidot.org/story?sid=66706",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 去年释出了基于 Zen2 架构的 APU 如 Ryzen 5 4600H、Ryzen 7 4800H 或 Ryzen 9 4900H，它们在性能和续航力上都胜过英特尔的同类产品。然而采用 AMD APU 的笔记本电脑配备的显卡最高是英伟达的 GeForce RTX 2060，消费者没有找到能达到 GeForce RTX 2070 水平的显卡可供选择。一家 OEM 厂商称英伟达与英特尔\u003ca href=\"https://www.purepc.pl/intel-oraz-nvidia-mieli-wewnetrzna-umowe-ktora-blokowala-tworzenie-laptopow-z-amd-renoir-oraz-geforce-rtx-2070-i-wyzej\"\u003e\u003cu\u003e签署了\u003c/u\u003e\u003c/a\u003e一个协议阻止其高端显卡搭配 AMD APU，RTX 2070 及更高端的显卡只能搭配英特尔的第十代酷睿处理器。今年的情况预计将发生改变，多家厂商准备推出配备 AMD Ryzen 5000 系列 APU 和 NVIDIA GeForce RTX 3000 系列 GPU 的笔记本电脑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-20T02:45:01Z",
+  "Author": "WinterIsComing"
+}

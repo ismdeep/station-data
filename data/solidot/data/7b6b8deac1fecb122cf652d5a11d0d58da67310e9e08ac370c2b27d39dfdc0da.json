@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Homebrew-core 移除 MongoDB",
+  "Link": "https://www.solidot.org/story?sid=61949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tmacOS 平台的开源包管理系统 Homebrew \u003ca href=\"https://github.com/Homebrew/homebrew-core/pull/43770\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Homebrew-core 公式移除 MongoDB 支持。公式是安装包的描述文件。Homebrew-core 移除 MongoDB 是因为它最近修改了许可证。它的许可证从 GNU AGPLv3 切换到 Server Side Public License (SSPL)，对商用进行限制，采用新许可证的新版本被认为不再是开源项目。MongoDB 官方维护了一个定制 \u003ca href=\"https://github.com/mongodb/homebrew-brew\"\u003e\u003cu\u003eHomebrew Tap\u003c/u\u003e\u003c/a\u003e，Homebrew 认为自己支持一个不被维护的旧版本意义不大，因为它决定移除 MongoDB。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-03T07:30:37Z",
+  "Author": "wenfeixiang"
+}

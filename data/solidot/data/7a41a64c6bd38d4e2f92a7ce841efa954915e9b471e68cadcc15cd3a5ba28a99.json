@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 将从 8 月起屏蔽占用过多资源的广告",
+  "Link": "https://www.solidot.org/story?sid=64377",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大的网络广告商继续加大力度限制广告，它这么做可能是希望用户不要在浏览器上安装广告屏蔽扩展，因为广告屏蔽扩展会连带屏蔽它的广告。Google 宣布它将从 8 月底起\u003ca href=\"https://venturebeat.com/2020/05/14/chrome-will-start-blocking-resource-heavy-ads-in-august/\" target=\"_blank\"\u003e\u003cu\u003e屏蔽占用过多资源的广告\u003c/u\u003e\u003c/a\u003e。Google 对可能遭到屏蔽的广告设定了三个阈值：消耗的网络浏览 4MB，在任意 30 秒内占用了 15 秒的 CPU 时间，总的 CPU 占用达到了 60 秒。Google 将首先在未来几个月内进行试验，然后在 8 月底释出的新 Chrome 稳定版中正式包含该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-15T12:55:04Z",
+  "Author": "WinterIsComing"
+}

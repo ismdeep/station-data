@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "游戏作弊工具开发商利用计算机视觉实现通用的自动瞄准程序",
+  "Link": "https://www.solidot.org/story?sid=68287",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t游戏行业的作弊和反作弊是某种猫与老鼠游戏，作弊的方法层出不穷，而反作弊的方法通常是监视系统内存识别影响游戏预定操作的修改或者是阻止未签名代码运行。但最新的作弊工具\u003ca href=\"https://arstechnica.com/gaming/2021/07/cheat-maker-brags-of-computer-vision-auto-aim-that-works-on-any-game/\" target=\"_blank\"\u003e\u003cu\u003e让现有的反作弊方法全部失效\u003c/u\u003e\u003c/a\u003e：利用视频采集卡和模拟输入设备，运行在另一台电脑上的机器学习驱动的计算机视觉软件，实现适用于所有游戏的自动瞄准程序。其工作原理是采集卡记录游戏的实时输出，即时传输到另一台计算机上，这台计算机使用基于计算机视觉的目标检测算法去寻找人形目标，一旦识别作弊引擎能精确计算出距离和鼠标移动的方向，数据随后传输到输入穿透设备，模拟鼠标输入以超人的速度开火。所有这些外置设备和工具都能合法使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-15T01:55:01Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "邮件客户端 Mutt 2.0 发布",
+  "Link": "https://www.solidot.org/story?sid=66038",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于文本的邮件客户端 Mutt \u003ca href=\"http://www.mutt.org/relnotes/2.0/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e 2.0 版本，而它的上一个版本是 1.14.7。大版本号的大跳跃并非是功能集的大跃进，事实上新版本的变化比上一个版本还小，但部分变化导致了向后不再兼容。Mutt 诞生于 1995 年，采用 GPLCv2 许可证。新版本的变化包括新命令 cd 改变目录，IMAP 自动重连，配置文件的类 Lisp 语言 MuttLisp 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-09T07:03:51Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "字幕站 Opensubtitles 遭到黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=70431",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名字幕站 Opensubtitles \u003ca href=\"https://forum.opensubtitles.org/viewtopic.php?t=17685\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e遭到黑客入侵。事情始于 2021 年 8 月，黑客通过 Telegram 发送消息称能访问网站的用户表下载数据库，黑客勒索 1 BTC 换取不公开漏洞并承诺删除数据。黑客还提供了如何修复漏洞的方法。之后几个月风平浪静，但在 2022 年 1 月 11 日网站管理员再次收到了相同漏洞的勒索要求，可能来自第一位黑客的合作伙伴，漏洞事实上没有修复。1 月 14 日网站数据泄露，在\u003ca href=\"https://forum.opensubtitles.org/viewtopic.php?p=46845#p46845\"\u003e\u003cu\u003e获悉\u003c/u\u003e\u003c/a\u003e之后网站管理员立即锁定了所有账号并强制要求更改密码，18 日披露了这一安全事故。Opensubtitles 成立于 2006 年，当时对安全还不够重视，用户密码使用的 md5() 储存，没有加盐处理，弱密码会很容易破解。如果用户在其它网站重复使用了密码，网站管理员建议一同修改。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-19T11:18:55Z",
+  "Author": "WinterIsComing"
+}

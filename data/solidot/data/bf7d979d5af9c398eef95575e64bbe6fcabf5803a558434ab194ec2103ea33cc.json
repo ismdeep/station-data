@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因影响 CPU 性能 Chrome 85 默认关闭 Segment Heap API",
+  "Link": "https://www.solidot.org/story?sid=64993",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 10 2004（Windows May 2020）提供了 Segment Heap API 来帮助非常吃内存的应用如 Chrome \u003ca href=\"https://www.solidot.org/story?sid=64723\" target=\"_blank\"\u003e\u003cu\u003e减少内存占用\u003c/u\u003e\u003c/a\u003e。但 Google Chrome 即将发布的下一个版本 v85 \u003ca href=\"https://tech.slashdot.org/story/20/06/19/1758236/chrome-might-not-eat-all-your-ram-after-adopting-this-windows-feature\" target=\"_blank\"\u003e\u003cu\u003e将默认禁用\u003c/u\u003e\u003c/a\u003e该 API，原因是该功能被发现会对 CPU 性能有负面影响。CPU 问题是一位英特尔工程师\u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1102281\"\u003e\u003cu\u003e发现的\u003c/u\u003e\u003c/a\u003e，这位工程师发现 Chrome 启用 Segment Heap 后在使用 Core i9-9900K 处理器的 PC 上执行基准测试表现出显著的性能下降。微软工程师对内存和 CPU 之间的权衡进行辩护，称用一种资源交换另一种资源是很常见的策略，但承认可以实现更好的版本以减少对 CPU 的影响。在测试中，启用 Segment Heap 导致了在 Speedometer 2.0 中 CPU 性能下降 10%，CPU/功耗增加 13%。Chromium 开发者认为这影响太大了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-20T07:45:53Z",
+  "Author": "WinterIsComing"
+}

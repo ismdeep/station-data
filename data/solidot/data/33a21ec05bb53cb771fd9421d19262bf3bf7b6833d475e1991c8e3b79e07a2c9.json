@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Pixel 4 显示屏默认没有始终保持 90Hz 刷新率",
+  "Link": "https://www.solidot.org/story?sid=62353",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 新旗舰手机 Pixel 4 显示屏支持 90Hz 刷新率，但用户\u003ca href=\"https://www.droid-life.com/2019/10/22/pixel-4s-90hz-display-drops-to-60hz-when-brightness-goes-below-75/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e刷新率\u003ca href=\"https://www.theverge.com/2019/10/23/20929090/google-pixel-4-screen-smooth-display-refresh-rate-lighting-conditions-software-update\" target=\"_blank\"\u003e\u003cu\u003e没有始终保持在 90Hz\u003c/u\u003e\u003c/a\u003e，而是在较低的亮度下会降至 60Hz。Google 回应称这是为了改进电池续航力。用户发现，刷新率与屏幕亮度相关，在高亮度下刷新率为 90Hz，但当亮度降至 75%，刷新率也减少到 60Hz。Google 在发给媒体的一份声明中承认这是有意为之，在高刷新率不再重要或特定条件下刷新率会设置为 60Hz 以保存电池电力，包括用户启用了省电模式，24 或 30fps 的视频内容，以及各种亮度或环境条件。始终保持 90Hz 刷新率对电池续航有多大影响？有\u003ca href=\"https://twitter.com/mattmoniz/status/1186662575779536896\"\u003e\u003cu\u003e测试\u003c/u\u003e\u003c/a\u003e认为很小。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-24T07:43:53Z",
+  "Author": "wenfeixiang"
+}

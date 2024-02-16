@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "神秘威胁源起方运营数百恶意 Tor 中继",
+  "Link": "https://www.solidot.org/story?sid=69881",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t至少从 2017 年起，一位神秘威胁源起方运营上千恶意 Tor 网络入口、中继和出口节点，此举被认为旨在对 Tor 网络用户进行去匿名化攻击。\u003ca href=\"https://therecord.media/a-mysterious-threat-actor-is-running-hundreds-of-malicious-tor-relays/\"\u003e\u003cu\u003e这位神秘攻击者被命名为 KAX17\u003c/u\u003e\u003c/a\u003e，Tor 网络通常有 \u003ca href=\"https://metrics.torproject.org/networksize.html\"\u003e\u003cu\u003e9000 到 10000 个服务器\u003c/u\u003e\u003c/a\u003e，而 KAX17 在高峰期间运行了 900 多个恶意服务器。安全研究员、Tor 中继节点维护者 Nusenu 认为，在某个时刻，Tor 用户有 16% 的几率通过 KAX17 的入口节点进入 Tor 网络，有 35% 的几率通过其中继节点，有最高 5% 的几率通过其出口节点离开匿名网络。所有迹象显示 KAX17 的背后是一个国家级的资源丰富的威胁源起方。进入 Tor 网络的服务器通常需要提供联络信息，以便在必要时联络服务器的管理员，比如配置错误或遭到滥用。但由于缺乏足够的节点实现匿名化，一些没有联络信息的服务器也会经常添加到 Tor 网络。Nusenu 是在 2019 年注意到没有提供联络信息的 KAX17，发现其活动至少能被跟踪到 2017 年。Nusenu 和 Tor 项目都不愿猜测幕后者的身份。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-06T05:40:21Z",
+  "Author": "WinterIsComing"
+}

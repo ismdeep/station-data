@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件黑帮 Maze 宣布关闭",
+  "Link": "https://www.solidot.org/story?sid=65984",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以二次勒索臭名昭著的网络犯罪组织 Maze 通过其暗网网站\u003ca href=\"https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down/\" target=\"_blank\"\u003e\u003cu\u003e宣布关闭\u003c/u\u003e\u003c/a\u003e。Maze 被认为率先采用了二次勒索模式，即在用勒索软件加密受害者计算机文件前窃取其内部文件，如果受害者拒绝支付赎金就以公开内部文件进行二次勒索。这一策略随后被其它勒索软件黑帮模仿和采用。这种勒索模式让 Maze 获得了数以千万美元的赎金。在新冠疫情爆发之后，Maze 还承诺不会对医院和医疗机构发动勒索软件攻击。安全公司认为即使 Maze 这个名字死亡了，其背后的运营者和参与者也不太可能真的偃旗息鼓，他们可能会以不同的名字继续进行勒索。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-03T05:32:12Z",
+  "Author": "WinterIsComing"
+}

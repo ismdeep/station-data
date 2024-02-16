@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Electron 应用容易修改植入后门",
+  "Link": "https://www.solidot.org/story?sid=61658",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因其跨平台能力，Electron 开发平台是许多应用的关键组成部分。基于 JavaScript 和 Node.js 的 Electron 被用于 Skype、WhatsApp 和 Slack 等流行消息应用，甚至被用于微软的 Visual Studio Code 开发工具。但 Electron 也会带来安全隐患，\u003ca href=\"https://arstechnica.com/information-technology/2019/08/skype-slack-other-electron-based-apps-can-be-easily-backdoored/\"\u003e\u003cu\u003e容易修改植入后门\u003c/u\u003e\u003c/a\u003e。安全研究员 Pavel Tsakalidis 演示了一个 Python 开发的工具 \u003ca href=\"https://www.contextis.com/en/blog/basic-electron-framework-exploitation\"\u003e\u003cu\u003eBEEMKA\u003c/u\u003e\u003c/a\u003e，允许解压 Electron ASAR 存档文件，并将新代码注入到 JavaScript 库和内置 Chrome 浏览器扩展。漏洞不是在应用程序中，而是在应用程序使用的底层框架 Electron 中。Tsakalidis 称他联络了 Electron 但没有得到回应。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T12:49:46Z",
+  "Author": "wenfeixiang"
+}

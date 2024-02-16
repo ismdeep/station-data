@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "欧盟想创建内置过滤功能的自有 DNS 基础设施",
+  "Link": "https://www.solidot.org/story?sid=70442",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t欧盟\u003ca href=\"https://therecord.media/eu-wants-to-build-its-own-dns-infrastructure-with-built-in-filtering-capabilities/\"\u003e\u003cu\u003e有兴趣建立自己的递归 DNS 服务\u003c/u\u003e\u003c/a\u003e，将其免费提供给欧盟机构和公众。名为 DNS4EU 的服务目前还处于规划阶段，欧盟正在寻找合作伙伴帮助建立庞大的基础设施，以服务于其目前所有的 27 个成员国。欧盟官员表示，在观察到少数非欧盟运营商在 DNS 市场中通过合并占据主导地位之后，他们开始考虑基于欧盟的集中管理 DNS服务。官员在谈到上周披露的 DNS4EU 基础设施项目时表示：“DNS4EU 的部署旨在解决此类合并之后少数公司掌握 DNS 解析的问题，这使得在一家主要供应商受到重大事件影响时，解析过程本身容易受到攻击。”欧盟官员表示，他们决定建立 DNS4EU 还考虑到了其他的因素，比如网络安全和数据隐私等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-20T08:42:00Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在勒索失败之后黑客公开窃取的 EA 游戏源代码",
+  "Link": "https://www.solidot.org/story?sid=68428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个半月前，一群黑客利用 Slack 和社会工程技术从 EA 公司\u003ca href=\"https://www.solidot.org/story?sid=68021\"\u003e\u003cu\u003e窃取到了\u003c/u\u003e\u003c/a\u003e 780GB 的游戏源代码，但在勒索失败之后黑客在地下论坛以及 BT 网站上\u003ca href=\"https://therecord.media/hackers-leak-full-ea-data-after-failed-extortion-attempt/\" target=\"_blank\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e窃取的游戏源代码。黑客一开始试图以 2800 万美元的价格出售窃取的数据，但未能找到买家，原因可能是网络犯罪分子对用户数据更感兴趣，游戏源代码对他们没什么价值。随后黑客试图以未披露的金额勒索 EA 公司，他们首先公开了 1.3GB 的 FIFA 源代码，在 EA 拒绝勒索之后公开了全部数据。EA 在一份声明中表示没有用户数据泄露。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-01T00:43:43Z",
+  "Author": "WinterIsComing"
+}

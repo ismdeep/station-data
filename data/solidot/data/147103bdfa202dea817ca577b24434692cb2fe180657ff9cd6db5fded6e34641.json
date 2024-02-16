@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "莫斯科区块链投票系统在使用前被破解",
+  "Link": "https://www.solidot.org/story?sid=61810",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t法国安全研究人员 Pierrick Gaudry \u003ca href=\"https://arxiv.org/pdf/1908.05127.pdf\"\u003e\u003cu\u003e发现（PDF）\u003c/u\u003e\u003c/a\u003e计划在下个月使用的莫斯科区块链投票系统\u003ca href=\"https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/\"\u003e\u003cu\u003e存在严重漏洞\u003c/u\u003e\u003c/a\u003e，能根据公钥计算出私钥。该私钥和公钥被用于在选举中加密用户投票。漏洞主要在于密钥长度太短，现代计算机可以在很短时间内破解出来。攻击者可以利用密钥做什么暂时还不清楚，研究人员认为可能会曝光投票者的身份。莫斯科信息技术部门承诺将解决该问题，该部门发言人承认 256x3 的私钥长度不够安全，他们计划将密钥长度改为 1024 位。但 1024 位显然还是太弱，Gaudry 认为密钥长度至少应该 2048 位。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T05:15:48Z",
+  "Author": "wenfeixiang"
+}

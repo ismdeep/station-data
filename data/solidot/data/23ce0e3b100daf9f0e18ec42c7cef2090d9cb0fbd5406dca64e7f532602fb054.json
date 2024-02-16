@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布超低功耗的 AMD Ryzen Embedded APU",
+  "Link": "https://www.solidot.org/story?sid=63665",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD \u003ca href=\"https://www.anandtech.com/show/15554/amd-launches-ultralowpower-ryzen-embedded-apus-starting-at-6w\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e超低功耗的 AMD Ryzen Embedded 系列 APU，设计针对紧凑的商业和工业系统，AMD 将会在未来十年一直供应这些产品。AMD Ryzen Embedded R1000 系列 APU 共有四款产品，配置为双核四线程或双核二线程，功耗最低 6 瓦，AMD Radeon Vega 3 GPU， 1 MB L2 缓存和 4 MB L3 缓存，单通道或双通道内存，支持 ECC，两个 10 GbE 端口。AMD 称，该 APU 的首批客户包括 Kontron 和 Simply NUC。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-28T13:13:54Z",
+  "Author": "WinterIsComing"
+}

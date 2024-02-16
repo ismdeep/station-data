@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么俄罗斯网络犯罪分子流行用 Jabber",
+  "Link": "https://www.solidot.org/story?sid=66684",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯网络犯罪世界充斥着谜团，但有一种技术\u003ca href=\"https://www.cyberscoop.com/jabber-xmpp-cybercrime-russia-encrypted-chat/\" target=\"_blank\"\u003e充当了主要的通信工具\u003c/a\u003e：有 18 年历史的分布式开源即时通讯协议 \u003ca href=\"https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%89%A9%E5%B1%95%E6%B6%88%E6%81%AF%E4%B8%8E%E5%AD%98%E5%9C%A8%E5%8D%8F%E8%AE%AE\"\u003e\u003cu\u003eJabber\u003c/u\u003e\u003c/a\u003e。根据安全公司 Flashpoint 的研究，黑客做交易、分享情报和对恶意程序提供技术支持都是通过 Jabber 完成。该公司资深研究员 Leroy Terrelonge III 称，在网络犯罪经济中，Jabber 是通信的黄金标准。Jabber（或又叫  XMPP）通信系统由数千个独立服务器构成，在全世界有大约一千万用户。有 10 亿用户的 WhatsApp 使用的是一个 XMPP 变体。ICQ 曾经统治了俄罗斯 IM 市场长达 20 年，在 2013 年 Edward Snowden 披露美国的大规模监视之后俄罗斯人开始转向了 Jabber。Jabber 加上它的加密插件 OTR（off-the-record）能为通信提供强加密支持。Jabber 的联邦式架构允许任何人运营服务器，这对犯罪分子有巨大的吸引力，他们担心企业与政府之间合作过于紧密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-18T06:59:32Z",
+  "Author": "WinterIsComing"
+}

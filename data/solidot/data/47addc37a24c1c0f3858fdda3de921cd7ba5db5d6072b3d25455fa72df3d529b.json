@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "知道的越多，不知道的越多",
+  "Link": "https://www.solidot.org/story?sid=71311",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Project Zero \u003ca href=\"https://googleprojectzero.blogspot.com/2022/04/the-more-you-know-more-you-know-you.html\" target=\"_blank\"\u003e\u003cu\u003e回顾了\u003c/u\u003e\u003c/a\u003e 2021 年 Android 平台发现的 0day 漏洞。7 个 0day 中有 5 个针对的是 GPU 驱动，如果对 Android 生态系统及其碎片化有所了解的话，这一结果并不令人惊讶。Android 生态系统是相当零碎的，有众多不同的版本，不同的厂商定制。攻击者如果想要拥有攻击 Android 设备的能力，将需要维护很多不同的漏洞才能覆盖相当大比例的 Android 设备。但如果攻击者选择针对 GPU 内核驱动，那么他们只需要两个漏洞。因为绝大部分 Android 设备使用两种 GPU 之一：高通 Adreno GPU 或 ARM Mali GPU。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-21T07:00:22Z",
+  "Author": "WinterIsComing"
+}

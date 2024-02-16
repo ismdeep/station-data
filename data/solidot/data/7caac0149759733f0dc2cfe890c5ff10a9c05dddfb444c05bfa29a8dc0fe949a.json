@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软证实存在 bug 会导致系统重置后用户数据没有删除",
+  "Link": "https://www.solidot.org/story?sid=70805",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当用户想要修复难以琢磨的系统问题或出售旧机器时，他们可以选择重置系统，恢复到第一次安装时的状态。系统重置通常会删除系统上原保存的用户数据，但  Windows 11 和 Windows 10 被发现在系统重置后仍然会保留部分未加密的用户数据。微软已经\u003ca href=\"https://docs.microsoft.com/en-us/windows/release-health/status-windows-11-21H2#2783msgdesc\" target=\"_blank\"\u003e\u003cu\u003e证实了 bug 的存在\u003c/u\u003e\u003c/a\u003e，称如果系统运行了同步和文件储存工具如  OneDrive 或 OneDrive for Business，在文件夹留下了重解析数据，那么与 OneDrive 同步的文件就可能会在重置之后仍然保留。微软给出的\u003ca href=\"https://arstechnica.com/gadgets/2022/02/windows-10-and-11-bug-can-leave-user-data-on-disk-after-a-system-reset/\"\u003e\u003cu\u003e临时解决方案\u003c/u\u003e\u003c/a\u003e是在重置前注销或切断与   OneDrive 的连接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T06:35:36Z",
+  "Author": "WinterIsComing"
+}

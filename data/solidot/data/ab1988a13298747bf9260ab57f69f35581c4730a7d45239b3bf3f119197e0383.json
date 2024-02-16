@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Realtek Wi-Fi 芯片驱动漏洞能触发内核的缓冲溢出",
+  "Link": "https://www.solidot.org/story?sid=62285",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t内核的一个潜在高危漏洞允许附近恶意设备\u003ca href=\"https://arstechnica.com/information-technology/2019/10/unpatched-linux-flaw-may-let-attackers-crash-or-compromise-nearby-devices/\" target=\"_blank\"\u003e\u003cu\u003e利用 Wi-Fi 信号触发崩溃或完整控制机器\u003c/u\u003e\u003c/a\u003e。漏洞位于支持 Realtek Wi-Fi 芯片的 RTLWIFI 驱动内，当一台有  Realtek Wi-Fi 芯片的设备在恶意设备的无线电范围内，漏洞能触发内核的缓冲溢出。漏洞利用可能导致操作系统崩溃或允许黑客完整控制计算机。漏洞可以上溯到 2013 年发布的 Linux kernel 3.10.1。只要你使用 Realtek (RTLWIFI)驱动并启用了 Wi-Fi ，无需受害者的任何操作，漏洞能近距离远程触发。开发者已经递交了补丁，预计会在未来几天或几周整合到内核。使用  Realtek Wi-Fi 芯片的 Android 设备可能也受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-18T07:31:32Z",
+  "Author": "wenfeixiang"
+}

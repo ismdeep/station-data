@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 以低使用量关闭中国版翻译服务",
+  "Link": "https://www.solidot.org/story?sid=72951",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/\"\u003e\u003cu\u003e确认\u003c/u\u003e\u003c/a\u003e以低使用量为由关闭了中国版翻译服务。访问域名 \u003ca href=\"http://translate.google.cn/\" target=\"_blank\"\u003e\u003cu\u003ehttp://translate.google.cn\u003c/u\u003e\u003c/a\u003e 会被重定向到 Google 的香港域名，用户可以通过香港域名下的 \u003ca href=\"https://translate.google.com.hk/\"\u003e\u003cu\u003e translate.google.com.hk\u003c/u\u003e\u003c/a\u003e 继续使用翻译服务。这一变动是在过去几天内发生和被用户注意到的，除了域名不定时跳转，部分应用如 KOReader 的翻译功能也受到了影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-03T01:00:03Z",
+  "Author": "WinterIsComing"
+}

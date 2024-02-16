@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 将在侧载应用安装时进行扫描",
+  "Link": "https://www.solidot.org/story?sid=76391",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 宣布 Google Play Protect 将在侧载应用安装时扫描是否是恶意程序。所谓侧载应用是指从非官方应用商店下载的应用。绝大部分恶意应用都是通过非官方应用商店传播的。Google 称 Play Protect 将在安装时对应用代码进行深度扫描，将各个部分的信息发送到 Google 服务进行评估，实时分析完成之后将向用户展示结果，用户将会知道安装应用是否安全或者是否有害。Google 将首先在印度推出该功能，之后扩大到其它所有国家。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://security.googleblog.com/2023/10/enhanced-google-play-protect-real-time.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-19T09:54:07Z",
+  "Author": "Wilson"
+}

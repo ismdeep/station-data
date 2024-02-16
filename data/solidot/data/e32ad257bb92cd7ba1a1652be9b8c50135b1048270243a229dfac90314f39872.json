@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 35 发布",
+  "Link": "https://www.solidot.org/story?sid=69477",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 发行版 Fedora \u003ca href=\"https://fedoramagazine.org/announcing-fedora-35/\"\u003e\u003cu\u003e释出了 v35\u003c/u\u003e\u003c/a\u003e。主要变化\u003ca href=\"https://fedoramagazine.org/whats-new-fedora-35-workstation/\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e：GNOME 41，改进了默认 Wayland 会话的效率，改进了触摸板手势的可靠性，GTK 4 应用的新 GL 渲染器增强了图形性能，改进了节能、平衡和性能等功耗模式，重新设计了 Software app，新的 Connections app，等等。软件方面的其他变化包括：Python 3.10、Perl 5.34 和 PHP 8.0，防火墙服务  firewalld 1.0 版本，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-03T05:45:30Z",
+  "Author": "WinterIsComing"
+}

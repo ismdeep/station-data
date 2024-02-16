@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "台湾合勤和利凌物联网设备漏洞正被利用",
+  "Link": "https://www.solidot.org/story?sid=63903",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员报告，台湾合勤（Zyxel）和利凌（LILIN）所生产 DVR 设备的高危漏洞正被攻击者利用去组建僵尸网络发动分布式拒绝服务攻击。奇虎 360 的\u003ca href=\"https://blog.netlab.360.com/multiple-botnets-are-spreading-using-lilin-dvr-0-day/\"\u003e\u003cu\u003e研究人员称\u003c/u\u003e\u003c/a\u003e，从 2019 年 8 月 30 日起，多个攻击团伙使用 LILIN DVR 0-day 漏洞传播 Chalubo，FBot，Moobot 僵尸网络。LILIN 0-day 漏洞主要包括：硬编码登陆账号密码，命令注入漏洞和任意文件读取漏洞。奇虎在 2020 年 1 月 19 日联络了 LILIN，2 月 13 日 LILIN 释出了新版固件修复了漏洞。Palo Alto Networks 的研究人员\u003ca href=\"https://unit42.paloaltonetworks.com/new-mirai-variant-mukashi/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e合勤 NAS 设备预认证命令注入漏洞被利用安装 Mirai 变种 Mukashi。合勤的漏洞非常容易利用，其漏洞安全评分为 9.8/10。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-23T11:57:39Z",
+  "Author": "WinterIsComing"
+}

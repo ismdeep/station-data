@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 允许用户使用 Android 手机登录其服务",
+  "Link": "https://www.solidot.org/story?sid=61703",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://security.googleblog.com/2019/08/making-authentication-even-easier-with_12.html\"\u003e\u003cu\u003e开始推送更新\u003c/u\u003e\u003c/a\u003e，允许运行 Android 7 或更新版本的用户使用手机登录旗下服务如  Gmail。但搜索巨人没有提供用户何时能使用这种登录方法的时间表。新的登录方法使用了行业标准 \u003ca href=\"https://fidoalliance.org/fido2/\"\u003eFIDO2\u003c/a\u003e、\u003ca href=\"https://www.w3.org/TR/webauthn/\"\u003eW3C WebAuthn\u003c/a\u003e 和 \u003ca href=\"https://fidoalliance.org/fido2/\"\u003eFIDO CTAP\u003c/a\u003e，这些标准旨在让世人不再依赖于密码，能更容易的使用其它身份验证方法去登录服务，比如物理安全密钥、指纹或其它生物验证信息。Google 称，指纹不会发送到它的服务器，而是安全的储存在设备上。\u003ca href=\"https://arstechnica.com/information-technology/2019/08/google-lets-android-users-skip-the-password-when-logging-in/\"\u003e\u003cu\u003e新的方法是一把双刃剑\u003c/u\u003e\u003c/a\u003e：被告可以拒绝提供密码解锁设备自证其罪的要求，但指纹等生物识别信息则能作为证据没收的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-13T08:18:43Z",
+  "Author": "wenfeixiang"
+}

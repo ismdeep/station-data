@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 94 释出",
+  "Link": "https://www.solidot.org/story?sid=69475",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/94.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 94\u003c/u\u003e\u003c/a\u003e。主要变化包括：可选六个季节性调色板；macOS 版本在全屏播放 YouTube 和 Twitch 视频时使用苹果的低功耗模式，改进电池续航；用户可通过 about:unloads 手动释放未加载标签的系统资源；通过网站隔离改进对侧信道攻击如 Spectre 的抵御； Multi-Account Containers 整合 Mozilla VPN；Windows 11 支持 Snap Layouts 菜单；bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-02T14:07:31Z",
+  "Author": "WinterIsComing"
+}

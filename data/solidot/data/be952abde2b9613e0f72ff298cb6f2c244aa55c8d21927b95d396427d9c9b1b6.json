@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客让 John Deere 的拖拉机运行 Doom",
+  "Link": "https://www.solidot.org/story?sid=72483",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在拉斯维加斯举行的 Def Con 安全会议上，安全研究人员 \u003ca href=\"https://twitter.com/sickcodes/status/1558881540066594817?s=20\u0026amp;t=4vJYhz_01opWQk_x4vMBMQ\"\u003e\u003cu\u003eSick Codes\u003c/u\u003e\u003c/a\u003e 演示了在 John Deere 制造的拖拉机显示屏上运行 Doom 游戏。Sick Codes 称整个过程花了数个月时间，包括\u003ca href=\"https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/\" target=\"_blank\"\u003e\u003cu\u003e越狱 John Deere 4240 型拖拉机使用的  Linux 系统\u003c/u\u003e\u003c/a\u003e。在拖拉机上运行的 Doom 当然经过特别修改，场景被设置在玉米田里，玩家操纵拖拉机去消灭敌人。他开发和展示了针对 John Deere 拖拉机的新越狱方法获取系统的 root 访问权限。这一方法可能有助于农民绕过软锁自行维修拖拉机。Sick Codes 称目前使用的方法相当复杂，未来可能开发出更简单的漏洞利用方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-16T15:25:00Z",
+  "Author": "WinterIsComing"
+}

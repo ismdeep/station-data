@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "深度 20.5 发布",
+  "Link": "https://www.solidot.org/story?sid=71146",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Debian 的国产发行版深度释出了\u003ca href=\"https://www.deepin.org/zh/2022/03/31/deepin-20-5/\" target=\"_blank\"\u003e\u003cu\u003e 20.5 版本\u003c/u\u003e\u003c/a\u003e，与 20.4 版本存在多个\u003ca href=\"https://www.theregister.com/2022/04/01/deepin_205_surfaces/\"\u003e\u003cu\u003e显著的差异\u003c/u\u003e\u003c/a\u003e：提供了双 root 分区（Roota 和 Rootb），专门的 Data、Backup 和 swap 分区，最小硬盘安装容量 64 GB，超过了绝大部分发行版。深度看起来学习了 ChromeOS，可能试图复制 ChromeOS 的自动更新机制，使用双 root 分区实现自动更新，支持故障转移和回滚。深度提供了一个基于 Chromium 93 的浏览器，名字就叫浏览器。它还提供了简单的电邮和下载客户端、绘图、文档浏览器、音乐播放器、存档管理器等。深度没有捆绑 WPS Office 而是捆绑了 LibreOffice，但版本相对比较旧，还是 v7.0.4.2，最新版本是 \u003ca href=\"https://www.libreoffice.org/download/download/?type=win-x86_64\u0026amp;version=7.3.2\u0026amp;lang=zh-CN\"\u003e\u003cu\u003ev7.3.2\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-02T10:50:44Z",
+  "Author": "WinterIsComing"
+}

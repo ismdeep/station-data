@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeNAS 和 TrueNAS 合并",
+  "Link": "https://www.solidot.org/story?sid=63742",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeNAS 是设计用于 NAS(网络附加存储)设备的开源自由软件操作系统，该项目主要由 iXsystems 领导开发，该公司还有另一个相关联但独立的企业级 NAS 操作系统 TrueNAS。iXsystems 现在\u003ca href=\"https://www.ixsystems.com/blog/freenas-truenas-unification/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将两个版本合并为一个版本，合并后的版本将使用 TrueNAS 的名字。iXsystems 称，FreeNAS 和 TrueNAS 共享了大部分代码，最新版本 FreeNAS 11.3 和 TrueNAS 11.3 共享了 95% 的代码。从 TrueNAS 12 开始，两者将合二为一，但该公司将会仍然提供两个版本，其中 TrueNAS CORE 为开源版本，TrueNAS Enterprise 为商业版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-08T08:58:03Z",
+  "Author": "WinterIsComing"
+}

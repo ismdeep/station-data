@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《针对空间分析的Python基础教程》翻译完毕",
+  "Link": "https://www.solidot.org/story?sid=70379",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:cycleuser@cyceluser.org\"\u003eCycleUser\u003c/a\u003e 写道 \u0026#34;关注空间数据的Python编程语言导论\n\u003ci\u003e原版地址：\u003ca href=\"https://courses.spatialthoughts.com/python-foundation.html\" target=\"_blank\"\u003ehttps://courses.spatialthoughts.com/python-foundation.html\u003c/a\u003e\u003cbr/\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003ci\u003e\n英文原作者：Ujaval Gandhi\n中文翻译：\u003ca href=\"https://github.com/cycleuser/\"\u003eCycleUser\u003c/a\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e这个课程讲的是非常基础的Python内容。针对的是缺乏编程基础经验也不太了解Python的GIS从业者。主要会介绍基础编程概念和用于空间分析的基础库，地学空间接口（geospatial API）和构件空间数据处理通道的各种技术。\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e\u003ca href=\"https://blog.cycleuser.org/zhen-dui-kong-jian-fen-xi-de-pythonji-chu-jiao-cheng.html\" target=\"_blank\" title=\"点击在线阅读\"\u003ehttps://blog.cycleuser.org/zhen-dui-kong-jian-fen-xi-de-pythonji-chu-jiao-cheng.html\u003c/a\u003e\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e我是自己人工翻译的，质量未必顶级，可读性估计还行。\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e协议：\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003ca href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\"\u003e\u003cspan class=\"cc-license-identifier\"\u003eCC BY-NC 4.0\u003c/span\u003e\u003c/a\u003e\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-15T10:56:24Z",
+  "Author": "WinterIsComing"
+}

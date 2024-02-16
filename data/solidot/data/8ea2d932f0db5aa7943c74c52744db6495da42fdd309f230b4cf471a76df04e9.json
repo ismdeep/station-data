@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 捷径加速模拟数十亿倍",
+  "Link": "https://www.solidot.org/story?sid=63517",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《科学》\u003ca href=\"https://www.sciencemag.org/news/2020/02/models-galaxies-atoms-simple-ai-shortcuts-speed-simulations-billions-times\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，即使用最快的超级计算机模拟复杂的自然现象也要花上几个小时。而作为一种能够快速模拟的算法，仿真器无疑提供了一条捷径。发表在 arXiv 上的一项\u003ca href=\"https://arxiv.org/pdf/2001.08055.pdf\"\u003e\u003cu\u003e研究（PDF）\u003c/u\u003e\u003c/a\u003e表明，人工智能可以很容易地生成精确的仿真器，可以将所有科学领域的仿真加速\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/2/435723.shtm\"\u003e\u003cu\u003e数十亿倍\u003c/u\u003e\u003c/a\u003e。这种技术被称为深度仿真器网络搜索（DENSE），它依赖于斯坦福大学计算机科学家 Melody Guan 开发的一种通用神经结构搜索。它在网络的输入和输出之间随机插入计算层，用有限的数据测试和训练生成的线路。如果添加的计算层可以提高性能，那么它很可能被选用在未来的仿真器变化中，而重复这个过程可以改进仿真器。研究人员使用 DENSE 技术开发了 10 个仿真器，分别用于物理、天文、地质和气候科学领域。DENSE 的仿真器表现出色，其速度比其他模拟器快 10 万到 20 亿倍。而且，这些仿真器非常精确：天文仿真器的结果与全模拟的一致性超过 99.9%，在 10 次模拟中，神经网络仿真器比传统仿真器要好得多。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-13T12:36:01Z",
+  "Author": "WinterIsComing"
+}

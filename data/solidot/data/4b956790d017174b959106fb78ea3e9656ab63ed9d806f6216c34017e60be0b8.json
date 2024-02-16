@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "兆芯准备在内核加入对下一代 KX-7000 系列处理器的支持",
+  "Link": "https://www.solidot.org/story?sid=65503",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t台湾威盛（VIA）与上海市政府的合资企业兆芯去年发布了基于“陆家嘴（LuJiaZui）”微架构的 KX-6000 系列处理器，它正在研发的下一代处理器是 KX-7000 系列预计将在 2021 年发布，支持 PCI Express 4.0 和 DDR5 内存，将使用台积电的 7 纳米工艺制造，而上一代  KX-6000 采用的是台积电 16 纳米工艺制造。为了做好发布的准备，兆芯的开发者开始向 Linux 内核递交\u003ca href=\"https://lkml.org/lkml/2020/9/8/376\"\u003e\u003cu\u003e补丁\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Zhaoxin-Centaur-Family-7-Bits\" target=\"_blank\"\u003e\u003cu\u003e引入\u003c/u\u003e\u003c/a\u003e对 KX-7000 系列处理器的支持，不过补丁没有披露新处理器的任何细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-10T11:54:32Z",
+  "Author": "WinterIsComing"
+}

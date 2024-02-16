@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国超算率先突破 Exascale",
+  "Link": "https://www.solidot.org/story?sid=69407",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t两台中国超算率先\u003ca href=\"https://www.nextplatform.com/2021/10/26/china-has-already-reached-exascale-on-two-separate-systems/\" target=\"_blank\"\u003e\u003cu\u003e突破 Exascale 大关\u003c/u\u003e\u003c/a\u003e： 第一台是无锡国家超算中心的神威太湖之光，它最初使用申威 SW26010 处理器，由上海高性能集成电路设计中心设计，超算由 40,960 个节点构成，每个处理器为一个节点单元，每个处理器包含 了 260 个核心，总共 10,649,600 个核心，升级后处理器核心数翻了一番，节点数翻了一番，使用了新的互联系统，新的 CPU 制造工艺，峰值性能达到  1.3 ExaFLOPS，持续性能 1.05 ExaFLOPS，功耗 35 兆瓦；第二台是广州国家超算中心的天河三号，使用基于 Armv8 架构的飞腾  2000+ (FTP)处理器，峰值性能达到  1.3 ExaFLOPS，Rmax 性能超过 1 ExaFLOPS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-28T06:23:11Z",
+  "Author": "WinterIsComing"
+}

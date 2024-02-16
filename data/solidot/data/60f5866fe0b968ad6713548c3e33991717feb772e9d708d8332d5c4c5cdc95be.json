@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ruby 3.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=66483",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRuby 语言项目在圣诞节这天释出了一个大的更新版本 \u003ca href=\"https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/\"\u003e\u003cu\u003eRuby 3.0.0\u003c/u\u003e\u003c/a\u003e。新版本的一个重要目标是大幅提升性能，速度要达到上一个大版本 Ruby 2 的 3 倍也就是 \u003ca href=\"https://blog.heroku.com/ruby-3-by-3\"\u003eRuby 3x3\u003c/a\u003e。测试显示 Ruby 3 在 NES 游戏模拟工作负荷中的单线性能确实达到了 Ruby 2 的 3 倍。新版的变化包括改进了 MJIT 性能，实验性角色模型 Ractor，Fiber Scheduler，RBS，TypeProf，重新设计单行模式匹配，粘贴长代码的速度是 Ruby 2 的 53 倍，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-25T14:45:50Z",
+  "Author": "WinterIsComing"
+}

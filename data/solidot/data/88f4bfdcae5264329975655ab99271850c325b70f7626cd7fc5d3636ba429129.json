@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "最近披露的依赖混淆供应链攻击开始大量增加",
+  "Link": "https://www.solidot.org/story?sid=67128",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，安全研究员 Alex Birsan \u003ca href=\"https://www.solidot.org/story?sid=66916\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一种新型的供应链攻击：依赖混淆。他发现大企业使用的程序通常会包含非公开的私有依赖包，如果在软件包仓库中加入同名的公开的依赖包，那么这些程序在构建时很可能会优先使用公开的依赖包，可能导致恶意程序在公司内网执行。过去一周，包括苹果、微软和特斯拉在内的数十家企业成为依赖混淆供应链攻击的目标。npm 和 PyPi 开源代码仓库涌入了超过五千个概念验证攻击包。安全公司担心未来类似的现象\u003ca href=\"https://arstechnica.com/gadgets/2021/03/more-top-tier-companies-targeted-by-new-type-of-potentially-serious-attack/#p3\"\u003e\u003cu\u003e将会有增无减\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-07T09:41:17Z",
+  "Author": "WinterIsComing"
+}

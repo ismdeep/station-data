@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "通过跟踪比特币交易执法机构破获大型儿童色情网站",
+  "Link": "https://www.solidot.org/story?sid=62272",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国司法部本周三\u003ca href=\"https://www.documentcloud.org/documents/6470077-Redacted-JONG-WOO-SON.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，它\u003ca href=\"https://www.wired.com/story/dark-web-welcome-to-video-takedown-bitcoin/\" target=\"_blank\"\u003e\u003cu\u003e破获了\u003c/u\u003e\u003c/a\u003e一个暗网大型儿童色情网站 Welcome to Video，与全世界的执法机构合作逮捕了 337 名 Welcome to Video 用户，解救了至少 23 名受害儿童。Welcome to Video 的站长是 23 岁的韩国人 Jong Woo Son，网站在 2015 年 6 月上线，直至 2018 年 3 月被关闭。他本人则在韩国被捕定罪正在服刑。Welcome to Video 利用 Tor 隐藏服务隐藏服务器 IP 地址，但 Son 等人犯了错误让执法机构很容易找到网站的服务器地址。起诉书称，调查发现了两个韩国 ISP 的未隐藏 IP 分配给了一个帐号，而这个帐号关联了 Son 的家庭地址。执法官员搜查了 Son 的住宅，发现了网站的服务器。比特币使用的区块链记录了所有的交易，调查人员根据交易记录识别出数百名分享和传播儿童色情的 Welcome to Video 用户，主要方法是根据钱包识别这些用户使用的交易所，而根据美国法律交易所需要收集用户身份信息，调查人员可以要求交易所提供信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-17T08:09:07Z",
+  "Author": "wenfeixiang"
+}

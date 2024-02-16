@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 的新模型能识别和生成逾千种语言的声音",
+  "Link": "https://www.solidot.org/story?sid=75030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 宣布了新模型 Massively Multilingual Speech (MMS)，能识别和产生逾千种语言的声音。代码托管在 GitHub 上，源代码和模型权重采用 CC-BY-NC 4.0 许可证授权。Meta 称，世界上大约有 7000 种语言，但现有的语音识别模型只能识别其中的约 100 种，原因是此类的模型需要大量的已标记训练数据，而只有英语、西班牙语和中文等少数语言能提供此类数据。MMS 是基于 Meta 在 2020 年发布的 AI 模型，该模型只支持识别约 100 种语言，但能从音频中学习语言模式，不需要大量标记数据。MMS 能识别逾 4000多种语言，预训练模型支持逾 1400 种语言，文本到语音模型支持逾 1100 种语言。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/facebookresearch/fairseq/tree/main/examples/mms\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-23T09:18:31Z",
+  "Author": "Wilson"
+}

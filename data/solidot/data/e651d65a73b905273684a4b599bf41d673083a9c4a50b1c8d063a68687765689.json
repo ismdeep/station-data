@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布三款高频 EPYC 处理器，其中 7F52 的 L3 缓存高达 256 MB",
+  "Link": "https://www.solidot.org/story?sid=64125",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 发布了三款第二代 EPYC 处理器的高频型号，并制定了特别的价格：24核/48线的 EPYC 7F72 售价 2450 美元，L3 缓存 192 MB，基频 3.20 GHz，最高 3.70 GHz，功耗 240 W；16核/32线的 EPYC 7F52 售价 3100 美元，L3 缓存 256 MB，基频 3.50 GHz，最高 3.90 GHz，功耗 250 W；8核/16线的 EPYC 7F32 售价 2100 美元，L3 缓存 128 MB，基频 3.70 GHz，最高 3.90 GHz，功耗 180 W。型号中的 F 代表高频 High Frequency，这些企业级处理器是为需要高频的场景设计的，其中 16 核的 EPYC 7F52 最贵，这可能会令人感到困惑。为了提高性能，增加每个核心的缓存，这个 16 核处理器事实上是 64 核处理器进行特制而来，其中 75% 的核心关闭了，确保每个核心能拥有惊人 16MB L3 缓存。主要科技网站都发布了\u003ca href=\"https://www.anandtech.com/show/15715/amds-new-epyc-7f52-reviewed-the-f-is-for-frequency\"\u003e\u003cu\u003e评测\u003c/u\u003e\u003c/a\u003e，主要针对的是 EPYC 7F52。Phoronix 也\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=amd-epyc-7f52\u0026amp;num=1\" target=\"_blank\"\u003e\u003cu\u003e测试了\u003c/u\u003e\u003c/a\u003e它在 Linux 平台的性能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-15T08:44:55Z",
+  "Author": "WinterIsComing"
+}

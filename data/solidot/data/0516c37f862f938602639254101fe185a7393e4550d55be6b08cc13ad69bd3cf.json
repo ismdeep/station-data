@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家优化了适用于植物的引导编辑",
+  "Link": "https://www.solidot.org/story?sid=63857",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基因组编辑技术可以定向修饰植物基因组，从而大大加速植物育种的进程，是实现作物精准育种的重要技术突破。然而，作物的许多重要农艺性状是由基因组中的单个或少数核苷酸的改变或突变造成的。基于CRISPR/Cas 系统的基因组编辑，可利用外源修复模板通过同源重组介导的修复方式（HDR）实现目标基因特定核苷酸的改变。目前同源重组在植物中的效率非常低，很难以此方式实现高效、稳定的植物基因组的精准编辑。哈佛大学 David R. Liu 教授研究团队在哺乳动物中开发了全新的基因组引导编辑（Prime Editing）系统。该系统由 nCas9（H840A）融合逆转录酶（RT）和 pegRNA（prime editing guide RNA)）两部分组成。中科院遗传与发育生物学研究所高彩霞研究组与 David R. Liu 研究组合作\u003ca href=\"http://www.genetics.ac.cn/xwzx/kyjz/202003/t20200317_5516409.html\" target=\"_blank\"\u003e\u003cu\u003e成功建立并优化了适用于植物的引导编辑系统\u003c/u\u003e\u003c/a\u003e（Plant Prime Editing），并在重要农作物水稻和小麦基因组中实现精确的碱基替换、增添或删除。\u003ca href=\"https://www.nature.com/articles/s41587-020-0455-x\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Nature Biotechnology》期刊上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-18T09:45:26Z",
+  "Author": "ai"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔驱动程序 bug 导致  I219-LM Gigabit Ethernet 适配器在特定模式下以六成速率运行",
+  "Link": "https://www.solidot.org/story?sid=74768",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔工程师修复了该公司产品驱动程序中的一个 bug，该 bug 是在 2020 年引入的，会导致 I219-LM Gigabit Ethernet 千兆以太网适配器在特定模式下以六成速率运行。该 bug 仅在 10/100 模式下触发，如果用户运行在 Gigabit 模式下，那么最高速率没有受到影响。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=67d47b95119ad589b0a0b16b88b1dd9a04061ced\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-24T08:35:14Z",
+  "Author": "Wilson"
+}

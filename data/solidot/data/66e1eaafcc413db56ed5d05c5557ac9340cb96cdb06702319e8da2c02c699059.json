@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软屏蔽了作弊的趋势科技驱动",
+  "Link": "https://www.solidot.org/story?sid=64502",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t趋势科技从其网站移除了检测 rootkit 的程序 Rootkit Buster 的下载，随后该程序的核心驱动 tmcomm.sys 被微软加入到了屏蔽列表，意味着 Windows 10 将阻止驱动加载和 Rootkit Buster 运行。安全研究人员的调查发现，tmcomm.sys 改变了分配内存的方式以通过微软的 Windows Hardware Quality Labs (WHQL)的认证测试。出于安全理由，驱动程序只能从操作系统可用内存的不可执行未分页内存池请求分配内存。此举将能限制攻击者利用漏洞向驱动的内存分配注入恶意代码。Rootkit Buster 的驱动被发现如果检测到是在进行 WHQL 测试，它会改变内存分配方式，从不可执行未分页内存池请求内存；如果检测到不是进行测试，它会从可执行未分页内存池请求内存。这种方式是不安全的，会导致不能通过 WHQL 测试。为什么不始终从不可执行未分页内存池请求内存？\u003ca href=\"https://www.theregister.co.uk/2020/05/27/trend_micro_driver_banned_windows/\"\u003e\u003cu\u003e趋势科技没有给出明确解释\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-28T12:52:10Z",
+  "Author": "WinterIsComing"
+}

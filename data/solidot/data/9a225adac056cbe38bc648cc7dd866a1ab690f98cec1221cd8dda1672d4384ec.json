@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Avast 宣布关闭 Jumpshot",
+  "Link": "https://www.solidot.org/story?sid=63381",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本周一，Vice 和 PCMag 根据泄露的企业文档\u003ca href=\"https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，杀毒软件公司 Avast 通过其子公司 Jumpshot 向第三方出售其收集的用户浏览数据，它将收集的用户数据重新打包成多个产品，然后出售给潜在的大客户如 Google、Yelp、微软、麦肯锡、百事可乐、家得宝和 Conde Nast 等。虽然这些用户数据不包含身份信息，但组合多个数据集是有可能实现“去匿名”的。这一报道引发了广泛关注，在争议声中 Avast 现在\u003ca href=\"https://tech.slashdot.org/story/20/01/30/1347213/avast-closes-jumpshot-over-data-privacy-backlash\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它将关闭 Jumpshot，终止相关产品。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-31T13:21:26Z",
+  "Author": "WinterIsComing"
+}

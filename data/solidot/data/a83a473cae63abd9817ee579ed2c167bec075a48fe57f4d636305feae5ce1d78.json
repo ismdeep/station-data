@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客使用假的 Android 聊天应用窃取 Signal 和 WhatsApp 用户数据",
+  "Link": "https://www.solidot.org/story?sid=75690",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客使用假的 Android 聊天应用 SafeChat 窃取敏感用户数据，其中包括通话记录，短信和 GPS 定位。SafeChat 包含了间谍软件 Coverlm 的一个变种，能窃取流行消息应用如 Telegram、Signal、WhatsApp、Viber 和 Facebook Messenger 的数据。安全研究人员认为印度 APT 组织 Bahamut 是这一行动的幕后发起者。攻击者主要是通过 WhatsApp 发送钓鱼消息，直接向受害者发送恶意负荷。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/hackers-steal-signal-whatsapp-user-data-with-fake-android-chat-app/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-03T03:31:22Z",
+  "Author": "Wilson"
+}

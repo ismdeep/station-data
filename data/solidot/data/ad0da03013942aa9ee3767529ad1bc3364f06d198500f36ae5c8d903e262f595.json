@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Sudo 漏洞让非特权用户获得 root 权限",
+  "Link": "https://www.solidot.org/story?sid=63429",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUNIX 和 Linux 操作系统广泛使用的工具 \u003ca href=\"https://www.sudo.ws/news.html\"\u003e\u003cu\u003eSudo\u003c/u\u003e\u003c/a\u003e 又发现了一个高危漏洞，这个漏洞在启用了 pwfeedback 的系统中\u003ca href=\"https://arstechnica.com/information-technology/2020/02/serious-flaw-that-lurked-in-sudo-for-9-years-finally-gets-a-patch/\"\u003e\u003cu\u003e很容易利用\u003c/u\u003e\u003c/a\u003e。漏洞编号 CVE-2019-18634，是一个堆栈缓冲溢出 bug，影响 v1.7.1 到 1.8.25p1，能通过管理员权限触发，而在启用了 pwfeedback 的操作系统中，该漏洞让非特权用户很容易通过缓冲溢出获得 root 权限，不需要攻击者有 Sudo 使用权限。在 Sudo 上游版本中，pwfeedback  没有默认启用，但在下游发行版如 Linux Mint 和 Elementary OS 中，pwfeedback 被默认启用了。Ubuntu 不受影响。该漏洞是在 2009 年被引入到 Sudo 中的，直到 2018 年释出的  1.8.26b1，受影响的系统应尽可能快的更新到  1.8.31。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-05T09:34:56Z",
+  "Author": "WinterIsComing"
+}

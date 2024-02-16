@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GnuPG 加密库发现严重 bug",
+  "Link": "https://www.solidot.org/story?sid=66823",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGnuPG(GNU Privacy Guard) 主开发\u003ca href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2021q1/000456.html\" target=\"_blank\"\u003e\u003cu\u003e警告\u003c/u\u003e\u003c/a\u003e使用 1.9 版本加密库 Libgcrypt 的用户立即更新。Libgcrypt 1.9 版本是在 1 月 19 日释出的，Google Project Zero 研究员 Tavis Ormandy 在该版本中发现了一个堆缓冲区溢出漏洞，会在解密部分数据时发生溢出。问题与块缓冲区管理代码中的错误假设有关，利用该漏洞非常简单，使用 1.9 版本的用户需要立即去更新加密库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-01T13:03:07Z",
+  "Author": "WinterIsComing"
+}

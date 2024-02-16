@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BBC 建立 Tor 网站",
+  "Link": "https://www.solidot.org/story?sid=62360",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为遏制审查，BBC \u003ca href=\"https://www.bbc.com/news/technology-50150981\"\u003e\u003cu\u003e建立了一个 Tor 镜像网站\u003c/u\u003e\u003c/a\u003e——即只能通过 Tor 匿名网络访问的网站。用户可以在 Tor 浏览器上输入域名 bbcnewsv2vjtpsuy.onion 访问 BBC 的新闻网站。BBC 的暗网镜像显示的是它的国际版本，英国专有内容如 BBC iPlayer 不会提供访问。BBC 称，包括中国、伊朗和越南在内的多个国家都试图屏蔽它的网站或节目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-24T11:29:43Z",
+  "Author": "wenfeixiang"
+}

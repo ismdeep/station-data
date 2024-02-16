@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客泄露了 228 万约会网站用户数据",
+  "Link": "https://www.solidot.org/story?sid=66754",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名黑客在黑客论坛\u003ca href=\"https://www.zdnet.com/article/hacker-leaks-data-of-2-28-million-dating-site-users/\"\u003e\u003cu\u003e泄露了\u003c/u\u003e\u003c/a\u003e 228 万约会网站 MeetMindful.com 注册的用户数据。泄露数据容量约  1.2 GB，包含了部分敏感的用户真实信息，包括真实姓名、地址和邮编、电子邮件、约会偏好、婚姻状况、出生日期、经纬度、IP 地址、Bcrypt 哈希的账号密码、Facebook 用户 ID、Facebook 身份验证令牌。泄露数据不包含用户之间交流的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-25T06:51:42Z",
+  "Author": "WinterIsComing"
+}

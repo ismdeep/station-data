@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "随着 WireGuard 进入内核将改变 VPN",
+  "Link": "https://www.solidot.org/story?sid=63416",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWireGuard 已经合并到了内核主线，预计会在 2020 年 4 月随 Linux kernel 5.6 的发布正式提供给用户，它将对 VPN 服务\u003ca href=\"https://www.zdnet.com/article/vpns-will-change-forever-with-the-arrival-of-wireguard-into-linux/\" target=\"_blank\"\u003e\u003cu\u003e产生深远影响\u003c/u\u003e\u003c/a\u003e。因为几乎所有 VPN 服务都是运行在 Linux 上。部分  VPN 服务已开始将其软件栈迁移到 WireGuard。相比 OpenVPN 和 IPSec，WireGuard 代码更简单，它只有 4000 行代码，而 OpenVPN 超过 10 万行。除此之外，它支持最新的加密算法和协议，如 Noise 协议框架、Curve25519、ChaCha20、 Poly1305、BLAKE2 等，其安全性得到了证明。明日的 VPN 很可能都是基于 WireGuard。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-04T09:25:11Z",
+  "Author": "WinterIsComing"
+}

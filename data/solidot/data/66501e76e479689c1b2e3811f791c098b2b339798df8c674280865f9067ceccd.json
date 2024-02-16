@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 将隐藏弹出式通知",
+  "Link": "https://www.solidot.org/story?sid=63204",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Mozilla 之后，Google 也采取行动\u003ca href=\"https://blog.chromium.org/2020/01/introducing-quieter-permission-ui-for.html\" target=\"_blank\"\u003e\u003cu\u003e限制恼人的弹出式通知\u003c/u\u003e\u003c/a\u003e。计划在 2020 年 2 月 4 日释出的 Chrome 80 将默认屏蔽大部分弹出式通知，改用在地址栏显示有通知的图标，类似 Firefox 的做法——在地址栏显示通知的文字泡泡。Chrome 的设置将引入一个新的选项，用户可以手动选择启用去屏蔽通知，或者等待 Google 在未来几周默认启用。对于用户很少接受的弹出式通知，Google 未来将自动将其屏蔽。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-08T14:43:42Z",
+  "Author": "WinterIsComing"
+}

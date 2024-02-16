@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "旧代码和年长程序员难题",
+  "Link": "https://www.solidot.org/story?sid=65784",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年初的新冠疫情带来的一个出人意料的结果是许多地方亟需 COBOL 程序员\u003ca href=\"https://www.solidot.org/story?sid=64043\" target=\"_blank\"\u003e去维护\u003c/a\u003e历史悠久的旧代码。一个问题是陈旧软件陈旧代码的\u003ca href=\"https://spectrum.ieee.org/podcast/computing/it/the-problem-of-old-code-and-older-coders\" target=\"_blank\"\u003e\u003cu\u003e规模究竟有多大\u003c/u\u003e\u003c/a\u003e？以“\u003ca href=\"https://spectrum.ieee.org/computing/software/why-software-fails\"\u003e\u003cu\u003eWhy Software Fails\u003c/u\u003e\u003c/a\u003e”一文著称的 Bob Charette 称，我们并不清楚这一问题的规模究竟有多大，我们所知道的是每年投入了数万亿美元去维护和运营这些系统，投入数千亿美元去进行现代化，而很多现代化项目都失败了。美国社会保障总署最近发布的报告承认他们也不清楚社会保障系统有多少是遗留的陈旧系统。建一条公路的费用可能远不及在这条公路的寿命期内的维护费用。在系统开发上每投入 1 美元，那么在系统寿命期限内需要投入 8 到 10 美元去进行维护。一个软件系统的生命可能比设计者预想的要长得多。IT 预算的很大一部分是用于运营和维护而不是开发替代或进行现代化，这一比例越高，一个系统越不可能进行升级。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-13T07:29:06Z",
+  "Author": "WinterIsComing"
+}

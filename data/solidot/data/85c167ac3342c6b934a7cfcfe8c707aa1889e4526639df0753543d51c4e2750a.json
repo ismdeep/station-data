@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件加密了南非司法部计算机网络",
+  "Link": "https://www.solidot.org/story?sid=68963",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在遭到勒索软件攻击之后，南非司法部\u003ca href=\"https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/\"\u003e\u003cu\u003e正努力恢复计算机网络的正常运行\u003c/u\u003e\u003c/a\u003e，攻击导致内外电子服务全部瘫痪。南非司法和宪法发展部称，在系统恢复上线前儿童抚养费将暂停支付。攻击发生在 9 月 6 日，司法部随后启动了应急计划，以确保部分司法功能仍然能进行，如法庭改用了手动记录听证会，使用手动程序发布法律文件。司法部还无法确认何时能恢复正常，攻击者的身份目前也不清楚。勒索软件黑帮通常在加密系统会窃取数据，然后通过威胁公开数据来进行二次勒索。但在攻击之后，还没有一个组织声称对此负责或威胁公开数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-16T14:24:09Z",
+  "Author": "WinterIsComing"
+}

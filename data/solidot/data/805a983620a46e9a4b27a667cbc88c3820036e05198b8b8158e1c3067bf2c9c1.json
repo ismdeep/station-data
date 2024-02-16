@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WordPress 将自动禁用 Google FLoC",
+  "Link": "https://www.solidot.org/story?sid=67544",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWordPress \u003ca href=\"https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它将 Google FLoC 视为一种安全问题，将默认在 WordPress 网站上禁用 Google FLoC。WordPress 是最流行的内容管理平台，市场占有率达到 \u003ca href=\"https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/\"\u003e\u003cu\u003e41.1%\u003c/u\u003e\u003c/a\u003e。随着主要浏览器默认屏蔽第三方  cookies，Google 提出了名为 Federated Learning of Cohorts（FLoC）的新广告跟踪技术去替代 cookies，它将访问网站的用户分成不同兴趣组，声称是对隐私更为友好的替代。但反对者认为 Google 是用一种有隐私风险的跟踪技术替代另一种隐私风险技术。基于 Chromium 的浏览器 Brave 和 Vivaldi 都移除了对 FLoC 的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T09:25:36Z",
+  "Author": "WinterIsComing"
+}

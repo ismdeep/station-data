@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数千家公司成为供应链勒索软件攻击的受害者",
+  "Link": "https://www.solidot.org/story?sid=68200",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t勒索组织 REvil 利用软件供应链发动勒索软件攻击的规模远比之前报道的更大：至少 17 个国家的数千家公司受到影响。REvil 针对了软件供应商 Kaseya，该公司的软件用于管理企业网络和设备，然后通过 Kaseya 将勒索软件传播到使用其软件的数以千计的公司。安全研究人员在 Kaseya 的更新系统中发现了漏洞，与 Kaseya 合作开发和测试了补丁，但补丁还没有释出前 REvil \u003ca href=\"https://www.wired.com/story/revil-ransomware-supply-chain-technique/\"\u003e\u003cu\u003e就已经发动了攻击\u003c/u\u003e\u003c/a\u003e。REvil 在其暗网网站发表声明，\u003ca href=\"https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/\"\u003e\u003cu\u003e勒索 7000 万美元\u003c/u\u003e\u003c/a\u003e。Kaseya 高管表示已经知道勒索要求，但拒绝公布进一步的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-05T11:38:28Z",
+  "Author": "WinterIsComing"
+}

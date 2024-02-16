@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "5G 标准愈发奇怪",
+  "Link": "https://www.solidot.org/story?sid=65192",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t4G 和 3G 等早期的移动通信标准只专注于一件事：蜂窝网络。制定蜂窝网络标准的行业组织 3GPP 上个月完稿了 5G 的 \u003ca href=\"https://www.3gpp.org/release-16\"\u003eRelease 16\u003c/a\u003e，之前发布的 Release 15 仍然是专注于蜂窝网络服务，但 Release 16 \u003ca href=\"https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16\" target=\"_blank\"\u003e\u003cu\u003e为新的服务奠定了基础\u003c/u\u003e\u003c/a\u003e。它将 5G 网络服务从蜂窝网络扩大到了连接机器人、汽车和工厂等各种应用场景。研究人员和工程师认为，5G 将可以无线连接任何东西。Release 16 中最耀眼的是 V2X，代表 Vehicle to Everything，即将 5G 用于汽车之间的通讯。LG 的工程师、项目报告人 Hanbyul Seo 表示最具有挑战性的事情是提供高数据吞吐、可靠度和低延迟。早期标准只涉及数百比特的信息、九成可靠度和数百毫秒的延迟，新的标准提高到了每秒数 GB 的吞吐量，99.999% 的可靠性以及数毫秒的延迟。华为在 3GPP 的代表、另一位报告人 Matthew Webb 称，Release 16 引入了名叫 Sidelinks 的新技术，允许 5G 连接的汽车之间能直接通讯，无需经过基站蜂窝塔。Tseng 指出，在理论上 Sidelinks 可应用于任意两个设备之间的直接通讯，比如工厂机器人和物联网设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-09T12:18:52Z",
+  "Author": "WinterIsComing"
+}

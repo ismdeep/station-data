@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微星固件签名密钥泄露",
+  "Link": "https://www.solidot.org/story?sid=74878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t攻击者泄露了微星固件签名密钥，逾 200 款微星产品受到影响。勒索软件组织 Money Message 上个月声称从微星窃取到了源代码，总容量约 528 GB，它要求微星支付 400 万美元赎金，否则将泄露窃取的数据。目前泄露的数据包括了微星固件镜像签名密钥和英特尔 BootGuard 密钥，前者影响 57 款产品，后者影响 166 款产品。英特尔 BootGuard 是一种处理器安全保障机制，防止运行非系统制造商发布的固件镜像。这些密钥的泄露将允许攻击者将恶意固件伪装成合法固件。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md\u003cbr/\u003e\nhttps://cybernews.com/news/msi-leaked-firmware-keys-endanger-devices/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-06T07:25:12Z",
+  "Author": "Wilson"
+}

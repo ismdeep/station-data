@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KiwiSDR 被发现曾存在一个后门",
+  "Link": "https://www.solidot.org/story?sid=68305",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行的软件无线电产品 KiwiSDR \u003ca href=\"https://arstechnica.com/gadgets/2021/07/for-years-a-backdoor-in-popular-kiwisdr-product-gave-root-to-project-developer/\" target=\"_blank\"\u003e\u003cu\u003e被发现曾存在一个后门\u003c/u\u003e\u003c/a\u003e，允许开发者以系统管理权限远程登陆用户的设备，修改配置和访问与该硬件连接的其它计算设备。后门在最近的一次更新中移除了，但用户仍然很恼火，称这是一个严重的信任问题。后门本身十分简单，几行代码允许开发者通过在浏览器上输入网址加密码远程访问任何设备。记录显示开发者最早是在 2017 年加入该后门的。后门密码是以明文形式和 HTTP 连接的方式访问的，任何监视网络流量的人都可能获得密码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-16T14:17:29Z",
+  "Author": "WinterIsComing"
+}

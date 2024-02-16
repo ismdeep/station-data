@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "茄子快传发现多个安全漏洞",
+  "Link": "https://www.solidot.org/story?sid=66985",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司趋势科技\u003ca href=\"https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e在茄子快传中发现多个安全漏洞，而它的漏洞能导致远程代码执行。茄子快传是下载量最高的传输应用，曾跻身全球应用下载排行榜前十。它最早由联想开发，一度预装在联想手机上，后从联想独立出去。茄子快传的权限相当广，其中包括访问所有本地存储和媒体，摄像头、麦克风、通讯录、位置，甚至还可以删除应用。趋势科技称，茄子快传的漏洞能被用于泄露用户的敏感数据，以及远程执行代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-20T13:43:09Z",
+  "Author": "WinterIsComing"
+}

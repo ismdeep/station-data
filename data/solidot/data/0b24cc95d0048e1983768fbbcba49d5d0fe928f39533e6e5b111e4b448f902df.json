@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 初步加入对 DNS-over-HTTPS (DoH) 的支持",
+  "Link": "https://www.solidot.org/story?sid=64364",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软向测试者释出了 Windows 10 的最新版本，加入了对 DNS-over-HTTPS (DoH) 的\u003ca href=\"https://www.zdnet.com/article/microsoft-adds-initial-support-for-dns-over-https-doh-in-windows-insiders/\" target=\"_blank\"\u003e\u003cu\u003e初步支持\u003c/u\u003e\u003c/a\u003e。DoH 设计通过 HTTPS 加密向第三方或用户自己搭建的 DNS 服务器发出域名查询请求，这种方法被认为相对于明文连接 DNS 服务器更安全。如果在 Windows 10 中启用了 DoH，那么操作系统将会通过 DoH 而不是传统的 DNS 去解析域名。浏览器如 Firefox 和 Chrome 已经加入了对 DoH 的支持，但受到了部分工程师和系统管理员的批评，认为会给企业系统管理员带来麻烦，是将操作系统级的控制权占为己有。通过开发 DoH 客户端，微软恢复了在操作系统层次的控制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-14T10:20:53Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rust 项目回应 RustConf 主题演讲争议",
+  "Link": "https://www.solidot.org/story?sid=75102",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t继商标使用争议之后，Rust 项目最近又卷入了 RustConf 主题演讲争议。RustConf 2023 邀请了 JeanHeyd Meneide 发表主题演讲，但在 5 月 26 日又通知他主题演讲降为普通演讲，此事被认为是相当于一次侮辱，JeanHeyd 随即宣布拒绝出席 RustConf。Rust 项目已经发表声明，对此事公开道歉，称它的决策和沟通流程出现了问题，它将采取措施避免犯同样的错误，包括将执行严格的共识机制，启动新的治理委员会。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023\u003cbr/\u003e\nhttps://blog.rust-lang.org/2023/05/29/RustConf.html\u003cbr/\u003e\u003cbr/\u003e\n已经有人 fork 了 Rust 语言创建了社区分支 CrabLang，而 JeanHeyd 曾在 2021 年提议将 RMS 移除出 GCC 的指导委员会。\n\u003cbr/\u003e\nhttps://gcc.gnu.org/pipermail/gcc/2021-March/235124.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-30T14:39:06Z",
+  "Author": "Wilson"
+}

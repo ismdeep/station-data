@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果新操作系统 realityOS",
+  "Link": "https://www.solidot.org/story?sid=70613",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件开发者在苹果 GitHub 官方库中发现多次提及 realityOS 的\u003ca href=\"https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578\"\u003e\u003cu\u003e代码\u003c/u\u003e\u003c/a\u003e，苹果的新操作系统\u003ca href=\"https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/\" target=\"_blank\"\u003e\u003cu\u003e浮出了水面\u003c/u\u003e\u003c/a\u003e。苹果正在开发一个混合现实平台并不是什么秘密，根据招聘广告和其它消息来源，苹果的混合现实平台已经开发了数年，团队成员多达数千人。苹果混合现实平台可能经历了多次延期，彭博社在 2017 年报道称苹果计划在 2019 年发布混合现实设备，报道称该设备运行的操作系统叫 rOS。暂时还不知道苹果何时发布运行 realityOS 的设备，有报道认为是今年，也有报道认为是明年即 2023 年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-10T05:53:53Z",
+  "Author": "WinterIsComing"
+}

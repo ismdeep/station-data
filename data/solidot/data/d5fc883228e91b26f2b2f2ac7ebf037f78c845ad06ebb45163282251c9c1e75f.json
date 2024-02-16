@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英国执法机构与 Have I Been Pwned 共享 5.85 亿泄露密码",
+  "Link": "https://www.solidot.org/story?sid=70073",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 \u003ca href=\"https://www.solidot.org/story?sid=67900\"\u003e\u003cu\u003eFBI \u003c/u\u003e\u003c/a\u003e之后，英国执法机构国家犯罪调查局与 \u003ca href=\"https://haveibeenpwned.com/\"\u003e\u003cu\u003eHave I Been Pwned\u003c/u\u003e\u003c/a\u003e 共享它在调查中\u003ca href=\"https://therecord.media/the-nca-shares-585-million-passwords-with-have-i-been-pwned/\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e的 5.85 亿泄露密码。Have I Been Pwned 维护者 Troy Hunt 表示，其中 2.25 亿个密码是唯一的，即此前未泄露过。国家犯罪调查局是在英国一家云存储设施的一个账户内发现泄露的密码以及对应的电邮账号，它无法判断泄露的密码和电邮来自哪个平台或哪家公司。目前 Have I Been Pwned 包含 55 亿个条目，其中 8.47 亿是唯一的，所有密码都可以免费下载，可以下载到本地后对照是否密码泄露，无需通过该网站。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-21T04:56:16Z",
+  "Author": "WinterIsComing"
+}

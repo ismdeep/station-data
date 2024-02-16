@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "泄漏的 NSA 代码发现了新的 APT 组织",
+  "Link": "https://www.solidot.org/story?sid=62512",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自称 Shadow Brokers 的黑客组织在 2017 年公开了来自 NSA 的机密文档，其中之一是被称为 Eternal Blue 的漏洞利用，它被勒索软件 WannaCry 等利用在全世界感染了成千上万台计算机，造成了数十亿美元的损失。公开的 NSA 文档还有一个脚本用于检查计算机上感染的恶意程序来自哪个 APT 组织。卡巴斯基实验室的研究人员通过官方博客\u003ca href=\"https://securelist.com/darkuniverse-the-mysterious-apt-framework-27/94897/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，其中一个 APT 组织活动时间不迟于 2009 年，在 Shadow Brokers 公开 NAS 文档的 2017 年销声匿迹。该组织被称为 DarkUniverse，与另一个针对维族和藏族人的组织 ItaDuke 有关联，两者的恶意程序存在重叠。DarkUniverse 对不同的目标使用了不同的钓鱼邮件，整个活跃期间不停的更新恶意程序，拥有丰富的资源。研究人员发现的入侵目标位于叙利亚、伊朗、阿富汗、坦桑尼亚、埃塞俄比亚、苏丹、俄罗斯、白俄罗斯和阿联酋。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-06T10:32:38Z",
+  "Author": "wenfeixiang"
+}

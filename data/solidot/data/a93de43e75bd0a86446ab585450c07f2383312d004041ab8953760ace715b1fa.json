@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 Widget 现在能触发任务栏通知",
+  "Link": "https://www.solidot.org/story?sid=72505",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://tech.slashdot.org/story/22/08/17/1525258/windows-11s-widgets-can-now-trigger-notifications-on-your-taskbar\"\u003e知道如何让你分心\u003c/a\u003e。软件巨人本周为 Windows 小组件（Widget）更新了任务栏通知系统。以天气组件为例，它在大部分情况下为用户提供的是一种静态的体验：晴朗的天显示阳光图标，下雨的天显示雨伞图标。但现在微软为此类组件添加了动画，用户未来几周将会在任务栏看到动画形式的通知，如雷暴警告，如股票上涨或下跌的行情警告。微软称，这些通知是为了让用户快速浏览，如果用户不与它们互动，任务栏会恢复原样。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-18T08:38:08Z",
+  "Author": "WinterIsComing"
+}

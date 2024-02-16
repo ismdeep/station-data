@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 101 释出",
+  "Link": "https://www.solidot.org/story?sid=71693",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Chrome 102 发布一周之后，Mozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/101.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 101\u003c/u\u003e\u003c/a\u003e(直接\u003ca href=\"https://ftp.mozilla.org/pub/firefox/releases/101.0/\"\u003e\u003cu\u003e下载\u003c/u\u003e\u003c/a\u003e)。按照这一速度，Firefox 在版本号上将很快超过 Chrome。Google 在三月底发布 Chrome 100，Mozilla 在五月初\u003ca href=\"https://www.solidot.org/story?sid=71421\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e Firefox 100。Firefox 101 在开发者方面的\u003ca href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/101\"\u003e\u003cu\u003e变化\u003c/u\u003e\u003c/a\u003e包括：默认 CSS prefers-contrast 媒体功能，三种新的 CSS 视窗大小，支持 HTMLInputElement.showPicker()，支持可构造样式表，正确解析 AV1 编解码器参数，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-31T11:48:59Z",
+  "Author": "WinterIsComing"
+}

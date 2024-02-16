@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用文言文写程序",
+  "Link": "https://www.solidot.org/story?sid=63389",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIEEE Spectrum \u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e了 Lingdong Huang 开发的\u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese\"\u003e\u003cu\u003e文言\u003c/u\u003e\u003c/a\u003e编程语言：用中国传统的文言文写代码。文言编程语言的设想是在一年前提出的，上个月 Huang 利用在学校最后一周的空闲时间完成了新语言的核心功能，包括了一个以类似文言文的方式展示程序的渲染器。Huang 在上海长大，在学校里学过简单的文言文，他对此十分着迷，青少年时期阅读了很多文言文书，现在正在读《淮南子》。他的新语言只有一个月历史，但已经吸引了很多人用它写程序，许多程序是基于中国古代的数学书，如 pi_liuhui 重新创造了三国数学家刘徽的圆周率计算方法，Crt.wy 是中国剩余定理，Pascal_triangle.wy 计算帕斯卡三角，divination.wy 是易经的算命算法。根据文言文及其语法创造新语言的一大挑战是文言文是没什么标点符号的，它不使用空格划分句子，如何划分句子是读者而不是作者的任务。为了克服这一挑战，Huang 设计语言只拥有一定数量的关键词。Huang 表示这确实行得通。他称新语言能生存下来关键在于能否形成一个社区，毕竟人的热情是会慢慢冷却的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-02T05:50:19Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "付钱，或者我们让 Google 屏蔽你",
+  "Link": "https://www.solidot.org/story?sid=63558",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t广告点击欺诈是一种互联网广告行业面临的一大难题，网络广告商通常会利用自动工具屏蔽可疑流量的账号，而这种做法为另一种类型的欺诈打开了大门。安全博客 KrebsOnSecurity \u003ca href=\"https://krebsonsecurity.com/2020/02/pay-up-or-well-make-google-ban-your-ads/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，勒索者向通过 Google AdSense 展示广告的网站所有者发去电子邮件，索要赎金，威胁如果其要求得不到满足将向 AdSense 广告发送大量流量，使得 Google 的反广告欺诈自动程序将受害者的账号屏蔽。勒索者索要价值 5000 美元的比特币，他们打赌部分网站为了防止主要收入来源消失而愿意支付赎金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-18T08:52:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Proton 将六千游戏带到 Linux 平台",
+  "Link": "https://www.solidot.org/story?sid=64179",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tValve 发布的 Windows 兼容工具 Proton 已经将 \u003ca href=\"https://boilingsteam.com/proton-brought-about-6000-games-to-linux-so-far/\" target=\"_blank\"\u003e\u003cu\u003e6000 多款\u003c/u\u003e\u003c/a\u003e游戏带到了 Linux 平台。2018 年发布的 Proton 是 Wine 的修改版本，用 Vulkan 实现了 DirectX 11 与 12，改进了兼容性并降低了对性能的影响。根据\u003ca href=\"https://www.protondb.com/\"\u003e\u003cu\u003e ProtonDB\u003c/u\u003e\u003c/a\u003e 收集的玩家报告，玩家测试的 12,848 个游戏有 6,502 个游戏能在 Linux 上正常运行。平均每个月有大约 100 款游戏获得兼容性的白金评级，获得白金评级的游戏在稳步增加。Proton 实现了其诺言：让 Windows 游戏只需要一次点击就能在 Linux 系统中运行。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-21T10:57:17Z",
+  "Author": "WinterIsComing"
+}

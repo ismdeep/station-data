@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 发布三十周年",
+  "Link": "https://www.solidot.org/story?sid=66988",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1991 年 2 月 Guido van Rossum \u003ca href=\"https://github.com/smontanaro/python-0.9.1\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Python 语言的首个公开版本 0.9.1。30 年后，数据科学和 AI 的流行推动它成为最受欢迎的编程语言之一。以彭博社为例，这家著名财经资讯平台有 2000 名 Python 开发者。任职于彭博社的 Python 引导委员会成员 Pablo Galindo \u003ca href=\"https://venturebeat.com/2021/02/19/python-pioneer-assesses-the-30-year-old-programming-language/\"\u003e\u003cu\u003e接受采访时候指出\u003c/u\u003e\u003c/a\u003e，30 年后的 Python 已经是非常成熟的语言了，而当你试图改变语言时很有可能会造成破坏，人们最怕的就是这件事。但语言仍然会发生大的改变。计划在今年 10 月释出的 Python 3.1 将会支持模式匹配，这可能是 Python 至今做出的最大的语法改变之一。对于 Python 仍然在演变和适应他对此非常高兴，他们在向后兼容上已很有经验了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-21T12:04:38Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "犯罪分子伪造 Electrum 钱包应用更新窃取钱包余额",
+  "Link": "https://www.solidot.org/story?sid=65790",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t犯罪分子伪造 Electrum 钱包应用更新\u003ca href=\"https://www.zdnet.com/article/bitcoin-wallet-trick-has-netted-criminals-more-than-22-million/\" target=\"_blank\"\u003e\u003cu\u003e窃取了\u003c/u\u003e\u003c/a\u003e价值超过 2200 万美元的用户数字货币。Electrum 设计通过名叫 ElectrumX 的服务器网络连接比特币区块链，它的开放生态系统允许任何人设置 ElectrumX 网关服务器。从 2018 年起网络犯罪分子滥用这一漏洞设置恶意服务器等待用户随机连接到他们的系统。当连接发生之后，攻击者会指示服务器在用户应用上弹出更新通知引诱用户下载恶意更新。更新下载链接不是来自官网而是域名相似的网站或 GitHub 库。安装恶意更新之后攻击者就会尝试转移走用户钱包里的数字货币。利用这种方法攻击者窃取到了 1980 个比特币，价值超过 2200 万美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-13T13:54:22Z",
+  "Author": "WinterIsComing"
+}

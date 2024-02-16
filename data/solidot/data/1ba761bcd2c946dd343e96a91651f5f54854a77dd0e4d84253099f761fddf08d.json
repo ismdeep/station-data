@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GCC 编译器接受了龙芯移植版本",
+  "Link": "https://www.solidot.org/story?sid=71085",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGCC 指导委员会\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=LoongArch-For-GCC-12\"\u003e\u003cu\u003e批准了\u003c/u\u003e\u003c/a\u003e龙芯移植版本 LoongArch，它有可能加入到即将在 4 月或 5 月发布的 GCC 12 稳定版本。LoongArch 由龙芯开发，基于 64 位 MIPS 架构。龙芯此前一直在做 GCC 编译器的移植，以及 Linux 内核的修改和其它软件栈的支持。它的 Linux 内核修改被批评复制了大量 MIPS 代码，在这一问题妥善解决后 Linux 内核支持的主要障碍变成了缺乏主线 GCC 编译器的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-28T14:29:09Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软二月例行安全更新修复 99 个漏洞",
+  "Link": "https://www.solidot.org/story?sid=63508",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软周二释出的二月例行安全更新修\u003ca href=\"https://www.zdnet.com/article/microsofts-february-2020-patch-tuesday-fixes-99-security-bugs/\" target=\"_blank\"\u003e\u003cu\u003e复了 99 个漏洞\u003c/u\u003e\u003c/a\u003e，其中之一是上个月披露的 IE 0day 漏洞。另外 98 个中 11 个漏洞属于高危漏洞。大部分高危漏洞是远程代码执行和内存损坏，位于 IE 脚本引擎、Remote Desktop Protocol 远程桌面协议服务、LNK 文件、Media Foundation 组件中。Adobe 也在同一天释出了多个安全更新修复 Adobe Flash Player 等产品中的\u003ca href=\"https://helpx.adobe.com/security.html\"\u003e\u003cu\u003e漏洞\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-12T14:13:48Z",
+  "Author": "WinterIsComing"
+}

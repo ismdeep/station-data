@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "让 AI 能看见更高的维度",
+  "Link": "https://www.solidot.org/story?sid=63241",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t计算机能驾驶汽车，打败围棋和世界象棋的冠军，甚至还能写文章。今天的 AI 革命很大程度上是来自于被称为“卷积神经网络”（convolutional neural networks，或 CNN）的技术进步。CNN 擅长学习和识别二维平面数据中的模式。但如果数据集不是基于平面几何，而是类似 3D 动画中使用的不规则模型，或者是自动驾驶汽车绘制周围环境时生成的点云，CNN 的效果不是很好。2016 年左右，名叫几何深度学习的新学科试图帮助 CNN 摆脱平面。现在，研究人员提出了一种新的理论框架，\u003ca href=\"https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/\"\u003e\u003cu\u003e让 AI 能看见更高的维度\u003c/u\u003e\u003c/a\u003e。它被称为规范卷积神经网络（gauge-equivariant convolutional neural networks 或\u003ca href=\"https://arxiv.org/abs/1902.04615\" target=\"_blank\"\u003e\u003cu\u003e gauge CNN\u003c/u\u003e\u003c/a\u003e），它 不仅能探测 2D 像素阵列，还能探测球体和非对称曲面物体中的模式。规范 CNN 与物理学有着深层的联系。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-12T09:47:11Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 回应 Ryzen 3000 系列的加速问题",
+  "Link": "https://www.solidot.org/story?sid=61971",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRyzen 3000 系列 CPU 的用户\u003ca href=\"https://www.tomshardware.com/news/amd-ryzen-3000-not-hitting-advertised-boost-speeds-survey,40291.html\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，处理器的加速频率达不到宣传的值。比如 Ryzen 3900X 最高频率是 4.6GHz，但调查发现只有 5.6% 的用户报告能达到这一频率。AMD 通过 Twitter 发表\u003ca href=\"https://twitter.com/AMDRyzen/status/1168901636162539536\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，称他们在固件中发现了一个问题，会导致加速频率偏低。它正在制作 BIOS 更新，会在 9 月 10 日公布更多信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-04T13:07:54Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客正在利用 Zyxel 设备最近发现的后门",
+  "Link": "https://www.solidot.org/story?sid=66561",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上月底，安全公司 Eye Control 的研究人员\u003ca href=\"https://www.solidot.org/story?sid=66494\" target=\"_blank\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e Zyxel 公司的设备发现了一个硬编码账号或“后门”，内置在固件中的账号用户名为 zyfwp，具有完整的管理权限，可通过 SSH 和 Web 接口访问。\n现在，安全公司 GreyNoise 报告黑客\u003ca href=\"https://arstechnica.com/information-technology/2021/01/hackers-are-exploiting-a-backdoor-built-into-zyxel-devices-are-you-patched/#p3\" target=\"_blank\"\u003e\u003cu\u003e正在尝试利用这个后门账号\u003c/u\u003e\u003c/a\u003e。黑客使用自动程序尝试通过  SSH 登陆存在漏洞的 Zyxel 设备。研究人员此前指出有超过 10 万 Zyxel 设备将其 Web 接口暴露在互联网上。扫描显示，十分之一的 Zyxel 设备运行存在漏洞的固件版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-05T06:49:35Z",
+  "Author": "WinterIsComing"
+}

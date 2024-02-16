@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家证明闪存记忆单元缺陷可充当指纹",
+  "Link": "https://www.solidot.org/story?sid=62260",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t信息和通信设备如智能手机已经普及，防止它们被盗或被纂改变得日益重要。我们需要有一种方法能精确识别每一个设备。现有的识别方法都能被纂改。俄罗斯人民友谊大学的数学家在《IEEE Access》期刊上发表\u003ca href=\"https://ieeexplore.ieee.org/document/8786232\"\u003e\u003cu\u003e研究\u003c/u\u003e\u003c/a\u003e，证明闪存记忆单元中的缺陷\u003ca href=\"https://techxplore.com/news/2019-10-mathematicians-flash-memory-fingerprints-electronic-devices.html\"\u003e\u003cu\u003e具有唯一性\u003c/u\u003e\u003c/a\u003e，可充当指纹去精确识别电子设备。新发现的方法可创造出一种无法被伪造的电子闪存钥匙。闪存记忆单元在大量的读写周期之后会不可避免的出现损伤导致芯片性能下降。研究人员利用 Raspberry Pi 测试发现，这种积累的损伤几乎不可能有两个会是相同的，而且它们具有长期的不变性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-16T09:18:35Z",
+  "Author": "wenfeixiang"
+}

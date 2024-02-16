@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "QEMU 6.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=67668",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t跨架构全系统模拟器 QEMU \u003ca href=\"https://www.qemu.org/2021/04/30/qemu-6-0-0/\"\u003e\u003cu\u003e正式释出了 6.0.0 版\u003c/u\u003e\u003c/a\u003e，该版本包含了 268 名贡献者的 3300+ commits。主要新特性包括：基于半虚拟化设备的新机器类型；支持 ARMv8.1-M ‘Helium’架构、ARMv8.4 TTST、SEL2 和 DIT 扩展，系统和用户模式模拟支持 ARMv8.5 MemTag 扩展；支持龙芯 3‘virt’机器类型；等等。QEMU 项目由 Fabrice Bellard 创建，最初设想在非 x86 平台上运行 x86 Linux 二进制程序，随后转变成跨架构的全系统模拟器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-01T03:03:40Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开源语言模型 Switch Transformer，但不包括权值",
+  "Link": "https://www.solidot.org/story?sid=66962",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Brain 的研究人员\u003ca href=\"https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e他们最新的 AI 语言模型 \u003ca href=\"https://arxiv.org/abs/2101.03961\"\u003e\u003cu\u003eSwitch Transformer\u003c/u\u003e\u003c/a\u003e，包括 1.6 万亿个参数，相比上一代的 T5 模型，在精度相似的情况下训练时间只要七分之一。但 Google 并没有开源预训练的权值，而权值对于语言模型是至关重要，因此这一开源被认为打了折扣。\u003ca href=\"https://www.solidot.org/story?sid=66524\"\u003e\u003cu\u003e权值\u003c/u\u003e\u003c/a\u003e代表 AI 模型模拟的人脑神经元之间的连接强度，需要反复调整到输出结果与正确答案相同。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-18T12:35:09Z",
+  "Author": "WinterIsComing"
+}

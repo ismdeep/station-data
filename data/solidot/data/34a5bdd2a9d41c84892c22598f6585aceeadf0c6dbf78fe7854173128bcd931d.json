@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 21.04 中 Home 目录默认私有",
+  "Link": "https://www.solidot.org/story?sid=67475",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu 官方博客\u003ca href=\"https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e即将发布的 Ubuntu 21.04 操作系统中的一项安全功能方面的变动：Home 目录默认为私有。开发者称，传统的目录权限分成三类：读、写和执行，这些权限可以分配给三类用户：所有者、组和其他，允许私有目录内的访问权限仅限于自己的用户，或者在个别目录的基础上允许系统中的其他用户访问公共的数据。在 Ubuntu 系统中创建新用户时其 Home 目录的权限是默认允许其他用户共享文件访问，具有读和执行的权限。这一默认是在 Ubuntu 的早期选择的，而在云计算和物联网时代，这一默认权限存在安全隐患，因此他们决定在新版本采用私有设置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-13T03:36:34Z",
+  "Author": "WinterIsComing"
+}

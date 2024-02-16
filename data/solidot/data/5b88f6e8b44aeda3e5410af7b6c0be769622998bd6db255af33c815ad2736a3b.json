@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "86-DOS Version 0.1-C 上传到互联网档案馆",
+  "Link": "https://www.solidot.org/story?sid=77034",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMS-DOS 奠定了微软的霸业，但 MS-DOS 最早版本是微软购买下来的。它的最早版本叫 QDOS，代表 Quick and Dirty Operating System，是西雅图计算机产品公司（Seattle Computer Products）程序员 Tim Paterson 的作品。它之后以英特尔 8086 处理器命名为 86-DOS，这个版本就是微软授权并最终购买的版本。一名叫 f15sim 的用户发现了最古老的版本 86-DOS Version 0.1-C 并上传到互联网档案馆，用户可以下载使用 SIMH 模拟器运行。这个版本相当原始，只有少数工具，一个基于文本的国际象棋游戏及其文档。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-03T07:05:29Z",
+  "Author": "Wilson"
+}

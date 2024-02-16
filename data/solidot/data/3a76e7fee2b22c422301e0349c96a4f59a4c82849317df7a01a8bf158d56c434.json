@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全专家发现 PS2 漏洞允许其运行任何游戏",
+  "Link": "https://www.solidot.org/story?sid=64812",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 Cturt 的安全工程师\u003ca href=\"https://www.technadu.com/security-expert-discovered-flaw-ps2-gives-way-play-any-game/106056/\"\u003e\u003cu\u003e找到了 PS2 的一个漏洞\u003c/u\u003e\u003c/a\u003e，允许其运行任何游戏，不是指盗版游戏，而是任何能刻录在 DVD 光盘上的游戏，包括不是设计运行在 PS 平台上的如超级马里奥。Cturt 声称无需任何硬件上的修改或任何类型的 Mod，唯一需要的就是设法触发一个读溢出漏洞。他的方法被称为 \u003ca href=\"https://cturt.github.io/freedvdboot.html\"\u003e\u003cu\u003eFreeDVDBoot\u003c/u\u003e\u003c/a\u003e，其技术细节发布在 GitHub 上。他认为类似的漏洞也能工作在 PS 一代以及 PS3 和 PS4 上，PS4 之前的游戏机早已不再更新，新漏洞的发现也许能让这些旧游戏机焕发新春。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-30T11:13:51Z",
+  "Author": "WinterIsComing"
+}

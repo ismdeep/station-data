@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Matlab 修复了 AMD CPU 代码路径",
+  "Link": "https://www.solidot.org/story?sid=63995",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t包括 Matlab 在内的许多应用程序\u003ca href=\"https://www.solidot.org/story?sid=62760\"\u003e\u003cu\u003e使用了\u003c/u\u003e\u003c/a\u003e Intel Math Kernel Library (MKL)，MKL 对竞争对手不友好，即使 AMD CPU 支持 AVX2 或 SSE3-SSE4，MKL 也只运行在 SSE1 上，性能因而大打折扣。如果要让 MKL 更好的支持 AMD CPU，用户需要修改系统环境变量。现在，Matlab 的开发商 MathWorks 在最新版本 \u003ca href=\"https://www.mathworks.com/downloads/web_downloads/\" target=\"_blank\"\u003e\u003cu\u003e2020a\u003c/u\u003e\u003c/a\u003e 整合了补丁，\u003ca href=\"https://www.extremetech.com/computing/308501-crippled-no-longer-matlab-2020a-runs-amd-cpus-at-full-speed\" target=\"_blank\"\u003e\u003cu\u003e修复了代码路径\u003c/u\u003e\u003c/a\u003e，允许在 AMD CPU 上运行 AVX2 代码。许多其它使用 MKL 库的应用还没有修复这个问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-01T05:49:33Z",
+  "Author": "WinterIsComing"
+}

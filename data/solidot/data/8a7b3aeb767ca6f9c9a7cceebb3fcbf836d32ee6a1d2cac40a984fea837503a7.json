@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔第十代酷睿处理器 Comet Lake-S 发布",
+  "Link": "https://www.solidot.org/story?sid=64434",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔的第十代酷睿处理器 Comet Lake-S 正式发布，主要科技网站的评测解禁，结果显示 Comet Lake-S \u003ca href=\"https://www.anandtech.com/show/15785/the-intel-comet-lake-review-skylake-we-go-again\"\u003e\u003cu\u003e单线程性能出色\u003c/u\u003e\u003c/a\u003e，但代价是功耗爆炸，用户需要更好更昂贵的冷却系统。大约十年前，AMD 为了追赶英特尔而不断的提升其处理器的主频，带来的一个后果是功耗大增，而性能因为架构劣势也未能如意。现在情况反过来了，英特尔为了追赶 AMD 而大幅提升其处理器频率，功耗爆增，但芯片巨人毕竟是巨人，新一代处理器至少在单线程上仍然相比 AMD 有优势。Comet Lake 被称为是第十代酷睿，但在设计上它其实是第六代 Skylake，Skylake++++ 采用了 14++ 纳米工艺技术，至于它是否是英特尔的最后一代 14 纳米芯片，明年 10 纳米或 7 纳米工艺桌面芯片是否能及时大规模投产仍然存在很多疑问。Comet Lake 处理器最高有 10 个核心，频率最高能达到 5.3 GHz（两个核心不是所有核心）。与 AMD 的同等产品相比，英特尔的价格依旧更高，核心数更少，它不太会是注重性价比的用户首选，但其品牌在普通用户中间仍然有着巨大的惯性和影响力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-21T11:11:40Z",
+  "Author": "WinterIsComing"
+}

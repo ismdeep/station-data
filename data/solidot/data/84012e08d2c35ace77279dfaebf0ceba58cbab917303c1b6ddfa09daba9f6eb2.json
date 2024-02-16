@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊屏蔽 Google 的 FLoC",
+  "Link": "https://www.solidot.org/story?sid=68049",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊\u003ca href=\"https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/\"\u003e\u003cu\u003e屏蔽了\u003c/u\u003e\u003c/a\u003e Google 受争议的替代数字广告跟踪技术 FLoC（ Federated Learning of Cohorts）。亚马逊旗下主要电商平台 Amazon.com、WholeFoods.com 和 Zappos.com 等都部署了代码屏蔽 FLoC。 FLoC 通过收集用户的网络活动数据然后推断出他们的共同兴趣，将有共同兴趣的用户划分到一起，据此展示广告。但用户的兴趣是变化的，FLoC 需要不断收集数据重新计算和重新分类用户。电商巨头的行动将打击 Google 收集用户数据的努力。亚马逊大约是从上周四开始在网站中加入屏蔽 FLoC 的代码，在这之前 WholeFoods.com 和 Woot.com 都没有看到相关代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-16T09:34:48Z",
+  "Author": "WinterIsComing"
+}

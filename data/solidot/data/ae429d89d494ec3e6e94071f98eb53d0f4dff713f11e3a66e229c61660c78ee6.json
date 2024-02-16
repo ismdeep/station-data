@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "17 岁少年被怀疑是 Lapsus$ 主谋",
+  "Link": "https://www.solidot.org/story?sid=71052",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLapsus$ 组织最近成功入侵了多家知名企业，其中包括英伟达和微软。安全研究人员在调查后认为，住在英国牛津与母亲生活在一起的\u003ca href=\"https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/\"\u003e\u003cu\u003e 17 岁少年是 Lapsus$ 的主谋\u003c/u\u003e\u003c/a\u003e。Lapsus$ 窃取到了部分微软产品源代码，但源代码的下载并没有完成，黑客在完成下载前就在其 Telegram 频道披露了消息，让微软有机会终止下载。LAPSUS$ 的活动至少是从 2021 年 11 月开始，一名核心成员使用了化名 Oklaqq 和 WhiteDoxbin 在 Reddit 上招募企业内部人士，以一周最高付费 2 万美元进行收买。LAPSUS$ 没有建立暗网网站，其运作完全是通过其 Telegram 频道。WhiteDoxbin 曾收购了一个专门曝光个人身份信息的网站 Doxbin，但因为管理不善最终将网站亏损转让给了原拥有者，但在放弃前他通过 Telegram 公开了整个 Doxbin 网站数据集，作为报复 Doxbin 用户公开了 WhiteDoxbin 的个人信息，包括从他家外面拍摄的视频。Doxbin 用户透露 WhiteDoxbin 通过买卖 0day 漏洞发家，积累了超过 300BTC，价值约 1400 万美元。由于他的年龄只有 17 岁，尚未受到正式指控，媒体没有公开他的名字，但去了他的家\u003ca href=\"https://www.bloomberg.com/news/articles/2022-03-23/teen-suspected-by-cyber-researchers-of-being-lapsus-mastermind?sref=ylv224K8\"\u003e\u003cu\u003e询问了他的母亲\u003c/u\u003e\u003c/a\u003e。其母表示对其活动不知情，表示家庭受到骚扰，拒绝让儿子接受采访，称正在联络警方。Lapsus$ 的另一名成员被认为是住在巴西的少年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-24T14:22:51Z",
+  "Author": "WinterIsComing"
+}

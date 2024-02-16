@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSL 高危漏洞允许黑客崩溃服务器",
+  "Link": "https://www.solidot.org/story?sid=67321",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSL 项目\u003ca href=\"https://www.openssl.org/news/secadv/20210325.txt\"\u003e\u003cu\u003e修复\u003c/u\u003e\u003c/a\u003e了一个高危漏洞 CVE-2021-3450，该漏洞允许黑客发送特制恶意请求\u003ca href=\"https://arstechnica.com/gadgets/2021/03/openssl-fixes-high-severity-flaw-that-allows-hackers-to-crash-servers/\"\u003e去崩溃服务器\u003c/a\u003e。OpenSSL 是最广泛使用的软件加密库。最新披露的 CVE-2021-3449 是一个拒绝服务漏洞，是空指针引用错误导致的。在建立安全连接的初始握手期间，黑客可以利用该漏洞发送恶意形式的重协商请求。研究人员在 3 月 17 日报告了这一漏洞，诺基亚的开发者  Peter Kästle 和 Samuel Sapalski 开发了修复的补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-26T05:08:16Z",
+  "Author": "WinterIsComing"
+}

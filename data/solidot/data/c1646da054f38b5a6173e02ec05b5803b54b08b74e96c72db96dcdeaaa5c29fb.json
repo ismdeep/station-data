@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用 Log4J 漏洞发动大规模网络攻击",
+  "Link": "https://www.solidot.org/story?sid=70005",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自上周五广泛使用的 Java 日志库 Log4J 曝出高危漏洞以来，黑客对全世界的企业\u003ca href=\"https://arstechnica.com/information-technology/2021/12/hackers-launch-over-840000-attacks-through-log4j-flaw/\" target=\"_blank\"\u003e\u003cu\u003e发动了超过 84 万次攻击\u003c/u\u003e\u003c/a\u003e。Log4J 使用 Java Naming and Directory Interface 执行网络查找，从 Lightweight Directory Access Protocol 获得服务，它将日志消息作为 URL 处理，以主程序的完整权限执行其中包含的任何可执行负荷。它的漏洞很容易被利用。在漏洞曝光之后，在使用 Log4J 的企业尚未及时修补前，攻击者正加速对其进行利用，安全研究人员甚至观察到一分钟内的攻击次数就超过了 100 次。被称为 Log4Shell 的漏洞被认为是至今发现的最严重漏洞之一。安全公司 Check Point 报告，攻击者在利用漏洞控制计算机之后，或者进行加密货币挖掘，或者将其作为僵尸网络的一部分，或者进行其它非法活动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-15T05:14:48Z",
+  "Author": "WinterIsComing"
+}

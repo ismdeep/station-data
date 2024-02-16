@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSH 8.4 发布",
+  "Link": "https://www.solidot.org/story?sid=65687",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSH 项目\u003ca href=\"https://www.openssh.com/txt/release-8.4\"\u003e\u003cu\u003e释出了 v8.4\u003c/u\u003e\u003c/a\u003e。OpenSSH 8.4 的一大变化是弃用 SHA-1 算法，ssh-rsa 公钥签名算法将在未来发布的版本中默认禁用。开发者称，对 SHA-1 算法发动选择前缀攻击的花费不到 5 万美元，因此他们决定未来默认将其禁用。虽然存在更好的替代，但 SHA-1 算法至今仍然被广泛使用。可选的替代算法包括：RFC8332 RSA SHA-2 签名算法 rsa-sha2-256/512；ssh-ed25519 签名算法；RFC5656 ECDSA 算法ecdsa-sha2-nistp256/384/521。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-29T09:08:22Z",
+  "Author": "WinterIsComing"
+}

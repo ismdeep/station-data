@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 称三星对 Android 内核的改动会让手机不那么安全",
+  "Link": "https://www.solidot.org/story?sid=63569",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle  Project Zero 安全博客上周发表\u003ca href=\"https://googleprojectzero.blogspot.com/2020/02/mitigations-are-attack-surface-too.html\"\u003e\u003cu\u003e博文\u003c/u\u003e\u003c/a\u003e称，三星对 Android 内核的改动\u003ca href=\"https://www.inputmag.com/tech/google-slams-samsung-for-unnecessary-changes-to-the-android-kernel-on-the-galaxy-a50\" target=\"_blank\"\u003e\u003cu\u003e让手机不那么安全\u003c/u\u003e\u003c/a\u003e。安全研究员 Jann Honn 讨论了三星在 A50 手机上对 Android 内核进行的改动。三星改动了限制攻击者读取或修改用户数据的安全功能，这一改动不是增加了安全性而是引入了漏洞，可能增加了攻击者执行任意代码的能力。三星的保护机制没有提供有意义的保护，而只是屏蔽了没有为三星手机进行定制的 root 工具。Google 称它努力减少攻击者访问设备驱动和增加内核代码的能力，但三星的改动削弱了这些努力。安全研究人员认为，设备特定的内核改动要么递交到上游要么转移到用户空间，否则最好不要乱动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-19T06:10:15Z",
+  "Author": "WinterIsComing"
+}

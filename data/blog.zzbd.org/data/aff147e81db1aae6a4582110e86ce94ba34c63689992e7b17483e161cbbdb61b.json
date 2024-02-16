@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "听个歌也要折腾",
+  "Link": "https://blog.zzbd.org/2015/06/07/quicklyric/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003ciframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=\"298\" height=\"52\" src=\"http://music.163.com/outchain/player?type=2\u0026amp;id=65952\u0026amp;auto=0\u0026amp;height=32\"\u003e\u003c/iframe\u003e毕业的事弄得差不多，又鼓捣起github上的项目。这次是[quicklyric](https://github.com/geecko86/QuickLyric)，一个android上的歌词应用。主要改变是把歌词源替换成国内常用的，顺便列出可供下载的MP3地址。最大的亮点就是能从网易云音乐下载各种品质的音乐，无视付费~目前还很粗糙，自己用足够了，过段时间得空了再改改~\u003cspan id=\"more\"\u003e\u003c/span\u003e ![ql1.png](http://cdn.zzbd.org/ql1.png) ![ql2.png](http://cdn.zzbd.org/ql2.png)\u003c/div\u003e",
+  "Date": "2015-06-07T14:29:01Z",
+  "Author": "J. F"
+}

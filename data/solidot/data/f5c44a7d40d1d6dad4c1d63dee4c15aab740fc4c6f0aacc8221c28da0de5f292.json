@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三名 TMT 网络犯罪组织成员在尼日利亚被捕",
+  "Link": "https://www.solidot.org/story?sid=66204",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t国际刑警组织\u003ca href=\"https://www.interpol.int/News-and-Events/News/2020/Three-arrested-as-INTERPOL-Group-IB-and-the-Nigeria-Police-Force-disrupt-prolific-cybercrime-group\"\u003e\u003cu\u003e通报\u003c/u\u003e\u003c/a\u003e，三名 TMT 网络犯罪组织成员在尼日利亚首都拉格斯\u003ca href=\"https://www.zdnet.com/article/three-members-of-tmt-cybercrime-group-arrested-in-nigeria/\" target=\"_blank\"\u003e\u003cu\u003e被捕\u003c/u\u003e\u003c/a\u003e。参与调查的安全公司 Group-IB 在其网站上\u003ca href=\"https://www.group-ib.com/media/gib-interpol-bec/\" target=\"_blank\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e更多细节，该组织的活动主要是发送大量含有恶意程序的钓鱼邮件。该组织使用了自动电邮发送工具  Gammadyne Mailer 和 Turbo-Mailer，利用 MailChimp 去跟踪受害者是否打开了邮件。含有恶意程序的邮件附件可以让 TMT 访问受害者的计算机去窃取各种凭证。国际刑警组织和 Group-IB 称，超过 5 万个机构感染了 TMT 的恶意程序，超过 50 万政府和私营公司收到了钓鱼邮件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-26T07:16:41Z",
+  "Author": "WinterIsComing"
+}

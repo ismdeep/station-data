@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 向用户展示 Firefox 收集的遥测数据",
+  "Link": "https://www.solidot.org/story?sid=63395",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 向用户\u003ca href=\"https://www.zdnet.com/article/firefox-now-shows-what-telemetry-data-its-collecting-about-you/\" target=\"_blank\"\u003e\u003cu\u003e提供了\u003c/u\u003e\u003c/a\u003e一个专门的页面展示 Firefox 收集的遥测数据。在地址栏输入 about:telemetry，用户可以看到 Mozilla 收集的遥测数据如浏览器设置、安装的扩展、操作系统/硬件信息，浏览器会话以及运行的进程。Firefox 的一名工程师称，这个页面最初是为了自私的理由创建的，旨在帮助工程师调试 Firefox。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-02T14:18:08Z",
+  "Author": "WinterIsComing"
+}

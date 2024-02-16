@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "利用 AI 更新 MS-DOS 游戏图像",
+  "Link": "https://www.solidot.org/story?sid=72656",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近\u003ca href=\"https://www.solidot.org/story?sid=72484\"\u003e\u003cu\u003e开源\u003c/u\u003e\u003c/a\u003e的自然语言图像合成模型  \u003ca href=\"https://github.com/CompVis/stable-diffusion\"\u003e\u003cu\u003eStable Diffusion\u003c/u\u003e\u003c/a\u003e 引发了\u003ca href=\"https://hn.algolia.com/?q=+Stable+Diffusion\"\u003e\u003cu\u003e社区\u003c/u\u003e\u003c/a\u003e和用户的浓厚兴趣。Stable Diffusion 的一大优势是能运行在单张显卡上，包括苹果的 \u003ca href=\"https://replicate.com/blog/run-stable-diffusion-on-m1-mac\"\u003e\u003cu\u003eM1 Mac GPU\u003c/u\u003e\u003c/a\u003e，因此普通用户也可以在本地使用，不需要上云端。利用 Stable Diffusion 一位名叫 frigis9 的网友更新了经典 MS-DOS 游戏的图像，将像素图变成细节非常丰富的图像，\u003ca href=\"https://arstechnica.com/gaming/2022/09/pixel-art-comes-to-life-fan-upgrades-classic-ms-dos-games-with-ai/\" target=\"_blank\"\u003e\u003cu\u003e效果令人称奇\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-02T11:08:17Z",
+  "Author": "WinterIsComing"
+}

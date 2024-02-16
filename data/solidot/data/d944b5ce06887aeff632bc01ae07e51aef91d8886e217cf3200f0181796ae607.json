@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PeerTube 释出了 v4 RC",
+  "Link": "https://www.solidot.org/story?sid=69820",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去中心化视频自由软件 PeerTube \u003ca href=\"https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/\" target=\"_blank\"\u003e\u003cu\u003e释出了 v4 RC\u003c/u\u003e\u003c/a\u003e，正式版本预计将会很快发布。PeerTube 是 YouTube 的去中心化替代，但它不是一个平台而是任何人都可以使用的软件。每个人都可以安装 PeerTube 创建一个 PeerTube 公开实例然后与其它 PeerTube 公开实例同步展示它们托管的视频，视频播放采用点对点串流的方式。 PeerTube v4 的主要特性包括：实例中所有视频的表格浏览，加强对视频的批量管理操作如批量删除、转码或删除特定视频格式；支持 144p 视频分辨率，等等。PeerTube 目前有近 900 个\u003ca href=\"https://instances.joinpeertube.org/instances/stats\"\u003e\u003cu\u003e公开实例\u003c/u\u003e\u003c/a\u003e，还有一个\u003ca href=\"https://sepiasearch.org/\"\u003e\u003cu\u003e搜索引擎\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-30T11:48:57Z",
+  "Author": "WinterIsComing"
+}

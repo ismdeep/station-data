@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RMS 的回归引发自由软件社区的分裂",
+  "Link": "https://www.solidot.org/story?sid=67352",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRMS（Richard M. Stallman）的回归引发自由软件社区的\u003ca href=\"https://news.slashdot.org/story/21/03/29/0439234/richard-stallmans-return-denounced-by-the-eff-tor-project-mozilla-and-the-creator-of-rust\"\u003e\u003cu\u003e分裂\u003c/u\u003e\u003c/a\u003e，支持者和反对者都在 GitHub 上发表了公开信。到目前为止，支持者的签名人数达到了\u003ca href=\"https://rms-support-letter.github.io/\" target=\"_blank\"\u003e\u003cu\u003e 4302\u003c/u\u003e\u003c/a\u003e，由个人组成，很多人使用了网名，而不是真实姓名。要求解除 RMS 的公开信目前由 50 个组织和 2872 个人签名，看起来少于支持者，但绝大部分都使用了真实姓名，而 50 个组织中不乏重要的开源项目，其中包括：GNOME 基金会、FreeDOS 项目、Mozilla、SUSE、Tor 项目、X.org 基金会，而可能是最著名的开源公司 Red Hat \u003ca href=\"https://www.redhat.com/en/blog/red-hat-statement-about-richard-stallmans-return-free-software-foundation-board\"\u003e\u003cu\u003e宣布停止\u003c/u\u003e\u003c/a\u003e资助自由软件基金会。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-30T12:31:50Z",
+  "Author": "WinterIsComing"
+}

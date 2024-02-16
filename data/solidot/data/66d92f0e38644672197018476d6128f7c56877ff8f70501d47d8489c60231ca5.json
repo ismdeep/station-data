@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "量子计算机需要强大百万倍才能破解比特币",
+  "Link": "https://www.solidot.org/story?sid=70520",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t量子计算机需要比现在大一百万倍，\u003ca href=\"https://www.newscientist.com/article/2305646-quantum-computers-are-a-million-times-too-small-to-hack-bitcoin/\" target=\"_blank\"\u003e\u003cu\u003e才能破解保护比特币的 SHA-256 算法\u003c/u\u003e\u003c/a\u003e，破解将使这种加密货币面临黑客风险。破解这种难以攻破的密码传统计算机基本上不可能，但是量子计算机可以利用量子物理学的特性加速计算，从理论上说可以破解它。英国苏塞克斯大学的 Mark Webber 和同事计算出，在 10 分钟的时间窗口内破解比特币的加密需要一台有 19 亿个量子比特的量子计算机，在一小时内破解需要一台有 3.17 亿个量子比特的量子计算机。即使将时间延长到一整天，这个数字也只是下降到 1300 万个量子比特。对于比特币拥有者来说，这是个令人欣慰的消息，因为目前量子计算机的量子比特很少——IBM 破纪录的超导量子计算机只有 127 个量子比特，因此设备需要变大一百万倍才能威胁到加密货币，Webber 表示十年内不太可能出现。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-26T12:45:00Z",
+  "Author": "wanwan"
+}

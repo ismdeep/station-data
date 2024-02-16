@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LibreOffice 支持 RISC-V 64 位处理器",
+  "Link": "https://www.solidot.org/story?sid=73344",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLibreOffice 加入了对 RISC-V 64 位处理器的支持。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件。\t\t\t\t\t             LibreOffice 则是流行的开源跨平台办公软件套装。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://cgit.freedesktop.org/libreoffice/core/commit/?id=bc9487f745befde6534fd46058e119256952323d\u0026amp;utm_source=anzwix\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-11T15:17:35Z",
+  "Author": "WinterIsComing"
+}

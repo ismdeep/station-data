@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 承认 Kubernetes 容器技术太复杂",
+  "Link": "https://www.solidot.org/story?sid=67046",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e Kubernetes 容器技术太复杂，用户要正确配置有相当的难度，它推出了新的  \u003ca href=\"https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview\"\u003e\u003cu\u003eAutopilo\u003c/u\u003e\u003c/a\u003e 服务尝试简化配置和管理。 Google Kubernetes Engine (GKE)产品负责人 Drew Bradstock 说，尽管有过去六年的进步，Kubernetes 仍然是难以置信的复杂，过去一年他们看到很多企业用户拥抱 Kubernetes，但随后就陷入了困境。新的  Autopilo 服务通过预配置选项在减少灵活性的同时增加方便性。Google 的技术被普遍认为非常出色，但客户支持则是另一回事了，被普遍认为非常烂。软件工程师 Kevin Lin \u003ca href=\"https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html\"\u003e\u003cu\u003e最近比较了\u003c/u\u003e\u003c/a\u003e亚马逊和 Google 的云服务，指出 Google 的客户支持基本上没有任何帮助，相比之下亚马逊的技术服务既快又有用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-26T12:26:35Z",
+  "Author": "WinterIsComing"
+}

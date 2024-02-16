@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 33 发布",
+  "Link": "https://www.solidot.org/story?sid=65935",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 发行版\u003ca href=\"https://fedoramagazine.org/announcing-fedora-33/\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e最新的 v33 版本，在工作站、服务器和容器版本外，还推出了 \u003ca href=\"https://getfedora.org/en/iot/\"\u003e\u003cu\u003e物联网版本（IoT）\u003c/u\u003e\u003c/a\u003e。Fedora 33 的主要变化包括：GNOME 3.38 桌面，工作站版本的默认文件系统 BTRFS，Python 3.9，Ruby on Rails 6.0 和 Perl 5.32，默认编辑器 nano，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-28T09:00:05Z",
+  "Author": "WinterIsComing"
+}

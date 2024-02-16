@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 用户电话号码泄漏",
+  "Link": "https://www.solidot.org/story?sid=61980",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t储存数亿 Facebook 用户关联电话号码的服务器被发现\u003ca href=\"https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/\"\u003e\u003cu\u003e没有任何密码保护就能访问\u003c/u\u003e\u003c/a\u003e。暴露的服务器包含了超过 4.19 亿条记录，其中包括 1.33 亿美国用户，1800 万英国用户，5000 多万越南用户。每一条记录包含了用户唯一的 Facebook ID 和电话号码。一些记录还包含了用户的姓名、性别和国别。GDI Foundation 的安全研究员 Sanyam Jain 发现了无密码保护的数据库，因无法识别所有者而联络了 TechCrunch，在联络了托管商之后数据库已经下线。Facebook 发言人 Jay Nancarrow 称，该公司去年关闭了对用户电话号码数据的访问，这些数据是在关闭前抓取的。Facebook 声称这些数据不是新的，但几乎没有人会频繁更换电话号码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-05T07:43:05Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "加密货币恶意程序修改 CPU 设置以提高挖矿性能",
+  "Link": "https://www.solidot.org/story?sid=68546",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://therecord.media/crypto-mining-botnet-modifies-cpu-configurations-to-increase-its-mining-power/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一种加密货币恶意程序会修改 CPU 设置以提高挖矿性能。安全公司 Uptycs 的研究人员在 2021 年 6 月发现了一种加密货币挖矿僵尸网络，利用已知漏洞 \u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2020-14882\"\u003eCVE-2020-14882\u003c/a\u003e (Oracle WebLogic)和 \u003ca href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11610\"\u003eCVE-2017-11610\u003c/a\u003e 入侵 Linux 服务器，下载 Linux MSR（Model-specific registers）驱动，关闭硬件预取功能，然后安装挖矿程序 XMRig。\u003ca href=\"https://en.wikipedia.org/wiki/Model-specific_register\" target=\"_blank\"\u003e\u003cu\u003eMSR\u003c/u\u003e\u003c/a\u003e 是 x86 CPU 上的一组控制寄存器，可用于启用或关闭硬件预取。硬件预取可用于在执行重复计算任务时预加载数据以提高性能。研究人员猜测，恶意程序开发者之所以关闭硬件预取是因为 XMRig 的文档声称关闭该功能可将挖矿性能提高 15%。目前该恶意程序主要针对 Linux 服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-15T09:59:16Z",
+  "Author": "WinterIsComing"
+}

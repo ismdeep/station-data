@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软通过 Microsoft Store 释出安全补丁",
+  "Link": "https://www.solidot.org/story?sid=64832",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软本周\u003ca href=\"https://arstechnica.com/information-technology/2020/07/unscheduled-fixes-for-critical-windows-flaws-delivered-through-rare-channel/#p3\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e计划外的安全更新，修复了两个漏洞，其中一个为高危漏洞。不同于绝大多数 Windows 10 补丁，最新的\u003ca href=\"https://support.microsoft.com/en-us/help/4026259/microsoft-store-get-updates-for-apps-and-games\"\u003e\u003cu\u003e安全补丁\u003c/u\u003e\u003c/a\u003e是通过 Microsoft Store 而不是 Windows Update 推送给用户的。微软声称用户无需任何操作就能自动接受和安装补丁。发现漏洞的趋势科技安全研究员 Abdul-Aziz Hariri 解释说，受影响的库叫 hevcdecoder_store.dll，负责用 HEVC 代码解析 HEIC 图像，这个库是通过 Windows Store 提供的，这可能是微软通过 Windows Store 而不是 Windows Update 更新的原因。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-02T07:16:25Z",
+  "Author": "WinterIsComing"
+}

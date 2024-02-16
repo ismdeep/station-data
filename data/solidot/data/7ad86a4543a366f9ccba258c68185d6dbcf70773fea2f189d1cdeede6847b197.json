@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 98.0.1 移除 Yandex 和 Mail.ru 搜索选项",
+  "Link": "https://www.solidot.org/story?sid=70943",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/98.0.1/releasenotes/\"\u003e\u003cu\u003eFirefox 98.0.1\u003c/u\u003e\u003c/a\u003e，唯一的变化是移除 Yandex 和 Mail.ru 搜索选项。Yandex 和 Mail.ru 都来自俄罗斯，Mozilla 此举旨在表达立场，用户仍然能正常访问 Yandex 和 Mail.ru，只是他们不再能方便通过搜索框的下拉菜单选择 Yandex 和 Mail.ru。Mozilla 的政治表达招致了部分用户的\u003ca href=\"https://news.ycombinator.com/item?id=30672939\"\u003e\u003cu\u003e批评\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-15T06:09:15Z",
+  "Author": "WinterIsComing"
+}

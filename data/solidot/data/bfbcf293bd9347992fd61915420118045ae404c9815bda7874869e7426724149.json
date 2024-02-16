@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PyPI 收到法庭传票",
+  "Link": "https://www.solidot.org/story?sid=75048",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 软件基金会披露，它在 2023 年 3 月和 4 月收到三张美国司法部的传票，要求提供软件包仓库 PyPI 的用户数据。传票要求提供姓名（包括订阅名、用户名和网名），地址（包括邮寄地址、居住地址、公司地址和电子邮件地址），连接记录，会话时间和持续时长以及相关 IP 记录，所有上传的 PyPI 软件包记录和这些软件包的下载 IP 日志，等等。Python 软件基金会在与律师讨论之后满足了传票要求，它表示致力于维护用户的自由、安全和隐私，将重新审视现有的数据和隐私标准，制定新的数据保留和披露政策。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-25T03:06:03Z",
+  "Author": "Wilson"
+}

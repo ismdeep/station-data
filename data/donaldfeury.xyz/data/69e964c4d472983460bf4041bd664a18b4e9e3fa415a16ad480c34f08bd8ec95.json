@@ -1,0 +1,8 @@
+{
+  "Source": "donaldfeury.xyz",
+  "Title": "Error Handling in Go",
+  "Link": "https://donaldfeury.xyz/error-handling-in-go/",
+  "Content": "\u003csection class=\"gh-content gh-canvas\"\u003e\n        \u003cp\u003eError handling in Go is pretty straightforward. There are no exceptions, there are no try-catch blocks, there is only ERROR.\u003c/p\u003e\u003cp\u003eError is a type like any other primitive built into the language, like an int or a string. This makes error handling, while a tad verbose, very straightforward and easy to understand.\u003c/p\u003e\u003cp\u003eCheck it out and let me know what y\u0026#39;all think. Any feedback is greatly appreciated.\u003c/p\u003e\u003cfigure class=\"kg-card kg-embed-card\"\u003e\u003ciframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3ZbdsFSPy1w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003c/figure\u003e\u003cp\u003eIf you liked it and want to know when I post more, be sure to \u003ca href=\"https://www.youtube.com/channel/UCTHij3Ac5GizLsn5yB4IX_Q?sub_confirmation=1\"\u003esubscribe\u003c/a\u003e and thank y\u0026#39;all again for your time!\u003c/p\u003e\u003chr/\u003e\u003cp\u003eDid you find this information useful? If so, consider heading over to my \u003ca href=\"https://donaldfeury.xyz/donate/\"\u003edonation\u003c/a\u003e page and drop me some support.\u003c/p\u003e\u003cp\u003eWant to ask a question or just chat? Contact me \u003ca href=\"https://donaldfeury.xyz/contact\"\u003ehere\u003c/a\u003e\u003c/p\u003e\n    \u003c/section\u003e",
+  "Date": "2021-06-27T18:51:34Z",
+  "Author": "Donald Feury"
+}

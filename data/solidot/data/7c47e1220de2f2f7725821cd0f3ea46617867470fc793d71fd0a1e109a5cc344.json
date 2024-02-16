@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源应用因包含网站链接被从 Play Store 下架",
+  "Link": "https://www.solidot.org/story?sid=68541",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源应用 Language Transfer 的开发者在 GitHub 上\u003ca href=\"https://github.com/language-transfer/lt-app/pull/44\"\u003e\u003cu\u003e称\u003c/u\u003e\u003c/a\u003e，因应用描述包含网站链接（www.languagetransfer.org）该应用被从 Play Store 应用商店下架。开发者称，Language Transfer 的资金完全来自于捐赠，它是一个小型项目，完全由一个人维护，不存在资助项目的非盈利组织。Google 豁免了非营利组织，但对于小型项目的捐赠它仍然想要拿到 15% 的分成。因此 Language Transfer 应用描述没有包含捐赠链接，而只是提供了网站链接，网站上有捐赠链接，用户可通过访问网站捐赠资助开发者。即便是这种行为，Google 仍然不允许，它以违反支付政策为由将其\u003ca href=\"https://play.google.com/store/apps/details?id=org.languagetransfer\"\u003e\u003cu\u003e下架\u003c/u\u003e\u003c/a\u003e（已经 404）。Google 的做法以及其客户支持\u003ca href=\"https://news.ycombinator.com/item?id=28172490\"\u003e\u003cu\u003e一向饱受批评\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-14T03:09:47Z",
+  "Author": "WinterIsComing"
+}

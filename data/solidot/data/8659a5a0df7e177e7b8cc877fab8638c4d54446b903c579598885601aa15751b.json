@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "部分 Chromebook 错误宣称使用寿命结束",
+  "Link": "https://www.solidot.org/story?sid=62034",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChromebook 用户可能没有意识到，所有 ChromeOS 设备都有过期日期。Google 最初的政策是向 ChromeOS 设备提供五年的支持，最近将这一时间延长到了 6.5 年。当 Chromebook 或Chromebox 接近过期日期，它将会提醒用户去购买新设备，并拒绝给系统打上新的安全更新或特性更新。这意味着新的安全漏洞将不会修复，持续演变的 Web 服务如 Gmail 也可能会停止工作。最近 ChromeOS 的早期预览版本曝出了一个 \u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=994999#c13\"\u003ebug\u003c/a\u003e，每次重启之后它\u003ca href=\"https://arstechnica.com/gadgets/2019/09/some-chromebooks-mistakenly-declared-themselves-end-of-life-last-week/#p3\" target=\"_blank\"\u003e\u003cu\u003e都会警告\u003c/u\u003e\u003c/a\u003e用户这是最后一次自动更新，用户需要升级到新型号。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-10T07:28:53Z",
+  "Author": "wenfeixiang"
+}

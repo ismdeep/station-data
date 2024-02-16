@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软计划用开源工具 PowerToys 替代 Win + R",
+  "Link": "https://www.solidot.org/story?sid=64170",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://www.windowslatest.com/2020/04/18/windows-10-to-get-spotlight-like-launcher-with-powertoys/\"\u003e正在开发\u003c/a\u003e一个开源工具叫 PowerToys，它将设计取代 Win + R 快捷键。PowerToys 的\u003ca href=\"https://github.com/microsoft/PowerToys\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e采用 MIT 许可证发布在 GitHub 上。Windows 高级用户通常会使用 Win + R 快速运行程序，但如果不知道程序的名字？用户可以使用搜索功能寻找，但 Windows 的搜索并不总能返回有用的结果。PowerToys 设计去解决这个问题，它能搜索还能立即启动程序。微软还计划支持插件扩展功能，提高可定制性。PowerToys 计划在今年晚些时候发布，测试版本将在 5 月释出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-20T13:17:10Z",
+  "Author": "WinterIsComing"
+}

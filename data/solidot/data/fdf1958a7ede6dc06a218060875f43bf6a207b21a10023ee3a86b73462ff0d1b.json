@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "首个可编程忆阻器计算机",
+  "Link": "https://www.solidot.org/story?sid=61568",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为加快 AI 和神经形态计算以及降低功耗，创业公司、科学家和芯片公司都寻找在内存而不是处理器的计算核心去执行更多的计算。忆阻器和其它非易失性内存被认为有助于完成这项工作。但大部分内存计算演示使用的是为特定 AI 问题设计的独立加速器或需要片外资源。密歇根大学的工程师声称他们\u003ca href=\"https://spectrum.ieee.org/tech-talk/semiconductors/processors/first-programmable-memristor-computer\" target=\"_blank\"\u003e\u003cu\u003e创造出了第一种可编程忆阻器计算机\u003c/u\u003e\u003c/a\u003e，能真正直接在内存上执行计算。密歇根教授 Wei Lu 称，内存是瓶颈，机器学习模型越来越大，没有足够的片上内存可以储存数据，而转出转入数据会消耗大量的计算时间和能量。即使你能将所有数据储存在片上内存，将数据转移到计算核心仍然会消耗时间和能量，你需要在内存里直接计算。他们设计的忆阻器芯片集成了 OpenRISC 处理器、数模转换器、模数转换器和混合信号接口去充当忆阻器模拟计算和主处理器之间的转换器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-01T08:37:05Z",
+  "Author": "wenfeixiang"
+}

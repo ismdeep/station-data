@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客以游戏公司为目标",
+  "Link": "https://www.solidot.org/story?sid=61673",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国安全公司 FireEye 发布了对中国黑客组织 APT41 的\u003ca href=\"https://content.fireeye.com/apt-41/rpt-apt41/\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e（PDF），称其攻击范围极为广泛，除了使用现有的工具外，还有自己开发的独有工具，还会用窃取的证书给恶意程序签名。FireEye \u003ca href=\"https://content.fireeye.com/apt-41/website-apt41-blog\"\u003e\u003cu\u003e还识别了\u003c/u\u003e\u003c/a\u003e与该组织相关的两名成员 “Zhang Xuguang”和“Wolfzhi”。除了进行网络间谍活动外，APT41 被还发现从事盈利性活动：攻击游戏公司，操纵虚拟货币，甚至尝试部署勒索软件。APT41 会在游戏公司的网络内移动，寻找到生产环境，窃取源代码和数字证书，然后利用数字证书给恶意程序签名。通过访问生产环境，APT41 还会向合法文件内注入恶意代码，在受害者组织内进行扩散，发动供应链攻击。FireEye 根据黑客的活动时间认为， Zhang 等 APT41 成员多数是晚上到凌晨活动的夜猫子。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-09T12:29:44Z",
+  "Author": "wenfeixiang"
+}

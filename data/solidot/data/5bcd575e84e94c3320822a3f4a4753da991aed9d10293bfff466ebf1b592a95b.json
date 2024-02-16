@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Nginx 创始人谈警方的搜查",
+  "Link": "https://www.solidot.org/story?sid=62962",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周，俄罗斯警方搜查了 NGINX 公司驻莫斯科办事处，扣押了设备，Nginx 软件的两位创始人和作者 Maxim Konovalov 和 Igor Sysoev 遭到逮捕、拘留和审讯。原因是互联网巨头 Rambler Group 声称拥有 Nginx 代码的所有权，因为该软件是 Igor Sysoev 就职于该公司期间开发的。Konovalov 接受了媒体的采访，\u003ca href=\"https://cms.arstechnica.com/?p=1633471#p3\"\u003e\u003cu\u003e称 Rambler 的行动是非法的\u003c/u\u003e\u003c/a\u003e。在搜查行动发生前，Rambler 根本就没有联系他们，没有尝试协商或通知他们。Konovalov 称警察的行动“专业而礼貌”，如果你排除特警端着自动枪站在周围的事实。他表示，总体而言，警方的审讯并不令人感到愉快。他认为此举是 Rambler 领导层的一次勒索，受到了美国科技公司 F5 Networks 最近以 6.7 亿美元收购 NGINX 公司这一交易的启发。Konovalov 和 Sysoev 不确定他们受到了哪些刑事指控，Rambler 刚刚向法庭撤销了刑事诉讼，转向了民事诉讼。刑事指控显然是进行搜查的借口。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-17T06:08:35Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.5 将支持二十年历史的 SGI 工作站",
+  "Link": "https://www.solidot.org/story?sid=62503",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t将于 2020 年初释出的 Linux 5.5 \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.5-MIPS-SGI-Octane\"\u003e\u003cu\u003e将加入\u003c/u\u003e\u003c/a\u003e对二十年历史的 SGI 工作站的支持。SGI Octane 和Octane II 工作站采用 MIPS 处理器，最初运行的是 SGI 的 IRIX 操作系统。Octane 工作站在 19 年前已经停产，Octane II 在 2004 年停产，第三代工作站换成了英特尔的 x86 处理器，于 2010 年推出。在这些旧 SGI 工作站上运行 Linux 主要依赖于第三方内核补丁，而这些补丁源于 Linux 2.6 时代。在  SUSE 开发者 Thomas Bogendoerfer 的帮助下，\u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/mips/linux.git/commit/?id=7505576d1c1ac0cfe85fdf90999433dd8b673012\"\u003e\u003cu\u003e新的补丁\u003c/u\u003e\u003c/a\u003e进入到了 MIPS 源码树，将会在 Linux 5.5 合并窗口开启后合并到内核主线。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-06T04:29:01Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 将对 IPv4 公网地址收取费用",
+  "Link": "https://www.solidot.org/story?sid=75666",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t云计算巨头亚马逊 AWS 宣布将从明年开始对 IPv4 公网地址收费，鼓励用户使用 IPv6 地址。原因是\n IPv4 地址日益稀缺，获取的成本在增加。IPv4 地址空间从 2019 年起开始枯竭，此后要获得 IPv4 地址主要靠回收和未使用地址段的释放，过去五年单个 IPv4 地址的获取成本增加了三倍以上。对云计算巨头来说，现在是时候将成本转嫁给客户了。从 2024 年 2 月 1 日开始，对于所有 IPv4 公网地址，AWS 将对每个地址每小时收 $0.005。新政策适用于包括 AWS EC2、Relational Database Service (RDS)和 Elastic Kubernetes Service (EKS)在内的服务。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-31T14:32:29Z",
+  "Author": "Wilson"
+}

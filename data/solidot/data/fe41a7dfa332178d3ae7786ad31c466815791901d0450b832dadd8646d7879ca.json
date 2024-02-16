@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "链家数据库管理员因删库被判七年",
+  "Link": "https://www.solidot.org/story?sid=71550",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t链家前数据库管理员韩冰因删库一审被判处有期徒刑七年，\u003ca href=\"https://www.thepaper.cn/newsDetail_forward_18110926\" target=\"_blank\"\u003e\u003cu\u003e二审维持原判\u003c/u\u003e\u003c/a\u003e。韩冰是在 2018 年 6 月 4 日使用管理员权限和 root 账号登陆公司财务系统，并将系统内的财务数据及相关应用程序删除。被破坏的服务器是公司专门用于 EBS 系统的 2 台数据库服务器和 2 台应用服务器，存放着公司成立以来所有的财务数据，直接影响公司人员的工资发放等，链家为恢复数据及重新构建该系统共计花费人民币 18 万元。\u003ca href=\"https://www.bleepingcomputer.com/news/security/angry-it-admin-wipes-employer-s-databases-gets-7-years-in-prison/\"\u003e\u003cu\u003e法庭文档显示\u003c/u\u003e\u003c/a\u003e，韩冰是五名删库嫌疑人之一，他在拒绝将笔记本电脑密码交给公司调查人员后立即引起了怀疑。他声称电脑里有私人数据，密码只能提供给公安机关，或者只有他自己在场的情况下输入密码才能检查。调查人员知道公司财务系统被攻击的方式只要是连接到服务器就可以执行，这样的操作是不会在电脑端留下痕迹的，只会在服务器上留下痕迹，检查每个人的电脑，执行这些检查的操作，主要是为了看韩冰等人的反映。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-17T09:42:06Z",
+  "Author": "WinterIsComing"
+}

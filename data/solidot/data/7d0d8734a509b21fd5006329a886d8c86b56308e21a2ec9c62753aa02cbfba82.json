@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Larry Wall 批准将 Perl 6 重命名为 Raku",
+  "Link": "https://www.solidot.org/story?sid=62211",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几个月，Perl 语言社区一直在讨论一个问题：是否应该给 Perl 6 \u003ca href=\"http://blogs.perl.org/users/ovid/2019/08/is-perl-6-being-renamed.html\" target=\"_blank\"\u003e\u003cu\u003e重起一个名字\u003c/u\u003e\u003c/a\u003e。Perl 6 与广泛流行的 Perl 5 之间存在显著的差异，两者之间是不兼容的，不存在明确的升级渠道，许多人认为应该将 Perl 6 视为 Perl 5 的姐妹语言而不是继承者，而现有的命名方式则容易产生混淆。现在，在广泛讨论之后，Perl 语言作者 Larry Wall \u003ca href=\"https://github.com/perl6/problem-solving/pull/89\"\u003e\u003cu\u003e批准\u003c/u\u003e\u003c/a\u003e将 Perl 6 重命名为 Raku，而 Perl 5 将被称为 Perl，继续按计划每年发布一个大更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-12T02:45:45Z",
+  "Author": "wenfeixiang"
+}

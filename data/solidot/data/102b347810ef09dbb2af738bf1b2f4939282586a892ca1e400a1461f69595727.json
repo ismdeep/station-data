@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bitbucket 宣布停止支持 Mercurial",
+  "Link": "https://www.solidot.org/story?sid=61800",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t源码托管平台 Bitbucket \u003ca href=\"https://bitbucket.org/blog/sunsetting-mercurial-support-in-bitbucket\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它将于 2020 年 6 月 1 日移除 Mercurial 功能和仓库。Bitbucket 曾是最大的 Mercurial 托管平台之一，但随着 Git 普及成为事实上的标准版本控制系统，Bitbucket 决定专注于 Git 放弃支持 Mercuria。Bitbucket 称 Stack Overflow 开发者调查显示，90% 的开发者使用 Git，而 Mercurial 是最不流行的版本控制系统，使用率只有 3%。它宣布到 2020 年 2 月 1 日用户将无法再创建新的 Mercurial 仓库，到 6 月 1 日不再能使用 Mercurial 功能，Mercurial 功能将一直提供到 2020 年 5 月 31 日，它建议现有的 Mercurial 用户迁移到 Git。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-21T08:46:04Z",
+  "Author": "wenfeixiang"
+}

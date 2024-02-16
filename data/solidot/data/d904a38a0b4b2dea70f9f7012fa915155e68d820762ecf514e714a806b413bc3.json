@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SymTCP：自动化规避深度包检测",
+  "Link": "https://www.solidot.org/story?sid=64158",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t读者 写道\u003ci\u003e \u0026#34;2017 年，加州大学河滨分校的 Wang 等人在 ACM 会议上发表了关于防火长城的 TCP 状态机的\u003ca href=\"https://censorbib.nymity.ch/pdf/Wang2017a.pdf\"\u003e论文\u003c/a\u003e，并开源了工具 \u003ca href=\"https://github.com/seclab-ucr/INTANG\"\u003eINTANG\u003c/a\u003e（\u003ca href=\"https://www.solidot.org/story?sid=54363\"\u003e原新闻\u003c/a\u003e）。2020 年 2 月，Wang 等人和美国陆军研究实验室的研究者，在 NDSS 2020 上发表\u003ca href=\"https://censorbib.nymity.ch/img/cache-icon.svg\"\u003e论文\u003c/a\u003e《\u003cspan class=\"paper\"\u003e\u003ca name=\"Wang2020a\"\u003eSymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery\u003c/a\u003e\u003c/span\u003e》，提出了新工具 \u003ca href=\"https://www.ndss-symposium.org/wp-content/uploads/2020/02/24083.pdf\" target=\"_blank\"\u003eSymTCP\u003c/a\u003e。论文探索了 DPI 装置与端点实现的协议状态机差异，这些差异允许客户端发送不寻常流量迷惑 DPI，相比之前的论文，这次他们使用了软件分析技术探索了常见 TCP 实现的状态机，并测试对多个 DPI 进行规避。本周 Tor project 的 anti-censorship meeting \u003ca href=\"http://meetbot.debian.net/tor-meeting/2020/tor-meeting.2020-04-16-17.59.html\"\u003e讨论\u003c/a\u003e了这篇论文，这篇论文的局限在于只考虑了 Linux 的实现。其他类似的论文有 2019 年马里兰大学 Kevin Bock 等人在ACM 会议的 \u003ca href=\"https://censorbib.nymity.ch/pdf/Bock2019a.pdf\" target=\"_blank\"\u003eGeneva\u003c/a\u003e，但相比 SymTCP，Geneva 的算法\u003ca href=\"https://github.com/Kkevsterrr/geneva\" target=\"_blank\"\u003e未公开\u003c/a\u003e。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-18T13:20:32Z",
+  "Author": "WinterIsComing"
+}

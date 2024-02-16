@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 将在 7 月中旬发布 FidelityFX Super Resolution 源代码",
+  "Link": "https://www.solidot.org/story?sid=68110",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD \u003ca href=\"https://community.amd.com/t5/blogs/amd-fidelityfx-super-resolution-is-here/ba-p/477919\"\u003e\u003cu\u003e已经释出了\u003c/u\u003e\u003c/a\u003e支持 FidelityFX Super Resolution（FSR）的最新驱动，\u003ca href=\"https://gpuopen.com/fidelityfx-superresolution/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将在 7 月中旬公开源代码。FSR 是类似 Nvidia Deep Learning Super Sampling (DLSS)的超分辨率技术，但没有像 Nvidia 那样使用 AI 训练模型，而是采用传统图像处理算法，其优点是容易整合到游戏中，《永恒边缘》游戏开发者称只用了 2 个小时就完成了 FSR 的实现。此外 FSR 是开放标准，支持旧的显卡甚至包括竞争对手 Nvidia 的显卡。FSR 提供了高质量、质量、平衡和性能四种画质，其中高质量画质在 2K 和 4K 分辨率下的表现可能最令人满意，玩家可以提高频速的同时画质降低感知非常少。性能模式频速最高但画质可能会非常模糊。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-23T13:45:44Z",
+  "Author": "WinterIsComing"
+}

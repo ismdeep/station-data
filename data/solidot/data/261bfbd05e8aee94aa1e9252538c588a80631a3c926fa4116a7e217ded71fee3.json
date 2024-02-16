@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《塞尔达传说时之笛》PC 移植版准备下个月发布",
+  "Link": "https://www.solidot.org/story?sid=70495",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 11 月，名叫 Zelda Reverse Engineering Team (ZRET)团队耗时近两年成功将任天堂游戏《塞尔达传说时之笛》\u003ca href=\"https://games.solidot.org/story?sid=69811\" target=\"_blank\"\u003e\u003cu\u003e完整反编译\u003c/u\u003e\u003c/a\u003e，将可执行的 ROM 转变成可读可编辑的 C 代码。现在另一个名叫 Harbour Masters 的团队准备在下个月\u003ca href=\"https://arstechnica.com/gaming/2022/01/pc-port-of-ocarina-of-time-prepares-for-february-release/\" target=\"_blank\"\u003e\u003cu\u003e发布 PC 移植版本\u003c/u\u003e\u003c/a\u003e。为了避免来自任天堂的潜在法律诉讼，发布的版本将不包含任何游戏素材，玩家将需要使用工具从 ROM 中提取出必要的素材。《时之笛》移植版的开发受益于任天堂另一款知名游戏《超级马里奥64》的 PC 移植版本，《时之笛》可以使用为《超级马里奥64》开发的 Fast3D 渲染引擎，该引擎将 N64 微码转换到 OpenGL 或 DirectX。开发者称《时之笛》和《超级马里奥64》八成的渲染管线是重叠的，这节省了大量的移植时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-25T07:12:05Z",
+  "Author": "WinterIsComing"
+}

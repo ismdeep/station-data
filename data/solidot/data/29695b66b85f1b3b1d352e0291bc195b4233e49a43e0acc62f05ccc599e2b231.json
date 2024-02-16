@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员创建具有“自我意识”的算法抵御黑客攻击",
+  "Link": "https://www.solidot.org/story?sid=69189",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t这听起来像是间谍惊悚片里的场景。黑客攻破了一家核电站的 IT 防御，注入虚假的现实数据，诱使计算机系统和人员认为这些操作是正常的。然后黑客会破坏核电站内关键机器的功能，导致其运行失常或者出现故障。当系统操作人员意识到自己被骗的时候，为时已晚，灾难性后果已发生了。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这个场景不是虚构的；它发生在 2010 年，当时黑客用 Stuxnet 毒破坏了伊朗的铀浓缩离心机。随着勒索软件和世界各地其他的网络攻击不断增多，系统运营商愈加担心“虚假数据注入”攻击。很多基于人工智能的计算机模型和数据分析确保了电网、制造设施和发电厂的平稳运行。如果落入歹人之手，这些模型和数据分析可能会反过来成为祸乱之源。\n\u003cbr/\u003e\n\u003cbr/\u003e\n普渡大学的 Hany Abdel-Khalik 对此给出了\u003ca href=\"https://www.tandfonline.com/doi/abs/10.1080/00295450.2020.1812349?journalCode=unct20\"\u003e\u003cu\u003e强有力的回应\u003c/u\u003e\u003c/a\u003e：让运行这些网络物理系统的计算机模型\u003ca href=\"https://scienceblog.com/525854/researchers-create-self-aware-algorithm-to-ward-off-hacking-attempts/\" target=\"_blank\"\u003e\u003cu\u003e具有自我意识和自我修复能力\u003c/u\u003e\u003c/a\u003e。利用这些系统数据流中的背景噪声，Abdel-Khalik 和他的学生嵌入了一些信号，这些信号不可见、不断变化，并且只用一次，将被动元件（passive component）变成了主动观察者（active watchers）。即使攻击者拥有系统模型的完美副本，无需人工响应，系统本身也会立刻检测出并拒绝任何注入伪造数据的尝试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-11T10:19:06Z",
+  "Author": "wanwan"
+}

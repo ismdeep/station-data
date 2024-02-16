@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeBSD 14.0 释出",
+  "Link": "https://www.solidot.org/story?sid=76676",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeBSD 项目释出了 FreeBSD 14.0-RELEASE。主要新特性包括：OpenSSH 更新至 v9.5p1；OpenSSL 更新至 v3.0.12；bhyve 虚拟机管理程序支持 TPM 和 GPU 透传；FreeBSD 在 amd64 和 arm64 平台支持最多 1024 个内核；ZFS 更新至 OpenZFS v2.2，显著改进性能；实验性 ZFS 镜像可用于 AWS 和 Azure；TCP 默认拥塞控制机制设为 CUBIC，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.freebsd.org/releases/14.0R/announce/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-21T07:07:18Z",
+  "Author": "Wilson"
+}

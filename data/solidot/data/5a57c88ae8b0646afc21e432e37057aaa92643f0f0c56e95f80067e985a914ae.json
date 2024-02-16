@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果预览 Lockdown 模式抵御间谍软件攻击",
+  "Link": "https://www.solidot.org/story?sid=72052",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果手机曾遭以色列公司 NSO Group  间谍软件 Pegasus 的秘密入侵，为了抵御此类攻击苹果公司\u003ca href=\"https://www.apple.com.cn/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/\"\u003e\u003cu\u003e宣布了 Lockdown 模式\u003c/u\u003e\u003c/a\u003e。Lockdown 模式将在今年秋天随 iOS 16、iPadOS 16 和 macOS Ventura 发布，旨在为极少数用户提供可选的极端保护，在 iOS 16、iPadOS 16 和 macOS Ventura 中开启 Lockdown 模式将进一步加强设备防护，严格限制部分功能，大幅减少受攻击面。Lockdown 模式将包括下列保护功能：\u003ci\u003e图片之外的绝大多数信息附件类型将被拦截，链接预览等部分功能将被禁用。\u003cbr/\u003e\njust-in-time (JIT) JavaScript 编译器等将被禁用，除非用户在 Lockdown 模式中设置受信站点白名单。\u003cbr/\u003e\n向用户发起的 FaceTime 通话等邀请与服务请求将被拦截，除非用户此前向对方发起过通话或请求。\u003cbr/\u003e\niPhone 锁定时，与电脑或配件的有线连接也将被拦截。\u003cbr/\u003e\nLockdown 模式开启后将无法安装配置文件，且设备无法加入移动设备管理（MDM）。\u003c/i\u003e苹果表示，如果安全研究人员在 Lockdown 模式中发现漏洞，它将提供最高 200 万美元的奖金，这是整个行业封顶金额最高的奖金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-07T02:46:04Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度黑客组织的恶意程序感染了其开发机",
+  "Link": "https://www.solidot.org/story?sid=70327",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPatchwork 是 2015 年 12 月起活跃自今的一个印度黑客组织，主要对巴基斯坦的目标发动钓鱼攻击。过去几个月它的攻击目标是分子医学和生物学领域的大学研究人员。安全研究人员对 Patchwork 使用的指令控制服务器进行分析后发现，\u003ca href=\"https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/\" target=\"_blank\"\u003e\u003cu\u003e黑客自己的开发机感染了自己的恶意程序\u003c/u\u003e\u003c/a\u003e。指令控制服务器包含了恶意程序上传的屏幕截图和记录的按键。Patchwork 成功入侵了巴基斯坦的国防部、Islam Abad 国防大学、巴基斯坦 UVAS 大学生物科学学院等研究机构。安全研究人员从截图中意外发现了测试恶意程序的开发机，显示黑客在运行  VirtualBox 和 VMware 进行测试，测试主机使用的键盘为英语和印度语双键盘布局。黑客还使用 VPN Secure 和 CyberGhost 隐藏 IP 地址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T13:40:43Z",
+  "Author": "WinterIsComing"
+}

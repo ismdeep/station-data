@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Systemd 引入实验性 A/B 更新功能",
+  "Link": "https://www.solidot.org/story?sid=71679",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如何确保操作系统的\u003ca href=\"https://linux.slashdot.org/story/22/05/28/194237/newest-version-of-systemd-includes-experimental-feature-for-ab-style-updating\" target=\"_blank\"\u003e\u003cu\u003e更新平稳且安全\u003c/u\u003e\u003c/a\u003e？包括 ChromeOS 和  Android 11 在内的系统使用了 A/B 分区机制去实现无缝更新。A 和 B 分区是彼此的拷贝。一个活跃一个闲置，应用更新到闲置的分区。当闲置的分区完成更新，系统会要求重启，然后切换活跃的分区。如果更新出现问题，那么系统可以回滚到旧版本。在新的更新可用时再次尝试。systemd 首席架构师 Lennart Poettering 宣布最新版本引入\u003ca href=\"https://0pointer.net/blog/fitting-everything-together.html\"\u003e\u003cu\u003e实验性 A/B 更新功能\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-30T11:30:02Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Kernel 改进软盘支持",
+  "Link": "https://www.solidot.org/story?sid=63835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 Linus Torvalds 表示内核是时候\u003ca href=\"https://www.solidot.org/story?sid=61544\"\u003e\u003cu\u003e告别软盘驱动\u003c/u\u003e\u003c/a\u003e了。他指出，能工作的软盘物理硬件难以找到，而测试驱动需要软盘。他认为从实际硬件的角度看软盘驱动可以被认为差不多死了。但今年内核却\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.7-Floppy-Improvements\"\u003e\u003cu\u003e改进了软盘支持\u003c/u\u003e\u003c/a\u003e：Linux 5.7 软盘相关代码增加了 586 行删除了 613 行，你不用担心 Linux 不能读取软盘。Linux 5.7 的新软盘\u003ca href=\"https://lore.kernel.org/lkml/57ce0ee0-839c-a889-0bc0-ec46985e76d3@linux.com/\"\u003e\u003cu\u003e补丁\u003c/u\u003e\u003c/a\u003e主要是清理以及多个 ARM 架构改进，删除死码，从 ARM 架构代码中移除对第二个软盘控制器的不完整支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-16T12:57:17Z",
+  "Author": "WinterIsComing"
+}

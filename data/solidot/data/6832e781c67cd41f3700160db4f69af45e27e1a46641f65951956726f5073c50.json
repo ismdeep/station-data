@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Signal 支持加密货币 MobileCoin",
+  "Link": "https://www.solidot.org/story?sid=67415",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加密消息应用 Signal \u003ca href=\"https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/\" target=\"_blank\"\u003e\u003cu\u003e整合了对加密货币 MobileCoin 的支持\u003c/u\u003e\u003c/a\u003e，允许用户直接在 Signal 网络内交易这种加密货币。MobileCoin 是一种强调保护隐私和匿名性的加密货币，设计能有效工作在移动设备上。目前该支付功能仅提供给英国的 Signal 用户，只支持  iOS 和 Android 版本，不支持桌面版本。引入该功能是一场实验，Signal 希望最终将该功能提供给所有用户。Signal 创始人 Moxie Marlinspike 表示，此举旨在尝试将 Signal 的隐私保护扩大到支付领域。Signal 希望提供一种除了发送方和接收方无人能跟踪的支付方法。相比其它更知名的以保护隐私为卖点的加密货币如 Zcash 和 Monero，MobileCoin 的优势是需要的存储空间很小，交易能在数秒内确认，而 Zcash 和 Monero 的交易需要数分钟完成确认。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-07T04:42:51Z",
+  "Author": "WinterIsComing"
+}

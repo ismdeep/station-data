@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SSLPing 服务宣布关闭",
+  "Link": "https://www.solidot.org/story?sid=71224",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t免费 Web 服务不同于免费软件，提供 SSL 证书检查和已知漏洞的 \u003ca href=\"https://sslping.com/\"\u003e\u003cu\u003eSSLPing\u003c/u\u003e\u003c/a\u003e 服务作者 Chris Hartwig \u003ca href=\"https://www.theregister.com/2022/04/12/sslping_to_ping_no_more/\"\u003e\u003cu\u003e表示无法维持下去了\u003c/u\u003e\u003c/a\u003e，宣布立即终止服务。Hartwig 给出了多个理由，包括积累的技术债，三台服务器中的一台坏了其它两台也可能有硬件故障，在造成严重兼容性问题的系统更新之后 Docker 拒绝运行而他对此束手无策，托管费用只有四分之一能通过用户的 Patreon 订阅覆盖。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-12T15:20:33Z",
+  "Author": "WinterIsComing"
+}

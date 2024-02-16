@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯如何控制克里米亚和东乌的互联网",
+  "Link": "https://www.solidot.org/story?sid=70785",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯对乌克兰的攻击已经进入到了第四天，在虚假信息满天飞的情况下，我们可以先回顾下俄罗斯是\u003ca href=\"https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/\"\u003e\u003cu\u003e如何控制克里米亚和东乌互联网的\u003c/u\u003e\u003c/a\u003e。2014 年俄罗斯占领了克里米亚。克里米亚的网络此前依赖于乌克兰，在乌克兰撤出之后新政府开始建造自己的基础设施，但进展缓慢。研究人员在 2020 年报告称这一过程持续了三年。俄罗斯国有电信公司 Rostelecom 首先铺了一条 110Gbps 的海底光缆连接俄罗斯到克里米亚，费用约为 1100 到 2500 万美元，由当地的代理商 Miranda Media 为克里米亚用户提供服务。由于带宽小费用高，当地玩家抱怨玩网游的延迟增加了。2017 年 Rostelecom 在同一线路铺了一条更高带宽的海底光缆，但由于数据尽可能的路由经过俄罗斯，这导致了性能降级。此时的克里米亚仍然严重依赖于乌克兰的连接。时任乌克兰总统 Petro Poroshenko 宣布屏蔽俄罗斯网站 Yandex 和 Mail.ru，随后当地网民报告无法访问这些网站，凸显了它对乌克兰的依赖关系。2017 年 7 月 12 日乌克兰开始停止向克里米亚提供流量，直到此时克里米亚的网络才完全脱离乌克兰。东乌的情况在政治上和技术上更为复杂。在俄罗斯本周入侵前，该地区一直被分离分子控制，俄罗斯从未承认它对该地有任何程度的控制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-27T08:36:04Z",
+  "Author": "WinterIsComing"
+}

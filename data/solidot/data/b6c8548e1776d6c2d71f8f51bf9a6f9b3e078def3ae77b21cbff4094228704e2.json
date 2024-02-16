@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以色列间谍软件公司被发现与假的 BLM 和大赦国际网站有关联",
+  "Link": "https://www.solidot.org/story?sid=68309",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t多伦多大学公民实验室\u003ca href=\"https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/\"\u003e\u003cu\u003e曝光了\u003c/u\u003e\u003c/a\u003e另一家以色列间谍软件公司，这家公司在不同时期使用了不同的名字，最早叫 Candiru Ltd.，最新的名字叫 Saito Tech Ltd.，其中 Candiru 是一种生活在亚马逊的寄生性淡水鱼，Saito 是日本的一座城市。Candiru 公司主要向政府客户出售间谍软件，根据前雇员的诉讼，创办两年内销售额就接近 3000 万美元，其客户位于欧洲、前苏联加盟国、波斯湾、拉美和亚洲。它的间谍软件可通过恶意链接、中间人攻击和物理攻击等方法感染目标，通过 COM 劫持持久性的安装在计算机上。互联网扫描发现了 750 多个与 Candiru 间谍软件基础设施相关联的网站，它的许多域名伪装成大赦国际、Black Lives Matter 运动、媒体公司和其它公民社会主题的实体。对间谍软件的分析发现了两个被利用的 Windows 提权漏洞，微软在周二的例行安全更新中修复了这两个漏洞（CVE-2021-31979 和 CVE-2021-33771）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-17T04:41:56Z",
+  "Author": "WinterIsComing"
+}

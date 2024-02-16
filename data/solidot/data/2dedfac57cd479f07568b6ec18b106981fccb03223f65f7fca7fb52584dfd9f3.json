@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开发者爱 Tab 不爱空格键",
+  "Link": "https://www.solidot.org/story?sid=65789",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t缩进时使用空格键还是 Tab 键，对一部分程序员来说这是原则问题。微软的多名开发者\u003ca href=\"https://developers.slashdot.org/story/20/10/11/2127247/spaces-or-tabs-microsoft-developers-reveal-their-preferences\"\u003e阐述了他们爱 Tab 键而不是空格键的理由\u003c/a\u003e：DevOps Lead  和 Principal Cloud Advocate Abel Wang 在一则\u003ca href=\"https://channel9.msdn.com/Blogs/One-Dev-Minute/Which-is-better-Tabs-or-Spaces--One-Dev-Question\"\u003e\u003cu\u003e视频\u003c/u\u003e\u003c/a\u003e中表示，他是 Tab 键的忠实拥护者。理由之一是 Tab 键只有一个字符因此文件将会更小，他对硬盘空间曾经十分宝贵仍然记忆犹新。真正的理由是使用 Tab 键可以自定义缩进宽度，这比空格键更容易访问。出于可访问性的原因应该使用 Tab 键。微软项目经理 Craig Lowen 在另一则\u003ca href=\"https://channel9.msdn.com/Shows/Tabs-vs-Spaces/WSL2-Code-faster-on-the-Windows-Subsystem-for-Linux\"\u003e\u003cu\u003e视频\u003c/u\u003e\u003c/a\u003e中谈论了空格键和 Tab 键，他的理由也是缩进灵活，Tab 键没有表示缩进的宽度，完全由 IDE 决定。如果在另一个 IDE 中打开代码，缩进可能会不同。使用空格键缩进大小是固定的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-13T11:57:30Z",
+  "Author": "WinterIsComing"
+}

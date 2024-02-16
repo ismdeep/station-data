@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "戴尔以  20.75 亿美元出售 RSA",
+  "Link": "https://www.solidot.org/story?sid=63574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t戴尔公司以 20.75 亿美元将其子公司 RSA\u003ca href=\"https://www.zdnet.com/article/dell-technologies-sells-rsa-to-symphony-technology-group-consortium-for-2-075-billion/\" target=\"_blank\"\u003e\u003cu\u003e 出售给\u003c/u\u003e\u003c/a\u003e Symphony Technology Group 领衔的财团。RSA Security 成立于 1982 年，2006 年被 EMC 以 21 亿美元收购，戴尔在 2016 年收购 EMC 之后得到了 RSA。戴尔称，这是一笔全现金交易，出售的资产包括 RSA Archer、RSA NetWitness Platform、RSA SecureID、RSA Fraud and Risk Intelligence 和 RSA Conference。路透社曾在 2013 年\u003ca href=\"https://www.solidot.org/story?sid=37741\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，RSA 接受了 NSA 的 1000 万美元，按照 NSA 的旨意在其加密产品中使用了 NSA 开发的伪随机数生成算法 Dual EC DRBG。RSA 否认对 Dual EC DRBG 存在“后门”知情。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-19T09:30:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GIF 是如何创造出来的",
+  "Link": "https://www.solidot.org/story?sid=71073",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 GIF 图像格式的作者 Steve Wilhite 去世之后，CompuServe 的高管 Alexander Trevor 接受采访透露了\u003ca href=\"https://www.fastcompany.com/90734869/history-of-gif-steve-wilhite\"\u003e\u003cu\u003e创造 GIF 的经过\u003c/u\u003e\u003c/a\u003e。Wilhite 是应 Trevor 的要求创建 GIF 格式的，当时是 1987 年。CompuServe 是 AOL 之前 1980 年代最大的在线服务，它的在线服务正趋向于图形化，而计算机制造商如苹果、Commodore 和 IBM 都有自己的私有图像格式，CompuServe 不想支持几十种图像格式，而是希望创造出一种通用图像格式。Trevor 要求新的图像格式能快速下载，当时的拨号网速能达到每秒 2400 比特就已经不错了。Wilhite 在阅读科技杂志看到了 LZW（Abraham Limpel、Jacob Ziv 和 Terry Welch 发明） 压缩格式的介绍。LZW 允许 GIF 将大量图像打包到非常小的文件中，是理想的图像格式基础。GIF 于 1987 年 6 月 15 日正式发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-27T14:44:55Z",
+  "Author": "WinterIsComing"
+}

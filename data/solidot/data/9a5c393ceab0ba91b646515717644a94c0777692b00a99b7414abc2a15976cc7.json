@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究称 AMD SEV 并不能防止来自内部的攻击",
+  "Link": "https://www.solidot.org/story?sid=68554",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 的 Secure Encrypted Virtualization (SEV) 设计在云端环境防止内部人士访问虚拟机中的数据。柏林工业大学的研究人员在预印本网站 arXiv 上发表\u003ca href=\"https://arxiv.org/abs/2108.04575\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，指出能访问物理硬件的内部人士\u003ca href=\"https://www.theregister.com/2021/08/13/amd_secure_encrypted_virtualization/\" target=\"_blank\"\u003e\u003cu\u003e可通过\u003c/u\u003e\u003c/a\u003e操纵输入电压诱导错误从而实现对系统的控制，获取密钥和执行任意代码。他们采用的攻击策略类似对英特尔 Software Guard Extensions(SGX) 的 Voltpillager 攻击。执行攻击的硬件只需要 30 美元的微控制器 Teensy µController 和 12 美元的闪存编程器。研究人员建议了两种方法抵抗这一攻击：其一是修改软件或硬件去监测电压调控；其二是加入特定电路防止电压故障。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-16T04:54:34Z",
+  "Author": "WinterIsComing"
+}

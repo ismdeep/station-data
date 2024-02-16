@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 皮肤癌诊断对深色皮肤不太准确",
+  "Link": "https://www.solidot.org/story?sid=69598",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究表明，\u003ca href=\"https://www.theguardian.com/society/2021/nov/09/ai-skin-cancer-diagnoses-risk-being-less-accurate-for-dark-skin-study\" target=\"_blank\"\u003e\u003cu\u003e用于诊断皮肤癌的 AI 系统对深色皮肤的人不太准确\u003c/u\u003e\u003c/a\u003e。\n\u003cbr/\u003e\n\u003cbr/\u003e\nAI 的潜力推动了其在医疗保健领域的发展，有研究表明，基于机器学习算法的图像识别技术可以像人类专家一样成功地对皮肤癌进行分类。NHS 信托开始探索用 AI 帮助皮肤科医生对皮肤病变患者进行分类。但研究人员表示，可用于开发或“训练”皮肤癌诊断 AI 系统的免费图像数据库中很少包含多种族或皮肤类型的信息，要想确保该 AI 技术能惠及所有的患者，还需要做更多的工作。图库中确实很少有深色皮肤的人的图像。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n研究第一作者、牛津大学的 David Wen 博士表示：“你可能会遇到这样的情况，监管机构会说，因为这个算法只针对浅肤色的人的图像进行过训练，所以你只能将它用于浅肤色的人，因此这可能会导致某些人群被排除在获批进行临床使用的算法之外。或者如果监管机构更放松一点并说：‘好吧，你可以（针对所有的而患者）使用它’，那么对于没有那么多训练图像的人群来说，算法可能无法准确执行。”研究小组表示，这可能会带来其他问题，包括实施本可避免的手术，错过本该治疗的癌症，引起不必要的焦虑等风险。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-12T08:46:50Z",
+  "Author": "WinterIsComing"
+}

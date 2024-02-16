@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "百度应用收集用户敏感数据被 Google 短暂下架",
+  "Link": "https://www.solidot.org/story?sid=66192",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在安全公司  Palo Alto Networks \u003ca href=\"https://unit42.paloaltonetworks.com/android-apps-data-leakage/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e百度的 Android 应用百度地图和百度搜索框收集用户敏感数据之后，Google 在其应用商店 Google Play Store \u003ca href=\"https://www.zdnet.com/article/baidus-android-apps-caught-collecting-sensitive-user-details/\"\u003e\u003cu\u003e下架了\u003c/u\u003e\u003c/a\u003e这两款应用。Palo Alto Networks 称，数据收集代码包括在百度应用内的通知系统  Baidu Push SDK 中，收集的信息包括了手机型号、MAC 地址、运营商信息以及  IMSI 号码。百度发言人否认数据收集行为是两款应用下架的原因，称百度应用获得了用户许可去收集这些数据。Google 团队在应用中发现的其它问题导致了其下架，百度正在解决这些问题。目前百度搜索框已经恢复上架，而百度地图也将在问题解决之后很快上架。Palo Alto Networks 称，他们还在中国广告科技公司 MobTech 开发的 ShareSDK 中发现了类似的数据收集代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-25T11:56:54Z",
+  "Author": "WinterIsComing"
+}

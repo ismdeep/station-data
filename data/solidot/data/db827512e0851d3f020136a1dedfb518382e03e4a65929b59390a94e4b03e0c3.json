@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔释出微码更新完全禁用 12 代酷睿处理器的 AVX-512 指令集",
+  "Link": "https://www.solidot.org/story?sid=70288",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔通过主板制造商释出新 BIOS \u003ca href=\"https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/\" target=\"_blank\"\u003e\u003cu\u003e完全禁用了\u003c/u\u003e\u003c/a\u003e 12 代酷睿处理器的 AVX-512 指令集。12 代酷睿处理器采用大小核设计，包括性能 P 核心和能效 E 核心，其中只有  P 核心支持 AVX-512 指令集，而要使用 AVX-512 用户必须在 BIOS 中禁用 E 核心。现在英特尔通过微码更新完全禁用了 AVX-512，所有现有的 Z690 主板都将通过新 BIOS 禁用 AVX-512。英特尔此举可能是让 AVX-512 指令集保留给企业级 CPU 使用，消费级 CPU 不再提供。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-07T14:45:45Z",
+  "Author": "WinterIsComing"
+}

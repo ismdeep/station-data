@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美最高法院同意复审 Java API  版权诉讼案",
+  "Link": "https://www.solidot.org/story?sid=62647",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国最高法院\u003ca href=\"https://arstechnica.com/tech-policy/2019/11/supreme-court-will-review-high-stakes-google-v-oracle-ruling/\"\u003e\u003cu\u003e同意复审\u003c/u\u003e\u003c/a\u003e过去十年最重要的软件版权裁决之一。去年上诉法院裁决 Google \u003ca href=\"https://www.solidot.org/story?sid=55959\"\u003e\u003cu\u003e侵犯了甲骨文的版权\u003c/u\u003e\u003c/a\u003e。Google 使用 Java 开发了 Android 操作系统，甲骨文在收购 Sun 之后获得了 Java 的所有权，它在 2010 年指控 Google 侵犯了 Java API 的版权。API 是一种标准函数调用，允许第三方构建与已有平台如 Java 兼容的软件。在此之前，版权法被广泛认为不适用于控制 API 的使用。但上诉法庭的裁决动摇了这一广泛接受的假设，最高法院的复审将对软件行业产生深远影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-18T09:55:49Z",
+  "Author": "wenfeixiang"
+}

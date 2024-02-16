@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核讨论引入 Rust 代码",
+  "Link": "https://www.solidot.org/story?sid=64946",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为一种现代系统级语言，Rust 比 C 或 C++ 更安全也更容易使用，Linux 内核主要是用 C 开发的，而 Rust 被很多人认为是 C 和 C++ 的最佳替代，那么 Linux \u003ca href=\"https://www.theregister.com/2020/07/13/rust_code_in_linux_kernel/\" target=\"_blank\"\u003e\u003cu\u003e是否以及如何支持使用 Rust\u003c/u\u003e\u003c/a\u003e？Rust 语言团队负责人  Josh Triplett 承诺将支持 Linux 作为语言开发的优先项目，如果在内核中构建 Rust 接口需要某些新的特性，那么他们将努力引入这些需要的功能。这个主题也吸引了内核维护者  Linus Torvalds 和 Greg Kroah-Hartman。对于如何逐渐引入 Rust，Triplett 提议了一个配置选项，但  Torvalds 很快表示反对。由于 Rust 编译器频繁更新，稳定性可能存在问题。Triplett 称从上一个稳定版到下一个稳定版的升级是要确保稳定性的。Torvalds 则指出编辑器 bug 是很难调试和发现的。对于 Torvalds 和 Kroah-Hartman 来说，内核对 rust 的支持必须是缓慢且深思熟虑的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-14T15:30:17Z",
+  "Author": "WinterIsComing"
+}

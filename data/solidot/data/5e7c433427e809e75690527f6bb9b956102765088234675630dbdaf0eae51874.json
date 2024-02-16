@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meow 攻击自动删除不安全的 Elasticsearch 数据库",
+  "Link": "https://www.solidot.org/story?sid=65058",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t有开发者在社交媒体上\u003ca href=\"https://stackoverflow.com/questions/63067062/elastic-search-indexes-gets-deleted-frequently\"\u003e\u003cu\u003e反应\u003c/u\u003e\u003c/a\u003e个人项目使用的数据库神秘删除了。其实并不神秘，有攻击者使用自动脚本扫描开放的不安全的 Elasticsearch 和 MongoDB 数据库，找到之后直接将其删除，不解释，不留下任何通知。至今已经有大约 4000 个数据库遭到删除。攻击者在日志里留下了 $randomstring-meow 的信息，因此这次攻击\u003ca href=\"https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/\"\u003e\u003cu\u003e被称为 Meow 攻击\u003c/u\u003e\u003c/a\u003e。攻击者使用 Meow 这个术语可能是因为猫喜欢将东西推下桌子。安全研究员猜测有人想要给管理员们上上有关安全的难忘一课。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-27T05:38:24Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook iOS SDK 再次导致众多应用崩溃",
+  "Link": "https://www.solidot.org/story?sid=64932",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t仅仅相隔两个月，Facebook 的 iOS SDK 两次导致了大量应用崩溃。上一次发生\u003ca href=\"https://www.solidot.org/story?sid=64285\" target=\"_blank\"\u003e\u003cu\u003e在 5 月初\u003c/u\u003e\u003c/a\u003e，这一次发生在\u003ca href=\"https://github.com/facebook/facebook-ios-sdk/issues/1427\" target=\"_blank\"\u003e\u003cu\u003e上周五\u003c/u\u003e\u003c/a\u003e。社交巨人看起来并没有吸取任何\u003ca href=\"https://github.com/facebook/facebook-ios-sdk/issues/1385\"\u003e\u003cu\u003e教训\u003c/u\u003e\u003c/a\u003e。Facebook SDK 被广泛用于身份验证和广告展示。在最新的事故中，Facebook SDK 5.0.2 等版本导致了应用崩溃。社交巨人\u003ca href=\"https://www.bbc.com/news/technology-53363584\"\u003e\u003cu\u003e告诉媒体\u003c/u\u003e\u003c/a\u003e，是代码变更触发了部分应用崩溃，它“迅速解决了”问题。流行应用如 Spotify、TikTok、Tinder 和 Waze 在数小时内无法使用。两次事故引发了 Facebook 对独立应用的权力是否过大的疑问。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-13T12:13:31Z",
+  "Author": "WinterIsComing"
+}

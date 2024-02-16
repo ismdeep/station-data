@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家超越几何运动理论",
+  "Link": "https://www.solidot.org/story?sid=69961",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 3 月发表的一篇近 400 页的\u003ca href=\"https://arxiv.org/abs/2103.01507\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，哥伦比亚大学的数学家 Mohammed Abouzaid 和 Andrew Blumberg \u003ca href=\"https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/\" target=\"_blank\"\u003e\u003cu\u003e大幅拓展了\u003c/u\u003e\u003c/a\u003e几何学近几十年以来最大的进步之一。他们所做的工作与 Vladimir Arnold 在 1960 年代提出的一个著名的猜想有关。Arnold 当时研究经典力学，他想知道行星的轨道何时能稳定，在一段时间之后恢复到初始状态。\n\u003cbr/\u003e\u003cbr/\u003e\nArnold 的工作涉及物理系统如弹跳台球或绕轨道运行的行星可采用的所有不同配置。这些配置被编码在称为相空间的几何对象中，在被称为辛几何的数学领域具有重要作用。Arnold 预测，特定类型的每个相空间都包含最少量的配置，在这些配置中，它所描述的系统返回到它开始的地方。这就像台球会占据与先前相同的位置和速度。他预计这个最小数量至少等于整个相空间中孔的数量，它可以采取球体（没有孔）或者甜甜圈（有一个孔）等物体的形式。Arnold 猜想将两种完全不同的形状思考方式联系起来。它表明就其柔软的拓扑特性（它有多少个孔）而言，数学家可以获得关于物体在给定形状下的运动信息（反映在有多少配置让物体返回到它开始的地方）。斯坦福大学的 Ciprian Manolescu 表示：“通常来说，辛比纯拓扑更难。因此能从拓扑信息中分辨出辛是关键。”\n\u003cbr/\u003e\u003cbr/\u003e\nArnold 猜想的第一个重大进展出现在 1980 年代，当时名叫 Andreas Floer 的年轻数学家开发了一种全新的孔洞计算方法。Floer 的理论很快就成了辛几何的核心工具之一。然而即使数学家使用了 Floer 的想法，他们还是认为按照 Floer 开辟的新视角，应该有可能超越理论本身发展出其他的理论。Abouzaid 和 Blumberg 做到了。在 3 月份的论文中，他们根据 Floer 开创的孔洞计算技术重新构建了另一个重要的拓扑理论。他们用这种新的理论来证明 Arnold 猜想的一个版本，呼应了 Floer 的工作。早期的概念验证结果让科学家期待他们终将发现 Abouzaid 和 Blumberg 的想法的更多用途。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-10T12:47:43Z",
+  "Author": "wanwan"
+}

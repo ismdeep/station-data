@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将用 Encrypted Client Hello 替换 ESNI",
+  "Link": "https://www.solidot.org/story?sid=66602",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着越来越多的网站普及 HTTPS，明文的服务器名称指示（Server Name Indication，SNI）成为新的隐私漏洞。通过明文 SNI，ISP 或任何网络中间人将会知道你访问了哪个网站。两年前，Mozilla \u003ca href=\"https://www.solidot.org/story?sid=58270\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Firefox Nightly 加入了对加密 SNI 的支持。但自 SNI 规格草案发布以来，分析显示只加密 SNI 扩展所提供的保护是不完整的。举例来说，在会话重用过程中，Pre-Shared Key 扩展会包含 ESNI 加密的服务器名称的明文副本。为了解决 ESNI 的不足之处，较新版本的规格不再只加密 SNI 而是加密整个  Client Hello 信息。因此规格的名字也从 ESNI 改为 ECH。从 Firefox 85 起，\u003ca href=\"https://blog.mozilla.org/security/2021/01/07/encrypted-client-hello-the-future-of-esni-in-firefox/\" target=\"_blank\"\u003e\u003cu\u003e浏览器用 ECH 取代了 ESNI\u003c/u\u003e\u003c/a\u003e，about:config 也不再展示 ESNI 选项。该功能尚未默认启用，如果用户想要默认启用可以进入 about:config 将设置 network.dns.echconfig.enabled 和 network.dns.use_https_rr_as_altsvc 设为 true。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-08T12:03:18Z",
+  "Author": "WinterIsComing"
+}

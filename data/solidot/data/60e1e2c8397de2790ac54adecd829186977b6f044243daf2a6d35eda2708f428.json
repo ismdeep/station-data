@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "使用 Google 服务时不要用单一的账号",
+  "Link": "https://www.solidot.org/story?sid=67641",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t很多人习惯用单一的账号管理同一个平台上的多个服务，这很方便，但也可能会造成灾难。因为平台可能会以任何理由关闭某个服务相关的账号，结果是它的其它服务你也将无法使用。举例来说，如果你在  Google Play Store 上有应用，还有 Google AdMob/AdSense 广告账号，那么两个账号最好分开。前不久 DroidScript 开发者的广告账号被 Google 以未知原因关闭，导致它的 DroidScript 应用\u003ca href=\"https://www.theregister.com/2021/04/27/droidscript_google_ban/\"\u003e\u003cu\u003e也被从 Google 应用商店下\u003c/u\u003e\u003c/a\u003e架。开发者想找 Google 理论，但众所周知 Google 的客服是机器人，要获得有意义的回复是根本不可能的，\u003ca href=\"https://danfabulich.medium.com/never-run-google-ads-if-you-have-an-android-app-897a20604450\" target=\"_blank\"\u003e\u003cu\u003e它是不会告诉你它为什么封杀你的\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-28T13:29:49Z",
+  "Author": "WinterIsComing"
+}

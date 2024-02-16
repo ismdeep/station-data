@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BlueLeaks 曝光美国警察局档案",
+  "Link": "https://www.solidot.org/story?sid=64754",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 Distributed Denial of Secrets (DDoSecrets) 组织\u003ca href=\"https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/\"\u003e\u003cu\u003e泄露了\u003c/u\u003e\u003c/a\u003e大约 270 GB 的美国警察局档案，这批档案统称为 BlueLeaks。DDoSecrets 声称档案包含了 200 多个警察局和融合中心长达 10 年的数据。National Fusion Center Association (NFCA)已经确认了泄露数据的真实性，称实际数据跨度达 24 年，从 1996 年 8 月到 2020 年 6 月 19 日，文档包含了名字、电邮和电话号码，还有部分敏感的金融信息。NFCA 认为这些数据窃取自美国执法部门使用的 Web 服务公司 Netsential。Netsential 已经证实它遭到了入侵。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-23T15:13:37Z",
+  "Author": "WinterIsComing"
+}

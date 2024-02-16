@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果回应隐私担忧",
+  "Link": "https://www.solidot.org/story?sid=66103",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周苹果服务器宕机\u003ca href=\"https://www.solidot.org/story?sid=66084\"\u003e\u003cu\u003e导致了\u003c/u\u003e\u003c/a\u003e应用程序失去响应或需要数分钟时间才能启动运行。此事引发了对 macOS 操作系统隐私方面的担忧，苹果被发现会检查用户启动的任何应用程序。苹果于 16 日更新了相关的\u003ca href=\"https://support.apple.com/en-us/HT202491\"\u003e\u003cu\u003e技术支持页面（中文版未更新）\u003c/u\u003e\u003c/a\u003e，回应了隐私保护方面的问题。苹果称，Gatekeeper 会执行在线检查以验证应用程序是否包含已知恶意软件，以及开发者的签名证书是否已被撤销。苹果称它从未将这些信息与苹果用户或设备统一起来，不会使用检查数据去了解用户设备上运行的程序。安全检查不包含用户的 Apple ID 或设备识别符。为了进一步保护用户隐私，苹果已停止记录 IP 地址，将确保所有任何收集的 IP 地址从日志里移除。明年苹果还将提供关闭的选项。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-16T06:24:53Z",
+  "Author": "WinterIsComing"
+}

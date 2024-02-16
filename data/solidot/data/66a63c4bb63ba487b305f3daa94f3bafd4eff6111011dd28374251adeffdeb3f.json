@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在西部数据之后三星被发现相同产品更换了不同芯片",
+  "Link": "https://www.solidot.org/story?sid=68724",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在西部数据被发现其畅销 SSD 产品 WD Blue SN55 更换了闪存芯片降低了性能但却没有及时通知消费者后，\u003ca href=\"https://hardware.slashdot.org/story/21/08/27/1942250/samsung-is-the-latest-ssd-manufacturer-caught-cheating-its-customers\" target=\"_blank\"\u003e\u003cu\u003e三星被发现有相似的行为\u003c/u\u003e\u003c/a\u003e。一位 YouTube 主播\u003ca href=\"https://www.youtube.com/watch?v=d_jee5Q08OI\" target=\"_blank\"\u003e\u003cu\u003e对比了\u003c/u\u003e\u003c/a\u003e两个不同批次的三星 970 Plus 产品，两款产品的标签都是 970EVO Plus，但 PN 号有差异，旧批次的编号是 MZVLB1T0HBLR，新的是 MZVL21T0HBL，两者的生产时间相差两个月。两者的差异在于更换了主控芯片，实际测试结果差别不大，新批次缓外写入会从 1500MB/s 掉到 800MB/s，但缓存却从 42 G提升到 115G，三星的改变不像西部数据那样对性能有显著影响，实际体验可能有改善。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-28T04:18:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 屏蔽了 Google 的 FLOC",
+  "Link": "https://www.solidot.org/story?sid=67677",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub\u003ca href=\"https://tech.slashdot.org/story/21/05/02/1556241/github-joins-movement-against-googles-floc\" target=\"_blank\"\u003e\u003cu\u003e 加入了\u003c/u\u003e\u003c/a\u003e反对 Google 的第三方 cookie 跟踪替代技术 FLOC（Federated Learning of Cohorts）的阵营。它的网页服务 GitHub Pages \u003ca href=\"http://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/\" target=\"_blank\"\u003e\u003cu\u003e屏蔽了 FLOC\u003c/u\u003e\u003c/a\u003e，来自 github.io 域名的 GitHub Pages 页面使用了 Permissions-Policy: interest-cohort=() 报头设置，使用定制域名的页面设置没有改变。在这之前，最流行的内容管理平台 WordPress 宣布它计划在其平台上默认自动屏蔽 FLOC。WordPress 还表示它考虑加入设置允许管理员控制是否允许 FLOC。Firefox、Brave 和 Vivaldi 也都采取了类似的行动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-03T06:39:13Z",
+  "Author": "WinterIsComing"
+}

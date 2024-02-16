@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达 Magic3D 能从文本生成 3D 模型",
+  "Link": "https://www.solidot.org/story?sid=73445",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达的研究人员演示了文本 3D 模型生成系统 Magic3D，它能让任何人无需任何训练就能创造 3D 模型。类似 DALL-E 和 Stable Diffusion 等文本图像生成模型，Magic3D 在输入一段文字系统就能产生相应的 3D 模型，举例来说，输入“一只蓝毒箭蛙坐在水莲上”，系统就会生成相应的 3D 模型，改变其中的描述也会改变模型中的对象。Google 研究人员在今年 9 月宣布了它的文本 3D 模型 DreamFusion，英伟达的 Magic3D 生成 3D 模型的速度比 DreamFusion 快两倍。研究人员在预印本平台 arxiv 上发表了论文，但并没有公布相应的代码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://deepimagination.cc/Magic3D/\u003cbr/\u003e\nhttps://arxiv.org/pdf/2211.10440.pdf\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-22T09:28:17Z",
+  "Author": "WinterIsComing"
+}

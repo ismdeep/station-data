@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "攻击者不愿费力暴力破解长密码",
+  "Link": "https://www.solidot.org/story?sid=69722",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据微软蜜罐服务器网络收集的数据，大多数暴力破解攻击者\u003ca href=\"https://therecord.media/attackers-dont-bother-brute-forcing-long-passwords-microsoft-engineer-says/\"\u003e\u003cu\u003e主要尝试猜测短密码\u003c/u\u003e\u003c/a\u003e，很少攻击针对长的或包含复杂字符的凭证。微软安全研究员 Ross Bevington 表示：“我分析了超过一百万次针对 SSH 的暴力攻击输入的凭据。这是微软传感器网络中约 30 天的数据。”作为微软的欺诈主管，Bevington 的任务是创建看起来合理的蜜罐系统以研究攻击者趋势，他表示：“77% 使用的是长度在 1 至 7 个字符之间的密码。长度超过 10 个字符的密码只占 6%。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-23T09:37:57Z",
+  "Author": "wanwan"
+}

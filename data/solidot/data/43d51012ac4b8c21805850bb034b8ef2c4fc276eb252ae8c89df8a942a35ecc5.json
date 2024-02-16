@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 基金会反击专利勒索",
+  "Link": "https://www.solidot.org/story?sid=62325",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，名叫 Rothschild Patent Imaging LLC 的公司对 GNOME 基金会\u003ca href=\"https://www.solidot.org/story?sid=62136\"\u003e\u003cu\u003e提起了\u003c/u\u003e\u003c/a\u003e专利侵权诉讼，指控 GNOME 桌面环境项目中的一个组件 Shotwell 照片管理器侵犯了它的专利 “Wireless image distribution system and method ”。这家公司还提供了 5 位数的和解协议。只要支付“和解/勒索金”就放弃诉讼，基金会将会省时间、省精力也省钱。但  GNOME 基金会认为这么做不对，它坚决反对这种无根据的攻击，这不只是为了 GNOME 和 Shotwell，而是为了所有自由开源软件项目。\u003ca href=\"https://www.gnome.org/news/2019/10/gnome-files-defense-against-patent-troll/\"\u003e\u003cu\u003e它向法庭递交了文件\u003c/u\u003e\u003c/a\u003e，寻求驳回诉讼，认为这不是一个有效的专利，认为 Shotwell 或其它自由软件不受该专利的影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-22T07:52:07Z",
+  "Author": "wenfeixiang"
+}

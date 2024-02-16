@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将加入屏蔽偷渡式下载功能",
+  "Link": "https://www.solidot.org/story?sid=65449",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t即将在下个月发布的 Firefox 82 \u003ca href=\"https://www.zdnet.com/article/firefox-will-add-a-new-drive-by-download-protection/\" target=\"_blank\"\u003e\u003cu\u003e将加入\u003c/u\u003e\u003c/a\u003e屏蔽偷渡式下载的功能。偷渡式下载是一种常见的攻击方法，当用户访问一个嵌入恶意代码的网站时，它会滥用浏览器的合法功能开始自动文件下载或提示下载诱骗用户运行恶意程序。偷渡式下载利用了名叫 sandboxed iframes 的功能，Chrome 从 2019 年发布的 Chrome 73 起开始屏蔽 sandboxed iframes 下载，今年 5 月发布的 Chrome 83 完成移除了这一选项。Firefox \u003ca href=\"https://groups.google.com/forum/#!topic/mozilla.dev.platform/gyrM1spEek8/discussion\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e类似的计划，将从 Firefox 82 起屏蔽所有源自 sandboxed iframes 的下载。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-04T13:14:36Z",
+  "Author": "WinterIsComing"
+}

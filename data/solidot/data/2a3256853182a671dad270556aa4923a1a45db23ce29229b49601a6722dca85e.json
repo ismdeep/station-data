@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "声称完美保密的新加密方法引发怀疑",
+  "Link": "https://www.solidot.org/story?sid=63575",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个国际研究小组去年底在《Nature Communications》期刊上发表\u003ca href=\"https://www.nature.com/articles/s41467-019-13740-y\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，描述了一种完美保密的新加密系统，\u003ca href=\"https://spectrum.ieee.org/tech-talk/telecom/security/new-cryptography-method-promises-perfect-secrecy-amidst-skepticism\" target=\"_blank\"\u003e\u003cu\u003e声称能对抗未来的量子计算机\u003c/u\u003e\u003c/a\u003e。英特尔公司的加密专家 Rafael Misoczki 称，完美保密是加密学中最高等级的安全观念，一个加密系统如果能实现完美保密，那么不管对手的计算能力有多强它将仍然是安全的。绝大多数实现完美保密的尝试都集中在开发量子密钥分发系统（QKD），但部署 QKD 系统需要企业和政府投入大量资金去建造新的量子通信线路。但研究人员描述的新完美保密加密方法是基于现有的光纤通信基础设施。它不是依赖于量子物理学，而是基于混沌光状态。受人指纹的启发，研究人员在硅芯片表面使用反射纳米盘印上点状图案，芯片的图案表面充当了激光的迷宫，光波以随机方式穿过时会正在里面反弹。不管输入条件如何，进入图案的光会产生混沌运动。利用这套系统 Alice 和 Bob 可以创造无法拦截和监听的一次性密钥，类似 QKD。但计算机科学家对此有不同看法，他们认为论文作者对加密学的看法有着明显错误，量子计算机并不能破解所有经典加密学方法，如 AES 只要增加密钥长度仍然能抵抗量子计算机。在加密学中运用混沌理论早在 1989 年就有人提出过，但因为存在漏洞而没有流行起来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-19T12:02:27Z",
+  "Author": "WinterIsComing"
+}

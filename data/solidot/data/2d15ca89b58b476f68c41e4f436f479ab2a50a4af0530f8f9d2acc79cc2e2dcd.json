@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "EA 公开命令与征服重制版源代码",
+  "Link": "https://www.solidot.org/story?sid=64537",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEA 在 GPLv3 许可证下公开了命令与征服重制版的游戏逻辑源代码（泰伯利亚黎明和红色警报的两个 DLL 源代码），\u003ca href=\"https://github.com/electronicarts/CnC_Remastered_Collection/\" target=\"_blank\"\u003e\u003cu\u003e代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上。公开的源代码不涉及游戏引擎和游戏素材，但可以允许 Mod 社区更好的改变游戏行为。EA 是在上个月底\u003ca href=\"https://www.solidot.org/story?sid=64425\"\u003e\u003cu\u003e宣布开源\u003c/u\u003e\u003c/a\u003e，采用 GPL 许可证是为了确保它与开源项目如 CnCNet 和 Open RA 相互兼容。命令与征服重制版将于 6 月 6 日发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-02T02:42:57Z",
+  "Author": "WinterIsComing"
+}

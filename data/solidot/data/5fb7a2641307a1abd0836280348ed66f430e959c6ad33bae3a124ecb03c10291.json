@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "HTTPS 的证书过期时间是否应该缩短？",
+  "Link": "https://www.solidot.org/story?sid=61771",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 向非正式 CA 行业组织 CA/B Forum \u003ca href=\"https://tech.slashdot.org/story/19/08/18/1833223/should-https-certificates-expire-after-just-397-days\"\u003e\u003cu\u003e递交提议\u003c/u\u003e\u003c/a\u003e，建议将 HTTPS 证书的过期时间从 825 天减少到 397 天。设立证书过期时间是为了限制撤销证书清单的大小（有各种原因需要撤销证书），如果没有过期时间那么维护清单将会非常长，有了过期时间那么相关撤销证书就可以永久删除。对于 Google 的提议浏览器开发商表示支持，但 CA 机构不是很高兴。过去 15 年，SSL 证书的过期时间已经从 8 年减少到 5 年，再减少到 3 年，最后减少到 2 年。上一次改变发生在 2018 年 3 月，浏览器开发商尝试将证书过期时间缩短到 1 年，但在 CA 机构反对之后妥协为 2 年。在上一次改变不到 2 年之后再提将过期时间设为 1 年，CA 机构感到遭到了浏览器开发商们的欺压。CA 机构和浏览器开发商之间的斗争通常是在幕后进行，Google 的提议被认为更多是为了证明谁在控制 HTTPS。DigiCert 的代表 Timothy Hollebeek 认为该提议对于恶意网站没有任何影响，因为恶意网站通常运行的时间很短，从几天到数周，域名会被添加到黑名单，而攻击者则会转到新的域名获得新的证书。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-19T09:41:53Z",
+  "Author": "wenfeixiang"
+}

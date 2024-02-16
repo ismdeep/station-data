@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 23.04 (Lunar Lobster)释出",
+  "Link": "https://www.solidot.org/story?sid=74738",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCanonical 释出了代号为 Lunar Lobster 的 Ubuntu 23.04。主要新特性包括：新的安装程序，统一了服务器版和桌面版的安装引擎，UI 使用了全新的用户界面；GNOME 4；Ubuntu Desktop 成为首个支持 Azure Active Directory 用户认证的 Linux 桌面；Python、Java、Go、C、C++、Rust 等语言的最新工具链和运行时，支持 armhf、arm64、RISC-V 和 s390x 等不同 CPU 架构；Firefox 111，LibreOffice 7.5.2，支持 RISC-V，Thunderbird 102.10，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-21T09:48:57Z",
+  "Author": "Wilson"
+}

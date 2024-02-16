@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Slashdot 限制匿名用户发帖",
+  "Link": "https://www.solidot.org/story?sid=61797",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t8 月 9 日 Slashdot 悄悄移除了它标志性的允许匿名用户以“匿名懦夫”身份发帖的功能。当五天之后该功能部分恢复时，用户必须以有效账号登陆后才能访问“匿名懦夫”功能。网站管理员称这一改动是“临时性的”。Slashdot 总裁 Logan Abbott 在接受电子邮件采访时\u003ca href=\"https://arstechnica.com/information-technology/2019/08/anonymous-anonymous-cowards-are-for-now-not-welcome-on-slashdot/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，他们的决定与 Cloudflare 停止为匿名图像讨论版 8chan 以及极右翼保守网站 Daily Stormer 提供服务无关，做出这一改变完全是为了对抗泛滥的垃圾信息。Abbott 称，来自钓鱼者的垃圾信息泛滥成灾，他同时表示他不确定为什么有人会觉得他们有权在其他人的网站上匿名发帖。他称在 Slashdot 上创建账号所需的个人信息很少，主要是有效电邮地址和跟踪 IP。他表示此举将让现有的 moderation 系统工作更高效。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-21T05:27:31Z",
+  "Author": "WinterIsComing"
+}

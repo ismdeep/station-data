@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "六页优雅的论文证明随机结构的出现",
+  "Link": "https://www.solidot.org/story?sid=71363",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数学家 Jeff Kahn 和 Gil Kalai 在 2006 年首次提出“\u003ca href=\"https://arxiv.org/abs/math/0603218\"\u003e\u003cu\u003e期望阈值\u003c/u\u003e\u003c/a\u003e”猜想时，他们自己都不相信。他们声称——对名为随机图的数学对象的广泛论断——似乎太强大、太包罗万象，也太大胆，所以不可能是真的。这更像是一种一厢情愿的想法，而不是数学真理。即便如此，没人能证明它是错误的，它很快成为该领域最重要的开放问题之一。15 年多时间过去了，斯坦福大学的一对年轻的数学家完成 了 Kahn 和 Kalai 认为不可能做到的事情：在几周前发布在网上的一份令人惊讶的\u003ca href=\"https://arxiv.org/abs/2203.17207\" target=\"_blank\"\u003e\u003cu\u003e简短预印本论文\u003c/u\u003e\u003c/a\u003e中，Jinyoung Park 和 Huy Tuan Pham 给出了\u003ca href=\"https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/\" target=\"_blank\"\u003e\u003cu\u003e对该猜想的完整证明\u003c/u\u003e\u003c/a\u003e。这一成果自动证明了数以百计更具体的陈述，每一种陈述都很难单独证明——且它对我们更广泛地理解随机图和数学集有更深层次的影响。Kahn-Kalai 猜想非常广泛——它是用集合及其元素的抽象语言写成的——但是可通过简单的例子理解它。首先，想象一张图：一组由线或边连接的点或者顶点。要制作随机图，请取出一枚偏币（biased coin）——一个落下来有 1%、30% 或者是 0 到 100 之间任意百分比概率正面朝上的硬币——然后针对给定的一对定点掷一次硬币。如果硬币落下来是正面朝上，就将这两个点用边线连接起来；如果硬币反面朝上，就不要这样做。对每一对可能的顶点都重复这个过程。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-26T08:58:59Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 建议 Firefox 用户切换到 ESR 版本",
+  "Link": "https://www.solidot.org/story?sid=63243",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 本周早些时候\u003ca href=\"https://www.mozilla.org/en-US/security/advisories/mfsa2020-03/\"\u003e\u003cu\u003e紧急释出更新\u003c/u\u003e\u003c/a\u003e Firefox 72.0.1 和 Firefox ESR 68.4.1，修复了一个正被利用 0day 漏洞。OpenBSD 开发者\u003ca href=\"https://undeadly.org/cgi?action=article;sid=20200109141600\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e他们不会更新稳定版分支，建议其用户切换到 ESR 版本（扩展支持版）。开发者给出的理由，由于依赖问题(如 cbindgen 和 rust)，给 Firefox 打补丁太复杂了，所以稳定版本不会得到更新，因此正被利用的漏洞仍然存在，但 ESR 版会得到更新，开发者建议用户切换到 ESR 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-12T13:15:09Z",
+  "Author": "WinterIsComing"
+}

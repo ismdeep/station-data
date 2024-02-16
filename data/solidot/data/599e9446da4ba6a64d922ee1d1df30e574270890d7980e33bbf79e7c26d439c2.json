@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑莓开源其逆向工程 PE 的工具",
+  "Link": "https://www.solidot.org/story?sid=65137",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑莓公司在 Black Hat USA 2020 大会上\u003ca href=\"https://www.zdnet.com/article/blackberry-releases-new-security-tool-for-reverse-engineering-pe-files/\" target=\"_blank\"\u003e开源了\u003c/a\u003e其逆向工程 PE 文件的工具 PE Tree，\u003ca href=\"https://github.com/blackberry/pe_tree\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e采用许可证 Apache License 2.0 发布在 GitHub 上。Portable Executable (PE) 文件常被恶意程序作者隐藏恶意负荷。PE Tree 基于 Python，能用于逆向工程和分析 PE 文件的内部结构。黑莓称，逆向工程是一个极端的耗费时间和劳动密集过程，需要数小时的反汇编，有时候还需要重建软件程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-04T05:01:47Z",
+  "Author": "WinterIsComing"
+}

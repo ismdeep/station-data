@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 新增量文件系统让你下载未完成前玩游戏",
+  "Link": "https://www.solidot.org/story?sid=63590",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t手游是一个庞大的市场，其收入占据全球游戏市场的一半。Google 官方应用市场 Play Store 每周都有许多新手游，但玩家的时间和注意力都是有限的。Google 正在开发新的虚拟文件系统 \u003ca href=\"https://lore.kernel.org/linux-fsdevel/20190502040331.81196-1-ezemtsov@google.com/T/#Z2e.:..:20190502040331.81196-2-ezemtsov::40google.com:0Documentation:filesystems:incrementalfs.rst\"\u003e\u003cu\u003eIncremental File System\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.xda-developers.com/google-incremental-file-system-android-big-games/\"\u003e\u003cu\u003e让玩家能在下载完成前就能尝试游戏\u003c/u\u003e\u003c/a\u003e。该文件系统可能会随明年发布的 Android 12 提供给用户。一个 5GB 大小的手游，你需要全部下载完才能启动，而  Incremental FS 可以让玩家只下载部分数据就能启动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-20T12:07:35Z",
+  "Author": "WinterIsComing"
+}

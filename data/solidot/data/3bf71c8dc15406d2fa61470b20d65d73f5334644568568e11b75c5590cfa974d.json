@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 硬件检查工允许奔腾 4 电脑升级",
+  "Link": "https://www.solidot.org/story?sid=69299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t尽管 Windows 11 是在 Windows 10 基础上改造的，但微软对能运行 Windows 11 的计算机硬件需求提出了非常高的要求，排除了现有的大部分处理器。这一做法备受批评，而用户也找到了很多方法能绕过检查工具 PC Health Check 的检查。现在用户\u003ca href=\"https://www.notebookcheck.net/Windows-11-hardware-requirements-made-a-mockery-of-by-an-Intel-Pentium-4-processor.573808.0.html\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e PC Health Check 的另一个荒诞之处：它认为英特尔在 2006 年发布的奔腾 4 661 处理器是合格的，处理器频率 3.6 GHz，只有一个核心，但被认为有两个核心。看起来 PC Health Check 和 Windows 11 一样不是一款完善的产品，没有将 Intel Family 15 (Netburst) SKU 加入到不支持处理器的名单中。用户设法在奔腾 4 计算机上运行了 Windows 11，发现它的 Windows Update 也能正常工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-20T04:00:02Z",
+  "Author": "WinterIsComing"
+}

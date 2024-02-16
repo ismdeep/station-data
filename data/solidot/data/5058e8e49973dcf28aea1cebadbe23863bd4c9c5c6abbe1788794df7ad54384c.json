@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IMF 建议根据网络浏览记录计算信用评分",
+  "Link": "https://www.solidot.org/story?sid=68619",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在国际货币基金组织（IMF）发表的一篇\u003ca href=\"https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/\"\u003e\u003cu\u003e博文\u003c/u\u003e\u003c/a\u003e中，四位研究人员介绍了他们的\u003ca href=\"https://www.imf.org/en/Publications/WP/Issues/2020/08/07/Financial-Intermediation-and-Technology-Whats-Old-Whats-New-49624\"\u003e\u003cu\u003e工作论文\u003c/u\u003e\u003c/a\u003e，研究金融与科技之间的当前关系与潜在未来。他们意识到，用户在网络上的浏览、搜索与购买记录数据，\u003ca href=\"https://gizmodo.com/your-credit-score-should-be-based-on-your-web-history-1845912592\" target=\"_blank\"\u003e\u003cu\u003e也许能创造出\u003c/u\u003e\u003c/a\u003e一种更精确的为个人或企业进行信用评级的机制。在他们看来，这种方法能更确切地体现用户信用，帮助那些以往可能被拒绝的借款人拿到更多贷款。这篇论文还尝试应对一个日益流行的观点，即银行机构正面临着 Google、Facebook 乃至苹果等科技企业的直接威胁。研究人员确定了两个科技企业占优势的核心领域：科技企业可以访问更多软信息，消息平台可以取代银行与客户开展线上会面。使用网络历史记录作为信用评级依据，主要围绕这样一个核心概念——出借方以往只能依靠硬数据作为判断，但这类数据可能会过度妖魔化借款人在困难时期的财务状况。研究人员为此提出了软数据的概念，例如“用于访问互联网的浏览器及硬件类型、在线搜索与购买历史”等，主张将这些信息纳入评估流程中。研究人员认为，当出借方与贷款人之间就客户的过往经历拥有更全面的认识时，双方的合作关系才能更加轻松和谐。但是，要怎么把这些数据纳入信用评级？答案是机器学习。不过机器学习向来以严重的“暗箱”问题闻名，研究人员承认，这种将软数据纳入信用分析的思路确实会带来隐私和政策性问题。他们也没有解释到底该如何在实践当中推行这种新的信用评级方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-20T07:20:06Z",
+  "Author": "wanwan"
+}

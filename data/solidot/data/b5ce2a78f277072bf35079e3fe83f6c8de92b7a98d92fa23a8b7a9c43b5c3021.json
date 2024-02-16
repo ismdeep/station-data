@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Sensor Tower 控制 VPN 等应用秘密收集用户数据",
+  "Link": "https://www.solidot.org/story?sid=63766",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t市场营销公司 Sensor Tower \u003ca href=\"https://www.buzzfeednews.com/article/craigsilverman/vpn-and-ad-blocking-apps-sensor-tower\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e从 2015 年起控制了至少 20 款 Android 和 iOS 应用——其中 Free and Unlimited VPN、Luna VPN、Mobile Data 和 Adblock Focus 通过 Google Play，Adblock Focus 和 Luna VPN 通过苹果 App Store 提供给用户，在报告之后苹果和 Google 移除了部分应用，表示正继续展开调查。一旦安装 Sensor Tower 的应用，它会提示安装 root 证书。这些应用都没有披露它们与 Sensor Tower 的关系。该公司的一名高管表示不披露所有权是出于竞争因素，称这些没有收集敏感数据或个人身份信息。调查人员是通过这些应用的开发者发现它们与 Sensor Tower 的关系。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T07:40:47Z",
+  "Author": "WinterIsComing"
+}

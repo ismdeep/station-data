@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为系统发现可安装 Google Services 的私有 API",
+  "Link": "https://www.solidot.org/story?sid=62153",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t国内 Android 手机通常移除了 Google Service，许多有国际业务的国内厂商实际上有 Google 的授权，因此 Google Service 虽然移除但其存根仍然留在系统中，用户可以使用安装程序或直接下载 Google APK 恢复 Google Service。华为的情况不同。因为今年早些时候美国的出口禁令，华为的新手机无法获得 Google 授权提供 Google Services。然而华为新旗舰手机 Mate 30 Pro 被发现能安装 Google Services，难道华为在系统中悄悄保留了存根？研究人员发现\u003ca href=\"https://medium.com/@topjohnwu/huaweis-undocumented-apis-a-backdoor-to-reinstall-google-services-c3a5dd71a7cd\" target=\"_blank\"\u003e原因并非如此\u003c/a\u003e，而是华为提供了未公开的媒体设备管理（MDM）API，允许获得其授权的应用去安装系统应用如 Google Services，而获得华为授权的一个应用叫 LZPlay。在媒体报道之后，LZPlay 使用的证书撤销了，网站和 APK 都消失了，多篇相关报道也删除了(如 \u003ca href=\"https://www.ithome.com/0/448/303.htm\"\u003e\u003cu\u003eIT 之家\u003c/u\u003e\u003c/a\u003e，但部分\u003ca href=\"http://mobile.163.com/19/1002/09/EQFL6S8N00119821.html\"\u003e转载\u003c/a\u003e还在)，原因未知。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-04T14:44:11Z",
+  "Author": "WinterIsComing"
+}

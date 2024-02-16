@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI DALL-E 的开源竞争对手",
+  "Link": "https://www.solidot.org/story?sid=72484",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 上个月宣布它的自然语言图像生成系统 DALL·E 2 开始提供 Beta 测试。DALL·E 能根据自然语言文本描述生成逼真的图像，其额外的使用需要付费。现在创业公司 Stability AI \u003ca href=\"https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 DALL·E 的开源竞争对手 Stable Diffusion，\u003ca href=\"https://github.com/CompVis/stable-diffusion\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。Stable Diffusion 能运行在单张显卡上，显存容量需要超过 5.1 GB，也支持苹果的 M1 芯片，但在 M1 芯片上生成自然语言图像需要数分钟而不是数秒钟。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-16T16:03:31Z",
+  "Author": "WinterIsComing"
+}

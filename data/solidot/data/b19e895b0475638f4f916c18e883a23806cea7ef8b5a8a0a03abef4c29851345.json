@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在硬件上植入微型间谍芯片只需 200 美元",
+  "Link": "https://www.solidot.org/story?sid=62230",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t大约一年多前，彭博商业周刊爆料，中国在苹果亚马逊等美国科技公司使用的超微服务器主板上悄悄植入了米粒大小的微型间谍芯片。这一报道至今没有获得证实，相关公司甚至 NSA 都否认了报道。但对供应链的攻击已变成一种确确实实的威胁，而在硬件上植入难以察觉的微型芯片也变得日益廉价。在本月晚些时候举行的  CS3sthlm 安全会议上，安全研究员 Monta Elkins 将展示他的微芯片植入硬件的\u003ca href=\"https://arstechnica.com/information-technology/2019/10/planting-tiny-spy-chips-in-hardware-can-cost-as-little-as-200/\"\u003e\u003cu\u003e概念验证版本\u003c/u\u003e\u003c/a\u003e。使用 150 美元的热空气焊接工具，40 美元的显微镜，以及从网上订购的 2 美元芯片，Elkin 能以绝大多数 IT 管理员难以注意到的方式修改思科防火墙设备。他编程芯片在防火墙启动时执行攻击，它模拟管理员访问防火墙配置，触发密码恢复功能，创建新的管理员账号，访问防火墙配置。在恶意芯片能访问防火墙配置之后，就可以为攻击者远程访问打开方便之门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-14T08:58:09Z",
+  "Author": "wenfeixiang"
+}

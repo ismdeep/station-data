@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 用户抱怨最新更新导致 C 盘文件被删",
+  "Link": "https://www.solidot.org/story?sid=64227",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 10 用户通过微软支持论坛和社交媒体抱怨，最新更新\u003ca href=\"https://www.forbes.com/sites/daveywinder/2020/04/25/new-windows-10-update-fail-users-warn-of-bsod-and-deleted-files/#2891650765e8\" target=\"_blank\"\u003e\u003cu\u003e导致了文件被删\u003c/u\u003e\u003c/a\u003e。这不是第一次 Windows 10 更新导致了用户数据删除。微软是在本月中旬释出了四月例行更新，其中累积更新 KB454995 修复了一个拒绝服务漏洞 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0794\" target=\"_blank\"\u003e\u003cu\u003eCVE-2020-0794\u003c/u\u003e\u003c/a\u003e，正是该补丁导致了问题。用户报告，该补丁更新失败然后反复尝试重新安装更新；或者在“成功更新”之后出现了蓝屏死机；还有用户报告重启之后 C 盘所有文件全部删除。微软在支持论坛上\u003ca href=\"https://support.microsoft.com/en-gb/help/4549951/windows-10-update-kb4549951\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，它从遥测数据中没有发现这些问题，但表示会继续调查。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-26T10:56:31Z",
+  "Author": "WinterIsComing"
+}

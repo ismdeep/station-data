@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 网络引入拥堵控制改进网络性能",
+  "Link": "https://www.solidot.org/story?sid=71481",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 协议升级到了\u003ca href=\"https://forum.torproject.net/t/stable-release-0-4-7-7/3108/2\"\u003e\u003cu\u003e v0.4.7.7\u003c/u\u003e\u003c/a\u003e，引入了名为拥堵控制（Congestion Control）的新系统，\u003ca href=\"https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/\" target=\"_blank\"\u003e\u003cu\u003e显著改进 Tor 的网络性能\u003c/u\u003e\u003c/a\u003e。Tor 匿名网络由数以千计的入口、中继和出口节点组成，其中出口节点将与真实互联网进行交互，它的一大缺陷是速度慢，原因是节点上的流量拥堵和出口节点的队列导致了访问速度缓慢。在不影响隐私机制的情况下改善网络拥堵是一大挑战。新的拥堵控制实现了三个算法，分别叫 Tor-Westwood、Tor-Vegas 和 Tor-NOLA，帮助减少内存消耗，稳定和最小化队列延时和延迟。对比 v0.4.6 和 v0.4.7 的模拟显示，Tor 网络的浏览速度有了显著提升，没有增加任何端对端延迟的负担。Tor 网络的出口节点维护者需要升级到 v0.4.7.7 才能让所有人受益，中继节点维护者可能需要调整下带宽限制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-10T07:39:41Z",
+  "Author": "WinterIsComing"
+}

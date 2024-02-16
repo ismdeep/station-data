@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软账户进入无密码时代",
+  "Link": "https://www.solidot.org/story?sid=68956",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t现在每一位拥有微软账户的用户都可以从账户中彻底删除密码\u003ca href=\"https://www.thurrott.com/cloud/microsoft-consumer-services/256334/microsoft-account-goes-passwordless\"\u003e\u003cu\u003e以提高安全性\u003c/u\u003e\u003c/a\u003e。微软副总裁 Vasu Jakkal 在相关公告中写道，“过去几年以来，我们一直在强调未来无密码机制的重要意义。今天我很高兴地宣布，这项愿景终于有了实质性进展。从今天开始，您可以将微软账户中的密码彻底删除。”对于推动这一变化的原因，微软表示密码机制本身已经成为安全软肋，每年遭受的相关攻击多达 180 亿次、相当于每秒 579 次。在步入无密码时代之前，您需要在自己的智能手机上安装Microsoft Authenticator 应用，之后根据实际使用位置的不同，通过 Windows Hello、安全密钥，或者是通过邮件、手机或其他兼容性应用或服务（包括Outlook、OneDrive、Microsoft家庭安全等）接收到的验证码进行登录。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-16T07:50:36Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSH 8.6 发布",
+  "Link": "https://www.solidot.org/story?sid=67549",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSH 项目\u003ca href=\"https://www.openssh.com/txt/release-8.6\" target=\"_blank\"\u003e\u003cu\u003e释出了 8.6\u003c/u\u003e\u003c/a\u003e。因 SHA-1 哈希算法的构造前缀碰撞攻击成本不到 5 万美元，OpenSSH 项目将默认禁用 ssh-rsa 公钥签名算法，但这并不意味着要停止使用 RSA 公钥，它仍然能配合不同算法用于签名，如 ssh-rsa 可以用 rsa-sha2-256(RSA/SHA256)、rsa-sha2-512(RSA/SHA512) 和 ssh-rsa(RSA/SHA1)签名，只有最后一个将被默认禁用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T13:16:04Z",
+  "Author": "WinterIsComing"
+}

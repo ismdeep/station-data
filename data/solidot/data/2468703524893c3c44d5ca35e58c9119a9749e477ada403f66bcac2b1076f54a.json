@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 称不要用 ZFS",
+  "Link": "https://www.solidot.org/story?sid=63227",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因许可证的问题，Linux 不能直接使用 ZFS 文件系统，ZFS 使用的 CDDL 许可证被认为与 Linux 使用的 GPLv2 许可证不兼容。Linus Torvalds 在邮件列表上\u003ca href=\"https://www.realworldtech.com/forum/?threadid=189711\u0026amp;curpostid=189841\" target=\"_blank\"\u003e\u003cu\u003e回应 ZFS 模块问题称\u003c/u\u003e\u003c/a\u003e，“we don\u0026#39;t break users”指的用户空间应用，以及内核/维护，至于引入内核模块如 ZFS，则是引入者自己的决定，他本人不会维护也不受约束。除非有甲骨文律师签署的正式信函或有 Larry Ellison 表态，他不会在内核合并与 ZFS 相关的任何代码。考虑到甲骨文对诉讼的热衷，以及许可证问题，他对合并 ZFS 代码是深感不安的，最简单的做法就是不要用 ZFS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-10T08:29:01Z",
+  "Author": "WinterIsComing"
+}

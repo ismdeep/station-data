@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "波音 747 使用软盘更新关键软件",
+  "Link": "https://www.solidot.org/story?sid=65206",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 DEF CON 安全会议上，渗透测试公司 Pen Test Partners 的 Alex Lomas \u003ca href=\"https://www.theregister.com/2020/08/10/boeing_747_floppy_drive_updates_walkthrough/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e波音 747 使用软盘更新关键软件。他指出导航数据库每 24 天需要更新一次，而更新的方法是通过软盘驱动器。对于飞机安全，很多人有一个疑问是能否通过机载娱乐系统入侵飞机控制系统。Lomas 称他们没有发现机载娱乐系统与飞机空中系统能双向通信。两个系统之间存在隔离，要从一个系统跳过隔离进入到另一个系统是非常困难的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-11T04:04:08Z",
+  "Author": "WinterIsComing"
+}

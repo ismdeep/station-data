@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.19-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=71736",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核开发者邮件列表上宣布\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wgZt-YDSKfdyES2p6A_KJoG8DwQ0mb9CeS8jZYp+0Y2Rw@mail.gmail.com/T/#u\" target=\"_blank\"\u003e释出 Linux 5.19-rc1\u003c/a\u003e，这标志着 5.19 合并窗口的正式关闭。Linux 5.19-rc1 加入了 104 万行代码，删除了 25.6 万行，其中最多的是\u003ca href=\"https://www.solidot.org/story?sid=71659\"\u003e\u003cu\u003e显示驱动程序\u003c/u\u003e\u003c/a\u003e。其它变化\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.19-rc1\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e：英特尔 TDX 初步支持，ARM 通用内核工作在逾十年后基本完成，AMD SEV-SNP，固件 Zstd 压缩支持，龙芯 LoongArch 架构，NTFS3 驱动修正，Apple M1 NVMe 支持，Big TCP 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-06T07:12:24Z",
+  "Author": "WinterIsComing"
+}

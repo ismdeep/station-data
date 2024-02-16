@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "测试报告 SpaceX Starlink 下载速度 11 到 60Mbps",
+  "Link": "https://www.solidot.org/story?sid=65252",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSpaceX Starlink 宽带卫星的 beta 测试者\u003ca href=\"https://arstechnica.com/information-technology/2020/08/spacex-starlink-beta-tests-show-speeds-up-to-60mbps-latency-as-low-as-31ms/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，Starlink 的下载速度在 11Mbps 到 60Mbps 之间，上传速度在 5Mbps 到 18Mbps 之间，延迟在 31ms 到 94ms 之间。目前还不清楚在 Starlink 正式商用之后它是否能达到上述的网速和延迟。beta 测试者需要签署保密协议，这些测试数据来自于测速网站 \u003ca href=\"https://www.speedtest.net/\"\u003e\u003cu\u003espeedtest.net\u003c/u\u003e\u003c/a\u003e。SpaceX 曾在递交到 FCC 的报告中称，全面优化之后系统的网速最高将能达到每位用户 1Gbps。SpaceX 已经发射了 600 多颗 Starlink 卫星，计划未来再发射一万颗以上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-15T06:00:21Z",
+  "Author": "WinterIsComing"
+}

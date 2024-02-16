@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软与 Google 合作改进 PWA",
+  "Link": "https://www.solidot.org/story?sid=64913",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软与 Google \u003ca href=\"https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487\" target=\"_blank\"\u003e\u003cu\u003e宣布合作\u003c/u\u003e\u003c/a\u003e改进 PWA。\u003ca href=\"https://zh.wikipedia.org/wiki/%E6%B8%90%E8%BF%9B%E5%BC%8F%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F\"\u003e\u003cu\u003ePWA\u003c/u\u003e\u003c/a\u003e 代表 Progressive Web Apps，是一种普通网页或网站架构起来的 Web App。微软开源开发工具 \u003ca href=\"https://pwabuilder.com\" class=\"ep fn ib ic id ie\" target=\"_blank\" rel=\"noopener nofollow\"\u003ePWABuilder\u003c/a\u003e 和 Google 生成  Google Play Store 签名包的命令行工具 \u003ca href=\"https://pwabuilder.com\" class=\"ep fn ib ic id ie\" target=\"_blank\" rel=\"noopener nofollow\"\u003ePWABuilder.com\u003c/a\u003e 将合作帮助开发者在 Google Play Store 发布 PWA。微软称，通过 PWABuilder 构建的 PWA 将支持 Web 快捷键标准，将可以为 Android 平台进行各种自定义。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-11T13:08:50Z",
+  "Author": "WinterIsComing"
+}

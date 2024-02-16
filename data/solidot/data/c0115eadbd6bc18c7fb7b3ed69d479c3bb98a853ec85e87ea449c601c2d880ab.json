@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 以垃圾信息为由屏蔽了具有历史意义的编程语言用户组",
+  "Link": "https://www.solidot.org/story?sid=65081",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t多个具有历史意义的编程语言用户组（Usenet）\u003ca href=\"https://groups.google.com/forum/#!forum/comp.lang.forth\" target=\"_blank\"\u003e\u003cu\u003ecomp.lang.forth\u003c/u\u003e\u003c/a\u003e 、\u003ca href=\"https://groups.google.com/forum/#!topic/comp.lang.lisp/hkNdllfom0E\"\u003e\u003cu\u003ecomp.lang.lisp\u003c/u\u003e\u003c/a\u003e 和 \u003cspan\u003e\u003ca href=\"https://groups.google.com/forum/#!forum/comp.sys.sinclair\" target=\"_blank\"\u003e\u003cu\u003ecomp.sys.sinclair\u003c/u\u003e\u003c/a\u003e \u003c/span\u003e等遭到 Google 的屏蔽。Google 给出的理由是“您尝试看的群组（xxx）中已发现含有垃圾内容、恶意软件或其他恶意内容。此群组中的内容现在设为仅供查看模式，只有具备相应权限的用户才能查看内容。群组所有者可以在清理论坛中可能令人反感的内容后提出申诉”。Google 此举在社交网络引发了\u003ca href=\"https://news.ycombinator.com/item?id=23977375\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e，批评者\u003ca href=\"https://lwn.net/Articles/827233/\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e这造成了巨大的破坏，认为需要更稳定更可靠的存档服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-29T06:14:14Z",
+  "Author": "WinterIsComing"
+}

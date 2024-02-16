@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "任意单一星系可揭示整个宇宙的组成",
+  "Link": "https://www.solidot.org/story?sid=70464",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t科学家可能偶然发现了\u003ca href=\"https://www.quantamagazine.org/with-one-galaxy-ai-defines-a-whole-simulated-universe-20220120/\"\u003e\u003cu\u003e一种全新的宇宙学研究方法\u003c/u\u003e\u003c/a\u003e。宇宙学家通常通过尽可能多地观察宇宙确定其组成。但研究人员发现，机器学习算法可检查单个模拟星系预测其所在数字宇宙的整体构成——这一壮举类似于在显微镜下随机分析沙粒并计算出欧亚大陆的质量。这些机器似乎找到了一种模式，可能会让天文学家有朝一日能仅研究真实宇宙的基本组成部分就得出全面的结论。\n\u003cbr/\u003e\u003cbr/\u003e\n纽约 Flatiron 研究所的理论天体物理学家、论文主要作者 \u003ca href=\"https://franciscovillaescusa.github.io/\" target=\"_blank\"\u003e\u003cu\u003eFrancisco Villaescusa-Navarro\u003c/u\u003e\u003c/a\u003e 表示：“这是个完全不同的想法。不用测量数百万个星系，你可以只选一个。这就可以了，真的很神奇。”事情不应该是这样的。这个不可思议的发现源于 Villaescusa-Navarro 让普林斯顿大学本科生 Jupiter Ding 做的一个练习：建立一个了解星系属性并估计出部分宇宙学属性的神经网络。这项任务只是为了让 Ding 熟悉机器学习。然后他们注意到计算机在确定物质的整体密度。\n\u003cbr/\u003e\u003cbr/\u003e\nVillaescusa-Navarro 表示：“我当时认为学生犯了个错误。说实话，这对我来说有点难以置信。”随后进行的调查结果出现在 1 月 6 日的\u003ca href=\"https://arxiv.org/abs/2201.02202\" target=\"_blank\"\u003e\u003cu\u003e预印本论文\u003c/u\u003e\u003c/a\u003e中，论文已提交出版。研究人员们析了\u003ca href=\"https://www.camel-simulations.org/\" target=\"_blank\"\u003e\u003cu\u003eCAMELS（机器学习模拟宇宙学和天体物理学）\u003c/u\u003e\u003c/a\u003e项目生成的 2000 个数字宇宙。这些宇宙包含了多种成分，有 10% 到 50% 的物质，其余的是暗能量，推动着宇宙越来越快地膨胀。（我们真实的宇宙是由大约三分之一的暗物质和可见物质以及三分之二的暗能量组成。）随着模拟的进行，暗物质和可见物质一起旋转形成星系。模拟还包括对从超大质量黑洞喷发的超新星和喷流等复杂事件的粗略处理。\n\u003cbr/\u003e\u003cbr/\u003e\nDing 的神经网络研究了这些不同的数字宇宙中的近 100 万个模拟星系。它从神一般的角度，知晓了每个星系的大小、组成、质量以及其他十几个特征。它试图将这个数字列表同母宇宙的物质密度联系起来。它成功了。在用其之前未检查过的数十个宇宙中的数千个新星系进行测试时，该神经网络能够测宇宙物质密度，误差在 10% 以内。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-21T11:12:22Z",
+  "Author": "wanwan"
+}

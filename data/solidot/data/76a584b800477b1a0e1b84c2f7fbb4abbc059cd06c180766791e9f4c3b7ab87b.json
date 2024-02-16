@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Raspberry Pi 4 发布 8GB 版本",
+  "Link": "https://www.solidot.org/story?sid=64501",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Raspberry Pi 4 推出近一年之后，Raspberry Pi \u003ca href=\"https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/\" target=\"_blank\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e它的 8GB 版本，售价 75 美元。去年的 Raspberry Pi 4 有 3 个版本，1GB/2GB/4GB 内存版本分别售价 35/45/55 美元。新版与旧版的主要区别是为了供应更高的峰值电流而调整了电源供应组件，其余都和旧版本相同。Pi 4 默认的操作系统镜像使用 32 位内核和 32 位用户空间，高级用户如果想要充分利用 8GB 内存和使用 64 位用户空间，可以选择其它操作系统如 \u003ca href=\"https://ubuntu.com/download/raspberry-pi\"\u003eUbuntu\u003c/a\u003e 和 \u003ca href=\"https://github.com/sakaki-/gentoo-on-rpi-64bit\"\u003eGentoo\u003c/a\u003e，Raspberry Pi 也发布了自己的 64 位操作系统镜像的\u003ca href=\"https://www.raspberrypi.org/forums/viewtopic.php?f=117\u0026amp;t=275370\"\u003e\u003cu\u003e测试版本\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-28T12:41:25Z",
+  "Author": "WinterIsComing"
+}

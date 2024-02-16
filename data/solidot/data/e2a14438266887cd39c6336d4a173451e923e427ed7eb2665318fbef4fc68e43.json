@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "111 个 Chrome 扩展被发现秘密收集用户敏感数据",
+  "Link": "https://www.solidot.org/story?sid=64716",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Awake 的研究人员从 Google Chrome Web Store \u003ca href=\"https://awakesecurity.com/blog/the-internets-new-arms-dealers-malicious-domain-registrars/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://cdn2.hubspot.net/hubfs/3455675/wp-the-internets-new-arms-dealers-malicious-domain-registrars.pdf?utm_campaign=Whitepapers\u0026amp;utm_medium=email\u0026amp;_hsenc=p2ANqtz--I96foqk2GEdGJzXDhFjDa2D2ZE-avUhdycaeZuxo21wzmz7rgLxMNFP9LIOEgCO0rQHce4Az4QmGcQbeuAcFbSiFPOj48PNRJim1NJJGofLnhERs\u0026amp;_hsmi=89241742\u0026amp;utm_content=89241742\u0026amp;utm_source=hs_automation\u0026amp;hsCtaTracking=b0429e0a-2e43-4da7-9c5a-81e9ea7577e3%7C665e5d82-a32e-47d2-96ae-05236871f981\"\u003e\u003cu\u003e111 个扩展\u003c/u\u003e\u003c/a\u003e，从事全球性的大规模间谍行动，秘密的大肆收集用户敏感数据，这些扩展的下载量大约为 3296 万次。Google 在收到通知后已经将这些扩展下架。恶意扩展被发现会收集屏幕截图、设备剪贴板内容，用户登陆网站的浏览器 cookies，密码等按键。绝大部分扩展都是模块化的，安装之后可以用可执行文件进行更新。恶意扩展使用了通过以色列公司  GalComm 注册和托管的 1.5 万多个域名，这家公司有 26,079 个可访问域名，恶意行为的域名占到了六成之多。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-20T03:12:40Z",
+  "Author": "WinterIsComing"
+}

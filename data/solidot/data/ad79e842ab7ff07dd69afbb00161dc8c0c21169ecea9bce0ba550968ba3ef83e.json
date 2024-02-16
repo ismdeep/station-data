@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "下载量超过一亿的流行应用被发现含有恶意模块",
+  "Link": "https://www.solidot.org/story?sid=61879",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯杀毒软件卡巴斯基\u003ca href=\"https://www.kaspersky.com/blog/camscanner-malicious-android-app/28156/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，一个 Google Play 商店下载量超过一亿的流行应用 \u003ca href=\"https://play.google.com/store/search?q=CamScanner\"\u003e\u003cu\u003eCamScanner\u003c/u\u003e\u003c/a\u003e（或叫  CamScanner — Phone PDF Creator 和 CamScanner-Scanner to scan PDFs）被发现含有恶意模块。CamScanner 是一个合法应用，在大部分时间里没有恶意功能，它靠广告和应用内购买获取收入。但在某个时间情况变了，CamScanner 最近释出的版本包含了含有恶意模块的广告库。卡巴斯基将\u003ca href=\"https://securelist.com/dropper-in-google-play/92496/\"\u003e\u003cu\u003e该模块\u003c/u\u003e\u003c/a\u003e称为 Trojan-Dropper.AndroidOS.Necro.n。类似的模块此前见于中国造智能手机预装的恶意程序中。该模块定期从开发者指定的服务器上下载加密代码，在设备上解密然后执行。部分 CamScanner 用户已经注意到了该应用的可疑行为，他们在应用页面留言对其他用户发出警告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-28T05:00:25Z",
+  "Author": "wenfeixiang"
+}

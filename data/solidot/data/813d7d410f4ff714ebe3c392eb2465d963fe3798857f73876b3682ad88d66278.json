@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客正在利用最近修复的 Windows 高危漏洞 Zerologon",
+  "Link": "https://www.solidot.org/story?sid=65654",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在 8 月份的例行更新中修复了被命名为 Zerologon 的高危漏洞 CVE-2020-1472，它允许本地网络的任意攻击者完全控制 Active Directory。该漏洞可被用于发动勒索软件攻击或植入间谍软件。发现该漏洞的安全研究员上周\u003ca href=\"https://www.solidot.org/story?sid=65546\" target=\"_blank\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e能可靠利用漏洞的概念验证代码。本周微软\u003ca href=\"https://arstechnica.com/information-technology/2020/09/one-of-this-years-most-severe-windows-bugs-is-now-under-active-exploit/\"\u003e发出警告\u003c/a\u003e，黑客正在利用该漏洞。它没有提供细节，只是提供了攻击使用的文件数字签名。美国国土安全部也发出警告，建议企业尽快打补丁或者将域控制器从互联网上移除。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-25T11:55:57Z",
+  "Author": "WinterIsComing"
+}

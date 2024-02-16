@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "cmd.exe 进入维护状态",
+  "Link": "https://www.solidot.org/story?sid=64492",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软高级项目经理  Rich Turner 说，Windows 上的旧命令行工具 cmd.exe \u003ca href=\"https://www.theregister.co.uk/2020/05/27/windows_cmd_maintenance_mode/\" target=\"_blank\"\u003e\u003cu\u003e处于维护模式\u003c/u\u003e\u003c/a\u003e，PowerShell 7 则代表着未来。cmd 源自于  Windows NT (和 OS/2)时代，接替 DOS 和Windows 95 上的 COMMAND.COM，向管理员提供一种方法运行程序和批处理文件。PowerShell 诞生于 2006 年，10 年后开源并支持多个平台。许多机构仍然存在大量旧的 cmd 脚本，维护模式意味着它会保持现状，只有出现非常严重问题微软工程师才会去修理，因为这种古老工具乱动的话某些地方会出问题，可能还是大问题。Turner 举例说，有一次他们修改了版权字符串，结果导致一家 OEM 厂商的生产线罢工一周。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-28T06:20:49Z",
+  "Author": "WinterIsComing"
+}

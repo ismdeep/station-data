@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 发生严重宕机事故",
+  "Link": "https://www.solidot.org/story?sid=69915",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊云服务 AWS US-EAST-1 区发生了\u003ca href=\"https://tech.slashdot.org/story/21/12/07/1728208/an-amazon-server-outage-is-causing-problems-for-alexa-ring-disney-plus-and-others\"\u003e\u003cu\u003e严重宕机事故\u003c/u\u003e\u003c/a\u003e，影响了大量服务，\u003ca href=\"https://downdetector.com/\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e但不限于亚马逊的 Alexa 语音助手、Kindle 电子书、Amazon Music、 Ring 安全摄像头，以及 Tinder, Roku, Coinbase、Disney Plus、流行网络游戏如 PUBG、League of Legends 等等。根据 AWS 的\u003ca href=\"https://status.aws.amazon.com/\" target=\"_blank\"\u003e\u003cu\u003e状态报告\u003c/u\u003e\u003c/a\u003e，问题始于美国太平洋时间上午九点半左右，一直持续到下午 3 点左右。亚马逊称，问题根本原因是 US-EAST-1 区的多个网络设备发生了故障，它没有对此进一步解释。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-08T03:51:49Z",
+  "Author": "WinterIsComing"
+}

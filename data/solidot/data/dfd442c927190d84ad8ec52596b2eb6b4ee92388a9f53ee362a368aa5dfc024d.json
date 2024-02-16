@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 10.2 释出，重新考虑初始化系统",
+  "Link": "https://www.solidot.org/story?sid=62666",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 10 (代号 buster)释出了\u003ca href=\"https://www.debian.org/News/2019/20191116\"\u003e\u003cu\u003e第二个版本\u003c/u\u003e\u003c/a\u003e，主要是安全更新。据 LWN \u003ca href=\"https://lwn.net/SubscriberLink/804254/71240d6b83844653/\"\u003e\u003cu\u003e报道称\u003c/u\u003e\u003c/a\u003e，Debian 正在重新考虑初始化系统的多元化。Debian 技术委员会在 2014 年采用 systemd 的决定引发了很多争议，反对者为此\u003ca href=\"https://www.solidot.org/story?sid=42077\"\u003e\u003cu\u003e创建了\u003c/u\u003e\u003c/a\u003e一个不使用 systemd 的分支。在五年之后，Debian 又开始重新考虑支持  systemd 之外的其它初始化系统。过去几年，绝大部分 Linux 发行版都决定采用 systemd。但 systemd 也引发了很多争议，这些争议至今没有平息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-19T12:41:09Z",
+  "Author": "wenfeixiang"
+}

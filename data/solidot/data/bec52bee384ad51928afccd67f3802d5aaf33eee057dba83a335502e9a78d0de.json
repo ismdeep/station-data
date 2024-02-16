@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Log4Shell (CVE-2021-44228)风险分析与防护机制",
+  "Link": "https://www.solidot.org/story?sid=70036",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net/\"\u003eHardenedVault\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\n\u003cspan style=\"font-weight: normal;\"\u003eLog4Shell(\u003ca href=\"https://logging.apache.org/log4j/2.x/security.html\" target=\"_blank\" style=\"\"\u003eCVE-2021-44228\u003c/a\u003e)是Java日志框架log4j的一个造成业界极大影响的漏洞，该漏洞基本上分为两部分：log4j2 部分（允许通过特殊构造的可记录字符串引诱使用该组件的 Java 程序访问攻击者指定的 URI）和 Java 核心部分（允许不经检查地执行服务器响应中引用的 Java 代码），赛博堡垒分析了\u003ca href=\"https://zhuanlan.zhihu.com/p/446519850\" target=\"_blank\" style=\"\"\u003e漏洞的成因\u003c/a\u003e，并且发现有些Java应用免疫此次漏洞并非部署了高级防护措施而只是简单的遵循了开源最佳实践，也针对Java的企业应用生态中“RCE不是一个bug而是一个feature”的实际情况进行了\u003ca href=\"https://zhuanlan.zhihu.com/p/446519850\" target=\"_blank\"\u003e安全加固建议\u003c/a\u003e，另外近期不少讨论都是关于是否应该由基金会代理去修复更多的开源安全生态问题，赛博堡垒持有不同看法，OpenSSL的心脏出血后Linux基金会成立了CII基础架构联盟以解决开源基础架构的安全生态问题，但其结果不尽人意，比如manager的人数超过maintainer，未来CVE-2021-44228这类问题会有更多曝光，但解决的思路如果仅仅是找一个机构（不论是基金会还是监管部门或者是大厂商），那这个机构的判断正确与否都等同于是把鸡蛋放进同一个篮子。介于开源社区多样性自底向上的进化模式占比很高的情况，赛博堡垒对开源项目的建议是：谁用谁负责，谁用谁审计，谁用谁加固。\u0026#34;\u003c/span\u003e\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-17T04:39:27Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "思科 Discovery Protocol 发现 5 个 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63455",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Armis 在思科私有的 Layer 2 网络协议 Cisco Discovery Protocol (CDP) \u003ca href=\"https://www.armis.com/cdpwn/\" target=\"_blank\"\u003e\u003cu\u003e发现 5 个 0day 漏洞\u003c/u\u003e\u003c/a\u003e，这些漏洞允许远程攻击者完全控制设备，不需要任何用户交互。CDP 被用于发现本地连接的思科设备信息，思科的交换器、路由器、IP 电话和摄像头等几乎所有设备都使用了 CDP，并且默认启用了 CDP，漏洞影响数以百万计的设备。五个漏洞被统称为 CDPwn，其中四个是远程代码执行漏洞，第五个是拒绝服务漏洞。Armis 是在去年 8 月 29 日向思科报告了漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-07T09:55:40Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 将支持 DNS over HTTPS",
+  "Link": "https://www.solidot.org/story?sid=62659",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软官方博客\u003ca href=\"https://techcommunity.microsoft.com/t5/Networking-Blog/Windows-will-improve-user-privacy-with-DNS-over-HTTPS/ba-p/1014229\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，Windows 将支持 DNS over HTTPS（DoH），加密 DNS 流量以保护用户隐私。微软称，提供加密 DNS 支持而不破坏已有的 Windows 管理配置并非易事，但微软相信应该将隐私视为一种人权，因此必须内置端对端网络安全。微软认为加密 DNS 有助于让整个互联网生态系统变得更健康。微软称他们寻求让用户能使用他们想要的任何协议，Windows DNS 客户端未来会提供选项支持 DNS over TLS (DoT) ，但当前的优先任务是支持 DoH，因为它可以重用现有的 HTTPS 基础设施，可以更快提供给用户。微软表示提前宣布支持 DoH 是为了让它的意图尽可能早的传达给用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-19T07:05:16Z",
+  "Author": "wenfeixiang"
+}

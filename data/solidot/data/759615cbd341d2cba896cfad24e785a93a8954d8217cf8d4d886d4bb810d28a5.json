@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "uTorrent 被多个杀毒引擎标记为潜在恶意",
+  "Link": "https://www.solidot.org/story?sid=62905",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最新版 uTorrent 客户端被多个杀毒引擎\u003ca href=\"https://www.ghacks.net/2019/12/09/utorrent-is-flagged-as-malicious-by-several-antivirus-engines-currently/\" target=\"_blank\"\u003e\u003cu\u003e标记为“潜在有害应用程序”\u003c/u\u003e\u003c/a\u003e。uTorrent 背后的 BitTorrent 公司去年被中国区块链公司波场收购。标记 uTorrent 和 BitTorrent 客户端的 10 个杀毒引擎包括 Microsoft Defender、Sophos、Eset Nod32、GData 和 Dr.Web。被标记并不意味着该程序就是恶意程序，也可能是误报，或者与其捆绑的组件有关。uTorrent 客户端从 2012 年起开始引入难以关闭的广告功能，因此很多用户继续使用最后一个不含有广告的版本——即 uTorrent 2.2.1。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-10T07:34:36Z",
+  "Author": "WinterIsComing"
+}

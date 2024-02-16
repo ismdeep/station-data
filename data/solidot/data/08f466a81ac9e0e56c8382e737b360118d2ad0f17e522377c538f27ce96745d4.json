@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "725 个 Ruby 库发现剪切板劫持恶意程序",
+  "Link": "https://www.solidot.org/story?sid=64156",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tReversingLabs 的安全研究人员\u003ca href=\"https://www.zdnet.com/article/clipboard-hijacking-malware-found-in-725-ruby-libraries/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，他们在官方的 RubyGems 仓库中发现了 725 个 Ruby 库，包含了恶意程序去劫持用户的剪切板，然后设法窃取用户的数字货币。这一阴谋没有得逞，攻击者留下的钱包地址没有发生一笔交易。恶意文件是在 2 月 16 日到 25 日之间由两个账号 JimCarrey 和 PeterGibbons 上传到 RubyGems 仓库中的，在 ReversingLabs 团队通知 RubyGems 安全团队之后这些恶意文件在 2 月 27 日移除。 725 个 Ruby 库在命名上模仿了合法的库，都植入了名为 aaa.png 的文件，它不是图像而是一个 Windows PE 可执行文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-18T07:41:00Z",
+  "Author": "WinterIsComing"
+}

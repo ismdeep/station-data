@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软又一次忘记更新 SSL 证书",
+  "Link": "https://www.solidot.org/story?sid=63428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本周一，微软的即时通讯协作工具 Microsoft Teams \u003ca href=\"https://arstechnica.com/gadgets/2020/02/yesterdays-multi-hour-teams-outage-was-due-to-an-expired-ssl-certificate/#p3\" target=\"_blank\"\u003e\u003cu\u003e下线了约三小时\u003c/u\u003e\u003c/a\u003e，原因是软件巨人忘记更新 SSL 证书。Microsoft Teams 从美国东部时间 8:30am 到 11:30am 停止工作，微软承认这是一个 SSL 证书过期导致的。这不是微软第一次忘记更新证书或忘记更新域名。1999 年微软忘记续签域名 passport.com，该域名被用于认证多个微软服务，包括  Hotmail.com 和 Microsoft Messenger。2003 年微软的  hotmail.co.uk  域名过期。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-05T08:41:00Z",
+  "Author": "WinterIsComing"
+}

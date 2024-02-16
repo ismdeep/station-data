@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 19.10 加入 ZFS on Linux 支持",
+  "Link": "https://www.solidot.org/story?sid=61708",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCanonical \u003ca href=\"https://www.theregister.co.uk/2019/08/12/canonical_zfs_ubuntu/\"\u003e\u003cu\u003e正在扩大 Ubuntu 对 ZFS 的支持\u003c/u\u003e\u003c/a\u003e。因许可证的问题，Linux 不能直接使用 ZFS，ZFS 使用的 CDDL 许可证被认为与 Linux 使用的 GPLv2 许可证不兼容。Ubuntu 的支持是基于 \u003ca target=\"_blank\" href=\"https://zfsonlinux.org\"\u003eZFS on Linux\u003c/a\u003e 项目，而后者是基于 Sun 开源的  OpenSolaris 系统。预计将在 10 月释出的 Ubuntu 19.10 集成了 ZFS on Linux 0.8.1，用户使用一个实验性的安装程序时可选择启用 ZFS on root，将 ZFS 作为核心文件系统启动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-13T10:53:16Z",
+  "Author": "wenfeixiang"
+}

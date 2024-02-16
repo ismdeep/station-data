@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Discord 用 Rust 替换 Go 开发部分程序",
+  "Link": "https://www.solidot.org/story?sid=67028",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行游戏聊天服务 Discord \u003ca href=\"https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，该公司用 Rust 语言开发了客户端和服务端组件，在切换到 Rust 实现之后性能有了显著改进。Discord 称在某些领域 Rust 是首要选择的语言。它此前用 Go 语言开发了名为 Read States 的服务，但因为性能问题该服务难以满足产品需求，Go 实现的 Read States 每隔数分钟就会出现延迟飙升。问题与 Go 的内存模式和垃圾收集有关，而 Rust 没有垃圾收集。对比发现  Rust 实现的版本在没怎么优化的情况下性能就超过了优化过的 Go 实现版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-25T06:37:57Z",
+  "Author": "WinterIsComing"
+}

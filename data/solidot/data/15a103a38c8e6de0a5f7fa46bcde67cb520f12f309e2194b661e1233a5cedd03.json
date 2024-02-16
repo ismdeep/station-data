@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "联想修复 UEFI 固件漏洞",
+  "Link": "https://www.solidot.org/story?sid=71299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t联想释出最新固件\u003ca href=\"https://www.bleepingcomputer.com/news/security/lenovo-uefi-firmware-driver-bugs-affect-over-100-laptop-models/\" target=\"_blank\"\u003e\u003cu\u003e修复三个 UEFI 漏洞\u003c/u\u003e\u003c/a\u003e。三个漏洞都是 ESET 的研究人员\u003ca href=\"https://www.welivesecurity.com/2022/04/19/when-secure-isnt-secure-uefi-vulnerabilities-lenovo-consumer-laptops/\"\u003e\u003cu\u003e发现的\u003c/u\u003e\u003c/a\u003e，其中两个允许攻击者关闭储存 UEFI 固件的 SPI 闪存芯片的安全保护，关闭 UEFI Secure Boot 功能。第三个漏洞则允许本地攻击者提权执行任意代码。三个漏洞影响超过 100 个型号联想笔记本电脑，其中包括 IdeaPad 3、Legion 5 Pro-16ACH6 H 和 Yoga Slim 9-14ITL05，受影响用户数以百万计。攻击者需要从本地利用这些漏洞，因此利用的门槛相当高。尽管如此，用户应该尽快\u003ca href=\"https://support.lenovo.com/ro/en/solutions/ht504759\"\u003e\u003cu\u003e更新固件\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-20T07:38:51Z",
+  "Author": "WinterIsComing"
+}

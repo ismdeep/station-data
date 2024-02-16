@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "s19看PDF文档",
+  "Link": "https://blog.zzbd.org/2010/04/18/s19/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e调试半天，终于能在我的oppo上看PDF文档了，庆贺一下。顺便和大家分享！\u003c/p\u003e\u003cp\u003e思路很简单，把PDF变成图片，然后调整一下就能看见原汁原味儿的“移动PDF”。转图片的工具移步到\u003ca href=\"/2010/04/18/pdf-to-jpg/\"\u003e这里\u003c/a\u003e。\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e其实可以转成质量更好的png格式，可惜说明书上说不支持。。。需要调整的主要是图片大小，因为抓取的图片或多或少会有页边距，把它裁剪掉能让有用的部分显示得更清晰。这里使用\u003cimg data-src=\"http://www.irfanview.com/images/iview_logo.gif\" alt=\"irfanview\"/\u003e一款相当棒的图片工具。\u003c/p\u003e\u003cp\u003e然后放到Mp4不上就能看清了。如果看不清，试试在**\u003ccode\u003e用于所有图像的设置里\u003c/code\u003e**调一下对比度。不知道拿到手机上能否看清，俺的破5000没数据线，试不了，理论上也可以！\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-04-18T05:15:53Z",
+  "Author": "J. F"
+}

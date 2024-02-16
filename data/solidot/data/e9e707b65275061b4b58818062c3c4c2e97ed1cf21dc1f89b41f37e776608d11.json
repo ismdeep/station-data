@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么 AI 需要消耗如此多的能量？",
+  "Link": "https://www.solidot.org/story?sid=66524",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAI 是一种计算密集型任务，据估算，训练一个 AI 模型所产生的碳足迹与制造五辆汽车并在其整个寿命期内所产生的碳足迹相当。\u003ca href=\"https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/\" target=\"_blank\"\u003e\u003cu\u003e为什么 AI 需要消耗如此多的能量\u003c/u\u003e\u003c/a\u003e？传统的数据处理工作在数据中心内完成，如视频串流、电子邮件和社交媒体。AI 对计算要求更高，它需要阅读大量的数据直到它能理解，也就是它被训练了。相比人类的学习 AI 的训练是非常低效的。现代 AI 使用人工神经网络，模拟人脑神经元的数学计算。神经元之间的连接强度是被称为权值的网络参数。一开始网络的权值是任意的，会一直进行调整直到输出结果与正确答案相同。训练一个语言网络的常用方法是输入大量的文本，将部分文字掩盖起来，让它猜出掩盖的文字。一开始模型产生的答案是错误的，但在多轮的调整之后，改变后的连接权值开始识别数据中的模式，网络最终变得很精确。最近出现的一个语言模型叫 \u003ca href=\"https://arxiv.org/pdf/1810.04805.pdf\"\u003e Bidirectional Encoder Representations from Transformers (BERT)\u003c/a\u003e，它使用了来自维基百科和英语书籍中的 33 亿个字进行训练，BERT 用数据集训练的次数不是一次，而是 40 次。一名普通儿童学会讲话只需要在 5 岁前听到 4500 万字，其数据是 BERT 的三千分之一。前不久引发轰动的 GPT-3 语言模型其网络有 1750亿个权值。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-30T15:03:49Z",
+  "Author": "WinterIsComing"
+}

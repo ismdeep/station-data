@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "升级山寨手机迅雷的构想",
+  "Link": "https://blog.zzbd.org/2010/04/22/shan-zhai-xunlei/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e之前写了个很粗糙的AHK脚本，目的想用QQ监控迅雷下载的进度。后来发现问题多多，限制太大，而且动能太单一。今天在AHK论坛发现一个类似问题的解决\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://ahk.5d6d.com/viewthread.php?tid=1567\u0026amp;highlight=QQ\"\u003e办法\u003c/a\u003e，大体思路是把微博的RSS实时发布功能以及绑定手机功能结合起来。下面说说我的思路：\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e 还是用微博的RSS得到手机QQ发送的信息，并且设置时间间隔定时获取\u003c/li\u003e\u003cli\u003e 得到信息后判断一下，进入下一步\u003c/li\u003e\u003cli\u003e 还是要打开“远程监控”的IE（非IE7），最好是单独的窗口\u003c/li\u003e\u003cli\u003e 利用\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://bbs.deepin.org/viewthread.php?tid=894384\"\u003eIE_injectJS函数\u003c/a\u003e获取网页的内容（\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://bbs.deepin.org/viewthread.php?tid=894384\"\u003e1\u003c/a\u003e \u003ca target=\"_blank\" rel=\"noopener\" href=\"http://ahk.5d6d.com/viewthread.php?tid=1686\u0026amp;highlight=%EF%BF%BD%EF%BF%BD%CC%A8\"\u003e2\u003c/a\u003e），可能需要保持屏幕在非锁定状态，这里可以变通一下，用AHK做的\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://cid-04583ec844efc82a.skydrive.live.com/self.aspx/%E5%85%AC%E5%85%B1/lock%5E_screen%5E_appinn%5E_1.4-Appinn.com.7z?sa=788205738\"\u003e屏幕锁\u003c/a\u003e 代替win+L，需要时在解开，再迅速锁上。\u003c/li\u003e\u003cli\u003e 处理内容后用 该微博（暂时不透露）的一个IE功能发布经处理的信息到另外一个帐号，这样就可以在手机端接收了\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e只是在设想，做起来还比较麻烦，大家期待吧！\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-04-21T21:20:39Z",
+  "Author": "J. F"
+}

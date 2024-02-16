@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LineageOS、Ghost 和 DigiCert 服务器遭黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=64269",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几天，黑客\u003ca href=\"https://www.securityweek.com/recent-salt-vulnerabilities-exploited-hack-lineageos-ghost-digicert-servers\"\u003e\u003cu\u003e利用了\u003c/u\u003e\u003c/a\u003e两个最近披露的 Salt 漏洞入侵了 \u003ca href=\"https://twitter.com/LineageAndroid/status/1256821056100163584\"\u003e\u003cu\u003eLineageOS\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://status.ghost.org/\" target=\"_blank\"\u003e\u003cu\u003eGhost\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://groups.google.com/a/chromium.org/forum/#!topic/ct-policy/aKNbZuJzwfM\" target=\"_blank\"\u003e\u003cu\u003eDigiCert \u003c/u\u003e\u003c/a\u003e的服务器。Salt 是是一个监视和更新服务器状态的开源配置工具。上周安全公司 F-Secure 的研究人员披露了两个漏洞 CVE-2020-11651 和 CVE-2020-11652，允许远程攻击者绕过身份验证和授权控制，以 root 权限执行命令，它们是最高危的漏洞，CVSS 评分 10/10。负责 Salt 开发的 SaltStack 已在上周释出了补丁修复了漏洞。LineageOS 是一个非常受欢迎的 Android 社区发行版，开发者表示对其服务器的攻击发生在周六晚上八点左右（美太时间），在攻击者未进行任何破坏前就被发现，源代码以及相关构建未受影响。与主基础设施隔离储存的签名钥匙也未受影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-05T07:27:38Z",
+  "Author": "WinterIsComing"
+}

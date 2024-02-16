@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 更新恢复蓝屏死机",
+  "Link": "https://www.solidot.org/story?sid=69610",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软开始向 Beta 和 Release Preview Insider 渠道推送 Windows 11 的 bug \u003ca href=\"https://blogs.windows.com/windows-insider/2021/11/12/releasing-windows-11-build-22000-346-to-beta-and-release-preview-channels/\"\u003e\u003cu\u003e修复补丁\u003c/u\u003e\u003c/a\u003e。修复的问题包括：新任务栏和开始菜单的渲染问题，蓝牙音量控制问题，部分 32 位应用的运行问题，打印机问题，等等。其中一个值得注意的变化是黑屏死机\u003ca href=\"https://arstechnica.com/gadgets/2021/11/next-windows-11-update-makes-the-blue-screen-of-death-blue-again/\"\u003e\u003cu\u003e变回蓝屏死机\u003c/u\u003e\u003c/a\u003e。蓝屏死机已成为 Windows 操作系统的一个标志性错误，但上个月发布的 Windows 11 将系统崩溃时的颜色从原来的蓝色变成了黑色，最新更新又改了回去。最新更新预计会在数周内推送给 Windows 11 用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-14T10:10:26Z",
+  "Author": "matrix"
+}

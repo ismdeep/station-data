@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "条形码扫描应用在更新之后变成恶意程序",
+  "Link": "https://www.solidot.org/story?sid=66891",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Malwarebytes \u003ca href=\"https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，Google Play 官方应用商店一个下载量超过千万的条形码扫描应用 Barcode Scanner 在去年 12 月的一次更新之后变成恶意程序。ZXing Team 开发的\u003ca href=\"https://play.google.com/store/apps/details?id=com.google.zxing.client.android\" target=\"_blank\"\u003e\u003cu\u003e同名开源条码扫描应用\u003c/u\u003e\u003c/a\u003e随后遭到了差评轰炸，开发者\u003ca href=\"https://github.com/zxing/zxing/issues/1345\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e他们在 2019 年之后就没有更新过，它不是广告软件。Malwarebytes 称，Barcode Scanner 的开发商利用了混淆代码去躲避检测，使用了与旧版本相同的数字证据签名。Google 已经将该应用从商店下架。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-08T09:11:24Z",
+  "Author": "WinterIsComing"
+}

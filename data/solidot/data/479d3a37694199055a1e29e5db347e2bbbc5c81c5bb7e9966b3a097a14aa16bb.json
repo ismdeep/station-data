@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软向邮件列表\"宣战\"",
+  "Link": "https://www.solidot.org/story?sid=65370",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在 Linux 基金会董事会的代表 Sarah Novotny \u003ca href=\"https://www.theregister.com/2020/08/25/linux_kernel_email/\"\u003e认为\u003c/a\u003e，由纯文本电邮讨论推动的 Linux 内核开发需要被更好的或替代协作工具取代，以降低门槛引入新的贡献者，维护和维持未来的 Linux。她认为替代工具可以是基于文本的、基于电邮的补丁系统，某种程度上是过去五到十年成长起来的开发者所熟悉的工具。Linux 作者 Linus Torvalds 最近在接受采访时表示很难找到维护者。Novotny 认为答案的一部分是引入新的贡献者。The Linux Kernel Mailing List (LKML) 是内核开发者的主要协作工具，她承认这个工具仍然是有效的，但它同时也是新贡献者的一大障碍。她举例说，其伴侣几周前向  OpenBSD 递交了一个补丁，为了阅读纯文本电邮他不得不安装一个全新的邮件客户端。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-27T09:25:48Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西部数据、希捷和东芝承认机械硬盘产品混用 SMR",
+  "Link": "https://www.solidot.org/story?sid=64164",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今天流行的机械硬盘主要采用两种技术：CMR/PMR（垂直磁记录）和 SMR（叠瓦式磁纪录），其中 SMR 技术写入性能较差，能在降低成本的同时将存储容量提升 20%，适用于一次写入多次读取的场景，比如储存和备份，因此它主要被企业使用，不太适合需要反复写入读取的消费者使用。如果将 SMR 硬盘买给消费者，其使用寿命可能会大幅减少，它也不适合配置 NAS RAID（可能会导致硬盘短时间内损坏）。过去一周，主要机械硬盘制造商\u003ca href=\"https://www.tomshardware.com/news/sneaky-marketing-toshiba-seagate-wd-smr-drives-without-disclosure\" target=\"_blank\"\u003e\u003cu\u003e纷纷承认\u003c/u\u003e\u003c/a\u003e它们的消费级机械硬盘产品混入了 SMR 硬盘。西部数据、希捷和东芝都公开承认它们此前没有向消费者披露部分产品采用了 SMR 技术。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-20T05:18:01Z",
+  "Author": "WinterIsComing"
+}

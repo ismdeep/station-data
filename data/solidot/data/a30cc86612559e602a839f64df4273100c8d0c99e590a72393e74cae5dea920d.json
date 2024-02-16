@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Databricks 发布开源指令微调大语言模型 Dolly 2.0",
+  "Link": "https://www.solidot.org/story?sid=74648",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDatabricks 公司两周前发布了它的指令遵循（instruction-following）大语言模型 Dolly，本周三它发布了 Dolly 2.0——可授权商业使用的开源指令微调大语言模型。Dolly 2.0 有 120 亿参数，基于 EleutherAI pythia 模型家族，使用高质量的人类生成的指令遵循数据集进行微调。Databricks 开源了 Dolly 2.0 的整个系统，包括训练代码、数据集和模型权重，全都适合商业使用。而目前开源社区流行的 LLaMA 衍生模型使用的是非商业使用授权。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-12T15:20:53Z",
+  "Author": "Wilson"
+}

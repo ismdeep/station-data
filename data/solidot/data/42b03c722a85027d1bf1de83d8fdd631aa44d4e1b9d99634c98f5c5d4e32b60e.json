@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "vivo 发布用 Rust 编写的操作系统蓝河",
+  "Link": "https://www.solidot.org/story?sid=76501",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 2023 年开发者大会上，vivo 发布了用 Rust 编写的操作系统蓝河。Rust 是一种高性能、内存安全语言。vivo 在新闻稿中称，蓝河操作系统是行业首个系统框架由 Rust 语言编写的操作系统，从源头保障了内存安全和并发安全。它没有披露太多操作系统的细节，只是声明“蓝河操作系统兼容不同硬件体系结构，通过内核抽象层实现了对不同内核的抽象设计，兼容多种 Posix 标准的内核， 支持 Linux 内核，也兼容 RTOS 内核” 。它将首先应用于该公司的智能手表产品。\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://developers.vivo.com/product/blueOS\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-01T09:12:36Z",
+  "Author": "Wilson"
+}

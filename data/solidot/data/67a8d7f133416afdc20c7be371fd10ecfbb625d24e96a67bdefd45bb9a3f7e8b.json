@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CSIS发布安全固件开发最佳实践v1.1",
+  "Link": "https://www.solidot.org/story?sid=62703",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedlinux.github.io/\"\u003eHardenedLinux\u003c/a\u003e 写道\u003ci\u003e \u0026#34;CSIS（云安全行业峰会）是一个致力于打造云安全最佳实践的组织，由包括跟云安全生态有关的厂商组成，经过了数月的努力，终于于2019年10月27日完成了\u003ca href=\"https://github.com/opencomputeproject/Security/blob/master/SecureFirmwareDevelopmentBestPractices.md\" target=\"_blank\"\u003e安全固件开发最佳实践v1.1版本\u003c/a\u003e，这个版本由于排版问题还没有更新到CSIS网站，这个版本对服务器会遇到的各种固件进行了威胁建模和风险评估，包括BMC，\u003ca href=\"https://coreboot.org/\" target=\"_blank\"\u003ecoreboot\u003c/a\u003e，Option-ROMs，UEFI以及外设固件。HardenedLinux社区也有参与这一版的评估和讨论工作，\u003ca href=\"https://github.com/hardenedlinux/hardenedlinux_profiles/raw/master/slide/hardening_the_core.pdf\" target=\"_blank\"\u003eHardening the COREs\u003c/a\u003e中可信计算方案的\u003ca href=\"https://twitter.com/hardenedlinux/status/1172321981527494656\" target=\"_blank\"\u003e大部分的场景\u003c/a\u003e是基于coreboot的定制版本，而随着\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-TXT-Open-Source-Coreboot\" target=\"_blank\"\u003e基于coreboot的RAMSTAGE的Intel TXT的版本正式开源\u003c/a\u003e，基于自由固件打造完整可信计算方案成为了可能。另外，这也是第一次CSIS在安全固件最佳实践中推荐coreboot。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-22T04:43:50Z",
+  "Author": "WinterIsComing"
+}

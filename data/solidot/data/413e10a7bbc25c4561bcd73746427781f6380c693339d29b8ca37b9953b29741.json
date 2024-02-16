@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 系统给照片莫名添加 Ryan Gosling 的头像",
+  "Link": "https://www.solidot.org/story?sid=65281",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t照片中的光影组合起来有时候会让人眼产生人脸的错觉，但并不是照片中真的存在人脸。Reddit 专门有一个频道\u003ca href=\"https://www.reddit.com/r/facesinthings/\"\u003e\u003cu\u003e展示此类的照片\u003c/u\u003e\u003c/a\u003e。摄影师 Jomppe Vaarakallio 拍摄了一幅会让人产生人脸错觉的照片，他用 Topaz Labs 公司的 Gigapixel AI 软件对照片进行了一下处理，结果神奇的事情发生了：软件莫名其妙的向照片\u003ca href=\"https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/\"\u003e\u003cu\u003e添加了知名演员 Ryan Gosling 的头像\u003c/u\u003e\u003c/a\u003e。他重新用软件处理了一下，发现结果相同。关闭软件的人脸识别功能，Gosling 的脸才消失。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-18T14:50:32Z",
+  "Author": "WinterIsComing"
+}

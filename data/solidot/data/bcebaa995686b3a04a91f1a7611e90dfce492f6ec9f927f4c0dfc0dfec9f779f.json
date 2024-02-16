@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Thunderbird 将支持 OpenPGP",
+  "Link": "https://www.solidot.org/story?sid=62184",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源邮件客户端 Thunderbird 正式宣布将支持 OpenPGP：计划在 2020 年夏天释出的 Thunderbird 78 将内置使用 OpenPGP 标准的电邮加密和数字签名功能。新的功能将取代流行加密扩展 \u003ca href=\"https://enigmail.net/index.php/en/\"\u003eEnigmail\u003c/a\u003e，由于 API 的变动，该扩展将随 Thunderbird 68 到 2020 年秋季终止支持。内置 OpenPGP 支持是用户期待已久的功能，Enigmail 用户未来可通过 Thunderbird 78 提供的帮助迁移现有的密钥和设置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-09T03:39:44Z",
+  "Author": "wenfeixiang"
+}

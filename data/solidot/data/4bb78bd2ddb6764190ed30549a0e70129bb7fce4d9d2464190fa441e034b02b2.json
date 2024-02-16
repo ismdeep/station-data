@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "代码显示 Chrome for Android 可能会发送通知提醒你用 Chrome",
+  "Link": "https://www.solidot.org/story?sid=65169",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 多年来一直是占据绝对统治地位的浏览器，但自从微软重新发布基于 Chromium 的 Microsoft Edge 后，它的地位受到了挑战。现在，通过定向通知 Google 准备推动更多 Android 用户恢复使用 Chrome。Google Chrome for Android \u003ca href=\"https://9to5google.com/2020/08/04/chrome-android-notifications-reminding-use-chrome/\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e引入了一项新“功能”叫“Enable re-engagement notifications”，如果你在 Android 设备上安装了多个浏览器，有一段时间没有使用 Chrome，那么它将会发送通知提醒用 Chrome。Google 此举可能有点过分，Chrome 是 Android 平台默认的浏览器，用户是无法将其卸载的，它的市场份额超过了六成。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-06T12:58:22Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GCC 即将加入对 Rust 的支持",
+  "Link": "https://www.solidot.org/story?sid=73587",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGCC 的 Rust 前端项目 Gccrs 已被批准合并到 GCC 主支，这意味着下一个版本的 GCC 将能编译 Rust 源代码。GCC 编译器支持的目标（targets）数量要远远多于标准的 Rust 编译器。开发者 Arthur Cohen 表示 Gccrs 仍然极具实验性，在发布之前会有很多变化。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lwn.net/Articles/917207/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-07T12:48:03Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Notepad++ 漏洞允许执行任意代码",
+  "Link": "https://www.solidot.org/story?sid=75988",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行的开源代码编辑器 Notepad++ 发现了多个缓冲溢出漏洞，允许攻击者执行任意代码。Notepad++ 尚未发布补丁修复漏洞。GitHub Security Lab 的安全研究员 Jaroslav Lobačevski 发现，Notepad++ 使用的部分函数和库存在堆缓冲区写溢出和堆缓冲区读取溢出漏洞，这些漏洞的风险评分从 5.5（中危）到 7.8（高危）不等。他是在四月底报告了漏洞，但直到 Notepad++ 发布最新版本 v8.5.6 漏洞仍然没有修复，因此根据披露政策公开了漏洞和 PoC。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://cybersecuritynews.com/multiple-notepad-flaw/\u003cbr/\u003e\nhttps://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/#resources\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-05T05:00:24Z",
+  "Author": "Wilson"
+}

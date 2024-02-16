@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 78 发布",
+  "Link": "https://www.solidot.org/story?sid=64818",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/78.0/releasenotes/\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Firefox 78。Firefox 78 是一个扩展支持版本，将提供超过一年的支持时间，期间会发布多个安全更新但不会增加新功能。Firefox 78 也是最后一个支持 macOS 10.9、10.10 和 10.11 的大版本。主要新特性包括：Protections Dashboard，用户将可以了解自己保存密码是否遭到泄露；在卸载程序加入\u003ca href=\"https://support.mozilla.org/zh-CN/kb/refresh-firefox-reset-add-ons-and-settings\" target=\"_blank\"\u003e\u003cu\u003e刷新\u003c/u\u003e\u003c/a\u003e按钮以重置扩展和设置；屏保将不再打断 WebRTC 呼叫；继续推送 WebRender；禁用  TLS 1.0 和 TLS 1.1，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-01T06:36:45Z",
+  "Author": "WinterIsComing"
+}

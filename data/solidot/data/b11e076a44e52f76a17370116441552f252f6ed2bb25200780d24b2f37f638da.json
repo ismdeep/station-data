@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "YouTube 开发自己的视频转码芯片",
+  "Link": "https://www.solidot.org/story?sid=67620",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tYouTube \u003ca href=\"https://blog.youtube/inside-youtube/new-era-video-infrastructure\" target=\"_blank\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e它专为视频转码开发的芯片。类似处理图形工作负荷的 GPU 和 AI 工作负荷的 TPU (tensor processing unit) ，YouTube 基础设施团队开发了 VCU 或 Video (trans)Coding Unit，帮助它将单个视频转码成十多个版本以根据需要和带宽提供给用户浏览。相比以前使用软件在传统服务器的转码，被称 \u003ca href=\"https://dl.acm.org/doi/abs/10.1145/3445814.3446723\"\u003e\u003cu\u003e Argos\u003c/u\u003e\u003c/a\u003e 的视频转码芯片性能提升了 20-33 倍。每个芯片上有 10 个编码核心，每个编码核心能实时编码 2160p@60 FPS 视频。相比使用英特尔 Skylake CPU 或 Nvidia T4 Tensor core GPU 的方案，VCU 能节省大量的钱。YouTube 是世界最大的视频分享平台，它支持的分辨率包括 144p、240p、360p、480p、720p、1080p、1440p、2160p 和 4320p 九种，每种都对应不同的视频文件。除此之外，不同的分辨率还可能有多种编解码器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-27T05:49:32Z",
+  "Author": "WinterIsComing"
+}

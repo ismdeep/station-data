@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "揭秘防火墙的 DNS 审查行为",
+  "Link": "https://www.solidot.org/story?sid=65344",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在本月举行的 USENIX FOCI \u0026#39;20 会议上，研究人员\u003ca href=\"https://www.usenix.org/conference/foci20/presentation/anonymous\"\u003e\u003cu\u003e报告了\u003c/u\u003e\u003c/a\u003e对防火墙 DNS 包注入行为的\u003ca href=\"https://www.usenix.org/system/files/foci20-paper-anonymous_0.pdf\"\u003e\u003cu\u003e分析\u003c/u\u003e\u003c/a\u003e（PDF）。从 2019 年 9 月到 2020 年 5 月，研究人员调查了 Alexa 排名前一百万的域名，发现在调查期间被劫持的域名数量从 23,995 增加到了  24,636 个，其中 46% 属于“Proxy Avoidance” 类别，以 .blogspot.com 或.tumblr.com 结尾的个人网站域名也遭到大规模劫持。在调查期间，用于劫持 DNS 的 IP 数量从 1,510 个减少到了 216 个。研究人员还识别了三个不同的 DNS 注入器，一次 DNS 查询可能会收到来自防火墙的多个不同的注入器的响应。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-25T09:30:51Z",
+  "Author": "WinterIsComing"
+}

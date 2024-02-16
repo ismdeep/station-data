@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Perl  项目治理新规",
+  "Link": "https://www.solidot.org/story?sid=66216",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPerl 语言项目的新治理模式\u003ca href=\"https://github.com/Perl/perl5/pull/18357/files\"\u003e\u003cu\u003e已接近成型\u003c/u\u003e\u003c/a\u003e。 Python 项目的治理模式与 Python 项目采用的模式相似，将由两个实体参与治理：一个由几十人组成的核心团队，以及一个三人组成的指导委员会。核心团队制定规则，投票选出两个团队的成员，将实质性的决策权授予指导委员会。指导委员会有着广泛的权力，可以对语言、解释器和其它组件的开发做决定。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-27T10:34:20Z",
+  "Author": "WinterIsComing"
+}

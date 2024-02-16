@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "容器与云问答：技术人员有限，想用容器这么复杂的技术怎么办?",
+  "Link": "https://www.solidot.org/story?sid=65634",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无论是Dokcer还是Kubernetes都是从开源社区成长起来的，因此，容器技术往往带有很多开源软件的特征，它们是社区驱动的、基于开放标准的开源技术，虽然能支持企业快速创新，但产品化程度较低、易用性差。因此，对传统企业而言，要大规模全方位地落地容器技术，门槛相对高很多。要简化其中的复杂度，可以直接使用技术供应商提供的成熟软件产品，如此一来，就可以降低对人员对技术要求，并且，由技术供应商负责完成复杂的编排、管理、运维等工作，从中释放的人力还可以专注投入于业务创新。\u003cbr/\u003e\n\u003cbr/\u003e\n混合多云时代已来，企业如何应势而上？戳链接看「\u003ca href=\"http://www.zhiding.cn/special/IBM_hybrid_cloud_2020\" target=\"_blank\"\u003e\u003cu\u003e混合云100问\u003c/u\u003e\u003c/a\u003e」，一站全面了解真正的「混合云」\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-24T03:38:48Z",
+  "Author": "blues_man"
+}

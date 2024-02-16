@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 0day 漏洞影响 Google、小米和华为等品牌手机",
+  "Link": "https://www.solidot.org/story?sid=62162",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Project Zero 安全团队成员\u003ca href=\"https://bugs.chromium.org/p/project-zero/issues/detail?id=1942\"\u003e披露\u003c/a\u003e，攻击者\u003ca href=\"https://arstechnica.com/information-technology/2019/10/attackers-exploit-0day-vulnerability-that-gives-full-control-of-android-phones/\" target=\"_blank\"\u003e\u003cu\u003e正在利用\u003c/u\u003e\u003c/a\u003e一个 Android 0day 漏洞完全控制设备，至少有 18 个型号的手机存在该漏洞，其中包括 Google 的 Pixel 1 和 2，华为 P20，小米的红米 5A 和 A1，三星的 S7、S8 和 S9 等。Google 表示即将释出的 Android 10 月安全更新将修复该漏洞。漏洞源于 Linux 内核，早在 2018 年初就被发现并修复，但出于未解释的原因，补丁没有整合进 Android 的安全更新。安全研究人员称，该漏洞正被以色列公司  NSO Group 或其客户利用，而  NSO Group 代表则否认这一说法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-06T15:26:35Z",
+  "Author": "wenfeixiang"
+}

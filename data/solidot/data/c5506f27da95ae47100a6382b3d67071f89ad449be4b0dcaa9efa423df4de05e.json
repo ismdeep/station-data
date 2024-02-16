@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Canonical 公布 Ubuntu Core Desktop 细节",
+  "Link": "https://www.solidot.org/story?sid=76578",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCanonical 将在明年 4 月释出代号为 Noble Numbat 的 Ubuntu 24.04，这是一个 LTS（长期支持版），其中包含了一个新的不可改变的桌面版本 Ubuntu Core Desktop。它不是一个全新的发行版，而是 Ubuntu Core 的图形桌面版。Ubuntu Core 是为物联网设备开发的版本，设计嵌入在边缘计算设备上，如数字标牌和智能显示屏，它是一个不可改变的发行版，root 文件系统只读，没有传统发行版的包管理器。它不像传统发行版那样是可定制的，而是类似手机和平板操作系统那样推出和更新。它是整体性更新，所有操作系统组件在一次操作中升级。Core Desktop 是基于 Ubuntu Core 构建，使用 Ubuntu 的打包格式 Snap。 \u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/11/08/ubuntu_core_desktop_details/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-09T09:02:54Z",
+  "Author": "Wilson"
+}

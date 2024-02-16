@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "硅量子计算达到 99% 的准确度",
+  "Link": "https://www.solidot.org/story?sid=70463",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t悉尼新南威尔士大学领导的一项研究为用于实际制造和应用的大型硅基量子处理器\u003ca href=\"https://scitechdaily.com/major-breakthrough-as-quantum-computing-in-silicon-hits-99-accuracy/\" target=\"_blank\"\u003e\u003cu\u003e铺平了道路\u003c/u\u003e\u003c/a\u003e。澳大利亚的研究人员证明，几乎无错误的量子计算是可能的，为构建与当前半导体制造技术兼容的硅基量子设备铺平了道路。\u003ca href=\"https://www.nature.com/articles/s41586-021-04292-7\"\u003e\u003cu\u003e这篇论文\u003c/u\u003e\u003c/a\u003e是《自然》杂志今天发表的三篇论文之一（其它两篇分别来自\u003ca href=\"https://www.nature.com/articles/s41586-021-04273-w\" target=\"_blank\"\u003e\u003cu\u003e荷兰代尔夫特理工\u003c/u\u003e\u003c/a\u003e和\u003ca href=\"https://www.nature.com/articles/s41586-021-04182-y\" target=\"_blank\"\u003e\u003cu\u003e东京理化学研究所\u003c/u\u003e\u003c/a\u003e），这些论文独立地证明了强大可靠的硅量子计算现已成为现实。这一突破刊登在期刊的封面上。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n领导这项工作的新南威尔士大学教授 Andrea Morello 等人使用离子注入技术，在硅中引入了一个由一个电子和两个磷原子组成的三量子比特系统，实现了高达 99.95% 的 1 量子比特操作保真度和 99.37% 的 2 量子比特操作保真度。由 Lieven Vandersypen 领导的荷兰代尔夫特团队使用由硅和硅锗合金(Si/SiGe)堆叠形成的量子点中的电子自旋，实现了 99.87% 的 1 量子比特保真度和 99.65% 的2量子比特保真度。由 Seigo Tarucha 领导的日本理化学研究所团队在使用 Si/SiGe 量子点的双电子系统中同样实现了 99.84% 的 1 量子比特保真度和 99.51% 的 2 量子比特保真度。新南威尔士大学和代尔夫特团队使用了一种被称为门集断层扫描的复杂方法对其量子处理器的性能进行了认证，这种方法是由美国桑迪亚国家实验室开发并向研究界公开的。Morello 之前曾证明，由于核自旋与环境的极端隔离，量子信息可以在硅中保存 35 秒。但这种做法的代价是隔离让量子比特无法彼此交互，而这是执行实际计算所必需的。今天的论文描述了他的团队如何通过使用围绕着两个磷原子核的电子克服这个问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-21T10:00:00Z",
+  "Author": "wanwan"
+}

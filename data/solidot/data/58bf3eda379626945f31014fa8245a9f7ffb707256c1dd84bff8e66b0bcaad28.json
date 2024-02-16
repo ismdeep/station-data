@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "阿里巴巴开源玄铁 RISC-V 核心",
+  "Link": "https://www.solidot.org/story?sid=69333",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t阿里巴巴旗下的芯片设计公司平头哥\u003ca href=\"https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源四款玄铁 RISC-V 核心：E902、E906、C906 和 C91，开源版本被称为 OpenE902、OpenE906、OpenC906 和 OpenC910，开源项目\u003ca href=\"https://github.com/T-head-Semi\"\u003e\u003cu\u003e托管\u003c/u\u003e\u003c/a\u003e在 GitHub 上，采用 Apache License 2.0 许可证。阿里巴巴称它共设计了 11 款 RISC-V 芯片，其玄铁 CPU 累积出货 25 亿，表示正与合作伙伴共同创建 RISC-V 生态系统。阿里巴巴还宣布针对云计算的 SoC 倚天 710。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-21T14:04:47Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 31 释出",
+  "Link": "https://www.solidot.org/story?sid=62424",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 31 \u003ca href=\"https://fedoramagazine.org/announcing-fedora-31/\"\u003e\u003cu\u003e正式释出\u003c/u\u003e\u003c/a\u003e。Fedora 31 的新变化包括：启动个人工作空间容器的工具 Fedora Toolbox 可用于开发和试验，GNOME 3.34，支持 cgroups v2，RPM 压缩算法切换到 ztsd，Glibc 2.30，NodeJS 12，支持替代架构 ARM AArch64、Power 和 S390x，停止支持 32 位 i686 内核，因为 Python 2 即将终止支持 Python 将只代表 Python 3，等等。详细可浏览\u003ca href=\"https://docs.fedoraproject.org/en-US/fedora/f31/release-notes/\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-30T08:57:41Z",
+  "Author": "wenfeixiang"
+}

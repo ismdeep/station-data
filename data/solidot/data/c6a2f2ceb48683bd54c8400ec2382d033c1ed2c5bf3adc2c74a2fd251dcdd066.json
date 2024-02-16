@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "移动设备为何没有更多开源解决方案",
+  "Link": "https://www.solidot.org/story?sid=69451",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从事开源技术的微软软件工程师\u003ca href=\"https://increment.com/mobile/open-source-mobile-technologies/\"\u003e\u003cu\u003e指出\u003c/u\u003e\u003c/a\u003e：你可以找到（几乎）任何东西的开源实现。\u003ca href=\"https://news.slashdot.org/story/21/10/30/2133254/why-arent-there-more-open-source-solutions-for-mobile-devices\" target=\"_blank\"\u003e\u003cu\u003e但移动领域是一个明显的例外\u003c/u\u003e\u003c/a\u003e。\u003cbr/\u003e\n\u003cbr/\u003e\n虽然有开源的成功案例，Android 是一个巨大的成功案例，但只有少数大公司统治着我们随身携带的设备的硬件和软件创新。苹果和三星合计占据了全球移动设备市场 \u003ca href=\"https://gs.statcounter.com/vendor-market-share/mobile\"\u003e\u003cu\u003e50% \u003c/u\u003e\u003c/a\u003e以上的份额，这一数字凸显出该领域的少数主导者。此类数字可能会让你对移动开源的整体可行性感到悲观。但对更好的安全性和隐私性以及其他因素的需求正在不断增长，这可能能扭转局面，许多具有透明生命周期过程的、可检查的开源解决方案正成为有希望的替代方案。\n\u003cbr/\u003e\n\u003cbr/\u003e\n作为 Facebook Messenger 等应用的替代，Signal 更重视隐私，它与开源消息应用 Telegram 一起备受关注。Chromium 浏览器和手机游戏 2048 是另一些值得注意的例子，它们证明了虽然开源应用程序不是常态，但仍然可以被广泛采用和流行。如超过 65% 的移动流量都通过基于 Chromium 的浏览器。\n\u003cbr/\u003e\n\u003cbr/\u003e\n尽管有很多可用的开源技术可帮助构建移动应用程序，但是在面向用户的领域仍有很大的发展空间——特别是当越来越多的人认识到开源和开放治理应用程序的价值，这些应用能更好地保护他们的个人信息。这种增长不太可能扩展到硬件领域，在该领域构建开源实现的成本对开发人员或用户来说没有那么大的回报——尽管我们可能会看到有更多的设备允许人们选择来自不同供应商的独立硬件模块。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T10:18:37Z",
+  "Author": "wanwan"
+}

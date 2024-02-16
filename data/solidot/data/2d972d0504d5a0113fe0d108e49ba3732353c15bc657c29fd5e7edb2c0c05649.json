@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "宇航员即将迎来升级后的 AI 机器人",
+  "Link": "https://www.solidot.org/story?sid=68867",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 CIMON-2（全名为  Crew Interactive Mobile Companion）的机器人已收到软件更新，预计将在今年晚些时候与人类宇航员\u003ca href=\"https://www.space.com/space-station-ai-robot-cimon-upgrade-for-astronauts\" target=\"_blank\"\u003e\u003cu\u003e共同执行更复杂的任务\u003c/u\u003e\u003c/a\u003e。自欧洲航天局宇航员 Luca Parmitano 于 2020 年 2 月离开后，这个带有可爱卡通脸的球形机器人就被储存了起来。等到下一位德国宇航员 Matthias Maurer 于今年10月乘坐 SpaceX Crew-3 飞船抵达空间站时，CIMON 将再度被唤醒。根据空客 0CIMON 项目经理 Till Eisenberg 的介绍，CIMON 是他们与德国航空航天中心（DLR）以及慕尼黑大学（LMU）合作研发的智能机器人。过去一年半以来，工程师一直在努力改进 CIMON 与地球的通信能力，以便它能为宇航员们提供更加无缝的服务体验。Eisenberg 表示，“这台球形机器人本身只是个前端，一切语音识别与 AI 功能都运行在位于德国法兰克福的 IBM 数据中心内。来自CIMON的信号需要通过卫星和地面站才能抵达数据中心、再原路返回。我们正努力提高这条连接线路的稳健性，防止服务中断。”CIMON 依靠 IBM Watson 语音识别与合成软件与宇航员交谈并响应其命令。第一代机器人于 2018 年同 Alexander Gerst 一同飞往空间站，并在返回地球后被摆进德国博物馆。目前的机器人CIMON-2 是第二代，相较于前代能更好地适应宇航员的情绪变化（归功于 Watson Tone Analyzer），同时反应速度也更快。 空客和德国航空航天中心已与欧洲航天局签署了 CIMON-2 合同，将在未来几年内与空间站的四位宇航员开展合作。在这四次连续任务中，工程师将首先测试 CIMON 的新软件，之后继续让这台机器人参与更为复杂的其他实验。空客在一份\u003ca href=\"https://www.airbus.com/newsroom/press-releases/en/2021/09/science-and-education-new-tasks-for-cimon.html\" target=\"_blank\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中表示，在新任务期间，CIMON 将首次参与并记录完整的科学研究规程。Eisenberg 表示，“宇航员执行的大部分任务都具有明确的分步规程。通常他们需要参考剪贴板完成这些分步操作；但 CION 可以漂浮在他们周围、听取命令并读出规程，并在屏幕上显示出视频、图片和说明以帮助宇航员提高工作效率。机器人还可以拍摄视频和图片来查找其他信息、记录实验内容。科学家则持续收集宇航员的反馈，确定这台机器人到底有多大帮助，同时探索 CIMON 下一代方案的改进方向。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-09T09:28:16Z",
+  "Author": "wanwan"
+}

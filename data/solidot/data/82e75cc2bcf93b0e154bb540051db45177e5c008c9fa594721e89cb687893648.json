@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "包括特朗普在内的 1.5 万 Gab 账号被盗",
+  "Link": "https://www.solidot.org/story?sid=67073",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t极右翼社交平台 Gab 的创始人 Andrew Torba 发表\u003ca href=\"https://web.archive.org/web/20210228203106/https://twitter.com/getongab/status/1366123617847828483\"\u003e\u003cu\u003e声明（存档）\u003c/u\u003e\u003c/a\u003e承认，包括特朗普在内的 1.5 万 Gab 账号\u003ca href=\"https://arstechnica.com/information-technology/2021/03/gab-the-far-right-website-has-been-hacked-and-70gb-of-data-leaked/\"\u003e\u003cu\u003e被盗\u003c/u\u003e\u003c/a\u003e。未披露身份的黑客利用 SQL 注入漏洞入侵了 Gab，将窃取的 70GB 数据\u003ca href=\"https://ddosecrets.substack.com/p/release-gableaks-70gb\" target=\"_blank\"\u003e\u003cu\u003e提供给了\u003c/u\u003e\u003c/a\u003e泄密组织  Distributed Denial of Secrets。这些数据包括了 1.5 万 Gab 用户的 7 万多条信息，以及哈希密码、用户资料和私聊。Gab 创始人在声明中诅咒了 Distributed Denial of Secrets 的联合创始人 Emma Best 以及报道这起被称为 \u003ca href=\"https://ddosecrets.com/wiki/GabLeaks\" target=\"_blank\"\u003e\u003cu\u003eGabLeaks\u003c/u\u003e\u003c/a\u003e 事件的记者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-02T05:18:34Z",
+  "Author": "WinterIsComing"
+}

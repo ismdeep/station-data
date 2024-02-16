@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软帮助 Chrome 改进电池续航",
+  "Link": "https://www.solidot.org/story?sid=61758",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软的 Edge 已经切换到了 Chromium，微软的开发者正在向开源的 Chromium 项目\u003ca href=\"https://chromium-review.googlesource.com/q/author:*.microsoft.com+AND+status:merged\" target=\"_blank\"\u003e\u003cu\u003e贡献\u003c/u\u003e\u003c/a\u003e代码和功能。软件巨人最近向搜索巨人提出的一项功能是\u003ca href=\"https://www.thurrott.com/cloud/web-browsers/google-chrome/212361/microsoft-has-first-major-impact-on-chrome\" target=\"_blank\"\u003e\u003cu\u003e改进浏览器的电池续航\u003c/u\u003e\u003c/a\u003e，Google 已经接受并将其用于 Chrome。这项功能与多媒体内容的磁盘缓存有关。微软开发者 Shawn Pickett 解释说，媒体内容在播放期间会被缓存到磁盘，在播放过程种保持磁盘活跃会增加总体的功耗，阻止操作系统进入较低功耗模式。鉴于媒体播放是高使用场景，额外的电池使用对电池续航有负面影响。微软提出的改变是阻止某些媒体内容缓存到磁盘以改善电池续航。Google 正在测试版  Chrome Canary 中测试该功能，没有默认启用，用户需要输入  chrome://flags 搜索 Turn off caching of streaming media to disk。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-18T13:42:33Z",
+  "Author": "wenfeixiang"
+}

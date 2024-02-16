@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cheap PCB：更好的理解硬件供应链",
+  "Link": "https://www.solidot.org/story?sid=66917",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;近几年的各种后门疑云的背景下，硬件供应链是一个令人关注的话题，信息安全最大的宿敌之一就是复杂性，而如何驯服这只野兽需要足够的耐性的知识去构建适当的方法论，受到硬件黑客Andrew Bunnie Huang的著作《\u003ca href=\"https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking/dp/159327758X\"\u003e硬件黑客的复仇：大规模廉价制造之华强北风云录\u003c/a\u003e》的启发，HardenedLinux社区近期就硬件设计和制造过程中所涉及的基本流程进行了一次小测试，即\u003ca href=\"https://github.com/hardenedlinux/cheap-pcb\" target=\"_blank\"\u003echeap-pcb项目\u003c/a\u003e，EDA工具使用的是\u003ca href=\"https://docs.kicad.org\" target=\"_blank\"\u003e自由软件实现Kicad\u003c/a\u003e完成了一款引出的绝大部分IO和USB的基于廉价STM32的开发板，具有串口编程电路，SPI读写测试基于\u003ca href=\"https://github.com/dword1511/stm32-vserprog\" target=\"_blank\"\u003estm32-vserprog\u003c/a\u003e完成，对于器件，尺寸，厂家在设计阶段和生产阶段的选型和兼容性问题都有\u003ca target=\"_blank\" href=\"https://github.com/hardenedlinux/cheap-pcb/blob/main/cheap-pcb-story.md\"\u003e详细的记录和总结\u003c/a\u003e，如果一款量产后的成本低于10美金的硬件都会经历诸多流程以及几十甚至上百种器件的搭配和组合，那针对x86工作站或者服务器级别的硬件制作一个类似固件领域的黄金镜像将是一件非常具备挑战性的工作。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-10T15:40:20Z",
+  "Author": "WinterIsComing"
+}

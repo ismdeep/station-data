@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rust 将进入 Linux 6.1",
+  "Link": "https://www.solidot.org/story?sid=72820",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Linux 内核维护者\u003ca href=\"https://events.linuxfoundation.org/linux-kernel-maintainer-summit/\"\u003e\u003cu\u003e峰会\u003c/u\u003e\u003c/a\u003e上，Linus Torvalds \u003ca href=\"https://www.zdnet.com/article/linus-torvalds-rust-will-go-into-linux-6-1/\" target=\"_blank\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e除非有怪事发生，Rust 将进入 Linux 6.1。目前正在开发的版本是 Linux 6.0，6.1 是下一个版本。首个进入内核的是用 Rust 语言开发的 NVMe 驱动，它已经实现了与 C 语言版本相当的性能。Linux 内核 和 Rust 开发者 Miguel Ojeda 的工作让内核对 Rust 的支持更加成熟。内核开发者同意 Rust on Linux 已经准备就绪。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-20T11:24:24Z",
+  "Author": "WinterIsComing"
+}

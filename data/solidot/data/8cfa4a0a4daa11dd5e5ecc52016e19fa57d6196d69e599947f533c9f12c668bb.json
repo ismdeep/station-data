@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "价值 1.2 亿美元的加密货币被盗",
+  "Link": "https://www.solidot.org/story?sid=69878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去中心化金融平台 Badger 的网站被植入了恶意脚本，会拦截交易，将受害者的加密货币令牌转移到攻击者控制的地址。交易记录显示，攻击者窃取了 2100 个比特币和 151 个以太坊，\u003ca href=\"https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum\" target=\"_blank\"\u003e\u003cu\u003e当时的价值约 1.2 亿美元\u003c/u\u003e\u003c/a\u003e（最近两天比特币发生了暴跌币值下降），其中最大的一笔交易高达 896 个比特币，价值约 5000 万美元。Badger 团队称，恶意脚本最早在 11 月 10 日植入的，为了避免被探测到攻击者是随机实施的。Badger 在获悉攻击之后暂停了所有智能合约，建议用户拒绝所有发往攻击者地址的交易。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-05T12:33:44Z",
+  "Author": "WinterIsComing"
+}

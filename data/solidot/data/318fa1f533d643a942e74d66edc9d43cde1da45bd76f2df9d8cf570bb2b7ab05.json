@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布第四代 EPYC 处理器",
+  "Link": "https://www.solidot.org/story?sid=73337",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 宣布了第四代 EPYC Genoa 服务器处理器，英特尔的同类新产品还要到明年初才宣布。Genoa 采用 5nm 工艺制造，核心数最多可达 96 个，支持 12 通道 DDR5 内存，支持 PCIe 5.0，支持 CXL，支持 AVX-512。Genoa 的性能提升至上一代的 1.9 倍。AMD 将英特尔第三代至强 8380 40 核处理器作为参照基准，96 核 EPYC 9654 的云计算性能是其 3 倍。Phoronix 测试了 EPYC 9554 和 EPYC 9654 在 Linux 下的性能。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.amd.com/zh-hans/processors/epyc-9004-series\u003cbr/\u003e\nhttps://www.phoronix.com/review/amd-epyc-9654-9554-benchmarks\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-11T07:44:06Z",
+  "Author": "WinterIsComing"
+}

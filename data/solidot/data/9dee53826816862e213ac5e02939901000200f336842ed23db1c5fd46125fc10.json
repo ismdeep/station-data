@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "辉瑞如何用 AI 和超算设计新冠疫苗和口服药片",
+  "Link": "https://www.solidot.org/story?sid=71037",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在英伟达宣布其新一代数据中心 GPU 的\u003ca href=\"https://www.nvidia.cn/gtc-global/keynote/\" target=\"_blank\"\u003e\u003cu\u003e技术会议\u003c/u\u003e\u003c/a\u003e（GPU Technology Conference）上，辉瑞首席数字技术官 Lidia Fonseca \u003ca href=\"https://www.theregister.com/2022/03/22/pfizer_nvidia_ai/\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e该公司如何用 AI 和超算设计新冠疫苗 Comirnaty 和口服药片 Paxlovid。Fonseca 称，机器学习算法帮助该公司在短短四个月内设计出基于 mRNA 的疫苗并进入临床试验。机器学习算法被用于在生产阶段预测产量，AI 系统被用于分析临床试验的参与者症状中的差异。辉瑞使用了巴塞罗那超级计算中心的 MareNostrum 4 超算分析候选药物，该超算峰值性能为 11.15 Petaflops；包含 3456 个节点，每个节点由两个英特尔 Xeon Platinum 8160 处理器和四个英伟达 V100 GPU 构成。大型药厂正日益转向 AI。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-23T12:13:16Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 90 释出",
+  "Link": "https://www.solidot.org/story?sid=68276",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/90.0/releasenotes/\"\u003e释出了\u003c/a\u003e Firefox 90。主要新特性包括：Windows 版本支持在不运行时后台静默更新；新页面 about:third-party 帮助识别第三方应用的兼容性问题；about:preferences#privacy 管理 HTTPS-Only 模式的例外；改进 Print to PDF；SmartBlock 2.0，等等。SmartBlock 是 Firefox 内置的隐私保护功能，默认屏蔽第三方跟踪脚本，但可能会破坏第三方登陆功能，比如通过 Facebook 在第三方网站的登陆。SmartBlock 2.0 细化了第三方脚本屏蔽，允许用户点击 Continue with Facebook 按钮解除屏蔽。Firefox 90 \u003ca href=\"https://arstechnica.com/gadgets/2021/07/firefox-90-ramps-up-private-browsing-with-new-smartblock-2-0/\" target=\"_blank\"\u003e\u003cu\u003e还改进了\u003c/u\u003e\u003c/a\u003e浏览器的响应速度。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-14T00:30:55Z",
+  "Author": "WinterIsComing"
+}

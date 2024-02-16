@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DeepMind 公布 AlphaFold 源代码",
+  "Link": "https://www.solidot.org/story?sid=68308",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年底，Google 子公司 DeepMind \u003ca href=\"https://www.solidot.org/story?sid=66236\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e取得了一项重大突破——AI 能根据蛋白质的氨基酸序列判断其三维结构。这一突破有望大大加快新药的开发过程。科学家们花费了数十年时间试图弄清一个问题：最开始为链状的化合物的蛋白质，如何折叠成三维形状？这些形状决定了其行为。然而即使是识别单个蛋白质的形状也可能需要数年时间，但 DeepMind 表示，其 AlphaFold 系统能够在数天内提供准确结果，精度在一个原子的宽度以内。本周 DeepMind 在《自然》期刊上发表论文《\u003ca href=\"https://www.nature.com/articles/s41586-021-03819-2\"\u003e\u003cu\u003eHighly accurate protein structure prediction with AlphaFold\u003c/u\u003e\u003c/a\u003e》， 宣布 AlphaFold 在 CASP14（14th Critical Assessment of protein Structure Prediction）上演示其精度在大部分情况下能与实验室结果相竞争，远超其它方法。DeepMind 在 GitHub 上公布了 AlphaFold 的\u003ca href=\"https://github.com/deepmind/alphafold\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e，采用 Apache License 2.0 许可证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-17T02:15:01Z",
+  "Author": "WinterIsComing"
+}

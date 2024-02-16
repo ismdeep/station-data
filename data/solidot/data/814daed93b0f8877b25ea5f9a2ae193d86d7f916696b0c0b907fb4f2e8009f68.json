@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 的每一次下载都含有唯一识别码",
+  "Link": "https://www.solidot.org/story?sid=70990",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从 Mozilla 官网下载 Firefox，每一次下载都会\u003ca href=\"https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/\"\u003e\u003cu\u003e含有唯一识别码\u003c/u\u003e\u003c/a\u003e。Mozilla 内部将该识别码称为 \u003ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1677497#c0\"\u003e\u003cu\u003edltoken\u003c/u\u003e\u003c/a\u003e，用于关联浏览器的下载、安装和首次运行。Mozilla 自己解释说，该数据可用于关联遥测 ID、下载令牌和 Google Analytics ID，分析下载和安装的趋势，回答诸如每天安装次数与下载次数迥异的疑问。用户可以简单通过 Firefox 安装程序的哈希值确认是否含有识别码。每一次从官网下载的文件哈希值都是不同的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-18T12:31:05Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布 Radeon RX 6000 系列显卡",
+  "Link": "https://www.solidot.org/story?sid=65939",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 已经在 CPU 领域全方面打败了竞争对手，但过去几年它在 GPU 领域一直处于勉强维持的状态，它甚至多年没有推出高端旗舰显卡，只能在中低端领域挑战一下竞争对手英伟达。在 10 月 28 日举行的发布会上，AMD \u003ca href=\"https://www.amd.com/zh-hans/graphics/amd-radeon-rx-6000-series\"\u003e\u003cu\u003e正式宣布了\u003c/u\u003e\u003c/a\u003e Radeon RX 6000 系列显卡，推出了高端旗舰显卡，挑战英伟达最新发布的 RTX 3080 和 RTX 3090 显卡。AMD \u003ca href=\"https://www.anandtech.com/show/16202/amd-reveals-the-radeon-rx-6000-series-rdna2-starts-at-the-highend-coming-november-18th\" target=\"_blank\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e三款基于 RNDA 2 架构的中高端产品，使用被称为 Infinity Cache 的显存架构以较小的带宽实现更高的性能：Radeon RX 6900 XT，80 计算单元，基本频率 2015 MHz，可提升至 2250MHz，FP32 性能 20.6 TFLOPs，价格 999 美元，国行价格 7999 元；Radeon RX 6800 XT，72 计算单元，基本频率 2015 MHz，可提升至 2250MHz，FP32 性能 18.6 TFLOPs，价格 649 美元，国行价格 5099 元；Radeon RX 6800，60 计算单元，基本频率 1815MHz，可提升至 2105MHz，FP32 性能 13.9 TFLOPs，价格 579 美元，国行价格 4599 元。三款显卡都使用 128MB 的 Infinity Cache，256-bit 带宽，16GB 的 GDDR6。除了有计算单元数量的差异，其它规格基本一致。6900 XT 的性能能挑战 RTX 3090，而 6800 XT 则能挑战 RTX 3080，RX 6800 能挑战 RTX 3070。新显卡都支持光追，但类似英伟达 DLSS 的超级采样技术还在测试中。AMD \u003ca href=\"https://www.theverge.com/2020/10/28/21538010/amd-radeon-rx-6800-xt-specs-release-date-price-big-navi-gpu-graphics\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e它的超级采样技术将是开放和跨平台的，不过在新显卡发布时还没有做好准备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-29T01:40:27Z",
+  "Author": "WinterIsComing"
+}

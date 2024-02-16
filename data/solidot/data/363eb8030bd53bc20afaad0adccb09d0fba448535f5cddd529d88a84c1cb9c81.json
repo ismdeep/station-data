@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 11.5 发布",
+  "Link": "https://www.solidot.org/story?sid=72146",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目释出了 \u003ca href=\"https://blog.torproject.org/new-release-tor-browser-115/\" target=\"_blank\"\u003e\u003cu\u003eTor Browser 11.5\u003c/u\u003e\u003c/a\u003e。主要新特性包括：Connection Assist 会根据用户的位置自动配置最佳的网桥，它会在征询用户同意后基于位置下载最新列表，该功能利用了域前置工具 \u003ca href=\"https://support.torproject.org/glossary/moat/\"\u003emoat\u003c/a\u003e；重新设计了 Tor 网络设置；默认启用 HTTPS-Only 模式，不再需要 HTTPS-Everywhere 扩展；改进字体支持；更新到 Firefox 91.11.0esr、OpenSSL 1.1.1q、Tor-Launcher 0.2.37 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-16T15:00:44Z",
+  "Author": "WinterIsComing"
+}

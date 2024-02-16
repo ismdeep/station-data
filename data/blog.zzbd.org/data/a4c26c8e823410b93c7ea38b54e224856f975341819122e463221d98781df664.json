@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "随机播放与时钟",
+  "Link": "https://blog.zzbd.org/2015/06/23/music-watch/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003ciframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=\"298\" height=\"52\" src=\"http://music.163.com/outchain/player?type=2\u0026amp;id=185694\u0026amp;auto=0\u0026amp;height=32\"\u003e\u003c/iframe\u003e昨晚躺在床上听了一宿音乐，非但没有帮助睡眠，反而越听越精神了orz。于是乎脑洞大开，随机播放应该可以这样随机：\u003ch4 id=\"指定某一首音乐的播放位置或时间\"\u003e\u003ca href=\"#指定某一首音乐的播放位置或时间\" class=\"headerlink\" title=\"指定某一首音乐的播放位置或时间\"\u003e\u003c/a\u003e指定某一首音乐的播放位置或时间\u003c/h4\u003e\u003cp\u003e这个很好理解，相当于闹钟。可以是选定的时间点播放同一音乐，比如21点整、或者每半小时，或者每个时间点播放不同音乐，最好是时间点触发后直接切歌。长此以往，耳朵被惯坏之后，只要听到这个曲子就知道大概流逝的时间了。指定播放位置，比如第五首播放\u003cstrong\u003e惊鸿一面\u003c/strong\u003e，当听到许嵩独特的声线也就能大致推断出听了多久。\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003ch4 id=\"根据设定的播放时长选择音乐\"\u003e\u003ca href=\"#根据设定的播放时长选择音乐\" class=\"headerlink\" title=\"根据设定的播放时长选择音乐\"\u003e\u003c/a\u003e根据设定的播放时长选择音乐\u003c/h4\u003e\u003cp\u003e比如播放45分钟（好像有什么不对），总共播放多少首歌作为可选条件，选择出最佳匹配的播放列表。\u003c/p\u003e\u003ch4 id=\"把所有音乐划分时间区段\"\u003e\u003ca href=\"#把所有音乐划分时间区段\" class=\"headerlink\" title=\"把所有音乐划分时间区段\"\u003e\u003c/a\u003e把所有音乐划分时间区段\u003c/h4\u003e\u003cp\u003e最好是不同场景有不同的划分方案，比如睡觉时前半小时播放epic，后半小时播放piano。\u003c/p\u003e\u003chr/\u003e\u003cp\u003e所以在洗澡、洗衣服、看小说或者睡觉等等情况下，这种随机播放模式就很有用了。当然，时间感强的或者听音乐比较少的可以无视。目前就能想到这么多，以后再慢慢补充。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2015-06-23T07:05:01Z",
+  "Author": "J. F"
+}

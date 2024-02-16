@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源促进会联合创始人 Bruce Perens 辞职",
+  "Link": "https://www.solidot.org/story?sid=63179",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源促进会联合创始人 Bruce Perens \u003ca href=\"https://www.theregister.co.uk/2020/01/03/osi_cofounder_resigns/\"\u003e\u003cu\u003e宣布辞职\u003c/u\u003e\u003c/a\u003e，原因与软件许可证 \u003ca target=\"_blank\" rel=\"nofollow\" href=\"https://github.com/holochain/cryptographic-autonomy-license\"\u003eCryptographic Autonomy License\u003c/a\u003e （CAL）的批准流程有关。CAL 是律师 Van Lindberg 为 Holo 平台起草的软件许可证，正等待开源促进会批准是否是兼容开源定义的许可证。据知情人士称，Lindberg 私下游说开源促进会的董事对 CAL 放绿灯，而审批流程被认为应该公开进行。Lindberg 回应称，过程类型的沟通是完全合理的，批评很多人对 CAL 有成见。开源促进会许可证评估委员会主席 Pamela Chestek 表示对 Lindberg 是否游说不知情。Bruce Perens 对 CAL 有异议，\u003ca href=\"https://lists.opensource.org/pipermail/license-review_lists.opensource.org/2020-January/004598.html\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e它“不尊重自由”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-06T12:31:13Z",
+  "Author": "WinterIsComing"
+}

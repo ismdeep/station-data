@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 上的 Firefox 将默认禁用 DoH",
+  "Link": "https://www.solidot.org/story?sid=62078",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 本周\u003ca href=\"https://software.solidot.org/story?sid=62013\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，它计划 9 月晚些时候对美国 Firefox 用户逐步默认启用 DNS-over-HTTPS（DoH）。用户发送的 DNS 请求通常是明文发送给 ISP 的 DNS 解析服务器，在不同的网络环境下，明文发送 DNS 请求被认为不安全的，DoH 设计通过 HTTPs 加密向第三方或用户自己搭建的 DNS 服务器发出域名查询请求。该功能对普通用户当然有安全方面的价值，但问题是 Mozilla 选择的合作伙伴是云计算公司 Cloudflare。许多人担心将所有 DNS 流量发送给同一家公司是有风险的。OpenBSD 项目就\u003ca href=\"https://undeadly.org/cgi?action=article;sid=20190911113856\"\u003e\u003cu\u003e做出决定\u003c/u\u003e\u003c/a\u003e，其平台上的 Firefox 浏览器将默认禁用 DoH。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-14T15:15:27Z",
+  "Author": "wenfeixiang"
+}

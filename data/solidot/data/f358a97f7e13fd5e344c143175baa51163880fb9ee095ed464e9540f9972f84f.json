@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开源虚拟现实绘图应用 Tilt Brush",
+  "Link": "https://www.solidot.org/story?sid=66773",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源虚拟现实绘图应用 Tilt Brush，\u003ca href=\"https://github.com/googlevr/tilt-brush\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 Apache 2.0 许可证，用户可自由使用和修改。Tilt Brush 于 2016 年发布，支持主流 VR 设备，被誉为是最出色的 VR 创作工具之一，用户可以在虚拟三维空间中创作各种作品。Google 表示，开源之后 Tilt Brush 会留在数字平台如 \u003ca href=\"https://store.steampowered.com/app/327140/Tilt_Brush/\"\u003eSteam\u003c/a\u003e 上继续销售。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-27T04:52:47Z",
+  "Author": "WinterIsComing"
+}

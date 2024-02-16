@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Waymo 公开自主驾驶数据集",
+  "Link": "https://www.solidot.org/story?sid=61815",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWaymo \u003ca href=\"https://spectrum.ieee.org/cars-that-think/transportation/self-driving/waymo-opens-up-part-of-its-humongous-selfdriving-database\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e其自主驾驶车队积累的\u003ca href=\"http://waymo.com/open\"\u003e\u003cu\u003e庞大数据集\u003c/u\u003e\u003c/a\u003e，允许研究社区自由使用。竞争对手也可以查看，但被禁止使用这些数据集构建商业自主驾驶汽车。数据集花了 Waymo 几个月的时间去挑选、注释和完善。它由 1000 个驾驶序列构成，每个序列持续 20 秒，相当于 20 万帧，由车载激光雷达、雷达和摄像头传感器等构成。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T08:04:29Z",
+  "Author": "wenfeixiang"
+}

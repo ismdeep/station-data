@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VLC 背后的团队",
+  "Link": "https://www.solidot.org/story?sid=62732",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当 Jean-Baptiste Kempf 在 2003 年就读巴黎中央理工时， 他被分配了一个任务帮助管理学校的计算机网络。其中包含了一个不同寻常的项目：学生运营的一个开源软件。对学生来说，这个项目叫 Network 2000；对外界来说，\u003ca href=\"https://increment.com/teams/the-team-that-powers-vlc/\" target=\"_blank\"\u003e\u003cu\u003e它叫 VLC 播放器\u003c/u\u003e\u003c/a\u003e。Kempf 如今担任非营利组织 VideoLAN 的董事长，他指引着 VLC（或 VideoLAN Client）从一个学生项目转变成一个极其成功的软件。自 2005 年 2 月以来，VLC 的下载量超过了 30 亿次。中央理工最初是把 VLC 作为一个训练学生编程技能的项目开发的，投入了很多资源，但 VCL 成为自身成功的受害者，它变得太复杂而让学生难以维护，同时又因为课程的改变而变得过时。到 2007 年没人有精力照料它了，它变成了一个烫手山芋。作为一个学生项目它在大学里面临死亡，Kempf 决定为了生存下去必须与大学脱钩。自此之后，VLC 经历了显著的改变，开发团队也转变成为了一个非营利组织和一个咨询公司。VLC 始终由一个小的核心团队运营，两到五人持续在项目上工作，另外十几人不定时参与。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-25T09:48:49Z",
+  "Author": "WinterIsComing"
+}

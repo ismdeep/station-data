@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客发布 iPhone 新越狱工具 unc0ver",
+  "Link": "https://www.solidot.org/story?sid=64484",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客\u003ca href=\"https://arstechnica.com/information-technology/2020/05/for-a-limited-time-a-new-jailbreak-gives-full-root-access-to-any-iphone/#p3\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 iPhone 新越狱工具 \u003ca href=\"https://unc0ver.dev/\"\u003e\u003cu\u003eunc0ver\u003c/u\u003e\u003c/a\u003e，允许任何人获得运行 iOS 11 以上版本的手机 root 访问权限。要越狱，用户需要物理访问设备，并要将手机连接到电脑上。这些要求意味着该越狱工具不太可能被用于恶意目的，比如让恶意程序悄悄获得设备的系统权限。和之前发布的越狱方法类似，手机重启之后越狱会失效。因此 unc0ver 更像是给开发者提供的一种工具，可以不受苹果限制的自由安装应用，可用于监视系统功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-27T07:55:51Z",
+  "Author": "WinterIsComing"
+}

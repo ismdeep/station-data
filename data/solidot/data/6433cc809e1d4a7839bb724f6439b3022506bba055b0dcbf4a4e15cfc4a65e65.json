@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "分析嫦娥五号的遥测信号",
+  "Link": "https://www.solidot.org/story?sid=66213",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国于 11 月 24 日在文昌航天发射场\u003ca href=\"https://www.solidot.org/story?sid=66174\"\u003e\u003cu\u003e成功发射了\u003c/u\u003e\u003c/a\u003e嫦娥五号探测器，它即将抵达月球。在飞行过程中嫦娥五号不断发回遥测信号，世界各地的无线电爱好者们接收了探测器发回的 X 波段信号并尝试对其进行解码，已有人解码出一则\u003ca href=\"http://www.r00t.cz/Sats/Change5\"\u003e\u003cu\u003e小视频\u003c/u\u003e\u003c/a\u003e。一位无线电爱好者对嫦娥五号的信号\u003ca href=\"https://destevez.net/2020/11/a-look-at-change-5-telemetry/\" target=\"_blank\"\u003e\u003cu\u003e进行了分析\u003c/u\u003e\u003c/a\u003e，发现它很多方面与中国前不久发射的天问一号火星探测器相似。嫦娥五号的时间戳是从 2012-08-01 00:00:00 UTC 开始计时的，而天问一号则是从 2016-01-01 00:00:00 北京时间开始。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-27T06:19:31Z",
+  "Author": "WinterIsComing"
+}

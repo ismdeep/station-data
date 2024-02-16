@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OnePlus 承认最新更新限制了 300 个流行应用的性能",
+  "Link": "https://www.solidot.org/story?sid=68227",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t深圳手机制造商 OnePlus 承认以省电的名义\u003ca href=\"https://arstechnica.com/gadgets/2021/07/oneplus-admits-to-throttling-phones-after-launch-to-improve-battery-life/\" target=\"_blank\"\u003e\u003cu\u003e限制了\u003c/u\u003e\u003c/a\u003e 300 个流行应用的性能，人为限制这些应用运行在低速核心而不是快速核心上。限制流行应用的行为最早是 AnandTech 的测试人员  Andrei Frumusanu \u003ca href=\"https://www.anandtech.com/show/16794/oneplus-9-performance-examination\"\u003e\u003cu\u003e曝光的\u003c/u\u003e\u003c/a\u003e，Frumusanu 发现 OnePlus 9 限制 Chrome 等流行应用只运行在 Cortex-A55 核心上，更强大的 A78 和 X1 都不使用，这些流行应用被加入到了最快核心的黑名单里，而基准测试应用和不知名应用则能充分利用全部性能。测试应用 Geekbench 随后以操纵基准测试的理由移除了 OnePlus 9 和 9 Pro 的测试结果。OnePlus 之后\u003ca href=\"https://www.xda-developers.com/oneplus-9-pro-performance-throttling-popular-apps/\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e在发售新手机之后收到了部分用户希望改进电池寿命和热管理的反馈，它的研发团队所采取的改进方法是限制包括 Chrome 在内的 300 个流行应用的性能（或者自称是优化）。因为这一“优化” Chrome 的性能下降了 75-85%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-08T07:08:39Z",
+  "Author": "WinterIsComing"
+}

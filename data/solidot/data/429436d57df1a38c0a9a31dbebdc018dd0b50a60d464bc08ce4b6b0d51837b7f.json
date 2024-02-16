@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员设计出设备关闭时仍能运行的 iPhone 恶意软件",
+  "Link": "https://www.solidot.org/story?sid=71546",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tiPhone 关闭时并没有完全关机。设备内部的芯片继续在低功耗模式下运行，因此可用 Find My 功能定位丢失或被盗的设备，或者在电池耗尽后使用信用卡和车钥匙。现在研究人员设计出了一种方法，\u003ca href=\"https://arstechnica.com/information-technology/2022/05/researchers-devise-iphone-malware-that-runs-even-when-device-is-turned-off/\" target=\"_blank\"\u003e\u003cu\u003e滥用这种永远开机的机制运行恶意软件\u003c/u\u003e\u003c/a\u003e，即使 iPhone 关机了，恶意软件仍然可以保持激活。事实证明，iPhone 的蓝牙芯片——它是 Find My 等功能的关键——没有对运行的固件进行数字签名的机制，甚至也没有进行加密。德国达姆施塔特科技大学的学者想出了如何利用这种保护缺失运行恶意固件，让攻击者能在设备关机后跟踪手机的位置或者运行新功能。\u003ca href=\"https://www.youtube.com/watch?v=KrqTHd5oqVw\"\u003e\u003cu\u003e这则视频\u003c/u\u003e\u003c/a\u003e高度概括了可行的攻击方式。 \u003ca href=\"https://arxiv.org/pdf/2205.06114.pdf\"\u003e\u003cu\u003e这项发现\u003c/u\u003e\u003c/a\u003e（PDF）的实际价值有限，因为感染需要将 iPhone 越狱，这本身就是一项艰巨的任务，尤其是在对抗环境中。尽管如此，对于 Pegasus 等恶意软件来说，在攻击成功后利用 iOS 中的始终开机功能会很方便，Pegasus 是以色列 NSO 集团的复杂智能手机攻击工具，世界各国经常使用该工具监视对手。除了允许恶意软件在 iPhone 关闭时运行之外，针对 LPM 的漏洞利用还可以让恶意软件更隐蔽地运行，因为 LPM 允许固件节省电池电量。当然，固件感染已经非常难以检测，因为它需要大量的专业知识和昂贵的设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-17T07:31:30Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "libtorrent-2.0 加入对 BitTorrent v2 的支持",
+  "Link": "https://www.solidot.org/story?sid=65473",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tlibtorrent 项目刚刚\u003ca href=\"https://blog.libtorrent.org/2020/09/bittorrent-v2/\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://github.com/arvidn/libtorrent/releases\" target=\"_blank\"\u003e\u003cu\u003elibtorrent-2.0\u003c/u\u003e\u003c/a\u003e，其中一个重要特性是支持 \u003ca href=\"http://bittorrent.org/beps/bep_0052.html\" target=\"_blank\"\u003e\u003cu\u003eBitTorrent v2\u003c/u\u003e\u003c/a\u003e 协议。而 BitTorrent v2 相比之前版本的一个主要变化是其哈希函数用 SHA-256 取代了  SHA-1，原因是 SHA-1 不再安全。Google 在 2017 年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值。在 Google 的研究中，攻击所需的计算量十分惊人，但今年初研究人员已经将攻击成本降至 \u003ca href=\"https://www.solidot.org/story?sid=63252\"\u003e\u003cu\u003e4.5 万美元\u003c/u\u003e\u003c/a\u003e，以后还会更低。SHA-256 的哈希长度从 20 字节增加到了 32 字节。为了确保兼容性，SHA-256 info-hash 仍然维持在 20 字节长度。BitTorrent 2.0 不兼容于旧的协议，但 libtorrent 2.0 能同时处理旧的协议和新的协议，不过旧的客户端无法访问新协议创造的种子。为了帮助 BT 客户端过渡到 BitTorrent 2.0，libtorrent 2.0 引入了名叫 hybrid torrents 的方案。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-08T07:17:12Z",
+  "Author": "WinterIsComing"
+}

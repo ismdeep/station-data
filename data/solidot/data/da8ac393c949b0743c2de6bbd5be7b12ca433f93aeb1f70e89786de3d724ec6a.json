@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 计划停止支持 FTP URL",
+  "Link": "https://www.solidot.org/story?sid=61755",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 工程师\u003ca href=\"https://chromestatus.com/feature/6246151319715840\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e该公司计划从 Chrome v82 起停止支持 FTP。目前用户可以直接在地址栏输入 FTP 地址访问和下载 FTP 服务器上的列表和资源。Google 工程师称，Chrome 目前的 FTP 实现既不支持加密 FTPS，也不支持代理，而在浏览器上访问 FTP 的使用率已经低到投资改进现有的 FTP 客户端变得不现实。此外各大平台都有功能强大的专用 FTP 客户端，因此浏览器不支持 FTP 并不会影响到用户，需要访问 FTP 服务器的用户可选择使用客户端比如开源的  FileZilla。Chrome v82 预计将在明年下半年释出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-17T13:43:21Z",
+  "Author": "wenfeixiang"
+}

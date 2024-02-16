@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软控制了 50 个被朝鲜黑客使用的域名",
+  "Link": "https://www.solidot.org/story?sid=63120",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软宣布\u003ca href=\"https://www.zdnet.com/article/microsoft-takes-down-50-domains-operated-by-north-korean-hackers/\" target=\"_blank\"\u003e\u003cu\u003e它成功控制了\u003c/u\u003e\u003c/a\u003e 50 个被朝鲜黑客组织使用的域名。软件巨人称，这些域名被 Thallium aka APT37 用于发动网络攻击。微软称，它的数字犯罪部门和威胁情报中心团队监视了 Thallium 数个月内的活动，查清了其使用的基础设施。它在 12 月 18 日向法庭递交了针对 Thallium 的诉讼，圣诞节后收到了法庭命令，允许它接管黑客组织使用的域名。这些域名被用于发送钓鱼邮件和托管钓鱼网页。除了跟踪 Thallium 的攻击活动，微软还跟踪了受害者，根据受害者的信息，黑客攻击的目标包括政府工作人员、智囊团、大学教职工，人权组织和反核扩散机构成员。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-31T05:40:27Z",
+  "Author": "blackhat"
+}

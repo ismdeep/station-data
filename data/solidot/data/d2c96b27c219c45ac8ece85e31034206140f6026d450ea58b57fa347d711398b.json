@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客正在利用最近披露的 4 个 Android 漏洞",
+  "Link": "https://www.solidot.org/story?sid=67834",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 警告未知黑客\u003ca href=\"https://arstechnica.com/gadgets/2021/05/hackers-have-been-exploiting-4-critical-android-vulnerabilities/\"\u003e\u003cu\u003e正在利用\u003c/u\u003e\u003c/a\u003e最近披露的 4 个 Android 漏洞执行恶意代码完整控制设备。这四个漏洞是在 5 月 3 日披露的，Google 已经向 Android 厂商释出了安全更新，由后者负责将补丁推送给用户。Google Project Zero 的安全研究员 Maddie Stone 将这四个正利用的漏洞称为 0day。成功利用漏洞允许完整控制受害者的手机。今年至今 Android 系统发现了 4 个 0day，相比下去年只发现 1 个。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-21T09:25:34Z",
+  "Author": "WinterIsComing"
+}

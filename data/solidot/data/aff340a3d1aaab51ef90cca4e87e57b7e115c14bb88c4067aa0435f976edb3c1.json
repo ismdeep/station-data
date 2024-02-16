@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在苹果平台上运行未签名应用有多难",
+  "Link": "https://www.solidot.org/story?sid=65301",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2012 年，苹果在 Mac OS X（macOS）引入了 Gatekeeper，它会检查用户从互联网上下载的程序是否有有效的 Developer ID 证书签名。如果没有，Gatekeeper 将会拒绝运行。过去几年，Gatekeeper 越来越严格，最近还加入了公证的要求。苹果已经表态未来版本的 macOS 将不再允许未签名程序运行，虽然目前从技术上讲苹果操作系统仍然允许运行未签名程序。有开发者进行了一番测试，探索是否可能在苹果平台发行未签名应用。结果不言而喻，\u003ca href=\"https://lapcatsoftware.com/articles/unsigned.html\" target=\"_blank\"\u003e\u003cu\u003eGatekeeper 是无法绕过的\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-20T09:41:09Z",
+  "Author": "WinterIsComing"
+}

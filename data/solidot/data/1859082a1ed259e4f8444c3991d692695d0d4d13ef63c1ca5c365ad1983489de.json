@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员利用 Starlink 信号定位",
+  "Link": "https://www.solidot.org/story?sid=69091",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员在一篇发表在《IEEE Transactions on Aerospace and Electronic Systems.》期刊上的\u003ca href=\"https://ieeexplore.ieee.org/document/9541006 \"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中报告，来自 SpaceX Starlink 星链宽带卫星的信号\u003ca href=\"https://arstechnica.com/information-technology/2021/09/researchers-use-starlink-satellites-to-pinpoint-location-similar-to-gps/\"\u003e\u003cu\u003e可用于实现地球表面位置的精确定位\u003c/u\u003e\u003c/a\u003e，精度可达到 8 米以内。越来越多的研究机构正探索利用近地轨道（LEO）卫星信号以类似于 GPS 的工作原理进行导航。这项技术在短期内还不可能取代智能手机地图应用，而且初步实验需要 13 分钟才能根据六颗星链卫星信号确定位置。但是研究人员至少成功实现了无需 SpaceX 帮助就达成定位功能的壮举，测试证明这种方法确实可以用于导航。研究人员不需要 SpaceX 的帮助就能使用卫星信号，他们反复强调无需获取由卫星发送的实际数据——只要有与卫星位置及运动轨道相关的信息，即可实现定位功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-28T11:27:04Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司称 Flash 中国版会安装广告程序",
+  "Link": "https://www.solidot.org/story?sid=67031",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAdobe 在 2020 年 12 月 31 日之后停止更新和分发 Flash Player，之后重庆重橙网络科技有限公司通过网站 \u003ca href=\"https://flash.cn/\"\u003e\u003cu\u003eflash.cn\u003c/u\u003e\u003c/a\u003e 独家在中国大陆分发和维护 Flash Player。安全公司 Minerva Labs 在收到多次与 Flash 中国版相关的安全警告之后对其进行了分析，\u003ca href=\"https://blog.minerva-labs.com/the-curious-case-of-flashhelperservice-0\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e Flash 中国版除了安装 Flash 之外还会下载和运行名叫   nt.dll 的文件，其主要功能类似广告程序，但不排除它可以用于其它恶意目的。Flash 中国版主要影响中国用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-25T09:28:07Z",
+  "Author": "WinterIsComing"
+}

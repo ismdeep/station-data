@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "arXiv 电邮服务遭遇源自中国的 DDOS 攻击",
+  "Link": "https://www.solidot.org/story?sid=76059",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t预印本平台 arXiv 官方博客宣布它遭遇了 DDOS 攻击。过去几天一小部分用户发出了逾百万电邮变更请求。这些邮件来自 200 多个 IP 地址，几乎全部隶属于中国某个省的一家 ISP。如此多的确认电邮请求令其电邮服务器不堪重负，可能导致 arXiv 用户未能收到邮件。arXiv 正采取措施遏制攻击，包括屏蔽特定 IP 段，这可能会影响部分合法用户。arXiv 的开发和运营团队规模很小，没有能力对抗 DDOS 攻击。\n\n\n\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-12T09:57:14Z",
+  "Author": "Wilson"
+}

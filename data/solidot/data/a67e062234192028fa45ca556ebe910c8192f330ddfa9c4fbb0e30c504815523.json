@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "调查 ToTok",
+  "Link": "https://www.solidot.org/story?sid=63062",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约时报早些时候根据调查和美国情报官员的消息\u003ca href=\"https://www.solidot.org/story?sid=63023\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，一个在中东地区流行的消息应用 ToTok 被阿联酋政府用作间谍工具。报道称，阿联酋政府尝试利用该应用监视用户的每一次通话以及掌握用户之间的关系。ToTok 只发布几个月时间，该应用在中东、亚洲、欧洲和北美地区的苹果和 Google 应用商店下载了数百万次，最大用户群是在阿联酋。ToTok 背后的公司 Breej Holding 被认为是阿联酋监视公司 DarkMatter 的挂名公司。那么 ToTok 是否含有后门或其它恶意功能？安全研究人员\u003ca href=\"https://objective-see.com/blog/blog_0x52.html\" target=\"_blank\"\u003e\u003cu\u003e对其进行了破解\u003c/u\u003e\u003c/a\u003e，拦截了其流量进行分析，结果是没有，它就像是一个合法的 VoIP 应用，只是你根本不知道应用开发商/发行商的真实身份。调查发现，ToTok 使用了阿里巴巴的云服务，其大部分代码来自于另一家消息应用开发商 YeeCall，很可能是 Breej Holding 从 YeeCall 获得授权使用了其代码创建了 ToTok。情报官员口中的“间谍工具”就是一个消息应用的“合法功能”，阿联酋政府封掉了 WhatsApp 和 Skype 等流行 VoIP 应用，让 ToTok 成为当地唯一可用的 VoIP 应用，然后利用其合法功能就能获得用户的通讯录、通话和聊天细节，以及位置信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-25T11:52:20Z",
+  "Author": "WinterIsComing"
+}

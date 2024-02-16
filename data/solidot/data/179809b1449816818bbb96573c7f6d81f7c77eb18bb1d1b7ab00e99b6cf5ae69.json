@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails Linux 4.6 发布",
+  "Link": "https://www.solidot.org/story?sid=64290",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名发行版 Tail OS \u003ca href=\"https://tails.boum.org/news/version_4.6/index.en.html\" target=\"_blank\"\u003e\u003cu\u003e发布了 4.6 版本\u003c/u\u003e\u003c/a\u003e，主要变化包括修复多个安全漏洞，用户需要尽可能快的升级，其它还有 Tor Browser 更新到 9.0.10，支持 Universal 2nd Factor USB 安全密钥，更新了常用应用子菜单应用列表，等等。Tails 基本上每个月会发布一个小的更新版本，Tails 4.7 将在 6 月 2 日发布，而大版本更新则将间隔更长时间，Tails 5.0 计划在\u003ca href=\"https://redmine.tails.boum.org/code/projects/tails/roadmap\" target=\"_blank\"\u003e\u003cu\u003e明年 6 月发布\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-07T09:42:50Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gmail 更新支持 BIMI 安全标准",
+  "Link": "https://www.solidot.org/story?sid=68277",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGmail 部署了更新，\u003ca href=\"https://therecord.media/gmail-deploys-support-bimi-security-standard/\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e对 Brand Indicators for Message Identification (\u003ca target=\"_blank\" href=\"https://bimigroup.org/\" rel=\"noreferrer noopener\"\u003eBIMI\u003c/a\u003e)  安全标准的支持，改进对邮件发送者身份真实性的认证，识别欺骗性的钓鱼邮件。新的标准允许提供企业为邮件域名实现 DMARC、DKIM 和 SPF 等电邮标准，在邮件客户端内展示已认证的 logo。所有这些安全标准依赖于数字证书和先进的加密技术，已认证的 logo 只对企业真正的邮件域名展示，不会被欺诈者或网络犯罪分子发送的邮件愚弄。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-14T02:17:40Z",
+  "Author": "WinterIsComing"
+}

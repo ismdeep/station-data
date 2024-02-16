@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "C++20 标准草案获得批准",
+  "Link": "https://www.solidot.org/story?sid=65461",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tISO/IEC 14882:2020 标准草案\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=ISO-Cpp20-Approved\"\u003e\u003cu\u003e获得批准\u003c/u\u003e\u003c/a\u003e。相比 C++17，C++20 是一次重大的更新，引入了新的语言概念、模块、操作符“\u0026lt;=\u0026gt;”、协程、指定初始化、新标准属性等等。C++20 库标准还加入了范围、特性测试宏和位操作等。详细变化列表可参考\u003ca href=\"https://en.wikipedia.org/wiki/C%2B%2B20\"\u003e\u003cu\u003e维基百科\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://en.cppreference.com/w/cpp/20\"\u003ecppreference.com \u003c/a\u003e 和 \u003ca href=\"http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2131r0.html\"\u003eopen-std.org\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-07T06:19:58Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 开源计算机视觉基础模型 DINOv2",
+  "Link": "https://www.solidot.org/story?sid=75044",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 开源了它的计算机视觉基础模型 DINOv2，源代码托管在 GitHub 上，和 Meta 近期开源的其它 AI 模型一样，采用的是非商用的 CC-BY-NC 4.0 许可证。DINOv2 是基于 Vision Transformer (ViT)架构，使用一个包含 1.42 亿幅图像的精选数据集进行预训练，可用于图像分类、视频动作识别、语义分割和深度估计等任务。Meta 称 DINOv2 模型的速度是旧方法的两倍，使用的内存只有旧方法的三分之一。测试显示它相比其它同类模型有显著改进。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/\u003cbr/\u003e\nhttps://github.com/facebookresearch/dinov2\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-24T10:23:05Z",
+  "Author": "Wilson"
+}

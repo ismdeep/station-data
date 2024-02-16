@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SteamOS 开源分支发布首个版本",
+  "Link": "https://www.solidot.org/story?sid=71472",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSteamOS 基于滚动发行版 Arch Linux，设计通过快速迭代为玩家提供最佳的游戏体验。Valve 在三月初释出了 SteamOS 系统恢复镜像，帮助 Steam Deck 用户将掌机恢复到出厂状态。爱好者们随后尝试在标准 PC 上安装 SteamOS，结果喜忧参半，只能取得部分成功。社区用户随后发起了 \u003ca href=\"https://github.com/theVakhovskeIsTaken/holoiso/releases/tag/beta0\"\u003e\u003cu\u003eHoloISO\u003c/u\u003e\u003c/a\u003e 项目，刚刚\u003ca href=\"https://www.neowin.net/news/make-your-own-giant-steam-deck-right-now/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e首个版本 Ground Zero，让 SteamOS 能安装在任何 PC 上。HoloISO 和 SteamOS 还是有显著区别的：首先，SteamOS 官方镜像使用了 A/B 分区管理更新，比如更新下载到 B 分区，然后写入 A 分区，HoloISO 没有采用这一方法，而是使用了标准的 Arch Linux 更新机制；其次，SteamOS 使用了名叫 \u003ca href=\"https://github.com/Plagman/gamescope\" target=\"_blank\"\u003e\u003cu\u003eGamescope\u003c/u\u003e\u003c/a\u003e 的技术，只支持 AMD GPU，实现全系统的 FSR，允许任何游戏从低分辨率放大到显示屏原生分辨率。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-09T13:11:49Z",
+  "Author": "WinterIsComing"
+}

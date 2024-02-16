@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LLVM 12.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=67514",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLLVM 编译器套装项目\u003ca href=\"https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了最新的 \u003ca href=\"https://releases.llvm.org/\" target=\"_blank\"\u003e\u003cu\u003eLLVM 12.0.0\u003c/u\u003e\u003c/a\u003e。主要新特性和变化包括：ConstantPropagation pass，推荐使用 InstSimplify pass；llvm-build Python 脚本以及 LLVMBuild.txt 文件被移除和替换；移除 BG/Q 支持；更多可浏览发布公告，目前发布公告尚未完成编写。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-16T12:54:19Z",
+  "Author": "WinterIsComing"
+}

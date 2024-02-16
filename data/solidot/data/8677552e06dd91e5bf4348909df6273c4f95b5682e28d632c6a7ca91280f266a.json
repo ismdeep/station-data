@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在浏览器上直接运行 Stable Diffusion",
+  "Link": "https://www.solidot.org/story?sid=75541",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t有多个项目实现了在浏览器上直接运行开源文本图像生成模型 Stable Diffusion。这些项目都利用了 WebGPU，因此都需要浏览器支持 WebGPU，而 WebGPU 目前尚不稳定，AI 大模型又过于庞大，因此未必能正常工作。目前唯一实验性支持 WebGPU 的浏览器是 Chrome，它需要数 GB 的可用内存，在内存有限的机器上会加载缓慢。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://islamov.ai/stable-diffusion-webgpu/\u003cbr/\u003e\nhttps://websd.mlc.ai/#text-to-image-generation-demo\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-18T03:37:39Z",
+  "Author": "Wilson"
+}

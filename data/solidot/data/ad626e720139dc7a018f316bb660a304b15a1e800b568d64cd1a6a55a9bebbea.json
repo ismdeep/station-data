@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "甲骨文宣布 Java 14",
+  "Link": "https://www.solidot.org/story?sid=63898",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t甲骨文\u003ca href=\"https://blogs.oracle.com/java-platform-group/the-arrival-of-java-14\"\u003e\u003cu\u003e发布了 Java Development Kit (JDK) 14\u003c/u\u003e\u003c/a\u003e。从 2017 年的 Java 9 开始，Java 的发布频率改为每半年一次，去年 9 月发布 Java 13，现在发布 Java 14。Java 是目前最流行的编程语言之一，它“一次编写，到处运行”的跨平台特性是目前其它编程语言所无法比拟的优势。Java 14 的主要新特性包括：Foreign-Memory Access API 增强(JEP 370)，来自 \u003ca href=\"https://openjdk.java.net/projects/amber/\"\u003e\u003cu\u003eProject Amber\u003c/u\u003e\u003c/a\u003e 的改进，Pattern Matching (JEP 305)，\u003ca href=\"https://jaxenter.com/java-14-interview-kabutz-169860.html\"\u003e\u003cu\u003eRecords 预览\u003c/u\u003e\u003c/a\u003e (JEP 359)。在 2020 年 9 月发布 Java 15 前 Java 14 将会获得至少半年的安全更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-23T06:51:36Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KeePassXC 2.6.0 释出",
+  "Link": "https://www.solidot.org/story?sid=64888",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源密码管理器 KeePassXC \u003ca href=\"https://keepassxc.org/blog/2020-07-07-2.6.0-released/\"\u003e\u003cu\u003e释出了 2.6.0\u003c/u\u003e\u003c/a\u003e。KeePassXC 是另一个开源密码管理器 KeePassX 的分支，起因是 KeePassX 开发停滞；而 KeePassX 则是 KeePass 的净室实现，它的最新版本还是 2016 年发布的。KeePassXC 2.6.0 的主要新特性包括：大幅修改了用户界面，引入了轻色和暗色自定义主题；加入了 Have I Been Pwned 密码检查功能检查密码是否泄露；改进了 YubiKey\n和 OnlyKey 密钥整合，支持同时插入 4 个 USB 密钥；等等。更多可浏览 Changelog。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-08T13:21:17Z",
+  "Author": "WinterIsComing"
+}

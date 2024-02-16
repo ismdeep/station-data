@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目展望 2022 年",
+  "Link": "https://www.solidot.org/story?sid=70084",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目\u003ca href=\"https://blog.torproject.org/tor-in-2022/\" target=\"_blank\"\u003e\u003cu\u003e回顾了 2021 年同时展望了 2022 年\u003c/u\u003e\u003c/a\u003e。Tor 项目在 2020 年经历了艰难的一年，以疫情为由\u003ca href=\"https://www.solidot.org/story?sid=64159\" target=\"_blank\"\u003e\u003cu\u003e裁掉\u003c/u\u003e\u003c/a\u003e 13 名雇员。2021 年 Tor 项目的财务状况更稳定也更健康，能再次雇佣开发者。Tor 浏览器稳定版整合了 Snowflake，用连接页取代了 Tor 启动器，发布了一个支持论坛。2022 年 Tor 项目将改进 Tor 守护进程代码（daemon code），改进 Tor 网络的拥堵控制，进一步改进用户使用体验，Tor 项目还将致力于改善移动用户的使用体验，首先从最大的平台 Android 开始。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-21T14:40:32Z",
+  "Author": "WinterIsComing"
+}

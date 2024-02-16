@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以色列公司间谍软件被用于入侵记者的 iPhone",
+  "Link": "https://www.solidot.org/story?sid=66433",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加拿大多伦多大学公民实验室发表\u003ca href=\"https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/\"\u003e报告\u003c/a\u003e称，从 2020 年 7 月到 8 月，以色列公司 NSO Group 的间谍软件 Pegasus 被用于入侵 36 名半岛电视台记者、制作人、主播和高管的 iPhone 手机，新阿拉伯电视台的一名记者也遭到入侵。手机是通过被称为 KISMET 的利用链入侵的，其中涉及利用 iMessage 的一个无需交互的漏洞。这个漏洞在 7 月尚未修复，属于 0day 漏洞。研究人员称，部署以色列间谍软件的政府包括了沙特和阿联酋，他们认为 KISMET 对最新版本的 iOS 14 无效，鼓励所有 iOS 用户都尽可能快的升级到最新版。他们已经报告了苹果，苹果回应称正展开调查。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-21T09:29:06Z",
+  "Author": "WinterIsComing"
+}

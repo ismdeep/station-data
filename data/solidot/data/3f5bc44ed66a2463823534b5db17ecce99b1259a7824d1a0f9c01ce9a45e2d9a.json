@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用 Rust 语言开发的勒索软件 ALPHV/BlackCat",
+  "Link": "https://www.solidot.org/story?sid=70547",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 12 月研究人员发现了据信是第一种由专业网络犯罪组织用 Rust 语言开发的勒索软件 ALPHV/BlackCat。相比 C 或 C++ 语言 Rust 是一种更安全的编程语言，用 Rust 开发的程序更难找到常见的编程漏洞，如果有更多网络犯罪组织切换到 Rust 语言，将会加大安全公司发现勒索软件漏洞的难度。Krebs on Security\n援引消息来源\u003ca href=\"https://krebsonsecurity.com/2022/01/who-wrote-the-alphv-blackcat-ransomware-strain/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，ALPHV/BlackCat 的一名开发者网名叫 Binrs，曾在俄语自我介绍有六年的 Rust 开发经验。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-29T13:31:53Z",
+  "Author": "WinterIsComing"
+}

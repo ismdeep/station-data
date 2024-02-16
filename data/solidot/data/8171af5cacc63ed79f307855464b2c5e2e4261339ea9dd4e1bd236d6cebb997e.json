@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "R 语言进入最受欢迎的语言排行榜",
+  "Link": "https://www.solidot.org/story?sid=65021",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最新的 TIOBE \u003ca href=\"https://www.tiobe.com/tiobe-index/\"\u003e\u003cu\u003e语言流行度指数\u003c/u\u003e\u003c/a\u003e显示 R 语言从去年同期的第 20 名进入到了前 10 名，前 10  其它语言的排名基本没有变化。C 语言超过 Java 成为最流行语言，Swift 取代了 SQL 排名第十。 R 语言提高了 8 个名次，Go 从 16 提高到了 12 名， Perl 从 19 提高到了 14 名，Scratch 从 30 名升到 17 名， Rust 从 33 升至 18，PL/SQL 从 23 升至 19。Ruby 从 11 名降至 16 名， SQL、MATLAB 和 Assembly Language 的排名也都出现了略微下滑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-22T15:14:36Z",
+  "Author": "WinterIsComing"
+}

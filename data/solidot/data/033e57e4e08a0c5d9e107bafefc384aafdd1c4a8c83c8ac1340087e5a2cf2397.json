@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员披露第二个 Steam 0day",
+  "Link": "https://www.solidot.org/story?sid=61819",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯安全研究人员  Vasily Kravets 披露了 Steam 客户端的\u003ca href=\"https://amonitoring.ru/article/onemore_steam_eop_0day/\" target=\"_blank\"\u003e\u003cu\u003e一个 0day 漏洞细节\u003c/u\u003e\u003c/a\u003e，这是他两周内公开的\u003ca href=\"https://www.zdnet.com/article/researcher-publishes-second-steam-zero-day-after-getting-banned-on-valves-bug-bounty-program/\"\u003e\u003cu\u003e第二个 Steam 0day\u003c/u\u003e\u003c/a\u003e。他向 Valve 报告了第一个漏洞，试图让Valve 在披露前修复，但第二个 Steam 0day 他无法报告给 Valve，因为 HackerOne 平台的 bug 悬赏项目封杀了他。Valve 拒绝承认他递交的第一个 \u003ca href=\"https://amonitoring.ru/article/steamclient-0day/\"\u003e\u003cu\u003eSteam 0day\u003c/u\u003e\u003c/a\u003e 是安全问题因此拒绝修复，他试图将漏洞公开但  HackerOne 禁止他这么做，最终他披露了这个本地提权漏洞，得到了媒体广泛的报道，随后他就被封掉，而  Valve 最终释出了补丁，但其他安全研究人员发现这个补丁是不充分的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T11:23:48Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "帮助伊朗用户重新使用 Signal",
+  "Link": "https://www.solidot.org/story?sid=66866",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，伊朗\u003ca href=\"https://restofworld.org/2021/what-irans-signal-ban-means-for-its-social-media-future/\"\u003e\u003cu\u003e封杀了\u003c/u\u003e\u003c/a\u003e加密消息应用 Signal，开始屏蔽所有 Signal 流量。为了帮助伊朗用户重新使用 Signal，Signal 项目\u003ca href=\"https://signal.org/blog/help-iran-reconnect/\"\u003e\u003cu\u003e宣布了一个临时方案\u003c/u\u003e\u003c/a\u003e：为应用加入了 TLS 代理支持。代理很容易设置，能用于绕过网络屏蔽，安全的路由到 Signal 服务的流量。最新的 Signal Android beta 版本加入了新连接方法的支持，它将在未来几天推送给用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-05T08:54:42Z",
+  "Author": "WinterIsComing"
+}

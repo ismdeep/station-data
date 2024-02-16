@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数据经纪人正在出售骨干网数据访问权",
+  "Link": "https://www.solidot.org/story?sid=68703",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tISP 正在悄悄\u003ca href=\"https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru\" target=\"_blank\"\u003e\u003cu\u003e提供“网络流（netflow）”数据\u003c/u\u003e\u003c/a\u003e，这些信息能用于跟踪通过 VPN 的流量。网络安全领域一直有个公开的秘密：ISP 会悄悄将哪两台计算设备通信的详细信息泄露给私营企业，再由私营企业将数据的访问权出售给一系列第三方。根据多方消息人士的披露，这部分信息就是网络流数据，在数字调查人员手中能发挥重要作用。他们可以利用这些数据识别出黑客正在使用的服务器，或者在数据被盗时开展追踪。但批量出售这些数据仍然令人感到担忧，毕竟我们不知道其最终会落入谁手中。一位熟悉数据交易内幕的消息人士表示，“也许目前这种网络流数据商业交易，终将带来一条通往黑暗的道路。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-26T10:30:31Z",
+  "Author": "wanwan"
+}

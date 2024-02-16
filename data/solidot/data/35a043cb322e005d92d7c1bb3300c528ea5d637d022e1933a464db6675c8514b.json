@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ICANN 在上海安装 L 根镜像服务器",
+  "Link": "https://www.solidot.org/story?sid=61973",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tICANN \u003ca href=\"https://www.icann.org/news/announcement-2-2019-09-03-zh\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e其管理的 L 根服务器节点首次在中国上海成功安装。根服务器是指 DNS 根区的一个域名服务器，负责响应通常由 ISP 运营的 DNS 解析器所提出的 DNS 查询请求。当查询请求与某根区相关时，则相应的根服务器将会给出权威答复。每个根服务器都由位于不同地点的多组机器构成。这些机器则被称之为根节点。根节点使用流量路由技术 \u0026#34;anycast（任播）\u0026#34;，使得所有根服务器节点拥有两个相同的 IP 地址（即一个 IPv4 地址、一个 IPv6 地址），并提供相同的 DNS 内容，包括 TLD 域名服务器的相关信息。增加根节点的数量能改善 DNS 的整体容错率；增强系统应对某些类型的网络威胁如 DoS 攻击的适应能力；并能缩短本地互联网用户在进行 DNS 查询时的响应时间。\u003ca href=\"http://news.sciencenet.cn/htmlnews/2019/9/430192.shtm\"\u003e\u003cu\u003e官媒称\u003c/u\u003e\u003c/a\u003e，中国大陆目前有 12 个根镜像服务器，其中 9 个北京。但 root-servers.org 的地图\u003ca href=\"https://root-servers.org/\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e：北京有 5 个根镜像服务器，上海 1 个，杭州 2 个，香港 9 个，台北 6 个。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-05T03:30:07Z",
+  "Author": "wenfeixiang"
+}

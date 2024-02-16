@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Valve 在 CC 许可证下公开 Steam Deck 外壳 CAD 文件",
+  "Link": "https://www.solidot.org/story?sid=70636",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tValve 的 Linux 掌机 Steam Deck 即将在月底发售，届时玩家和用户都有权拆开或改造掌机，虽然这可能会导致保修失效(如果期间出现损坏的话)。为了贯彻这一开放精神，Valve \u003ca href=\"https://store.steampowered.com/news/app/1675180/view/3106923225208810470\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e在知识共享（Creative Commons）许可协议下公开 Steam Deck 外壳（曲面拓扑）的 CAD 文件，其中包括 STP 模型、STL 模型和供各位参考的图画（DWG）。\u003ca href=\"https://gitlab.steamos.cloud/SteamDeck/hardware\"\u003e\u003cu\u003e文件\u003c/u\u003e\u003c/a\u003e托管在 Gitlab 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-12T11:48:40Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "巴克莱银行把互联网档案馆作为 JS 文件的 CDN",
+  "Link": "https://www.solidot.org/story?sid=64865",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国金融集团巴克莱银行\u003ca href=\"https://www.theregister.com/2020/07/03/barclays_bank_javascript_wayback_machine/\" target=\"_blank\"\u003e\u003cu\u003e被发现会从互联网档案馆调用 JS 文件\u003c/u\u003e\u003c/a\u003e。调用的文件指向的是互联网档案馆时光机器存档的巴克莱银行网址（web.archive.org/web/20200601165625/https://www.barclays.co.uk/content/dam/javascript/dtm/target.js）。 这意味着如果互联网档案馆下线的话，巴克莱银行的网址也会出现问题。而如果该网址被劫持的话，访问巴克莱银行的用户可能会被注入恶意程序。互联网档案馆时光机器负责人 Mark Graham 表示，他们经常惊讶于人们以创造性的方式使用时光机器，但他们以前没见过银行利用它。在引发广泛关注之后，巴克莱银行修改了代码不再把互联网档案馆作为 CDN，但没有解释它之前为什么这么做。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-06T12:54:13Z",
+  "Author": "WinterIsComing"
+}

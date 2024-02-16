@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 20GB 内部文件泄露",
+  "Link": "https://www.solidot.org/story?sid=65176",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔\u003ca href=\"https://www.zdnet.com/article/intel-investigating-breach-after-20gb-of-internal-documents-leak-online/\"\u003e正在调查\u003c/a\u003e 20GB 内部文件被\u003ca href=\"https://mega.nz/folder/CV91XLBZ#CPSDW-8EWetV7hGhgGd8GQ\"\u003e\u003cu\u003e上传到 MEGA\u003c/u\u003e\u003c/a\u003e （仅供参考）的安全事故。泄露的部分文件被标记为“机密级”或“限制级”。瑞士软件工程师 Till Kottmann \u003ca href=\"https://twitter.com/deletescape/status/1291405688204402689\" target=\"_blank\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e这些文件是一位匿名黑客今年早些时候入侵英特尔获得到的。泄露的文件包括了 Git 代码库、开发工具等，部分密码加密的压缩文档使用了非常弱的密码，其中包括 Intel123 或 intel123。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-07T04:38:31Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GTK 4.0 发布",
+  "Link": "https://www.solidot.org/story?sid=66432",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNOME 桌面环境项目的核心图形工具包 GTK 项目释出了最新的大版本 \u003ca href=\"https://blog.gtk.org/2020/12/16/gtk-4-0/\"\u003e\u003cu\u003eGTK 4.0\u003c/u\u003e\u003c/a\u003e。开发者称，自 2016 年GTK  3.89.1 发布以来他们加入了超过 18000 commits，一篇文章是无法总结 4 年的工作。他们已经发表了 8 篇文章描述了新版本不同组件的变化。开发者称，GTK 4 已经稳定可以用于生产，但这并不意味着  GTK 3 死亡，在可预见的未来他们会继续支持和更新 GTK 3。另一方面，GTK 2 已经结束支持，他们鼓励基于 GTK 2 的应用移植到 GTK 3 或 GTK 4。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-21T07:50:03Z",
+  "Author": "WinterIsComing"
+}

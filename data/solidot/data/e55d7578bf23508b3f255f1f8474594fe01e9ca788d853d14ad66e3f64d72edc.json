@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LibreOffice 7.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65161",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLibreOffice 办公软件套件项目\u003ca href=\"https://blog.documentfoundation.org/blog/2020/08/05/announcement-of-libreoffice-7-0/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e最新的 v7.0 版本。对于引发社区关注的“企业版”计划，The Document Foundation 决定将其延期，不包含在该版本中。LibreOffice 7.0 的主要新特性包括：支持 ODF（OpenDocument Format）1.3；在 AMD 赞助下实现了 Skia 2D 图形引擎，以及基于 Vulkan GPU 的硬件加速；改进了对 DOCX、XLSX 和 PPTX 文件格式的兼容性，等等。其它组件的改动包括了 macOS 默认图标主题 Sukapura；简化导航使用，增加更多上下文菜单；新的非易失随机数生成函数；能生成大于 500 cm 的 PDF，等等。The Document Foundation 称，LibreOffice 7.0 中 74% 的 commits 来自于企业开发者，26% 来自个人开发者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-06T05:49:56Z",
+  "Author": "WinterIsComing"
+}

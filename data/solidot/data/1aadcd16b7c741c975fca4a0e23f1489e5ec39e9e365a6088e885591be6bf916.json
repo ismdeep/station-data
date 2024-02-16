@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "僵尸网络 Emotet 能通过相邻 Wi-Fi 网络传播",
+  "Link": "https://www.solidot.org/story?sid=63506",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEmotet 是最具危险性的恶意程序之一，它能窃取银行账号，安装不同类型的其它恶意程序。最近其运营者被发现开始采用新的方法进行传播：\u003ca href=\"https://arstechnica.com/information-technology/2020/02/one-of-the-most-destructive-botnets-can-now-spread-to-nearby-wi-fi-networks/\" target=\"_blank\"\u003e\u003cu\u003e通过相邻的 Wi-Fi 网络\u003c/u\u003e\u003c/a\u003e。它利用名为 wlanAPI 的 API 收集附近无线网络的 SSID、信号强度、加密方法如 WPA，然后使用一个常用用户名密码组合列表尝试登陆。如果成功登陆，被感染的设备会枚举所有连接到该网络的非隐藏设备，然后使用第二个密码列表去猜测连接设备的凭证。它还会尝试猜共享资源的管理员密码。如果它成功猜出连接设备的密码，那么它就会加载  Emotet 和其它恶意程序。弱密码用户最好修改密码使用强密码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-12T12:28:40Z",
+  "Author": "WinterIsComing"
+}

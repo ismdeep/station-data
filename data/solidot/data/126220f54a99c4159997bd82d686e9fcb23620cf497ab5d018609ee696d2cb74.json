@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "看不见的 JavaScript 后门",
+  "Link": "https://www.solidot.org/story?sid=69578",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本月初，剑桥大学的研究人员\u003ca href=\"https://www.solidot.org/story?sid=69447\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e在源代码中隐藏人眼看不见的漏洞的攻击方法 Trojan-Source，攻击利用的是 Unicode 中的双向机制。现在，安全研究人员披露了\u003ca href=\"https://certitude.consulting/blog/en/invisible-backdoor/\" target=\"_blank\"\u003e\u003cu\u003e在 JavaScript 中发动类似攻击的方法\u003c/u\u003e\u003c/a\u003e。在 JavaScript 中创造看不见的后门首先需要寻找能被 JS 解释为标识符/变量的不可见的 Unicode 字符，然后寻找使用不可见字符不被注意到的方法。这种方法无法通过语法高亮检测出来。攻击需要 IDE/文本编辑器能正确渲染不可见的字符。Notepad++ 和 VS Code 都能正确渲染。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-10T15:14:08Z",
+  "Author": "WinterIsComing"
+}

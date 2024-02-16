@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "荷兰黑客登陆特朗普的 Twitter 账号",
+  "Link": "https://www.solidot.org/story?sid=65897",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t荷兰安全研究员 Victor Gevers \u003ca href=\"https://www.volkskrant.nl/nieuws-achtergrond/dutch-ethical-hacker-logs-into-trump-s-twitter-account~badaa815/?referrer=https%3A%2F%2Fit.slashdot.org%2Fstory%2F20%2F10%2F22%2F1539209%2Fdutch-hacker-says-he-logged-into-president-trumps-twitter-account\" target=\"_blank\"\u003e\u003cu\u003e登陆了美国总统特朗普的 Twitter 账号\u003c/u\u003e\u003c/a\u003e，他提供了屏幕截图作为证据，安全专家表示他的说法是可信的。他向美国政府报告了漏洞，在荷兰的美国特勤局之后联络了他。据称特朗普的账号已经加强了安全。这不是荷兰黑客第一次登陆特朗普的 Twitter 账号，上一次是在 2016 年大选前。这次他尝试了多个密码组合，尝试到第五次就成功登陆了，特朗普使用的密码非常弱——“maga2020!”——此外不需要提供任何额外的二步认证信息，世界上最有权势的人、Twitter 最著名网红的账号就这么让人控制了。Gevers 尝试警告他人特朗普的账号不安全，他警告了特朗普竞选团队，特朗普家人、CIA、白宫、FBI，甚至 Twitter，但没有任何回应。第二天他发现二步认证启用了。两天后他收到了特勤局的邮件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-23T14:12:03Z",
+  "Author": "WinterIsComing"
+}

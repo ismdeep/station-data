@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rust 未来可用于开发 Linux 驱动",
+  "Link": "https://www.solidot.org/story?sid=61919",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRust 是 Mozilla 主导开发的专注于安全、速度和并发的系统级编程语言，已经逐渐走向成熟，那么程序员是否可以用它开发驱动程序？内核开发者就此询问了稳定版内核维护者 Greg Kroah-Hartman。Kroah-Hartman 表示愿意接受用 Rust 开发的内核驱动，\u003ca href=\"https://lwn.net/Articles/797828/\" target=\"_blank\"\u003e\u003cu\u003e但有两个条件\u003c/u\u003e\u003c/a\u003e。其一，没有默认启用，其他开发者不需要 Rust 去构建内核；其二，Rust 驱动需要展现出比 C 驱动具有优势，比如安全性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-30T12:47:32Z",
+  "Author": "wenfeixiang"
+}

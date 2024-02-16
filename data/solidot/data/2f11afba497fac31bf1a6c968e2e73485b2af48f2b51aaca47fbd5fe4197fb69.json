@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 发布 Android Q 最后一个 beta 版本",
+  "Link": "https://www.solidot.org/story?sid=61649",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAndroid 系统的下一个大版本距离正式推出已经不再遥远。Google \u003ca href=\"https://arstechnica.com/gadgets/2019/08/google-releases-the-6th-and-final-beta-for-android-q/\" target=\"_blank\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 Android Q 的最后一个\u003ca href=\"https://android-developers.googleblog.com/2019/08/final-beta-update-official-android-q.html?linkId=71691139\u0026amp;m=1\"\u003e\u003cu\u003e beta 版本\u003c/u\u003e\u003c/a\u003e。API 在 Beta 4 已经冻结了，之后的 Beta 5 和 Beta 6 主要是修 bug 和打磨。Android Q 的正式版本号是 Android 10，它的一个主要新特性是全手势导航。以前 OEM 可以实现自己的手势，但从 Android Q 起 Google 标准化了手势导航，作为 Android 兼容性的一部分，第三方设备将必须使用 Google 版本的手势导航，Google 不再允许厂商自己去实现不同的手势。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T07:49:29Z",
+  "Author": "wenfeixiang"
+}

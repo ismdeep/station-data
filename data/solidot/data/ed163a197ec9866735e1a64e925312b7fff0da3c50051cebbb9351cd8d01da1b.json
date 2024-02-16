@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果让 Curl 作者解决它的问题",
+  "Link": "https://www.solidot.org/story?sid=69681",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位 IT 工程师在 Twitter 上\u003ca href=\"https://twitter.com/AppleSupport/status/1461330383425970180\" target=\"_blank\"\u003e\u003cu\u003e联络\u003c/u\u003e\u003c/a\u003e苹果支持@AppleSupport，请求更新 macOS12 中与 Curl 有关的信息“If curl is built against Secure Transport, then the certificate string can either be the name or public key hash of a certificate/private key in the system or user keychain”，称内容已经失效。结果 @AppleSupport 让他\u003ca href=\"https://twitter.com/AppleSupport/status/1461330383425970180\"\u003e\u003cu\u003e联络 Curl\u003c/u\u003e\u003c/a\u003e。Curl 作者 Daniel Stenberg \u003ca href=\"https://daniel.haxx.se/blog/2021/11/18/free-apple-support/\"\u003e\u003cu\u003e回应说\u003c/u\u003e\u003c/a\u003e，“想象一下，你经营着一家市值万亿美元的公司，将各种开源组件捆绑到产品中，每年获利数十亿美元。当用户就你提供的产品寻求帮助时，你却把用户推给开源项目。这个项目是由志愿者管理的，你从未赞助过一分钱。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-19T07:24:03Z",
+  "Author": "WinterIsComing"
+}

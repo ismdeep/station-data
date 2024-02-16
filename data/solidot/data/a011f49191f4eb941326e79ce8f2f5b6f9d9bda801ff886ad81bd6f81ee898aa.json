@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 私信缓存与 Mozilla Firefox",
+  "Link": "https://www.solidot.org/story?sid=64030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t4 月 2 日，Twitter \u003ca href=\"https://privacy.twitter.com/en/blog/2020/data-cache-firefox\" target=\"_blank\"\u003e\u003cu\u003e官方博客称\u003c/u\u003e\u003c/a\u003e，Mozilla Firefox 储存缓存的方式可能导致用户的非公开信息储存在浏览器的缓存里，这意味着如果你用 Mozilla Firefox 在公用或共享计算机上访问 Twitter，采取行动如下载存档或发送接收私信，那么你登出之后这些信息可能会仍然储存在浏览器的缓存里。Twitter 称这个私信缓存问题只影响 Firefox 不影响 Safari 或 Chrome。那么这个问题是否应该怪罪于 Firefox？Mozilla 对此有不同看法，Mozilla 官方博客在 4 月 3 日回应\u003ca href=\"https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox/\"\u003e\u003cu\u003e指出是 Twitter 自己导致了这个问题\u003c/u\u003e\u003c/a\u003e。Mozilla 开发者指出，Twitter 的 Cache-Control 指令设置不正确。RFC 7234 定义了缓存工作机制，其中的关键是 Cache-Control 头文件，网站使用 Cache-Control 告诉浏览器哪些内容可安全储存在缓存里。缓存内容可加快内容访问，因此除非网站明确指出不允许浏览器会缓存大部分内容，这个机制叫 Heuristic caching（启发式缓存）。Firefox 的启发式缓存会缓存内容七天。Twitter 没有给私信的缓存加入 no-store 指令。这个问题之所以没有在其它浏览器上重现是因为当 Content-Disposition 出现的情况下这些浏览器会禁用启发式缓存。而在 Firefox 上，Content-Disposition 存在的情况下没有禁用启发式缓存。问题看起来是 Twitter 没有在  Firefox 上测试其网站的缓存行为。这其实是一种非常普遍的现象。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-04T10:59:06Z",
+  "Author": "WinterIsComing"
+}

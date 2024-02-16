@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "写时复制文件系统 Bcachefs 准备进入内核主线",
+  "Link": "https://www.solidot.org/story?sid=74937",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t写时复制文件系统 Bcachefs 项目的主要开发者 Kent Overstreet 正式递交了补丁集，他表示 Bcachefs 的特性“太多而列不出来”，而已知 bug 也是“太多而列不出来”。Overstreet 是在 2015 年首次宣布了 Bcachefs，它源自于名叫 bcache 的内核块层缓存，开发者希望能提供类似 XFS/EXT4 的性能以及类似 Btrfs 和 ZFS 的特性。目前 Bcachefs 的快照支持被认为已经稳定，纠删编码接近稳定，可扩展性过去一年有了显著改进。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Bcachefs-For-Review-Linux\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-11T11:44:27Z",
+  "Author": "Wilson"
+}

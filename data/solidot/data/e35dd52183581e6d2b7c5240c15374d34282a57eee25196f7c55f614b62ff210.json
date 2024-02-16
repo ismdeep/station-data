@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 将能在隔离模式下运行 Win32 应用",
+  "Link": "https://www.solidot.org/story?sid=75049",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Build 2023 开发者大会上，微软宣布 Windows 11 将能在隔离模式下运行 Win32 应用。软件巨人通过旗下的 GitHub 发布了 Win32 app isolation 的预览版本。顾名思义，Win32 app isolation 允许在一个隔离的环境中运行 Win32 应用，增强整个系统的安全性。如果该 Win32 应用已经被黑客入侵，那么在隔离环境中运行不会导致整个系统被渗透。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/microsoft/win32-app-isolation\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-25T03:30:48Z",
+  "Author": "Wilson"
+}

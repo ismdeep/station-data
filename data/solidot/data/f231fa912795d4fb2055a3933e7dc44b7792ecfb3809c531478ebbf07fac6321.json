@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔特定寄存器缓冲器数据采样 CPU 漏洞",
+  "Link": "https://www.solidot.org/story?sid=64639",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t新的 CPU 漏洞又来了，又是与预测执行机制有关，又是主要影响英特尔处理器。Linux 内核主线刚刚合并了\u003ca href=\"https://lwn.net/Articles/822596/\"\u003e\u003cu\u003e补丁或微码\u003c/u\u003e\u003c/a\u003e去缓解“特定寄存器缓冲器数据采样（\u003ca href=\"https://software.intel.com/security-software-guidance/insights/deep-dive-special-register-buffer-data-sampling\" target=\"_blank\" rel=\"noreferrer noopener\"\u003eSpecial Register Buffer Data Sampling\u003c/a\u003e或 SRBDS）”漏洞影响。Spectre、Meltdown 等预测执行攻击的补丁主要是应用于核心内部，新的漏洞允许攻击者跨核心泄露敏感信息。被称为 \u003ca href=\"https://www.vusec.net/projects/crosstalk/\"\u003e\u003cu\u003eCrossTalk\u003c/u\u003e\u003c/a\u003e 的攻击允许攻击者控制一个 CPU 核心的代码执行，去泄露不同核心上的软件执行敏感数据。Phoronix \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=RdRand-3-Percent\"\u003e\u003cu\u003e测试了\u003c/u\u003e\u003c/a\u003e微码对 RdRand 性能的影响，结果显示性能下跌达到了惊人的 97%，打了微码之后的 RdRand 得分只有原来的 3%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-11T14:27:28Z",
+  "Author": "WinterIsComing"
+}

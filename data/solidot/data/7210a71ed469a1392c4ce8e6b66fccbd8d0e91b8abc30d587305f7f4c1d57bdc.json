@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "243 年历史的欧拉难题有了量子解决方案",
+  "Link": "https://www.solidot.org/story?sid=70324",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1779 年瑞士数学家欧拉（Leonhard Euler）提出了一个后来闻名遐迩的难题：有六个军团，每个军团都有六名军衔不同的军官。是否可以将这 36 名军官排成一个6×6的方队，让方队每行每列中的军官所属的军团和军衔都各不相同。\n\u003cbr/\u003e\n\u003cbr/\u003e\n如果是五个军团和五种军衔，或者是七个军团和七种军衔，这个难题容易解决。在为 36 名军官的情况寻找解决方案无果之后，欧拉得出结论：“这种排列是不可能实现的，尽管无法给出严格的证明。”一个多世纪后，法国数学家 Gaston Tarry 证明，确实没有办法将欧拉的 36 名军官排列在一个 6×6 的方队中而不重复。1960 年，数学家使用计算机\u003ca href=\"https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/further-results-on-the-construction-of-mutually-orthogonal-latin-squares-and-the-falsity-of-eulers-conjecture/1152262BF046F8632638FE9C10610136\"\u003e\u003cu\u003e证明\u003c/u\u003e\u003c/a\u003e，只要军团和军衔数量是大于 2 的任何数字，解决方案就存在，但奇怪的是——6 除外。\n\u003cbr/\u003e\n\u003cbr/\u003e\n2000 多年来，类似的谜题一直吸引着人们。世界各地的文化中都有“幻方”，即让每行和每列上所有数字相加的和都相等的数字方阵，以及“拉丁方阵（Latin squares）”，即每个符号在每行和每列中都出现一次。这些方阵被用于艺术和城市规划，也被人们娱乐。一种流行的拉丁方阵——数独——要求子方格中也没有重复的符号。欧拉的 36 名军官的谜题要求一个“正交的拉丁方阵”，其中两种属性——军衔和所属军团要同时满足拉丁方阵的规则。\n\u003cbr/\u003e\n\u003cbr/\u003e\n尽管欧拉认为不存在这样的 6×6 方队，\u003ca href=\"https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/\"\u003e\u003cu\u003e但游戏最近有了改变\u003c/u\u003e\u003c/a\u003e。在网上发布并提交给《物理评论快报》的一篇\u003ca href=\"https://arxiv.org/abs/2104.05122\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，印度和波兰的一组量子物理学家证明，可以以符合欧拉标准的方式安排 36 名军官——只要这些军官拥有军衔和军团的量子混合。这是开发量子版本幻方和拉丁方阵工作的最新成果，这不仅是为了娱乐和游戏，还可以应用于量子通信和量子计算。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T10:22:24Z",
+  "Author": "wanwan"
+}

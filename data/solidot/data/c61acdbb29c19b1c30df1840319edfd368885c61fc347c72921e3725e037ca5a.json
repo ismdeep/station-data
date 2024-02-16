@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "和冠绘图板会收集用户应用的信息",
+  "Link": "https://www.solidot.org/story?sid=63456",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名和冠绘图板用户在新电脑上安装驱动时注意到它要求用户接受隐私政策。对大多数用户来说，用户协议之类的声明通常都是看也不看直接点击确定然后下一步，但软件工程师 Robert Heaton 决定例外一次，阅读下隐私政策的内容，他好奇为什么一个类似鼠标的外围设备会有隐私政策。隐私条款显示，和冠询问用户是否接受发送数据到 Google Analytics，它收集的数据包括了使用数据、会话信息和硬件设备信息。Robert Heaton 想知道和冠究竟向 Google Analytics 发送了什么信息，\u003ca href=\"https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/\"\u003e\u003cu\u003e他使用 Wireshark 抓取了发送到 Google Analytics 的流量进行分析\u003c/u\u003e\u003c/a\u003e，发现它会收集用户在设备上打开的每一个应用的名字。\u003ca href=\"https://yro.slashdot.org/comments.pl?sid=15724932\u0026amp;cid=59697784\"\u003e\u003cu\u003e有用户称\u003c/u\u003e\u003c/a\u003e，和冠向欧洲用户展示的隐私政策不同于美国用户，不包含数据收集条款，可能是因为欧洲的隐私保护政策更严格。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-07T11:32:10Z",
+  "Author": "WinterIsComing"
+}

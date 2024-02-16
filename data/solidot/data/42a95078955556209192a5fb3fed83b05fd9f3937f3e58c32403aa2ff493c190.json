@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华硕遭到勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=67264",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t计算机制造商华硕\u003ca href=\"https://www.bleepingcomputer.com/news/security/computer-giant-acer-hit-by-50-million-ransomware-attack/\" target=\"_blank\"\u003e\u003cu\u003e遭到了\u003c/u\u003e\u003c/a\u003e勒索软件 REvil 的攻击，攻击者开出了至今金额最高的赎金——5000 万美元。REvil 黑手党在其数据泄密网站上宣布它入侵了华硕公司，并公布了窃取文件的截图作为证据。华硕没有明确承认遭到了攻击，但表示已经通知了多个国家的执法机构和数据保护监管机构。据报道，在与 REvil 黑手党协商时，华硕代表被对方索取 5000 万美元赎金的要求感到震惊。攻击者还警告华硕，不要重复 SolarWind 的命运。攻击者可能利用了最近曝光的 Microsoft Exchange 漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-21T12:42:10Z",
+  "Author": "WinterIsComing"
+}

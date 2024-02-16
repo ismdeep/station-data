@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VED（Vault Exploit Defense）开源实现",
+  "Link": "https://www.solidot.org/story?sid=71856",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net\"\u003eHardenedVault\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003cspan style=\"color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, \u0026#34;Helvetica Neue\u0026#34;, \u0026#34;PingFang SC\u0026#34;, \u0026#34;Microsoft YaHei\u0026#34;, \u0026#34;Source Han Sans SC\u0026#34;, \u0026#34;Noto Sans CJK SC\u0026#34;, \u0026#34;WenQuanYi Micro Hei\u0026#34;, sans-serif; background-color: rgb(255, 255, 255);\"\u003e赛博堡垒之前的\u003ca href=\"https://hardenedvault.net/zh-cn/blog/2021-09-06-ved/\" target=\"_blank\"\u003e文章\u003c/a\u003e中介绍了Linux内核安全的现状和挑战以及云原生和车联网方案中第三方\u003ca href=\"https://hardenedvault.net/products/ved\" target=\"_blank\"\u003eLinux内核安全方案的场景\u003c/a\u003e。赛博堡垒致力于为运行(GNU)-Linux系统的平台和基础架构构建\u003ca href=\"https://hardenedvault.net/products/ved\" target=\"_blank\"\u003e全栈安全方案\u003c/a\u003e，在这个过程中我们从PaX/GRsecurity中学习了很多东西，从2010年开始我们持续研究了不同场景下的Linux内核漏洞利用的方法，有些案例是公开的而有些则是并未公开，到2021年赛博堡垒（HardenedVault）成立后我们开始着手研究如何能在部署简易度，性能开销，稳定性以及安全性之间达到平衡，这也是VED目标，这也让VED从一开始就是针对企业生产环境而设计和实现的，经历了多个生产环境的历练后我们开源一个\u003ca href=\"https://hardenedvault.net/blog/2022-06-16-ved-community-version/\" target=\"_blank\"\u003eVED的社区版\u003c/a\u003e。\u003c/span\u003e\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-16T15:14:28Z",
+  "Author": "matrix"
+}

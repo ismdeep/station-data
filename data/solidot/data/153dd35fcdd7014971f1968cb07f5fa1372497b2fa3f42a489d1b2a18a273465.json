@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSL 1.1.1 结束支持",
+  "Link": "https://www.solidot.org/story?sid=76054",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSL 1.1.1 系列结束支持，意味着未来将不再提供公开可用的安全修正。OpenSSL 1.1.1 是在 2018 年 9 月 11 日发布的，作为长期支持版本提供了五年的支持，2023 年 9 月 11 日结束寿命。操作系统供应商或第三方所提供的 OpenSSL 1.1.1 支持时间可能不同于 OpenSSL 项目本身。如果用户是从 OpenSSL 项目下载的 OpenSSL 1.1.1，那么是时候更新到较新版本。OpenSSL 的最新版本是 OpenSSL 3.1。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.openssl.org/blog/blog/2023/09/11/eol-111/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-12T05:37:09Z",
+  "Author": "Wilson"
+}

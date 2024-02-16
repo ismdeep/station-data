@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客组织窃取航空公司乘客信息",
+  "Link": "https://www.solidot.org/story?sid=66720",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNCC Group 及其子公司 Fox-IT 发表\u003ca href=\"https://blog.fox-it.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，被称为的 Chimera 的黑客组织以半导体公司和航空公司为攻击目标。攻击半导体公司主要是为了窃取知识产权，而攻击航空公司则是\u003ca href=\"https://www.zdnet.com/article/a-chinese-hacking-group-is-stealing-airline-passenger-details/\" target=\"_blank\"\u003e\u003cu\u003e为了获得乘客信息\u003c/u\u003e\u003c/a\u003e Passenger Name Records(PNR)。PNR 数据主要用于航班预订等服务。窃取后的数据被上传到公有云储存服务如 OneDrive、Dropbox 或 Google Drive。黑客认为上传到这些服务的流量不会被检查或屏蔽。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-21T06:56:58Z",
+  "Author": "WinterIsComing"
+}

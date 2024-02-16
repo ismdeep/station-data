@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RISC-V 开源硬件的兴起",
+  "Link": "https://www.solidot.org/story?sid=63740",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRISC-V 基金会执行董事 Calista Redmond 接受 InsideHPC 采访\u003ca href=\"https://thenewstack.io/open-source-hardware-the-rise-of-risc-v/\" target=\"_blank\"\u003e\u003cu\u003e谈论了这一开源指令集架构的现状\u003c/u\u003e\u003c/a\u003e。她称 RISC-V 吸引了越来越多的信徒，其生态系统正以前所未有的速度快速扩张。已经启动的 RISC-V 项目从可穿戴健康监视器到扩展云数据中心的芯片。Semico Research 估计到 2025 年会有 624 亿个 RISC-V CPU 核心。RISC-V 的一个用例是自主驾驶汽车，自主驾驶汽车需要低功耗但高性能的处理器去实时处理数据。她指出亚马逊、Google 和阿里巴巴都在设计自己的芯片，而西部数据和英伟达已在其产品中包含了 RISC-V 微控制器。基金会在 2019 年举办了 20 场地区活动。在中国，基金会有 30 位成员，有超过 200 人参与了当地的协会。印度政府支持的一个项目将创造 6 个不同的 RISC-V 处理器。甚至巴基斯坦对  RISC-V 也非常热心，有 3000 人出席了两次当地活动。她相信 RISC-V 有机会对芯片行业产生破坏性冲击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-07T13:07:18Z",
+  "Author": "WinterIsComing"
+}

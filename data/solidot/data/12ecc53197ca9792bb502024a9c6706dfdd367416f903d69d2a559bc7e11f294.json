@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 3.11 发布",
+  "Link": "https://www.solidot.org/story?sid=73158",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 语言发布了\u003ca href=\"https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291\"\u003e\u003cu\u003e 3.11 版本\u003c/u\u003e\u003c/a\u003e，新版本的一个主要特色是性能显著提升。主要特性包括：Python Traceback 细粒度错误位置，异常组和 except*，标准库支持解析 TOML，Async IO 支持任务组，Faster CPython 项目成果显著—— Python 3.11 的速度比 Python 3.10 快 10-60%，基准测试平均是上一个版本的 1.22 倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-25T05:40:53Z",
+  "Author": "WinterIsComing"
+}

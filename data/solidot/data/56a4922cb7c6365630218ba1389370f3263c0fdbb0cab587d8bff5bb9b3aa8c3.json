@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯如何不小心屏蔽了自家网站",
+  "Link": "https://www.solidot.org/story?sid=67191",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯以未满足删除内容要求为由\u003ca href=\"https://www.solidot.org/story?sid=67167\" target=\"_blank\"\u003e\u003cu\u003e宣布限流\u003c/u\u003e\u003c/a\u003e Twitter，但在执行过程中它把自己的政府网站也屏蔽了。专家称，一个原因可能是俄罗斯政府试图屏蔽 Twitter 的缩址服务 t.co，但却不小心把所有域名中包含 t.co 的网站都屏蔽了，其中包括 Reddit.com 和 Microsoft.com。对网络流量的检测显示，俄罗斯国有电信公司 Rostelecom 在执行规定之后流量下降了 24%。但其它不包含 t.co 的域名也受到了影响，如克里姆林宫网站 kremlin.ru 和俄罗斯政府网站 government.ru。专家认为，导致网络问题的行动不只一次。俄罗斯使用深度包检测设备去拦截流量，使用正则表达式去屏蔽域名，\u003ca href=\"https://restofworld.org/2021/how-the-russian-government-accidentally-blocked-access-to-its-own-websites/\" target=\"_blank\"\u003e\u003cu\u003e这次的问题显然是正则表达式出错导致的\u003c/u\u003e\u003c/a\u003e，这在 IT 行业是很常见的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-13T12:20:23Z",
+  "Author": "WinterIsComing"
+}

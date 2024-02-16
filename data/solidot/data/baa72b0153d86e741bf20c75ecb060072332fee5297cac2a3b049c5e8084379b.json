@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Heroku 披露黑客入侵细节",
+  "Link": "https://www.solidot.org/story?sid=71434",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSalesforce 旗下的 PaaS 服务 Heroku \u003ca href=\"https://status.heroku.com/incidents/2413?updated\"\u003e\u003cu\u003e披露了上个月遭到黑客入侵的细节\u003c/u\u003e\u003c/a\u003e。入侵发生在 4 月 7 日，攻击者访问了 Heroku 的一个数据库，下载了储存的客户 GitHub 集成 OAuth 令牌。4 月 8 日攻击者开始利用下载的 OAuth 令牌枚举客户软件库相关的元数据。4 月 9 日攻击者下载了 Heroku 的私有库子集，其中含有部分 Heroku 源代码。GitHub 在 4 月 12 日发现了攻击者的活动，次日通知了 Salesforce。4 月 16 日，Heroku 撤销了所有 GitHub 集成 OAuth 令牌。之后的调查还发现相同的令牌被用于窃取客户账号的哈希和加盐密码。Heroku 所有客户的密码随后被重置，并轮换了内部凭证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-05T14:35:18Z",
+  "Author": "WinterIsComing"
+}

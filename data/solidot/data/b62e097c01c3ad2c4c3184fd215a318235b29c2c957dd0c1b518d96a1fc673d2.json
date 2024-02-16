@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在 Linus Torvalds 建议之后内核淘汰 80 个字符长度限制",
+  "Link": "https://www.solidot.org/story?sid=64535",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 内核\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-Kernel-Deprecates-80-Col\" target=\"_blank\"\u003e\u003cu\u003e不再严格要求每行代码不超过 80 字符宽的编码风格\u003c/u\u003e\u003c/a\u003e。Linux 内核和很多历史比较长的开源项目一样，都有编码风格指南，要求每行代码不超过 80 字符（或 80 列）。Linux 作者 Linus Torvalds 上周\u003ca href=\"https://lkml.org/lkml/2020/5/29/1038\" target=\"_blank\"\u003e\u003cu\u003e在内核邮件列表上发表评论\u003c/u\u003e\u003c/a\u003e，反对一行代码在超过 80 字符后强行换行，认为这太丑陋了。而现在大多数人也不再使用 80x25（85 列 25 行）的终端了。淘汰这一要求将需要更新内核编码风格指南文档，更新脚本 checkpatch.pl，不再将每行代码最大长度默认设为 80 而是 100。Torvalds 认为更长的代码是有用的，比如 grep 这样的单行工具。当然开发者仍然可坚持每行最长 80 个字符，checkpatch.pl 不再将其设为硬限制，100 个字符长其实也不是什么硬限制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-01T13:57:28Z",
+  "Author": "WinterIsComing"
+}

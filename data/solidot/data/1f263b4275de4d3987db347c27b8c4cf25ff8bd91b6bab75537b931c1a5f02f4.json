@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "20 年历史的芯片组补丁影响现代 AMD Linux 系统",
+  "Link": "https://www.solidot.org/story?sid=72885",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 工程师  K Prateek Nayak \u003ca href=\"https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e内核中一个有 20 年历史的芯片组补丁仍然被应用于现代 AMD 系统，在特定工作负荷下会影响  Zen 架构处理器如 Ryzen / Threadripper / EPYC 的性能。他递交了补丁去修复该问题。旧代码与 ACPI 处理器空闲代码有关，旨在修复使用 VIA 芯片组的 AMD Athlon 处理器的问题。它不影响英特尔处理器，原因是新英特尔处理器改用了基于 MWAIT intel_idle 代码路径。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-26T15:18:59Z",
+  "Author": "WinterIsComing"
+}

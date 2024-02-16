@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 的 AI 图像生成器用了 11 亿 Instagram 和 Facebook 照片训练",
+  "Link": "https://www.solidot.org/story?sid=76830",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 发布了一个免费的文本图像生成网站 Imagine with Meta AI(需要登陆)。它的图像生成器是基于其 Emu 图像合成模型，用了 11 亿 Instagram 和 Facebook 上公开可见的照片训练。你的 Facebook 或 Instagram 的公开照片很可能被用于训练 Emu 了，不想被训练的话可以将自己的照片设为私有。Instagram 上每天上传的照片数以亿计，Meta 只使用了很小一部分去训练其模型。在 Imagine with Meta AI 上输入提示词，它会返回四张 1280×1280 像素的图像，可以以 JPEG 格式下载保存，图像左下方会打上水印 Imagined with AI。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/\n\u003cbr/\u003e\nhttps://imagine.meta.com/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-07T10:34:11Z",
+  "Author": "Wilson"
+}

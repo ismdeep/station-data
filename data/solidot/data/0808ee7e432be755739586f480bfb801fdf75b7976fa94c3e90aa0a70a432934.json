@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.5 发布",
+  "Link": "https://www.solidot.org/story?sid=63366",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds \u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wigRZ6TSJU09bMk3Df2DiOw83B7TrQUq+iXroQCK5EVAQ@mail.gmail.com/T/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e发布 Linux 5.5。主要新特性包括：Btrfs RAID1 支持 3 和 4 个拷贝，支持新的校验和；内核单元测试框架\u003ca href=\"https://lwn.net/Articles/780985/\"\u003e\u003cu\u003e KUnit\u003c/u\u003e\u003c/a\u003e；\u003ca href=\"https://lwn.net/Articles/705884/\"\u003e\u003cu\u003e Airtime Queue Limits\u003c/u\u003e\u003c/a\u003e 改进 WiFi 连接质量；CIFS 可作为 root 文件系统使用；BPF 支持\u003ca href=\"https://lwn.net/Articles/803258/Type%20checking%20for%20BPF%20tracing\" target=\"_blank\"\u003e\u003cu\u003e类型检查和 BPF Trampoline\u003c/u\u003e\u003c/a\u003e；AMD OverDrive 超频支持 Navi GPU；iopl()模拟；io_uring 新命令；live-patch 状态跟踪；新的 CPU 负载平衡算法，等等。更多可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.5\"\u003e\u003cu\u003eKernel Newbies changelog\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-28T13:20:27Z",
+  "Author": "WinterIsComing"
+}

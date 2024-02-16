@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "无人机机群在森林中自主导航",
+  "Link": "https://www.solidot.org/story?sid=71452",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t浙江大学的研究人员\u003ca href=\"https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/\"\u003e\u003cu\u003e演示了\u003c/u\u003e\u003c/a\u003e无人机机群在从未到过的茂密森林中飞行。10 架无人机组成的机群足够智能，可在陌生的茂密森林中自主飞行；这些无人机又足够小巧，每一架都可以放在手掌上。这项突破是朝着使用无人机群进行航空测量和灾难响应等工作迈进的一大步。在现有的超紧凑型无人机设计的基础上，研究团队为机群构建了一个轨迹规划器，它完全依赖于来自机群机载传感器的数据，无人机在本地处理这些数据然后彼此共享。这些无人机可以平衡或者被引导实现不同的目标，例如与障碍物之间或者在彼此之间保持一定距离，或者最小化两点之间的总飞行时间等。令人担忧的是，这些无人机还可以被赋予“跟着这个人”之类的任务。我们都看过很多电影，知道这就是开始。当然，它在救援或者战斗环境中也很有用。它们在飞行过程中也会绘制周围世界的地图。\u003ca href=\"http://www.science.org/doi/10.1126/scirobotics.abm5954\" target=\"_blank\"\u003e\u003cu\u003e这项研究\u003c/u\u003e\u003c/a\u003e发表在最新一期的《科学机器人》期刊上，论文提供了几个展示无人机行动的视频。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-07T07:49:43Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Clubhouse 使用了中国声网的技术",
+  "Link": "https://www.solidot.org/story?sid=66929",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国语音社交聊天应用 Clubhouse 最近在中国非常火爆，但随后它就在中国遭到屏蔽。斯坦福互联网观测台（SIO）的研究\u003ca href=\"https://cyber.fsi.stanford.edu/io/news/clubhouse-china\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，Clubhouse 的后端基础设施是由中国公司声网提供的。研究还发现用户的 ID 和聊天室 ID 都是明文传输的，而声网被认为能访问到用户的原始音频数据。中国公司能访问，那么很有可能中国政府也能访问。SIO 观察到部分聊天室元数据被中继到了位于中国的服务器。SIO 认为 Clubhouse 的用户面临严重的安全风险。Clubhouse 随后发表声明表示将会推送更新阻止将信息传输到中国服务器，将加强数据安全保护，雇佣外部安全公司进行安全审计。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-14T13:29:57Z",
+  "Author": "WinterIsComing"
+}

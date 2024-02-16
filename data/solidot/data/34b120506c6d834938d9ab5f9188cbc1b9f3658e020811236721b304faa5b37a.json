@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ars 尝试华为的鸿蒙操作系统",
+  "Link": "https://www.solidot.org/story?sid=66847",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国最大智能手机制造商华为在遭到美国的出口禁令之后宣布了自己的操作系统鸿蒙，去年 12 月释出了 V2 版本。华为消费者业务 CEO 余承东曾宣称鸿蒙是与 Android 和 iOS 完全不同的操作系统。华为消费者业务软件部总裁王成录上个月再次表示，鸿蒙不是 Android 或 iOS 的拷贝。美国科技网站\nArs \u003ca href=\"https://arstechnica.com/gadgets/2021/02/harmonyos-hands-on-huaweis-android-killer-is-just-android/\"\u003e\u003cu\u003e对华为鸿蒙进行了一番测试\u003c/u\u003e\u003c/a\u003e，记者首先试着下载 Harmony SDK，结果迎面一击：他被告知需要接受两天的背景检查，要求注册账号通过身份验证，包括递交名字、地址、电邮、电话号码和护照照片。即使你试图绕过注册流程，下载“盗版”版本，SDK 也需要你登陆账号之后才会运行。出于研究的目的，记者放弃了“保护”自己的身份信息，下载了 SDK，开始进行测试。他发现模拟手机使用的是中国 SIM 卡，进入的网络叫“华为内网”。进一步研究发现，Harmony 的应用页面基本上全是类似 Android Services Library、Android Shared Librar 之类的，以及指示  Android 10 的信息。作者认为现阶段的 Harmony 本质上就是换了皮肤的 Android，华为甚至连 Android 的名字都没有替换掉。作者还阅读了 Harmony 的文档，认为这些文档都是胡扯没有多少意义。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-03T13:34:56Z",
+  "Author": "WinterIsComing"
+}

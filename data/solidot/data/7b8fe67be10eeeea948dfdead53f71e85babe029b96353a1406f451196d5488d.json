@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 采用 12 个月的发布周期",
+  "Link": "https://www.solidot.org/story?sid=62462",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在深入讨论之后，Python 语言项目正式\u003ca href=\"https://lwn.net/Articles/803679/\"\u003e\u003cu\u003e宣布采用\u003c/u\u003e\u003c/a\u003e 12 个月的发布周期。此前 Python 语言的发布周期是每一年半时间发布一个大更新版本。Python 指导委员会成员 Brett Cannon 宣布代表委员会接受新发布周期的 \u003ca href=\"https://www.python.org/dev/peps/pep-0602/\" target=\"_blank\"\u003ePEP 602\u003c/a\u003e 的提案。PEP 602 的作者是 Python 3.8 和 3.9 的发布经理 Łukasz Langa，Python 3.8 已经释出，新的发布周期将从 Python 3.9 开始采用。采用一年发布一个大版本旨在让整个开发发布流程更具有可预测性。每个版本将获得一年的完整支持和四年的安全更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-02T10:10:29Z",
+  "Author": "ai"
+}

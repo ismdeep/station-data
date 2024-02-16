@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三星修补指纹识别漏洞，建议用户删除旧指纹",
+  "Link": "https://www.solidot.org/story?sid=62354",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t三星开始向 Galaxy S10 和 Note10 智能手机\u003ca href=\"https://arstechnica.com/gadgets/2019/10/samsung-patches-fingerprint-vulnerability-in-the-galaxy-s10-note10/#p3\"\u003e\u003cu\u003e释出补丁\u003c/u\u003e\u003c/a\u003e，修补指纹阅读器漏洞。它的指纹阅读器被发现在覆盖硅树脂保护壳之后任何人的指纹都能解锁手机，问题与超声波指纹传感器识别指纹在保护壳上留下的三维纹理有关。三星建议用户移除保护壳，删除旧的指纹，重新注册指纹。但三星的补丁是否真正修复问题目前还不清楚。还需要等待用户打上补丁测试之后才知道结果。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-24T07:53:32Z",
+  "Author": "wenfeixiang"
+}

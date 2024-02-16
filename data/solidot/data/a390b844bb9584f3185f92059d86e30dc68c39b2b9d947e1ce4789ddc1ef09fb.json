@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LLVM 编辑器套件释出 v16.0.0",
+  "Link": "https://www.solidot.org/story?sid=74433",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLLVM 编辑器套件释出了 v16.0.0，主要新变化包括：默认用 C++17 构建，工具链的软要求现在变成硬要求——构建需要 GCC 版本\u0026gt;= 7.1，Clang \u0026gt;= 5.0，Apple Clang \u0026gt;= 10.0，Visual Studio 2019 \u0026gt;= 16.7，CMake \u0026gt;= 3.20.0；Clang 默认的 C++/ObjC++ 标准是 gnu++17 而不是 gnu++14，等等，更多可浏览详细的发布公告。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://discourse.llvm.org/t/llvm-16-0-0-release/69326\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-20T05:35:52Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "调查 Go 生态系统中的供应链攻击",
+  "Link": "https://www.solidot.org/story?sid=67135",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t依赖混淆供应链攻击最近引发了很多关注，在 Go 生态系统中，依赖混淆问题基本上不存在，原因是它明确指定了要导入的包。但 Go 并不能免于供应链攻击，因为你在导入外部的软件包时可能会犯下输入错误的问题，而如果攻击者利用这种输入错误，那么你仍然可能会不小心在软件中整合了恶意的包。有开发者调查了 Go 生态系统中的这种\u003ca href=\"https://michenriksen.com/blog/finding-evil-go-packages/\" target=\"_blank\"\u003e\u003cu\u003e错误输入供应链攻击\u003c/u\u003e\u003c/a\u003e，发现了多个流行库的名字相似的可疑软件包。\u003ca href=\"https://it.slashdot.org/story/21/03/06/2123250/how-a-malicious-actor-targeted-a-go-package-on-github\"\u003e\u003cu\u003e其中之一\u003c/u\u003e\u003c/a\u003e会访问属于腾讯的 IP 地址，将收集到的系统信息作为 URL 参数以 HTTP 形式发送过去。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-08T05:06:29Z",
+  "Author": "WinterIsComing"
+}

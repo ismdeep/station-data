@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度开源了它的接触者跟踪应用",
+  "Link": "https://www.solidot.org/story?sid=64489",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t印度政府在 Apache v2 许可证下\u003ca href=\"https://techcrunch.com/2020/05/26/aarogya-setu-india-source-code-release/\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e它的接触者跟踪应用 \u003ca href=\"https://github.com/nic-delhi/AarogyaSetu_Android\"\u003e\u003cu\u003eAarogya Setu\u003c/u\u003e\u003c/a\u003e，源代码托管在 GitHub 上。印度政府是在四月初发布了 Aarogya Setu，不到两个月时间其安装量超过了 1.14 亿。印度政府首先公开的是 Android 版本的源代码，iOS 和 KaiOS（基于 Firefox OS）版本的源代码将在未来几周内释出。印度电子和信息技术部部长 Ajay Prakash Sawhney 表示公开源代码允许其他人检查和寻找漏洞，政府将提供最高 1,325 美元的奖金奖励给发现和报告漏洞的人。其它国家也在 GitHub 上释出了官方接触者跟踪应用的源代码，\u003ca href=\"https://github.com/AU-COVIDSafe\"\u003e\u003cu\u003e如澳大利亚\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-27T14:49:26Z",
+  "Author": "WinterIsComing"
+}

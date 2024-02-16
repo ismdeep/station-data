@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 表示将默认减少浏览历史和位置记录的保存时间",
+  "Link": "https://www.solidot.org/story?sid=64771",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle CEO Sundar Pichai 在官方博客上\u003ca href=\"https://www.blog.google/technology/safety-security/keeping-private-information-private/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，将默认减少用户 Google 帐号的浏览历史和位置记录等数据的保存时间。以前是一直保留直到用户选择删除，现在则是新账号默认在 18 个月后自动删除，用户可选择在 3 个月后自动删除，也可以选择不自动删除。现有账号将不会自动改变设置，Google 表示将会不断提醒现有用户新的自动删除选项。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-25T14:20:34Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 79.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65082",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 Firefox 79.0。新版本的变化不多，\u003ca href=\"https://www.mozilla.org/en-US/firefox/79.0/releasenotes/\"\u003e\u003cu\u003e主要包括\u003c/u\u003e\u003c/a\u003e：对更多 Windows 平台的英特尔和 AMD GPU 用户启用 WebRender，改进图形性能（WebRender 是用 Rust 语言开发的基于 GPU 的实验性 Web 内容渲染器）；多个安全修正，修复了使用屏幕阅读器导致的崩溃问题，改进了屏幕阅读器用户的可访问性；在控制台和调试器中显示 JavaScript 错误；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-29T06:16:14Z",
+  "Author": "WinterIsComing"
+}

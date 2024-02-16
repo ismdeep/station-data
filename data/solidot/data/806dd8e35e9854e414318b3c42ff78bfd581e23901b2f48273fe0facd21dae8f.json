@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.6 释出",
+  "Link": "https://www.solidot.org/story?sid=76482",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上宣布释出 Linux 6.6。主要新特性包括：新任务调度器 EEVDF（代表 Earliest Eligible Virtual Deadline First），支持英特尔的防止堆栈缓冲区溢出的安全机制 Shadow Stack，tmpfs 文件系统配额支持和用户扩展属性，显著改进 io_uring 的异步 Direct I/O 性能，fchmodat2() 系统调用，初步支持无缓冲头支持构建内核，kmalloc() 随机性，等等。更多可浏览 KernelNewbies 6.6。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lore.kernel.org/lkml/CAHk-=wiZuU984NWVgP4snp8sEt4Ux5Mp_pxAN5MNV9VpcGUo+A@mail.gmail.com/T/#u\u003cbr/\u003e\nhttps://kernelnewbies.org/Linux_6.6\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-30T14:38:26Z",
+  "Author": "Wilson"
+}

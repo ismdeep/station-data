@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "密苏里州州长仍然想要起诉查看网页源代码的记者",
+  "Link": "https://www.solidot.org/story?sid=70205",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年早些时候《圣路易斯邮报》记者 Josh Renaud 从一个可公开访问网站的网页源代码中识别了一个安全漏洞，会暴露学校教职工的未加密社会保障号码。记者和报纸以专业的方式向州政府报告了这一漏洞，在漏洞修复之后才予以披露。然而密苏里州的共和党州长 Mike Parson 宣称记者是黑客，而相关报道是“政治宿仇”，是“旨在让州政府难堪为报纸增加流量”，威胁起诉记者和寻求民事赔偿。根据信息公开请求获得的\u003ca href=\"https://arstechnica.com/tech-policy/2021/12/missouri-planned-to-thank-security-journalist-before-governor-called-him-a-hacker/\"\u003e\u003cu\u003e内部邮件\u003c/u\u003e\u003c/a\u003e显示在州长发表这一引发争议的声明前政府实际上是想要对记者表达谢意，而 FBI 也指出查看网页的源代码并非是黑客行为并未违法。\n但时至今日，密苏里州州长\u003ca href=\"https://yro.slashdot.org/story/21/12/30/1930230/gov-parson-says-he-believes-prosecutor-will-bring-charges-against-reporter-for-using-view-source\" target=\"_blank\"\u003e\u003cu\u003e仍然想要起诉记者\u003c/u\u003e\u003c/a\u003e。他打了一个完全不恰当的比喻：如果有人撬开了房子的锁——无论出于什么原因，比如锁的质量比较差，是廉价的锁或其它任何问题——他们没有权利进入你的房子，拿走属于你的任何东西。查看网页源代码最多是有人看了你家的门锁，认为质量不行并告诉了你，根本没进入你的家或拿走任何东西。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-31T05:42:11Z",
+  "Author": "WinterIsComing"
+}

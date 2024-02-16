@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "openSUSE Leap 15.2 发布",
+  "Link": "https://www.solidot.org/story?sid=64842",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\topenSUSE 项目释出了 \u003ca href=\"https://zh-tw.opensuse.org/Release_announcement_15.2\"\u003e\u003cu\u003eopenSUSE Leap 15.2\u003c/u\u003e\u003c/a\u003e，新版最引人注目的是整合了 AI 和机器学习库，其中包括 Tensorflow、PyTorch、ONNX、Grafana 和 Prometheus。openSUSE Leap 15.2 还加入了实时核心去管理微处理器的时序。软件方面的\u003ca href=\"https://en.opensuse.org/Portal:15.2/Features\"\u003e\u003cu\u003e更新\u003c/u\u003e\u003c/a\u003e包括：Plasma 5.18 LTS，GNOME 3.34，Xfce 4.14，Wayland 合成器 Sway，Go，Rust，Haskell，C++，Ruby on Rails，Java，Python，Perl 等语言。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T08:16:22Z",
+  "Author": "WinterIsComing"
+}

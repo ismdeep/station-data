@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开源 MSVC 的 C++ 标准库",
+  "Link": "https://www.solidot.org/story?sid=62100",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源它实现的 C++ 标准库（STL），\u003ca href=\"https://github.com/microsoft/STL\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 Apache License v2.0 with LLVM Exceptions 许可证。微软称，它选择这个许可证是方便 libc++ 项目与 MSVC 的 STL 共享代码，不过目前两个项目没有合并，仍然是支持不同平台的不同库，有着不同的数据结构表示。但如果 libc++ 的维护者有兴趣移植 MSVC 的 STL 实现的特性，或协作同时开发新的特性，那么两个项目之间的合作无需考虑许可证问题。微软表示它暂时没有计划开源 MSVC 工具集的其它部分。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-17T05:10:58Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 搜索返回的 PHP 教程一半含有 SQL 注入漏洞",
+  "Link": "https://www.solidot.org/story?sid=68375",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Google 上搜索 PHP 编程问题，返回的结果包含了教程、技巧和代码片段，但绝大部分结果含有有缺陷的数据库声明，30 个结果中有 16 个\u003ca href=\"https://waritschlager.de/sqlinjections-in-google-results.html\" target=\"_blank\"\u003e\u003cu\u003e含有 SQL 注入漏洞\u003c/u\u003e\u003c/a\u003e。如果搜索者将这些代码包含在其编写的程序中，那么最后产生的程序将是不安全的。\u003ca href=\"https://news.ycombinator.com/item?id=27952135\"\u003e\u003cu\u003e类似的安全问题\u003c/u\u003e\u003c/a\u003e已经存在多年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-26T05:11:38Z",
+  "Author": "WinterIsComing"
+}

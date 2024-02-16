@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 修复在 Pwn2Own 上利用的 Firefox 和 Thunderbird 0day",
+  "Link": "https://www.solidot.org/story?sid=71636",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了紧急更新，\u003ca href=\"https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-thunderbird-zero-days-exploited-at-pwn2own/\"\u003e\u003cu\u003e修复了\u003c/u\u003e\u003c/a\u003e在 Pwn2Own 2022 黑客挑战赛上安全研究人员利用的 Firefox 和 Thunderbird 0day。Firefox 100.0.2、Firefox ESR 91.9.1、Firefox for Android 100.3 和 Thunderbird 91.9.1 修复了两个高危漏洞。安全研究员 Manfred Paul 在 Pwn2Own 上演示了漏洞利用赢得了 10 万美元奖金。第一个漏洞是 Top-Level Await 实现的原型污染（prototype pollution），第二个漏洞允许攻击者在原型污染注入攻击中滥用 Java 对象索引不正确输入验证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-25T15:54:09Z",
+  "Author": "WinterIsComing"
+}

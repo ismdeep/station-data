@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "macOS 12.3 移除对 Python 2.7 的支持",
+  "Link": "https://www.solidot.org/story?sid=70544",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果释出了 macOS Monterey 12.3 Beta，\u003ca href=\"https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python\"\u003e\u003cu\u003e一个主要变化\u003c/u\u003e\u003c/a\u003e是不再捆绑 Python 2.7。苹果建议开发者使用 Python 3 或替代语言。Python 语言项目是在 2020 年 1 月 1 日停止支持 Python 2 分支，接替 Python 2 的 Python 3 早在 2008 年就已经发布，但由于它不向后兼容，导致许多用户仍然停留在 Python 2 分支。macOS 没有预装 Python 3，开发者可选择安装捆绑 Python 3 的 Xcode 开发工具。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-29T05:12:29Z",
+  "Author": "WinterIsComing"
+}

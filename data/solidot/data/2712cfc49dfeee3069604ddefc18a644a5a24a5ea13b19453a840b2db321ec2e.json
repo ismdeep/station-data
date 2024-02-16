@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PyTorch 遭遇依赖混淆攻击，相关人士表示是研究项目出差错了",
+  "Link": "https://www.solidot.org/story?sid=73811",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 12 月 25 日-30 日之间下载 PyTorch 框架的隔夜构建版本的用户会安装恶意版本的 torchtriton 依赖，窃取系统数据。PyTorch 项目建议用户卸载旧版本安装最新的隔夜构建版本。使用 PyTorch 稳定版本的用户不受影响。一位自称对此事负责的人士表示，恶意版本的 torchtriton 是一个研究项目的一部分，但不小心出差错了。他们对此表示道歉，称窃取的数据已经全部删除。这是最新一起的依赖混淆攻击。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/01/04/pypi_pytorch_dependency_attack/?td=rt-3a\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-05T07:39:39Z",
+  "Author": "Wilson"
+}

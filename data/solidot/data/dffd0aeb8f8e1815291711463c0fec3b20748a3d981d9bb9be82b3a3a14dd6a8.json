@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitLab 高危漏洞允许攻击者控制用户账号",
+  "Link": "https://www.solidot.org/story?sid=71140",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitLab \u003ca href=\"https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/\" target=\"_blank\"\u003e\u003cu\u003e修复了一个高危漏洞\u003c/u\u003e\u003c/a\u003e，该漏洞影响 GitLab Community Edition (CE) 和  Enterprise Edition (EE)，允许远程攻击者使用硬编码密码控制用户账号。硬编码密码 123qweQWE!@#000000000 是意外加入到代码中，GitLab 督促用户立即升级到最新的 14.9.2、14.8.5 或 14.7.7 版本以防止潜在的攻击。它还重置了部分用户的密码，表示尚未发现有证据显示攻击者利用该漏洞控制用户账号，此举旨在防患未然。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-02T06:29:36Z",
+  "Author": "WinterIsComing"
+}

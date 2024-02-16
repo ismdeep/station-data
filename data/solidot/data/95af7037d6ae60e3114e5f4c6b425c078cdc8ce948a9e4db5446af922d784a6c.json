@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Colab 服务禁止深度伪造训练项目",
+  "Link": "https://www.solidot.org/story?sid=71691",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Colaboratory (Colab) 服务\u003ca href=\"https://www.bleepingcomputer.com/news/technology/google-quietly-bans-deepfake-training-projects-on-colab/\"\u003e\u003cu\u003e悄悄禁止了\u003c/u\u003e\u003c/a\u003e深度伪造训练项目。Colab 允许研究人员直接在浏览器上运行 Python 代码使用免费的计算资源训练机器学习项目，而深度伪造（deepfake）是一种通过训练在视频片段中换脸的机器学习模型，能做到以假乱真，因此引发了很多争议。根据  archive.org 存档服务的\u003ca href=\"https://web.archive.org/web/20220514170909/https:/research.google.com/colaboratory/faq.html\"\u003e\u003cu\u003e记录\u003c/u\u003e\u003c/a\u003e，Google 研究院是从本月初开始禁止深度伪造，将其列入禁止项目\u003ca href=\"https://research.google.com/colaboratory/faq.html\"\u003e\u003cu\u003e清单\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-31T10:13:48Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 的新缓存分区系统影响 Google Fonts 性能",
+  "Link": "https://www.solidot.org/story?sid=66299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t10 月份释出的 Chrome 86 改变了缓存系统，引入了缓存分区去储存不同网站的缓存，防止利用缓存共享资源的攻击方法。但新的缓存系统影响到了设计使用缓存的 Web 服务如 Google Fonts。Google Fonts 被数百万网站广泛使用，它允许网站使用一行代码加载托管在  Google 服务器里的任意字体。当字体下载到缓存之后，用户无需访问每个网站重新下载一遍字体。但新的缓存分区系统事实上\u003ca href=\"https://wicki.io/posts/2020-11-goodbye-google-fonts/\" target=\"_blank\"\u003e\u003cu\u003e让 Google Fonts 变得无用\u003c/u\u003e\u003c/a\u003e，因为新系统强迫用户访问一个网站后需要重新下载一遍字体，网站在自己的服务器上托管字体将比 Google 托管更高效。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-07T14:25:47Z",
+  "Author": "WinterIsComing"
+}

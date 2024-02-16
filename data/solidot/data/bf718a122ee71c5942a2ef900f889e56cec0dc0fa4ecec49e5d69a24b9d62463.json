@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSL 3 漏洞补丁释出，漏洞等级略降",
+  "Link": "https://www.solidot.org/story?sid=73236",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t备受瞩目的 OpenSSL 3 漏洞补丁释出，漏洞等级从之前被认为与 Heartbleed 漏洞相当的“高危”降为“高”。最新释出的 OpenSSL version 3.0.7 修复了两个缓冲溢出漏洞 CVE-2022-37786 和 CVE-2022-3602，两个漏洞影响所有 OpenSSL 3.x 系列版本，但不太可能导致远程代码执行。包括 Fedora 在内的 Linux 发行版因该漏洞而推迟发布。在所有 OpenSSL 版本中，OpenSSL 1.1.1 仍然处于长期支持阶段，OpenSSL 3.x 的普及度还不高。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-02T03:16:01Z",
+  "Author": "WinterIsComing"
+}

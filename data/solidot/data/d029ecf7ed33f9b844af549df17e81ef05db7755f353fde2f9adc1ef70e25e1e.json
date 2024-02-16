@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Godot 4.0 发布",
+  "Link": "https://www.solidot.org/story?sid=74275",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源游戏引擎项目 Godot 释出了 4.0 版本。该版本经历了四年时间开发，合并了 1.2 万个 pull requests，修正了 7000 个问题，有 1500 名贡献者。Godot 4.0 的新特性包括：新的 Vulkan 后端；支持 AMD 的 FSR 1.0，未来将支持 FSR 2.1；为大型开放世界引入了新实时全局照明技术 Signed Distance Field Global Illuminatio；新的渲染优化技术，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://godotengine.org/article/godot-4-0-sets-sail/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-02T06:47:04Z",
+  "Author": "Wilson"
+}

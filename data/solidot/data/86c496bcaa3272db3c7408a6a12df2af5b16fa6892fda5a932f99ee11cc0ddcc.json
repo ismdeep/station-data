@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将默认启用 DNS-over-HTTPS",
+  "Link": "https://www.solidot.org/story?sid=62013",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/futurereleases/2019/09/06/whats-next-in-making-dns-over-https-the-default/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，它计划 9 月晚些时候对美国 Firefox 用户逐步默认启用 DNS-over-HTTPS。Mozilla 是在 2017 年开始开发 DNS over HTTPs(DoH)协议，2018 年 6 月\u003ca href=\"https://www.solidot.org/story?sid=56697\" target=\"_blank\"\u003e\u003cu\u003e开始测试\u003c/u\u003e\u003c/a\u003e，它设计通过 HTTPs 加密向第三方或用户自己搭建的 DNS 服务器发出域名查询请求。Mozilla 认为 DoH 是更安全的域名解析方法。Mozilla 表示，如果用户选择了家长控制或禁用 DoH，它会尊重用户的选择；除非企业配置明确启用 DoH 它会遵守企业配置禁用 DoH；如果因为故障或其他问题导致域名查询失败它会回滚到操作系统默认使用的 DNS 服务器。想要关闭 DoH 的用户可以打开 about:config，搜索 network.trr，将 network.trr.mode 的值设为 5。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-09T03:24:48Z",
+  "Author": "wenfeixiang"
+}

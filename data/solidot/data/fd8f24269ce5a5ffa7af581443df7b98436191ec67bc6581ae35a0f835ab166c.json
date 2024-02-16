@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "明尼苏达大学教授向 Linux 社区道歉",
+  "Link": "https://www.solidot.org/story?sid=67604",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t明尼苏达大学计算机科学助理教授 Kangjie Lu 在内核邮件列表上发表了\u003ca href=\"https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u\"\u003e\u003cu\u003e公开信\u003c/u\u003e\u003c/a\u003e，向 Linux 社区公开道歉。由 Kangjie Lu 及他的两名博士生 Qiushi Wu 和 Aditya Pakki 署名的公开信就他们的研究小组对 Linux 内核社区可能造成的任何伤害表示真诚道歉，称论文使用的方法是不合适的，他们犯了错误，没有在研究前与社区进行协商并获得许可。而他们也知道向内核维护者获得许可是不太可能的。他们的目标是改进安全性，论文所描述的研究是在 2020 年 8 月进行，他们没有在内核引入任何漏洞，存在问题的三个补丁只在邮件列表里进行了讨论，没有真正合并到内核，其它 190 个被重新评估的补丁与论文无关，它们真的是修复漏洞的。在 2021 年 4 月递交的最新补丁也与论文无关，而是一个新研究项目的一部分，旨在自动识别其它补丁引入的 bug。Lu 教授表示他们寻求与 Linux 基金会和 Linux 社区重新建立友好关系。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-25T15:20:00Z",
+  "Author": "WinterIsComing"
+}

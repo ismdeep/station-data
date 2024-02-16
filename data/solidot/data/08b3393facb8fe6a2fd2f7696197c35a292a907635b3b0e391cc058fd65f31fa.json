@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 从 Android 设备上收集的遥测数据二十倍于苹果",
+  "Link": "https://www.solidot.org/story?sid=67360",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t都柏林大学圣三一学院的 Douglas J. Leith 教授\u003ca href=\"https://www.scss.tcd.ie/doug.leith/apple_google.pdf\"\u003e\u003cu\u003e跟踪了\u003c/u\u003e\u003c/a\u003e（PDF）iOS 和 Android 设备向苹果和 Google 服务器发送的遥测数据，发现 Google \u003ca href=\"https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/\"\u003e\u003cu\u003e收集的数据二十倍于苹果\u003c/u\u003e\u003c/a\u003e。Leith 教授称，研究考虑了操作系统本身收集的数据以及操作系统供应商提供的默认应用收集的数据，云端存储，地图/位置服务等，只计算遥测数据。Leith 教授指出，即使用户选择退出遥测， iOS 和 Android 仍然会发送遥测数据。苹果收集了更多的信息数据类型，但 Google 收集的数据量要多得多。开机 10 分钟内，Pixel 手机向 Google 发送了 1MB 数据，而 iPhone 发送了 42KB；在闲置状态下，Pixel 手机每 12 小时向 Google 发送 1MB 数据，相比之下 iPhone 只向苹果发送 52KB 数据。当新的 SIM 卡插入到设备中，相关信息会立即与苹果和 Google 共享。设备上预装的应用被发现在未启动或使用前就会连接苹果和 Google 服务器。Google 发言人用汽车收集数据为它收集数据辩护。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-31T08:05:58Z",
+  "Author": "WinterIsComing"
+}

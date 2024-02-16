@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果警告中国应用不要绕开隐私新规",
+  "Link": "https://www.solidot.org/story?sid=67268",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果 iOS 系统即将执行新的隐私政策，要求应用必须在征求用户同意之后才能进行跟踪收集数据。而中国应用开发商正在测试被称为 CAID 的新工具绕过规定继续跟踪苹果用户。苹果已经对至少两家中国应用开发商\u003ca href=\"https://www.ft.com/content/99a3f7c1-54d9-47fe-9bcb-fd72fcd94076\" target=\"_blank\"\u003e\u003cu\u003e提前发出警告\u003c/u\u003e\u003c/a\u003e，要求他们不要绕过隐私新规。苹果指出他们的应用中包含了十多个可能用于跟踪用户设备的参数如 setDeviceName。其中一家应用开发商正在使用 CAID。苹果在警告信中要求在 14 天内释出更新遵守规定，否则将会从应用商店下架。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-22T04:30:45Z",
+  "Author": "WinterIsComing"
+}

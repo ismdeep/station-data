@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Lapsus$ 黑客泄露 37GB 的微软产品源代码",
+  "Link": "https://www.solidot.org/story?sid=71024",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLapsus$ 黑客组织\u003ca href=\"https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/\" target=\"_blank\"\u003e\u003cu\u003e宣称入侵了\u003c/u\u003e\u003c/a\u003e微软内部的 Azure DevOps 服务器，窃取到 Bing、Cortana 等微软内部项目的源代码。Lapsus$ 随后公开了一个解压后有 37GB 大小的压缩文件，包括了 Bing 90% 的源代码，Bing Maps 和 Cortana 项目 45% 的源代码。研究过泄密文件的安全研究人员认为它们是真实的内部源代码。泄露源代码不涉及微软的桌面软件如 Windows、Windows Server 和 Microsoft Office。微软表示正对此事展开调查。Lapsus$ 最近完成了多次高调的入侵行动，攻击了多家知名企业，其中包括英伟达，暂时不清楚它是如何入侵的，有安全研究人员怀疑它收买了相关企业的内部人士。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-22T12:52:19Z",
+  "Author": "WinterIsComing"
+}

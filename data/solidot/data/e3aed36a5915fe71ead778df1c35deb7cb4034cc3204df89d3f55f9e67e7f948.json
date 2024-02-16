@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ChatGPT 生成的大部分代码是不安全的",
+  "Link": "https://www.solidot.org/story?sid=74748",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加拿大魁北克大学的研究人员在预印本网站 arXiv 上发表论文，分析了 ChatGPT 所生成代码的安全性。研究人员表示结果令他们倍感担忧。ChatGPT 生成的部分代码甚至达不到最低安全标志，而当你问它时它还知道代码是不安全的。研究人员让 ChatGPT 使用 C、C++、Python 和 Java 四种语言生成了 21 个程序和脚本。研究人员称，ChatGPT 似乎知道它生成的代码是不安全的，但就是不说，除非你问它。ChatGPT 拒绝生成攻击性代码，但却会生成有漏洞的代码，这在道德上是不一致的。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/04/21/chatgpt_insecure_code/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-22T13:27:04Z",
+  "Author": "Wilson"
+}

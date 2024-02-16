@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gab 用户使用 Trump2024 作为密码",
+  "Link": "https://www.solidot.org/story?sid=67214",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自称 JaXpArO and My Little Anonymous Revival Project 的黑客上个月利用 SQL 注入漏洞\u003ca href=\"https://www.solidot.org/story?sid=67073\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e极右翼社交平台 Gab，将窃取的 65GB 数据提供给了泄密组织 Distributed Denial of Secrets（DDoSecrets），为避免用户隐私泄露，DDoSecrets 只与少数记者和研究人员共享数据。根据这些数据，Theintercept \u003ca href=\"https://theintercept.com/2021/03/15/gab-hack-donald-trump-parler-extremists/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，1 月 6 日特朗普支持者攻击国会山时 Gab 有 160 万注册用户，亚马逊随后拒绝托管另一个保守派社交平台 Parler，促使该平台用户涌入 Gab，从 1 月 6 日到 2 月 19 日，Gab 增加了 240 万注册用户。但 Gab 的 400 万用户绝大部分是不活跃的，只有 150 万用户曾发过贴，40 万用户发帖超过 10 次，10 万用户在 2020 年 12 月 1 日之后发帖超过 10 次。Gab 上最受欢迎的公开群组是 /g/The_Donald 和 Trump 2020，以及 WeLoveTrump 和 QAnon；Gab 的用户密码使用了哈希加密，有部分已经破解，破解的密码显示至少三名用户用 Trump2020 作为密码，至少一名用户用 Trump2024 作为密码，还有很多人使用的是常见密码如 123456、asdf1234、letmein 和 password1。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-16T03:25:00Z",
+  "Author": "WinterIsComing"
+}

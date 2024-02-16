@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "123456 是最常用的密码",
+  "Link": "https://www.solidot.org/story?sid=64844",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对十多亿泄露密码的分析发现，123456 \u003ca href=\"https://www.zdnet.com/article/one-out-of-every-142-passwords-is-123456/\" target=\"_blank\"\u003e\u003cu\u003e是最常用的密码\u003c/u\u003e\u003c/a\u003e。土耳其学生 Ata Hakçıl 在分析后\u003ca href=\"https://github.com/FlameOfIgnis/Pwdb-Public\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，这 10 亿多个密码中，不重复的密码数为 168,919,919 个，超过 700 万个以 123456 为密码，每 142 个密码就有一个用 123456。这是 123456 连续五年成为最常用的密码。Hakçıl 还发现密码的平均长度为 9.48 个字符，包含特殊符号的密码只占 12%，29% 的密码只使用字符，13% 的密码只使用数字， 42% 的密码很容易使用字典攻击暴力破解。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T08:53:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "大强子对撞机实验用 GPU 加速数据处理",
+  "Link": "https://www.solidot.org/story?sid=70602",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对传统计算机集群，每秒分析多达 10 亿次质子碰撞或数万次非常复杂的铅碰撞绝非易事。大强子对撞机（LHC）实验\u003ca href=\"https://scitechdaily.com/large-hadron-collider-experiments-step-up-the-data-processing-game-with-gpus/\"\u003e\u003cu\u003e最近升级了硬件\u003c/u\u003e\u003c/a\u003e，将于明年投入使用，显著增加了对数据处理潜力的需求。由于传统的 CPU 可能无法应对新的计算挑战，四个大型实验正在采用 GPU 。GPU 是专门用于图像处理的高效处理器，最初的设计目标是加速 3D 计算机图形渲染。过去几年，LHC实验、全球 LHC 计算网格（WLCG）和 CERN 开放实验室都在研究 GPU 的使用。在高能物理研究中增加GPU的使用不仅可提高计算基础设施的质量和规模，还能提高整体能源效率。CERN IT 部门负责人 Enrica Porcari 表示：“LHC 雄心勃勃的升级计划带来了一系列令人兴奋的计算挑战；GPU 可以发挥重要作用，支持机器学习方法应对其中许多挑战。”“自 2020 年以来，CERN 的 IT 部门就提供了对数据中心 GPU 平台的访问权限，这些平台已被证明在一系列应用中很受欢迎。除此之外，CERN 开放实验室正在通过与工业界的合作研发项目，研究在机器学习中使用 GPU，科学计算协作（Scientific Computing Collaborations）组正在努力帮助移植并优化实验中的关键代码。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-09T06:57:40Z",
+  "Author": "wanwan"
+}

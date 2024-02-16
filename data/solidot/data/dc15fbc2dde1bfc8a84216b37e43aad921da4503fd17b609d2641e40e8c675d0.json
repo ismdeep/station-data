@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ruby 3.2.0 释出",
+  "Link": "https://www.solidot.org/story?sid=73754",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRuby 语言在圣诞节这天释出了 3.2.0 版本，包含了众多新功能和性能改进。其中包括：基于 WebAssembly 的WASI 支持；YJIT 不再列入实验性功能，做好了生产准备，在 Linux 上支持 x86-64 和 arm64/aarch64 CPU，构建需要 Rust 1.58.0+；改进 Regexp 抵御正则表达式 DoS 攻击；SyntaxSuggest；等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-25T12:19:12Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "YouTube 的规模有多庞大",
+  "Link": "https://www.solidot.org/story?sid=76994",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tYouTube 是最受欢迎的视频网站。皮尤的调查显示，93% 的美国青少年使用 YouTube，相比下 Tiktok 是 63%，Snapchat 是 60%。那么 YouTube 的规模究竟多庞大？YouTube 网址在 watch?v= 后有 11 位字符串，前十位字符可以是 a-z、A-Z、0-9 和 _-，最后一个字符是 16 个值之一。YouTube 的可能网址总数为 2^64 或 18.4 quintillion。YouTube 上不可能有这么多视频，很多字符串组合都是空的。研究人员使用被称为“醉酒拨号（drunk dialing）”的方法去尝试哪些组合是有效的，根据样本数估计 YouTube 上的总视频数。他们的结论是 YouTube 大约有 133.25 亿个视频。他们根据时间估计在 2023 年有逾 40 亿个视频上传到 YouTube。他们发现大多数视频只有几十次浏览量。 \n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://ethanzuckerman.com/2023/12/22/how-big-is-youtube/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-27T14:12:32Z",
+  "Author": "Wilson"
+}

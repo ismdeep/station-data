@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "澳大利亚程序员逆向工程官方的接触者追踪应用",
+  "Link": "https://www.solidot.org/story?sid=64243",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t澳大利亚政府发布了名为 COVIDSafe 的新冠接触者追踪应用，它通过蓝牙技术来实现这一点，以记录两名用户在彼此距离不足 1.5 米且持续至少 15 分钟情况下的接触。如果其中一名用户被确诊感染 COVID-19，则他们可以与卫生部门共享最近的接触史。卫生专家说，如果有足够多的澳大利亚人下载该应用程序，它将对遏制冠状病毒传播产生巨大影响。同时，技术和隐私专家对应用程序将收集的数据提出了担忧。在 COVIDSafe 发布前，技术和隐私专家呼吁澳大利亚政府发布完整的源代码，这能帮助独立的专家发现问题，提供解决方案并确认该应用程序能按照政府所承诺的那样运行。在等待源代码的同时，澳大利亚程序员\u003ca href=\"https://www.sbs.com.au/language/mandarin/zh-hans/not-sure-whether-to-install-the-government-s-covidsafe-app-here-s-everything-we-know\" target=\"_blank\"\u003e对其进行了逆向工程\u003c/a\u003e。软件开发者 Matthew Robbins 发现，该应用能将数据安全地存储在用户手机上，仅记录来自同样安装了该应用的其他手机的信息，在 21 天后会自动删除所有记录，且仅在用户允许的情况下才会将数据上传给卫生部门。他认为该应用值得安装。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-28T13:34:47Z",
+  "Author": "WinterIsComing"
+}

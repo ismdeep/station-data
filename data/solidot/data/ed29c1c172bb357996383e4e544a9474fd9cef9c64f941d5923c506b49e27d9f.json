@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows Terminal Preview v0.10 发布",
+  "Link": "https://www.solidot.org/story?sid=63858",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-10-release/\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 Windows Terminal Preview v0.10。用户可从 \u003cu\u003eMicrosoft Store\u003c/u\u003e 或  GitHub \u003ca href=\"https://github.com/microsoft/terminal/releases\"\u003e\u003cu\u003e发布页\u003c/u\u003e\u003c/a\u003e下载。Windows Terminal 是微软在去年的开发者大会上宣布的新命令行终端，支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。最新版本支持  Windows Subsystem for Linux (WSL)  应用和使用虚拟终端的 Windows 应用中的鼠标输入，支持复制窗格（pane）等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-18T09:58:33Z",
+  "Author": "WinterIsComing"
+}

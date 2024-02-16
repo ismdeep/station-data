@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯电信劫持了 Google 和 AWS 等公司的流量",
+  "Link": "https://www.solidot.org/story?sid=64048",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周，两百多家 CDN 和托管商的流量\u003ca href=\"https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/\" target=\"_blank\"\u003e\u003cu\u003e遭到了\u003c/u\u003e\u003c/a\u003e国有的俄罗斯电信公司的劫持。受影响的公司包括了  Google、Amazon、Facebook、Akamai、Cloudflare、GoDaddy、Digital Ocean、Joyent、LeaseWeb、Hetzner 和 Linode。俄罗斯电信公司是通过 BGP 路由通告劫持了不属于它的网络流量。BGP 劫持未必都是恶意的，很多时候都是因为人为失误导致的。同一机构频繁发生路由劫持则视为可能有恶意。最大的电信公司中国电信频繁发生过 BGP 路由劫持事故。俄罗斯电信也发生过多次。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-07T11:31:02Z",
+  "Author": "WinterIsComing"
+}

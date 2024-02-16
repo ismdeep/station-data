@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开发者指导手册建议避免使用部分术语",
+  "Link": "https://www.solidot.org/story?sid=67548",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle\u003ca href=\"https://developers.google.com/style/word-list\" target=\"_blank\"\u003e\u003cu\u003e 最近更新了\u003c/u\u003e\u003c/a\u003e它的开发者指导手册，其中包含了建议避免使用部分术语，或限制术语的使用范围，举例来说：不要用 abnormal 指代人，但可以指代一个计算机系统的条件；避免使用 abort，尽量用替代 stop、exit、cancel 或 end；allowlist 不要用作动词但可以用作名词；不要用 blackhat、blackhole、blacklist、whitelist 和 graylist，尽量用更精确的术语如 illegal、dropped without notification、denylist、allowlist 或 provisional list，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T13:07:57Z",
+  "Author": "WinterIsComing"
+}

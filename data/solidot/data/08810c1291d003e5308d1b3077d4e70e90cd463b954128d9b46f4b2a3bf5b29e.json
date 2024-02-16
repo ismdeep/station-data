@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯数字货币交易所遭黑客攻击",
+  "Link": "https://www.solidot.org/story?sid=66484",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯数字货币交易所  Livecoin 发表声明称\u003ca href=\"https://www.zdnet.com/article/russian-crypto-exchange-livecoin-hacked-after-it-lost-control-of-its-servers/\"\u003e\u003cu\u003e它被黑客入侵了\u003c/u\u003e\u003c/a\u003e，失去了对部分服务器的控制，警告用户立即停止使用它的服务。攻击发生在 12 月 23 日到 24 日之间。黑客接管了 Livecoin 的基础设施然后大幅提高了兑换率。如比特币的兑换率从 $23,000/BTC 提高到了 $450,000/BTC，以太坊从  $600/ETH 提高到了 $15,000，瑞波币从 $0.27/XRP 提高到了 $17/XRP（瑞波币因遭到 SEC 的起诉而币值大幅下滑）。兑换率修改之后，攻击者开始清空结算账号。Livecoin 称它已经通知了当地执法部门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-25T15:10:08Z",
+  "Author": "WinterIsComing"
+}

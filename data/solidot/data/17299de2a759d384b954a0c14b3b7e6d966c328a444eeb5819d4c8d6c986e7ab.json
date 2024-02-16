@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "单晶圆芯片比 GPU 快 1 万倍",
+  "Link": "https://www.solidot.org/story?sid=66140",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.cerebras.net/product/\" target=\"_blank\"\u003e\u003cu\u003eCerebras Systems\u003c/u\u003e\u003c/a\u003e 和美国能源部国家能源技术实验室\u003ca href=\"https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 CS-1 系统，它比传统的 GPU 快 1 万倍，这意味着用 GPU 需要几个月时间训练的神经网络用 CS-1 系统几分钟时间就能完成了。Cerebras 制造了世界上最大的计算机芯片 WSE，晶体管数量达到了 1.2 万亿，相比下英伟达刚刚宣布的 A100 80GB GPU 有 540 亿个晶体管。芯片制造商通常会把  12 英寸直径的硅锭切割成一块晶圆，然后再切割成数百个独立芯片。然而 Cerebras 公司则是直接将一块晶圆加工成一个单一的巨大芯片。芯片的每一部分称为核心，通过一种复杂方式与其它部分互联。单个的 CS-1 高 26 英寸，能占据三分之一的机架。Cerebras 计算机的速度是排名第 82 位的超算 Joule 的 200 倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-19T12:42:23Z",
+  "Author": "WinterIsComing"
+}

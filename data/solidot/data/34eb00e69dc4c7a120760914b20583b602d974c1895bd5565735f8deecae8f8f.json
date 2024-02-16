@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以 BitTorrent 的方式在家用电脑上运行大语言模型",
+  "Link": "https://www.solidot.org/story?sid=74446",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 的 AI 聊天机器人 ChatGPT 运行在微软的 Azure 云计算平台，普通用户即使能获得 ChatGPT 使用的大语言模型 GPT-3 或 GPT-4，也不可能在家用电脑上运行它们。如果人人都能运行一个分布式计算系统，联合起来打造一个在算力上能与最强大云计算平台匹敌的平台，那么我们有可能在自己的家用电脑上运行和使用类似  \nChatGPT 的 AI 聊天机器人。BigScience 社区正在开发名为 Petal 的系统，以 BitTorrent 的方式在家用电脑上运行大语言模型。Petal 可以集成最新的大语言模型，当前支持性能与 GPT-3 相近的 BLOOM-176B 大语言模型。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://petals.ml/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-21T05:51:29Z",
+  "Author": "Wilson"
+}

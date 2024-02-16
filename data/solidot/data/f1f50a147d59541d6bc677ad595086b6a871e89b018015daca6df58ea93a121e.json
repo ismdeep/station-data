@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核支持 Rust 开发所面临的挑战",
+  "Link": "https://www.solidot.org/story?sid=65463",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为一种现代系统级语言，Rust 比 C 或 C++ 更安全也更容易使用，Linux 内核主要是用 C 开发的，Rust 被很多人认为是 C 和 C++ 的最佳替代，而 Linus Torvalds 等内核的核心维护者对在内核中使用 Rust \u003ca href=\"https://www.solidot.org/story?sid=64946\"\u003e\u003cu\u003e持开放态度\u003c/u\u003e\u003c/a\u003e。为了用于内核开发，Rust 只是能生成可链接到内核的代码是远远不够的，需要找到一种方法让 Rust 能访问内核使用的 API，而内核所有的 API 都定义在 C 头文件内。 Rust 支持与 C 代码的互操作，包括调用使用 C ABI 的函数。表面看，Rust 能很好的与现有的  C API 整合起来，但魔鬼在细节中。在最近举行的虚拟 \u003ca href=\"https://linuxplumbersconf.org/\"\u003eLinux Plumbers Conference\u003c/a\u003e 会议上，开发者谈论了内核使用 Rust 开发\u003ca href=\"https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/\"\u003e\u003cu\u003e所面临的挑战\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-07T09:16:28Z",
+  "Author": "WinterIsComing"
+}

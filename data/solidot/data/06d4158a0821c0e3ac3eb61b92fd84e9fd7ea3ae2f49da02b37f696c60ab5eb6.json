@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 支持 11 种新压缩存档格式",
+  "Link": "https://www.solidot.org/story?sid=76476",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软释出了 Windows 11 22H2 的预览版累计补丁 KB5031455，加入了对 11 种新压缩存档格式的原生支持，这些格式包括 .rar、.7z、.tar、.tar.gz、.tar.bz2、.tar.zst、.tar.xz、.tgz、.tbz2、.tzst 和 .txz，但密码加密文件尚未支持。微软是在开源库 libarchive 的帮助下实现对这些存档格式的支持，这意味着它未来预计会加入对 LZH、LZH 和 XAR 等其它格式的支持。KB5031455 目前是可选更新，Windows 11 用户需要手动检查更新然后选择下载安装。微软预计会在 11 月的例行更新中向用户推送该补丁。\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/\u003cbr/\u003e\nhttps://support.microsoft.com/en-us/topic/october-26-2023-kb5031455-os-build-22621-2506-preview-6513c5ec-c5a2-4aaf-97f5-44c13d29e0d4\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-30T06:05:04Z",
+  "Author": "Wilson"
+}

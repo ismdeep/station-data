@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bazel 1.0 发布",
+  "Link": "https://www.solidot.org/story?sid=62286",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它的开源构建系统 Bazel 正式释出 1.0 版。Bazel 始于 Google 对高可伸缩构建的需求，2015 年开源，Google 多个大型开源项目如 Angular 和 TensorFlow 都使用了 Bazel。用户报告在切换到  Bazel 之后测试时间减少到三分之一，构建速度提高了 10 倍。Google 表示，从 1.0 开始 Bazel 将使用版本控制，1.x 版本代表着向后兼容于 1.0；Bazel 团队将提供长期支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-18T08:06:41Z",
+  "Author": "wenfeixiang"
+}

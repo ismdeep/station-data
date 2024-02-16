@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "比较阿波罗 11 号导航计算机和 USB-C 充电器",
+  "Link": "https://www.solidot.org/story?sid=63471",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1969 年将人类送到月球并返回的导航计算机在计算能力上\u003ca href=\"https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html\" target=\"_blank\"\u003e\u003cu\u003e连今天的 USB-C 充电器都不如\u003c/u\u003e\u003c/a\u003e，然而这并不是说充电器包括的微芯片能将人类送往月球，在防辐射上专用的太空计算机芯片远胜于地球上的普通芯片。阿波罗 11 号导航计算机 CPU 的运行频率是 1.024 MHz，内存 4KB（加上校验位），程序存储空间 72KB，指令集是 16 位累加器；相比之下，Anker 的 PowerPort Atom PD 2 充电器使用的微控制器是 Cypress CYPD4225，包含了 1 个  ARM Cortex-M0 CPU，运行频率 48 MHz，内存 8KB，程序存储空间 128KB Flash。Anker 充电器 CPU 的速度比阿波罗计算机 CPU 快 563 倍，储存的指令是阿波罗计算机的 1.78 倍，内存则是两倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-09T12:39:06Z",
+  "Author": "WinterIsComing"
+}

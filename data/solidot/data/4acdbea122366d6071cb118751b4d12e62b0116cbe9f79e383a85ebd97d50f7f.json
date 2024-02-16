@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用 WPS 漏洞攻击博彩公司",
+  "Link": "https://www.solidot.org/story?sid=71051",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Avast 的研究人员发表报告《\u003ca href=\"https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/\"\u003e\u003cu\u003eOperation Dragon Castling\u003c/u\u003e\u003c/a\u003e》，称攻击者利用金山办公软件 WPS Office 的漏洞，攻击东南亚尤其是台湾香港菲律宾的博彩公司。鉴于攻击者的娴熟技术和使用的先进工具，研究人员怀疑是某个 APT 组织在搜集情报或获取经济利益。攻击者使用的策略包括向目标公司的支持团队发送邮件，要求他们检查软件的 bug，邮件附带了一个感染了病毒的安装程序。攻击者使用的另一种方法是假的 WPS 更新程序 wpsupdate.exe，该更新程序从属于金山的域名 update.wps[.]cn 下载，但域名对应的 IP 地址 103.140.187.16 不属于金山公司所有。研究人员猜测是它是攻击者使用的假更新服务器。该更新程序会通过侧加载（sideloading）安装两个恶意程序建立后门控制被感染计算机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-24T13:45:05Z",
+  "Author": "WinterIsComing"
+}

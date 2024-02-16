@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果默认完全屏蔽第三方 Cookie，七天清空本地储存",
+  "Link": "https://www.solidot.org/story?sid=63926",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果宣布它开始默认\u003ca href=\"https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/\" target=\"_blank\"\u003e\u003cu\u003e完全屏蔽第三方 Cookie\u003c/u\u003e\u003c/a\u003e。苹果称，自 2017 年以来 Safari 已经屏蔽了大部分 第三方 Cookie，现在它成为第一个默认完全屏蔽第三方 Cookie 的主流浏览器 。在这之前，只有 Tor 浏览器默认屏蔽全部第三方 Cookie，市场份额最高的 Google Chrome 则宣布将在 2022 年实施类似政策。苹果表示，完全屏蔽第三方 Cookie 的额外好处包括能阻止跨站请求伪造攻击，简化开发。苹果同时宣布所有脚本可写入的存储如 LocalStorage 将有一个 7 天的数据过期，7 天之后储存的数据将会自动删除，受影响的存储格式包括 Indexed DB、LocalStorage、Media keys、SessionStorage 和 Service Worker registrations。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-25T10:21:05Z",
+  "Author": "WinterIsComing"
+}

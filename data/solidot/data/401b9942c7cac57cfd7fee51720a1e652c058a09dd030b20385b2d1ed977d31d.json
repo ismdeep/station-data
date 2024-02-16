@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Visual Studio 2019 整合 GitHub",
+  "Link": "https://www.solidot.org/story?sid=62859",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软释出了 Visual Studio 2019 16.4，\u003ca href=\"https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e对旗下流行代码托管平台 GitHub 的整合。微软在 2018 年以 75 亿美元收购 GitHub，而根据对 Stack Overflow 上开发者的调查，Visual Studio 是仅次于 VS Code 的第二流行开发平台。最新版本的 Visual Studio 允许用户直接将代码发布到 GitHub。在 Team Explorer Synchronization 页面，用户可以点击 Publish to GitHub 按钮将本地代码库复制到 GitHub 代码库。Visual Studio 开发团队称，很多开发者都想要这项功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-05T12:48:20Z",
+  "Author": "WinterIsComing"
+}

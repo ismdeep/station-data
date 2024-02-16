@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用未打补丁的 VPN 勒索 Travelex",
+  "Link": "https://www.solidot.org/story?sid=63212",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t外汇公司通济隆集团（Travelex）因未打补丁的 VPN 软件\u003ca href=\"https://arstechnica.com/information-technology/2020/01/unpatched-vpn-makes-travelex-latest-victim-of-revil-ransomware/\" target=\"_blank\"\u003e\u003cu\u003e而遭到勒索软件的攻击\u003c/u\u003e\u003c/a\u003e，攻击者索要 600 万美元的赎金。2019 年 4 月，企业级 VPN 服务商 Pulse Secure 发布紧急补丁修复一个软件漏洞，该漏洞允许远程攻击者无需用户名或密码访问 VPN 服务器，关闭多步认证，查看服务器上缓存的日志、用户名和密码。新年前夕，Travelex 的网络遭到了勒索软件 Sodinokibi aka REvil 的攻击。攻击者联络媒体称他们在六个月前就渗透进入了该公司的计算机网络，下载了 5GB 的敏感客户数据。包括了客户的出生日期、信用卡信息和国家社会保险号。如果 Travelex 支付赎金，攻击者表示将会删除其持有的数据集，恢复其网络。如果拒绝支付的话会出售其持有的数据库。Travelex \u003ca href=\"https://www.bbc.com/news/business-51017852\" target=\"_blank\"\u003e\u003cu\u003e称它正与警方合作\u003c/u\u003e\u003c/a\u003e，同时派遣了 IT 团队和外部专家共同解决问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-09T07:38:03Z",
+  "Author": "WinterIsComing"
+}

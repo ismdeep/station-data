@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fastly 宕机影响大量网站",
+  "Link": "https://www.solidot.org/story?sid=67987",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCDN 服务商 Fastly 周二发生了宕机事故，有大量网站受到影响，其中之一是编程问答社区 Stackoverflow。根据\u003cu\u003e事故\u003c/u\u003e\u003ca href=\"https://status.fastly.com/incidents/vpk0ssybt3bj\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，问题始于 09:58 UTC，持续了约一个多小时，10:36 UTC 打上修复问题的补丁，到 12:41 UTC 基本解决。受到影响的知名网站包括英国政府网站，纽约时报等媒体，Paypal、Github 的 pages 服务，甚至亚马逊的部分服务也出现问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-08T14:27:12Z",
+  "Author": "WinterIsComing"
+}

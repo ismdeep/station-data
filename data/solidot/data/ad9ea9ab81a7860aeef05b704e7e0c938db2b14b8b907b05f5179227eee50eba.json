@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一张墙纸导致部分 Android 手机变砖",
+  "Link": "https://www.solidot.org/story?sid=64566",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数十名 Android 手机用户在社交媒体上报告，一张风景照被用于墙纸时\u003ca href=\"https://www.bbc.com/news/technology-52891650\"\u003e\u003cu\u003e会导致系统崩溃\u003c/u\u003e\u003c/a\u003e，屏幕反复打开关闭，部分情况下甚至需要恢复出厂设置，因此  Android 用户最好不要在自己手机上尝试。受影响的手机品牌包括三星和 Google 的 Pixel。导致这一 bug 的官方理由还没有公布。有开发者认为该图像不是标准 RGB 格式，可能包含了部分设备无法处理的色彩信息。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-04T05:55:10Z",
+  "Author": "WinterIsComing"
+}

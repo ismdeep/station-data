@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 将要求所有扩展开发者启用双重认证",
+  "Link": "https://www.solidot.org/story?sid=62936",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 将要求所有扩展开发者对其账号\u003ca href=\"https://www.zdnet.com/article/mozilla-to-force-all-add-on-devs-to-use-2fa-to-prevent-supply-chain-attacks/\" target=\"_blank\"\u003e\u003cu\u003e启用双重认证（2FA）\u003c/u\u003e\u003c/a\u003e。扩展社区经理 Caitlin Neiman 称，从 2020 年初开始，扩展开发者将要求在扩展网站 AMO（Mozilla Add-Ons）对其账号启用 2FA，此举旨在防止恶意攻击者控制合法扩展及其用户。如果攻击者控制了扩展开发者的账号，他们可以向 Firefox 用户推送恶意更新，如窃取密码，监视用户浏览习惯，或重定向用户到钓鱼或恶意程序下载站。此类攻击通常被称为供应链攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-13T14:41:59Z",
+  "Author": "WinterIsComing"
+}

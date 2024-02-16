@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "7100 万用户凭证泄露",
+  "Link": "https://www.solidot.org/story?sid=77171",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHave I Been Pwned?（HIBP）维护者 Troy Hunt 宣布其泄露警告服务加入了约 7100 万新用户凭证。这些泄露数据来自 Naz.API 数据集，该数据集包含了 10 亿行被盗的凭证，综合了撞库列表和信息窃取软件窃取的数据。该数据集过去几个月在地下黑客论坛流传。数据集中的每一行包含了一个登录 URL、其登录名和相关密码。Troy Hunt 公布的样本截图中包含了深圳大学的一个登录 URL，其它还有 eBay、雅虎、Facebook 等等。数据集包含了 70,840,771 个唯一电邮地址，抽样分析显示其中三分之一的地址此前从未泄露过。用户现在访问 HIBP 检查自己的凭证是否 Naz.API 数据集中。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-19T06:35:56Z",
+  "Author": "Wilson"
+}

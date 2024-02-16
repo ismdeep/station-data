@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "210 万最古老用户组帖子供任何感兴趣的人浏览",
+  "Link": "https://www.solidot.org/story?sid=65800",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在论坛和社交网络之前的 Web 时代，网民是通过用户组讨论各种感兴趣的主题。用户组源自于 1980 年代，作为一种去中心化的服务，至今仍然活跃。本周，加拿大安大略省的一位系统架构师 \u003ca href=\"https://www.joe0.com/2020/10/07/converting-utzoo-wiseman-netnews-archive-to-postgresql-using-python-3-8/\"\u003e\u003cu\u003eJozef Jarosciak\u003c/u\u003e\u003c/a\u003e 将多伦多大学动物学系 Henry Spencer 保存的用户组存档 \u003cspan class=\"abc__textblock size--article\" data-component=\"TextBlock\"\u003e\u003ca href=\"https://www.usenetarchives.com/groups.php?c=utzoo\u0026amp;p=0\" target=\"_blank\"\u003eUTZOO NetNews\u003c/a\u003e \u003c/span\u003e上传到他创建的 Usenet Archive 网站，210 万最古老的用户组帖子现在可以供任何感兴趣的人浏览，其发帖时间是从 1981 年 2 月到 1991 年 6 月，这些用户组帖子最初保存在磁带上。Spencer 及其同事设法将磁带数据转为 .TAR (Tape ARchive)格式，Jarosciak 将存档转为可搜索的 PostgreSQL 数据库，然后上传到 Usenet Archives。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-14T14:02:09Z",
+  "Author": "WinterIsComing"
+}

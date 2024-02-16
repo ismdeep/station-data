@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布 Edge for Linux 的预览版本",
+  "Link": "https://www.solidot.org/story?sid=65870",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/\"\u003e\u003cu\u003e正式发布了\u003c/u\u003e\u003c/a\u003e基于 Chromium 的 Edge for Linux 预览版本，感兴趣的 Linux 开发者可以直接到 \u003ca href=\"https://www.microsoftedgeinsider.com/zh-cn/download/\"\u003e\u003cu\u003eEdge Insider 网站\u003c/u\u003e\u003c/a\u003e（Dev 渠道）下载 .deb 或 .rpm 包。Edge for Linux 目前支持 Ubuntu、Debian、Fedora 和 openSUSE 发行版。Dev 渠道中的版本每周更新一次。微软称，技术预览版本主要针对想要构建和测试网站和应用在 Linux 上表现的开发者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-21T07:56:42Z",
+  "Author": "WinterIsComing"
+}

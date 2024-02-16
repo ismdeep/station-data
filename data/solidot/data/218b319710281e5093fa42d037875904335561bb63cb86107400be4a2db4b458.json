@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "攻击者用国际化域名编码让钓鱼网站域名模仿 KeePass",
+  "Link": "https://www.solidot.org/story?sid=76405",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Malwarebytes 警告，攻击者正通过 Google 广告引诱用户访问开源密码管理器 KeePass 的钓鱼网站。但最值得注意的是攻击者的策略。攻击者使用国际化域名编码（Punycode）注册了 KeePass 的钓鱼网站，钓鱼域名和 KeePass 官方域名在视觉上的差异非常小，无疑会让很多人上当。在浏览器上看到的域名  ķeepass[.]info 实际上是国际化域名编码 xn--eepass-vbb[.]info。用户通过钓鱼网站下载的 KeePass 包含的恶意代码属于 FakeBat 恶意程序家族。\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.malwarebytes.com/blog/threat-intelligence/2023/10/clever-malvertising-attack-uses-punycode-to-look-like-legitimate-website\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-20T14:22:55Z",
+  "Author": "Wilson"
+}

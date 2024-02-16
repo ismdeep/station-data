@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 桌面计算机从英特尔切换到 AMD",
+  "Link": "https://www.solidot.org/story?sid=64456",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"http://lkml.iu.edu/hypermail/linux/kernel/2005.3/00406.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.7 rc7，同时透露他刚刚升级了主桌面计算机。Linux 之父称，15 年来他的主计算机第一次不是基于英特尔的 CPU，他切换到了 AMD 的线程撕裂者 3970x，现在测试构建所需时间只需要以前的三分之一。他相信下一次合并窗口期间将会体验到升级所带来的显著好处。线程撕裂者 3970x 是 32 核 64 线处理器，主频 3.7GHz 可加速至 4.5GHz，它是 AMD 次高端桌面处理器，次于线程撕裂者 3990x(64 核 128 线) ，远胜过英特尔目前最高端的 18 核桌面处理器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-25T05:20:15Z",
+  "Author": "WinterIsComing"
+}

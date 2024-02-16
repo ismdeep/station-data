@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 资助用 Rust 开发内核项目",
+  "Link": "https://www.solidot.org/story?sid=68068",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.memorysafety.org/\"\u003eProssimo\u003c/a\u003e 项目\u003ca href=\"https://www.memorysafety.org/blog/supporting-miguel-ojeda-rust-in-linux/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e与  Miguel Ojeda 签订合同使用 Rust 语言全职开发 Linux 内核，合同期为一年。这一项目得到了 Google 的资助。Rust 是一种高性能、内存安全的语言，而软件项目发现的大部分漏洞都属于内存安全相关漏洞，用 Rust 开发内核将有助于改进内核的内存安全。Linux 内核是现代互联网的心脏，位于网络数据和其它形式输入数据处理的第一线，它的漏洞将会产生广泛的影响。Linux 主要是用 C 语言开发的，C 不是一种内存安全的语言，缓冲溢出和释放后使用等内存安全漏洞是需要经常关注的问题，用 Rust 语言开发部分 Linux 组件如驱动将有助于消除内存安全漏。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-18T07:42:23Z",
+  "Author": "WinterIsComing"
+}

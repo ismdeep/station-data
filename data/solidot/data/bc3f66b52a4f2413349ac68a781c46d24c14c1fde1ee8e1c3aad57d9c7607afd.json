@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LinkedIn、Reddit 和 Google News 等都被发现监视用户剪贴板",
+  "Link": "https://www.solidot.org/story?sid=64875",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tiOS 14 引入剪贴板访问警告功能将许多应用的可疑行为暴露在用户面前，其中包括了抖音的国际版 TikTok。TikTok 已经释出了新版，表示访问剪贴板是反垃圾信息功能的一部分，它已将其移除。但 TikTok 之外，还有多个知名应用也被发现访问剪贴板，\u003ca href=\"https://www.phonearena.com/news/more-iphone-clipboard-snoopers-surface_id125733\"\u003e\u003cu\u003e其中包括了\u003c/u\u003e\u003c/a\u003e微软的 LinkedIn、Reddit 和 Google News。LinkedIn 回应称这是 bug，而 Reddit 表示它将在 7 月 14 日释出更新移除相关代码，Reddit 发言人称，相关代码用于检查网址然后根据网址的文本内容建议标题。其它被发现访问剪贴板的应用如 Google News、使命召唤手游和水果忍者等尚未回应。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-07T08:20:24Z",
+  "Author": "WinterIsComing"
+}

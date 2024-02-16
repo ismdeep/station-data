@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开发者演示对苹果 CSAM 系统的哈希原像攻击",
+  "Link": "https://www.solidot.org/story?sid=68596",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果本月早些时候\u003ca href=\"https://www.solidot.org/story?sid=68472\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e一项受争议的决定：它将扫描美国用户 iPhone 手机上的已知儿童色情照片，利用来自 National Center for Missing and Exploited Children (NCMEC)的 CSAM（Child Sexual Abuse Material）图像哈希值去匹配用户手机上的图像哈希，如果发现至少 30 次匹配成功它将会在审核之后报告给相关机构。但苹果使用的算法模型被发现容易制造哈希碰撞（这被称为原像攻击）。开发者\u003ca href=\"https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1\"\u003e\u003cu\u003e演示\u003c/u\u003e\u003c/a\u003e制作两个不同图像但它们在 iPhone 上却有着相同的哈希值。这意味着如果攻击者根据已知 CSAM 图像哈希制作一个相同哈希的图像，然后发送给一名无辜用户（要重复 30 次），如果无辜用户启用了 iCloud 同步，那么苹果的系统将会标记这些图像，然后派人去进行审核，而审核者可能会困惑不已。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-18T14:55:02Z",
+  "Author": "WinterIsComing"
+}

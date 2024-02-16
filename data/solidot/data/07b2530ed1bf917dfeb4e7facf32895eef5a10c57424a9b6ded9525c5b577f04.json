@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔被指发表了有意误导的测试结果",
+  "Link": "https://www.solidot.org/story?sid=62521",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔的性能策略团队在其博客上发表了该公司  56 核 Xeon Platinum 9282 与 AMD 64 核 EPYC 7742 \u003ca href=\"https://medium.com/performance-at-intel/hpc-leadership-where-it-matters-real-world-performance-b16c47b11a01\"\u003e\u003cu\u003e在不同 HPC 工作负荷下的性能测试结果\u003c/u\u003e\u003c/a\u003e，称英特尔服务器处理器性能比竞争对手高 8% 到  84%。Servethehome 发表文章认为\u003ca href=\"https://www.servethehome.com/intel-performance-strategy-team-publishing-intentionally-misleading-benchmarks/\"\u003e\u003cu\u003e该测试有意误导\u003c/u\u003e\u003c/a\u003e。作者称，英特尔使用的测试软件 GROMACS 2019.3 是在今年 6 月发布的，当时基于 Zen 2 架构的 EPYC Rome 尚未上市，软件不能正确识别 AMD Zen 2 处理器，10 月发布的 GROMACS 2019.4 解决了该问题。英特尔在测试中使用了它自己的编译器、MKL 和 MPI。作者还指出了其它测试问题。英特尔的团队更新了它的博客，称他们使用 GROMACS 2019.4 重新进行了测试，表示没有发现实质性差异。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-07T07:13:03Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一位黑客的母亲如何渗透进入监狱",
+  "Link": "https://www.solidot.org/story?sid=63693",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tJohn Strand 以破坏为生，作为渗透测试员，他被机构聘用去破坏它们的防御系统，在真正的坏人前面发现漏洞。Strand 通常亲自或其 Black Hills 的同事去执行渗透任务。但在 2014 年 7 月，他在执行南达科他州监狱渗透测试时派他母亲去了。这其实是他母亲 Rita Strand 的想法。她在餐饮服务业工作三十年后开始担任 Black Hills 的财务官。她对自己的专业很有信心，可以扮作卫生检查员去监狱检查卫生。John Strand 在 RSA 安全会议上\u003ca href=\"https://arstechnica.com/information-technology/2020/02/how-a-hackers-mom-broke-into-prison-and-the-wardens-computer/?comments=1\"\u003e\u003cu\u003e讲述了其母亲渗透监狱的经历\u003c/u\u003e\u003c/a\u003e，他说，“那是我妈，我能怎么说？”他们准备了假的徽章和名片，以及一个有恶意程序的 U 盘，Rita 的主要任务就是在监狱联网计算机上插入 U 盘。她在监狱里没有遭遇任何非难。在进行所谓的卫生检查时候狱方甚至允许她保留手机，她检查冰箱冰柜，寻找过期食物并拍照。她还要求检查网络中心，服务器机房，甚至自由在监狱里行走。在结束之际，监狱长请她过去询问如何改善饮食的建议，她递过了一个 U 盘，让监狱长查看里面的文件。当狱长点击文件，他无意中让 Black Hills 的黑客访问了他的计算机。Rita 在 2016 年因癌症去世，她没有机会再参与渗透测试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-03T12:56:17Z",
+  "Author": "WinterIsComing"
+}

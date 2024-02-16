@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开源安全工具 Application Inspector",
+  "Link": "https://www.solidot.org/story?sid=63291",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://www.microsoft.com/security/blog/2020/01/16/introducing-microsoft-application-inspector/\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e快速检查第三方开源组件安全问题的命令行工具 Application Inspector，\u003ca href=\"https://github.com/microsoft/ApplicationInspector\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e采用MIT 许可证发布在软件巨人旗下的托管平台 GitHub 上。这个静态源代码分析工具用于帮助开发者在整合第三方开源组件时处理潜在的安全问题。微软开发者称，代码复用有很多好处，但有时也会带来隐藏的复杂性和风险问题。现在的 Web 应用通常包含数以百计的第三方组件，开发者在使用时主要依靠作者的描述，至于软件安全不安全则并不清楚。Application Inspector 通过 500 多条规则模式快速识别可能存在安全问题的代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-17T14:40:41Z",
+  "Author": "WinterIsComing"
+}

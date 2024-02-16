@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DeepMind 用有 2800 亿参数的模型测试大型 AI 语言系统的极限",
+  "Link": "https://www.solidot.org/story?sid=69933",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t语言生成是 AI 领域的大热门，从改进 Google 搜索引擎到创建基于文本的幻想游戏，被称为“大型语言模型”（或 LLM）系统的应用包罗万象。但是这些程序存在严重问题，包括反刍性别歧视和种族主义语言以及不能通过逻辑推理测试等。一大问题是：简单增加数据和计算能力是否能改善这些弱点，还是已到达技术范式的极限？这是 Alphabet 的 AI 实验室 DeepMind 发表的\u003ca href=\"https://deepmind.com/blog/article/language-modelling-at-scale\"\u003e\u003cu\u003e三篇研究论文\u003c/u\u003e\u003c/a\u003e探讨的主题之一。\u003ca href=\"https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher\"\u003e\u003cu\u003e该公司的结论是\u003c/u\u003e\u003c/a\u003e，进一步扩大系统会带来很多改进。DeepMind 研究科学家 Jack Rae 在简报电话会议中告诉记者：“论文的一个关键发现是，大型语言模型的能力仍然在提高，它们在不断进步。这个领域并没有停滞不前。”\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n定期将工作成果馈送给 Google 产品的 DeepMind 构建了一个名为 Gopher 的语言模型研究此类 LLM，该模型具有 2800 亿个参数。参数可以快速衡量语言模型的规模和复杂程度，这意味着 Gopher 比 OpenAI 的 GPT-3（1750 亿个参数）更大，但却比不上一些更具实验性的系统，例如微软和 Nvidia 的 Megatron 模型（5300 亿个参数）。在 AI 世界中，越大越好，通常是正确的，更大的模型通常能提供更好的性能。DeepMind 的研究证实了这一趋势，并表明在最常见的基准测试（如情感分析和总结）上，扩大 LLM 的规模确实可提高性能。研究人员也提醒说，要想解决语言模型固有的一些问题，需要的不仅仅是数据和计算。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-09T07:37:36Z",
+  "Author": "WinterIsComing"
+}

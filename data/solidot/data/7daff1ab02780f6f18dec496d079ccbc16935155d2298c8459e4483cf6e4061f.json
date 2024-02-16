@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "cdrtools 作者 Jörg Schilling 去世",
+  "Link": "https://www.solidot.org/story?sid=69198",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t资深自由软件开发者 Jörg Schilling 因肾癌相关并发症于上周日\u003ca href=\"https://lwn.net/Articles/872489/\"\u003e\u003cu\u003e去世\u003c/u\u003e\u003c/a\u003e。他是一位难以打交道的人，但他贡献的代码曾在一段时间内几乎人人都在使用。他是 \u003ca href=\"https://en.wikipedia.org/wiki/Cdrtools\"\u003e\u003cu\u003e光盘烧录工具集 cdrtools\u003c/u\u003e\u003c/a\u003e 的作者，该项目采用的许可证为 CDDL 和 GPL，因 CDDL 被认为不兼容于 GPL，主要 Linux 发行版都移除了含有 CDDL 授权代码的 cdrtools，切换到 Debian 创建的 GPL 授权分支 cdrkit。Jörg Schilling 还参与了很多其它开源项目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-12T03:42:10Z",
+  "Author": "WinterIsComing"
+}

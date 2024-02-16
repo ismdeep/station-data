@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软修复导致 VPN 连接失败的 bug",
+  "Link": "https://www.solidot.org/story?sid=70432",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上周释出的一月例行安全更新被发现引入了 bug，给企业客户制造了麻烦，会导致 VPN 连接失败。根据微软公布的\u003ca href=\"https://docs.microsoft.com/zh-cn/windows/release-health/status-windows-11-21h2\" target=\"_blank\"\u003e\u003cu\u003e信息\u003c/u\u003e\u003c/a\u003e，问题主要影响包含供应商 ID 的 IPSEC 连接，以及 L2TP 和IPSEC IKE VPN 连接，受影响操作系统包括 Windows 10、Windows 11，Windows Server v2022、20H2、2019 和 2016。最常见受影响的是 Windows 操作系统内置的 VPN 客户端，其它这些连接的第三方客户端也可能会出错。微软在本周释出补丁\u003ca href=\"https://arstechnica.com/gadgets/2022/01/microsoft-fixes-patch-tuesday-bug-that-broke-vpn-in-windows-10-and-11/\" target=\"_blank\"\u003e\u003cu\u003e修复了这些问题\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-19T12:41:17Z",
+  "Author": "WinterIsComing"
+}

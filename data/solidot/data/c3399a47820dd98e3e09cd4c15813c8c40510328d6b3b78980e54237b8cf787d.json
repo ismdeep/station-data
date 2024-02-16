@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "harbian-audit v0.6发布：支持Debian 11",
+  "Link": "https://www.solidot.org/story?sid=68548",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道\u003ci\u003e \u0026#34;HardenedLinux社区在2018年12月公开了\u003ca href=\"https://github.com/hardenedlinux/harbian-audit\" target=\"_blank\"\u003eharbian-audit项目\u003c/a\u003e后，一直持续的进行着bug修复和新功能的开发。此次\u003ca href=\"https://github.com/hardenedlinux/harbian-audit/releases/tag/V0.6.0\" target=\"_blank\"\u003eharbian-audit v0.6版本正式发布\u003c/a\u003e，这个版本在原有支持\u003ca href=\"https://secvery.com/697.html\" target=\"_blank\"\u003eDebian GNU/Linux 9和10及CentOS 8版本的基础\u003c/a\u003e上修复了一些bug及添加了一些新特性，并主要针对\u003ca href=\"https://bits.debian.org/2021/08/bullseye-released.html\" target=\"_blank\"\u003eDebian 11的发布\u003c/a\u003e进行了合规的实现。此项目是目前为止唯一一个整合了\u003ca href=\"https://github.com/hardenedlinux/STIG-OS-mirror/blob/master/redhat-STIG-DOCs/U_Red_Hat_Enterprise_Linux_7_V2R5_STIG.zip\" target=\"_blank\"\u003eSTIG\u003c/a\u003e和\u003ca href=\"https://www.cisecurity.org/\" target=\"_blank\"\u003eCIS\u003c/a\u003e两个安全部署合规指南，并且覆盖Debian和RHEL/CentOS两大企业部署量最大GNU/Linux发行版的自由软件的公开实现。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-15T12:36:12Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 3.9 发布",
+  "Link": "https://www.solidot.org/story?sid=65730",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 语言释出了\u003ca href=\"https://docs.python.org/release/3.9.0/whatsnew/3.9.html\"\u003e\u003cu\u003e 3.9 版本\u003c/u\u003e\u003c/a\u003e。从 Python 3.9 开始，项目从 18 个月发布一个大版本改为每年发布一个大版本。3.9 发布之后并不是 4.0 而是 3.10，Python 3.10 相对于 3.9 以及 3.9 相对于 3.8 都是渐进式改进版本。Python 3.9 的\u003ca href=\"https://lwn.net/Articles/831783/\" target=\"_blank\"\u003e\u003cu\u003e主要变化\u003c/u\u003e\u003c/a\u003e包括：新的字典合并操作符 | 和 |=；放宽对 Decorators 的语法限制；新的字符串方法 removeprefix() 和 removesuffix() 简化从字符串数据中移除不需要的前缀或后缀；新的解析表达式语法取代了 LL(1)；类型提示泛型，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-06T13:39:43Z",
+  "Author": "WinterIsComing"
+}

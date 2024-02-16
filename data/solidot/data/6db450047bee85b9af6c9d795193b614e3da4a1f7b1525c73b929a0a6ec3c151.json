@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客从 Akropolis 偷走了约 200 万美元的数字货币",
+  "Link": "https://www.solidot.org/story?sid=66107",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数字货币借贷服务商 Akropolis 称一名黑客利用“闪贷（flash loan）”攻击\u003ca href=\"https://www.zdnet.com/article/hacker-steals-2-million-from-cryptocurrency-service-akropolis/\"\u003e\u003cu\u003e窃取了\u003c/u\u003e\u003c/a\u003e大约 200 万美元的 Dai 币（这是一种稳定币）。为了防止出现更多损失在监测到攻击之后 Akropolis 一度暂停了所有交易。Akropolis 在网站发表的\u003ca href=\"https://www.notion.so/Akropolis-Hack-Update-10f48dfa44a544e5a7b24f298c759c6d\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中称，攻击发生在 11 月 12 日 UTC 时间 11:50:41 AM，攻击者利用 SavingsModule 智能合约中处理存款逻辑的漏洞，总共窃走了 2,030,841.0177 DAI。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-16T11:58:48Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 6.7 发布",
+  "Link": "https://www.solidot.org/story?sid=64416",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenBSD 项目创始人 Theo de Raadt \u003ca href=\"https://marc.info/?l=openbsd-announce\u0026amp;m=158989783626149\u0026amp;w=2\"\u003e\u003cu\u003e宣布释出 6.7 版本\u003c/u\u003e\u003c/a\u003e。主要新变化包括：FFS2 文件系统成为默认的文件系统；支持 Raspberry Pi 4，改进 Raspberry Pi 3 支持，更好的支持 Rockchip 系统如 Pinebook Pro，改进 AMD smt/core/package 检测，改进硬件支持，移除对部分硬件的支持如 IBM RT PC 板；改进音频驱动，大量驱动更新，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T08:57:10Z",
+  "Author": "WinterIsComing"
+}

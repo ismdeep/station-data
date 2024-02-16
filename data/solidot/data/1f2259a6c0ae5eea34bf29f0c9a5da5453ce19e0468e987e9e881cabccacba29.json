@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊开源 Lumberyard，由 Linux 基金会托管",
+  "Link": "https://www.solidot.org/story?sid=68221",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊\u003ca href=\"https://aws.amazon.com/cn/blogs/gametech/open-3d-engine/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源 Lumberyard，该项目将由 Linux 基金会托管，它是首个开源的功能完整的 3A 级游戏引擎。Lumberyard 是基于 Crytek 的引擎 CryENGINE，此前也允许开发者访问源代码，但有限制并不公开。亚马逊开源的是 Lumberyard 的一个新版本，将其更名为 \u003ca href=\"https://o3de.org/\" target=\"_blank\"\u003e\u003cu\u003eOpen 3D Engine\u003c/u\u003e\u003c/a\u003e，许可证切换到了 Apache 2.0 license 或 MIT，允许不受限制的任意使用，\u003ca href=\"https://github.com/o3de/o3de\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。Linux 基金会\u003ca href=\"https://www.linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e成立 Open 3D 基金会，其创始成员包括了 Adobe、AWS、华为、Niantic、英特尔和 Red Hat 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-07T12:50:04Z",
+  "Author": "WinterIsComing"
+}

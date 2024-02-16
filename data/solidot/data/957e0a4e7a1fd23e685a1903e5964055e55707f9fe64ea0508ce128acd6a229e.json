@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "逾三万思科 IOS XE 设备被黑客利用最新披露的 0day 入侵",
+  "Link": "https://www.solidot.org/story?sid=76379",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t思科刚披露了一个高危 0day CVE-2023-20198，存在于  IOS XE 的 WebUI 中，任何运行 IOS XE、启用 HTTP 或 HTTPS 服务器功能并暴露于公网的交换机、路由器或无线 LAN 控制器都受到影响。攻击者能利用漏洞获得网络的完整管理权限。Shodan 搜索显示有逾 14 万联网的   IOS XE 设备，对这些设备的扫描显示，有 3.45 万设备已经遭到入侵。思科建议系统管理员在补丁可用前先禁用 HTTP 服务器功能。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/over-10-000-cisco-devices-hacked-in-ios-xe-zero-day-attacks/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-18T09:59:50Z",
+  "Author": "Wilson"
+}

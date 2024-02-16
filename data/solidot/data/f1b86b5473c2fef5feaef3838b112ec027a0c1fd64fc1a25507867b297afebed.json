@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 大幅减少浏览器在 macOS 下的功耗",
+  "Link": "https://www.solidot.org/story?sid=61954",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 开发者\u003ca href=\"https://www.zdnet.com/google-amp/article/upcoming-firefox-update-will-decrease-power-usage-on-macos-by-up-to-three-times/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，浏览器 macOS 版本即将发布的更新将大幅减少功耗。Macbook 用户将会受益于这次更新，他们在使用 Firefox 时将会看到更长的电池使用寿命。在 Firefox Quantum 显著提升浏览器速度的同时，功耗的增加日益成为一大问题，许多用户通过社交平台抱怨了 Firefox 在 macOS 下的功耗。Mozilla 工程师 Henrik Skupin \u003ca href=\"https://mobile.twitter.com/whimboo/status/1168437524357898240\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，他们终于修复了 macOS 下的功耗问题，预计在 10 月释出的稳定版本  Firefox 70 将包含这一更新。减少功耗的主要方法是将页面渲染操作切换到 iOS 和 macOS 内置的 Core Animation。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-03T10:43:42Z",
+  "Author": "wenfeixiang"
+}

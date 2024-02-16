@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "腾讯通过 GitHub 向检查用户信息泄露的项目递交律师函",
+  "Link": "https://www.solidot.org/story?sid=66254",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://haveibeenpwned.com/\" target=\"_blank\"\u003eHave I Been Pwned\u003c/a\u003e 是一个非常流行的用户数据泄露检查服务，但要在中国建立类似的服务非常困难，大公司会发出律师函，因为这更方便。最近有数十 GB 的 QQ 用户数据泄露，有开发者\u003ca href=\"https://www.hostloc.com/thread-771644-1-1.html\"\u003e\u003cu\u003e设立了\u003c/u\u003e\u003c/a\u003e一个类似的服务 https://privacy.kallydev.com（已下线），允许用户检查自己的信息是否泄露，\u003ca href=\"https://github.com/kallydev/privacy\"\u003e\u003cu\u003e项目源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。12 月 1 日，腾讯律师在该项目下递交了\u003ca href=\"https://github.com/kallydev/privacy/issues/19\"\u003e\u003cu\u003e律师函\u003c/u\u003e\u003c/a\u003e，称 “QQ查询手机号”网站接口“均提供个人信息查询，该接口以及其信息提供者极有可能已构成侵犯公民个人信息罪，非法侵入计算机信息系统罪，非法获取计算机信息系统数据、非法控制计算机信息系统罪。腾讯公司保留追究相关责任人法律责任的权利，并根据情况随时向公安机关报案。”这位开发者随后删除了项目，关闭了网站。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-02T07:48:53Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.6-rc1 释出，Bcachefs 未能合并",
+  "Link": "https://www.solidot.org/story?sid=76050",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 释出了 Linux 6.6-rc1，标志着合并窗口的关闭。备受瞩目的写时复制文件系统 Bcachefs 再一次未能进入内核主线。Linux 6.6 的新特性包括：EEVDF 调度器，令 AMD chiplet CPU 受益的工作队列变更，实验性引入 DRM 持续集成(CI)，KSMBD 稳定，HP BIOS 设置驱动，AMD Dynamic Boost Control，ReiserFS   标记为准备移除，英特尔 Shadow Stack 支持，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lore.kernel.org/lkml/CAHk-=wgfL1rwyvELk2VwJTtiLNpwxTFeFtStLeAQ-2rTRd34eQ@mail.gmail.com/T/#u\u003cbr/\u003e\nhttps://www.phoronix.com/news/Linux-6.6-rc1\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-11T14:11:37Z",
+  "Author": "Wilson"
+}

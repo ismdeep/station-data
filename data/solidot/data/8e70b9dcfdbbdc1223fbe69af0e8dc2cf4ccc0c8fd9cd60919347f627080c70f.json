@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Kernel 6.3-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=74309",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 释出了 Linux Kernel 6.3-rc1，关闭了合并窗口。主要新特性包括：改进了 EXT4 文件系统 direct I/O 速度，AMD-Xilinx XDMA 驱动，通过 Automatic IBRS 优化 AMD Zen4 性能，8BitDo Pro 2 有线手柄支持，Intel TPMI 驱动，英特尔 TDX、CXL 和 LKGS 指令支持，Ath12k 无线驱动，IPv4 BIG TCP 支持，Btrfs 性能优化，移除 Intel ICC 编译器支持，等等。Linux 6.3 正式版预计会在 4 月底或 5 月初发布。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lore.kernel.org/lkml/CAHk-=wgr1D8hb75Z+nn+4LXUnosp0HM+gP+YJEcEav1DgTC=Cw@mail.gmail.com/T/#u\u003cbr/\u003e\nhttps://www.phoronix.com/news/Linux-6.3-rc1-Released\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-06T08:01:14Z",
+  "Author": "Wilson"
+}

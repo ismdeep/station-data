@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为发布鸿蒙 2.0 源代码",
+  "Link": "https://www.solidot.org/story?sid=65501",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华为消费者业务CEO余承东在开发者大会2020（HDC.Together）\u003ca href=\"http://www.bjnews.com.cn/finance/2020/09/10/767779.html\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e鸿蒙 2.0 版本，并宣布 HarmonyOS 将正式开源，开发者将获得模拟器、SDK 包以及 IDE 工具，2020年底首先对国内开发者发布针对智能手机的HarmonyOS beta版本。余承东表示，华为将代码捐赠给中国开放原子开源基金会，并宣布了 HarmonyOS 的开源路标：“从9月10日起，HarmonyOS将面向大屏、手表、车机等128KB-128MB 终端设备开源，2021年4月将面向内存128MB-4GB终端设备开源，2021年10月以后将面向4GB以上所有设备开源。”HarmonyOS \u003ca href=\"https://openharmony.gitee.com/openharmony\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 gitee.com，\u003ca href=\"https://gitee.com/openharmony/docs/blob/master/LICENSE\"\u003e\u003cu\u003e许可证\u003c/u\u003e\u003c/a\u003e为 Apache Licens Version 2.0。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-10T10:42:22Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FAA 警告 5G 可能干扰航空高度表",
+  "Link": "https://www.solidot.org/story?sid=69534",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国联邦航空管理局（FAA）\u003ca href=\"https://yro.slashdot.org/story/21/11/07/1959246/americas-faa-issues-warning-over-concerns-5g-might-interfere-with-aviation-altimeters\"\u003e担心\u003c/a\u003e在 46 个主要大都市部署的 5G 移动服务。这些服务预计将会限制飞机上依赖雷达高度计（也被称为无线电高度计）的自动化系统的使用，可能会导致航班延误和取消。FAA 副局长 Bradley Mims 称该机构“深切关注 C 波段 5G 网络运行干扰雷达高度计性能对航空安全的潜在影响。” 主要电信公司在去年 FCC 的无线电频谱拍卖中总共支付了 780 亿美元，以获取有限可用无线电频率范围中的一小部分以传输 5G 信号。信号将位于 C 波段的 3.7 至 3.98 GHz 部分，这是承载大数据量的 5G 信号的最佳位置。雷达高度计工作在 4.2-4.4 GHz 频率范围内，令人担心的是附近强大的蜂窝信号会对航空电子设备造成干扰。FCC 批准将该频谱用于 5G，称“精心设计的（无线电高度计）设备通常应该不会受到任何重大干扰。但航空公司表示，数千架飞机面临的风险是真实存在的，FAA 同意这种说法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-08T07:45:46Z",
+  "Author": "WinterIsComing"
+}

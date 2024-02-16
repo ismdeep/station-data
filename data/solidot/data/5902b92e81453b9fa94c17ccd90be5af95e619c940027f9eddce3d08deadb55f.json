@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Opera 桌面浏览器加入跟踪保护",
+  "Link": "https://www.solidot.org/story?sid=62199",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpera 桌面浏览器\u003ca href=\"https://blogs.opera.com/desktop/2019/10/opera-64-faster-more-private-more-fun/\"\u003e\u003cu\u003e释出了 v64\u003c/u\u003e\u003c/a\u003e，主要功能是加入了跟踪保护，限制广告商跟踪用户浏览，Opera 声称启用跟踪保护和广告屏蔽将页面加载时间加速最高 76%。新的跟踪保护功能默认没有启用，是基于 \u003ca rel=\"noreferrer noopener nofollow\" aria-label=\"EasyPrivacy Tracking Protection List (opens in a new tab)\" href=\"https://easylist.to/\" target=\"_blank\"\u003eEasyPrivacy Tracking Protection List\u003c/a\u003e。Opera 浏览器还内置 VPN ，Opera 称它的 VPN 服务不记录日志也不跟踪用户。Opera 64 的其它功能还有内置屏幕截图，可以用鼠标点击也可以按下快捷键 Shift+Ctrl+5。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-10T07:50:33Z",
+  "Author": "wenfeixiang"
+}

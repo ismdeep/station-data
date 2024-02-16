@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNU Radio 3.8.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=61701",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件定义无线电开发框架 GNU Radio\u003ca href=\"https://www.gnuradio.org/news/2019-08-10-gnu-radio-v3-8-0-0-release/\" target=\"_blank\"\u003e\u003cu\u003e 释出了\u003c/u\u003e\u003c/a\u003e六年来第一个小版本号更新 3.8.0.0。GNU Radio 至今已有 18 年历史，它可被用于创建软件定义无线电和信号处理系统。3.8 相比 3.7，在信号处理系统开发上并没有发生根本性改变， 但开发系统变化很大，导致的结果是多项改变不兼容于 3.7。主要变化包括：C++11，3.8 将是最后一个兼容 Py2k 的版本，新的依赖库 MPIR/GMP、Qt5、gsm 和 codec2，VOLK  v2.0.0，等等。具体可阅读发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-13T07:16:41Z",
+  "Author": "wenfeixiang"
+}

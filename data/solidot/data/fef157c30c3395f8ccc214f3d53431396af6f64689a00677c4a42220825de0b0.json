@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客侵入 FBI 电邮系统",
+  "Link": "https://www.solidot.org/story?sid=69614",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客周六\u003ca href=\"https://www.theverge.com/2021/11/14/22781341/fbi-email-system-hacked-fake-cybersecurity-warnings\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e FBI 的一个电子邮件系统，\u003ca href=\"https://cn.reuters.com/article/usfbi-mail-hacking-accident-1115-idCNKBS2I003D?il=0\" target=\"_blank\"\u003e\u003cu\u003e发送了\u003c/u\u003e\u003c/a\u003e数万条假信息，警告可能发生网络攻击。FBI 在一份声明中说，假电邮似乎发送自一个以 @ic.fbi.gov 结尾的合法 FBI 邮箱地址。FBI 称，尽管受该事件影响的硬件“在问题被发现后迅速下线，但这是一个持续的情况”。威胁追踪组织 \u003ca href=\"https://www.spamhaus.org/\"\u003e\u003cu\u003eSpamhaus Project\u003c/u\u003e\u003c/a\u003e 在其推特账户上说，黑客发送了数万封电子邮件，警告可能发生网络攻击。Spamhaus 在推特上发布的其中一封电邮副本\u003ca href=\"https://twitter.com/spamhaus/status/1459452609979371520\" target=\"_blank\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，邮件标题为“紧急：系统中的威胁行为者”，落款似乎是国土安全部。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-15T04:50:34Z",
+  "Author": "WinterIsComing"
+}

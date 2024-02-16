@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯创建自己的 CA 证书颁发机构",
+  "Link": "https://www.solidot.org/story?sid=70919",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因为经济制裁俄罗斯网站使用的 TLS 证书面临到期后无法更新（通用的付费方法被切断），而使用过期的证书会被浏览器屏蔽。为了解决网站访问问题俄罗斯\u003ca href=\"https://www.bleepingcomputer.com/news/security/russia-creates-its-own-tls-certificate-authority-to-bypass-sanctions/\" target=\"_blank\"\u003e\u003cu\u003e创建了自己的可信 TLS CA（证书颁发机构）\u003c/u\u003e\u003c/a\u003e。俄罗斯公共服务门户网站 Gosuslugi 解释称，数字发展部将提供免费的国内替代，取代被撤销或过期的外国安全证书。但新 CA 要被浏览器信任首先需要接受浏览器开发商的审核，而这通常需要很长时间。目前承认俄罗斯新 CA 的浏览器只有该国的 Yandex 和 Atom，俄罗斯建议用户改用这些浏览器，不要使用 Chrome、Firefox 和 Edge 等西方公司的浏览器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-11T10:30:04Z",
+  "Author": "WinterIsComing"
+}

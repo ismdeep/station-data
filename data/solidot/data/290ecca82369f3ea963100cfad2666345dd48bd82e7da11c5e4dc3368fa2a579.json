@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "犹他大学向勒索软件攻击者支付了 45.7 万美元赎金",
+  "Link": "https://www.solidot.org/story?sid=65328",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t犹他大学上周披露，为了避免学生信息泄露，它向勒索软件攻击者\u003ca href=\"https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\" target=\"_blank\"\u003e\u003cu\u003e支付了\u003c/u\u003e\u003c/a\u003e 45.7 万美元赎金。勒索软件背后的攻击者通常在入侵计算机系统加密文件前会先窃取敏感文件，以防万一受害者拒绝支付赎金，它可以以公开敏感信息的威胁来二次勒索。发生在犹他大学身上的勒索软件攻击就是如此。在攻击中，犹他大学服务器上的文件只有 0.02% 遭到加密，IT 人员利用备份恢复了文件。但攻击者威胁泄露学生相关的信息，迫使大学重新思考拒绝支付赎金的决定。犹他大学在\u003ca href=\"https://attheu.utah.edu/facultystaff/university-of-utah-update-on-data-security-incident/\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中称，慎重考虑之后它决定支付赎金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-24T05:35:46Z",
+  "Author": "WinterIsComing"
+}

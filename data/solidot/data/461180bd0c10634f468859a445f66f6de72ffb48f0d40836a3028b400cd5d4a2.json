@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "龙芯发布新处理器 3A4000/3B4000",
+  "Link": "https://www.solidot.org/story?sid=63051",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t龙芯中科周二\u003ca href=\"http://news.sciencenet.cn/htmlnews/2019/12/434185.shtm\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了它的新通用 CPU 3A4000/3B4000。3A4000/3B4000 是龙芯 3 号系列处理器中首款基于 GS464v 微架构的四核处理器，兼容 MIPS64。\u003ca href=\"http://www.loongson.cn/product/cpu/3/1288.html\" target=\"_blank\"\u003e\u003cu\u003e官方说明\u003c/u\u003e\u003c/a\u003e（\u003ca href=\"http://www.loongson.cn/uploadfile/cpu/3A4000data.pdf\"\u003e\u003cu\u003e数据手册\u003c/u\u003e\u003c/a\u003e）称，“相比上一代 GS464e 微架构，进一步优化流水线，提升运行频率，加强对虚拟化、向量支持、加解密、安全机制等方面的支持。相比上一代四核处理器龙芯 3A3000，芯片整体实测性能提升一倍左右。操作系统应用程序与龙芯 3A3000 实现二进制兼容。龙芯 3A4000/3B4000 采用全新的 FCBGA-1211 封装，不再向前兼容。龙芯 3B4000 支持多达八片结构的多路一致性互连。”龙芯 3A4000/3B4000 使用与上一代产品相同的 28nm 工艺，主频 1.8GHz-2.0GHz，SPEC CPU2006 定点和浮点单核分值均超过 20 分，是上一代产品的两倍以上。它能从机制上有效防范 Meltdown 和 Spectre 等漏洞，支持专用安全可信模块及国密算法，支持“影子栈”等访问控制机制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-25T03:04:28Z",
+  "Author": "WinterIsComing"
+}

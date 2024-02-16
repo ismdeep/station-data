@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "摩洛哥记者手机被秘密植入 NSO 的间谍软件",
+  "Link": "https://www.solidot.org/story?sid=64763",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以色列间谍软件开发商 NSO Group 过去几年一直受到批评，它被指向存在人权问题的国家出售间谍软件  Pegasus，而 Facebook 旗下的消息应用 WhatsApp 去年对 NSO Group 提起了诉讼，指控该公司的间谍软件 Pegasus 入侵了它的 1000 多名用户，其中包括知名人权律师、活动人士、记者和学者。对此，NSO Group 的一个回应是宣布了所谓的人权政策。大赦国际指出，在 NSO 人权政策发表仅三天后，它的间谍软件就被用于入侵了摩洛哥知名调查记者 Omar Radi 的 iPhone 手机。幕后入侵者被认为是摩洛哥政府，但 NSO 以为客户保密为由拒绝证实。2019 年 12 月摩洛哥当局逮捕了 Radi，理由是他早些时候在 Twitter 上发的贴子，今年 3 月他被判了 4 个月的缓刑。大赦国际的安全实验室调查了他的手机，\u003ca href=\"https://www.amnesty.org/en/latest/research/2020/06/moroccan-journalist-targeted-with-network-injection-attacks-using-nso-groups-tools/\" target=\"_blank\"\u003e\u003cu\u003e找到了 Pegasus  入侵证据\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-24T12:23:44Z",
+  "Author": "WinterIsComing"
+}

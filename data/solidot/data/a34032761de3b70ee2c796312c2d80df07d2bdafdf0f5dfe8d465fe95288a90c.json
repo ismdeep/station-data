@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 2.7 最后一个版本 2.7.18 发布",
+  "Link": "https://www.solidot.org/story?sid=64175",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 语言项目\u003ca href=\"https://mail.python.org/archives/list/python-announce-list@python.org/thread/OFCIETIXLX34X7FVK5B5WPZH22HXV342/\" target=\"_blank\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Python 2.7 分支最后一个版本也是一个非常特殊的版本：Python 2.7.18。2.7.18 是接近欧拉常数的 Python 版本号。欧拉常数 e 是无理数，约等于 2.71828。开发者表示，仍然使用 Python 2 分支的用户可以使用欧拉常数去计算技术债务复利。开发者最后对已退休的仁慈独裁者 Guido van Rossum 表达了感谢。2.7.18 之后开发者不再发布任何更新，接替 Python 2 的 Python 3 早在 2008 年就已经发布，但由于它不向后兼容，导致许多用户仍然停留在 Python 2 分支。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-21T06:58:19Z",
+  "Author": "WinterIsComing"
+}

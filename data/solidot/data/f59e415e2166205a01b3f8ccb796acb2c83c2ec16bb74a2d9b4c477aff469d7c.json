@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.0-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=72476",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds \u003ca href=\"https://lkml.iu.edu/hypermail/linux/kernel/2208.1/06638.html\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Linux 6.0 的首个 RC 版本。主要变化\u003ca href=\"https://www.phoronix.com/review/linux-60-features\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e：改进在服务器处理器上的性能，支持英特尔和 AMD 的新硬件，AMD Zen 4 CPU 和  RDNA3 GPU 的预备工作，支持高通 Snapdragon 8cx Gen3 和初步支持联想 ThinkPad X13s Arm 笔记本电脑，64 位 Arm THP SWAP 支持，AMD Retbleed IBPB 缓解，新 RISC-V 扩展 Zicbom、Zihintpause 和 Sstc，改进龙芯 \n LoongArch 架构支持，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-16T07:27:08Z",
+  "Author": "WinterIsComing"
+}

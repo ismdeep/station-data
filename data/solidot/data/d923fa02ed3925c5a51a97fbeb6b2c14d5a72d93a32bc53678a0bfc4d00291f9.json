@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 本月例行更新存在 bug",
+  "Link": "https://www.solidot.org/story?sid=63528",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用户报告，Windows 10 本周释出的二月例行累积更新 KB4532693 存在 bug，会不正确的加载用户配置文件，导致用户桌面和开始菜单重置为默认。微软是在周二释出了 Windows 10 v1909 和 v1903 累积更新 \u003ca href=\"https://answers.microsoft.com/en-us/windows/forum/all/cumulative-updates-february-11th-2020/548d4ded-39a1-4270-a866-627ea7c25de6\"\u003e\u003cu\u003eKB4532693\u003c/u\u003e\u003c/a\u003e。用户在微软官方问答网站\u003ca href=\"https://answers.microsoft.com/en-us/windows/forum/all/every-time-windows-10-updates-it-deletes-all-saved/1731ff79-c474-408e-a7a0-b4ee5e5384ea\" target=\"_blank\"\u003e\u003cu\u003e反应了\u003c/u\u003e\u003c/a\u003e这一问题。微软最近几个月释出了更新都被发现存在些 bug，会影响到部分用户，比如 Windows 7 的最后一次更新会导致桌面变黑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-14T09:52:07Z",
+  "Author": "WinterIsComing"
+}

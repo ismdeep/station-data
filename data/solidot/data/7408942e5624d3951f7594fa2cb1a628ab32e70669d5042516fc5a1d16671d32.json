@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Level3 发生大规模网络中断事故",
+  "Link": "https://www.solidot.org/story?sid=65394",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTier 1 网络供应商 Level3 在美国时间 8 月 30 日\u003ca href=\"https://puck.nether.net/pipermail/outages/2020-August/013187.html\"\u003e\u003cu\u003e发生了\u003c/u\u003e\u003c/a\u003e大规模网络中断事故，主要影响 IPv4，IPv6 不受影响。Level3 的事故连带影响到了 CDN 服务商以及 CDN 的客户，用户通过社交网络报告众多流行的服务和网站\u003ca href=\"https://www.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html\"\u003e\u003cu\u003e出现连接问题\u003c/u\u003e\u003c/a\u003e，其中包括 Hulu、PlayStation Network、Xbox Live、Feedly、Discord 等等。事故的主要影响地区为欧洲和美国。\u003ca href=\"https://en.wikipedia.org/wiki/Tier_1_network\" target=\"_blank\"\u003e\u003cu\u003eTier 1 网络供应商\u003c/u\u003e\u003c/a\u003e是无需为对等互联支付任何 IP 转接费用的全球性 IP 网络，如中国电信和联通都不是 Tier 1 网络供应商。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-31T06:17:39Z",
+  "Author": "WinterIsComing"
+}

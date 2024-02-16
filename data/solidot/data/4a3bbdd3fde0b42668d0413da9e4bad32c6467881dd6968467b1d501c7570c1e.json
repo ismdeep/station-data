@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果回应 Web APP 的数据删除问题",
+  "Link": "https://www.solidot.org/story?sid=63935",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果刚刚\u003ca href=\"https://www.solidot.org/story?sid=63926\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Safari 浏览器将默认完全屏蔽第三方 Cookie，同时它还决定对储存在本地的脚本写入数据设置一个 7 天过期的时间，如果用户在 7 天内没有与相关网站有任何互动，那么数据将会自动删除。这一决定招致了批评，\u003ca href=\"https://ar.al/2020/03/25/apple-just-killed-offline-web-apps-while-purporting-to-protect-your-privacy-why-thats-a-bad-thing-and-why-you-should-care/\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e苹果在保护隐私的名义下事实上杀死了离线 Web APP。苹果\u003ca href=\"https://twitter.com/johnwilander/status/1242882202301427712\"\u003e\u003cu\u003e更新\u003c/u\u003e\u003c/a\u003e了它的博文，对此问题做出了进一步的\u003ca href=\"https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/\"\u003e\u003cu\u003e阐述\u003c/u\u003e\u003c/a\u003e：苹果称添加到主屏幕的 Web APP 将有自己的使用天数计数器，对其的使用将会重置计数器，苹果表示它不认为 Web APP 中的第一方会遭遇网站数据删除问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-26T06:45:26Z",
+  "Author": "WinterIsComing"
+}

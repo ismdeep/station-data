@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 发布 Android 11 开发者预览版",
+  "Link": "https://www.solidot.org/story?sid=63583",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://venturebeat.com/2020/02/19/google-launches-android-11-developer-preview-1/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Android 操作系统下一个大版本的\u003ca href=\"https://developer.android.com/preview/download.html\"\u003e\u003cu\u003e首个开发者预览版\u003c/u\u003e\u003c/a\u003e。过去五年，Google 都是在第一季度释出下一代 Android 系统的预览版本。预览版本是针对开发者群体而不是普通用户或尝鲜者，提供了预览版 SDK 和 Pixel 系列手机的系统镜像。Android 11 Developer Preview 1 包括：更新 Bandwidth estimator API 支持 5G；支持针孔屏和瀑布屏；消息应用可使用 Bubbles API 在多任务中浏览和访问会话；一次性敏感数据访问授权；确保应用只在真正需要时请求位置授权，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-20T06:01:29Z",
+  "Author": "WinterIsComing"
+}

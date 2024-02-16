@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "深信服证实其 VPN 设备存在正被利用的漏洞",
+  "Link": "https://www.solidot.org/story?sid=64041",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t深信服发表\u003ca href=\"https://mp.weixin.qq.com/s/lKp_3kPNEycXqfCnVPxoDw\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，证实其 VPN 设备存在漏洞，攻击者正利用漏洞欺骗设备下载恶意的更新包。深信服称，它的 SSL VPN 设备 Windows 客户端升级模块签名验证机制存在缺陷。攻击者如果利用其它已知漏洞或弱密码控制设备之后\u003ca href=\"https://www.freebuf.com/column/232587.html\" target=\"_blank\"\u003e\u003cu\u003e可以纂改升级配置文件\u003c/u\u003e\u003c/a\u003e，将升级包下载指向攻击者控制的恶意文件和对应文件 MD5。当客户端检测到更新启动下载之后它会下载恶意的更新包，执行安装在设备上植入木马。深信服称受影响的版本为 M6.3R1 和 M6.1。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-07T05:43:07Z",
+  "Author": "WinterIsComing"
+}

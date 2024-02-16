@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Muse Group 与乐谱下载软件作者之间的分歧引发争议",
+  "Link": "https://www.solidot.org/story?sid=68349",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t旗下拥有多个开源音频应用如 Audacity、MuseScore 和 MuseClass 的 Muse Group 再次在开源社区引发了争议，这次涉及的应用是 \u003ca href=\"https://musescore.com/sheetmusic\" target=\"_blank\"\u003e\u003cu\u003eMuseScore\u003c/u\u003e\u003c/a\u003e。MuseScore 应用本身采用 GPLv3 授权，允许任何人创建分支和修改，它让音乐家可以创建、共享和下载乐谱。它提供的乐谱有的是公有领域，有的是知识共享，但还有很多是版权所有，是商业性的，需要付费。一位华裔开发者 Wenzheng Tang (aka \u0026#34;\u003ca href=\"https://github.com/Xmader\"\u003eXmader\u003c/a\u003e\u0026#34; ) 创建了 MuseScore 的一个分支，但很快停止更新，他引起 Muse Group 注意的是创建的另外两个应用 \u003ca href=\"https://github.com/Xmader/musescore-downloader\"\u003emusescore-downloader\u003c/a\u003e 和 \u003ca href=\"https://github.com/Xmader/musescore-dataset\"\u003emusescore-dataset\u003c/a\u003e 允许使用者绕过订阅下载乐谱，其中包括版权乐谱。MuseScore 开发者去年 2 月要求 Xmader 下架这两个应用，威胁将其信息通过律师转交给中国政府。今年 5 月此事再次引发关注，MuseScore 开发者承认如果提起刑事诉讼 Xmader \u003ca href=\"https://arstechnica.com/gadgets/2021/07/audacitys-new-owner-is-in-another-fight-with-the-open-source-community/\"\u003e\u003cu\u003e可能面临驱逐\u003c/u\u003e\u003c/a\u003e，可能会被捕，开发者表示他年轻聪明但有点天真。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-22T02:21:50Z",
+  "Author": "WinterIsComing"
+}

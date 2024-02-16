@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件组织声称从英特尔子公司窃取了 53GB 内部数据",
+  "Link": "https://www.solidot.org/story?sid=66376",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPay2Key 勒索软件组织在其暗网网站上声称从英特尔子公司  Habana Labs \u003ca href=\"https://www.theregister.com/2020/12/14/habana_labs_ransomware/\" target=\"_blank\"\u003e\u003cu\u003e窃取了 53GB 的内部文件\u003c/u\u003e\u003c/a\u003e。Pay2Key 公布了  Habana Labs 软件源代码的截图，给英特尔和 Habana Labs 72 小时时间支付赎金，否则将会泄露更多内部数据。英特尔是在 2019 年 12 月以 20 亿美元收购了以色列创业公司 Habana Labs，该公司的产品是用于数据中心的深度学习加速芯片。今天的勒索软件组织通常会进行双重勒索，首先是加密计算机然后是威胁公开加密前窃取的内部文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-15T14:05:48Z",
+  "Author": "WinterIsComing"
+}

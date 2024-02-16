@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 CPU SGX 曝出新安全漏洞 Plundervault",
+  "Link": "https://www.solidot.org/story?sid=62917",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t科学家披露了名为 \u003ca href=\"https://plundervolt.com/\"\u003e\u003cu\u003ePlundervault\u003c/u\u003e\u003c/a\u003e 的攻击能让英特尔 CPU 的 Software Guard Extensions（SGX）泄露密钥和导致其它错误。英特尔已经释出了微码更新修复问题，\u003ca href=\"https://github.com/KitMurdock/plundervolt\"\u003e\u003cu\u003e概念验证攻击代\u003c/u\u003e\u003c/a\u003e码将发布在 GitHub 上。芯片巨人称它的 SGX 作为一个私有区域能将敏感计算和数据与高权限恶意进程隔离开来。但计算机科学家发现，CPU 的微妙电压波动能破坏 SGX 内部的正常功能。通过过压或欠压增加或降低输送到 CPU 的电流，科学家找到了方法诱导 SGX 错误泄露密钥，破坏完整性，潜在诱导内存错误用于其他类型的攻击。虽然漏洞利用需要执行特权代码，但它并不依赖于物理访问，因此有可能用于远程攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-11T12:39:51Z",
+  "Author": "WinterIsComing"
+}

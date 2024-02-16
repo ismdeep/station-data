@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Emacs 29 开发基本完成",
+  "Link": "https://www.solidot.org/story?sid=73517",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEmacs 29 的开发基本完成，不再增加新功能，未来主要集中在修复 bug 上面。Emacs 29 的新特性包括：Eglot 成为核心的一部分不再需要安装；解析器生成器工具 TreeSitter 成为核心的一部分；使用 package.el 可以直接从 Git 安装软件包；以前 Emacs 在 GUI 模式下依赖于 Xorg，随着 Wayland 的日益流行，Emacs 现在能原生支持 Wayland；原生支持  SQLite，HaikuOS 支持，csharp-mode，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lists.gnu.org/archive/html/emacs-devel/2022-11/msg01774.html\u003cbr/\u003e\nhttps://blog.phundrak.com/emacs-29-what-can-we-expect/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-30T07:32:55Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Uber 让窃取 5700 万用户数据的黑客签署保密协议",
+  "Link": "https://www.solidot.org/story?sid=62452",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客在 2016 年窃取了 5700 万 Uber 客户和司机的数据，而打车巨头隐瞒这一数据泄露事件长达一年，它支付了 10 万美元让黑客删掉数据。随着两位黑客在本周三\u003ca href=\"https://www.nytimes.com/2019/10/30/technology/uber-lyndacom-hacks-guilty-plea.html\"\u003e\u003cu\u003e认罪\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.cbsnews.com/news/uber-hack-company-allegedly-paid-hackers-ransom-had-them-sign-ndas/\" target=\"_blank\"\u003e\u003cu\u003e此案的更多细节逐渐曝光\u003c/u\u003e\u003c/a\u003e。事件发生在 2016 年 10 月，两位黑客是通过访问 Uber 软件工程师使用的私有 GitHub 库获取到登录凭证，然后利用凭证登录 Uber 的 AWS 账号，访问储存的数据，发现了 Uber 客户和司机的信息，然后发邮件给 Uber 索要金钱。在支付勒索金之后，Uber 的雇员在数周内找到了两人，两人也承认了罪行，但 Uber 没有将他们交给警察，而是与他们签署了保密协议，要求他们承诺保密。此案还涉及到第三人，而窃取的数据究竟如何处理了没人能真正知道。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-01T07:35:22Z",
+  "Author": "wenfeixiang"
+}

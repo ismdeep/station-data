@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "程序员解决 20 年前的加密问题",
+  "Link": "https://www.solidot.org/story?sid=63032",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRon Rivest 上个世纪为一个 1999 年的时间胶囊设计了加密方法。Ron Rivest 是公钥加密算法 RSA 中的 R，他和其他两人（Adi Shamir 和 Leonard Adleman）因 RSA 算法上的贡献而在 2002 年获得图灵奖。他为时间胶囊设计的加密方法并不复杂，主要考虑了计算复杂度，涉及到一个进行约 80 万亿次的平方运算。他根据 1999 年的计算机运算能力和摩尔定律估计，算出问题的\u003ca href=\"https://www.wired.com/story/a-programmer-solved-a-20-year-old-forgotten-crypto-puzzle/\"\u003e\u003cu\u003e答案需要 35 年时间\u003c/u\u003e\u003c/a\u003e。但在 2015 年，自学成才的程序员 Bernard Fabrot 发现，使用自由软件 GNU Multiple Precision Arithmetic Library，他能在更短时间内算出答案，他开始用家用 PC 的一个 CPU 核心每周 7 天每天 24 小时执行计算，历时 3 年半时间得到了结果。与此同时，一群加密专家组成的小组 Cryptophage 也尝试去解决这个问题，他们使用的是 FPGA 芯片，FPGA 执行特定算法的效率远高于高端 CPU，他们花了两个月时间算出了结果。但当他们通知 Rivest 教授，却被告知有人抢先完成了。Rivest 教授说，这是惊人的巧合，他承认自己高估了问题的难度，没有预料到像 FPGA 这样的技术突破。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-23T11:04:53Z",
+  "Author": "WinterIsComing"
+}

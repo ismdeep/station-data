@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123",
+  "Link": "https://www.solidot.org/story?sid=76898",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tStability AI 发布了能根据单幅图像生成对象各个角度视图的模型 Stable Zero123。Stable Zero123 是基于 Stable Diffusion 1.5，生成一个视图消耗的内存与 Stable Diffusion 1.5 相同，但如果要生成 3D 视图需要更多时间和更多内存，建议 24GB。Stable Zero123 目前只支持研究目的的非商业使用。代码和权重发布在 Hugging Face 上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://stability.ai/news/stable-zero123-3d-generation\u003cbr/\u003e\nhttps://huggingface.co/stabilityai/stable-zero123\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-15T15:46:40Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "密码检查算法高危漏洞允许任何人登陆思科的 Wi-Fi 管理软件",
+  "Link": "https://www.solidot.org/story?sid=71260",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t思科\u003ca href=\"https://www.theregister.com/2022/04/14/cisco_wireless_controller_flaw/\" target=\"_blank\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个高危等级 10/10 的漏洞 \u003ca href=\"https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-auth-bypass-JRNhV4fF\" target=\"_blank\"\u003e\u003cu\u003eCVE-2022-20695\u003c/u\u003e\u003c/a\u003e，影响其 Wi-Fi 管理软件 Wireless LAN Controller (WLC)。思科称，漏洞是因为\n密码检查算法的不正确实现导致的，攻击者可以通过构造凭证利用漏洞登陆受影响的设备。受影响的思科设备需要尽快更新到最新版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-15T13:00:08Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 要求 Android TV 设备支持 AV1 解码",
+  "Link": "https://www.solidot.org/story?sid=66703",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t成员包括亚马逊、Google 和苹果等主要科技公司 Alliance for Open Media（AOMedia）联盟在 2018 年释出了开源免专利费的编解码器 AOMedia Video Codec 1.0 (AV1)。但其普及度至今十分缓慢，也许在 2021 年它的推广可能会加速，Google 据报道\u003ca href=\"https://www.xda-developers.com/google-requires-new-android-tv-av1-video-decoding/\" target=\"_blank\"\u003e\u003cu\u003e已经强制\u003c/u\u003e\u003c/a\u003e要求 3 月 31 日之后发布的所有新 Android TV 设备支持 AV1 视频解码。据报道最近发布的 4K HDR Android TV 设备已经使用了兼容 AV1 的 SoC，如联发科的 T30/T31/T32 或 Realtek RTD2851M。TCL 的 X915 8K TV 就支持  AV1 解码，它使用的 SoC 是 RTD2851M。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-19T13:26:13Z",
+  "Author": "WinterIsComing"
+}

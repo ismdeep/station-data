@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "uMatrix 存档结束活跃开发",
+  "Link": "https://www.solidot.org/story?sid=65596",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行扩展 uBlock Origin 和 uMatrix 的作者 Raymond Hill 将 \u003ca href=\"https://github.com/gorhill/uMatrix\"\u003e\u003cu\u003euMatrix 代码库\u003c/u\u003e\u003c/a\u003e存档，进入只读模式，这意味着该项目结束了活跃开发，在可预计的未来不会再有更新。uMatrix 设计提供给高级用户使用，提供了类似防火墙的隐私增强工具，支持 Firefox 和 Google Chrome。Raymond Hill \u003ca href=\"https://yro.slashdot.org/story/20/09/20/2124248/browser-extension-umatrix-ends-active-development\"\u003e\u003cu\u003e建议\u003c/u\u003e\u003c/a\u003e其他开发者可以使用新的名字创建新的分支继续开发 uMatrix。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-21T06:00:48Z",
+  "Author": "WinterIsComing"
+}

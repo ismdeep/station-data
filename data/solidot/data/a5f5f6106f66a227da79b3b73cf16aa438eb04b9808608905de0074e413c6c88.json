@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FOSS News: Signal 本应更好地回应反审查社区",
+  "Link": "https://www.solidot.org/story?sid=66949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:realducksoft@gmail.com\"\u003erealducksoft\u003c/a\u003e 写道 \u0026#34;在埃隆·马斯克的推特和许多其他关键人物的推荐之后，Signal 成功地获得了大量的活跃用户，其中还包括通常推荐使用 Signal 的爱德华·斯诺登。毫无疑问，Signal 是目前最私密的 WhatsApp 替代品之一。\n\u003cp\u003e然而，最近发生的一些事件，涉及到一些来自反审查社区的安全研究人员报告了Signal对伊朗的审查规避技术的关键缺陷，让作者重新思考了 Signal 作为一家公司如何应对并向整个开源社区展示自己。\u003c/p\u003e\n\u003cp\u003e\n\u003c/p\u003e\n\u003cp\u003e来源：\u003ca href=\"https://news.itsfoss.com/signal-github-controversy/\"\u003eFOSS News\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\n\u003c/p\u003e\n\u003cp\u003e\n\u003c/p\u003e\n\u003cp\u003e相关资讯：1. 研究人员发现 Signal 的 TLS 代理会泄漏 DNS 和 API 请求（\u003ca href=\"https://www.solidot.org/story?sid=66897\" target=\"_blank\"\u003eSolidot\u003c/a\u003e）\u003c/p\u003e\n\u003cp\u003e2. Signal 无视代理漏洞，称“这不是风险”（\u003ca href=\"https://www.solidot.org/story?sid=66889\" target=\"_blank\"\u003eSolidot\u003c/a\u003e）\u0026#34;\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-18T00:36:48Z",
+  "Author": "WinterIsComing"
+}

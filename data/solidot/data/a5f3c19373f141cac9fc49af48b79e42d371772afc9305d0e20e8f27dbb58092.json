@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "2021 年 0day 漏洞利用分析",
+  "Link": "https://www.solidot.org/story?sid=71343",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Mandiant \u003ca href=\"https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-most-zero-day-exploits-during-2021/\"\u003e\u003cu\u003e分析\u003c/u\u003e\u003c/a\u003e了 2021 年 0day 漏洞利用。0day 漏洞是指在发现时未修复或此前未知，因此在修复补丁释出前会有一个时间空挡，黑客可乘着空挡利用漏洞发动攻击。2021 年共发生了 80 起 0day 漏洞利用案例，比 2020 年和 2019 年之和还要多 18 起，其中中国黑客利用了 8 个，俄罗斯用了 2 个，朝鲜用了 1 个。最著名的案例是黑客组织 Hafnium 使用了微软 Microsoft Exchange 服务器的 4 个 0day 访问西方组织的电邮通信。勒索软件组织 HelloKitty 利用了 SonicWall SMA 100 VPN 的 1 个 0day。微软、苹果和 Google 软件的 0day 利用占到了所有攻击的四分之三。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-24T11:21:00Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布 .NET 5.0",
+  "Link": "https://www.solidot.org/story?sid=66063",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/dotnet/announcing-net-5-0/\"\u003e\u003cu\u003e发布了 .NET 5.0\u003c/u\u003e\u003c/a\u003e。新版包括了 \u003ca href=\"https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/\"\u003eASP.NET Core\u003c/a\u003e，\u003ca href=\"https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/\"\u003eEF Core\u003c/a\u003e，\u003ca href=\"https://devblogs.microsoft.com/dotnet/c-9-0-on-the-record/\"\u003eC# 9\u003c/a\u003e 和 \u003ca href=\"https://devblogs.microsoft.com/dotnet/announcing-f-5/\"\u003eF# 5\u003c/a\u003e，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布  .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-11T06:54:14Z",
+  "Author": "WinterIsComing"
+}

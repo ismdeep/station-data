@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "估算可见宇宙的信息总量",
+  "Link": "https://www.solidot.org/story?sid=69307",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员长期以来怀疑信息与物理宇宙之间存在联系，他们提出了各种悖论和思想实验，探索信息可以如何以及为什么被编码在物理物质中。数字时代推动了这一领域的发展，这些问题的解决能在物理和计算的多个分支中产生切实的应用。\n\u003cbr/\u003e\n\u003cbr/\u003e\nUniversity of Portsmouth 的一名研究人员在《AIP Advances》期刊上\u003ca href=\"https://aip.scitation.org/doi/full/10.1063/5.0064475\"\u003e\u003cu\u003e撰文\u003c/u\u003e\u003c/a\u003e，试图探讨到底存在多少信息，对宇宙中所有可见物质的编码信息量\u003ca href=\"https://phys.org/news/2021-10-amount-visible-universe-quantified.html\"\u003e\u003cu\u003e进行了估算\u003c/u\u003e\u003c/a\u003e——大约是  6.036 × 10\u003csup\u003e80\u003c/sup\u003e bits。虽然不是第一次有人进行此类估算，但这项研究的方法依赖的是信息论。\n\u003cbr/\u003e\n\u003cbr/\u003e\n为了进行估算，论文作者使用了 Shannon 信息论，将可观测宇宙里每个基本粒子中编码的信息量化为 1.509 bits 的信息。这种量化信息的方法是由数学家 Claude Shannon 于 1948 年提出的，因为信息论方面的成就，他被称为数字时代之父。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-20T08:17:16Z",
+  "Author": "wanwan"
+}

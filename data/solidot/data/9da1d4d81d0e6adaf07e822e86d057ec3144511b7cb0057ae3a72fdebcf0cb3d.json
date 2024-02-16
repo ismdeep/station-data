@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PCIe 5.0 电源连接器支持最高 600W",
+  "Link": "https://www.solidot.org/story?sid=69185",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达将于 1 月份推出的旗舰显卡 GeForce RTX 3090 Ti 据报道是首款支持 PCIe 5.0 电源连接器的显卡。PCIe Gen5 是新一代标准，它\u003ca href=\"https://videocardz.com/newz/high-power-pcie-gen5-power-connector-for-next-gen-gpus-pictured-up-to-600w\" target=\"_blank\"\u003e\u003cu\u003e将最终解决\u003c/u\u003e\u003c/a\u003e目前 8 针电源连接器的一个最大缺点——无法提供足够的功率（最高为 150W）。Igor\u0026#39;sLAB 的 Igor Wallossek 获得了新连接器的原理图和信息，确认确实新标准即将到来并且可能在 2022 年应用于所有新一代显卡。PCIe 5.0 电源连接器有 16 个引脚，其中 12 个电源和 4 个 信号触点，但这不是 MicroFit Molex 标准，而是一种全新的方式。和现有的连接器相比，该标准具有更小的间距——从 4.2 毫米变为了 3.0 毫米。连接器宽度为 18.85  毫米，所以它的绝对尺寸并不小，但是却比两个或者三个 8 针连接器要小。这将大大简化电路和 PCB设计流程，还能节省空间。PCI-SIG 规范规定每个引脚可以承受 9.2A 电流，这意味着使用 12V 的电压时电流总共可达到 55.2A。Igor 指出，这提供了 662W 的最大功率，但官方规格的最大功率为600W。目前尚不清楚信号触点的用途，也不清楚它们是必需的还是可选配置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-11T08:53:04Z",
+  "Author": "wanwan"
+}

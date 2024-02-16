@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gitee 开源库将先审再上线",
+  "Link": "https://www.solidot.org/story?sid=71569",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t国内的 GitHub 替代 Gitee \u003ca href=\"https://www.zhihu.com/question/533388365/answer/2491172345\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e所有开源库将先审再上线，即日生效。Gitee 在周三晚上发表的声明中称：Gitee 即日起执行开源仓库审核后上线的措施，所有新上线的开源仓库需要进行人工审核后可正式公开。已经是开源状态的仓库，我们会暂时转为私有仓库，经审核后会进行公开，同时我们会加大对于审核的技术投入和人力投入，加快审核进度，努力确保每一名开发者的使用体验。此举也是迫于无奈，目前已经是 Gitee 团队能确保大家尽快正常使用的最优解，我们正在尽全力减少大家的不便，希望大家能够理解。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-19T02:38:11Z",
+  "Author": "WinterIsComing"
+}

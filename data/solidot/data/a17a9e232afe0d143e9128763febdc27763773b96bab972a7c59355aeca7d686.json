@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 92 发布",
+  "Link": "https://www.solidot.org/story?sid=68844",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/92.0/releasenotes/\"\u003e\u003cu\u003eFirefox 92\u003c/u\u003e\u003c/a\u003e。主要新特性包括：使用 HTTPS RR 自动升级到 HTTPS，其中 RR 代表 \u003ca href=\"https://emilymstark.com/2020/10/24/strict-transport-security-vs-https-resource-records-the-showdown.html\"\u003e\u003cu\u003eResource Records\u003c/u\u003e\u003c/a\u003e，是一种新型的 DNS 记录，本质上说如果一个域名支持 HTTPS 那么在浏览器上输入该域名的 HTTP 地址将会自动升级到 HTTPS；全域色彩级支持视频播放；Mac 用户可通过浏览器文件菜单访问 macOS 共享选项；macOS 支持 ICC v4 图像。此外还有 bug 和安全修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-07T13:55:51Z",
+  "Author": "WinterIsComing"
+}

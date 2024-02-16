@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 与科学家合作开发出能以 99% 的精度识别 deepfake 的系统",
+  "Link": "https://www.solidot.org/story?sid=68063",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFacebook AI Research 与密歇根州立大学的计算机科学家合作\u003ca href=\"https://www.theregister.com/2021/06/17/facebook_deepfake_identification/\" target=\"_blank\"\u003e\u003cu\u003e构建出一种原型系统\u003c/u\u003e\u003c/a\u003e，能以 99% 的精度识别 deepfake（利用神经网络伪造的） 图像。系统还能推断用于伪造图像的神经网络架构，比如说这批图像是用模型 A 创造的，而那些图像则是用模型 B 创造的。他们的\u003ca href=\"https://arxiv.org/abs/2106.07873\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e发表在预印本网站 arxiv 上。论文作者之一的 Facebook 研究员 Tal Hassner 称他们的逆向工程方法依赖于发现生成 deepfake 图像背后的 AI 模型的独特模式。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-17T14:23:52Z",
+  "Author": "WinterIsComing"
+}

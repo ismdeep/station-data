@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "在 Finder 的右键菜单中添加「Open in VSCode」",
+  "Link": "https://liam.page/2020/04/22/Open-in-VSCode-on-macOS/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e本文记录如何利用 macOS 的「自动操作」，在 Finder 右键菜单中添加「Open in VSCode」功能。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e操作步骤如下：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e打开 Automator.app（自动操作）\u003c/li\u003e\n\u003cli\u003e选择 Quick Action（快速操作）\u003cbr/\u003e\u003cimg data-src=\"/uploads/images/computer-skills/quick-action.jpg\"/\u003e\u003c/li\u003e\n\u003cli\u003e配置工作流\u003cul\u003e\n\u003cli\u003eWorkflow recieves current（工作流接受当前），选择 files or folders（文件或文件夹）\u003c/li\u003e\n\u003cli\u003ein（位于），选择 Finder（访达）\u003cbr/\u003e\u003cimg data-src=\"/uploads/images/computer-skills/workflow-recieves.jpg\"/\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e新增一个 Open Finder Items（打开访达项目）的操作\u003cul\u003e\n\u003cli\u003eopen with（打开方式），选择 Visual Studio Code.app\u003cbr/\u003e\u003cimg data-src=\"/uploads/images/computer-skills/open-finder-items.jpg\"/\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e保存为 \u003ccode\u003eOpen in VSCode\u003c/code\u003e\u003cbr/\u003e\u003cimg data-src=\"/uploads/images/computer-skills/save-open-in-vscode.jpg\"/\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e此时，在 Finder 中选中任意目录，而后右键 -\u0026gt; Quick Actions（快速操作）-\u0026gt; \u003ccode\u003eOpen in VSCode\u003c/code\u003e 即可用 VSCode 打开选中的目录。\u003c/p\u003e\n\u003cp\u003e\u003cimg data-src=\"/uploads/images/computer-skills/open-in-vscode.jpg\"/\u003e\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2020-04-22T13:21:17Z",
+  "Author": "Liam Huang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西雅图电台导致马自达车载娱乐系统崩溃",
+  "Link": "https://www.solidot.org/story?sid=70620",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t西雅图的部分马自达车主在收听了一个电台之后\u003ca href=\"https://arstechnica.com/cars/2022/02/radio-station-snafu-in-seattle-bricks-some-mazda-infotainment-systems/\"\u003e\u003cu\u003e发现车载娱乐系统崩溃了\u003c/u\u003e\u003c/a\u003e。据西雅图当地媒体报道，问题始于 1 月 30 日，受影响的马自达车型从 2014 款到 2017 款。当车主将广播调到一个当地的 NPR 电台 KUOW 94.9 时，来自该电台的一个信号会导致系统崩溃，屏幕变暗，广播被一直卡在 94.9 FM 频道上。车载系统一直在尝试重启但一直失败。西雅图的马自达店表示名叫 connectivity master unit（CMU） 的零件坏掉了需要更换，而新零件的价格高达 1500 美元，由于供应链问题，根本没有货。马自达称，原因是电台向它的 HD 流广播发送了一个系统无法解析的图像文件，导致了崩溃。马自达建议受影响车主联络当地的经销商，如果 CMU 有货他们将能免费更换。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-10T14:48:40Z",
+  "Author": "WinterIsComing"
+}

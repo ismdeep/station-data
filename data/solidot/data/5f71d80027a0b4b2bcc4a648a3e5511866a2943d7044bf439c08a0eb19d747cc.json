@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 认为自己不再是一名程序员",
+  "Link": "https://www.solidot.org/story?sid=62428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在开源欧洲峰会上，Linux 作者 Linus Torvalds 在与 VMware 首席开源官 Dirk Hohndel 对话时表示，\u003ca href=\"https://www.zdnet.com/article/linus-torvalds-im-not-a-programmer-anymore/\" target=\"_blank\"\u003e\u003cu\u003e他不再认为自己是一名程序员了\u003c/u\u003e\u003c/a\u003e。Torvalds 解释说，”我不再懂写代码了，我写的大部分代码都是在邮件里。有人发了一个补丁，我就用伪码回复。我已经习惯编辑补丁，有时候会在没有任何测试的情况下将编辑过的补丁发送出去。字面上讲我只在邮件里写代码，说我认为应该这怎么做。这就是我所做的，我不再是程序员了。”Torvalds 说他的工作就是阅读和回复大量邮件，然后在最后说“不”，必须有个人说不，这会促使开发者写出更好的代码。换句话说，Torvalds 现在是一名程序经理和维护者，不再是开发者。他说维护者需要对开发者递交的代码及时回复，这会让开发者觉得他们的工作至少能得到反馈。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-30T11:51:20Z",
+  "Author": "wenfeixiang"
+}

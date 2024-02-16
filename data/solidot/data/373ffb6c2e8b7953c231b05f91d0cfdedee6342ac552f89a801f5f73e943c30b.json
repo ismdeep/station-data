@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客入侵荷兰国防部",
+  "Link": "https://www.solidot.org/story?sid=77328",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t荷兰军事情报与安全局 (Military Intelligence and Security Service 或 MIVD)称，中国黑客组织入侵了荷兰国防部，在被感染的设备上植入了持久性恶意程序。MIVD 称，由于受影响网络与其它国防部网络是隔离的，因此造成的破坏有限。受影响网络的用户不到 50 人，主要从事非机密研发以及与第三方研究机构的合作。黑客利用了 FortiGate 防火墙中的 CVE-2022-42475 FortiOS SSL-VPN 漏洞，植入的后门 COATHANGER 能在固件升级或重启后重新感染。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/chinese-hackers-infect-dutch-military-network-with-malware/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-02-07T10:13:15Z",
+  "Author": "Wilson"
+}

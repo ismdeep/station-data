@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Stadia 将利用 AI 预测用户行为减少游戏延迟",
+  "Link": "https://www.solidot.org/story?sid=62264",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 在刚刚举行的发布会上透露，它的云游戏服务 Stadia 将于 11 月 19 日上线。首批提供服务的国家包括了美国、加拿大、英国、爱尔兰、法国、德国、意大利、西班牙、荷兰、比利时、丹麦、瑞典、挪威和芬兰。云游戏一个无法避免的问题是玩家和服务器之间的延迟。Google 是如何解决延迟问题？Google 工程副总裁 Madj Bakar \u003ca href=\"https://www.pcgamesn.com/stadia/negative-latency-prediction\"\u003e\u003cu\u003e在接受采访时声称\u003c/u\u003e\u003c/a\u003e，在一两年内，云游戏将会比本地游戏响应更快。Bakar 描述了被称为“negative latency”的预测缓冲功能去减少延迟。Stadia 利用机器学习预测玩家的行动和按键提前渲染画面进行缓冲做好准备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-16T11:06:08Z",
+  "Author": "wenfeixiang"
+}

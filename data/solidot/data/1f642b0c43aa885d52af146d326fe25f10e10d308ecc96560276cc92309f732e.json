@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VMware 产品曝出高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=67876",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVMware 用于数据中心管理虚拟化的软件 vCenter Server \u003ca href=\"https://arstechnica.com/gadgets/2021/05/vulnerability-in-vmware-product-has-severity-rating-of-9-8-out-of-10/\" target=\"_blank\"\u003e\u003cu\u003e曝出了\u003c/u\u003e\u003c/a\u003e一个高危漏洞。漏洞编号 \u003ca href=\"https://www.vmware.com/security/advisories/VMSA-2021-0010.html\"\u003e\u003cu\u003eCVE-2021-21985\u003c/u\u003e\u003c/a\u003e，危险等级  9.8/10。VMware 称，因默认启用的插件 Virtual SAN Health Check 缺乏输入验证，vSphere Client (HTML5)包含了一个远程代码执行漏洞，能访问端口 443 的攻击者可能利用漏洞执行指令。全世界有 4.3 万家机构使用 vSphere，其中 5594 个服务器可公网访问，美国最多，其次是德国和中国。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-26T15:16:51Z",
+  "Author": "WinterIsComing"
+}

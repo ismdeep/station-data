@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu Linux 20.10 'Groovy Gorilla'  释出",
+  "Link": "https://www.solidot.org/story?sid=65889",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu Linux 20.10 \u0026#39;Groovy Gorilla\u0026#39;  \u003ca href=\"https://www.linuxjournal.com/content/ubuntu-2010-groovy-gorilla-arrives-linux-58-gnome-338-raspberry-pi-4-support\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e正式版本。这是一个短期支持版本，只支持 9 个月，它是 Ubuntu 首个提供 \u003ca href=\"https://ubuntu.com/raspberry-pi/desktop\"\u003e\u003cu\u003eRaspberry Pi 4\u003c/u\u003e\u003c/a\u003e (4GB + 8GB 型号)桌面支持的版本。Ubuntu Linux 20.10 的主要变化包括：Linux kernel 5.8，GNOME 3.38，通过二维码扫描共享 Wi-Fi 热点，安装程序支持 Active Directory，Firefox 81，LibreOffice 7.0.2，Thunderbird 78.3.2，OpenJDK 11，Python 3.8.6， Ruby 2.7.0，PHP 7.4.9，glibc 2.32，GCC 10，LLVM 11，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-23T02:04:55Z",
+  "Author": "WinterIsComing"
+}

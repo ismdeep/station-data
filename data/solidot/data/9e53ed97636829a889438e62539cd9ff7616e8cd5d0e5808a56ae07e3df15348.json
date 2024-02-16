@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "最近修复的 PHP 远程执行漏洞正被利用",
+  "Link": "https://www.solidot.org/story?sid=62394",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个最近修复的 PHP 远程代码执行漏洞\u003ca href=\"https://www.zdnet.com/article/nasty-php7-remote-code-execution-bug-exploited-in-the-wild/\" target=\"_blank\"\u003e\u003cu\u003e正被利用\u003c/u\u003e\u003c/a\u003e去控制服务器。被称为 \u003ca href=\"https://bugs.php.net/bug.php?id=78599\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eCVE-2019-11043\u003c/a\u003e 的漏洞允许攻击者通过发送特制 URL 在存在漏洞的服务器上执行命令。漏洞利用的\u003ca href=\"https://github.com/neex/phuip-fpizdam\" target=\"_blank\"\u003e\u003cu\u003e PoC 代码\u003c/u\u003e\u003c/a\u003e已经发布在 GitHub 上。不是所有的 PHP Web server 都受到影响，而是只有 NGINX 和启用 PHP-FPM 的服务器。PHP-FPM 代表 FastCGI Process Manager，是 PHP FastCGI 的替代实现，它不是  Nginx 的标准组件，但部分托管商会将其作为标准 PHP 托管环境的一部分。其中一家托管商 Nextcloud 已经向客户发出安全警告，督促客户升级到最新的 PHP \u003ca href=\"https://www.php.net/ChangeLog-7.php#7.3.11\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003e7.3.11\u003c/a\u003e 和 \u003ca href=\"https://www.php.net/ChangeLog-7.php#7.2.24\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003e7.2.24\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-28T08:59:50Z",
+  "Author": "wenfeixiang"
+}

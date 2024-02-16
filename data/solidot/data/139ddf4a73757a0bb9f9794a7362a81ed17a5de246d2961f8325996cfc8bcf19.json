@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Xfce 4.14 释出",
+  "Link": "https://www.solidot.org/story?sid=61690",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 4.2 稳定版发布 4 年 5 个月之后，轻量级桌面环境 Xfce 项目\u003ca href=\"https://xfce.org/about/news/?post=1565568000\" target=\"_blank\"\u003e\u003cu\u003e释出了 4.14 稳定版\u003c/u\u003e\u003c/a\u003e。4.14 的一个重要变化是将所有核心组件从  Gtk2 移植到 Gtk3，从 D-Bus GLib 移植到 GDBus。其它主要变化包括：窗口管理器支持 VSync 和 HiDPI，改进 NVIDIA 私有驱动的支持；全新的色彩调校设置对话框；通知服务加入了 Do Not Disturb 模式关闭所有通知；媒体播放器 Parole 改进支持网络串流和播客；图像浏览器 Ristretto 改进了 UI ，支持设置墙纸；新的屏幕保护程序，等等。具体可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-12T08:45:17Z",
+  "Author": "wenfeixiang"
+}

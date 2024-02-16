@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 的 Bug 悬赏项目涵盖了所有安装量超过一亿的应用",
+  "Link": "https://www.solidot.org/story?sid=61924",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.zdnet.com/article/google-adds-all-android-apps-with-100m-installs-to-its-bug-bounty-program/\"\u003e\u003cu\u003e扩大了\u003c/u\u003e\u003c/a\u003e它的 Bug 悬赏项目，加入了 Play Store 应用商店所有安装量超过一亿的应用。这意味着安全研究人员可以向 Google 报告这些应用的漏洞，对于有效的漏洞 Google 将会提供奖励。Google 会将漏洞报告转给应用开发商，如果开发商未能解决漏洞，Google 会将应用从商店里移除。Facebook、Microsoft 或 Twitter 等流行应用都有自己的 bug 悬赏项目，因此不会包含在内。Google 称研究人员可以向它或应用开发商两次报告漏洞，获得两次奖励——如果相关公司也有 Bug 悬赏项目的话。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-01T14:22:49Z",
+  "Author": "wenfeixiang"
+}

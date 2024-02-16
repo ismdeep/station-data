@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国如何用 14 纳米技术造 Exascale 级超算",
+  "Link": "https://www.solidot.org/story?sid=70934",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果需要证据证明不需要最先进工艺就能造出 Exascale 级超算，\u003ca href=\"https://www.nextplatform.com/2022/03/11/pondering-the-cpu-inside-chinas-sunway-oceanlight-supercomputer/\"\u003e\u003cu\u003e你只需要看看中国国家超级计算无锡中心的神威·“海洋之光”系统\u003c/u\u003e\u003c/a\u003e。阿里巴巴、清华大学、达摩院、浙江实验室和北京智源人工智能研究院发表的\u003ca href=\"https://keg.cs.tsinghua.edu.cn/jietang/publications/PPOPP22-Ma%20et%20al.-BaGuaLu%20Targeting%20Brain%20Scale%20Pretrained%20Models%20w.pdf\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e透露了关于“海洋之光”的架构细节，它们运行名为“八卦炉（BaGuaLu）”的预训练机器学习模型，有超过 3700 万个内核和 14.5 万亿个参数（大概为FP32 单精度），能扩展到 174 万亿个参数（接近“大脑规模”，即其参数数量接近人脑突触数量）。\n\u003cbr/\u003e\n\u003cbr/\u003e\n“八卦炉”训练模型测试的总计 105 个机柜的系统及其 107,250 个 SW26010-Pro 处理器的峰值理论性能为 1.51 exaflops。我们喜欢基数为 2 的数字，认为“海洋之光”系统可能会扩展到 160 个机柜，即 163,840 个节点，峰值 FP64 和 FP32 性能略低于 2.3 exaflops。如果它只有 120 个机柜，“海洋之光”的峰值将是 1.72 exaflops。如果 160 机柜规模是“海洋之光”的最大值，那么中国可以超越美国橡树岭国家实验室正在调优的“Frontier”超算（性能为 1.5 exaflops），并能超越将于今年晚些时候进入美国劳伦斯利弗莫尔国家实验室的“Aurora”超算（理论峰值性能 2 exaflops）——甚至可能超过将于 2023 年进入劳伦斯利弗莫尔国家实验室的“El Capitan”超算，传言“El Capitan”超级计算机的理论峰值性能预计将达到 2.2 exaflops 到 2.3 exaflops。\n\u003cbr/\u003e\n\u003cbr/\u003e\n我们很想看看“海洋之光”的发热量和成本。可以肯定 SW26010-Pro 芯片会很热，供电和冷却的电费很高，但如果中芯国际 14 纳米工艺产率不错的话，那么该芯片的制造成本可能会比 Nvidia、AMD或者 Intel 的大型 GPU 加速器便宜得多。不管怎样，对于中国的现在和未来来说，拥有本土零部件比能源效率更重要。想象一下，多年后中芯国际能实现 7 纳米工艺时候，中国可以用它做些什么。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-14T06:53:08Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "天文学家发现越来越多的 Starlink卫星轨迹",
+  "Link": "https://www.solidot.org/story?sid=70410",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSpaceX 的 Starlink 卫星宽带需要庞大卫星群提供一致、低延迟的连接。它在轨道上已拥有超过 1500 颗卫星，已获准运行 1200 0颗卫星。这让天文学家感到忧虑。尽管 SpaceX 采取了一些措施以减少其硬件的影响，但仍然无法完全消除卫星在地面观测中留下的轨迹。问题有多严重？过去两年一组天文学家使用来自巡天望远镜的档案图像来寻找 Starlink 的轨迹。在这段时间里，\u003ca href=\"https://arstechnica.com/science/2022/01/astronomers-find-growing-number-of-starlink-satellite-tracks/\"\u003e\u003cu\u003e受到影响的图像数量增加了 35 倍\u003c/u\u003e\u003c/a\u003e，研究人员估计，等到计划中的 Starlink 星座完成时，几乎每张图像都将至少有一条卫星轨迹。用于分析的设备是帕洛玛天文台的 \u003ca href=\"https://www.ztf.caltech.edu/\" target=\"_blank\"\u003e\u003cu\u003eZwicky Transient Facility（ZTF）\u003c/u\u003e\u003c/a\u003e。ZTF 旨在捕捉罕见的事件如超新星。它反复扫描整个天空，用软件监控生成的图像，寻找在早期图像中不存在但在后来的图像中出现的物体。ZTF 的高灵敏度使其非常适合在太阳系中识别昏暗的物体，例如小行星。为了简化快速扫描整个天空的任务，ZTF 依靠非常宽的视场和相机。不幸的是，这种广阔的视场也增加了在图像中看到 Starlink 卫星的可能性。\n\u003cbr/\u003e\n\u003cbr/\u003e\n为了确定 ZTF 相机捕捉到这些卫星的频率，该团队获取了所有 Starlink 卫星的轨道数据，将其与每张 ZTF 档案图像中捕获的天空区域进行比较。一旦确定哪张图片可能捕捉到了卫星，他们就会用软件来检测图像上是否存在明亮的轨迹。这项分析覆盖了从 2019 年 11 月到 2021 年 9 月大约两年时间。这正是 SpaceX 迅速构建 Starlink 星座的时期，分析结果无疑表明了这一点。在研究的开始阶段，轨道上大约只有 100 颗 Starlink 卫星，在为期十天的观测中经常看不到任何 Starlink 卫星的轨迹。等到轨道上有 500 颗卫星的时候，这个阶段成为过去。等到轨道上的 Starlink 卫星超过了 1500 颗的时候，ZTF 在十天内拍摄到卫星的次数通常会超过 200 次。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-18T09:48:53Z",
+  "Author": "wanwan"
+}

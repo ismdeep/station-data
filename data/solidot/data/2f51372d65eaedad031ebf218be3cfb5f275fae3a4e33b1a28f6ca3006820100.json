@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "11 个 Ruby 库发现后门",
+  "Link": "https://www.solidot.org/story?sid=61795",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRubyGems 软件包仓库的维护者\u003ca href=\"https://www.zdnet.com/article/backdoor-code-found-in-11-ruby-libraries/\"\u003e\u003cu\u003e移除了\u003c/u\u003e\u003c/a\u003e 11 个 Ruby 库的 18 个恶意版本，其中包括流行的\u003ca href=\"https://github.com/rest-client/rest-client/issues/713\" target=\"_blank\"\u003e\u003cu\u003e rest-client\u003c/u\u003e\u003c/a\u003e 库的 4 个版本。rest-client 中的恶意代码会收集发送 URL 和环境变量到乌克兰的一台远程服务器上。后门中的代码还允许攻击者发回 cookie 文件，执行恶意命令。其后门机制甚至还允许植入挖矿脚本。这些恶意版本在被移除前总共下载了三千多次，其中 rest-client 1.6.13 被下载了一千多次。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-21T04:55:27Z",
+  "Author": "wenfeixiang"
+}

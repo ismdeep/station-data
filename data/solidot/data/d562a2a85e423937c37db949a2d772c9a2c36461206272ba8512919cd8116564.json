@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VirtualBox 7.0.0 释出支持完全加密",
+  "Link": "https://www.solidot.org/story?sid=73013",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t虚拟机软件 VirtualBox \u003ca href=\"https://www.virtualbox.org/wiki/Changelog-7.0\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e 7.0.0 版本。主要新特性包括：支持完全加密，包括虚拟机配置日志和保存状态（CLI only）；云端虚拟机能被加入到 Virtual Machine Manager，像本地虚拟机那样控制；DirectX 11 3D 加速支持；Secure Boot 支持；通过 Network Manager 工具配置云端网络；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-11T02:51:45Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "火星直升飞机使用的开源项目",
+  "Link": "https://www.solidot.org/story?sid=67540",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNASA 的火星直升飞机周一完成了历史性的首次自主飞行，它使用了商用组件，大量采用了开源项目。最大源代码托管平台 GitHub \u003ca href=\"https://github.blog/2021-04-19-open-source-goes-to-mars/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，如果开发者的代码被火星直升飞机使用，它将为开发者添加“\u003ca href=\"https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge\" target=\"_blank\"\u003e\u003cu\u003eMars 2020 Helicopter Contributor \u003c/u\u003e\u003c/a\u003e”徽章。在这之前，GitHub 为源代码储存在北极的开发者添加了 Arctic Code Vault 徽章。获得 Mars 2020 Helicopter Contributor 徽章的人数无疑要少得多，火星直升飞机使用的开源项目包括：Linux 3.4，cpython 3.9.2，curl 7.19.0，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T06:05:17Z",
+  "Author": "WinterIsComing"
+}

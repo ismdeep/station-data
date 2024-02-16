@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 会议没有使用端对端加密",
+  "Link": "https://www.solidot.org/story?sid=64005",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t提供远程会议服务的 Zoom 因新冠疫情而火热无比，它的隐私安全问题\u003ca href=\"https://arstechnica.com/tech-policy/2020/03/zooms-privacy-problems-are-growing-as-platform-explodes-in-popularity/\" target=\"_blank\"\u003e\u003cu\u003e也日益引起关注\u003c/u\u003e\u003c/a\u003e。Zoom 的创始人兼 CEO 是中国人，技术团队也在中国。它声称实现了端对端加密。端对端的加密和解密是在通讯端的双方进行的，因此服务商也无法知道会话内容，这能有效防止第三方监听。但 Zoom \u003ca href=\"https://theintercept.com/2020/03/31/zoom-meeting-encryption/\"\u003e\u003cu\u003e并没有真正的端对端加密\u003c/u\u003e\u003c/a\u003e，远程会议的视频和音频对 Zoom 这家公司而言都是透明的。公司发言人表示，Zoom 视频会议目前不可能启用端对端加密，视频会议组合使用了 TCP 和 UDP，TCP 连接使用了  TLS，UDP 连接使用 AES 加密。Zoom 声称包括其雇员在内的任何人都无法访问用户在会议期间分享的数据。对此纽约检查总长 Letitia James 正在调查 Zoom 的隐私和安全实践。私人太空公司 Spacex 则决定\u003ca href=\"https://www.reuters.com/article/us-spacex-zoom-video-commn/elon-musks-spacex-bans-zoom-over-privacy-concerns-memo-idUSKBN21J71H\" target=\"_blank\"\u003e\u003cu\u003e禁止使用 Zoom\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-02T03:03:47Z",
+  "Author": "WinterIsComing"
+}

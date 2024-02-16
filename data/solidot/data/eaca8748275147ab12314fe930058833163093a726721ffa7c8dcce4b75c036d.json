@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SolarWinds 黑客再次活跃",
+  "Link": "https://www.solidot.org/story?sid=67894",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://blogs.microsoft.com/on-the-issues/2021/05/27/nobelium-cyberattack-nativezone-solarwinds/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，去年年底发现的 SolarWinds 供应链攻击背后的黑客组织现在正瞄准政府机构、智库、顾问公司和非政府组织。\u003ca href=\"https://cn.reuters.com/article/msft-solarwinds-hacking-0528-idCNKCS2D90HX?il=0\"\u003e\u003cu\u003e微软称\u003c/u\u003e\u003c/a\u003e，源自俄罗斯的 Nobelium 与2020年攻击 SolarWinds 客户的幕后黑手是同一个行动者。“这一波攻击的目标是 150 多个不同组织的大约 3,000 个电子邮件账户。”至少有四分之一的目标组织参与了国际发展、人道主义问题和人权工作。微软说， Nobelium 通过侵入美国国际发展署(U\u003ca href=\"https://www.usaid.gov/\"\u003e\u003cu\u003eSAID\u003c/u\u003e\u003c/a\u003e)使用的电邮营销账户发起了本周的攻击，并从那里对许多其他组织发起了网络钓鱼攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-28T11:16:20Z",
+  "Author": "WinterIsComing"
+}

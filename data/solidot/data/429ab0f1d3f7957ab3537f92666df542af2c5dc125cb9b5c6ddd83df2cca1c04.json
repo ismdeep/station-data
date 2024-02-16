@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Jacob Ziv 的压缩算法改变了世界",
+  "Link": "https://www.solidot.org/story?sid=67574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无损数据压缩有点像魔术。有损压缩更容易理解，它通过选择性的移除部分比特降低容量。而在无损压缩中，比特消失了，但在解压之后它们又出现了。就像表演魔术。魔术界有 Houdini，而数据压缩领域有 Jacob Ziv。IEEE Spectrum 发表文章介绍了\u003ca href=\"https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression\"\u003e\u003cu\u003e获得今年 IEEE 勋章的计算机科学家 Jacob Ziv\u003c/u\u003e\u003c/a\u003e。Ziv 和 Abraham Lempel 分别在 1977 年和 1978 年开发了两种无损数据压缩算法 Lempel-Ziv 77（LZ77） 和 LZ78，为 GIF、PNG 和 ZIP 文件的开发奠定了基础。LZ77 不是第一种无损压缩算法，但因为其易用性而获得巨大成功。Ziv 开创了通用源编码，一系列无需知道固有信息压缩数据的算法，减少了从不失真和失真数据重建图像所需的数据率。Ziv 于 1931 年出生在当时由英国统治的巴勒斯坦城市 Tiberias（现属于以色列），父母是俄罗斯移民，第一次阿以战争爆发时他在读高中，他曾短暂在前线服役，由于一群母亲的抗议他从前线回到了后方，在空军受训担任雷达技师。战争结束后到以色列理工学院读电机工程，获得硕士学位后加入了国防研究实验室，1959 年被选择去美国深造，1960 年在 MIT 读博，返回以色列后进入了国防部担任通信部门主管，1968 年进入了贝尔实验室，1970 年加入以色列理工学院。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-22T15:18:05Z",
+  "Author": "WinterIsComing"
+}

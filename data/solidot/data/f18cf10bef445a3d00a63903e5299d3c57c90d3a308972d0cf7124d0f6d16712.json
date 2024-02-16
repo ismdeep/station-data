@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "澳大利亚法庭判决 Google 在位置数据收集和使用上误导消费者",
+  "Link": "https://www.solidot.org/story?sid=67516",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t澳大利亚联邦法庭\u003ca href=\"https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data\"\u003e\u003cu\u003e裁决\u003c/u\u003e\u003c/a\u003e Google 在位置数据收集和使用上误导消费者。法庭发现，当消费者在 Android 设备的初始设置过程中创建新的 Google Account 时，Google 不实的描述 Location History 设置是唯一的  Google Account 设置，影响 Google 是否收集和使用用户个人位置数据。事实上还有一个名为 Web \u0026amp; App Activity 的设置允许 Google 收集、储存和使用用户个人位置数据。该设置是默认启用的。当消费者关闭  Location History 设置时他们被误导了，Google 没有通知他们当 Web \u0026amp; App Activity 设置继续启用时，它将会继续收集、储存和使用个人位置数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-16T13:56:29Z",
+  "Author": "WinterIsComing"
+}

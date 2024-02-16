@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客泄露 51 万服务器路由器的 Telnet 密码",
+  "Link": "https://www.solidot.org/story?sid=63305",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名黑客\u003ca href=\"https://www.zdnet.com/article/hacker-leaks-passwords-for-more-than-500000-servers-routers-and-iot-devices/\" target=\"_blank\"\u003e\u003cu\u003e泄露了 51.5 万服务器、路由器和物联网设备的 Telnet 密码\u003c/u\u003e\u003c/a\u003e。黑客称这些数据是通过扫描设备暴露的 Telnet 端口编辑而成，黑客尝试了 1）出厂时默认的用户名和密码；2）简单的密码组合。这些密码列表是一名 DDoS booter 服务的维护者公布在网上的，这名泄露者称他升级了 DDoS 服务，从物联网僵尸网络转到租赁云服务商的高吞吐服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-19T13:29:56Z",
+  "Author": "WinterIsComing"
+}

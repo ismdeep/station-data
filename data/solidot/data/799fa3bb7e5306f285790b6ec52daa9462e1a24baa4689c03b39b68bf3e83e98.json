@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "沙特利用 SS7 漏洞监视其公民",
+  "Link": "https://www.solidot.org/story?sid=63990",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卫报引用吹哨人的消息\u003ca href=\"https://www.theguardian.com/world/2020/mar/29/revealed-saudis-suspected-of-phone-spying-campaign-in-us\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，沙特利用七号信令系统（SS7，Signaling System Number 7）上的漏洞跟踪在美国的本国公民。SS7 是路由协议，允许手机用户在外国旅行时从一个运营商无缝连接到另一个运营商。它缺乏安全验证，容易被利用去实时定位用户。安全研究人员很早就\u003ca href=\"https://www.solidot.org/story?sid=42359\" target=\"_blank\"\u003e\u003cu\u003e报告了\u003c/u\u003e\u003c/a\u003e SS7 的漏洞。卫报报道称，从 2019 年 11 月起的 4 个月里沙特发出了数百万秘密请求，寻求沙特注册的手机的美国位置。吹哨人称，沙特没有正当理由提出如此多的请求。在四个月里沙特平均每个月发出了 230 万请求。一位分析了数据的移动安全专家称，这些请求能让沙特以数百米的精度跟踪手机机主。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-31T13:45:39Z",
+  "Author": "WinterIsComing"
+}

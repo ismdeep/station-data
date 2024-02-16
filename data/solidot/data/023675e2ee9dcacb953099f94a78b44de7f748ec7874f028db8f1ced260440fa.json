@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FAA 测试在轻型飞机使用手机是否安全",
+  "Link": "https://www.solidot.org/story?sid=68814",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为对抗 GPS 欺诈的一种权宜方法，FAA 悄悄资助了一项研究，\u003ca href=\"https://spectrum.ieee.org/faa-tested-4g-5g-flights\" target=\"_blank\"\u003e\u003cu\u003e测试在轻型飞机驾驶舱内使用手机\u003c/u\u003e\u003c/a\u003e。测试使用了能连接到标准 4G 和 5G 网络的商业智能手机，利用数据计算信号塔到手机的大致距离，检查是否与 GPS 的定位一致。GPS 信号容易受到欺骗攻击，在美国对 GPS 信号的最大干扰来自于军方。轻型和私人飞机相比商务客机缺乏备份导航系统，因此更容易受到影响。飞行高度越高手机信号越弱，这是显而易见的，专家指出 GPS 欺诈攻击主要发生在接近机场的情况下，因而这不是什么问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-05T09:19:44Z",
+  "Author": "WinterIsComing"
+}

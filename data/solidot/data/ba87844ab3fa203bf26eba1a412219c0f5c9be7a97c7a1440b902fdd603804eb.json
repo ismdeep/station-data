@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KCL : Rust 开发的配置策略语言",
+  "Link": "https://www.solidot.org/story?sid=71671",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/KusionStack\"\u003e匿名读者\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;\n\u003ca href=\"https://github.com/KusionStack/KCLVM\" target=\"_blank\" title=\"https://github.com/KusionStack/KCLVM\"\u003eKCL\u003c/a\u003e 是 \u003ca href=\"https://kusionstack.io/\" target=\"_blank\" title=\"https://kusionstack.io/\"\u003eKusion\u003c/a\u003e 项目针对规模化运维的云原生场景新设计的配置策略语言，也是采用 Rust 语言开发的国产自研的开源项目。它的最初设计思路是通过成熟的编程语言理论和实践来改进对大量繁杂的 YAML 配置数据的管理，通过声明式的语法结合静态类型等特性来简化和校验配置的开发和运维工作。Github仓库：\u003ca href=\"https://github.com/KusionStack/KCLVM\" target=\"_blank\" title=\"https://github.com/KusionStack/KCLVM\"\u003ehttps://github.com/KusionStack/KCLVM\u003c/a\u003e\n\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-30T07:27:07Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Vim 项目的未来",
+  "Link": "https://www.solidot.org/story?sid=75764",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVim 作者 Bram Moolenaar 一周前去世，他被称为是 Vim 项目的终身仁慈独裁者，管理着 Vim 项目的各个方面。他的去世留下了巨大的空白。在 vim_dev 邮件列表上，Vim 开发者 Christian Brabandt 宣布了项目的未来计划，称从 Bram 家人获得了 Vim 在 Github 上的管理权，邀请了更多开发者加入了 Vim 组织，已经开始合并 commits，但目前主要是 bug 修正、安全补丁和文档更新等。他暂时无法访问 Vim FTP 主服务器，正在接触 Bram 的家人是否知道凭证。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-10T15:04:02Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开发者利用 AI 创造出能自我修复的程序",
+  "Link": "https://www.solidot.org/story?sid=74643",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t调试程序找出 bug 的过程是令人沮丧的，为什么不让 AI 来帮助你完成这个工作？一位用户名为 BioBootloade 的开发者创造出能帮助 Python 程序自我修复的程序  Wolverine。代码发布在 GitHub 上。使用 Wolverine下需要用户拥有 OpenAI 的 GPT-3.5 或 GPT-4 的 API key。GPT 3.5 API 目前开放给所有用户使用，但 GPT-4 的访问是受限的。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/biobootloader/wolverine\u003cbr/\u003e\nhttps://arstechnica.com/?p=1930533\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-12T09:29:18Z",
+  "Author": "Wilson"
+}

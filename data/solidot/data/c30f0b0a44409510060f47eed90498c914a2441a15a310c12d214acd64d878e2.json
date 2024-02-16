@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitLab 计划自动删除免费用户的不活跃项目",
+  "Link": "https://www.solidot.org/story?sid=72364",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitLab \u003ca href=\"https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/?td=rt-3a\" target=\"_blank\"\u003e\u003cu\u003e计划自动删除\u003c/u\u003e\u003c/a\u003e不活跃时间超过一年的免费用户项目以节省托管费用，此举预计能每年节省一百万美元。GitLab 计划在 2022 年 9 月执行该政策，它认识到可能会遭到用户的反对，因此在自动删除前会提前数周或数个月通知用户，只要在一年内发布一条评论、注解或问题，该项目将会保留。参与  .Net 开源社区的 Geoff Huntley 认为 GitLab 的这一政策绝对疯狂。他指出源代码并不占据多少空间，删除所有代码将会破坏社区，损害其品牌和信誉。他说，软件到达相当的完善度之后就不再需要修改，这是否意味着不活跃？\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-04T16:08:05Z",
+  "Author": "WinterIsComing"
+}

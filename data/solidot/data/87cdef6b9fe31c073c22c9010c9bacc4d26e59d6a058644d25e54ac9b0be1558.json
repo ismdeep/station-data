@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为 Git 开发新的哈希算法",
+  "Link": "https://www.solidot.org/story?sid=63419",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGit 源码管理系统是基于 SHA‑1 哈希算法，Git 库储存的不同对象类型都使用 SHA‑1 哈希来进行识别。Linus Torvalds 在设计 Git 时并没有考虑 SHA‑1 有一天可能会不安全，他没有设计能切换到不同哈希算法的功能，而哈希类型深入到代码之中。但 SHA‑1 已经迟暮，Google 在 2017 年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值。今年早些时候，研究人员将攻击成本\u003ca href=\"https://www.solidot.org/story?sid=63252\"\u003e降至 4.5 万美元\u003c/a\u003e，未来几年攻击成本还会继续下降。使用 SHA-1 的项目需要尽快切换到更安全的哈希算法。在考虑了多个替代之后，Git 社区在 2018 年宣布它的下一代哈希算法将是 SHA‑256。对小的项目来说，过渡到 SHA‑256 比较容易，但对 Linux 内核这样庞大的项目来说，\u003ca href=\"https://lwn.net/SubscriberLink/811068/cfeb6a67b8dfbe47/\" target=\"_blank\"\u003e\u003cu\u003e这并非轻而易举\u003c/u\u003e\u003c/a\u003e。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-04T12:58:53Z",
+  "Author": "WinterIsComing"
+}

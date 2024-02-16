@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 表示不会违背用户意愿安装 Snap 封装应用",
+  "Link": "https://www.solidot.org/story?sid=64554",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了减少 Linux 应用的依赖库问题，Canonical 开发了 Snap 应用打包格式（Redhat 开发了类似的 Flatpak）。在 Ubuntu 20.04 发布之后，Canonical 被发现在强推 Snap 应用，即使用户是通过 apt 安装应用。许多人担心其它基于 Ubuntu 的发行版是否会采用类似的方法。基于 Ubuntu 的流行发行版 Linux Mint 明确表示\u003ca href=\"https://blog.linuxmint.com/?p=3906\" target=\"_blank\"\u003e\u003cu\u003e不会违背用户意愿安装 Snap 应用\u003c/u\u003e\u003c/a\u003e。Linux Mint 称，即将发布的 Linux Mint 20 不会预装任何 Snap 应用，在默认情况下 apt 不会安装 Snap 应用，需要的用户可以自行安装。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-03T08:27:16Z",
+  "Author": "WinterIsComing"
+}

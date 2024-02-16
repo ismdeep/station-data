@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 研究证明大脑使用自动更正破译语言",
+  "Link": "https://www.solidot.org/story?sid=69393",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t我们是如何说话和阅读的？看似简单的问题推动了 MIT 的一项研究，研究人员使用 AI 模型检查大脑如何以及为什么理解语言。大脑的工作方式\u003ca href=\"https://thedebrief.org/your-brain-uses-autocorrect-to-decipher-language-and-ai-just-helped-us-prove-it-new-study-says/\" target=\"_blank\"\u003e\u003cu\u003e可能类似于智能手机的自动更正功能\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.eurekalert.org/news-releases/932342\"\u003e\u003cu\u003e研究论文\u003c/u\u003e\u003c/a\u003e发表在《National Academy of Sciences》期刊上，显示 AI 语言模型的功能类似于人脑中的语言处理方法，这表明人脑可能使用对下一个单词的预测处理语言。\n\u003cbr/\u003e\n\u003cbr/\u003e\n在新研究中，MIT 的一组研究人员分析了 43 种不同的语言模型，许多模型都对下一个单词预测进行了优化。这些模型包括可以在得到提示时生成逼真文本的GPT-3（Generative Pre-trained Transformer 3），以及其他一些旨在提供填空功能的模型。研究人员给每个模型展示了一串单词，以测量其神经节点的活动。接着他们把这些模式同受试者在完成语言任务时候的人脑活动进行比较——受试者被要求完成听、阅读完整的句子，以及一次阅读一个单词等语言任务。研究表明，表现最好的下一个单词预测模型的活动模式与人类大脑的活动模式高度相似。此外这些模型中的活动也与人类行为指标相关，比如人们阅读文本的速度。\n\u003cbr/\u003e\n\u003cbr/\u003e\n结果表明，下一个单词预测是语言处理中的一项关键功能，这一结论支持了之前提出但尚未得到证实的一项假设。科学家还没有发现任何进行此类处理的大脑回路或机制。研究者未来计划构建一些下一个单词预测模型的变体，以了解每个模型之间的微小变化会如何影响其处理能力。他们还计划将这些语言模型与为了完成其他类大脑任务（例如对物理世界的感知）而设计的模型结合起来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-27T08:11:57Z",
+  "Author": "wanwan"
+}

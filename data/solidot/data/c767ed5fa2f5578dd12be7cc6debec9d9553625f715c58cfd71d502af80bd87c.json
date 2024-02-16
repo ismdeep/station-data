@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果未来的 Mac 电脑将使用它自己设计的 ARM 处理器",
+  "Link": "https://www.solidot.org/story?sid=64746",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在周一举行的 WWDC 2020 大会上，苹果演示了 \u003ca href=\"https://www.apple.com.cn/newsroom/2020/06/apple-reimagines-the-iphone-experience-with-ios-14/\"\u003e\u003cu\u003eiOS 14\u003c/u\u003e\u003c/a\u003e，WatchOS 7 和 \u003ca href=\"https://www.apple.com.cn/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design/\" target=\"_blank\"\u003e\u003cu\u003emacOS Big Sur\u003c/u\u003e\u003c/a\u003e，证实了\u003ca href=\"https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020\"\u003e\u003cu\u003e最近几天的传言\u003c/u\u003e\u003c/a\u003e：即它未来的 Mac 电脑将抛弃基于 x86 架构的英特尔 CPU 改用它自己设计的 ARM 处理器。 苹果 CEO 库克（Tim Cook）称这是 Mac 电脑具有历史性意义的一天。此举也意味着 macOS 将原生支持 iOS 应用。在短期内苹果仍然会继续提供采用英特尔 CPU 的 Mac 电脑。苹果鼓励开发者更新他们的应用。对于旧的未更新的应用，苹果将会提供模拟层 Rosetta 2 让 ARM Mac 能继续运行旧应用。采用自己的 ARM 处理器将让苹果能大幅降低成本，并降低功耗，按自己的计划发布 Mac。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-23T05:18:33Z",
+  "Author": "WinterIsComing"
+}

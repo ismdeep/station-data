@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 98 释出",
+  "Link": "https://www.solidot.org/story?sid=70888",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/98.0/releasenotes/\"\u003e\u003cu\u003eFirefox 98\u003c/u\u003e\u003c/a\u003e。主要新特性包括：优化下载流，不再每次都提示，文件将会自动下载，用户会在下载面板看到更多选项，如总是打开相似文件，打开下载文件所在的文件夹，前往下载页，复制下载链接，等等；其他变化包括可选搜索引擎变更，部分用户可能注意到默认搜索引擎变了；为特定文件类型设置打开应用；安全修正，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-09T05:40:52Z",
+  "Author": "WinterIsComing"
+}

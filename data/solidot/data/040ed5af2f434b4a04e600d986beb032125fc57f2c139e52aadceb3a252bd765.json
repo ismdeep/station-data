@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "500 电商网站被植入信用卡窃取程序",
+  "Link": "https://www.solidot.org/story?sid=70633",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Sansec \u003ca href=\"https://sansec.io/research/naturalfreshmall-mass-hack\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e有大约 500 家电商网站被黑客植入了信用卡窃取程序，在访客试图在网站上购买商品时窃取敏感的支付信息。安全研究人员称，所有遭到入侵的网站都会加载托管在域名 naturalfreshmall[.]com 上的恶意脚本，它会弹出假的支付页面，所有支付信息会发送到该网站。黑客组合利用了一个 SQL 注入漏洞和 \u003ca href=\"https://marketplace.magento.com/fme-quick-view.html\"\u003e\u003cu\u003eQuickview \u003c/u\u003e\u003c/a\u003e插件的一个 PHP 对象注入攻击在网站服务器上直接执行恶意代码。遭到入侵的网站运行的版本是 Magento 1，该版本在 2020 年 6 月停止支持。相关网站最好升级到最新版本，或者安装 \u003ca href=\"https://github.com/OpenMage/magento-lts/\"\u003e\u003cu\u003eOpenMage\u003c/u\u003e\u003c/a\u003e 项目提供的 Magento 1 开源补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-11T13:59:19Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "独立游戏开发者发现 Linux 玩家递交了更多 Bug 报告",
+  "Link": "https://www.solidot.org/story?sid=69383",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2D 太空模拟游戏《\u003ca href=\"https://store.steampowered.com/app/846030/V_Rings_of_Saturn/\" target=\"_blank\"\u003e\u003cu\u003eΔV: Rings of Saturn\u003c/u\u003e\u003c/a\u003e》的开发商 Kodera Software 在 Reddit 上\u003ca href=\"https://www.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/\"\u003e\u003cu\u003e分享了\u003c/u\u003e\u003c/a\u003e一组有意思的统计数据。游戏发布抢先体验版本已有两年之久，共售出了超过 1.2 万份拷贝，其中 700 多份是 Linux 玩家购买的。虽然 Linux 玩家数量只占到了所有玩家总数的 5.8%，但他们却报告了 38% 的 bug。抢鲜体验类游戏通常存在大量 bug。开发商共收到 1040 个 bug 报告，Linux 玩家报告了约 400 个，平均 1.75 个 Linux 玩家报告 1 个，他们报告的 bug 并不都是 Linux 平台特有，绝大部分同时影响其它平台。 Linux 玩家的 Bug 报告质量也非常高，包括了非常详细的信息。\u003ca href=\"https://linux.slashdot.org/story/21/10/25/2157215/indie-dev-finds-that-linux-users-generate-more-better-bug-reports\" target=\"_blank\"\u003e\u003cu\u003e这一现象被认为与 Linux 使用群体有关\u003c/u\u003e\u003c/a\u003e，他们很多是 IT 专业人士或软件工程师，熟悉 bug 报告流程。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-26T12:31:03Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FBI 出售给犯罪分子的 Anom 手机",
+  "Link": "https://www.solidot.org/story?sid=68239",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003cspan class=\"abc__textblock size--article\" data-component=\"TextBlock\"\u003e Motherboard 获得了一部 \u003c/span\u003eFBI 出售给犯罪分子的手机，\u003ca href=\"https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor\"\u003e\u003cu\u003e对它进行了一番分析\u003c/u\u003e\u003c/a\u003e。FBI 和其它国家的执法人员秘密监视了使用这款手机进行加密通信的犯罪分子。手机看起来是一部 Google Pixel 4a，用 PIN 码解锁之后可以看到上面有很多流行应用，如 Tinder、Instagram、Facebook、Netflix，甚至 Candy Crush，但这些应用都是无效的，只是摆设。重置手机用另一个 PIN 码解锁则会展示完全不同的部分，有新的背景和新的应用，其中包括时钟、计算器和设置，点击计算器并不会打开计算器，而是显示一个登陆页面，要求输入 Anom ID 和密码。它是一个隐藏的聊天应用 Anom，看起来真的很机密，让人能误以为很安全，以至于全世界有上万犯罪分子利用它进行通信，但它实际上是一个 FBI 设立的蜜罐。它运行的系统叫 ArcaneOS，Android 手机通常有设置可以关闭位置跟踪，但这款手机没有这个设置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-09T07:14:27Z",
+  "Author": "WinterIsComing"
+}

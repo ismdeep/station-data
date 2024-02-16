@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "计算机科学家设计手镯去干扰智能音箱",
+  "Link": "https://www.solidot.org/story?sid=63541",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t你可以自己不购买或不使用任何语音助手，但在其它场所你可能无法避开无处不在的监听，你说的话可能就被记录在亚马逊、Google、微软或苹果的服务器上了。芝加哥大学的计算机科学教授 Ben Zhao 和他的妻子 Heather Zheng \u003ca href=\"https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html\" target=\"_blank\"\u003e\u003cu\u003e设计了一种手镯\u003c/u\u003e\u003c/a\u003e，能干扰附近的 Echo 音箱或其它麦克风，使它们无法监听佩戴者的谈话。手镯有 24 个扬声器，当佩戴者打开之后它会发射出超声信号，这种信号人耳听不到，但麦克风将会检测到高频的声音。这种手镯还是原型，研究人员表示其制造成本可以降至 20 美元，已有投资者希望将其变成商品。这不是两人发明的第一种设计堵住语音助手耳朵的设备，他们在 2018 年创造了放置在智能音箱上的 Project Alias。但这种设备不具有便捷性。 Heather Zheng 认为干扰器应该随身携带，因为你不知道周围有没有麦克风。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-16T13:08:28Z",
+  "Author": "WinterIsComing"
+}

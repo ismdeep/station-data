@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 准备让数百万用户默认启用双因素认证",
+  "Link": "https://www.solidot.org/story?sid=69143",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年五月，Google \u003ca href=\"https://www.solidot.org/story?sid=67708\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e准备让有“合适配置”的用户账号自动使用双因素认证（2FA）。所谓“合适配置”是指用户已经有账号的恢复信息，如手机号码或额外的电邮。本周 Google \u003ca href=\"https://blog.google/technology/safety-security/making-sign-safer-and-more-convenient/\"\u003e\u003cu\u003e官方博客\u003c/u\u003e\u003c/a\u003e再次表示计划到年底对 1.5 亿用户账号\u003ca href=\"https://tech.slashdot.org/story/21/10/05/228206/google-is-about-to-turn-on-two-factor-authentication-by-default-for-millions-of-users\" target=\"_blank\"\u003e\u003cu\u003e默认启用 2FA\u003c/u\u003e\u003c/a\u003e。Google 推动的 2FA 认证主要是通过智能手机如 Android 或 iPhone 实现。但使用智能手机的 2FA 安全性一直受到质疑，如手机容易失窃或丢失，而发生此类情况之后如何访问账号对普通用户来说将是一大难事。此外通过收集手机号码，Google 将能关联用户的在线身份获得更深入的用户信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-06T10:32:35Z",
+  "Author": "WinterIsComing"
+}

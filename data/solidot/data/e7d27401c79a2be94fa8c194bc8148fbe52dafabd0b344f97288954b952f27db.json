@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Parler 被拖库，其代码被指十分业余",
+  "Link": "https://www.solidot.org/story?sid=66647",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t保守派社交媒体 Parler 在被亚马逊 AWS 拒绝托管后下线，而在下线前\u003ca href=\"https://twitter.com/donk_enby/\"\u003e\u003cu\u003e自称 \u003c/u\u003e\u003cu\u003edonk_enby 的黑客\u003c/u\u003e\u003c/a\u003e将整个网站的内容都拖了下来，其中包括被删除的帖子。Parler 的程序被指\u003ca href=\"https://arstechnica.com/information-technology/2021/01/parlers-amateur-coding-could-come-back-to-haunt-capitol-hill-rioters/\"\u003e\u003cu\u003e非常业余\u003c/u\u003e\u003c/a\u003e。它使用的公共 API 没有身份验证，当用户删帖时系统未能真正移除帖子而是给帖子加了一个删除标记。每个帖子都带有增量的数字 ID。这让黑客很容易利用脚本抓取网站上的帖子存档。存档的帖子可以被研究人员研究或者检方寻找犯罪证据。Parler 的图片和视频还被发现没有抹掉地理位置信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-13T12:07:00Z",
+  "Author": "WinterIsComing"
+}

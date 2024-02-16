@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "戴尔 SupportAssist 安全漏洞影响超过三千万 PC",
+  "Link": "https://www.solidot.org/story?sid=68136",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在戴尔预装在其 Windows PC 上的 SupportAssist 软件的 BIOSConnect 功能中发现了 4 个安全漏洞，允许攻击者在受影响设备的 BIOS 中远程执行代码，控制设备的引导过程。这些漏洞影响戴尔 129 个型号的\u003ca href=\"https://www.bleepingcomputer.com/news/security/dell-supportassist-bugs-put-over-30-million-pcs-at-risk/\" target=\"_blank\"\u003e\u003cu\u003e三千万台 PC\u003c/u\u003e\u003c/a\u003e。四个漏洞之一是  BIOS 到戴尔的不安全 TLS 连接 (\u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-21571\" title=\"nist.gov\"\u003eCVE-2021-21571\u003c/a\u003e) ，其余三个是溢出漏洞(\u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-21572\" title=\"nist.gov\"\u003eCVE-2021-21572\u003c/a\u003e，\u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-21573\" title=\"nist.gov\"\u003eCVE-2021-21573\u003c/a\u003e 和 \u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-21574\" title=\"nist.gov\"\u003eCVE-2021-21574\u003c/a\u003e）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-27T10:54:23Z",
+  "Author": "WinterIsComing"
+}

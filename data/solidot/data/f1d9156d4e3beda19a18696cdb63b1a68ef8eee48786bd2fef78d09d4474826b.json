@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "李开复的 AI 公司发布开源模型 Yi-34B",
+  "Link": "https://www.solidot.org/story?sid=76540",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t李开复在年初宣布了他创办的开发大模型的 AI 公司零一万物，七个月后零一万物发布了它的首个开源大模型 Yi-34B，源代码采用 Apache v2 许可证托管在 GitHub 上。Yi-34B 是中英双语模型，有 340 亿个参数，比  Falcon-180B 和 Meta LlaMa2-70B 等开源大模型都要小，但性能并不逊色。李开复表示有信心在一年半内发布  1000 亿到 4000 亿参数的大模型，将显著强于 Yi-34B。李开复称他的公司获得了来自创新工场、阿里云等的投资，估值 10 亿美元。大模型耗资巨大，零一万物将会选择性的开源部分模型，但其重点仍然是构建最先进的私有模型。在美国 AI 芯片出口限制生效前，零一万物已经囤积了能满足未来 12-18 个月计算需求的 AI 芯片。零一万物称，Yi-34B 及其规模更小的版本 Yi-6B 开源模型对学术研究完全开放，同步开放免费商用申请。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.01.ai/\u003cbr/\u003e\nhttps://github.com/01-ai/Yi\u003cbr/\u003e\nhttps://techcrunch.com/2023/11/05/valued-at-1b-kai-fu-lees-llm-startup-unveils-open-source-model/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-06T07:58:49Z",
+  "Author": "Wilson"
+}

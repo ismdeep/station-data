@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 服务连续两天发生宕机事故",
+  "Link": "https://www.solidot.org/story?sid=66398",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本周 Google 的服务\u003ca href=\"https://arstechnica.com/gadgets/2020/12/google-sees-major-services-outages-two-days-in-a-row/#p3\" target=\"_blank\"\u003e\u003cu\u003e连续两天\u003c/u\u003e\u003c/a\u003e发生\u003ca href=\"https://www.google.com/appsstatus#hl=en\u0026amp;v=status\" target=\"_blank\"\u003e\u003cu\u003e宕机\u003c/u\u003e\u003c/a\u003e事故。第一天是与身份验证系统相关的内部储存配额问题，影响了所有 Google 服务，事故持续了大约 50 分钟；第二天的事故主要影响 \u003ca href=\"https://www.google.com/appsstatus#hl=en\u0026amp;v=issue\u0026amp;sid=1\u0026amp;iid=a8b67908fadee664c68c240ff9f529ab\"\u003e\u003cu\u003eGmail 服务\u003c/u\u003e\u003c/a\u003e，Google 没有给出原因，只是称受影响的用户会收到错误通知，称发送的邮件地址不存在。Gmail 竞争对手  ProtonMail 称发送到 Gmail 账号的邮件永久丢失了需要重新发送。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-17T09:34:34Z",
+  "Author": "WinterIsComing"
+}

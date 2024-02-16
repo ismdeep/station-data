@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目注意到可用服务器数量下降",
+  "Link": "https://www.solidot.org/story?sid=69695",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目\u003ca href=\"https://yro.slashdot.org/story/21/11/19/1529223/tor-project-sees-decline-in-server-numbers-will-offer-rewards-for-new-bridge-operators\"\u003e\u003cu\u003e注意到\u003c/u\u003e\u003c/a\u003e Tor 中继和网桥的可用服务器数量出现下降，它宣布将提供连帽衫、T恤和贴纸等奖励鼓励 Tor 中继的维护者，促使服务器数量能回升。Tor 匿名网络由中继和出口节点组成，其中出口节点将与真实互联网进行通信，中继处于用户计算机和出口节点之间，网桥则是非公开的 Tor 中继，旨在躲避封锁。Tor 项目社区团队负责人 Gustavo Gus 表示目前有约 1200 个网桥服务器，其中 900 个支持 obfs4 混淆协议。他说，不幸的是自年初以来服务器的数量一直在减少。网桥的数量不够，最终它们都可能会被列入封锁名单，Tor 项目需要更多未被封锁的新网桥服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-20T14:43:01Z",
+  "Author": "WinterIsComing"
+}

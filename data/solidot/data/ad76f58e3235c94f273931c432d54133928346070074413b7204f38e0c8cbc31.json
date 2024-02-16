@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 探索修改 Firefox UI",
+  "Link": "https://www.solidot.org/story?sid=66545",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.ghacks.net/2021/01/02/mozilla-is-working-on-a-firefox-design-refresh/\"\u003e\u003cu\u003e正在调查\u003c/u\u003e\u003c/a\u003e修改 Firefox 的 UI，此举再次令很多 Firefox 用户\u003ca href=\"https://news.slashdot.org/story/21/01/03/0516247/mozilla-is-working-on-a-firefox-design-refresh\"\u003e\u003cu\u003e感到担忧\u003c/u\u003e\u003c/a\u003e。该项目被称为 Proton，Mozilla 已经在 Bugzilla 网站创建了名为“ \u003ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=proton\" target=\"_blank\"\u003e\u003cu\u003eProton - Firefox visual refresh\u003c/u\u003e\u003c/a\u003e”的 meta bug 报告。Mozilla 考虑“现代化”多个 UI 元素，其中包括地址栏和任务栏、主菜单、信息栏、门钩、上下文菜单和弹出框。Mozilla 计划在今年年中 Firefox 89 发布时公布部分新设计。Firefox 89 的发布日期是 2021 年 5 月 18 日。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-03T15:02:22Z",
+  "Author": "WinterIsComing"
+}

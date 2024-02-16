@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "UltraRAM 将内存和存储合二为一",
+  "Link": "https://www.solidot.org/story?sid=70355",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t兰卡斯特大学的科学家\u003ca href=\"https://hardware.slashdot.org/story/22/01/12/222254/ultraram-breakthrough-could-combine-memory-and-storage-into-one\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，我们很快可以将 SSD 和 RAM 合并为一个组件了。顾名思义，UltraRAM 被描述为一种内存技术，它将“闪存等数据存储非易失性与 DRAM 等工作存储的速度、能源效率和耐久性结合起来。”研究人员在最近发表的\u003ca href=\"https://onlinelibrary.wiley.com/doi/10.1002/aelm.202101103\"\u003e\u003cu\u003e一篇论文\u003c/u\u003e\u003c/a\u003e中详细描述了这项突破。UltraRAM 背后的基础科学在于利用化合物半导体的独特特性，化合物半导体通常用于 LED、激光器和红外探测器等光学器件，现在可以在硅片上批量生产。研究人员声称，最新技术优于在砷化镓半导体晶圆上测试的技术。UltraRAM 的一些推断数据表明它将能“把数据存储至少一千年”，其快速切换速度和编程擦除循环耐久性“比闪存好一百到一千倍”。这些特性加上类似于 DRAM 的速度、能源效率和耐用性，听起来这种新颖的内存类型很难会被科技公司忽视。如果你看完了上面的内容，就会发现 UltraRAM 旨在打破 RAM 和存储之间的鸿沟。理论上你可以将它视为满足当前这些彼此独立的需求的一揽子解决方案。在 PC 系统中，这意味着你可能会有一大块  UltraRAM，比如说容量是 2TB，它将满足你对 RAM 和存储需求。如果能发挥出潜力，这种转变将极大推动向内存中处理（in-memory processing）发展的流行趋势。毕竟，你的存储就是你的内存——有了 UltraRAM，它们就是一个元件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-13T10:27:24Z",
+  "Author": "wanwan"
+}

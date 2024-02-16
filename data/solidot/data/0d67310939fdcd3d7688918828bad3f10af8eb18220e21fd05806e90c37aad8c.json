@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 变成世界最大的地震监测网络",
+  "Link": "https://www.solidot.org/story?sid=65219",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAndroid 智能手机内置的加速计可作为地震仪使用，它能探测到地震产生的 P 波。\u003ca href=\"https://zh.wikipedia.org/wiki/P%E6%B3%A2\"\u003e\u003cu\u003eP 波\u003c/u\u003e\u003c/a\u003e传播速度快，是地震发生之后最早能监测到的波，它的破坏性低于紧跟而来的 S 波。如果有足够的用户，加上位置数据，可以在地震波传播的时候警告用户。2016 年，加州伯克利大学的研究人员开发了应用 MyShake，将安装了该应用的 Android 手机\u003ca href=\"https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network/\" target=\"_blank\"\u003e变成一个地震监测网络\u003c/a\u003e。Google 现在将地震监测功能直接内置在操作系统中，宣布了 \u003ca href=\"https://blog.google/products/android/earthquake-detection-and-alerts\"\u003eAndroid Earthquake Alerts System\u003c/a\u003e。Google 将通过  Google Play Services 服务将该功能推送到每一部运行 Android 5.0 以上版本的手机。在 25 亿部  Google Play Android 设备中，94% 运行了 Android 5.0 以上版本。该功能可通过 Google Location Services 服务激活或关闭。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-11T14:23:21Z",
+  "Author": "WinterIsComing"
+}

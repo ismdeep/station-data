@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fastmail、Runbox 和 Poste 遭到 DDoS 勒索攻击",
+  "Link": "https://www.solidot.org/story?sid=69353",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t电邮服务 Fastmail、Runbox 和 Poste \u003ca href=\"https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/\"\u003e\u003cu\u003e正遭到大规模 DDoS 攻击\u003c/u\u003e\u003c/a\u003e，攻击者要求支付比特币以停止攻击。Runbox 称，攻击流量超过了 50 Gbps，间歇性的屏蔽了客户对其服务的访问。向勒索者支付金钱并不能保证未来不会发生类似的攻击，只能让此类攻击变得更具有吸引力，增加未来发动 DDoS 攻击得可能性。相同得勒索者还攻击了 Fastmail 和 Poste。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-23T15:48:54Z",
+  "Author": "WinterIsComing"
+}

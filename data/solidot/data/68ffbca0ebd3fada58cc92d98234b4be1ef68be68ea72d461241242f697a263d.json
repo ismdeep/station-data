@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 ARM 开发者过渡套装基准测试出炉",
+  "Link": "https://www.solidot.org/story?sid=64815",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果在上周举行的 WWDC 大会上宣布其计算机将从英特尔 x86 处理器过渡到自己设计 ARM 架构处理器，并提供了 ARM 开发者过渡套装让开发者熟悉下未来基于 ARM 架构的新电脑。开发者过渡套装配备的是苹果在两年前设计的处理器 A12Z，运行 macOS Big Sur 测试版。现在，热心的苹果开发者公布了 A12Z 运行  Geekbench 的基准测试得分，尽管苹果的协议明令禁止这么做。Big Sur 系统上的 Geekbench 测试软件没有 ARM 原生版本，这意味着软件是运行在模拟器 Rosetta 2 上的，意味着模拟运行的结果可能比原生的结果略差。A12Z 的单核得分为 811，多核得分 2781，比入门级的 i3-1000ng4 单核得分慢 20%，多核得分快  38%。这个结果\u003ca href=\"https://arstechnica.com/gadgets/2020/06/developers-leak-benchmarks-from-the-apple-silicon-mac-transition-kit/#p3\" target=\"_blank\"\u003e\u003cu\u003e还是令人印象深刻的\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-30T13:31:46Z",
+  "Author": "WinterIsComing"
+}

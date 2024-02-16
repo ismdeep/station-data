@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国北斗导航卫星完成组网",
+  "Link": "https://www.solidot.org/story?sid=65251",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIEEE Spectrum \u003ca href=\"https://spectrum.ieee.org/tech-talk/aerospace/satellites/final-piece-of-chinas-beidou-navigation-satellite-system-comes-online\"\u003e\u003cu\u003e报道了\u003c/u\u003e\u003c/a\u003e最近完成组网的中国北斗导航卫星。北斗最初的主要动机是军用，PLA 不想依赖于 GPS，因为如果发生冲突美国空军可以关闭开放的 GPS 信号。和 GPS 类似，北斗也能提供民用商用服务。北斗除了能提供导航、定位和授时服务外，还能提供短消息服务，120 字符长度的消息能发送给其它北斗接收者。北斗卫星网络还在测试星间链路，移除对地面站通信的依赖。北斗、美国的 GPS 和俄罗斯的 GLONASS，以及欧洲的伽利略导航卫星，彼此都是互相兼容和互操作的，这意味着民用用户可以利用所有这些服务来改进定位精度。而根据白皮书，中国的最终目标是到 2035 年建立一个无处不在的、集成的、智能的和全面的国家定位导航授时系统。虽然北斗卫星完成了组网，中国还需要做很多工作来充分利用它。中国需要推广地面终端，将兼容接收器安装到各种设备中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-14T14:12:51Z",
+  "Author": "WinterIsComing"
+}

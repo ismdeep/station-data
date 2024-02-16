@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KDE 发现类似 Autorun.inf 的漏洞，问题已修复",
+  "Link": "https://www.solidot.org/story?sid=61692",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员 Dominik \u0026#34;zer0pwn\u0026#34; Penner 在 KDE Frameworks 5.60.0 中\u003ca href=\"https://www.zdnet.com/article/unpatched-kde-vulnerability-disclosed-on-twitter/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了一个\u003ca href=\"https://gist.githubusercontent.com/zeropwn/630832df151029cb8f22d5b6b9efaefb/raw/64aa3d30279acb207f787ce9c135eefd5e52643b/kde-kdesktopfile-command-injection.txt\"\u003e\u003cu\u003e自动执行漏洞\u003c/u\u003e\u003c/a\u003e，类似 Windows 的 Autorun.inf。 KDE Frameworks 软件库是 KDE 桌面环境的基础。漏洞与 KDesktopFile 类 处理 .desktop 或 directory 文件的方式有关。当用户使用 KDE 文件浏览器打开一个储存有恶意.desktop或 .directory 文件的目录，文件包含的恶意代码能自动执行无需用户操作。KDE 项目已经释出了 \u003ca href=\"https://kde.org/announcements/kde-frameworks-5.61.0.php\"\u003e\u003cu\u003eKDE Frameworks 5.61.0\u003c/u\u003e\u003c/a\u003e 修复了该漏洞，同时对安全研究员不按照正确方式报告漏洞直接公开的做法表达了不满。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-12T10:59:54Z",
+  "Author": "wenfeixiang"
+}

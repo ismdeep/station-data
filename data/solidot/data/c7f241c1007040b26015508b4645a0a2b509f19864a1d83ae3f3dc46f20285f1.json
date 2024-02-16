@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 95 引入新沙盒技术 RLBox",
+  "Link": "https://www.solidot.org/story?sid=69897",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e即将发布的 Firefox 95 引入的新沙盒技术 RLBox。RLBox 由 Mozilla 与加州圣迭戈和德州大学的研究人员联合开发，旨在简单高效的隔离子组件，加强浏览器的安全性。\u003ca href=\"https://plsyssec.github.io/rlbox_sandboxing_api/sphinx/\" target=\"_blank\"\u003e\u003cu\u003eRLBox\u003c/u\u003e\u003c/a\u003e 使用 WebAssembly 技术去隔离潜在含有 bug 的代码，方法是将这些代码编译到 WebAssembly 然后再编译到原生码，这种编译转换限制不可信的代码访问程序的其它部分，限制其访问指定区域之外的内存。目前这项技术已用于隔离五个模块：\u003ca href=\"https://scripts.sil.org/cms/scripts/page.php?site_id=projects\u0026amp;item_id=graphite_home\" target=\"_blank\"\u003eGraphite\u003c/a\u003e、\u003ca href=\"http://hunspell.github.io/\" target=\"_blank\"\u003eHunspell\u003c/a\u003e、\u003ca href=\"https://xiph.org/ogg/\" target=\"_blank\"\u003eOgg\u003c/a\u003e、\u003ca href=\"https://libexpat.github.io/\" target=\"_blank\"\u003eExpat\u003c/a\u003e 和 \u003ca href=\"https://github.com/google/woff2\" target=\"_blank\"\u003eWoff2\u003c/a\u003e，Firefox 将这些模块视为不信任的代码，因此即使其中含有 0day 漏洞也不会影响整体的浏览器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-07T05:23:33Z",
+  "Author": "WinterIsComing"
+}

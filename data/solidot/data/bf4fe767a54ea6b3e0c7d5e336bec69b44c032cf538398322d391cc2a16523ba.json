@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenWrt 22.03.0 发布",
+  "Link": "https://www.solidot.org/story?sid=72693",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用于路由器等设备的发行版 OpenWrt 释出了\u003ca href=\"https://openwrt.org/releases/22.03/notes-22.03.0\"\u003e\u003cu\u003e 22.03.0 版本\u003c/u\u003e\u003c/a\u003e，该版本经历了大约一年时间的开发。OpenWrt 22.03.0 的新特性包括：基于 nftables 的防火墙实现 Firewall4 取代基于 iptables 的 firewall3，Firewall4 将默认使用，默认镜像也不再包含旧的 iptables 工具；解决 2032 问题；LuCI Web 管理工具支持暗色模式；支持逾 180 种新设备；Linux kernel 5.10.138，musl libc 1.2.3，glibc 2.34，gcc 11.2.0，binutils 2.37 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-06T13:48:19Z",
+  "Author": "WinterIsComing"
+}

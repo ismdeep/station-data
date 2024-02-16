@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软将它的进程监视器带到 Linux 平台",
+  "Link": "https://www.solidot.org/story?sid=65003",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软带到 Linux 平台的最新开源项目是 \u003ca href=\"https://github.com/microsoft/ProcMon-for-Linux/blob/main/LICENSE\" target=\"_blank\"\u003e\u003cu\u003eProcmon\u003c/u\u003e\u003c/a\u003e，源代码采用 MIT 许可证托管在 GitHub 上。Procmon 是原 Windows 平台的进程监视器，微软称它为 Linux 开发者提供了一种方便高效的方法去跟踪系统的系统调用活动。Linux 平台有很多类似的工具，其中最为知名的可能是 dtrace。微软此举旨在吸引开发者在 Windows 开发其它平台的应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-21T08:18:09Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 20.04 LTS (Focal Fossa)发布",
+  "Link": "https://www.solidot.org/story?sid=64202",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu 20.04 LTS (Focal Fossa)\u003ca href=\"https://wiki.ubuntu.com/FocalFossa/ReleaseNotes\"\u003e\u003cu\u003e于 4 月 23 日正式发布\u003c/u\u003e\u003c/a\u003e。主要新特性包括：Linux 内核 5.4，支持新的硬件如英特尔 Comet Lake CPU 和 AMD  Navi 12 和 14 GPU；支持 exFAT 文件系统，支持 Wireguard VPN，完整性模式\u003ca href=\"https://mjg59.dreamwidth.org/55105.html\"\u003e启用锁定\u003c/a\u003e；为 RISC-V 硬件提供了 riscv64 内核。其它包括：GNOME 3.36，Mesa 20.0 OpenGL stack，BlueZ 5.53，PulseAudio 14.0，Firefox 75.0 和 Thunderbird 68.7.0，LibreOffice 6.4 等。与 Ubuntu 20.04 同时发布的还有多个衍生版本如 Kubuntu 和 Lubuntu，优麒麟。\u003ca href=\" UKUI 3.0 桌面环境预\" target=\"_blank\"\u003e\u003cu\u003e优麒麟\u003c/u\u003e\u003c/a\u003e由工信部、Canonica 和国防科技大学联合开发，整合了多个中国本土流行 Linux 应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-23T09:27:43Z",
+  "Author": "WinterIsComing"
+}

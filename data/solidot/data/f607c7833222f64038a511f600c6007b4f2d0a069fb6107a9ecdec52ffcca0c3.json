@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WordPress 强制对使用 Jetpack 插件的网站执行安全更新",
+  "Link": "https://www.solidot.org/story?sid=67958",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWordPress 强制对五百多万使用 Jetpack 插件的网站\u003ca href=\"https://www.bleepingcomputer.com/news/security/wordpress-force-installs-jetpack-security-update-on-5-million-sites/\" target=\"_blank\"\u003e\u003cu\u003e执行安全更新\u003c/u\u003e\u003c/a\u003e。Jetpack 是一个非常受欢迎的 WordPres 插件，提供了免费的安全、性能和管理功能，包括暴力破解保护、网站备份、安全登陆、恶意程序扫描等。它的活跃安装量超过了五百万，由 WordPress 母公司 Automattic 开发和维护。新发现的安全漏洞影响自 2012 年发布 Jetpack 2.0 起的所有版本。开发团队未发现漏洞正被利用，但随着安全更新的释出，漏洞被利用只是时间问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-04T15:16:07Z",
+  "Author": "WinterIsComing"
+}

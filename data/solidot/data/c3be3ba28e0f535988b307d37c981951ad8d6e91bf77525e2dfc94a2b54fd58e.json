@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "8chan 创始人 Fredrick Brennan 督促托管商不要托管该网站",
+  "Link": "https://www.solidot.org/story?sid=62316",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t8chan 现在运营者 Jim Watkins 和他的儿子 Ronald 正在设法让网站重新上线，而它的原创始人 Fredrick Brennan \u003ca href=\"https://www.dailydot.com/layer8/8chan-founder-site-fight/\" target=\"_blank\"\u003e\u003cu\u003e则在游说托管商不要托管该网站\u003c/u\u003e\u003c/a\u003e。Brennan 在 2013 年创建了 8chan，想把它变成一个言论自由的乌托邦，但如今它却变成了大屠杀枪手的传声筒，一个煽动暴力的白人民族主义者的招募平台。在得州 El Paso 枪击案之后，Cloudflare 终止了 8chan 的服务，迫使其寻找新的托管商和服务商。它找到了  Bitmitigate，但 Bitmitigate 并没有基础设施，它只是租赁了 Voxility 的服务器，而 Voxility 不想与 8chan 扯上关系，于是 8chan 连同另一个共享服务器的右翼网站 The Daily Stormer \u003ca href=\"https://www.solidot.org/story?sid=61615\"\u003e再次下线\u003c/a\u003e。8chan 从一个托管商流浪到另一个托管商。本月初的最后一次尝试是部分用户想通过 P2P 恢复网站，但当用户遭遇大量恶意程序之后网站又下线了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T11:54:16Z",
+  "Author": "wenfeixiang"
+}

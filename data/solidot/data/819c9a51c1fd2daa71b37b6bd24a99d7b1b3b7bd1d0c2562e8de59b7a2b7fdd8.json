@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "内核开发者人数和 commits 数过去一年出现下降",
+  "Link": "https://www.solidot.org/story?sid=63168",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPhoronix 在新年之际\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-Git-Stats-EOY2019\" target=\"_blank\"\u003e\u003cu\u003e分析了  Linux kernel Git 源码树\u003c/u\u003e\u003c/a\u003e，发现过去一年内核开发者的人数少了， commits 数也降至了数年以来的最低点。2019 年， Linux kernel 的 commits 数为 74,754，为 2013 年以来最少， 2017 和 2018 年的 commits 数都有 8 万，2016 年 7.7 万，2014 和 2015 年都有 7.5 万。这些代码的作者共有 4,189 人，低于 2018 年的 4,362 人和 2017 年的 4,402 人。过去一年，内核共加入 3,386,347 行代码，移除 1,696,620 行代码。除了 Linus Torvalds 外，内核最多产的贡献者为  David S. Miller，Chris Wilson，YueHaibing(华为)，Christoph Hellwig 和 Thomas Gleixner。对内核贡献最多的公司是英特尔和 Red Hat。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-05T13:58:15Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币",
+  "Link": "https://www.solidot.org/story?sid=72867",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2022 年 8 月 17 日，英国一家不知名的网络运营商  \u003ca href=\"https://www.quickhost.uk/company-about-us/\"\u003eQuickhost.uk\u003c/a\u003e 突然通过 BGP 广播宣布，隶属于亚马逊 AS16509 的一个 IP 段 44.235.216.0/24 需要路由经过它的网络 AS20943。该 IP 段中的一个地址 44.235.216.69 被用于托管 cbridge-prod2.celer.network——加密货币交易所 Celer Bridge 一关键智能合约用户界面使用的子域名。攻击者通过向证书颁发机构 GoGetSSL 证明对该子域名拥有控制权而获得了一个 TLS 证书，然后在该域名托管自己的智能合约，随后从访问该域名的 32 个账号中窃取了价值 234,866.65 美元的加密货币。\u003ca href=\"https://arstechnica.com/information-technology/2022/09/how-3-hours-of-inaction-from-amazon-cost-cryptocurrency-holders-235000/\" target=\"_blank\"\u003e\u003cu\u003e这一 BGP 劫持持续了 3 个多小时\u003c/u\u003e\u003c/a\u003e，亚马逊最后恢复了对该地址段的控制。这不是第一次亚马逊遭到  BGP 劫持，它在 2018 年遭到类似的攻击，攻击者的目标同样是窃取加密货币。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-24T11:41:30Z",
+  "Author": "WinterIsComing"
+}

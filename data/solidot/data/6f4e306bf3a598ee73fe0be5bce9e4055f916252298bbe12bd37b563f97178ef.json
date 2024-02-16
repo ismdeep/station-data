@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 69 发布，默认屏蔽第三方跟踪和挖矿程序",
+  "Link": "https://www.solidot.org/story?sid=61957",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/blog/2019/09/03/todays-firefox-blocks-third-party-tracking-cookies-and-cryptomining-by-default/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Firefox 69，默认屏蔽第三方跟踪和挖矿程序。在这之前，五分之一的 Firefox 用户启用了 Enhanced Tracking Protection，在升级到 Firefox 69 之后，所有用户将启用该功能，Mozilla 认为隐私保护不应该是一种选项，而应该是一种默认。Firefox 69 的其它变化包括：改进了自动播放屏蔽，用户可选择屏蔽所有视频的自动播放，而不限于屏蔽带声音的视频播放；支持 Web Authentication HmacSecret 扩展；改进 Windows 10 下的性能和 UI，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-03T13:09:54Z",
+  "Author": "wenfeixiang"
+}

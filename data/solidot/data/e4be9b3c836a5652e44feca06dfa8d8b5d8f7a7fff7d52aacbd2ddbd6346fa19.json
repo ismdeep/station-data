@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Log4j 漏洞影响数以百万计的应用",
+  "Link": "https://www.solidot.org/story?sid=69969",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t广泛使用的 Java 日志库 Log4j 爆出了\u003ca href=\"https://www.lunasec.io/docs/blog/log4j-zero-day/\"\u003e\u003cu\u003e非常容易利用的 0day 漏洞\u003c/u\u003e\u003c/a\u003e，通过发送特定字符串攻击者能远程执行代码，有数以百万计的应用受到影响。漏洞利用的 \u003ca href=\"https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce\"\u003e\u003cu\u003ePOC 代码\u003c/u\u003e\u003c/a\u003e已发布在 GitHub 上，它被编号为 \u003ca href=\"https://www.randori.com/blog/cve-2021-44228/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eCVE-2021-44228\u003c/a\u003e。受影响的服务包括  Steam、Apple iCloud、游戏如 Minecraft，任何使用 Apache Struts 的服务都可能受到影响。在漏洞\u003ca href=\"https://www.wired.com/story/log4j-flaw-hacking-internet/\" target=\"_blank\"\u003e\u003cu\u003e爆出\u003c/u\u003e\u003c/a\u003e之后，玩家就开始在 Minecraft 的聊天功能中尝试利用漏洞，部分 Twitter 用户改变显示名字去触发漏洞，苹果用户也尝试了类似的漏洞利用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-11T15:15:24Z",
+  "Author": "WinterIsComing"
+}

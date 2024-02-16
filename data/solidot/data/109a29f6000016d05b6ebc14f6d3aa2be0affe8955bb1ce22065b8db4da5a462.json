@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软阻止用户修改 Windows 11 默认浏览器",
+  "Link": "https://www.solidot.org/story?sid=69609",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月发布的 Windows 11 \u003ca href=\"https://www.solidot.org/story?sid=68599\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e修改默认浏览器非常繁琐，但用户很快找到了绕过繁琐设置的方法。然而微软最近释出的预览版本 Builds 22483 和  22494 封锁了所有的绕过方法。微软曾在 Windows 11 的新闻发布会上表态它不会恶意去堵上这些方法，但软件巨人显然是说的和做的是截然相反的。预览版本中的做法很有可能会在几个月后正式推送给用户。\u003ca href=\"https://tech.slashdot.org/story/21/11/12/1758204/microsoft-to-block-windows-11-browser-workarounds\" target=\"_blank\"\u003e\u003cu\u003e微软看起来从而真正改变过\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-13T15:15:03Z",
+  "Author": "WinterIsComing"
+}

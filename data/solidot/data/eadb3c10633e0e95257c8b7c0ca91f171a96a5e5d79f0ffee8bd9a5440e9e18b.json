@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "代码审计工具srcinv v0.5发布",
+  "Link": "https://www.solidot.org/story?sid=63763",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedlinux.github.io/\"\u003eHardenedLinux\u003c/a\u003e 写道 \u0026#34;srcinv旨在通过\u003ca href=\"https://hardenedlinux.github.io/2018/12/06/SRCINV-intro-doc.html\" target=\"_blank\"\u003e编译器编译时的中间信息搜集和分析\u003c/a\u003e全局角度审计整个项目，\u003ca href=\"https://github.com/hardenedlinux/srcinv/tree/v0.5\"\u003e近日发布的v0.5版本\u003c/a\u003e实现了针对GCC编译的程序基于ALL_IPA_PASSES_END进行收集和解析的功能。当前Ubuntu 18.04下使用v5.3内核和GCC 8.3.0进行测试结果大概如下：内核编译(仅生成vmlinux)生成了30+G的数据文件，总共2537个.c源文件，解析生成了4G的索引数据，解析完成之后, 能够得到一级函数指针的调用关系（比如__vfs_read函数和tty_read）。未来的版本会基于稳定性修复的前提下去完成函数参数的回溯（例如函数调用时的实参为函数用以完善函数调用链），函数内部逻辑的梳理（入口到出口的执行流程）以及单条执行路径的状态指示（路径到达的必要条件和影响因素等），简单漏洞模型的静态检测和动态验证等feature。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T06:31:45Z",
+  "Author": "WinterIsComing"
+}

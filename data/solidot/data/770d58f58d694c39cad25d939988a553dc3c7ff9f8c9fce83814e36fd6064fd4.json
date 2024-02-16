@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数万中国制造的廉价 Android 设备被发现预装了后门",
+  "Link": "https://www.solidot.org/story?sid=76265",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t网络安全公司 Human Security 报告有数万中国制造的廉价 Android 设备预装了后门。研究人员目前识别了 8 款植入了后门的设备，其中 7 款是电视盒，还有一款是平板，数量至少有 7.4 万。植入的后门是基于恶意程序 Triada，这些设备主要被用于广告欺诈和住宅代理服务。幕后攻击者据称控制了多达千万个家庭 IP 地址和 700 万个移动 IP 地址。这意味着全球有多达 2000 万台设备受到感染，任何时候都有 200 万台设备在线。趋势科技的安全研究人员表示，这些数据是可信的。Google 和苹果已经移除了安全研究人员发现的关联应用。\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.humansecurity.com/hubfs/HUMAN_Report_BADBOX-and-PEACHPIT.pdf\u003cbr/\u003e\nhttps://arstechnica.com/security/2023/10/thousands-of-android-devices-come-with-unkillable-backdoor-preinstalled/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-07T15:36:12Z",
+  "Author": "Wilson"
+}

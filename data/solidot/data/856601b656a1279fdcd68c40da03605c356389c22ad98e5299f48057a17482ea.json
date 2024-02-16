@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 21.04 将尝试默认使用 Wayland",
+  "Link": "https://www.solidot.org/story?sid=66814",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu 21.04\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Ubuntu-21.04-Wayland-Default\" target=\"_blank\"\u003e\u003cu\u003e 将尝试默认使用 Wayland\u003c/u\u003e\u003c/a\u003e，以在下一个长期支持版本 Ubuntu 22.04 LTS 发布前对 Wayland 进行足够的测试和评估。Canonical 此前测试过使用 Wayland，但最后还是在 LTS 版中继续默认用 X.Org，Wayland 作为非默认选项提供给用户。Canonical 现在希望能舒适的切换到 Wayland。Ubuntu 21.04 桌面环境是 GNOME 3.38 而不是 GNOME 40。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-01T04:06:24Z",
+  "Author": "WinterIsComing"
+}

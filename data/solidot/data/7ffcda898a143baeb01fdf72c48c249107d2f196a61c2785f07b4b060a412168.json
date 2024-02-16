@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软四月例行更新修复了一个正被利用的 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=74645",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软周二释出了四月例行安全更新，修复了 Windows 操作系统和其它软件的 100 个漏洞，其中包括一个正被利用的 0day 漏洞。苹果也几乎同一时间释出了一组更新，修复了 2 个正被用于攻击 iPhones、iPads 和 Macs 的 0day 漏洞。微软修复的 0day 编号为 CVE-2023-28252，位于 Windows Common Log System File System (CLFS) 驱动中，微软在两个月前修复了同一个组件中的一个类似 0day 漏洞。安全专家猜测是因为之前的补丁没有完全堵上漏洞，攻击者能找到方法绕过。该漏洞正被用于部署 Nokoyawa 勒索软件。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://krebsonsecurity.com/2023/04/microsoft-apple-patch-tuesday-april-2023-edition/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-12T12:59:01Z",
+  "Author": "Wilson"
+}

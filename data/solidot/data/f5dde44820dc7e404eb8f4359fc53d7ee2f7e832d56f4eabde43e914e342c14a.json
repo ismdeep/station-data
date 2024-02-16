@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat 企业发行版将不再支持 LibreOffice",
+  "Link": "https://www.solidot.org/story?sid=75146",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 最近将 LibreOffice RPMS 软件包列为不再更新，它解释了原因——用户未来将主要使用 Flatpak 打包的 LibreOffice 版本，而维护 RPMS 包的工程团队将精力集中到了其它优先事项上。Red Hat 的 Matthias Clasen 称，Red Hat Display Systems 团队维护了 LibreOffice RPMS 软件包，它调整了工程重点，集中到改进 Wayland 显示服务器、支持 HDR、感色灵敏相关的工作等。这些工作将改进 Fedora 和 RHEL 用户的工作站体验。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lwn.net/Articles/933525/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-04T12:19:53Z",
+  "Author": "Wilson"
+}

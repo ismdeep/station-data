@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "无能的开发商导致了新西兰患者个人信息泄露",
+  "Link": "https://www.solidot.org/story?sid=67351",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t新西兰 Canterbury 地区卫生局的新冠疫苗预定系统被发现暴露了 716 名登记的患者个人信息，包括姓名、性别、出生日期和 NHI 号码。这套系统是 Valentia Technologies 公司开发的，对系统代码的简单评估发现，问题根源在于\u003ca href=\"https://www.stuff.co.nz/national/health/coronavirus/124688207/ministry-of-health-launches-sweeping-review-of-covid19-vaccine-booking-systems\" target=\"_blank\"\u003e\u003cu\u003e开发商的无能\u003c/u\u003e\u003c/a\u003e。用户输入的信息被直接硬编码在网站上，其他用户可以公开查看，了解何时何地接种的信息。新西兰卫生部对 Valentia 开发的所有系统展开了审查，其他地方的卫生部门也使用了 Valentia 的预定系统，但只是在内网使用，有密码保护。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-30T09:24:49Z",
+  "Author": "WinterIsComing"
+}

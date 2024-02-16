@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 退出 Swift server 工作组",
+  "Link": "https://www.solidot.org/story?sid=62977",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 开发者\u003ca href=\"https://www.theregister.co.uk/2019/12/17/swift_ibm_pulls_back_open_source_priorities/\" target=\"_blank\"\u003e\u003cu\u003e退出了 Swift server 工作组\u003c/u\u003e\u003c/a\u003e，蓝色巨人的负责人 Ian Partridge 和架构师 Chris Bailey 都不再参与工作组的工作。苹果在 2014 年发布的 Swift 语言被广泛用于构建 iOS 和 Mac 应用，IBM 在 2016 年发布了用 Swift 构建的服务端框架 Kitura，允许 Swift 开发者用相同的语言构建服务器组件、API 或 web 应用。但 IBM 现在在评估之后不再将服务器端的开源 Swift 框架视为优先，Partridge 等人都转了其它开源项目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T05:49:50Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国严寒天气影响内核合并窗口",
+  "Link": "https://www.solidot.org/story?sid=66947",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国部分地区遭遇了严寒天气，如得州有数百万居民无供热无电力，问题被认为与该州监管不力的电力系统\u003ca href=\"https://www.houstonchronicle.com/business/energy/article/Wholesale-power-prices-spiking-across-Texas-15951684.php\"\u003e\u003cu\u003e有关\u003c/u\u003e\u003c/a\u003e。这次罕见严寒天气导致的断电也影响到了 Linux 内核。在 5.11 发布之后，5.12 的合并窗口开启，但目前 5.12 的 pull requests 已经暂停，原因就是严寒导致的断电。在问题解决之前，合并窗口\u003ca href=\"https://lwn.net/Articles/846406/\"\u003e\u003cu\u003e将会暂停\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-17T15:14:19Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gitlab 禁止使用 Microsoft Windows",
+  "Link": "https://www.solidot.org/story?sid=72378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitlab 被\u003ca href=\"https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e有一项禁止使用 Microsoft Windows 的公司政策。微软旗下的 GitHub 是 Gitlab 最主要的竞争对手。Gitlab 表示它允许员工使用 Linux 和苹果 macOS，而禁止使用 Windows 的理由是它是份额最高的桌面系统，因此也是间谍软件、病毒和勒索软件的最主要目标。Windows 家庭版的安全性难以保障，因此不符合公司安全准则。苹果的电脑是首选，如果熟悉 Linux 也可选择戴尔公司的 Linux 笔记本电脑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-05T15:30:38Z",
+  "Author": "WinterIsComing"
+}

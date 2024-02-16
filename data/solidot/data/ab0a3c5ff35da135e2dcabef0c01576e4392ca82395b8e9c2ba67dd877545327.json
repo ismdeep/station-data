@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome、Edge 和 Safari 在中国安全挑战赛上被攻陷",
+  "Link": "https://www.solidot.org/story?sid=62641",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国白帽子黑客被禁止参加国外的安全挑战赛如 Pwn2Own，于是他们创办了一个国内的比赛去展现自己的技艺。这个比赛叫\u003ca href=\"http://www.tianfucup.com/\"\u003e\u003cu\u003e天府杯\u003c/u\u003e\u003c/a\u003e，去年秋天办了第一届，第二届于上周末举行。在这次安全挑战赛上，Edge、Chrome、Safari、Office 365、iOS、小米、Vivo、VirtualBox、友讯科技的路由器、Adobe PDF 和 VMWare Workstation 等纷纷\u003ca href=\"https://www.zdnet.com/article/chrome-edge-safari-hacked-at-elite-chinese-hacking-contest/\"\u003e\u003cu\u003e遭到攻陷\u003c/u\u003e\u003c/a\u003e。360Vulcan 团队获得了最佳产品破解奖一等奖和最具价值产品破解奖，成为比赛的最大赢家。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-18T05:08:52Z",
+  "Author": "wenfeixiang"
+}

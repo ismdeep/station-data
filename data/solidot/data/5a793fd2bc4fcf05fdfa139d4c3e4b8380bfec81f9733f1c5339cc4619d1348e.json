@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "旧笔电硬盘播放《节奏国度》会崩溃",
+  "Link": "https://www.solidot.org/story?sid=72514",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软资深软件工程师、《The Old New Thing》作者 Raymond Chen \u003ca href=\"https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994\"\u003e\u003cu\u003e证实\u003c/u\u003e\u003c/a\u003e，一家未披露名字的 PC 制造商发现某型号的笔记本电脑在播放珍妮·杰克逊的 1989 年热门音乐视频《节奏国度(Rhythm Nation)》时会崩溃。调查发现播放音乐视频还会崩溃竞争对手的一款笔电，更离奇的是相邻的一台未播放音乐的笔电也崩溃了。原因被发现是《节奏国度》含有某款 5400 RPM 笔电硬盘的自然谐振频率，会干扰其运行。该 bug \u003ca href=\"https://arstechnica.com/gadgets/2022/08/janet-jacksons-rhythm-nation-is-officially-a-security-threat-for-some-old-laptops/\" target=\"_blank\"\u003e\u003cu\u003e被赋予了\u003c/u\u003e\u003c/a\u003e正式的 CVE 编号 CVE-2022-38392，影响到 2005 年上市的笔记本电脑，此类电脑基本上应该都被淘汰了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-19T08:01:31Z",
+  "Author": "WinterIsComing"
+}

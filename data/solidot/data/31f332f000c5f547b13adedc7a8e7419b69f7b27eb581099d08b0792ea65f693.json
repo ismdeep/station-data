@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FTC 警告将对未能修补 Log4j 漏洞的组织采取法律行动",
+  "Link": "https://www.solidot.org/story?sid=70268",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国联邦贸易委员会（FTC）\u003ca href=\"https://news.slashdot.org/story/22/01/05/1645251/ftc-warns-of-legal-action-against-organizations-that-fail-to-patch-log4j-flaw\"\u003e\u003cu\u003e警告\u003c/u\u003e\u003c/a\u003e，未能保护客户数据免受 Log4Shell 漏洞影响的美国组织可能会面临法律后果。Log4Shell 是广泛使用的 Log4j Java 日志库零日漏洞名称。FTC 警告称，在 12 月首次被发现的严重漏洞正在被越来越多的攻击者利用，对数百万的消费者产品构成“严重风险”。公开信敦促各大组织解决该漏洞，以减少对消费者造成伤害的可能性并避免法律诉讼风险。该机构表示：“当这些漏洞被发现并被利用时，可能会导致个人信息的丢失或泄露，造成经济损失并带来其他不可逆的伤害。”“包括《联邦贸易委员会法案》和《金融服务现代化法案》在内的法律要求采取合理的措施解决已知的软件漏洞问题。依赖 Log4j 的公司及其供应商现在就要采取行动，减少对消费者造成伤害的可能性并避免 FTC 采取法律行动，这一点至关重要。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-06T09:21:55Z",
+  "Author": "wanwan"
+}

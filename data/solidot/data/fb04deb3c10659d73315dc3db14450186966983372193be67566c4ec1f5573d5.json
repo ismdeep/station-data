@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 6.9 释出",
+  "Link": "https://www.solidot.org/story?sid=67666",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenBSD 项目释出了\u003ca href=\"https://www.openbsd.org/69.html\"\u003e\u003cu\u003e OpenBSD 6.9\u003c/u\u003e\u003c/a\u003e，主要新特性包括：改进对 powerpc64 平台的支持，初步支持 Apple M1 SoC，改进 arm64 平台支持；OpenSMTPD 6.9.0，LibreSSL 3.3.2，OpenSSH 8.5，LLVM/Clang 10.0.1，LibreOffice 7.0.5.2 ；Mozilla Firefox 88.0 和 ESR 78.10.0；改进硬件支持、驱动修复，等等。更多可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-01T02:02:14Z",
+  "Author": "WinterIsComing"
+}

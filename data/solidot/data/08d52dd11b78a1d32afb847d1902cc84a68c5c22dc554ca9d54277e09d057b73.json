@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 Wi-Fi 无线电功耗是传统无线电的五千分之一",
+  "Link": "https://www.solidot.org/story?sid=63650",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加州圣迭戈的电机工程师\u003ca href=\"https://ucsdnews.ucsd.edu/pressrelease/new-chip-brings-ultra-low-power-wi-fi-connectivity-to-iot-devices?_ga=2.105314950.463686660.1582114694-527546069.1579867513\"\u003e\u003cu\u003e研制出\u003c/u\u003e\u003c/a\u003e一种超低功耗的 Wi-Fi 无线电，能让物联网智能设备与现有的 Wi-Fi 网络进行通信，其功耗仅仅为 28 微瓦，是现有 Wi-Fi 无线电的五千分之一。它能在最远 21 米距离上以 2 Mbps 的速度传输数据，这足以传输音乐和大部分 YouTube 视频。电机和计算机工程教授  Dinesh Bharadia 称，该设备使用单个硬币电池（coin cell）就能持续运行数年时间。现有的 Wi-Fi 无线电通常需要消耗数百毫瓦电力去连接 Wi-Fi 接收器和物联网设备，因此此类设备需要大的电池或频繁充电或外部电源。研究人员利用了“后向散射（backscattering）”技术去实现超低功耗，类似的技术曾被用于间谍设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-27T09:54:31Z",
+  "Author": "WinterIsComing"
+}

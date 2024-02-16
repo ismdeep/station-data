@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "计算机作为通用技术的衰落",
+  "Link": "https://www.solidot.org/story?sid=67034",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t计算机的崛起部分是因为技术上的成功，部分也是有资本力量推动。计算机之类的通用技术产品具有广泛的技术适用性，产品的改进和市场的增长能在数十年内互相促进。但到了它生命周期的末端：随着技术进步放缓，其它产品可能会在部分领域替代这种通用产品，破坏经济上的自我强化循环。今天我们正目睹计算机的这种改变：随着 CPU 改进的放缓，应用转向了专门处理器，如 GPU 虽然做的任务比 CPU 少，但在特定任务上性能更出色。深度学习和比特币挖矿等应用也都转向了专门处理器。计算机\u003ca href=\"https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext\"\u003e\u003cu\u003e作为一种通用技术开始衰落了\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-25T12:40:52Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "使用 3CX 的加密货币公司被植入了后门",
+  "Link": "https://www.solidot.org/story?sid=74576",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVoIP 软件服务商 3CX 遭朝鲜黑客组织 Lazarus Group 入侵，黑客通过恶意版本 3CX 应用对其客户发动了供应链攻击。安全公司卡巴斯基报告，部分使用 3CX 的加密货币公司被精准植入了后门 Gopuram。Gopuram 是一种模块化的后门，可用于操作 Windows 注册表和服务，执行文件时间戳信息修改以逃避检测，注入恶意负荷到已运行进程，使用开源的 Kernel Driver Utility 加载未签名 Windows 驱动等等。卡巴斯基称，攻击者在不到 10 台被感染的机器上植入了 Gopuram，他们观察到攻击者对加密货币公司有着特殊的兴趣。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://securelist.com/gopuram-backdoor-deployed-through-3cx-supply-chain-attack/109344/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-04T08:01:46Z",
+  "Author": "Wilson"
+}

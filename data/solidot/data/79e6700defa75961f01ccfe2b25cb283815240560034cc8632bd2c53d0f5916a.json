@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯黑客对乌克兰电网的攻击试图造成更大的破坏",
+  "Link": "https://www.solidot.org/story?sid=62095",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2016 年 12 月，俄罗斯黑客对乌克兰电网发动了前所未有的破坏性攻击。在圣诞节前两天，黑客在乌克兰国家电网运营商 Ukrenergo 的网络内植入了恶意程序，在午夜前，他们打开了基辅北部一家输变电站的所有断路器，造成了一次断电事故。但断电只持续了一个小时，Ukrenergo 的操作人员很简单的就恢复了电力供应。俄罗斯黑客如此大费周章只是触发了一个小时的断电？工控系统网络安全公司 Dragos 对恶意程序代码和网络日志的\u003ca href=\"https://dragos.com/wp-content/uploads/CRASHOVERRIDE.pdf\"\u003e\u003cu\u003e分析（PDF）\u003c/u\u003e\u003c/a\u003e显示，黑客的\u003ca href=\"https://arstechnica.com/information-technology/2019/09/new-clues-show-how-russias-grid-hackers-aimed-for-physical-destruction/\" target=\"_blank\"\u003e\u003cu\u003e野心要大得多\u003c/u\u003e\u003c/a\u003e，他们试图造成一次持续的破坏，诱发不只是一个小时二十持续数周甚至数个月的断电。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-16T13:13:01Z",
+  "Author": "wenfeixiang"
+}

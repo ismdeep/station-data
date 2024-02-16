@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源 Web 扩展项目中的恶意程序问题",
+  "Link": "https://www.solidot.org/story?sid=66943",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2 月 4 日，数百万浏览器标签突然终止。Chrome 开源扩展 The Great Suspender 在变更维护者之后于去年 10 月推送了恶意更新，Google 在 4 个月后终于决定强行移除该扩展。\u003ca href=\"https://lwn.net/SubscriberLink/846272/37d25507fa3e9cd3/\" target=\"_blank\"\u003e\u003cu\u003e这起事故凸显了开源项目中的控制问题\u003c/u\u003e\u003c/a\u003e。谁拥有开源项目的代码？是最初的创始人？是维护者？还是整个社区？绝大部分开源项目并没有一个专门的基金会或治理系统去管理项目。如 GitHub 这样的托管平台允许多个人或核心贡献团队控制项目，但在 Chrome Web Store 或 Apple App Store 这样的发行渠道，只能由个人控制着项目账号负责每个版本的发布。The Great Suspender 的功能是暂停不活跃的标签页，它的维护者 Dean Oemcke 于 2020 年 6 月决定转到其它项目，他将 GitHub 库和 Web Store 的所有权转让给了一个未公开身份的人。扩展的用户当然不会关心所有权的转让，但他们即将面临这一转让的影响。去年 10 月新维护者释出的更新包括了下载和执行第三方域名的 JS 文件。这一变动还关闭了自动更新，这意味着即使恶意代码移除现有用户仍然会继续使用恶意版本。这并不是第一次开源项目转让之后变成恶意。Raymond Hill 将 uBlock 的所有权转让给了新维护者 Chris Aljoudi，结果他利用这个项目牟利，甚至允许广告商付钱躲避屏蔽。这促使 Raymond Hill 创建了分支 UBlock Origin。Hugo Xu 的扩展 Nano Adblocker 和 Nano Defender 是基于 UBlock Origin，在将项目的所有权转让出售给土耳其的开发者之后\u003ca href=\"https://www.solidot.org/story?sid=65868\"\u003e\u003cu\u003e变成了恶意应用\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-17T08:30:03Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美光量产首款 232 层 3D NAND 闪存芯片",
+  "Link": "https://www.solidot.org/story?sid=72277",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美光\u003ca href=\"https://spectrum.ieee.org/micron-is-first-to-deliver-3d-flash-chips-with-more-than-200-layers\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e量产 232 层 3D NAND 闪存芯片，这是首款突破 200 层的闪存芯片，竞争对手目前提供的技术最多 176 层。美光新技术将每单位面积存储的比特密度提高一倍至每平方毫米存储 14.6 Gb。3D NAND 闪存芯片的底层由控制读写操作的 CMOS 逻辑电路和其它电路组成，CMOS 之上是垂直堆叠和互联的 NAND 闪存单元。美光数据中心存储副总裁 Alvaro Toledo 表示未来会增加更多的层。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-27T14:51:46Z",
+  "Author": "WinterIsComing"
+}

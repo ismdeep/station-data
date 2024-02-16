@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 DDoS 僵尸网络基于普联 AX21 路由器",
+  "Link": "https://www.solidot.org/story?sid=75311",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月出现的新恶意程序 Condi 利用 TP-Link Archer AX21 (AX1800) Wi-Fi 路由器的一个漏洞去构建僵尸网络发动 DDoS 按需攻击。Condi 利用的是编号为 CVE-2023-1389 的高危漏洞，是 Web 管理界面 API 中的一个未经身份验证命令注入和远程代码注入漏洞。安全研究人员在 2023 年 1 月向 TP-Link 报告了漏洞，TP-Link 在 3 月释出的 v1.1.4 Build 20230219 中修复了该漏洞。感染僵尸网络的路由器会打开 TCP/5555 端口。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-21T15:22:13Z",
+  "Author": "Wilson"
+}

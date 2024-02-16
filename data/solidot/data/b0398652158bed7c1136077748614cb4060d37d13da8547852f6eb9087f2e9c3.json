@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Adobe 停止支持 PostScript Type 1 字体",
+  "Link": "https://www.solidot.org/story?sid=67814",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAdobe 在 1980 年代设计的数字排版字体 PostScript Type 1 \u003ca href=\"https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html\" target=\"_blank\"\u003e\u003cu\u003e即将走进历史\u003c/u\u003e\u003c/a\u003e。Adobe Photoshop 在今年停止支持 PostScript Type 1，到 2023 年 Adobe 的其它产品也将停止支持该字体。\u003ca href=\"https://zh.wikipedia.org/wiki/PostScript%E5%AD%97%E5%9E%8B\"\u003e\u003cu\u003ePostScript\u003c/u\u003e\u003c/a\u003e 字体是 Adobe 为专业数字排版开发的大纲字体规范编码的字体文件。该系统使用 PostScript 文件格式来编码字体信息。Adobe 在 1984 年的 PostScript 页面描述语言中定义了 Type 1 和 Type 3 字体格式。但在 1985 年 3 月支持 PostScript 的激光打印机 Apple LaserWriter 面世，它才真正流行起来。在当时，轮廓字体只在打印机中使用，屏幕上依旧用位图字体。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-19T08:07:12Z",
+  "Author": "WinterIsComing"
+}

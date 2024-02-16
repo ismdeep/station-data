@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Safari 将采用 Chrome/Firefox 相同的 WebExtensions API",
+  "Link": "https://www.solidot.org/story?sid=65376",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果\u003ca href=\"https://developer.apple.com/news/?id=kuswih5l\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，Safari 浏览器将采用  Chrome、Firefox 和 Edge 使用的相同扩展技术 WebExtensions API。Chrome 有着庞大的扩展生态系统，而随着所有主流浏览器都采用 WebExtensions API，这一扩展技术已成为事实上的标准，这也方便用户从一个浏览器切换到另一个浏览器。Firefox 是从 v57 开始正式采用 WebExtensions API 的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-28T06:41:07Z",
+  "Author": "WinterIsComing"
+}

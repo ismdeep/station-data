@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "使用 RISC-V 核心的 AI 加速器",
+  "Link": "https://www.solidot.org/story?sid=72564",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在高性能芯片研讨会 Hot Chips 34 上，创业公司 Untether.AI \u003ca href=\"https://www.servethehome.com/untether-ai-boqueria-1458-risc-v-core-ai-accelerator-hc34/\"\u003e\u003cu\u003e介绍了其最新的 AI 加速器\u003c/u\u003e\u003c/a\u003e，不同寻常之处是它使用的是 RISC-V 核心。RISC-V 是一种开源指令集架构，允许自由使用。Untether.AI Boqueria 是一个 1458 RISC-V 核心的 AI 加速器，使用台积电 7 纳米工艺制造，片上 SRAM 238MB，SRAM 带宽 1PB/s，RISC-V 的指令集为 RV32EMC。Untether.AI 表示它的架构能缩放适应非常低功耗到高功耗设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-24T14:30:34Z",
+  "Author": "WinterIsComing"
+}

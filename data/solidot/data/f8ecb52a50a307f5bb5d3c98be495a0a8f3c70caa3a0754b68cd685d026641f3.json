@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Top 500 入榜门槛提高到 1.14 petaflops",
+  "Link": "https://www.solidot.org/story?sid=62656",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTop 500 周一\u003ca href=\"https://www.top500.org/news/china-extends-lead-in-number-of-top500-supercomputers-us-holds-on-to-performance-advantage/\" target=\"_blank\"\u003e\u003cu\u003e公布了最新一期的榜单\u003c/u\u003e\u003c/a\u003e，前 10 的超算没有变化，但入榜门槛从上半年的 1.022 petaflops 提高到 1.14 petaflops。排在前十的超算为：橡树岭国家实验室的 IBM 超算 Summit 运算速度 148.6 petaflops；劳伦斯利物莫国家实验室的 IBM 超算 Sierra 运算速度 94.6 petaflops，中国的神威太湖之光第三运算速度 93 petaflops；天河二号 A 以 61.4 petaflops 排名第四；得州大学的超算 Frontera 以 23.5 petaflops 排名第五；之后是瑞士的 Piz Daint（21.2 petaflops），美国的 Trinity（20.2 petaflops），日本富士通公司制造的 AI Bridging Cloud Infrastructure (ABCI，19.9 petaflops），德国的联想超算 SuperMUC-NG（19.5 petaflops），劳伦斯的 Lassen（18.2 petaflops）。在 Top 500，中国有 227 台，数量继续保持第一，美国 118 台，日本 29 台，法国 18 台，德国 16 ，荷兰 15，爱尔兰 14，英国 11 。联想制造的超算数量再次保持第一，共有 174 台，之后是浪潮 (71)，曙光 (65)，克雷 (36)和HPE (35)，克雷已被 HPE 收购，两家的超算总数和浪潮相同。500 台超算中 470 台使用英特尔 CPU，IBM 有 14 台，AMD 有 3 台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-19T03:57:05Z",
+  "Author": "wenfeixiang"
+}

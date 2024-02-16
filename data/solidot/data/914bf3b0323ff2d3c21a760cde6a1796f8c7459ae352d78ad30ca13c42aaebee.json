@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNU Artanis正式加入HardenedLinux社区平台",
+  "Link": "https://www.solidot.org/story?sid=70175",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;\u003ca href=\"https://savannah.gnu.org/projects/artanis/\" target=\"_blank\"\u003eGNU Artanis\u003c/a\u003e是一个基于Scheme的Web框架自由软件实现，于2015年正式成为\u003ca href=\"https://www.gnu.org/software/artanis/\" target=\"_blank\"\u003eGNU官方项目\u003c/a\u003e，经过7年的发展其成为了Scheme语言中最先达到产品级的Web框架，它也是基于delimited continuation实现产品级高并发设计的最佳实践之一，\u003ca href=\"https://gitlab.com/hardenedlinux/artanis/-/raw/gh-pages/research/scheme16/art2016.pdf\" target=\"_blank\"\u003e相关论文\u003c/a\u003e2016年在ICFP Scheme workshop发表。GNU Artanis作者\u003ca href=\"https://nalaginrut.com/archives/2021/12/29/gnu%20artanis%20donates%20to%20hardenedlinux\" target=\"_blank\"\u003e经过多方面考虑\u003c/a\u003e，于2021年12月29日，\u003ca href=\"https://gitlab.com/hardenedlinux/artanis\" target=\"_blank\"\u003eGNU Artanis正式捐赠\u003c/a\u003e给\u003ca href=\"https://github.com/hardenedlinux\" target=\"_blank\"\u003eHardenedLinux社区平台\u003c/a\u003e并继续由GNU Artanis社区维护，这并不影响其GNU官方项目的性质。HardenedLinux社区致力于基于自由软件/固件/硬件打造安全以及相关工具开发的最佳实践，在GNU/Linux发行版方面，HardenedLinux社区一直以来推进基于Debian GNU/Linux的最佳实践，GNU Artanis的加入无疑成为了一大助力。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-29T09:21:41Z",
+  "Author": "WinterIsComing"
+}

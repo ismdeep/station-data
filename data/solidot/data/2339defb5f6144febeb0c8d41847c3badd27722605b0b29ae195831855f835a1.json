@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 被屏蔽",
+  "Link": "https://www.solidot.org/story?sid=62037",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t提供远程会议软件服务的 Zoom 证实\u003ca href=\"https://status.zoom.us/incidents/xbmxyfpnv4jq\" target=\"_blank\"\u003e\u003cu\u003e它遭到了屏蔽\u003c/u\u003e\u003c/a\u003e。根据 \u003cspan class=\"st\"\u003e\u003c/span\u003eZoom 的事故报告，9 月 8 日它收到中国客户报告无法访问 Zoom 网站无法加入视频会议，工程师展开了调查，最后确认是中国当地的 DNS 导致的，它建议客户使用 VPN 加入远程视频会议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-10T08:31:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 发布工具从单张照片实现高清人像 3D 数字化",
+  "Link": "https://www.solidot.org/story?sid=64740",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t深度神经网络推动了基于图像的三维人体形状估计技术的进步，但现有的技术还无法产生细节丰富的高清人体三维结构。主要限制是创建精确的 3D 模型需要更多的上下文背景和更高的图像分辨率，以及更多的内存。南加州大学和 Facebook  的研究人员提出了 \u003ca href=\"https://arxiv.org/pdf/2004.00452.pdf\"\u003e\u003cu\u003ePIFuHD（PDF）\u003c/u\u003e\u003c/a\u003e 去解决这个问题，\u003ca href=\"https://github.com/facebookresearch/pifuhd\"\u003e\u003cu\u003e代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。从简单图像重组高清三维人像的\u003ca href=\"https://camo.githubusercontent.com/1b965e5bc1a80b6af71c4ec667837a700e37984e/68747470733a2f2f7368756e73756b65736169746f2e6769746875622e696f2f5049467548442f7265736f75726365732f696d616765732f7069667568642e676966\"\u003e\u003cu\u003e演示动画\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-22T10:05:13Z",
+  "Author": "WinterIsComing"
+}

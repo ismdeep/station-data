@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "第一款 RISC-V 便捷式计算机",
+  "Link": "https://www.solidot.org/story?sid=70960",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tClockwork\u003ca href=\"https://lunduke.substack.com/p/the-first-risc-v-portable-computer?s=r\" target=\"_blank\"\u003e\u003cu\u003e 发布了\u003c/u\u003e\u003c/a\u003e第一款 RISC-V 便捷式计算机 \u003ca href=\"https://www.clockworkpi.com/product-page/devterm-kit-r01\"\u003e\u003cu\u003eDevTerm R-01\u003c/u\u003e\u003c/a\u003e。DevTerm R-01 配备了 64 位单核 RISC-V CPU，频率 1.0GHz，没有 GPU，1GB DDR3，6.86 英寸 IPS 显示屏，键盘，32GB TF 卡等等，售价 239 美元。开发商承认该产品是实验性的，用户需要具有 Linux 和开源软件的经验，新手建议使用其它产品。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-16T11:29:53Z",
+  "Author": "WinterIsComing"
+}

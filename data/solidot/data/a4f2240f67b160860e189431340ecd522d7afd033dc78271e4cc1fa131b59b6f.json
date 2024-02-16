@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PS3 模拟器加入对 FSR 的支持",
+  "Link": "https://www.solidot.org/story?sid=68484",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPS3 开源模拟器项目 RPCS3 \u003ca href=\"https://github.com/RPCS3/rpcs3/pull/10664\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e加入对 FSR 的支持。FSR 代表 FidelityFX Super Resolution，是 AMD 上个月\u003ca href=\"https://www.solidot.org/story?sid=68300\"\u003e\u003cu\u003e开源\u003c/u\u003e\u003c/a\u003e的图像缩放算法，类似英伟达的 Deep Learning Super Sampling (DLSS)，但 DLSS 利用了机器学习需要英伟达专用的显卡，而 FSR 是基于软件的实现，可以很容易整合到任何游戏中，支持几乎所有显卡。RPCS3 开发者称，暂时不支持 3D 输出，只支持 Vulkan，只使用 FP32 fallback。另一个由国内开发者维护的开源项目 \u003ca href=\"https://github.com/Blinue/Magpie\"\u003e\u003cu\u003eMAGPIE\u003c/u\u003e\u003c/a\u003e 也在前不久加入了对 FSR 的支持。MAGPIE 可以将任意窗口放大至全屏，利用进程注入支持任意 Windows 游戏。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-07T09:11:08Z",
+  "Author": "WinterIsComing"
+}

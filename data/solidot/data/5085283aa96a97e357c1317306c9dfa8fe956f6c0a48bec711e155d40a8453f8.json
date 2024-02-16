@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Perl 5.34.0 发布",
+  "Link": "https://www.solidot.org/story?sid=67840",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPerl 语言\u003ca href=\"https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260110.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e发布 \u003ca href=\"https://metacpan.org/release/XSAWYERX/perl-5.34.0\"\u003e\u003cu\u003ePerl 5.34.0\u003c/u\u003e\u003c/a\u003e。5.34 与 5.32 相距 11 个月，包含了来自 78 名作者的大约 28 万行代码变更。主要变化包括：实验性的 try/catch 语法，正则表达式量词允许空下界，新八进制语法 0oddddd，性能增强和模块更新等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-22T15:23:58Z",
+  "Author": "WinterIsComing"
+}

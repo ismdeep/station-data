@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "第六次 Hutter 奖公布",
+  "Link": "https://www.solidot.org/story?sid=75602",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2006 年，德国 AI 研究员 Marcus Hutter 宣布了人类知识无损压缩 Hutter 奖，总奖金 5 万欧元。2020 年奖金金额提高到 50 万欧元，而 Hutter 如今是 Google DeepMind 高级研究员。该奖项旨在鼓励 AI 研究，组织者认为文本压缩和 AI 是一个等价问题。用数学家 Gregory Chaitin 话说，压缩就是理解。压缩的对象是一个特定版本的英文维基百科文本，一开始是 100MB 大小，2020 年提高到 1GB，规则是每改进 x% 就获得等价比例的奖金，如改进 1% 就奖励 5 千欧元。Hutter 奖此前颁发了五次，其中四处是颁给了 Alexander Ratushnyak。现在，纽约高频/算法交易和金融服务基金的量化开发者 Saurabh Kumar 成为最新的获胜者 ，他将 10 亿字符压缩到 114,156,155 字节，压缩率 11.41%，比之前的记录改进了 1.04%，因此赢得了 5187 欧元奖金。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/saurabhk/fast-cmix/blob/main/README.md\u003cbr/\u003e\nhttps://hardware.slashdot.org/story/23/07/24/0215253/sixth-hutter-prize-awarded-for-achieving-new-data-compression-milestone\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-24T12:31:49Z",
+  "Author": "Wilson"
+}

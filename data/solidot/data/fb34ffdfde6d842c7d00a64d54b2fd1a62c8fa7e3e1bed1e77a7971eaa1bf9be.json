@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Word 更新导致 Outlook 客户端邮件显示空白",
+  "Link": "https://www.solidot.org/story?sid=67807",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t5 月 11 日，使用  Outlook 的 Office 365 用户报告他们收到的邮件内容显示为空白。系统管理员使用了重启、重新安装等各种方法都无济于事。微软随后承认问题出在它这边。软件巨人\u003ca href=\"https://www.theregister.com/2021/05/17/outlook_incident_report/\"\u003e\u003cu\u003e本周公布了报告\u003c/u\u003e\u003c/a\u003e，称是 Microsoft Word 导致的。问题始于 5 月 11 日 18:24 UTC，到 5 月 12 日 2:00 UTC 修复。Outlook 客户端从 2007 开始通过嵌入 Word 渲染 HTML 邮件内容。微软称，为了缓解 Microsoft Word 上的一个问题，它推送了一个配置更新，结果却对 Outlook 客户端和 Word 使用的 Web Layout View 产生了意想不到的结果。配置被用于判断启用或禁用哪些功能、组件或特定代码路径，Microsoft 365 应用每隔 4 小时会同步配置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-18T14:29:05Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "qBittorrent 新版的颜色引发批评",
+  "Link": "https://www.solidot.org/story?sid=73803",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Qt 的开源 BitTorrent 客户端 qBittorrent 最近释出了 v4.5 版本，但该版本因为颜色惹恼了无数用户。qBittorrent v4.5.0 硬编码了前景色，但没有硬编码背景色，也就是软件将使用系统主题的背景色。如果前景色和背景色之间存在严重对比度的问题，这一设计无疑会给用户带来识别上的困惑。qBittorrent v4.5.0 在暗色背景下变得几乎难以识别。更糟糕的是，qBittorrent 没有提供任何选项去改变颜色。大部分普通用户唯一的选择是退回到旧版本。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/qbittorrent/qBittorrent/issues/18078#\u003cbr/\u003e\nhttps://datalars.com/2023/01/03/qbittorrent-v450-the-hitchhikers-guide-to-legible-text-2/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-04T09:51:27Z",
+  "Author": "Wilson"
+}

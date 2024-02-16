@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "不安全的卫星网络威胁船只飞机的安全",
+  "Link": "https://www.solidot.org/story?sid=65217",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在上周举行的  Black Hat 在线安全会议上，研究员和博士生 James Pavur 警告不安全的卫星互联网威\u003ca href=\"https://arstechnica.com/information-technology/2020/08/insecure-satellite-internet-is-threatening-ship-and-plane-safety/#p3\" target=\"_blank\"\u003e\u003cu\u003e胁到了船只飞机的安全\u003c/u\u003e\u003c/a\u003e。过去几年，他利用在欧洲大陆的有利位置截获了 18 颗卫星发送的互联网数据。他发现：一个中国航班接收了未加密的导航数据和航空电子数据，令人担忧的是，数据来自于乘客用于发送邮件和浏览网页的相同连接，引发了乘客发动攻击的可能性；一位系统管理员登陆了法国南部的风力涡轮机，在此过程中暴露了用于身份认证的会话 cookie；Pavur 截获了一艘埃及油轮发送的发电机故障信息，甚至还知道了派去修理的工程师名字和护照号；一艘游轮广播了 Windows 本地网络的敏感信息，包括储存在 Lightweight Directory Access Protocol 数据库中的登陆信息...Pavur 用于拦截卫星互联网通信的设备只需要 300 美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-11T13:28:43Z",
+  "Author": "WinterIsComing"
+}

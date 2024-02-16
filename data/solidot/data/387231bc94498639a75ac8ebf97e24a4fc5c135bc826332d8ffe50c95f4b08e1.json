@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达反击勒索软件攻击，黑客开始披露窃取的数据",
+  "Link": "https://www.solidot.org/story?sid=70803",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达上周\u003ca href=\"https://www.solidot.org/story?sid=70781\"\u003e\u003cu\u003e遭到网络攻击\u003c/u\u003e\u003c/a\u003e，攻击者据报道为勒索软件组织 LAPSUS$。该组织声称它潜入英伟达网络长达一周，窃取了 1TB 的数据。LAPSUS$ 称在此期间它获得了英伟达许多系统的管理级别访问权限，它获得的数据包括驱动程序、电路图和固件。英伟达据报道对该组织\u003ca href=\"https://www.tomshardware.com/news/nvidia-allegedly-hacks-hackers-who-stole-companys-data\" target=\"_blank\"\u003e\u003cu\u003e发起了反击\u003c/u\u003e\u003c/a\u003e，用勒索软件感染了攻击者的系统，加密了被盗数据。但 LAPSUS$ 表示它有备份，开始出售窃取的数据，其中包括 GA102 / GA104 GPU 的 LHR V2 bypass（LHR 代表 lite hash rate，是英伟达降低显卡挖矿能力的技术）。LAPSUS$ 要求英伟达支付赎金否则将公开数据，首批公开的数据是英伟达所有员工的哈希密码，它要求该公司\u003ca href=\"https://www.bleepingcomputer.com/news/security/hackers-to-nvidia-remove-mining-cap-or-we-leak-hardware-data/\" target=\"_blank\"\u003e\u003cu\u003e移除对 GeForce RTX 30 系列显卡的挖矿限制\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T05:18:14Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "日本 ARM 超算富岳登顶 Top 500 榜单",
+  "Link": "https://www.solidot.org/story?sid=64744",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTop 500 公布了最新的\u003ca href=\"https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/\"\u003e\u003cu\u003e榜单\u003c/u\u003e\u003c/a\u003e，日本基于 ARM 架构的超算富岳登顶，其  Linpack 运算性能达到  415.5 petaflops，是排在第二位的美国橡树岭国家实验室 IBM 超算 Summit 的 2.8 倍。\u003ca href=\"https://www.dropbox.com/s/aqntdb43p6so0z5/fugaku-report.pdf?dl=0\"\u003e\u003cu\u003e富岳（PDF）\u003c/u\u003e\u003c/a\u003e安装在神户的日本理化所计算机科学中心，其处理器为富士通公司的 48/52 核 A64FX ARM v8.2-A，采用了可缩放矢量扩展（Scalable Vector Extension）和 512 位实现，为高性能计算进行了优化，由台积电 7 纳米工艺制造，晶体管数量 878.6 亿。A64FX 包含  48 个计算核心和 2 到 4 个辅助核心，没有 GPU 加速器，封装了  HBM2 内存。富岳总共有 158,97 个节点，峰值功率 28.33MW，使用水冷冷却系统，运行的操作系统为 Red Hat Enterprise Linux 8 和 McKernel（轻量级多内核操作系统）。Top 10 超算还有 Summit （148.6 petaflops），Sierra，神威太湖之光，天河二号 A，HPC5（意大利），Selene，Frontera，Marconi-100 和 Piz Daint。中国依旧保持超算数量第一有 226 台，美国 114 台，日本 30 台，法国 18 台，德国 16 ，美国超算的总性能高于中国。联想制造的超算数量再次保持第一，共有 180 台，之后是曙光 (68)，浪潮 (64)，HPE (37)，克雷/HPE (35)，富士通 13。500 台超算中 469 台使用英特尔 CPU，AMD CPU 的有 11 台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-23T01:56:16Z",
+  "Author": "WinterIsComing"
+}

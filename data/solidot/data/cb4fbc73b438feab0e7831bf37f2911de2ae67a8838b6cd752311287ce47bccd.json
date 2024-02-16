@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Intel泄漏材料对于自由固件社区无益",
+  "Link": "https://www.solidot.org/story?sid=65184",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道\u003ci\u003e \u0026#34;这次\u003ca href=\"https://www.solidot.org/story?sid=65176\"\u003eIntel泄漏内容\u003c/a\u003e除了少量来自牙膏厂的变态NDA客户条款的篇幅和一些未向OEM和其他合作厂商分享的内容，大部分内容包括源代码和二进制blobs都可以在和牙膏厂签署NDA下分享给下游厂商，全球拥有这些材料的厂商不在少数，即使天朝有这些材料的厂商不下于20家，所以大家不必高潮，至于后门基本是自媒体的自high，即使bfm和其他模块的调试接口达到DCI的利用效果也有严格限制，在高防御节点上无法利用，另外，bootguard/BiosGuard等可信链条构建的开箱和调试工具是不错，但这些工具已经存在于某些团队在绕开牙膏厂NDA版本之外的自己实现的内部开源版本所以也并不算猎奇，对于\u003ca href=\"https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/me_info.md\" target=\"_blank\"\u003eIntel CSME\u003c/a\u003e通过泄露材料也看到了在CSMEv12之后的部分信息，这份材料理论上可以帮助那些没有和牙膏厂签署NDA的组织（比如自由固件项目）补全加固方案，至于是否有必要（注：技术当然可行，KBL是流行机型）自由固件使用泄漏的ACM（也需要二进制审计）进行基于\u003ca href=\"https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/txt.md\" target=\"_blank\"\u003eTXT DRTM的可信计算方案\u003c/a\u003e的加固，1) 存在法律风险 2) 通用方案的威胁模型中没有必要性 3) 高防需求有更好的替代方案。虽然泄漏材料并不能直接推动自由固件社区的发展，但这么多材料对于没有和牙膏厂NDA的个人来说还是一个大宝藏，也在一定程度上打破了NDA造成的信息不对称：\n\n\u0026#34;Cross the cyber\nBurn the NDA\nOnly transparency is bliss\nBend a twisted rule\nBreak the asymmetry\nPut all progress between chaos and order\u0026#34;\n\n\nOne man\u0026#39;s trash is another man\u0026#39;s treasure. Happy hunting!\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-08T05:48:39Z",
+  "Author": "blues_man"
+}

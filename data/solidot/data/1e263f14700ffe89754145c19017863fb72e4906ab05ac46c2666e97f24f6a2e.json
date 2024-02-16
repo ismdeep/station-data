@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "地理位置数据将路过犯罪现场的骑车者识别为嫌疑犯",
+  "Link": "https://www.solidot.org/story?sid=63743",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一月份的一个周二下午，Zachary McCoy 准备去餐厅工作，他收到了一封令他万分吃惊的邮件。邮件是 Google 司法调查支持团队发来的，通知他当地警方索要他的 Google 账号信息。除非他上法庭阻止这一要求，Google 准备将信息交给警方。这一通知令他深感恐惧，他想象不出自己做错了什么。他有一部 Android 手机，关联了 Google 账号，他还使用了  Gmail 和 YouTube 等 Google 产品。警方想要访问这些信息。通知里包含有案件编号，他搜索了该案件，发现与 10 个月前一老妇人家的入室盗窃案相关。犯罪地点与他的家不到一英里。在父母的资助下，他请了一名律师。\u003ca href=\"https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761\"\u003e\u003cu\u003e律师发现通知来自于“地理栅栏搜查令”\u003c/u\u003e\u003c/a\u003e，也就是覆盖犯罪现场的虚拟栅栏，Google 记录到的附近所有人的 GPS、蓝牙、WIFI 和蜂窝地理位置数据都包含在内。过去两年警方越来越多的利用这种搜查令索取数据。McCoy 是一位狂热的自行车手，使用手机应用 RunKeeper 去记录车程。RunKeeper 依靠 Google 的地理位置服务，这意味着他的位置数据会发送给 Google。他查询了盗窃案当天的行程，发现在一个小时内他三次骑过被盗窃者的家。部分原因是他是绕着街区骑车。但这让他成为了主要嫌疑犯。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-08T13:04:23Z",
+  "Author": "WinterIsComing"
+}

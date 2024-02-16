@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三星在一加之后被发现限制 Android 应用性能",
+  "Link": "https://www.solidot.org/story?sid=70834",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t三星在一加之后被发现为了延长电池续航力\u003ca href=\"https://9to5google.com/2022/03/02/samsung-throttling-android-apps-accusation/\" target=\"_blank\"\u003e\u003cu\u003e而有意的限制 Android 应用性能\u003c/u\u003e\u003c/a\u003e，受影响应用数量可能多达上万。三星的 Galaxy 系列手机预装了名为 Game Optimizing Service 的系统应用，它无法被禁用，从名字上看它的功能似乎是优化游戏的性能。但三星实际上用该应用“优化了”数以千计的非游戏类应用的性能，包括 3DMark、GeekBench 在内的测试工具不受限制，因此有用户修改了 3DMark 的软件包名字，结果 3DMark 应用之后性能就受限了。被限制性能的应用包括了 Instagram、Netflix、TikTok，部分 Google 应用，以及部分三星的应用如支付服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-03T06:20:38Z",
+  "Author": "WinterIsComing"
+}

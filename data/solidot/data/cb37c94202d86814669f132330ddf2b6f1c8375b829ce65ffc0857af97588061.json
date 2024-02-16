@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 宣布文本视频生成器 Make-A-Video",
+  "Link": "https://www.solidot.org/story?sid=72936",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在文本图像生成器流行之后，Meta \u003ca href=\"https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了文本视频生成器 \u003ca href=\"https://makeavideo.studio/\" target=\"_blank\"\u003e\u003cu\u003eMake-A-Video\u003c/u\u003e\u003c/a\u003e，可通过文本或图像提示生成视频内容。Meta 演示了利用一段文字描述或一幅静态图像生成视频的效果，比如一幅海龟图像在处理之后变成了海龟游泳视频。Make-A-Video 是基于现有的文本图像生成模型，如 OpenAI 的 DALL-E。Meta 在今年 7 月发布了自己的文本图像模型 \u003ca href=\"https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/?_fb_noscript=1\"\u003eMake-A-Scene\u003c/a\u003e。该公司还没有透露何时向公众提供 Make-A-Video，感兴趣的用户现在可以先注册。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-30T08:53:40Z",
+  "Author": "WinterIsComing"
+}

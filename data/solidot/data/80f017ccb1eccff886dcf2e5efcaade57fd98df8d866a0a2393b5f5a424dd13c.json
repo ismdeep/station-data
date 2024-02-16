@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 呼吁共同督促苹果加快实现反跟踪技术",
+  "Link": "https://www.solidot.org/story?sid=66377",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年，Mozilla 呼吁苹果通过自动重置  iPhone 上的 Identifier for Advertisers (IDFA) 来增强用户的隐私保护。IDFA 是一个随机生成的标识符，由苹果分配给设备。应用可以使用这些标识符关联用户的活动，向用户展示定向广告。2020 年初，苹果更进一步的宣布将给与用户选择退出每个应用的跟踪，这本质上是关闭 IDFA。但此举遭到了 Facebook 为代表的广告商的\u003ca href=\"https://www.solidot.org/story?sid=65365\" target=\"_blank\"\u003e强烈反对\u003c/a\u003e。苹果并没有让步，但推迟了反跟踪功能的实现。Mozilla \u003ca href=\"https://foundation.mozilla.org/en/campaigns/apples-anti-tracking-plans-iphone/\"\u003e\u003cu\u003e发起倡议\u003c/u\u003e\u003c/a\u003e，呼吁共同督促苹果加快实现反跟踪技术。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-15T14:36:52Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "计算机科学家发现关键研究算法的局限性",
+  "Link": "https://www.solidot.org/story?sid=68625",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t现代应用研究中的诸多领域，都严重依赖于一种被称为梯度下降(gradient descent)的关键算法。这是一种常被用于寻找特定数学函数最大值或最小值的方法，也被称为函数优化方法。梯度下降可用于计算多种任务，包括哪种产品制造方式利润最高、哪种员工轮班机制最优等等。尽管如此，研究人员一直没能彻底理解这种算法的核心意义。如今最新研究终于给出了解释，\u003ca href=\"https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/\" target=\"_blank\"\u003e\u003cu\u003e确定梯度下降从本质上是在解决一个具备固有困难性的计算问题\u003c/u\u003e\u003c/a\u003e。从这个角度来看，最新结果为梯度下降找到了效能上限，因此研究人员不可能在实际应用中获得超出这个极限的性能结果。\u003ca href=\"https://arxiv.org/abs/2011.01929\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e发表在预印本网站 arXiv 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-20T09:57:33Z",
+  "Author": "wanwan"
+}

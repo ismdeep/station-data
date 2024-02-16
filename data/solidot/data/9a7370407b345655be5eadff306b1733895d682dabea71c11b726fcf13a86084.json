@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BrakTooth 漏洞影响无数蓝牙设备",
+  "Link": "https://www.solidot.org/story?sid=69559",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://threatpost.com/braktooth-bluetooth-bugs-exploit-poc/176036/\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e蓝牙设备漏洞 BrakTooth 的利用代码。BrakTooth 影响数以十亿计设备使用的 1400 多种芯片组的商业蓝牙栈，包括依赖 Bluetooth Classic (BT)通信的智能手机、PC、物联网设备和工业设备。漏洞利用的 \u003ca href=\"https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks\"\u003e\u003cu\u003ePoC 代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。美国 CISA（网络安全和基础设施安全局）督促制造商、供应商和开发商给蓝牙设备部署补丁或采用缓解漏洞利用的方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-09T14:39:12Z",
+  "Author": "WinterIsComing"
+}

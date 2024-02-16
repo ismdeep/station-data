@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "斯坦福研究人员推出 DetectGPT 检测 ChatGPT 生成的文本",
+  "Link": "https://www.solidot.org/story?sid=73991",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 聊天机器人 ChatGPT 过去几个月风靡世界，它能生成以假乱真的文本，在教育界引发了教师对学生可能滥用它做作业的担忧。为了检测出 AI 生成文本，斯坦福研究人员推出了 DetectGPT，它是基于大型语言模型（large language models，LLM）生成文本的特定倾向，从而可以判断文本是否是 AI 生成的。研究人员称其方法为 zero-shot，计划未来公布其代码和数据。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://ericmitchell.ai/detectgpt/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-30T15:01:56Z",
+  "Author": "Wilson"
+}

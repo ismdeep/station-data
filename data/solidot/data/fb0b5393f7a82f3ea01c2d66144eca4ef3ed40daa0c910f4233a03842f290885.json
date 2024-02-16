@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以太坊准备过渡到权益证明",
+  "Link": "https://www.solidot.org/story?sid=67809",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以太坊将在未来几个月完成从工作量证明（proof-of-work）过渡到权益证明（proof-of-stake），合并之后以太坊的能耗\u003ca href=\"https://blog.ethereum.org/2021/05/18/country-power-no-more/\"\u003e\u003cu\u003e将减少 99.95%\u003c/u\u003e\u003c/a\u003e。以太坊基金会的  Carl Beekhuizen 称，以太坊 2.0(即使用权益证明算法)的信标链（Beacon chain）已经运行了几个月，现有数据显示切换到权益证明之后以太坊将消耗 2.62 兆瓦的电力，相当于美国一个小镇（约 2100 户家庭）消耗的电力，而今天使用工作量证明的以太坊消耗的电力 相当于一个中等大小的国家。Beekhuizen 称他的估计其实还是过高了，他观察到部分验证服务只使用 5 瓦/每验证者的电力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-19T05:03:38Z",
+  "Author": "WinterIsComing"
+}

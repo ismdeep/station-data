@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 谈内核开发",
+  "Link": "https://www.solidot.org/story?sid=64813",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Linux 基金会举办的在线开源峰会 \u003ca href=\"https://www.cvent.com/api/email/dispatch/v1/click/l5zldpgnjvty59/n5glbv4z/aHR0cHMlM0ElMkYlMkZldmVudHMubGludXhmb3VuZGF0aW9uLm9yZyUyRm9wZW4tc291cmNlLXN1bW1pdC1ub3J0aC1hbWVyaWNhJTJGJkttT0pyVDd0Y2txdkRVUUhUd3ZFY2JuaUlON1BpbFVsMHlVZWZhaUl1dzQlM0QmT3BlbitTb3VyY2UrU3VtbWl0\"\u003e\u003cu\u003eOpen Source Summit\u003c/u\u003e\u003c/a\u003e 上，VMware 的首席开源官 Dirk Hohndel 问了 Linux 作者 Linus Torvalds 一个问题：正在开发的 Linux kernel 5.8 其新变动之大为近期罕见，原因是否是开发者都因为疫情隔离在家？Torvalds 不认为如此，他认为只是巧合，多个不同开发组在同一时间递交了代码合并到主线。他说，疫情对内核的开发影响不大，有一位内核开发者离线了一到两个月，他一度为之担心，结果原因不是新冠而是重复性过度劳累损伤。Torvalds 还谈及了内核开发者的多元化，参加内核峰会的开发者绝大部分是白人，还有一部分是印度裔和华裔，黑人只占很少的一部分，但 Torvalds 认为内核开发者群体是很均衡的，他不认识所有新开发者，甚至不知道他们是不是真人，也许只是人工智能递交了 pull requests。内核还面临的一个问题是老龄化，很多人都 50 岁了，还有少许人 60 岁了，作为一个社区他们需要开始考虑更新换代了。许多年长的开发者都转移到了维护和管理，Torvalds 本人不喜欢管理这个词，但他自己做的工作就是管理。内核的另一个问题是没有足够的维护者，维护者需要时刻在线，也许不是一天 24 小时在线，但你每天都需要回复邮件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-30T12:50:30Z",
+  "Author": "WinterIsComing"
+}

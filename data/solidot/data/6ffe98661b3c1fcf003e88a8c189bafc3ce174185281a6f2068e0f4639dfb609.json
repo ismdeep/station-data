@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软将服务器浸在非导电液体中",
+  "Link": "https://www.solidot.org/story?sid=67417",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软开始将服务器浸在非导电液体中\u003ca href=\"https://www.theverge.com/2021/4/6/22369609/microsoft-server-cooling-liquid-immersion-cloud-racks-data-centers\" target=\"_blank\"\u003e\u003cu\u003e以改进性能和能效\u003c/u\u003e\u003c/a\u003e。浸渍法早已存在许多年，微软宣称它是第一家在产品环境中使用双相液浸冷却的云服务商。基于碳氟化合物的液体沸点很低，只有 50 摄氏度，到达沸点之后它会蒸发，然后冷凝成液体掉到槽内，从而形成一个闭环的冷却系统，不需要在槽内耗费能量移动液体，不需要冷却器，也不需要冷凝器，因此降低了成本。类似的冷却系统最近几年被矿工用于挖掘比特币和其它加密货币。今天的大部分数据中心使用的是空气冷却。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-07T06:15:05Z",
+  "Author": "WinterIsComing"
+}

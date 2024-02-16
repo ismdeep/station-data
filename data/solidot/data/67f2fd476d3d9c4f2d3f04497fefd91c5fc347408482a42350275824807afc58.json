@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Kindle 电子书格式的发展史",
+  "Link": "https://www.solidot.org/story?sid=71568",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊的 Send to Kindle 服务最近加入了对开放电子书格式 EPUB 的支持，但 Kindle 电子书阅读器至今仍然没有原生支持 EPUB。EPUB 的历史可追溯到 1999 年，最新版本 3.2 在 2019 年发布。EPUB 允许 DRM 但标准本身不包含，而是交给供应商自己实现，绝大部分人使用 EPUB 是因为它是 DRM-free。Kindle 支持的电子书格式同样\u003ca href=\"https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/\" target=\"_blank\"\u003e\u003cu\u003e历尽了逾二十年的发展\u003c/u\u003e\u003c/a\u003e。它最早支持的 MOBI 格式可追溯到 1996 年的 PalmDOC 格式，电子书应用开发商 MobiPocket 在 2000 年扩展了 PalmDOC 将更新后的版本命名为 MOBI。2005 年亚马逊收购了 MobiPocket 获得了 MOBI 版权，加入了 DRM 将其命名为 AZW。亚马逊之后发展了多代，如支持平板电脑的 KF8/AZW3 格式组合使用了 EPUB 和 MOBI 的功能，最新格式 KFX/AZW8 是在 2015 年发布的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-18T16:06:26Z",
+  "Author": "WinterIsComing"
+}

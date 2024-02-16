@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 73 发布",
+  "Link": "https://www.solidot.org/story?sid=63499",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://hacks.mozilla.org/2020/02/firefox-73-is-upon-us/\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Firefox 73，主要\u003ca href=\"https://www.mozilla.org/en-US/firefox/73.0/releasenotes/\"\u003e\u003cu\u003e新特性\u003c/u\u003e\u003c/a\u003e包括：实现了一个全局的缩放水平设置，该设置位于 about:preferences 的 Language and Appearance 栏，用户可根据需要设置应用于所有网站的缩放水平；引入“可读性背板”去改进网站的可读性；WebRender 在使用 Nvidia 显卡驱动版本 432.00 以上分辨率 1920x1200 以下的笔记本电脑上启用；bug 修正，新的开发者工具、改进网站兼容性，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-12T06:06:12Z",
+  "Author": "WinterIsComing"
+}

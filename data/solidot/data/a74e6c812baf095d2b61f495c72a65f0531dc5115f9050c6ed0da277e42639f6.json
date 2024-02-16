@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "专业黑客组织潜入 Google Play 至少四年",
+  "Link": "https://www.solidot.org/story?sid=64256",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司卡巴斯基\u003ca href=\"https://securelist.com/apt-phantomlance/96772/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，专业黑客组织至少从 2016 年就潜入到 Google Play，利用官方应用商店传播具有后门功能的恶意程序，悄悄窃取用户的敏感信息。 卡巴斯基识别了 8 个可上溯到 2018 年的应用，存档搜索和其它方法显示黑客组织至少从 2016 年起就潜入了 Google Play。恶意程序使用的指令控制服务器域名是在 2015 年注册的，代码和指令控制服务器与黑客组织 OceanLotus (aka APT32、APT-C-00 和 SeaLotus)有关联，因此研究人员相信这些恶意程序是专业黑客组织的作品。攻击者利用了多种方法避开 Google 的安全检查。一种方法是最初被接受的版本没有恶意功能，但后续的更新加入了后门。甚至最初的版本不需要权限，但利用隐藏的代码索要权限。Google 在收到报告之后已将这些应用移除。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-30T13:17:28Z",
+  "Author": "WinterIsComing"
+}

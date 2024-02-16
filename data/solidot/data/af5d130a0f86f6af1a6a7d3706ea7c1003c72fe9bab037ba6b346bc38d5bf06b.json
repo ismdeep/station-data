@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果开始拒绝使用第三方 SDK 未经同意跟踪用户的应用",
+  "Link": "https://www.solidot.org/story?sid=67389",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果\u003ca href=\"https://9to5mac.com/2021/04/01/app-store-now-rejecting-apps-using-third-party-sdks-that-collect-user-data-without-consent/\"\u003e\u003cu\u003e开始拒绝\u003c/u\u003e\u003c/a\u003e使用第三方 SDK 未经同意跟踪用户的应用。应用开发商可以通过部分第三方 SDK 利用类似设备指纹的访问跟踪用户，跟踪用户并非不合法，但苹果希望终结未经用户明确同意跟踪的应用，它开始拒绝使用 Adjust SDK 的任何应用，Adjust SDK 是众多提供设备指纹的 SDK 之一。苹果的新隐私保护政策将影响许多公司收集用户数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-02T14:16:03Z",
+  "Author": "WinterIsComing"
+}

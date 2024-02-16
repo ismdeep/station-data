@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯网络监控设备在一年多时间里泄漏数据",
+  "Link": "https://www.solidot.org/story?sid=61912",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯安全研究员\u003ca href=\"https://www.zdnet.com/article/some-of-russias-surveillance-tech-leaked-data-for-more-than-a-year/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，当局用于拦截互联网流量的硬件设备向外泄漏了数据。这些设备被称为 SORM，代表 System for Operative Investigative Activities，能记录 IP 地址、MEI 和 IMSI 码、MAC 地址、ICQ 用户名，以及 POP3、SMTP 或 IMAP4 电邮流量中识别的邮件地址。俄罗斯政府要求所有俄罗斯 ISP 和移动电信公司都必须在其数据中心中安装 SORM 设备，允许执法机构连接该设备，设置过滤和记录规则。在上周举行的 Chaos Constructions 安全会议上，俄罗斯研究员 Leonid Evdokimov 称，部分设备会泄漏数据，他发现有 30 个 SORM 设备运行了没有密码保护的 FTP 服务器，其中包含了来自执法行动留下的流量日志。Evdokimov 是在 2018 年 2018 年 4 月发现了这些设备，到上周部分设备仍然敞开着。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-30T08:11:36Z",
+  "Author": "wenfeixiang"
+}

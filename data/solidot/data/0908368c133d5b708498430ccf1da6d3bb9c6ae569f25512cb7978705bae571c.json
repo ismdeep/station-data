@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯和 Telegram 之间的封锁和反封锁",
+  "Link": "https://www.solidot.org/story?sid=63255",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在混沌俱乐部年会上，软件开发者 Leonid Evdokimov \u003ca href=\"https://media.ccc.de/v/35c3-9653-russia_vs_telegram_technical_notes_on_the_battle\"\u003e\u003cu\u003e回顾了\u003c/u\u003e\u003c/a\u003e俄罗斯政府和流行消息应用 Telegram 之间史诗性的封锁和反封锁。2018 年 4 月，因为 Telegram 拒绝遵守法庭命令交出加密密钥，俄罗斯政府下令对其进行屏蔽，第一天有 400 万 IP 被封，第二天有 1600 万 IP 被封，最多有 1900 万 IP 被封。俄罗斯封掉了云服务商如 Amazon、Google、Microsoft、DigitalOcean 和 Hetzner，涉及了 0.5% 的 IP 地址空间，试图向施压云服务商，让 Telegram 成为这些企业不受欢迎的人。俄罗斯还不小心封掉了本国互联网服务如 VKontakte 和 Yandex 的 IP 地址。尽管政府否认，但附带损伤是巨大的。 到 4 月底封杀力度开始减弱，到 6 月 8 日封杀的 IP 地址减少到 400 万，而在期间 Telegram 一直能在俄罗斯境内工作。俄罗斯被观察到使用主动探测去识别代理服务器，主动探测已经日益成为一种常用的\u003ca href=\"https://gfw.report/blog/gfw_shadowsocks/zh.html\" target=\"_blank\"\u003e\u003cu\u003e监测和识别代理服务器\u003c/u\u003e\u003c/a\u003e的方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-13T12:02:45Z",
+  "Author": "WinterIsComing"
+}

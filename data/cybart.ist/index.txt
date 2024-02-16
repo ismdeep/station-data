@@ -1,0 +1,10 @@
+683c368fcc90a3c07185bd81979f499343ce8765cc22bf23d6b0804fc0f47c1b https://cybart.ist/2023/07/15/gpt-best-practices.html
+79ea2bb96ba97bff8e26951d11b905c102a8ec669336cbe0ab4555b8872a92b9 https://cybart.ist/2023/04/08/ai-aided-algorithm-design.html
+fcf49368debf5e8fee9f982d89ba56534b7083be283df700a259ad867599a3fd https://cybart.ist/2022/03/10/Completely-Remove-The-Usage-of-Chinese-from-Daily-Working-and-Learning-Activities.html
+52a2031e26ee02b9cb4e3614fe6392abc7afacef665ba74fdd36a6603f0c1cc0 https://cybart.ist/2021/04/05/the-principle-of-self-improvement.html
+6cdbeb65d9f0c366b52a1d95b5a31b1ed9805cd7771c0c95a6931c6b5eddeb19 https://cybart.ist/2021/03/28/characteristics-of-China's-financial-market-data.html
+87fcda43c8a2abf40a3e5fedbf80dee5c35cb464bb6e7d5b288a2debf65c7930 https://cybart.ist/2021/03/04/investment-principle.html
+3fb9cf75c6d7d4db256d802cdd97b12007b11ef16cc9327ffd3e55109307f676 https://cybart.ist/2021/01/01/resist.html
+fa129e07fef31b16f3b59ce6fd2f09fce57ed65b0c847c624a160fd7b5b1de24 https://cybart.ist/2020/10/09/shut-the-fuck-up.html
+ce3b5405950c4ec240c4ee011fe90d8ac37571a259f35a8353388dd8a30dac22 https://cybart.ist/2020/09/13/what-inspired-FastAPI.html
+7a90c2f8413eb57dfe17f11f27187a4b4558ee192994ae9ab3cdaf7d0f652709 https://cybart.ist/2020/06/04/this-is-internet.html

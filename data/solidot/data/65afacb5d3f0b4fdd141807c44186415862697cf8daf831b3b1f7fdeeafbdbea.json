@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Qubes 将分离 GUI",
+  "Link": "https://www.solidot.org/story?sid=63889",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全桌面发行版 Qubes OS 项目透露了其架构的下一步变化：\u003ca href=\"https://www.qubes-os.org/news/2020/03/18/gui-domain/\" target=\"_blank\"\u003e\u003cu\u003e分离图形界面\u003c/u\u003e\u003c/a\u003e。Qubes OS 试图确保系统任何一处的漏洞不会影响到系统的其它部分，它的每一个应用程序都运行在各自的沙盒中。Qubes 开发者指出，尽管有沙盒隔离，图形界面仍然是一个安全风险。即将发布的 Qubes OS 4.1 将尝试分离图形硬件、显示和管理，简而言之 GUI 将隔离起来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-21T12:49:49Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 恢复 YouTube-DL 库",
+  "Link": "https://www.solidot.org/story?sid=66113",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub \u003ca href=\"https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/\"\u003e\u003cu\u003e宣布恢复\u003c/u\u003e\u003c/a\u003e YouTube-DL 库。上个月，GitHub 在收到美国唱片业协会（RIAA）的 DMCA 通知后移除了 YouTube-DL 库。RIAA 给出的侵权理由是 YouTube-DL 库包含了下载版权音乐的测试范例。此事引发了广泛关注，电子前哨基金会向 GitHub 递交了\u003ca href=\"https://github.com/github/dmca/blob/master/2020/11/2020-11-16-RIAA-reversal-effletter.pdf\"\u003e\u003cu\u003e正式文件\u003c/u\u003e\u003c/a\u003e，指出 YouTube-DL 的做法事实上并没有构成对 DMCA 法律的违反。YouTube-DL 项目的维护者也递交了补丁移除了相关的示例，因此 GitHub 决定恢复 YouTube-DL 库，它同时宣布将向开发者防御基金捐赠 100 万美元，帮助收到此类法律文件的开发者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-17T05:27:11Z",
+  "Author": "WinterIsComing"
+}

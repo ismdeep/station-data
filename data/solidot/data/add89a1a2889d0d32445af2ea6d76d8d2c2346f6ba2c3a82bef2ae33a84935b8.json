@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 棋手帮助人类棋手进步",
+  "Link": "https://www.solidot.org/story?sid=74399",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在 PNAS 上的一项研究，在 DeepMind 的 AlphaGo 击败最强大的人类棋手之后，人类棋手通过与 AI 棋手对弈而取得了显著进步。香港城市大学的研究人员收集了 1950 年至 2021 年间职业棋手作出的 580 万次移棋决策的数据集。然后使用围棋人工智能帮助计算一种称为“决策质量指数”（DQI）的指标。该指标用于评估一步棋的质量。如果没有尝试与之前的动作相结合，即认为一个动作是“新颖的”。分析发现，人类棋手对 2016 年围棋人工智能的出现作出了明显更好、更新颖的反应。1950 年至 2015 年间，围棋水平的改善相对较小，年度 DQI 中值在 -0.2 至 0.2 之间波动。而在 2016 年后，DQI 跃升，2018 年至 2021 年间的中值超过 0.7。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.pnas.org/doi/10.1073/pnas.2214840120\u003cbr/\u003e\nhttps://news.sciencenet.cn/htmlnews/2023/3/496171.shtm\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-15T09:39:16Z",
+  "Author": "Wilson"
+}

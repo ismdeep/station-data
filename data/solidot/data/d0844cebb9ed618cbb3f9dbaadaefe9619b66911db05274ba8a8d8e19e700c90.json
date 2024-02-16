@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 76.0 发布",
+  "Link": "https://www.solidot.org/story?sid=64279",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/76.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 76.0\u003c/u\u003e\u003c/a\u003e。主要新的变化包括：增强了 Lockwise 密码管理器，当有网站被入侵 Firefox 将会展示警告，如果你复用了一个遭入侵网站账号的密码 Firefox 将会提示你更新密码，浏览器将会自动为新账号生成安全密码，能更容易的在主菜单下访问和查看保存的密码；双击画中画视频可放大到全屏，再次双击减少大小；支持 Audio Worklets；继续逐步推广 WebRender 支持；开发者工具，bug 修复等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-06T05:56:14Z",
+  "Author": "WinterIsComing"
+}

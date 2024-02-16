@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 用户发现本地账号在安装过程中难以找到",
+  "Link": "https://www.solidot.org/story?sid=62189",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正让 Windows 10 用户越来越多的通过基于云端的 Microsoft Account 账号登陆 Windows 10 操作系统。用户在重新安装 Windows 10 1903 或配置新 PC 时\u003ca href=\"https://www.reddit.com/r/Windows10/comments/daim1y/ms_has_removed_the_use_offline_account_option/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，他们很难找到创建本地账号或离线账号的选项。在联网的情况下，微软都是让用户创建在线账号 Microsoft Account，只有在断网的情况下他们才能找到创建本地账号的选项。微软的做法招致了批评，用户能真正控制本地账号，也就是能控制他们的计算机，而使用微软的账号实际上意味着\u003ca href=\"https://tech.slashdot.org/story/19/09/30/1739212/windows-10-users-fume-microsoft-wheres-our-local-account-option-gone\" target=\"_blank\"\u003e\u003cu\u003e你是在租赁你所购买的设备\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-09T08:25:31Z",
+  "Author": "wenfeixiang"
+}

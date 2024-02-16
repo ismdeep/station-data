@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "哈萨克斯坦再次尝试拦截 HTTPS 流量",
+  "Link": "https://www.solidot.org/story?sid=66294",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t哈萨克斯坦以网络安全演习为由要求访问外网的首都居民\u003ca href=\"https://www.zdnet.com/article/kazakhstan-government-is-intercepting-https-traffic-in-its-capital/\" target=\"_blank\"\u003e\u003cu\u003e安装其数字证书\u003c/u\u003e\u003c/a\u003e，一旦安装，哈萨克斯坦政府将可以发动中间人攻击拦截用户的所有 HTTPS 流量。从 12 月 6 日开始，哈萨克斯坦 ISP 如 Beeline、Tele2 和 Kcell 重定向首都用户到一个介绍如何安装政府数字证书的网站。当地居民还收到了短信通知。哈萨克斯坦用户称，如果不安装数字证书，他们将无法访问流行的外国网站如 Google、Twitter、YouTube、Facebook、Instagram 和 Netflix。这不是哈萨克斯坦第一次尝试拦截 HTTPS 流量，它在 \u003ca href=\"https://www.solidot.org/story?sid=46384\" target=\"_blank\"\u003e\u003cu\u003e2015 年 12 月\u003c/u\u003e\u003c/a\u003e和 \u003ca href=\"https://www.solidot.org/story?sid=61412\"\u003e\u003cu\u003e2019 年 7 月\u003c/u\u003e\u003c/a\u003e先后两次尝试安装数字证书拦截 HTTPS 流量，在浏览器开发商将哈萨克斯坦数字证书列入黑名单后两次尝试都失败了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-07T08:00:25Z",
+  "Author": "WinterIsComing"
+}

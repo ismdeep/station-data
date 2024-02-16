@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "当你用蓝牙标签跟踪被盗物品",
+  "Link": "https://www.solidot.org/story?sid=69450",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《华盛顿邮报》科技记者 Heather Kelly \u003ca href=\"https://www.msn.com/en-us/news/technology/i-found-my-stolen-honda-civic-using-a-bluetooth-tracker-it-s-the-latest-controversial-weapon-against-theft/ar-AAQ0DQw\"\u003e\u003cu\u003e描述了使用蓝牙标签找回被盗汽车的故事\u003c/u\u003e\u003c/a\u003e：“当我的 1999 款本田思域第三次被盗时，我有了个计划。”具体来说是在车上安装的一个隐藏的 Tile 跟踪器，通过蓝牙悄悄传输大致位置。\u003cbr/\u003e\n\u003cbr/\u003e\n那天晚上，我走到镇的另一边，在警察拘留了那个惊讶的司机时就藏在街区内。当 Tile 应用告诉我最后一个已知位置时，我去的时候以为车被遗弃了。我意识到它仍在使用中，一个人在从车里往外看，另一个人则在乘客位上打盹，所以我打电话叫了警察。\u003cbr/\u003e\n\u003cbr/\u003e\n今年 4 月，也就是我车被盗一个月后，Apple 发布了 29 美元的 AirTag，为更广泛的受众带来了更有效的蓝牙跟踪技术。三星和 Chipolo 等品牌的类似产品正在测试人们追回被盗财产的极限以及什么是他们认为的正义。美国大学华盛顿法学院法学教授 Andrew Guthrie Ferguson 表示：“这项技术产生了始料未及的后果。它基本上让所有者有能力展开小型监视行动。”\n\n\u003cbr/\u003e\n\u003cbr/\u003e\nApple 一直很小心，从没有说过 AirTags 可被用于追回被盗财产。设备的营销轻松而且毫无道德瑕疵，重点关注的是掉在沙发垫之间的钥匙等情况。官方口号是“丢三落四这门绝技，要失传了”，并且在任何广告、网页或者支持文件中都没有提及犯罪、盗窃或者偷盗。但实际上该公司建立了一个非常适合此类用例的网络。每一款兼容的 iPhone、iPad 和 Mac 都被默默地用作定位设备，而它们的所有者却不知道怎么发生的。AirTag 使用蓝牙向最近的 Apple 设备发送带有其加密位置的 ping，这些设备将信息传递到 Apple 云。该地点在“Find My”应用中的地图上可见。AirTag 所有者还可以打开丢失模式，可以在该设备下次被检测到的时候收到通知，可以留下联系信息以便设备被找到时归还。Apple 将其称为 Find My 网络，它也适用于丢失或被盗的 Apple 设备和少数第三方产品。兼容 Apple 设备的激增——全球网络中有近 10 亿台设备——使得 Find My 非常有效，尤其是在城市中。默认情况下，Apple设备的所有者是 Find My 网络的一部分，但可以在设置中选择退出，并且位置信息均已加密。\u003cbr/\u003e\n\u003cbr/\u003e\n所有的跟踪器公司都建议应该先联系执法部门，这听起来合乎逻辑，直到你发现自己在停车场里花了几个小时等待警察来处理低优先级的犯罪，或者不得不向他们解释蓝牙跟踪器到底是什么。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T09:54:35Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "两家第三方 SDK 允许应用秘密收集 Twitter 和 Facebook 用户数据",
+  "Link": "https://www.solidot.org/story?sid=62765",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员报告，两家第三方 SDK 允许应用\u003ca href=\"https://www.zdnet.com/article/two-third-party-sdks-allowed-secret-harvesting-of-twitter-and-facebook-user-data/\"\u003e\u003cu\u003e未经许可访问和收集\u003c/u\u003e\u003c/a\u003e Twitter 和 Facebook 用户数据。两大社交平台正对此展开调查。相关 SDK 分别由 OneAudience 和 MobiBurn 提供给应用开发商，在曝光之后已废弃。Twitter 在一份声明中称，问题不是由于其软件的漏洞，而是应用 SDK 之间缺乏隔离。OneAudience SDK 收集的用户信息包括了用户名、电子邮件和最新的帖子。Twitter 称只有 Android 用户受到影响。Facebook 面临的问题类似，收集的信息包括用户名、电子邮件和性别。在收到 Twitter 和 Facebook 的终止信函之后，两家公司关闭了 SDK 的下载。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-27T13:00:56Z",
+  "Author": "WinterIsComing"
+}

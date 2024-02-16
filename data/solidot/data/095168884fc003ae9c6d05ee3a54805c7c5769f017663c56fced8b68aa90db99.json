@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软将强行用 Edge 而不是 IE 打开部分网站",
+  "Link": "https://www.solidot.org/story?sid=65915",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从下个月开始，微软\u003ca href=\"https://www.zdnet.com/article/microsoft-will-forcibly-open-some-websites-in-edge-instead-of-internet-explorer/\" target=\"_blank\"\u003e\u003cu\u003e将强行\u003c/u\u003e\u003c/a\u003e用 Edge 而不是 IE 打开部分网站。此举是微软逐步淘汰 IE 计划的一部分。微软计划在下个月释出的 Edge 87 将对所有 IE 用户启用   IE-to-Edge，其核心是一个 IE 插件 ie_to_edge_bho.dll，通过监视用户试图访问的域名强行用 Edge 而不是 IE 打开目标网站，这些网站包括 YouTube、Instagram、Twitter、Yahoo Mail、StackOverflow、StackExchange、VK、ESPN、Chase、Hotstar、Moneygram、eharmony 和 GoDaddy 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-26T09:16:33Z",
+  "Author": "WinterIsComing"
+}

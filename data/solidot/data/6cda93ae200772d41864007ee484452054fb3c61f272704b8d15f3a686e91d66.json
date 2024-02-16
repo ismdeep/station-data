@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软的新安全芯片正走向我们",
+  "Link": "https://www.solidot.org/story?sid=70310",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2020 年 11 月，微软推出了 Pluton，希望用安全处理器阻止最复杂的黑客攻击。AMD 上周表示将把该芯片\u003ca href=\"https://arstechnica.com/information-technology/2022/01/pluton-microsofts-new-security-chip-will-finally-be-put-to-the-test/\"\u003e\u003cu\u003e集成到即将推出的 Ryzen CPU 中\u003c/u\u003e\u003c/a\u003e，供联想 ThinkPad Z 系列笔记本电脑使用。尽管很多系统已拥有可信平台模块（TPM）或英特尔的 Software Guard Extensions 之类的保护措施保护敏感机密信息，但是这些机密然易受到多种类型的攻击。其中之一是用线缆接入 TPM 和其他设备组件之间的连接，提取在机器之间传递的机密信息。去年 8 月，研究人员披露了一次攻击，只花了 30 分钟就从一台新的联想计算机中获取了 BitLocker 密钥，这台联想计算机预置使用 TPM 进行全盘加密、用密码保护 BIOS 设置并开启了UEFI SecureBoot。黑客通过嗅探 TPM 和 CMOS 芯片之间的连接成功攻击，表明用最新的防御措施锁定笔记本电脑并不见得足够安全。三个月后公布的一次类似的攻击表明，利用英特尔 CPU 中的漏洞（现已修复）破坏各种安全措施，包括 BitLocker、TPM和反复制限制等安全措施。被称为Spectre 和 Meltdown 的攻击再次强调了恶意代码直接从 CPU 中提取机密信息的威胁，即使机密信息被存储在英特尔的 SGX 中。Pluton 设计解决所有这些问题。它被直接集成到 CPU 中，将加密密钥等储存在一个与其它系统组件完全隔离的围墙花园中。微软表示，存储的数据无法被删除，即使攻击者安装了恶意软件或完全控制计算机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-10T14:08:32Z",
+  "Author": "wanwan"
+}

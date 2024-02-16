@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软修复四个远程桌面服务高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=61722",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://arstechnica.com/information-technology/2019/08/microsoft-warns-of-more-wormable-bugs-this-time-in-new-versions-of-windows/\"\u003e\u003cu\u003e修复了\u003c/u\u003e\u003c/a\u003e四个远程桌面服高危漏洞，漏洞允许恶意程序像蠕虫一样传播，整个过程无需用户操作。编号为 \u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1181\"\u003eCVE-2019-1181\u003c/a\u003e、\u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1182\"\u003eCVE-2019-1182\u003c/a\u003e、\u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1222\"\u003eCVE-2019-1222\u003c/a\u003e 和 \u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1226\"\u003eCVE-2019-1226\u003c/a\u003e允许未经授权的攻击者通过发送特制信息执行任意代码。漏洞影响 Windows 7、8 和 10，以及 Server 2008、2012、2016 和 2019。和今年五月修复的 BlueKeep 漏洞不同的是，它影响最新的 Windows 操作系统，而 BlueKeep 主要影响旧版本。在漏洞被逆向工程前计算机必须尽快打上补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-14T12:27:11Z",
+  "Author": "wenfeixiang"
+}

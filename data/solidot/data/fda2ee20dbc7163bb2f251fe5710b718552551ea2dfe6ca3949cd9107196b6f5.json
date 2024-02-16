@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "digiKam 7.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65053",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t照片编辑和管理工具 digiKam 项目释出了 \u003ca href=\"https://www.digikam.org/news/2020-07-19-7.0.0_release_announcement/\"\u003e\u003cu\u003ev7.0.0\u003c/u\u003e\u003c/a\u003e。主要新特性包括：基于深度学习的脸部检测和管理；新的 RAW 格式文件支持，包括 Canon CR3、Sony A7R4 等 40 多种新格式，总支持数量超过 100 种；支持苹果的 HEIF 图像格式；支持 FlatPak 打包格式；第三方插件 ImageMosaicWall；改进 Windows 版本，支持网络路径的通用命名约定和基于 UTF-16 的 Unicode  编码路径；插件 SlideShow；HTMLGallery 引入了新的主题；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-26T07:35:51Z",
+  "Author": "WinterIsComing"
+}

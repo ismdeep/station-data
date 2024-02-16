@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "网络配置错误导致 Cloudflare 大规模宕机",
+  "Link": "https://www.solidot.org/story?sid=71901",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t6 月 21 日云服务商 Cloudflare 发生了大规模宕机事故，影响了众多网站和服务，其中包括英雄联盟、Steam、Discord、Gitlab 等等。\u003ca href=\"https://www.cloudflarestatus.com/incidents/xvs51y9qs9dj\"\u003e\u003cu\u003e宕机\u003c/u\u003e\u003c/a\u003e始于大约 06:27 UTC，持续了一个半小时结束。Cloudflare 解释说事故是网络配置错误\u003ca href=\"https://www.bleepingcomputer.com/news/technology/massive-cloudflare-outage-caused-by-network-configuration-error/\"\u003e\u003cu\u003e导致的\u003c/u\u003e\u003c/a\u003e，这是导致严重宕机的常见错误。Cloudflare 称它修改网络配置本意是增加弹性，结果却导致其 4% 的网络受到影响，进而影响到它处理的大约 50% 的 HTTP 请求。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-21T15:55:24Z",
+  "Author": "WinterIsComing"
+}

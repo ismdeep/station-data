@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果释出补丁修复两个 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=71133",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果周四释出了补丁\u003ca href=\"https://arstechnica.com/information-technology/2022/03/apple-rushes-out-patches-for-two-zero-days-threatening-ios-and-macos-users/\"\u003e\u003cu\u003e修复了两个 0day 漏洞\u003c/u\u003e\u003c/a\u003e。漏洞是由一名未公开名字的研究人员发现的：第一个漏洞 CVE-2022-22675 位于 macOS Monterey 和  iOS 或 iPadOS 中，与越界写（out-of-bounds write）问题有关，允许黑客使用内核权限执行恶意代码；第二个漏洞 CVE-2022-22674 也是与越界写问题有关，会导致内核内存泄露。苹果表示这\u003ca href=\"https://support.apple.com/en-us/HT213220\" target=\"_blank\"\u003e\u003cu\u003e两个漏洞\u003c/u\u003e\u003c/a\u003e可能正被利用。CVE-2022-22674 和 CVE-2022-22675 是苹果今年修复的第 4 和第 5 个 0day 漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-01T10:59:04Z",
+  "Author": "WinterIsComing"
+}

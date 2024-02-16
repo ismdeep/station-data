@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.8 释出",
+  "Link": "https://www.solidot.org/story?sid=65124",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件上\u003ca href=\"https://lore.kernel.org/lkml/20200802220243.GA20003@Gentoo/T/#m1e38263ea10c7990c538ca2ac2bfa779e9d7eeec\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出了 Linux 5.8。主要新特性包括：内核空间动态数据竞争检测器 \u003ca href=\"https://lwn.net/Articles/816850/\"\u003e\u003cu\u003eKernel Concurrency Sanitizer (KCSAN)\u003c/u\u003e\u003c/a\u003e；\u003ca href=\"https://lwn.net/Articles/760714/\"\u003e内核事件通知机制\u003c/a\u003e；私有 procfs 挂载； ARM64 支持 \u003ca href=\"https://lwn.net/Articles/804982/\" target=\"_blank\"\u003eShadow Call Stack 和 Branch Target Identification\u003c/a\u003e；支持\u003ca href=\"https://lwn.net/Articles/797309/\" target=\"_blank\"\u003e\u003cu\u003e块层内联加密\u003c/u\u003e\u003c/a\u003e；\u003ca href=\"https://lwn.net/Articles/818714/\" target=\"_blank\"\u003eBPF iterator\u003c/a\u003e 机制，等等。详细可阅读 \u003ca href=\"https://kernelnewbies.org/Linux_5.8\"\u003e\u003cu\u003eKernelNewbies 5.8\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-03T07:04:26Z",
+  "Author": "WinterIsComing"
+}

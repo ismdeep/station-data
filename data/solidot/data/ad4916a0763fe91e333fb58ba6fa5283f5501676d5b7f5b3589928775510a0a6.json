@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 21.1 释出",
+  "Link": "https://www.solidot.org/story?sid=73717",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux Mint 发行版项目宣布发布最新的 21.1，包括三个桌面环境 Cinnamon、MATE 和 Xfce。Mint 21.1 是基于 Ubuntu 22.04，内核版本 5.15，它是一个长期支持版本，将一直支持到 2027 年。桌面上的变化包括：桌面图标移除  home 文件夹，因为它已经固定在面板，可以从主菜单或快捷键  Super+E 快速打开；移除计算机、回收站和网络图标，因为它们的使用率很低，可以从文件管理器上打开；如果需要用户可通过修改偏好设置恢复上述图标。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.linuxmint.com/rel_vera_mate_whatsnew.php\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-21T08:43:52Z",
+  "Author": "Wilson"
+}

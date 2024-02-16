@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 的网络钓鱼",
+  "Link": "https://www.solidot.org/story?sid=70565",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道 \u0026#34;GitHub 有\u003ca href=\"https://news.ycombinator.com/item?id=24976138\" target=\"_blank\"\u003e两个问题\u003c/a\u003e存在的非常久：\n\u003ci\u003e\n\u003cp\u003e例如在\u003ca href=\"https://github.com/slimsag/linux/tree/5895e21f3c744ed9829e3afe9691e3eb1b1932ae\" target=\"_blank\"\u003e分支\u003c/a\u003e替换链接中用户名为 \u003ca href=\"https://github.com/torvalds/linux/tree/5895e21f3c744ed9829e3afe9691e3eb1b1932ae\" target=\"_blank\"\u003etorvalds\u003c/a\u003e，这分支从链接看起来属于 torvalds。\u003c/p\u003e\n\u003cp\u003e但现在会看到一段警告：「This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.」 \u003c/p\u003e\n\u003cp\u003e很多人都知道提交的用户名和邮箱地址是可以随便填写的，这使得可以伪造 Linus Torvalds 提交了一段「\u003ca href=\"https://github.com/torvalds/linux/blob/ac632c504d0b881d7cfb44e3fdde3ec30eb548d9/Makefile#L6\" target=\"_blank\"\u003eI am Satoshi\u003c/a\u003e」的代码。\n\u0026#34;\u003c/p\u003e\n\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-04T11:36:20Z",
+  "Author": "WinterIsComing"
+}

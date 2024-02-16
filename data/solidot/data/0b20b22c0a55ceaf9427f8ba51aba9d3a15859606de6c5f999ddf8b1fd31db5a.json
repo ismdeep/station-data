@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 85 将引入网络分区保护隐私",
+  "Link": "https://www.solidot.org/story?sid=66422",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t预计将在下个月释出的 Firefox 85 \u003ca href=\"https://www.zdnet.com/article/firefox-to-ship-network-partitioning-as-a-new-anti-tracking-defense/\" target=\"_blank\"\u003e\u003cu\u003e将引入\u003c/u\u003e\u003c/a\u003e网络分区（Network Partitioning）功能。该功能是基于 W3C Privacy Community Group 工作组正在制定的 \u003ca href=\"https://github.com/privacycg/storage-partitioning\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eClient-Side Storage Partitioning\u003c/a\u003e 标准。浏览器访问一个网站会留下 HTTP 缓存、图像缓存、网站图标缓存、字体缓存等，这些缓存在网站之间是共享的。网络分区将允许 Firefox 把缓存、CSS 文件、图像等按照网站分别储存。这一储存机制将让网站、广告和分析公司更难跟踪用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-19T14:02:32Z",
+  "Author": "WinterIsComing"
+}

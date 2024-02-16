@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MuJoCo 机器人物理模拟器开源",
+  "Link": "https://www.solidot.org/story?sid=69282",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 旗下的 AI 子公司 DeepMind 收购了 Roboti LLC，将该公司开发的机器人物理模拟器 MuJoCo（代表 Multi-Joint Dynamics with Contact） \u003ca href=\"https://deepmind.com/blog/announcements/mujoco\" target=\"_blank\"\u003e开源并免费提供给所有人\u003c/a\u003e，MuJoCo 最新版本是 \u003ca href=\"https://mujoco.org/download\"\u003e\u003cu\u003e2.1.0\u003c/u\u003e\u003c/a\u003e，MuJoCo 2.0 及早期版本可使用公开的\u003ca href=\"https://www.roboti.us/file/mjkey.txt\"\u003e\u003cu\u003e激活密钥\u003c/u\u003e\u003c/a\u003e解锁。MuJoCo 在机器人研究领域是事实上的标准物理模拟器，\u003ca href=\"https://web.archive.org/web/20201111235930/https://www.roboti.us/license.html\"\u003e\u003cu\u003e此前\u003c/u\u003e\u003c/a\u003e它对学生免费，个人非商业使用费用为 500 美元，个人商业使用费用 2000 美元。MuJoCo 在 Apache License, Version 2.0 许可证开源，源代码库还在准备之中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T05:15:16Z",
+  "Author": "WinterIsComing"
+}

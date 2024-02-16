@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RHEL 10 将不包含 Xorg",
+  "Link": "https://www.solidot.org/story?sid=74908",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 企业级发行版 Red Hat Enterprise Linux 下一个版本 RHEL 10 将不包含 X.org Server。Xorg 仍然包含在去年发布的 RHEL 9 中，将会一直支持到 2032 年（十年支持）。其它 RHEL 10 将淘汰的功能包括：SHA-1；secure copy protocol (SCP)；SASL 中的认证机制 Digest-MD5；OpenSSL 移除 MD2、MD4、MDC2、 Whirlpool、RIPEMD160、Blowfish、CAST、DES、IDEA、RC2、RC4、RC5、SEED 和 PBKDF1 等加密算法；libcrypt.so.1 库；ipset 和 iptables-nft 等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-09T08:06:57Z",
+  "Author": "Wilson"
+}

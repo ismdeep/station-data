@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Epic 反作弊软件支持 Linux 平台",
+  "Link": "https://www.solidot.org/story?sid=69037",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEpic Games \u003ca href=\"https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e业界广泛使用的反作弊软件 Easy Anti-Cheat 加入了对全平台的支持。Epic Games 是在 2018 年收购了反作弊软件 Easy Anti-Cheat 的开发商 Kamu，今年初其作为免费服务提供给所有游戏开发者。Easy Anti-Cheat 此前只支持 Windows，如今加入了对 Linux 和 Mac 的支持，开发者将可以通过 Wine 或 Proton 激活 Linux 下的反作弊支持。这一决定对于 Valve 即将推出的 Linux 掌机 Steam Deck 具有重要意义。Steam Deck 通过 Proton 兼容大部分 Windows 游戏，而少数 Windows 游戏不支持的主要原因是反作弊软件不支持 Linux。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-24T02:54:14Z",
+  "Author": "WinterIsComing"
+}

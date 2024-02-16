@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "K-9 Mail 6.000 发布",
+  "Link": "https://www.solidot.org/story?sid=71322",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自由软件邮件客户端 K-9 Mail 释出了\u003ca href=\"https://k9mail.app/2022/04/18/K-9-Mail-6.000.html\" target=\"_blank\"\u003e\u003cu\u003e 6.000 版\u003c/u\u003e\u003c/a\u003e。开发者表示重写了大部分处理通知的代码，用户体验变化不大，但很多恼人的东西不会再干扰用户了：首次同步一个文件夹不会创建通知，手动刷新信息列表不会创建通知，展示信息列表屏时列表中的信息通知自动移除，通过通知访问一条信息后返回时将打开无分类收件箱，应用重启时恢复新信息通知，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-22T06:45:43Z",
+  "Author": "WinterIsComing"
+}

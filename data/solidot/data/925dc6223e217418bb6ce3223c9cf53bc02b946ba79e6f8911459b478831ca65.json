@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CNNIC 将新设立两台域名根镜像服务器",
+  "Link": "https://www.solidot.org/story?sid=63138",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据工信部的\u003ca href=\"http://www.miit.gov.cn/n1146295/n1652858/n1652930/n4509636/c7593633/content.html\"\u003e\u003cu\u003e通知\u003c/u\u003e\u003c/a\u003e，CNNIC 将设立两台域名根镜像服务器（J、K根镜像服务器），编号为 JX0011J 和 JX0012K。去年年中 CNNIC \u003ca href=\"https://www.solidot.org/story?sid=61129\" target=\"_blank\"\u003e\u003cu\u003e获得许可\u003c/u\u003e\u003c/a\u003e设立六台域名根镜像服务器，编号为 JX0001F、JX0002F、JX0003I、JX0004K、JX0005L 和 JX0006L。工信部的通知称，CNNIC 必须制定并不断完善域名根服务器及域名根服务器运行机构的管理制度；指定专门人员负责域名根服务器的运行、维护和管理工作，建立固定的联系机制；选择具备资质的网络接入服务提供者为域名根服务器提供接入服务；域名根服务器机房地址、互联网协议（IP）地址和自治域（AS）号码等信息发生变更时，应当在变更之日前 15 日以书面形式报送工信部。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-02T05:50:36Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Opus 编解码器项目面临专利挑战",
+  "Link": "https://www.solidot.org/story?sid=73043",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t广泛使用的音频编解码器项目 Opus \u003ca href=\"https://lwn.net/Articles/910848/\"\u003e\u003cu\u003e面临专利挑战\u003c/u\u003e\u003c/a\u003e。Opus 从一开始就设计避开已有专利，对所有用户不征收任何专利使用费。它的\u003ca href=\"https://opus-codec.org/license/\"\u003e\u003cu\u003e专利\u003c/u\u003e\u003c/a\u003e是在开源兼容、免专利费下授权的。其专利技术在 2012 年被 IETF 以 RFC 6716 标准化。但如今一家名叫 Vectis 的公司正在收集相关专利，试图对使用 Opus 的硬件设备\u003ca href=\"https://www.vectis.com/media/vectis-ip-announces-call-for-patents-essential-to-the-opus-codec\"\u003e\u003cu\u003e征收专利使用费\u003c/u\u003e\u003c/a\u003e，该公司的计划不针对开源软件、应用、服务或内容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-13T06:32:14Z",
+  "Author": "WinterIsComing"
+}

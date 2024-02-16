@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 警告针对安全研究员的攻击行动",
+  "Link": "https://www.solidot.org/story?sid=66772",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/\"\u003e\u003cu\u003e警告\u003c/u\u003e\u003c/a\u003e，过去几个月，朝鲜黑客组织对安全研究员发动了针对性攻击。为了建立信誉和联系安全研究员，黑客首先创建了安全博客和 Twitter 账号与潜在目标进行互动，然后发帖发视频声称完成了某个漏洞利用。Google 表示它没有验证所有漏洞利用的可信度，但至少有一例所谓成功的漏洞利用被指是伪造的。在与目标建立初步联系之后，黑客会询问目标是否愿意共同研究漏洞，然后提供一个 Visual Studio 项目，其中包含了一个定制的恶意程序 DLL。除了社会工程攻击外，黑客还成功入侵了访问他们博客的安全研究员的计算机系统。当时受害者的系统打了最新的补丁，Google 表示他们暂时还不知道入侵机制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-26T15:43:52Z",
+  "Author": "WinterIsComing"
+}

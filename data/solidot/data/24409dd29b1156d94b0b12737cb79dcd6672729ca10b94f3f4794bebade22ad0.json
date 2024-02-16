@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OPNsense 和 HardenedBSD 分手",
+  "Link": "https://www.solidot.org/story?sid=67595",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOPNsense 是基于 FreeBSD 的防火墙和路由软件，HardenedBSD 则是加固版的 FreeBSD。从六年前开始，OPNsense 就与 HardenedBSD 展开了合作，整合了 HardenedBSD 的安全加固补丁。但这带来了一个互操作性问题。OPNsense 项目或用户遭遇的问题可能不见于其它 BSD 发行版，跟踪起来也相当复杂。HardenedBSD 团队规模不大，在 OPNsense 项目遇到问题前就将其发现出来的概率不高。随着 FreeBSD 13 的发布及其对安全的强调，OPNsense 项目决定将精力集中在 FreeBSD 上，它宣布\u003ca href=\"https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313\" target=\"_blank\"\u003e\u003cu\u003e与 HardenedBSD 分道扬镳\u003c/u\u003e\u003c/a\u003e，HardenedBSD 联合创始人 \u003ca href=\"https://twitter.com/lattera\"\u003e\u003cu\u003eShawn Webb\u003c/u\u003e\u003c/a\u003e 也被剔除出它的核心团队。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-24T13:39:12Z",
+  "Author": "WinterIsComing"
+}

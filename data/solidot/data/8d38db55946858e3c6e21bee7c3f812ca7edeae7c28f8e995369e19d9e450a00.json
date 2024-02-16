@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家首次成功解码了手写的脑信号",
+  "Link": "https://www.solidot.org/story?sid=67769",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在《自然》期刊上的\u003ca href=\"https://www.nature.com/articles/s41586-021-03506-2\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e，科学家首次成功解码了手写的脑信号，让一位神经植入的瘫痪者能通过想象手写\u003ca href=\"https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/\" target=\"_blank\"\u003e\u003cu\u003e去实现接近每分钟 90 个字母的打字速度\u003c/u\u003e\u003c/a\u003e。科学家以前尝试过让瘫痪者通过大脑想象去打字，但非常低效，方法是使用虚拟键盘，让植入电极的人使用全部注意力去想象操纵光标按字母键。最新的方法要高效得多，科学家在瘫痪者的运动前区皮质放置两个植入物，使用了约 200 个电极，对记录的大脑信号执行主元分析法，将信号转换到二维图，与写字母的大脑活动对应起来。他们的解码正确率能超过 94%。但这需要首先对记录的神经数据进行分析。为了实现实时的翻译，科学家使用了递归神经网络进行训练。目前训练的数据量还很小，但结果相当出色。科学家承认目前的系统还不完整，甚至连原型都称不上，只能工作在一个人身上，对其他人的效果未知，但表现出了巨大潜力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-14T08:01:10Z",
+  "Author": "WinterIsComing"
+}

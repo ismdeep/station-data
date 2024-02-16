@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伊朗开发者报告亚马逊 AWS 因制裁封锁其账号",
+  "Link": "https://www.solidot.org/story?sid=61627",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月底，最大的代码托管平台  GitHub \u003ca href=\"https://www.solidot.org/story?sid=61526\" target=\"_blank\"\u003e\u003cu\u003e开始执行\u003c/u\u003e\u003c/a\u003e美国的出口管制政策，限制克里米亚、伊朗等国家和地区的开发者账号。现在，根据社交网络的\u003ca href=\"https://twitter.com/mrphs/status/1157704631184756737\"\u003e\u003cu\u003e消息\u003c/u\u003e\u003c/a\u003e，亚马逊 AWS 云平台也开始执行相同的政策，封锁被制裁国家的开发者账号，伊朗开发者报告，他们收到了亚马逊 AWS 的通知，为了遵守贸易制裁和出口控制规定，他们对开发者的国别进行了核查，因为没有获得授权向伊朗提供服务，他们关闭了伊朗开发者的账号。伊朗活动人士担心，如果其它云服务商也跟着限制伊朗用户的账号，那么伊朗用户将无法在境外服务器上搭建 VPN 服务翻越伊朗防火长城了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-07T03:53:54Z",
+  "Author": "wenfeixiang"
+}

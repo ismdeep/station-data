@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "内核开发者讨论移除 ReiserFS",
+  "Link": "https://www.solidot.org/story?sid=70756",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t资深内核开发者 Matthew Wilcox 在内核开发者邮件列表上\u003ca href=\"https://lkml.org/lkml/2022/2/20/89\"\u003e\u003cu\u003e提议\u003c/u\u003e\u003c/a\u003e移除 ReiserFS 文件系统。ReiserFS 是在 21 年前作为第一个日志文件系统引入的，SUSE 发行版在 2006 年前一直将其作为默认的文件系统。但自从 ReiserFS 作者 Hans Reiser 因谋杀罪被判刑之后该文件系统的开发和用户兴趣就停滞了，只有前 Namesys（Hans Reiser 创办的公司）开发者 Edward Shishkin 前几年在 Reiser4 上做了些 bug 修复之类的维护工作。Wilcox \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=ReiserFS-2022-Linux-Deprecation\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e内核以前移除过旧文件系统的支持，如 ext 和 xiafs，所以这是有过先例的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-24T05:47:59Z",
+  "Author": "WinterIsComing"
+}

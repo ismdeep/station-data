@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达承认不小心释出驱动解除了对挖矿的限制",
+  "Link": "https://www.solidot.org/story?sid=67232",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月英伟达\u003ca href=\"https://www.solidot.org/story?sid=66964\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它的 RTX 3060 显卡驱动将会检测以太坊挖矿算法，并通过限制 哈希率的方式将挖矿效能降低约 50%。英伟达此举旨在减少显卡对矿工的吸引力，让本已供应量有限的显卡能更多供应给游戏玩家。然而，软件上的限制也很容易通过软件破解，而破解者甚至可能来自官方。英伟达最近释出的开发者驱动被发现解除了对以太坊挖矿的限制，它发表声明\u003ca href=\"https://www.theverge.com/platform/amp/2021/3/16/22333544/nvidia-rtx-3060-ethereum-mining-rate-limit-unlock-driver\" target=\"_blank\"\u003e\u003cu\u003e表示是意外是不小心\u003c/u\u003e\u003c/a\u003e，称该驱动已经从它的网站上删除。但官方的驱动早就扩散开了，而 RTX 3060 的价格也在一夜之间大幅上扬。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-17T09:49:39Z",
+  "Author": "WinterIsComing"
+}

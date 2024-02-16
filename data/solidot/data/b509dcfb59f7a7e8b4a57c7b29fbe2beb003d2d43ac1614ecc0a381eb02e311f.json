@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CUDA 将停止支持 macOS",
+  "Link": "https://www.solidot.org/story?sid=62720",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNvidia 的 GPGPU 工具包 CUDA 在 CUDA 10.2 的\u003ca href=\"https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#title-new-features\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e中称 10.2 将是最后一个支持 macOS 的版本，从下个版本开始 CUDA 只支持 Linux 和 Windows，不再支持 macOS。Nvidia 和苹果因显卡故障而闹矛盾，此后苹果的设备基本上看不见 Nvidia 的显卡了，而是主要配备 Nvidia 竞争对手 AMD 的显卡。在 AMD GPU 上执行机器学习运算缺乏像 CUDA 这样成熟的工具包。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-24T13:11:15Z",
+  "Author": "WinterIsComing"
+}

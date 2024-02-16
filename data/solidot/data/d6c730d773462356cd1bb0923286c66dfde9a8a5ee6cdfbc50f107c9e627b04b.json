@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "自由FPGA工具链综合OpenTitan的RTL实现",
+  "Link": "https://www.solidot.org/story?sid=64267",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;2019年11月公开的用于信任根的\u003ca href=\"https://www.solidot.org/story?sid=62507\" target=\"_blank\"\u003e联合开源项目OpenTitan\u003c/a\u003e还在持续的开发中，OpenTitan社区开发过程中使用的是\u003ca href=\"https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2018-3.html\" target=\"_blank\"\u003eXilinx Vivado 2018.3\u003c/a\u003e，而Vivado 2019.1和更新的版本都\u003ca href=\"https://github.com/lowRISC/opentitan/issues/89\" target=\"_blank\"\u003e无法兼容OpenTitan项目\u003c/a\u003e，Vivado是闭源软件，在自由实现的FPGA工具链飞速发展的背景下这显然不是一个有趣的选择，由于OpenTitan的RTL是由\u003cspan class=\"module__title__link\"\u003eSystemVerilog实现，\u003c/span\u003e在一位0ldsk00l黑客的建议下，HardenedLinux社区采用sv2v完成了SystemVerilog到Verilog的转换后完成了基于\u003ca href=\"https://github.com/hardenedlinux/embedded-iot_profile/blob/master/docs/opentitan/opentitan-rtl-synthesis-with-yosys.md\" target=\"_blank\"\u003e自由开源的RTL综合工具Yosys对OpenTitan\u003c/a\u003e的综合工作，由于工具和成本的限制，Place and route阶段或许会推迟一段时间，欢迎大家贡献。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-02T14:30:05Z",
+  "Author": "WinterIsComing"
+}

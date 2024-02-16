@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微芯科技在其 PolarFire FPGA 中加入 Risc-V 核心",
+  "Link": "https://www.solidot.org/story?sid=62290",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微芯科技( Microchip)公司在其可编程序阵列产品 PolarFire FPGA 中\u003ca href=\"https://www.electronicsweekly.com/open-source-engineering/risc-v-day-microchip-adds-risc-v-hard-ip-polarfire-fpgas-2019-10/\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e开源指令集架构 Risc-V 核心，新的产品被称为 PolarFire SoC。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件，因此越来越多的企业对它产生了兴趣。 PolarFire SoC 搭配了五个 64 位 RISC-V 核心，四个核心执行 RV64GC 指令集，第五个核心执行 RV64IMAC 指令集，五个核心能连贯操作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-18T11:21:37Z",
+  "Author": "wenfeixiang"
+}

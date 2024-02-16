@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究显示推荐系统能使用 AI 操纵人的偏好",
+  "Link": "https://www.solidot.org/story?sid=73002",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t我们所欣赏、所阅读和所购买的很多东西是 YouTube、Twitter 和 Amazon 等网站通过推荐系统渗透到我们的意识中的。定制化的算法推荐旨在增加广告流量、点击或购买量。推荐系统有时候会让用户觉得算法根本不了解我们，但有时候也让人觉得它就像肚子里的蛔虫什么都知道。推荐系统不仅能根据我们的偏好进行调整，\u003ca href=\"https://spectrum.ieee.org/recommendation-engine-insidious\"\u003e\u003cu\u003e实际上还能塑造我们的偏好\u003c/u\u003e\u003c/a\u003e。国际机器学习会议(International Conference on Machine Learning)上发表的研究表明，当推荐系统使用强化学习增加参与度时，可能会产生改变偏好以增加参与度的副作用。研究人员介绍了检测和减少此类 AI 操纵的方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-10T06:09:07Z",
+  "Author": "WinterIsComing"
+}

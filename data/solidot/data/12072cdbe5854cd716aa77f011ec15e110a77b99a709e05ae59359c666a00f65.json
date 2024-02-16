@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "QEMU v7.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=71306",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t跨架构全系统模拟器 QEMU 正式释出了\u003ca href=\"https://www.qemu.org/2022/04/19/qemu-7-0-0/\"\u003e\u003cu\u003e v7.0.0 版\u003c/u\u003e\u003c/a\u003e，该版本包含了 225 名贡献者的 2500+ commits。主要新特性包括：支持记录客户机事件，改进安全标签支持，RISC-V 支持 KVM 和虚拟机支持 32 个核心，x86 支持 Intel AMX，等等。QEMU 项目由 Fabrice Bellard 创建，最初设想在非 x86 平台上运行 x86 Linux 二进制程序，随后转变成跨架构的全系统模拟器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-20T15:11:53Z",
+  "Author": "WinterIsComing"
+}

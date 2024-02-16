@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "7 款移动浏览器发现假冒网址漏洞",
+  "Link": "https://www.solidot.org/story?sid=65871",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Rapid7 和安全研究员 Rafay Baloch 合作在 7 款移动浏览器上\u003ca href=\"https://www.zdnet.com/article/seven-mobile-browsers-vulnerable-to-address-bar-spoofing-attacks/\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e十个假冒网址漏洞。受影响的浏览器包括了 Apple Safari、Opera Touch 和 Opera Mini，以及 Bolt、RITS、UC Browser 和 Yandex Browser。所谓假冒网址漏洞是指浏览器允许恶意的网站修改其网址冒充知名网站。这些漏洞是在今年初发现的，在 8 月报告给了浏览器开发商，大型开发商已经修复了漏洞，而小型开发商根本就没有回应研究人员，更不用说修复漏洞了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-21T09:40:42Z",
+  "Author": "WinterIsComing"
+}

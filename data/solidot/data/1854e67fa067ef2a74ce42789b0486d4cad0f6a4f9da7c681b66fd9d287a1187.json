@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家否定 Google 的量子霸权论",
+  "Link": "https://www.solidot.org/story?sid=69619",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年 10 月，Google 宣布它的 Sycamore 是第一个实现\u003ca href=\"https://technology.solidot.org/story?sid=62359\" target=\"_blank\"\u003e\u003cu\u003e量子霸权\u003c/u\u003e\u003c/a\u003e的量子处理器，它在 3 分 20 秒内完成了一项任务，同样的任务当时最强的经典超算——IBM 的 Summit 需要花 10,000 年。这种说法——尤其是 Google 科学家如何得出“10,000 年”的结论——受到了部分研究人员的质疑，但反驳主张本身并不确定。\n\u003cbr/\u003e\n\u003cbr/\u003e\n现在，在提交给科学期刊进行同行评审的一篇论文中，中科院理论物理研究所的科学家\u003ca href=\"https://www.scmp.com/news/china/science/article/3155902/chinese-teams-classical-computing-tackles-impossible-challenge\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，经典计算机上的算法“使用了 512 个图形处理单元（GPU），在大约15个小时内”完成了对Sycamore 量子电路的模拟，而且保真度高于 Sycamore。该团队还进一步表示，“如果对量子霸权电路的模拟可以在即将推出的高效率 exaflop 超级计算机上实现，原则上整体模拟时间可以减少到几十秒，这比 Google 的硬件实验更快。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n2020 年 12 月，中国推出了光子量子计算机，可在200秒内解决高斯玻色子采样问题，而这在经典计算机上需要 6 亿年才能完成，对 Sycamore 说法的反驳将让中国成为首个实现量子霸权的国家。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-15T09:24:13Z",
+  "Author": "wanwan"
+}

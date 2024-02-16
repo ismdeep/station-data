@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "HPE 软件更新意外删除 77TB 数据",
+  "Link": "https://www.solidot.org/story?sid=70270",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上月底日本京都大学\u003ca href=\"https://www.solidot.org/story?sid=70209\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e由于惠普超级计算机备份系统出现错误，它丢失了大约 77 TB的研究数据。慧与科技（Hewlett Packard Enterprise，HPE）\u003ca href=\"https://www.techradar.com/news/this-hpe-software-update-accidentally-wiped-77tb-of-data\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e问题是该公司发送的一次有缺陷的更新导致的。HPE 最近发布的一个软件更新破坏了一个删除旧日志文件的程序，它并不是只删除那些在高容量存储系统中应该还有备份的日志文件，而是删除了几乎所有的东西，包括备份系统中的文件。结果在 12 月 14 日至 12 月 16 日期间，14 个不同的研究小组生成的大约 3400 万个文件永远地丢失了。在一份日文的新闻稿中，HPE 表示对这起灾难性事故负有全部责任。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-06T09:42:13Z",
+  "Author": "wanwan"
+}

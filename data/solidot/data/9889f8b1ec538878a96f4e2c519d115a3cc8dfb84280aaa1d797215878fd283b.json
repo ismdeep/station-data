@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Log4j 漏洞的影响规模",
+  "Link": "https://www.solidot.org/story?sid=70055",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 安全研究人员\u003ca href=\"https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html\"\u003e\u003cu\u003e调查了\u003c/u\u003e\u003c/a\u003e Java 软件包库 Maven Central 中所有软件包的所有版本，以更好的理解最近曝出的 Log4j 漏洞对整个生态系统的影响。研究人员发现，截至 12 月 6 日有多达 35,863 个软件包依赖于存在 Log4j 漏洞的代码，意味着 Maven Central 库中超过 8% 的软件包至少有一个版本受到漏洞影响。就生态系统影响而言，8% 是相当巨大的数字。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-19T15:22:23Z",
+  "Author": "WinterIsComing"
+}

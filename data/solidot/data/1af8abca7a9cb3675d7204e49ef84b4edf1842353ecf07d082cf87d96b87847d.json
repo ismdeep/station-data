@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 描绘 Android 支持主线 Linux 内核的计划",
+  "Link": "https://www.solidot.org/story?sid=62680",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在年度内核开发者峰会 \u003ca href=\"https://www.linuxplumbersconf.org/\"\u003eLinux Plumbers Conference\u003c/a\u003e 上，Google 开发者讲述了 Android \u003ca href=\"https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/\"\u003e\u003cu\u003e如何支持主线 Linux 内核的计划\u003c/u\u003e\u003c/a\u003e。Android 手机通常使用的是旧版本，远非主线内核。举例来说，Google 刚刚发布的旗舰手机 Pixel 4 使用的是 Linux kernel 4.14 LTS，这个版本是在 2017 年 11 月发布的。在可预见的未来，该型号的手机将会一直停留在 4.14。Android 设备使用的内核会经历三次 fork：首先是 Google 选择一个 LTS 版本，将其转变成 Android Common 内核——即打上了 Android OS 特有的补丁；Android Common 随后提供给  SoC 供应商如高通，经历第二次  fork，打上高通硬件补丁变成  SoC 内核；该内核之后提供给设备制造商经历第三次 fork ，打上支持设备不同元件的内核补丁变成设备内核，这个内核才是最后随手机提供给客户的。Android 设备使用的内核滞后内核主线至少两到三年，Google 表示它正致力于将让 Android 使用的版本接近上游的内核主线，方法是模块化：Android 内核将由 Generic Kernel Image (GKI) 和多个 GKI 模块构成，以模块化方式加载所需的硬件驱动或其它补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-20T12:14:20Z",
+  "Author": "ai"
+}

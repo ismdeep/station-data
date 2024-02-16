@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 34 发布",
+  "Link": "https://www.solidot.org/story?sid=67637",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 赞助的社区发行版 Fedora 释出了 \u003ca href=\"https://fedoramagazine.org/announcing-fedora-34/\" target=\"_blank\"\u003e\u003cu\u003eFedora  34\u003c/u\u003e\u003c/a\u003e。Fedora 34 使用了桌面环境 GNOME 40，KDE Plasma 桌面默认使用 Wayland 而不是 X11；推出了设计用于运行容器化工作负荷、自动更新的精简版本 Fedora CoreOS；Fedora IoT 版本改进了对 ARM 设备的支持；编程语言方面的更新包括 Ruby 3.0 和 Golang 1.16；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-28T07:57:55Z",
+  "Author": "WinterIsComing"
+}

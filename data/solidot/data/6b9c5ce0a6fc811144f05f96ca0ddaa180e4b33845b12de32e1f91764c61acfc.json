@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果改变隐私设置将导致 Meta 损失一百亿美元",
+  "Link": "https://www.solidot.org/story?sid=70567",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 告诉投资者，苹果修改默认隐私设置加入“要求应用不要跟踪”的通知，将导致该公司在 2022 年损失一百亿美元。这一警告加上竞争日益激烈用户数增长低迷等问题，导致了 Meta 公司的股价暴跌 23%。为什么苹果的隐私修改\u003ca href=\"https://www.economist.com/the-economist-explains/2022/02/03/how-apples-privacy-push-cost-meta-10bn\" target=\"_blank\"\u003e\u003cu\u003e会导致社交巨头损失如此巨大\u003c/u\u003e\u003c/a\u003e？苹果多年来提供了 IDFA（identifier for advertisers）帮助广告商跟踪用户在设备上的行为，它默认启用用户可以修改设置关闭 IDFA。去年苹果以隐私保护的理由默认关闭了 IDFA，并要求应用开发商向用户展示是否愿意被跟踪的通知。调查显示，54% 的苹果用户在看到通知之后选择不要跟踪。苹果的这一变动降低了定位广告的准确度，进而降低了对广告商的吸引力，对 Meta 等广告销售商造成了冲击。Meta 估计，一百亿美元的损失占到了 2021 年收入的 8%。移动市场的另一个巨头 Google 也准备在 Android 中引入了类似的变动，Meta 等公司将会面临更艰巨的挑战。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-04T12:42:06Z",
+  "Author": "WinterIsComing"
+}

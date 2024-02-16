@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google AI 能在乳腺癌确诊上媲美医生",
+  "Link": "https://www.solidot.org/story?sid=63145",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Health 开发出了一种人工智能系统，在确诊乳腺癌上能媲美或打败放射科医生。但在部分情况下医生仍然能战胜 AI。\u003ca href=\"https://www.nature.com/articles/d41586-019-03822-8\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《自然》期刊上。该 AI 模型减少了假阳性误报——没有患癌症但被错误报告患有，以及假阴性误报——已患但未诊断出。Google 的 AI 系统利用了匿名化的数万英国和美国女性乳房 X 射线照片进行训练，研究人员表示它尚未做好临床应用准备。报道称，尽管有限制，但这项研究令人影响深刻。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-02T14:15:47Z",
+  "Author": "WinterIsComing"
+}

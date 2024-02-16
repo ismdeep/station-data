@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 22.04 LTS 释出",
+  "Link": "https://www.solidot.org/story?sid=71321",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCanonical 释出了 \u003ca href=\"https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668\"\u003e\u003cu\u003eUbuntu 22.04 LTS\u003c/u\u003e\u003c/a\u003e，它是一个长期支持版本，将提供五年的支持。同时发布的还有其它分支，包括 Ubuntu Budgie、Kubuntu、Lubuntu、Ubuntu Kylin、Ubuntu MATE、UbuntuStudio 和 Xubuntu。这些分支将提供三年的支持。Ubuntu 22.04 LTS 使用了 GNOME 42 桌面环境，显著改进了可用性、电池和性能，英特尔和 Raspberry Pi 显示驱动桌面帧率翻倍。Ubuntu 22.04 LTS 是第一个完整支持近期发布的 Raspberry Pi 设备的 LTS 版本，它还加入了 Rust 内存安全系统级语言编程。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-22T04:40:19Z",
+  "Author": "WinterIsComing"
+}

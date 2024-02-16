@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "豆瓣应用被发现会在页面中嵌入水印",
+  "Link": "https://www.solidot.org/story?sid=70706",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t社交用户报告，豆瓣应用在页面中嵌入了难以察觉的水印，使用了颜色代码#fefefe。如果用户是处于登陆状态，那么水印包含了用户 ID；如果没有登陆，水印包含了 tid 和时间等信息。在用户报告之后，豆瓣\u003ca href=\"https://www.douban.com/group/topic/260310283/?_i=5186042ThcB5bw\" target=\"_blank\"\u003e\u003cu\u003e隐藏了用户 ID\u003c/u\u003e\u003c/a\u003e。嵌入水印意味着如果用户在页面上截图，那么豆瓣能查出截图者的身份。这一消息引发了部分用户前往豆瓣应用的\u003ca href=\"https://play.google.com/store/apps/details?id=com.douban.frodo\u0026amp;hl=zh\u0026amp;gl=US\u0026amp;showAllReviews=true\"\u003e\u003cu\u003e Google Play 页面\u003c/u\u003e\u003c/a\u003e写差评。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-18T12:11:24Z",
+  "Author": "WinterIsComing"
+}

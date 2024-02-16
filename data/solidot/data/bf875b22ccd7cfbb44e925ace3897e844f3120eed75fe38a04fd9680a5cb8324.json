@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员披露 Circles 移动监视公司的客户",
+  "Link": "https://www.solidot.org/story?sid=66280",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCircles 是臭名昭著的以色列间谍软件公司 NSO Group 的子公司，它利用全球移动手机系统（SS7）监视手机的通话、短信和位置。Circles 的产品不依靠入侵手机，它只面向国家出售。客户购买其系统之后可以连到本地的通信公司基础设施，或者使用名为 Circles Cloud 的独立系统。SS7 是路由协议，允许手机用户在外国旅行时从一个运营商无缝连接到另一个运营商。它缺乏安全验证，容易被利用去实时定位用户。安全研究人员很早就\u003ca href=\"https://www.solidot.org/story?sid=42359\" target=\"_blank\"\u003e\u003cu\u003e报告了\u003c/u\u003e\u003c/a\u003e SS7 的漏洞。加拿大多伦多大学公民实验室通过扫描发现了与  Circles 所用 Check Point 防火墙相关的主机名的独特信号，\u003ca href=\"https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/\" target=\"_blank\"\u003e\u003cu\u003e识别了至少 25 个国家部署了 Circles 系统\u003c/u\u003e\u003c/a\u003e，它的客户包括：澳大利亚，比利时，博茨瓦纳，智利，丹麦，厄瓜多尔，萨尔瓦多，爱沙尼亚，赤道几内亚，危地马拉，洪都拉斯，印度尼西亚，以色列，肯尼亚，马来西亚，墨西哥，摩洛哥，尼日利亚，秘鲁，塞尔维亚，泰国，阿联酋，越南，赞比亚和津巴布韦。其中一个客户是泰国皇家陆军安全行动指挥部，该机构曾被控虐待被拘留者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-04T14:41:16Z",
+  "Author": "WinterIsComing"
+}

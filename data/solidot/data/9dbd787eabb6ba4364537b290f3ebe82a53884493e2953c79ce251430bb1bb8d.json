@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "联想释出固件更新修复漏洞",
+  "Link": "https://www.solidot.org/story?sid=72131",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t联想释出\u003ca href=\"https://support.lenovo.com/sk/en/product_security/len-91369\"\u003e\u003cu\u003e固件更新\u003c/u\u003e\u003c/a\u003e修复三个漏洞，这些漏洞\u003ca href=\"https://arstechnica.com/information-technology/2022/07/vulnerabilities-allowing-permanent-infections-affect-70-lenovo-laptop-models/\" target=\"_blank\"\u003e\u003cu\u003e影响\u003c/u\u003e\u003c/a\u003e超过 70 款笔记本型号。漏洞编号分别为 CVE-2022-1890、CVE-2022-1891 和  CVE-2022-1892，分别影响 ReadyBootDxe、SystemLoadDefaultDxe 和 SystemBootManagerDxe 驱动。安全公司 ESET 称，漏洞能被利用在设备启动早期阶段实现任意代码执行，允许攻击者劫持操作系统执行流和禁用部分重要安全功能。漏洞是由于 DataSize 参数不充分验证导致的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-14T15:50:18Z",
+  "Author": "WinterIsComing"
+}

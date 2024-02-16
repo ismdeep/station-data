@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "戴尔 BIOS 驱动发现多个高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=67694",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 SentinelLabs \u003ca href=\"https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e戴尔 BIOS 驱动 \u003ca href=\"https://www.dell.com/support/home/en-in/drivers/driversdetails?driverid=7PR57\"\u003e\u003cu\u003eDBUtil 2.3\u003c/u\u003e\u003c/a\u003e 发现了 5 个高危漏洞。存在漏洞的版本有 12 年历史，被预装在数以亿计的戴尔电脑上。这些漏洞允许攻击者在本地提权。五个漏洞包括两个内存错误和两个缺少输入验证，以及一个代码逻辑问题。安全研究人员是在 2020 年 12 月通知戴尔公司，它将在 2021 年 6 月 1 日公布 Proof of Concept 代码。SentinelLabs 的研究人员不是第一个发现和报告漏洞的\u003ca href=\"https://arstechnica.com/gadgets/2021/05/dell-patches-a-12-year-old-privilege-escalation-vulnerability/?comments=1\"\u003e\u003cu\u003e，事实上\u003c/u\u003e\u003c/a\u003e从 2019 年起有三名安全研究员向戴尔报告了漏洞，但不清楚为什么戴尔直到现在才修复漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-06T07:41:06Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 85 发布",
+  "Link": "https://www.solidot.org/story?sid=66774",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/85.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 85\u003c/u\u003e\u003c/a\u003e，其中一个\u003ca href=\"https://blog.mozilla.org/security/2021/01/26/supercookie-protections/\" target=\"_blank\"\u003e\u003cu\u003e主要新功能\u003c/u\u003e\u003c/a\u003e是网络分区（Network Partitioning）。网络分区功能是基于 W3C Privacy Community Group 工作组正在制定的 Client-Side Storage Partitioning 标准。浏览器访问一个网站会留下 HTTP 缓存、图像缓存、网站图标缓存、字体缓存等，这些缓存在网站之间是共享的，但这一缓存机制遭到网络跟踪程序的滥用，它们创造出 supercookies，将其作为身份标识符跨站跟踪用户。网络分区将允许 Firefox 把缓存、CSS 文件、图像等按照网站分别储存。这一储存机制将让网站、广告和分析公司更难跟踪用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-27T06:37:06Z",
+  "Author": "WinterIsComing"
+}

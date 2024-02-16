@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "思科再次承认使用了硬编码密码",
+  "Link": "https://www.solidot.org/story?sid=76335",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t思科最近披露了 Cisco Emergency Responder 的一个漏洞 CVE-2023-20101，它包含了一个 root 账号的静态用户凭证，原本是为开发保留的，但不小心留在了最终用户产品中。攻击者可以使用该账号登陆受影响系统，以 root 用户权限执行任意命令。这远非第一次思科在其产品中使用了硬编码密码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html\n\u003cbr/\u003e\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cer-priv-esc-B9t3hqk9\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-13T13:31:10Z",
+  "Author": "Wilson"
+}

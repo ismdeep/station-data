@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "容器与云问答：容器、微服务与混合云如何协作？",
+  "Link": "https://www.solidot.org/story?sid=65650",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微服务是一些功能单一的服务，只能通用接口进行通信，非常适合容器。应该说，正是微服务加容器的方式带来了应用程序交付方式的转变，通过模块化服务可以重复使用并重新连接来实现新的任务。比如，消息传递、App开发和支持的服务化和容器化，让开发人员可以方便快速开发新的应用程序，而且这种应用程序可以根据规则和流程进行调度，在混合环境中进行部署，从而可以大幅提高效率和提高业务的灵活性。\u003cbr/\u003e\n\u003cbr/\u003e\n混合多云时代已来，企业如何应势而上？戳链接看「\u003ca href=\"http://www.zhiding.cn/special/IBM_hybrid_cloud_2020\"\u003e\u003cu\u003e混合云100问\u003c/u\u003e\u003c/a\u003e」，一站全面了解真正的「混合云」\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-25T10:22:28Z",
+  "Author": "WinterIsComing"
+}

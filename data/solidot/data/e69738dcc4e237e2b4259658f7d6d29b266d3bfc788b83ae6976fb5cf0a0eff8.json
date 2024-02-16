@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 搜索的下一个阶段：语境为王",
+  "Link": "https://www.solidot.org/story?sid=69114",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Search On 活动中，Google 引入了几项新功能，综合看来这些新功能是该公司迄今为止最强有力的尝试，\u003ca href=\"https://tech.slashdot.org/story/21/09/29/1759234/google-searchs-next-phase-context-is-king\"\u003e\u003cu\u003e让用户不只是在搜索框里简单输入几个单词\u003c/u\u003e\u003c/a\u003e。通过在一些细节之处应用新的多任务统一模型（Multitask Unified Model，MUM）机器学习技术，该公司希望开启一个良性循环：它将提供更多的细节和语境更为丰富的答案，希望用户会因此询问更为详细、语境更为丰富的问题，最终结果是提供更丰富更深入的搜索体验。Google 负责搜索的高级副总裁 Prabhakar Raghavan 也负责 Assistan、广告和其他产品。他喜欢说——而且他在上周日的一次采访中也重申——“搜索可不是一个已经解决掉了的问题。”这可能是真的，但是他和他的团队现在试图解决的问题与网络上的争吵并没什么关系，而是更多地为了给找到的内容添加语境。\n\u003cbr/\u003e\n\u003cbr/\u003e\n对 Google 而言，该公司将利用机器学习技术，发挥自身识别相关主题关联内容的能力，并且以一种有组织的方式将这些关联内容呈现给用户。即将重新设计的 Google 搜索将开始显示“该知道的事（Things to know）”框，将你送到不同的子主题。当视频中的某个部分与这个主题相关时——即使整个视频与此并无关联——它也会将你送到那里。购物结果将开始显示附近商店的库存，甚至还会显示与你的搜索相关的、不同款式的服装。对你而言，Google 正在提供一种超越文本框的、新的搜索方式。该公司正在积极推动旗下图像识别软件 Google Lens 进入更多地方。它将被内置于 iOS 上的 Google 应用程序以及桌面上的 Chrome 网络浏览器中。Google 希望，通过 MUM，能让用户不仅仅识别鲜花或者地标，而是能够直接使用 Lens 提问和购物。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-30T07:24:15Z",
+  "Author": "wanwan"
+}

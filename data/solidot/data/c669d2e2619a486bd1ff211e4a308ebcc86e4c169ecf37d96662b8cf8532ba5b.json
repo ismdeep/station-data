@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出紧急补丁修复 SMB 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63808",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本周早些时候，微软\u003ca href=\"https://www.solidot.org/story?sid=63794\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e了 Server Message Block (SMB)v3.1.1 协议中的一个漏洞 CVE-2020-0796，允许攻击者在目标服务器和终端用户计算机上远程执行代码。SMB 服务被用于在本地和互联网上共享文件、打印机和其它资源，漏洞影响 Windows 10 v1903 和 1909，以及 Windows Server v 1903 和 1909。漏洞\u003ca href=\"https://news.sophos.com/en-us/2020/03/12/patch-tuesday-for-march-2020-fixes-a-very-serious-smb-bug/\"\u003e\u003cu\u003e涉及到\u003c/u\u003e\u003c/a\u003e一个内核驱动的整数溢出和下溢，攻击者可利用特质恶意包去触发整数溢出或下溢。微软现在释出了紧急补丁 \u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0796#ID0EGB\"\u003e\u003cu\u003eKB4551762\u003c/u\u003e\u003c/a\u003e 修复该漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-13T06:30:05Z",
+  "Author": "WinterIsComing"
+}

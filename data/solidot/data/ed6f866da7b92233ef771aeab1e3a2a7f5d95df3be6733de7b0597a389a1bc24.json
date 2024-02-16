@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Grsecurity 开发商最终向 Bruce Perens 赔偿 30万美元",
+  "Link": "https://www.solidot.org/story?sid=63976",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2017 年 6 月，开源促进会的联合创始人 Bruce Perens 在博客上谈论了内核加固补丁集项目 Grsecurity，认为该项目违反了 Linux 内核采用的 GPL 许可证。他认为 Grsecurity 是 Linux 的一个衍生作品，它离不开内核，没有内核它无法工作。这意味着 Grsecurity 也必须采用 GPLv2 许可证或兼容 GPLv2 的许可证。Grsecurity 开发商 Open Source Security（OSS）的回应是起诉 Bruce Perens 诽谤。2018 年 12 月，法庭驳回了诽谤诉讼，认为 Perens 的言论不是诽谤。他的博文表达的是一种观点，他的观点不是能被证明错误的事实，因此不构成诽谤行为。法庭判决 OSS 向 Bruce Perens 赔偿 52.6 万美元。OSS 提起上诉，寻求减少赔偿金而不是推翻判决。上周加州第九巡回上诉法院法官签署了双方都同意的\u003ca href=\"https://regmedia.co.uk/2020/03/27/ossvperens.pdf\"\u003e\u003cu\u003e命令\u003c/u\u003e\u003c/a\u003e，要求 OSS 向 Perens \u003ca href=\"https://www.theregister.co.uk/2020/03/27/grsecurity_perens_gpl_settlement/\" target=\"_blank\"\u003e\u003cu\u003e赔偿 30 万美元\u003c/u\u003e\u003c/a\u003e。Perens 本人并没有得到一分钱，这些赔偿金全部支付给了他的法律团队，包括 O’Melveny \u0026amp; Myers LLP 和电子前哨基金会。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-30T13:37:23Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PHP 仍然是最流行的服务器端编程语言",
+  "Link": "https://www.solidot.org/story?sid=68949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t尽管一直被人抱怨，但在可预见的未来 PHP 语言\u003ca href=\"https://arstechnica.com/gadgets/2021/09/php-maintains-an-enormous-lead-in-server-side-programming-languages/\" target=\"_blank\"\u003e\u003cu\u003e并不会离开我们\u003c/u\u003e\u003c/a\u003e。根据 W3Techs 的\u003ca href=\"https://w3techs.com/technologies/history_overview/programming_language/ms/y\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，对 Alexa 排名前一千万的网站使用 web server 进行的调查显示，从 2010 年到 2021 年，PHP 的市场份额不减反而增加了。PHP 在 2010 年的份额为 72.5%，而今天增加到了 78.9%。PHP 的竞争对手基本上没有超过 10% 的：ASP.NET 曾在 2010 年占据了 24.4% 的份额，今年 1 月降至 9.3%，本月继续跌至 8.3%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-15T15:52:07Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 开源 POWER 指令集架构",
+  "Link": "https://www.solidot.org/story?sid=61791",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在圣迭戈举行的 OpenPOWER 峰会上，IBM \u003ca href=\"https://www.techrepublic.com/article/open-source-power-isa-takes-aim-at-intel-and-arm-for-accelerator-driven-computing/\" target=\"_blank\"\u003e\u003cu\u003e宣布完全开源\u003c/u\u003e\u003c/a\u003e POWER 指令集架构，允许任何人自由使用 POWER 架构。作为该计划的一部分，2013 年成立的  OpenPOWER 基金会将由 Linux 基金会管理。在 OpenPower 基金会成立之后，IBM 开始向第三方公司授权使用 POWER 架构。现在，POWER 架构将是免授权费和免专利费，第三方硬件厂商可以自由的将其整合到自己的产品中。IBM 同时否认它将会逐渐退出 POWER 的开发，表示它会继续向 POWER 进行投资。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-21T02:57:38Z",
+  "Author": "wenfeixiang"
+}

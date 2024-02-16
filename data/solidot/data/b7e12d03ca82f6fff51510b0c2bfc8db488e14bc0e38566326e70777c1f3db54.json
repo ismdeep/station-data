@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么 M1 Mac 感觉更快",
+  "Link": "https://www.solidot.org/story?sid=67801",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tM1 是第一流的桌面和移动芯片，但 M1 Mac 感觉比使用英特尔芯片的 Mac 更快，原因不只是因为芯片，\u003ca href=\"https://arstechnica.com/gadgets/2021/05/apples-m1-is-a-fast-cpu-but-m1-macs-feel-even-faster-due-to-qos/\" target=\"_blank\"\u003e\u003cu\u003e而是操作系统实现了不同的 QoS(Quality of Service)\u003c/u\u003e\u003c/a\u003e，根据任务不同调度也不同。M1 Mac 提供了四种直接指定的任务优先级别——从低到高为 background、utility、userInitiated 和 userInteractive，以及一种不手动指定时的默认级别，它允许 macOS 根据任务重要性自行决定。五种 QoS 级别一直存在，但 M1 Mac 上的执行发生了变化。在 8 核  Intel Xeon W CPU 上，如果系统闲置，macOS 将在所有 8 个核心之间调度任务；但在 M1 上，即使系统整体闲置，background 优先任务将只在 4 个能效/低功率核心上运行，其余 4 个高性能核心闲置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-18T06:55:01Z",
+  "Author": "WinterIsComing"
+}

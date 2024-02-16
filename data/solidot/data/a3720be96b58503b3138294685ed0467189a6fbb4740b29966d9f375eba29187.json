@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "不用耳机的降噪耳机",
+  "Link": "https://www.solidot.org/story?sid=66508",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t主动降噪（ANC）耳机利用耳机和耳塞中的衬垫和耳罩进行被动声音衰减。\u003ca href=\"https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%8A%A8%E9%99%8D%E5%99%AA\"\u003e\u003cu\u003e其原\u003c/u\u003e\u003c/a\u003e理是根据指定的噪音，发出完全相反的声波，让两种声波在相遇时互相抵销，从而把该噪音隔除。但长时间佩戴降噪耳机可能会造成伤害。悉尼科技大学的研究人员\u003ca href=\"https://spectrum.ieee.org/tech-talk/consumer-electronics/audiovideo/active-noise-cancellation-using-ldvs\" target=\"_blank\"\u003e\u003cu\u003e正在研究\u003c/u\u003e\u003c/a\u003e一种虚拟降噪系统，将主动降噪组件从耳机转移到椅子的头垫上。他们的\u003ca href=\"https://www.nature.com/articles/s41598-020-77614-w\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Scientific Reports》期刊上。相比降噪耳机，降噪头垫多年来进展甚微。原因是降噪头垫使用的设备只能处理 1kHz 以下的低频声音，而降噪耳机能有效处理包括人类声音在内的高频声音。研究人员利用激光多普勒测振仪演示了能同时处理低频和高频声音的降噪头垫。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-29T07:55:24Z",
+  "Author": "WinterIsComing"
+}

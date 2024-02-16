@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 报告疫情期间有更多人写代码了",
+  "Link": "https://www.solidot.org/story?sid=66267",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t代码托管平台 GitHub 公布了它的年度报告《\u003ca href=\"https://octoverse.github.com/\" target=\"_blank\"\u003e\u003cu\u003eState of the Octoverse\u003c/u\u003e\u003c/a\u003e》，称今年疫情期间程序员们创建了更多的代码库，也贡献了更多的代码。报告称，软件开发者创建的代码库比去年增加了 35%，创建的开源项目增加了 40%，对开源项目的贡献增加了 25%，pull request 合并时间（从递交代码到合并到项目的时间间隔）减少了 7.5 小时。报告称，疫情期间远程办公的流行增加了开发者投入在开发上的时间，但它警告如果工作占用了个人时间和休息，这种情况可能是难以维系的。JavaScript 仍然是 GitHub 代码库最流行的语言，其次是  Python、Java、Typescript、C#、PHP、C++、C、Shell、Ruby 和 Objective-C。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-03T11:00:39Z",
+  "Author": "WinterIsComing"
+}

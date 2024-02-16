@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 要求廉价 Android 设备必须用 Android Go",
+  "Link": "https://www.solidot.org/story?sid=65020",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Google 的 Android 11 Go Edition Device Configuration Guide 的要求，Android 11 发布之后内存不足 2 GB 的新 Android 设备\u003ca href=\"https://www.theregister.com/2020/07/22/android_go_sub_2gb_devices/\" target=\"_blank\"\u003e\u003cu\u003e必须用 Android Go\u003c/u\u003e\u003c/a\u003e。Android Go 是 Android 的精简版，为低内存和低速处理器进行了优化。它在 2017 年发布，主要由 OEM 厂商决定是否采用。但新的设备配置指南文档显示 Google 对普及 Android Go 采取了更逼人的策略。此外，内存不足 512MB 的设备将无法预载 Google Mobile Services (GMS)服务。今天内存不足 512MB 的 Android 设备已经很少见到了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-22T14:41:47Z",
+  "Author": "WinterIsComing"
+}

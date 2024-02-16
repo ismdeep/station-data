@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "curl 项目披露高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=76306",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tcurl 项目释出了 curl 8.4.0，其中修复了一个高危漏洞 CVE-2023-38545，该漏洞被认为是至今 curl 项目发现的最严重漏洞之一。curl 作者 Daniel Stenberg 在个人博客上详细解释了这一漏洞。攻击者可通过发送长度超过 16kB 的主机名触发该漏洞，导致堆缓冲区溢出。Stenberg 表示，如果 curl 是用内存安全语言 aka Rust 开发的话那么该问题不会发生，但重写 curl 不在他的议程中。他说可能会支持用 Rust 写一些依赖项目，逐步取代部分功能，但在可预见的未来，curl 仍然是用 C 编写的。\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-11T08:17:10Z",
+  "Author": "Wilson"
+}

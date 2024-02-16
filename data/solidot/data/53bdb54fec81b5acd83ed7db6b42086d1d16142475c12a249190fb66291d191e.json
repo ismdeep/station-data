@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果宣布 M2 芯片",
+  "Link": "https://www.solidot.org/story?sid=71746",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 \u003ca href=\"https://www.apple.com.cn/apple-events/\"\u003e\u003cu\u003eWWDC 2022\u003c/u\u003e\u003c/a\u003e 大会上，苹果宣布了 iOS 16、macOS Ventura、iPadOS 16、watchOS 9，以及驱动其最新一代硬件的 \u003ca href=\"https://arstechnica.com/gadgets/2022/06/apple-announces-its-next-gen-m2-chip-promising-18-faster-performance-than-m1/\"\u003e\u003cu\u003eM2 芯片\u003c/u\u003e\u003c/a\u003e。相比第一代的 M1，M2 的 CPU 部分仍然是 8 核：4 个高性能核心和 4 个效能核心。苹果称，M2 CPU 比 M1 CPU 性能提升 18%。M2 的 GPU 则从上一代的 8 核增加到了 10 核，性能提升 35%。苹果称 M2 有 200 亿个晶体管，比 M1 增加了  25%，内存带宽增加到 100GB/s，仍然使用台积电的 5 纳米工艺制造。M2 支持的内存容量增加到了 24GB。苹果称，M2 的 16 核神经网络引擎每秒可执行最多 15.8 万亿次运算，比 M1 提升 40%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-07T03:37:20Z",
+  "Author": "WinterIsComing"
+}

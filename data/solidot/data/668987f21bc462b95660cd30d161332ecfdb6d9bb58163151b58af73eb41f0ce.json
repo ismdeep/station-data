@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度封杀 Matrix 客户端 Element",
+  "Link": "https://www.solidot.org/story?sid=74870",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t印度以传播恐怖主义的名义封杀了 14 款消息应用，其中之一是 Matrix 客户端 Element。Matrix 是一个端对端加密、去中心化的实时通讯系统，它没有中心服务器，通过网桥与其它平台互通。Matrix 客户端在功能上类似于浏览器，只是用于连接 Matrix 通信网络，并不能控制上面的内容。开发 Element 的公司表示它没有收到该决定的提前通知，它猜测印度对 Element 的封杀可能是出于对去中心化和联邦式服务如 Matrix 的误解。Element 只是一个客户端，印度用户完全可以使用其它客户端访问 Matrix。Element 表示它坚信端对端加密是一种事关通信安全和隐私的基本人权，部分政府在打击恐怖主义等名义下破坏端对端加密是对基本人权的攻击。\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://element.io/blog/india-bans-flagship-client-for-the-matrix-network/\n\u003cbr/\u003e\n\u003cbr/\u003e\n被封杀的应用名单如下：\u003cbr/\u003e\nCrypviser\u003cbr/\u003e\nEnigma\u003cbr/\u003e\nSafeswiss\u003cbr/\u003e\nWickrme\u003cbr/\u003e\nMediafire\u003cbr/\u003e\nBriar\u003cbr/\u003e\nBChat\u003cbr/\u003e\nNandbox\u003cbr/\u003e\nConion\u003cbr/\u003e\nIMO\u003cbr/\u003e\nElement\u003cbr/\u003e\nSecond line\u003cbr/\u003e\nZangi\u003cbr/\u003e\nThreema\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-05T10:48:17Z",
+  "Author": "Wilson"
+}

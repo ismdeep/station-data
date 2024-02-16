@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Krita 5.0 发布",
+  "Link": "https://www.solidot.org/story?sid=70118",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源数字绘图项目 Krita \u003ca href=\"https://krita.org/en/krita-5-0-release-notes/\" target=\"_blank\"\u003e\u003cu\u003e释出了 5.0 版\u003c/u\u003e\u003c/a\u003e。5.0 是一个大更新版本，与 Krita 4.x 和 Krita 3.x 创作的文件存在部分兼容性问题。主要变化包括：重写了资源处理，资源系统更快更灵活；渐变更平滑，改进了渐变工具；重写了 Color Smudge 引擎，新的 MyPaint Brush 引擎；重写了动画子系统，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-24T05:14:36Z",
+  "Author": "WinterIsComing"
+}

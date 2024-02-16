@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Harbian: 定制加固Debian GNU/Linux",
+  "Link": "https://www.solidot.org/story?sid=64236",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;\u003ca href=\"https://github.com/harbian\" target=\"_blank\"\u003eHarbian\u003c/a\u003e的全称是“Hardened Debian GNU/Linux\u0026#34;，Harbian是基于Debian系统为基础打造的加固版本的GNU/Linux发行版，提供一些\u003ca href=\"https://github.com/harbian/harbian_packages\" target=\"_blank\"\u003e定制化的包\u003c/a\u003e和\u003ca href=\"https://github.com/hardenedlinux/hardenedlinux_profiles\" target=\"_blank\"\u003e部署配置\u003c/a\u003e，当前的版本只提供了\u003ca href=\"https://linux.solidot.org/story?sid=63759\" target=\"_blank\"\u003eharbian-audit\u003c/a\u003e以在默认安装部署时尽量满足CIS和STIG的安全合规部署指南的要求，Harbian第一个版本的下载（\u003ca href=\"https://github.com/harbian/harbian-iso/raw/master/20200427/harbian-20200427-buster-netinstall.iso\" target=\"_blank\"\u003eISO\u003c/a\u003e，\u003ca href=\"https://github.com/harbian/harbian-iso/raw/master/20200427/sha256-digest.txt\" target=\"_blank\"\u003eSHA256-digest\u003c/a\u003e，\u003ca href=\"https://github.com/harbian/harbian-iso/raw/master/20200427/harbian-20200427-buster-netinstall.iso.asc\" target=\"_blank\"\u003e签名\u003c/a\u003e）。另外，由于基于Debian制作发行版的文档匮乏，我们开放了\u003ca href=\"https://github.com/harbian/harbian-doc/blob/master/build_your_own_debian_distro_iso.md\" target=\"_blank\"\u003eHarbian发行版本的制作过程的文档\u003c/a\u003e让有兴趣的社区用户也可以尝试打造自己的GNU/Linux发行版，未来Harbian或许会加入更多默认特性，也欢迎贡献。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-28T01:47:25Z",
+  "Author": "WinterIsComing"
+}

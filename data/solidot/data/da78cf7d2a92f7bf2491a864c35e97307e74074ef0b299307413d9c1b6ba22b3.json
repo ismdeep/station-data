@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "富士遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=67940",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t富士胶片\u003ca href=\"https://www.fujifilm.com/jp/en/news/hq/6642#\" target=\"_blank\"\u003e\u003cu\u003e发表声明\u003c/u\u003e\u003c/a\u003e称其服务器遭到未经授权访问，它因此关闭了部分网络断开了与外部的通信。富士称它是在 6 月 1 日晚上了解到可能遭到勒索软件的攻击。它没有披露是遭到哪个勒索软件的攻击。安全研究人员称富士上个月曾感染了木马  Qbot，而  Qbot 恶意程序团队目前正与勒索软件组织 REvil \u003ca href=\"https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/\"\u003e\u003cu\u003e密切合作\u003c/u\u003e\u003c/a\u003e。最近对世界最大肉品供应商 JBS 的勒索软件攻击被认为就来自于 REvil。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-03T05:43:17Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GDB 10.1 发布",
+  "Link": "https://www.solidot.org/story?sid=65914",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNU Debugger \u003ca href=\"https://www.gnu.org/software/gdb/download/ANNOUNCEMENT\" target=\"_blank\"\u003e\u003cu\u003e释出了 10.1 版本\u003c/u\u003e\u003c/a\u003e。新版的主要变化包括：支持调试 BPF 程序，GDBserver 支持 RISC-V 架构，支持 debuginfod，支持使用 64 位 Windows GDB 调试 32 位 Windows 程序，改进启动性能，移除对部分架构的支持，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-26T08:09:48Z",
+  "Author": "WinterIsComing"
+}

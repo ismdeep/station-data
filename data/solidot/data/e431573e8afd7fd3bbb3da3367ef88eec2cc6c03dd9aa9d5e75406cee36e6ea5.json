@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Elizabeth Warren 竞选团队开源其软件",
+  "Link": "https://www.solidot.org/story?sid=63967",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国民主党总统候选人 Elizabeth Warren 上个月因选情不佳而退出，其竞选团队\u003ca href=\"https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551\"\u003e\u003cu\u003e刚刚宣布\u003c/u\u003e\u003c/a\u003e开源在竞选中使用的软件，并为使用开源软件节省资金而感到自豪。Warren 竞选团队的技术部门依赖于开源技术，也希望回报社区，因此决定将其重要的项目开源，供任何人使用。这些项目包括：点对点短信平台 \u003ca href=\"https://github.com/Elizabeth-Warren/Spoke\"\u003e\u003cu\u003eSpoke\u003c/u\u003e\u003c/a\u003e，投票位置查询工具\u003ca href=\"https://github.com/Elizabeth-Warren/pollaris\"\u003e\u003cu\u003e  Pollaris\u003c/u\u003e\u003c/a\u003e，志愿者支持网站的\u003ca href=\"https://github.com/Elizabeth-Warren/supportal-frontend\"\u003e\u003cu\u003e前端\u003c/u\u003e\u003c/a\u003e和\u003cu\u003e后端\u003c/u\u003e，数据工具 \u003ca href=\"https://github.com/Elizabeth-Warren/redhook\"\u003e\u003cu\u003eRedhook\u003c/u\u003e\u003c/a\u003e，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-30T03:27:58Z",
+  "Author": "WinterIsComing"
+}

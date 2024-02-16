@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "TikTok 将停止访问用户剪贴板",
+  "Link": "https://www.solidot.org/story?sid=64816",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tiOS 14 引入了一项功能，在应用访问剪贴板时会对用户发出警告，在欧美印度等地非常流行的中国短视频应用 TikTok 随即就被发现会频繁访问剪贴板，引发了用户隐私泄露的担忧。TikTok 回应称访问剪贴板是为了识别垃圾信息。它在一封声明中\u003ca href=\"https://www.macrumors.com/2020/06/25/tiktok-clipboard-access-ios-14-caught/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，它已经向苹果应用商店 ‌App Store‌ 递交了新版本，移除了反垃圾信息功能，以避免任何潜在的混淆。下载的新版本确认它不再访问剪贴板。TikTok 没有说明该功能是否也从 Android 版本中移除了，以及它是否储存或转移了用户剪贴板数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-01T03:17:06Z",
+  "Author": "WinterIsComing"
+}

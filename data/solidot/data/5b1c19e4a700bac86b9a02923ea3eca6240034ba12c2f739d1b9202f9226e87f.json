@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "腾讯应用宝限制应用内访问境外 IP",
+  "Link": "https://www.solidot.org/story?sid=63229",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发者在社交网络上\u003ca href=\"https://twitter.com/studyro/status/1215196745778335745\"\u003e\u003cu\u003e称\u003c/u\u003e\u003c/a\u003e，腾讯旗下应用商店应用宝开始限制应用访问境外 IP，有多个应用因访问境外 IP 遭到下架。在应用广泛使用 CDN 加速的时代，这一规定颇为反常。根据腾讯自己的\u003ca href=\"https://wiki.open.qq.com/index.php?title=%E5%BA%94%E7%94%A8%E5%86%85%E8%AE%BF%E9%97%AE%E5%A2%83%E5%A4%96IP%E8%A7%84%E8%8C%83%E6%8C%87%E5%BC%95\u0026amp;oldid=47751\" target=\"_blank\"\u003e\u003cu\u003e文档\u003c/u\u003e\u003c/a\u003e，应用开发者需要向它递交文件说明为什么要使用境外 IP    即可恢复上架。腾讯称，“为了保证应用内内容合法合规，打造绿色网络安全环境，如应用内涉及访问境外IP的：1、如非应用功能必需，需关闭访问境外IP功能；2、如应用必需，请提交承诺函并说明具体用途...”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-10T11:48:01Z",
+  "Author": "WinterIsComing"
+}

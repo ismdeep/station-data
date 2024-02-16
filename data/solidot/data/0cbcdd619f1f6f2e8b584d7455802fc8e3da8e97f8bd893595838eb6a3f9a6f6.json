@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源桌面环境 GNOME 3.36 版发布",
+  "Link": "https://www.solidot.org/story?sid=63797",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://blah\u0026lt;AT\u0026gt;openingsource.org\"\u003eBlah Boom\u003c/a\u003e 写道\u003ci\u003e \u0026#34;代号为「Gresik」的 GNOME 3.36 \u003ca href=\"https://mail.gnome.org/archives/gnome-announce-list/2020-March/msg00016.html\" target=\"_blank\"\u003e发布\u003c/a\u003e了。它带来了一个新的锁屏界面、一个用于管理扩展程序的新应用以及对 gnome-shell 的性能改进。GNOME 软件中心（Software）对计费网络（metered network）和家长控制有了更好的支持；初始配置（Initial Setup）助手有了新的外观；GNOME 时钟（Clocks）经过了重新设计。此外，该版本包含许多显著的新功能以及较小的改进和错误修复，总共包含约 780 个贡献者进行的 24434 个更改。下一版本 GNOME 3.38 计划于今年 10 月发布。另见\u003ca href=\"https://help.gnome.org/misc/release-notes/3.36/\"\u003e发布记录\u003c/a\u003e（\u003ca href=\"https://openingsource.org/8920/\" target=\"_blank\"\u003e中文\u003c/a\u003e）。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-12T07:40:59Z",
+  "Author": "WinterIsComing"
+}

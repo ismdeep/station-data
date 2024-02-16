@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 曝出数据丢失 bug",
+  "Link": "https://www.solidot.org/story?sid=62946",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用户向 Google 递交\u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1033655\"\u003e\u003cu\u003e bug 报告\u003c/u\u003e\u003c/a\u003e，称最新的 Chrome 79 (79.0.3945.79)更新会导致其它应用的 localstorage 或 websql 无预见的清空。许多用户都反映了同样的问题，另一名用户报告称，客户在升级到 Chrome/webview v79 后失去了所有的应用数据。用户们建议 Google 在未修复前回滚到旧版本。Chrome 开发者表示他们了解这个数据丢失 bug 非常严重，他们正致力于寻找解决方案最小化数据丢失。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-16T02:40:21Z",
+  "Author": "WinterIsComing"
+}

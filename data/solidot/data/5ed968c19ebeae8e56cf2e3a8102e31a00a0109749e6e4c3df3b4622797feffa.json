@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌克兰网络战",
+  "Link": "https://www.solidot.org/story?sid=70885",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 官方博客\u003ca href=\"https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/\"\u003e\u003cu\u003e介绍了乌克兰相关的网络战\u003c/u\u003e\u003c/a\u003e。Google 称它的安全团队 Threat Analysis Group (TAG)过去十二个月向乌克兰用户发出了数百次政府支持黑客攻击警告，通知用户他们成为政府黑客的攻击目标。过去两周 TAG 监测到了已知黑客组织发起的钓鱼和间谍活动。与俄罗斯情报总局有关联的黑客组织 FancyBear/APT28 对乌克兰媒体 ukr.net 的用户发起了钓鱼攻击；白俄黑客组织 Ghostwriter/UNC1151 对波兰乌克兰的政府和军方组织发起了钓鱼攻击；Mustang Panda/Temp.Hex 对欧洲组织发起钓鱼攻击，攻击者发送的附件使用了 Situation at the EU borders with Ukraine.zip 之类的名字；乌克兰政府网站和 Liveuamap 等遭到 DDoS 攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-08T10:21:38Z",
+  "Author": "WinterIsComing"
+}

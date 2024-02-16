@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核加入对英特尔软体定义硅晶片的支持",
+  "Link": "https://www.solidot.org/story?sid=70634",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 5.18 内核\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-SDSi-Linux-5.18\"\u003e\u003cu\u003e将整合\u003c/u\u003e\u003c/a\u003e英特尔至今仍然神秘的软体定义硅晶片（Software Defined Silicon 或SDSi）机制的支持。英特尔尚未发布支持 SDSi 的 CPU，在内核正式支持之后，相关 CPU 预计会很快推出，第一批支持 SDSi  的 CPU 可能是 Sapphire Rapids。SDSi 允许在已生产和部署的 CPU 上通过软件激活额外的功能，这需要额外付费，英特尔尚未披露相关的更多信息。Linux 5.17 预计在 3 月底发布，随后 5.18 的合并窗口开启，稳定版本预计在 5 月底释出。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-11T14:23:14Z",
+  "Author": "WinterIsComing"
+}

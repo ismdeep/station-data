@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 和 Wordpress 支持图像和 iFrames 的延迟加载",
+  "Link": "https://www.solidot.org/story?sid=63549",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 将支持图像和 iFrames 的延迟加载(Lazy Loading)，而最大的博客服务 Wordpress \u003ca href=\"https://make.wordpress.org/core/2020/01/29/lazy-loading-images-in-wordpress-core/\" target=\"_blank\"\u003e\u003cu\u003e将默认支持\u003c/u\u003e\u003c/a\u003e图像的延迟加载。延迟加载又名懒加载，顾名思义，为了加快页面加载速度优先显示第一屏文本而推迟加载关联对象，这些关联对象直到要使用时才会开始加载。Firefox 75 Nightly 版支持延迟加载但默认没有启用，暂时不清楚正式版是否会启用该功能。Chrome、Edge 和 Opera 浏览器已经\u003ca href=\"https://www.solidot.org/story?sid=57578\" target=\"_blank\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e对该功能的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-17T08:21:29Z",
+  "Author": "WinterIsComing"
+}

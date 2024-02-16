@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "聊天机器人仍然很蠢",
+  "Link": "https://www.solidot.org/story?sid=70282",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1970 年图灵奖（计算机界的诺贝尔奖）得主 Marvin Minsky 预测，“三到八年内我们将拥有具备相当于普通人类水平的通用智能机器。”52 年过去了，我们\u003ca href=\"https://slashdot.org/story/22/01/06/2010241/chatbots-still-dumb-after-all-these-years\" target=\"_blank\"\u003e\u003cu\u003e仍在等待着\u003c/u\u003e\u003c/a\u003e这种机器的出现。根本障碍在于，尽管计算机算法确实非常善于识别统计模式，但它们不知道这些模式意味着什么，因为它们局限于数学世界（MathWorld）中，从未体验过现实世界。Google 在西雅图的 AI 团队负责人 Blaise Aguera y Arcas 最近\u003ca href=\"https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，大型语言模型（LLM）可能是由统计学驱动的，“统计等同于理解。”他提到了几个与 Google 最先进的聊天机器人 LaMDA 的对话片段作为证据。这些对话令人印象深刻，非常像人类的口吻，但是它们不过是 Gary Marcus 和 Ernest Davis 所说的 LLM 有能力成为“流利的废话喷井”，或者是 Timnit Gebru 和三位合著者所说的“随机鹦鹉”的例子。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-07T08:54:41Z",
+  "Author": "wanwan"
+}

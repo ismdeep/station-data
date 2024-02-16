@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《塞尔达传说时之笛》PC 移植版发布",
+  "Link": "https://www.solidot.org/story?sid=71041",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《塞尔达传说时之笛》PC 移植版\u003ca href=\"https://www.videogameschronicle.com/news/zelda-ocarina-of-time-pc-port/\" target=\"_blank\"\u003e\u003cu\u003e正式发布\u003c/u\u003e\u003c/a\u003e，但为了避开任天堂的律师，移植版改名为 \u003ca href=\"https://github.com/HarbourMasters/Shipwright/\"\u003e\u003cu\u003eShip of Harkinian\u003c/u\u003e\u003c/a\u003e，不包含任何游戏素材，玩家需要使用工具从自己的游戏 ROM 文件中提取出必要的素材。PC 移植版加入了 HD 图形、宽屏、键盘、Mod、力反馈和陀螺仪瞄准。在《时之笛》之后，《塞尔达传说》粉丝的下一个目标是《Majora’s Mask》，目前正对其进行反编译。《时之笛》在去年 11 月完整反编译，PC 移植受益于任天堂另一款游戏《超级马里奥64》的 PC 移植版本，《时之笛》能使用为《超级马里奥64》开发的 Fast3D 渲染引擎，该引擎将 N64 微码转换到 OpenGL 或 DirectX。《时之笛》和《超级马里奥64》八成的渲染管线是重叠的，这节省了大量的移植时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-23T14:15:08Z",
+  "Author": "WinterIsComing"
+}

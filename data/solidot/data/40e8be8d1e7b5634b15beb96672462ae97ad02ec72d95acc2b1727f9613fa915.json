@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "测试 Mozilla 的 VPN 服务",
+  "Link": "https://www.solidot.org/story?sid=65031",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://vpn.mozilla.org/\" target=\"_blank\"\u003e\u003cu\u003eMozilla VPN\u003c/u\u003e\u003c/a\u003e 服务正式开始提供给美国、加拿大、新西兰、新加坡和马来西亚的用户使用。Mozilla VPN 月费为 4.99 美元，支持 Windows 10、Android 和 iOS，尚不支持  Linux 和 MacOS。Mozilla VPN 是 Mozilla 与 VPN 服务商 Mullvad 合作提供的，基于最近进入内核主线的 Wireguard 协议，承诺不记录任何日志。其它 VPN 服务商也有类似的承诺，然而经常被发现不属实。Mozilla 是知名的开源浏览器开发商，它的承诺是否可信只能由用户自己来判断了。Ars \u003ca href=\"https://arstechnica.com/gadgets/2020/07/we-test-mozillas-new-wireguard-based-5-mo-vpn-service/?comments=1\"\u003e\u003cu\u003e对其进行了一番测试\u003c/u\u003e\u003c/a\u003e，结果显示性能还是相当可以。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-23T13:48:48Z",
+  "Author": "WinterIsComing"
+}

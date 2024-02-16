@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 基金会与 Rothschild 和解专利纠纷",
+  "Link": "https://www.solidot.org/story?sid=64439",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 9 月，Rothschild Patent Imaging LLC 的公司对 GNOME 基金会\u003ca href=\"https://www.solidot.org/story?sid=62136\" target=\"_blank\"\u003e\u003cu\u003e提起了专利侵权诉讼\u003c/u\u003e\u003c/a\u003e，指控 GNOME 桌面环境项目中的一个组件 Shotwell 照片管理器侵犯了它的专利“Wireless image distribution system and method ”。该专利最早是在 2008 年申请的，描述了无线连接图像捕捉设备和接收设备的系统和方法。现在，GNOME 与 Rothschild \u003ca href=\"https://www.gnome.org/news/2020/05/patent-case-against-gnome-resolved/\" target=\"_blank\"\u003e达成和解\u003c/a\u003e，Rothschild 并承诺不再对 GNOME 提起任何专利诉讼。此外，Rothschild Patent Imaging 和 Leigh Rothschild 的专利免除和承诺覆盖了在开源促进会批准的所有开源许可证下发布的软件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-22T06:32:08Z",
+  "Author": "WinterIsComing"
+}

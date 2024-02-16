@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "2022 年不是 Linux 桌面年",
+  "Link": "https://www.solidot.org/story?sid=70387",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名主播 Linus Tech Tips 的 Linus Sebastian 最近做了个实验：尝试用 Linux 操作系统一个月，用 Linux 完成日常工作，玩游戏和播放流媒体视频。他的\u003ca href=\"https://www.youtube.com/watch?v=Rlg4K16ujFw\"\u003e\u003cu\u003e结论\u003c/u\u003e\u003c/a\u003e是\u003ca href=\"https://linux.slashdot.org/story/22/01/15/0224235/are-we-getting-closer-to-the-year-of-the-linux-desktop\"\u003e\u003cu\u003e今年不是 Linux 桌面年\u003c/u\u003e\u003c/a\u003e，虽然用 Linux 桌面完成日常工作没什么问题，但游戏的状况非常糟糕。部分游戏用 Valve 的 Windows 兼容层 Proton 运行良好，但还有许多游戏问题很多，部分问题可能会破坏文件。有的游戏单人部分可运行但多人部分无法运行。Linus Sebastian 认为阻碍 Linux 桌面年的主要障碍是碎片化，不同的发行版有着不同版本的库、驱动程序和软件，Flatpak\n Snap 和 AppImage 等不同打包格式在解决碎片化问题方面取得了进展，但还不够完美。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-17T06:39:47Z",
+  "Author": "WinterIsComing"
+}

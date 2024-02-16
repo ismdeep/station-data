@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "泰国移动运营商泄露 83 亿互联网记录",
+  "Link": "https://www.solidot.org/story?sid=64460",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员发现了泰国移动运营商 Advanced Info Service (AIS)子公司控制的一个 ElasticSearch 数据库\u003ca href=\"https://rainbowtabl.es/2020/05/25/thai-database-leaks-internet-records/?=may-23-2020\"\u003e\u003cu\u003e可公开访问\u003c/u\u003e\u003c/a\u003e，数据库包含大约 83 亿记录，容量约为 4.7 TB，每 24 小时增加 2 亿记录。AIS 是泰国最大的 GSM 移动运营商，用户约有 4000 万。可公开访问的数据库由其子公司 Advanced Wireless Network (AWN)控制，包括了 DNS 查询日志和 NetFlow 日志，这些数据可用于绘制一个用户的网络活动图。研究人员尝试联系 AIS 但毫无结果，直到最后联络泰国国家计算机紧急响应小组之后数据库才无法公开访问。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-25T12:20:13Z",
+  "Author": "ai"
+}

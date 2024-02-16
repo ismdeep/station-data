@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NASA 修复航海家1号数据损坏问题",
+  "Link": "https://www.solidot.org/story?sid=72636",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年早些时候，NASA 航海家1号（Voyager 1）工程团队\u003ca href=\"https://www.solidot.org/story?sid=71586\" target=\"_blank\"\u003e\u003cu\u003e发现了一个问题\u003c/u\u003e\u003c/a\u003e：飞船运行正常，接收并执行来自地球的指令，同时收集并发送回科学数据。但是飞船姿态关节和控制系统（AACS）的读数出现错误。AACS 控制着飞船方向，确保天线精确指向地球，使其能发送数据回地球。现在 NASA 工程师\u003ca href=\"https://www.nasa.gov/feature/jpl/engineers-solve-data-glitch-on-nasa-s-voyager-1\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e问题解决了，故障是一台数年前就停止工作的计算机\u003ca href=\"https://www.theregister.com/2022/08/31/voyager_1_telemetry_data_corrupted/\"\u003e\u003cu\u003e导致的\u003c/u\u003e\u003c/a\u003e，AACS 本身运行良好。航海者1号已经工作了 45 年，目前距离地球 233亿公里，光走完这段距离需要 20 小时 33 分钟。NASA 工程师称飞船出现了很多问题：每年损失 4 瓦电力，推进剂管道即将冻结，计算机芯片也有问题。工程师是在数百亿公里外努力保持一辆老爷车继续运转。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-31T16:01:23Z",
+  "Author": "WinterIsComing"
+}

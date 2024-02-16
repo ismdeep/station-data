@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伊朗黑客攻击 VPN 服务植入后门",
+  "Link": "https://www.solidot.org/story?sid=63546",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员在去年举行的 Black Hat 安全会议上披露  Fortinet 和 Pulse Secure VPN 产品的漏洞，随后有政府背景的黑客就迅速\u003ca href=\"https://www.solidot.org/story?sid=61986\"\u003e\u003cu\u003e利用漏洞\u003c/u\u003e\u003c/a\u003e去攻击企业目标。以色列网络安全公司 ClearSky \u003ca href=\"https://www.clearskysec.com/fox-kitten/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，伊朗政府黑客也迅速行动起来，向 IT、电信、石油天然气、航空、政府和安全领域的目标\u003ca href=\"https://www.zdnet.com/article/iranian-hackers-have-been-hacking-vpn-servers-to-plant-backdoors-in-companies-around-the-world/\"\u003e\u003cu\u003e发动攻击\u003c/u\u003e\u003c/a\u003e。伊朗黑客的技术通常被认为弱于俄罗斯、中国和朝鲜，但 ClearSky 推翻了这一观念，称伊朗的 APT 组织能在极短时间内利用 1 day 漏洞，他们观察到伊朗黑客在漏洞披露数小时内就开始利用漏洞。报告称，至少有三个伊朗黑客组织  APT33 (Elfin，Shamoon)、APT34 (Oilrig) 和 APT39 (Chafer) 对 VPN 服务展开了攻击，攻击的目标主要是执行侦察和植入后门进行监视。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-17T06:50:07Z",
+  "Author": "WinterIsComing"
+}

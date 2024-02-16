@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "容器与云问答：容器是什么，为什么要用它？",
+  "Link": "https://www.solidot.org/story?sid=65626",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t容器是一个标准化的软件单元，它将代码及其所有依赖关系打包，以便应用程序从一个计算环境可靠快速地运行到另一个计算环境。通过将应用程序本身和其依赖容器化，操作系统发行版本和其他基础环境造成的差异都被抽象掉了，大大方便了软件的部署和运维工作，从而在软件开发和云计算平台之间建立了桥梁。\u003cbr/\u003e\n\u003cbr/\u003e\n和虚拟机相比，容器可与其他容器共享操作系统内核，每个容器在用户空间中作为独立进程运行。容器占用的空间比虚拟机少（容器映像的大小通常为几十MB），启动速度也更快，同样的资源可以处理更多的应用程序。\u003cbr/\u003e\n\u003cbr/\u003e\nDocker是一个开源的容器引擎，Docker的整个生命周期有三部分组成：镜像（image）+容器（container）+仓库（repository）。Docker容器类似于一个轻量级的沙箱子，Docker利用容器来运行和隔离应用。Docker容器可以让开发者打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows 机器上，也可以实现虚拟化。\n\u003cbr/\u003e\n\u003cbr/\u003e\n混合多云时代已来，企业如何应势而上？戳链接看「\u003ca href=\"http://www.zhiding.cn/special/IBM_hybrid_cloud_2020\" target=\"_blank\"\u003e\u003cu\u003e混合云100问\u003c/u\u003e\u003c/a\u003e」，一站全面了解真正的「混合云」\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-23T12:09:29Z",
+  "Author": "WinterIsComing"
+}

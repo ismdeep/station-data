@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究发现 REvil 恶意程序设计避开运行俄语的计算机",
+  "Link": "https://www.solidot.org/story?sid=68229",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t来自俄罗斯的黑客组织 REvil 上周发动了至今规模最大的供应链勒索软件攻击。安全公司 Trustwave SpiderLabs 对恶意代码的\u003ca href=\"https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/diving-deeper-into-the-kaseya-vsa-attack-revil-returns-and-other-hackers-are-riding-their-coattails/\"\u003e\u003cu\u003e分析\u003c/u\u003e\u003c/a\u003e发现，\u003cu\u003e恶意程序\u003c/u\u003e\u003ca href=\"https://www.nbcnews.com/politics/national-security/code-huge-ransomware-attack-written-avoid-computers-use-russian-says-n1273222\" target=\"_blank\"\u003e\u003cu\u003e设计避开了运行俄语的计算机\u003c/u\u003e\u003c/a\u003e。Trustwave 发现，恶意程序避开了默认语言为前苏联地区的计算机，这包括了俄罗斯、乌克兰、白俄、塔吉克、亚美尼亚、阿塞拜疆、格鲁吉亚、哈萨克、吉尔吉斯、土库曼、乌兹别克、塔塔儿、罗马尼亚、摩尔多瓦、叙利亚和叙利亚阿拉伯等地区的语言。在这之前，另一个勒索软件组织 DarkSide 也\u003ca href=\"https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e硬编码不安装在俄罗斯和其它前苏联加盟国的计算机上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-08T11:19:38Z",
+  "Author": "WinterIsComing"
+}

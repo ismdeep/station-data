@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软承认签名了一个 rootkit 恶意程序",
+  "Link": "https://www.solidot.org/story?sid=68143",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软的代码签名流程\u003ca href=\"https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/\"\u003e\u003cu\u003e能被攻击者的利用\u003c/u\u003e\u003c/a\u003e。G Data 的安全研究人员本月早些时候收到了一个可能的误报：\u003ca href=\"https://www.gdatasoftware.com/blog/microsoft-signed-a-malicious-netfilter-rootkit\" target=\"_blank\"\u003e\u003cu\u003e由微软签名的 NetFilter 驱动程序\u003c/u\u003e\u003c/a\u003e。从 Windows Vista 开始，在内核模式中运行的任何代码在公开发布前都需要经过微软的测试和签名，以确保操作系统的稳定性。没有微软签名的驱动程序默认是无法安装的。但安全研究人员在仔细分析后发现，Netfilter 是一个 rootkit 恶意程序，能自我更新和向攻击者的 IP 发送信息。WHOIS 查询显示，该 IP 地址属于\u003ca href=\"https://www.tianyancha.com/company/2357743656\"\u003e\u003cu\u003e宁波卓智创新网络科技有限公司\u003c/u\u003e\u003c/a\u003e。微软\u003ca href=\"https://msrc-blog.microsoft.com/2021/06/25/investigating-and-mitigating-malicious-drivers/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e正在调查这起事件，它称攻击者通过 Windows Hardware Compatibility Program 项目递交驱动签名，它已经吊销了递交者的账号，评估其递交寻找恶意程序的其它信号。该恶意程序针对的是中国地区的游戏玩家。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-28T11:33:37Z",
+  "Author": "WinterIsComing"
+}

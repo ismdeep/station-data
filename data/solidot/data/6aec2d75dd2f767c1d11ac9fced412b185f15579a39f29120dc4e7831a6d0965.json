@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WireGuard 将合并到 Linux 5.6",
+  "Link": "https://www.solidot.org/story?sid=62896",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWireGuard 作者 Jason A. Donenfeld 在邮件列表上\u003ca href=\"https://lists.zx2c4.com/pipermail/wireguard/2019-December/004704.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，WireGuard 合并到了 Dave Miller 的 net-next 树，这意味着当 Linus Torvalds 开启 Linux 5.6 合并窗口，Miller 会发送 pull request，而 WireGuard 将进入到 Linux 5.6 主线。WireGuard 是一种新兴的 VPN 实现，比 OpenVPN 和 IPSec 速度更快、攻击面更小，配置更简单。进入内核主线对这个开源项目而言是一个重要的里程碑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-09T12:38:19Z",
+  "Author": "WinterIsComing"
+}

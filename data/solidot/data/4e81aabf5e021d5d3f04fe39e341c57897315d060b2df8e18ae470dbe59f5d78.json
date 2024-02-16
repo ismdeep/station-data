@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "D-Wave 计划构建门模型量子计算机",
+  "Link": "https://www.solidot.org/story?sid=69188",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t20 多年来 D-Wave一直是量子退火技术（quantum annealing）的代名词。该公司早早押注于这项技术，使其成为世界上首家销售量子计算机的公司，但是这种做法也多少限制了其硬件可以解决的现实世界问题——因为量子退火特别适用于蛋白质折叠或者路线规划等优化问题。该公司上周在其 Qubits 大会上\u003ca href=\"https://techcrunch.com/2021/10/05/d-wave-plans-to-build-a-gate-model-quantum-computer/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e开发超导门模型（gate-model）量子计算机的计划。D-Wave 相信，让企业用户从这项技术中获得最大的价值，需要将退火、门模型量子计算和经典机器结合起来。该公司指出：“就像我们最初选择退火时一样，我们正在展望未来……我们正在预测客户需要什么来获得实际的商业价值，而且我们知道，量子应用市场的另一个重要的部分——模拟量子系统——将需要具有实际应用价值的纠错门模型量子系统。这在材料科学和药物研究等领域特别有用。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-11T10:14:53Z",
+  "Author": "wanwan"
+}

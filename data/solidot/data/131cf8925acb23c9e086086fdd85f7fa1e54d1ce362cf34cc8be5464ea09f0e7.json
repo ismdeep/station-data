@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WebAssembly 成为 W3C 标准",
+  "Link": "https://www.solidot.org/story?sid=62951",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWebAssembly \u003ca href=\"https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en\"\u003e\u003cu\u003e正式成为\u003c/u\u003e\u003c/a\u003e World Wide Web Consortium (W3C) 的标准，加入到了  HTML、CSS a和 JavaScript 的行列。WebAssembly 也正式\u003ca href=\"https://www.infoworld.com/article/3489536/webassembly-10-and-w3c-core-specification-arrive.html\"\u003e\u003cu\u003e抵达了 1.0 版本\u003c/u\u003e\u003c/a\u003e，它已获得了主流浏览器 Firefox、Chrome、Safari 和 Edge 的支持。WebAssembly 源于 Mozilla 发起的 Asm.js 项目，也被称为 wasm，设计补充 JavaScript，其本地解码速度比 JS 解析快得多，让高性能的 Web 应用在浏览器上运行成为可能。WebAssembly 增加了混淆程度，因此目前它也被很多恶意网站利用去隐藏恶意目的。德国的一项研究\u003ca href=\"https://www.solidot.org/story?sid=62480\"\u003e\u003cu\u003e分析了\u003c/u\u003e\u003c/a\u003e Alexa 排名前一百万的网站，发现使用 WebAssembly 的网站比例约为六百分之一，但其中一半是将其用于恶意目的，如挖掘数字货币或混淆恶意代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-16T07:28:23Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PyPI 发现数十个恶意软件包",
+  "Link": "https://www.solidot.org/story?sid=73250",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 软件包仓库 PyPI 的自动化风险检测平台发现了数十个新发布的恶意软件包。攻击者拷贝了现有的合法软件包，然后注入恶意的 __import__ 声明，试图植入恶意程序 W4SP Stealer。拷贝合法软件包的好处是因为 PyPI 软件包的登录页是根据 setup.py 和 README.md 生成的，除非仔细检查，恶意软件包的登录页乍一看会被认为是合法的。攻击者使用了有意思的策略防止开发者在阅读代码时发现注入的恶意声明，方法是在代码中留了大量的空格，在编辑器的显示窗口上你需要拉到最右边才可能发现恶意注入。正常声明和恶意声明之间留了 318 个空格。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\nhttps://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack\u003cbr/\u003e\n\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-03T08:03:24Z",
+  "Author": "WinterIsComing"
+}

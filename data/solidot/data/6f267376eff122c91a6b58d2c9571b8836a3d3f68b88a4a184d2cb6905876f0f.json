@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "薪酬服务平台遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=70003",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t年末圣诞将至，企业最不想看到的可能是它们无法使 HR 管理服务平台给员工支付薪酬。薪酬服务平台 Kronos \u003ca href=\"https://community.kronos.com/s/feed/0D54M00004wJCdJSAW?language=en_US\"\u003e\u003cu\u003e证实\u003c/u\u003e\u003c/a\u003e它遭到勒索软件攻击，其平台可能将在数周内无法使用，建议客户寻找替代方案。攻击影响了 Kronos 的 UKG Workforce Central、UKG TeleStaff 和 Banking Scheduling Solutions 服务。Kronos 的代表\u003ca href=\"https://arstechnica.com/information-technology/2021/12/as-log4shell-wreaks-havoc-payroll-service-reports-ransomware-attack/\" target=\"_blank\"\u003e\u003cu\u003e拒绝证实或否认\u003c/u\u003e\u003c/a\u003e是最近爆出的 Java 日志库 Log4J 0day 漏洞 Log4Shell 导致其服务遭到入侵。Kronos 云服务高度依赖于 Java，其软件框架是基于 Log4J。已有企业\u003ca href=\"https://www.zdnet.com/article/hr-platform-kronos-brought-down-by-ransomware-attack-ukg-warns-of-data-breach/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e因为服务下线错过了发薪。Kronos 的服务被数十家大型企业和众多政府机构和大学使用。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-14T13:54:37Z",
+  "Author": "WinterIsComing"
+}

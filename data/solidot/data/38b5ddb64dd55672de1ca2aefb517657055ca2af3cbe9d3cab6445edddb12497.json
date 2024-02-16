@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 披露被利用了两年的 iOS 漏洞",
+  "Link": "https://www.solidot.org/story?sid=61926",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Project Zero 安全博客\u003ca href=\"https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e被利用了两年多时间的 iOS 漏洞，TechCrunch 则援引消息来源称\u003ca href=\"https://techcrunch.com/2019/08/31/china-google-iphone-uyghur/\" target=\"_blank\"\u003e\u003cu\u003e此事与中国有关\u003c/u\u003e\u003c/a\u003e。Google 称，今年早些时候，它的安全团队发现了一组遭到入侵的网站利用 iOS 0day  \n漏洞对网站的访客不加区分的发动水坑攻击。如果成功利用，攻击者会在访客的 iPhone 手机上安装监视程序，这些网站每周大约有数千访客。攻击者使用可五个不同的 iPhone 利用链，组合了 14 个漏洞，其中浏览器 7 个，内核 5 个，还有两个沙盒逃逸，至少 1 个提权利用链属于 0day。研究人员 2 月 1 日通知了苹果，给了苹果 7 天的时间修复。苹果在 2 月 7 日释出了 \u003ca href=\"https://support.apple.com/en-us/HT209520\"\u003e\u003cu\u003eiOS 12.1.4\u003c/u\u003e\u003c/a\u003e 修复了漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-01T15:00:25Z",
+  "Author": "WinterIsComing"
+}

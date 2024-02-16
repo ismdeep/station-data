@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Slackware 15.0 发布",
+  "Link": "https://www.solidot.org/story?sid=70566",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t至今仍在维护的历史最悠久的 Linux 发行版 Slackware \u003ca href=\"http://www.slackware.com/releasenotes/15.0.php\"\u003e\u003cu\u003e释出了 15.0 正式版本\u003c/u\u003e\u003c/a\u003e。Slackware 上一个稳定版本是 2016 年发布的 14.2。Slackware 创始人 Pat Volkerding 在发布公告中称，在 15.0 稳定版发布前他们一共构建了超过 400 不同的内核版本，相比下 Slackware 14.2 只测试了 34 个版本。在得到内核稳定版维护者 Greg Kroah-Hartman 确认之后他们最终选择了 Linux 5.15.19，它是一个长期支持版本，将至少支持到 2023 年 10 月，可能会更长时间。内核有精简的 generic 和包含大量内置驱动的 huge 两种，他推荐用户选择 generic 以减少启动加载时间。Slackware 15.0 的 x86_64 版本支持运行 UEFI 固件的系统。他在最后悼念了在开发期间去世的两位资深开发者：Erik \u0026#34;alphageek\u0026#34; Jan Tromp 和 Brett Person。alphageek 因久病在 2020 年去世，曾是核心团队的资深成员，Brett 是 Volkerding 的密友，鼓励他在 1993 年发布了 Slackware 最早版本，也是在 2020 年去世。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-04T12:08:18Z",
+  "Author": "WinterIsComing"
+}

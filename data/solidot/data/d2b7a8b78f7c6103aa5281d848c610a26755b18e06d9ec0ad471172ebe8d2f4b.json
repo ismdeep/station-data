@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国一天然气公司在感染勒索软件后关闭两天",
+  "Link": "https://www.solidot.org/story?sid=63579",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国国土安全部网络安全和基础设施安全署的\u003ca href=\"https://www.us-cert.gov/ncas/alerts/aa20-049a\"\u003e\u003cu\u003e公告\u003c/u\u003e\u003c/a\u003e显示，有一家未公开名字的天然气公司在感染勒索软件后\u003ca href=\"https://arstechnica.com/information-technology/2020/02/ransomware-infection-shuts-down-us-natural-gas-operator-for-2-days/#p3\"\u003e\u003cu\u003e关闭设施两\u003c/u\u003e\u003c/a\u003e天。感染发生在该公司的天然气压缩设施，攻击始于钓鱼邮件内的恶意链接，攻击者从其 IT 网络渗透到作业 OT 网络，其 IT 和 OT 网络都被勒索软件感染。感染没有扩散到控制压缩设备的可编程逻辑控制器，因此该公司没有失去对操作设施的控制。工作人员关闭了压缩设施两天，但由于管道传输的依赖性，它的关闭连带影响到了其它地方的压缩设施。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-19T14:18:33Z",
+  "Author": "WinterIsComing"
+}

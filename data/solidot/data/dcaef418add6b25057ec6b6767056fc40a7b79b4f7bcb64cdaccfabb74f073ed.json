@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 发现八成的 Google Play 应用安全标签是不精确的",
+  "Link": "https://www.solidot.org/story?sid=74238",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 基金会的研究发现，八成 Google Play 应用的安全标签是不精确的。Mozilla 隐私研究团队检查了 Google Play 商店里的 40 款最受欢迎的应用（基于下载量）， 对比了它们的隐私政策和报告给 Google 的 Data Safety Form 的信息，发现其中 16 款即 40% 的应用在隐私政策和自我报告的信息之间存在巨大差异，获得了差的评分，15 款应用获得了需要改进的评分，只有 6 款应用获得了 OK 的评分，其中包括 Stickman Legends Offline Games、Power Amp Full Version Unlocker、League of Stickman: 2020 Ninja、Google Play Games、 Subway Surfers 和 Candy Crush Saga。Mozilla 发现 Google 的 Data Safety Form 报告有漏洞，没有要求应用披露与服务提供商共享数据，使用了收集和共享的狭窄定义。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-26T15:05:32Z",
+  "Author": "Wilson"
+}

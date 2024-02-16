@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "神秘实体 BGP 广播五角大楼未用 IPv4 空间",
+  "Link": "https://www.solidot.org/story?sid=67599",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t互联网是源自于美国国防部的项目，五角大楼因而控制了大量的  IPv4 地址段。至今五角大楼只使用了很少一部分它控制的地址空间，以至于众多云服务商在其内部网络使用了未用的美国国防部 IPv4 地址段。但在 1 月 20 日美国东部时间 11:57am，特朗普政府的最后一刻（截至当天中午），拜登宣誓就职的第一天，一个神秘实体 AS8003 开始发布 BGP 广播宣告原五角大楼的未用  IPv4 地址段。到 4 月 20 日，它宣布的 IP 地址数量已经达到了 1.75 亿，超过中国电信 6100 万，超过美国最大 ISP Comcast 一亿。它宣告的  IPv4 空间占到了 IPv4 全球路由表的\u003ca href=\"https://www.kentik.com/blog/the-mystery-of-as8003/\"\u003e\u003cu\u003e 5.7%\u003c/u\u003e\u003c/a\u003e。AS8003 或 Global Resource Systems LLC 究竟是谁？它的注册地址位于佛罗里达的一个共享办公场所。本周五，美国国防部的 Defense Digital Service 发表声明这是\u003ca href=\"https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/\" target=\"_blank\"\u003e\u003cu\u003e它授权进行的一个试点项目\u003c/u\u003e\u003c/a\u003e，旨在评估和防止未经授权使用国防部的 IP 地址空间，以及发现潜在的漏洞。五角大楼拒绝回答其它问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-25T08:25:01Z",
+  "Author": "WinterIsComing"
+}

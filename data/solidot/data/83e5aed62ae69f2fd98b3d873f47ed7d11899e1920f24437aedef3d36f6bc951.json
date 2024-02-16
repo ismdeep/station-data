@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RISC-V 成为 Debian 官方支持架构",
+  "Link": "https://www.solidot.org/story?sid=75593",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t64 位 RISC-V（riscv64）成为 Debian 官方支持架构，而代号为 Trixie 的 Debian 13 预计将是第一个支持 riscv64 的版本。Debian 12 在  2023 年 6 月 10 日发布，Debian 13 随后进入了开发阶段。开发者表示，目前还处于早期阶段，riscv64 相关源代码库基本还是空的，他们的下一步计划是构建一个包含 90 个软件包的最小集。  \n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lists.debian.org/debian-riscv/2023/07/msg00053.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-24T05:40:37Z",
+  "Author": "Wilson"
+}

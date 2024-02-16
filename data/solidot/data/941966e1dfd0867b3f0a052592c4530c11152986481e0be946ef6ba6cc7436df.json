@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DeepMind 的 AlphaFold 能预测几乎所有蛋白质结构",
+  "Link": "https://www.solidot.org/story?sid=72298",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDeepMind 去年 7 月发布了预测蛋白质结构的 AI 系统 AlphaFold 的源代码，并创建了一个数据库 \u003ca href=\"https://alphafold.ebi.ac.uk/\"\u003e\u003cu\u003eAlphaFold Protein Structure Database (AlphaFold DB) \u003c/u\u003e\u003c/a\u003e。一年之后，AlphaFold 已被逾百万研究人员访问，被用于解决重要的真实世界问题，从塑料污染到抗生素抵抗。DeepMind 现在宣布与 EMBL European Bioinformatics Institute (EMBL-EBI)合作，发布所有已知蛋白质的预测结构，将 AlphaFold DB 规模扩大逾 200 倍——从接近一百万增加到逾两亿——有望提高我们对生物学的理解。所有结构将可通过  \u003ca href=\"https://github.com/deepmind/alphafold/blob/main/afdb/README.md\" target=\"_blank\"\u003eGoogle Cloud Public Datasets\u003c/a\u003e 批量下载。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-29T07:24:28Z",
+  "Author": "WinterIsComing"
+}

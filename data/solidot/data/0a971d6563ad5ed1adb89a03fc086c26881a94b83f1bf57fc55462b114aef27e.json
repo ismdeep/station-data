@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "特朗普的新社交应用被发现违反了自由软件许可证",
+  "Link": "https://www.solidot.org/story?sid=69348",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国前总统特朗普本周宣布了一个新社交应用 TRUTH Social，它很快被发现是基于自由软件社交网络 Mastodon。Mastodon 采用的是 AGPLv3 许可证，允许自由修改代码，但按照许可证要求必须公开其修改的代码。TRUTH Social \u003ca href=\"https://news.slashdot.org/story/21/10/21/2241248/trumps-truth-social-may-violate-terms-of-open-source-code-its-built-on\"\u003e\u003cu\u003e尚未遵守这一要求\u003c/u\u003e\u003c/a\u003e。Mastodon 创始人 Eugen Rochko 目前无意讨论是否对 TRUTH 未遵守许可证的行为采取法律行动，只是声明遵守 AGPLv3 要求很重要。TRUTH 将在 11 月向受邀请的用户开放测试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-22T13:50:32Z",
+  "Author": "WinterIsComing"
+}

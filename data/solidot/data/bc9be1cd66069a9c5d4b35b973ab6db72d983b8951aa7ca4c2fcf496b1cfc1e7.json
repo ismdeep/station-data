@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员评估大模型识别假新闻的能力",
+  "Link": "https://www.solidot.org/story?sid=75539",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t威斯康星大学斯托特分校的研究员 Kevin Matthe Caramancion 评估了流行大语言模型识别假新闻的能力。他评估了四个大模型，包括 Open AI 的 Chat GPT-3.0 和 Chat GPT-4.0，Google 的 Bard/LaMDA 以及微软的 Bing AI。他向这些模式输入了已经过人类事实核查的新闻。结果显示，OpenAI 的 GPT-4.0 表现最出色。但所有四种大模型都落后于人类事实核查人员，突出了人类认知的不可替代价值。研究报告发表在预印本平台 arxiv 上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html\u003cbr/\u003e\nhttps://arxiv.org/abs/2306.17176\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-17T15:01:40Z",
+  "Author": "Wilson"
+}

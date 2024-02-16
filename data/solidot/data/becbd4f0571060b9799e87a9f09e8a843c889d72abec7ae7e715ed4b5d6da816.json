@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将移除对 FTP 协议的支持",
+  "Link": "https://www.solidot.org/story?sid=63879",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Chrome 之后，Mozilla \u003ca href=\"https://news.slashdot.org/story/20/03/19/169246/firefox-to-remove-support-for-the-ftp-protocol\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Firefox 将移除对 FTP 协议的支持。未来 Firefox 用户将无法通过 FTP 协议下载文件或在浏览器上浏览 FTP 网址/文件夹里的内容。Mozilla 工程师 Michal Novotny 给出的理由和 Chrome 相同：出于安全考虑。他说，FTP 是一种不安全的协议，通过 HTTPS 下载资源要更安全。此外部分 FTP 的代码相当陈旧，维护困难，过去已经发现了很多 bug。Mozilla 计划在 6 月发布的 Firefox 77 中禁用 FTP 协议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-20T01:56:50Z",
+  "Author": "WinterIsComing"
+}

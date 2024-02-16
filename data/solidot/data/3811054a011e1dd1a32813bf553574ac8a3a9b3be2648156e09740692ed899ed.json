@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 向调查人员提供了 1500 个手机位置",
+  "Link": "https://www.solidot.org/story?sid=62931",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 向烟酒武器爆炸物管理局\u003ca href=\"https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/#7e36570827dc\" target=\"_blank\"\u003e\u003cu\u003e提供了 1494 个手机的设备标识符\u003c/u\u003e\u003c/a\u003e，帮助调查威斯康星州密尔沃基市的纵火案件。根据福布斯获得的搜查令，在四次事件中 Google 被要求提供 29,387 平方米的区域范围内总共 9 小时里的 Google 手机用户的信息。当 Android 手机打开了位置记录，Google 会将位置信息储存在名为 SensorVault 的数据库内。这些位置信息对于调查人员非常有价值，可以利用该信息识别可疑目标，比如已知嫌疑人的手机。但这种撒网式的搜查引发了侵犯无辜者隐私的担忧，被批评违宪。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-13T07:52:38Z",
+  "Author": "WinterIsComing"
+}

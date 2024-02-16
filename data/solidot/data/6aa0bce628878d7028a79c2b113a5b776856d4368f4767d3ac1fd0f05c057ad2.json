@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软宣布它将不再提供 PHP 8 的 Windows 官方构建版本",
+  "Link": "https://www.solidot.org/story?sid=64941",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软 PHP 项目经理 Dale Hirt 在邮件列表上\u003ca href=\"https://news-web.php.net/php.internals/110907\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，对于即将发布的 PHP 8.0 它将不再提供 Windows 官方构建版本。这并不意味着 PHP 8.0 将不支持 Windows，而是支持工作不再由微软负责。在这之前，微软管理着网站  https://windows.php.net，提供了 PHP for Windows 的所有官方构建版本。Dale Hirt 称，PHP 的每个大版本提供了 2 年的 bug 修正和 1 年的安全修正，对于目前的三个支持版本 PHP 7.2、7.3 和 7.4，微软会继续提供维护，其中 PHP 7.2 将于今年 11 月结束支持，7.3 将在 11 月进入安全修正模式，PHP 7.4 还有 1 年的 bug 修正和 1 年的安全修正。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-14T11:39:31Z",
+  "Author": "WinterIsComing"
+}

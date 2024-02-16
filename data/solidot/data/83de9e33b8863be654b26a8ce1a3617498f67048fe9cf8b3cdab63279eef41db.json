@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LibreOffice 6.4 发布",
+  "Link": "https://www.solidot.org/story?sid=63379",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tThe Document Foundation \u003ca href=\"https://blog.documentfoundation.org/blog/2020/01/29/libreoffice-6-4/\" target=\"_blank\"\u003e\u003cu\u003e正式释出 LibreOffice 6.4\u003c/u\u003e\u003c/a\u003e。新版显著改进了打开和保存电子表格和幻灯片的性能，改善了 DOCX、XLSX 和 PPTX 文档的兼容性。其它变化包括：Start Center 加入了应用程序图标，加强可识别性；二维码生成器支持任意文档内插入二维码，允许用户输入超链接或文本；统一超链接上下文菜单；Automatic Redaction 允许根据文本或正则表达式匹配隐藏文档内的机密数据；改进了帮助系统，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-31T09:17:54Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Viasat 称其卫星终端遭擦除器恶意软件攻击",
+  "Link": "https://www.solidot.org/story?sid=71147",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2 月 24 日在俄罗斯攻击乌克兰的同一时间，Viasat 公司位于欧洲和乌克兰的卫星终端突然离线，德国数千风力涡轮机失去了用于远程控制和管理的卫星网络。本周 Viasat 提供了这起安全事故的\u003ca href=\"https://www.theregister.com/2022/03/30/viasat_spills_on_russian_attack/\"\u003e\u003cu\u003e更多细节\u003c/u\u003e\u003c/a\u003e。攻击者利用了 VPN 访问了该公司的 KA-SAT 卫星网络，通过搜索其内网找到了管理和运营的特定网络，同一时间向用户的调制解调器发送破坏指令覆写 Flash 存储器。根据上传到 VirusTotal 的样本，擦除器恶意软件\u003ca href=\"https://www.theregister.com/2022/04/01/sentinelone_wiper_viasat/\"\u003e\u003cu\u003e是通过恶意固件更新推送给用户的\u003c/u\u003e\u003c/a\u003e。换句话说这本质上是又一起供应链攻击事故。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-02T13:26:27Z",
+  "Author": "WinterIsComing"
+}

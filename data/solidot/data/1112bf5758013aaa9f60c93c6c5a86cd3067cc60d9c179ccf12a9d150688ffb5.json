@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "哈萨克斯坦停止强制性安装证书，称这只是测试",
+  "Link": "https://www.solidot.org/story?sid=61669",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t哈萨克斯坦从 7 月 17 日\u003ca href=\"https://www.solidot.org/story?sid=61412\"\u003e\u003cu\u003e开始发出通知\u003c/u\u003e\u003c/a\u003e要求所有设备所有浏览器安装来自政府的 Root CA（qca.kz），否则将无法访问网络，此举将允许该国 ISP 解密加密流量，对所有加密流量发动中间人攻击。哈萨克斯坦安全官员辩护称，这一要求旨在保护哈萨克斯坦用户免受 “黑客攻击、在线欺诈和其它网络威胁”。这一做法引发了广泛争议，主要浏览器开发商讨论了是否将 qca.kz CA 加入到黑名单。然而在本周，哈萨克斯坦国家安全委员会\u003ca href=\"https://www.reuters.com/article/us-kazakhstan-internet-surveillance-idUSKCN1UX0VD\"\u003e\u003cu\u003e发表声明\u003c/u\u003e\u003c/a\u003e，称强制性安装证书只是一种测试，测试已经结束，用户可以将证书删除，正常使用互联网。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-09T08:50:19Z",
+  "Author": "wenfeixiang"
+}

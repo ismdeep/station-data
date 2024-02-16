@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FBI 为何获得勒索软件密钥后秘而不宣 19天？",
+  "Link": "https://www.solidot.org/story?sid=69364",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t据现任和前任美国官员透露，在夏天的一次勒索软件攻击中，数百家企业和机构的计算机被锁定。尽管 FBI 已秘密获得了能帮助解锁这些计算机的密钥，\u003ca href=\"https://www.msn.com/en-us/news/us/fbi-held-back-ransomware-decryption-key-from-businesses-to-run-operation-targeting-hackers/ar-AAOFwat\"\u003e\u003cu\u003e他们还是拖延了近三周\u003c/u\u003e\u003c/a\u003e，没有及时伸出援手。\n\u003cbr/\u003e\n\u003cbr/\u003e\n密钥是通过访问发动袭击的俄罗斯犯罪团伙的服务器获得的。立即使用密钥能帮助受害者——包括学校和医院——避免分析师估计的大约数百万美元的恢复成本。但是在其他机构的同意下，FBI 没有这样做，部分原因是它计划开展一项行动打击这个被称为 REvil 的黑客组织，它不想打草惊蛇。而政府评估认为危害并不像最初担心的那么严重。\n\u003cbr/\u003e\n\u003cbr/\u003e\n现任和前任官员表示，计划中的打击并未发生，因为美国政府还未出手，REvil 平台就在 7 月中旬下线，黑客在 FBI 有机会执行其计划之前就消失了……FBI 最终在 7 月 21 日同软件被感染勒索软件的 IT 公司 Kaseya 分享了该密钥——在攻击发生 19 天之后。Kaseya 要求新西兰安全公司 Emsisoft 创建一个新的解密工具，并在第二天公布了该工具。但对于部分受害者已为时过晚……\n\u003cbr/\u003e\n\u003cbr/\u003e\nFBI 局长 Christopher A. Wray 上周二在国会作证时表示，延误的部分原因是因为与盟友及其他机构的合作。他表示：“我们是作为一个整体做出决定的，而不是单方面做出决定。”他还指出他必须限制自己的言论，因为调查还在进行之中……他还表示“测试和验证”解密密钥导致了延迟。他在参议院国土安全委员会听证会上表示，“开发一种可供受害者使用的工具需要很多工程工作。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n然而，Emsisoft 能迅速采取行动。Emsisoft 首席技术官 Fabian Wosar 表示，他们从 FBI 提供给 Kaseya 的内容中提取出密钥，创建了新的解密程序并对其进行了测试，这一切只花了 10 分钟。因为该公司熟悉 REvil 的勒索软件。Wosar 表示：“如果我们需要从头开始的话，大概需要花四个小时。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-25T08:12:21Z",
+  "Author": "wanwan"
+}

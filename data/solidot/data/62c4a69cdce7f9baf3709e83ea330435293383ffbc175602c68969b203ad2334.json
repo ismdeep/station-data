@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家利用 CRISPR 编辑水稻 DNA 对抗病原体",
+  "Link": "https://www.solidot.org/story?sid=62440",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t东南亚和西非的水稻常感染白叶枯病，这是一种得到充分研究的农作物疾病，其病原体被称为 Xoo，代表 Xanthomonas oryzae pathovar oryzae，它的生存依赖于劫持水稻中输出糖的众多基因。现在科学家找到了方法\u003ca href=\"https://arstechnica.com/science/2019/10/crispr-used-to-edit-rice-dna-as-defense-against-pathogen/\"\u003e\u003cu\u003e编辑水稻的基因组去阻止此类的劫持\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.nature.com/articles/s41587-019-0267-z\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Nature Biotechnology》期刊上。Xoo 的 TALes 分子绑定了水稻 SWEET 基因附近的 DNA，研究人员认为可以修改 SWEET 基因去抵抗 Xoo。他们使用  CRISPR 编辑了三个 SWEET 基因附近的 DNA，主要针对 TALe 插入的 DNA 序列。结果显示，基因工程的水稻能抵抗所有已知的 Xoo 菌株。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-31T09:40:24Z",
+  "Author": "ai"
+}

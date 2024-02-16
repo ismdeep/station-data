@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "systemd 更新引入了 Windows 的蓝屏死机",
+  "Link": "https://www.solidot.org/story?sid=76834",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 臭名昭著的蓝屏死机（BSOD）进入到了 Linux 世界。BSOD 其实是一个展示错误信息的诊断工具，只不过早期 Windows  的 BSOD 代码太模糊而毫无意义。这并不意味着 BSOD 本身是一个糟糕的主意。Linux 的初始化工具 systemd 释出了 v255 版本，引入了一个实验性的组件 systemd-bsod，当 Linux 系统发生引导错误，它会显示一个显示错误代码的全屏信息（即 BSOD），和 Windows 的 BSOD 类似，它也会生成二维码，方便在手机上查找。systemd 的作者 Lennart Poettering 如今在为微软工作。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/systemd-255\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-08T06:40:14Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "高危漏洞允许攻击者控制数百万计的 Android 设备",
+  "Link": "https://www.solidot.org/story?sid=71331",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Check Point 的研究人员\u003ca href=\"https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used-vulnerable-audio-decoder-2-3-of-android-users-privacy-around-the-world-were-at-risk/\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一个高危漏洞\u003ca href=\"https://arstechnica.com/information-technology/2022/04/critical-bug-could-have-let-hackers-commandeer-millions-of-android-devices/\"\u003e\u003cu\u003e允许\u003c/u\u003e\u003c/a\u003e攻击者控制数百万计的 Android 设备。该漏洞属于越界漏洞，存在于 ALAC—Apple Lossless Audio Codec—编解码器中。ALAC 是苹果在 2004 年推出的音频格式，用于提供无损音频。苹果多年来一直在更新自己的私有版本修复安全漏洞，而高通和联发科则使用了一个开源版本，但这个开源版本自 2011 年以来就没有更新过。绝大部分 Android 设备都使用高通或联发科的移动芯片组。黑客可利用该漏洞强迫解码器执行恶意代码。研究人员估计 2021 年销售的智能手机中有三分之二存在该漏洞。高通和联发科去年就释出了补丁，如果 Android 设备的最新补丁是在 2021 年 12 月之后，那么漏洞已经修复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-22T15:07:52Z",
+  "Author": "WinterIsComing"
+}

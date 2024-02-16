@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伦敦帝国学院的新冠模型代码存在严重 bug",
+  "Link": "https://www.solidot.org/story?sid=64292",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在新冠疫情爆发的初期，伦敦帝国学院的 MRC 全球传染病分析中心曾多次做出被广泛报道的预测，而它的预测被认为也对政府的公共政策决策产生影响。但众所周知，科学家并非是出色的程序员，他们写的代码可能存在严重问题，而根据这些代码做出的研究显然也会存在严重问题，更不用说公共政策决策。MRC 全球传染病分析中心发布在 Github 上的 \u003ca href=\"https://github.com/mrc-ide/covid-sim\" target=\"_blank\"\u003e\u003cu\u003eCOVID-19 CovidSim 模型\u003c/u\u003e\u003c/a\u003e就被发现其代码有严重缺陷，有软件开发者\u003ca href=\"https://github.com/mrc-ide/covid-sim/issues/165\"\u003e\u003cu\u003e呼吁\u003c/u\u003e\u003c/a\u003e撤回所有基于这些代码的论文。科学家则感到被程序员的出言不逊冒犯了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-07T12:13:06Z",
+  "Author": "WinterIsComing"
+}

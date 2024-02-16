@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Visual Studio 2022 的首个公开预览版将在夏天发布",
+  "Link": "https://www.solidot.org/story?sid=67538",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Visual Studio 2022 的首个公开预览版将在夏天发布。微软开发部门的产品副总裁 Amanda Silver 在官方博客中称，Visual Studio 2022 将是 64 位，devenv.exe 主进程不再受限于 4GB 内存；调整了用户界面，旨在降低复杂度减少认知负担；更容易个性化；完整支持 .NET 6；支持 C++20 语言特性，整合支持 CMake、Linux 和 WSL；Live Share 整合了文字聊天；改进 AI IntelliCode 引擎；支持 Git 和 GitHub；改进代码搜索，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T02:19:01Z",
+  "Author": "WinterIsComing"
+}

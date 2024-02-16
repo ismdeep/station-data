@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软以避免混淆为由移除手动推迟 Windows Update",
+  "Link": "https://www.solidot.org/story?sid=64777",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对于 Windows 10 企业版用户，微软允许他们推迟更新 365 天，结果是许多设备真的是一年更新一次。微软刚刚更新了\u003ca href=\"https://docs.microsoft.com/zh-cn/windows/whats-new/whats-new-windows-10-version-2004\"\u003e\u003cu\u003e文档\u003c/u\u003e\u003c/a\u003e，宣布从上个月释出的  Windows 10 2004/May Update 起，它从 Windows 更新设置的高级选项中\u003ca href=\"https://www.zdnet.com/article/microsoft-removes-manual-deferrals-from-windows-update-by-it-pros-to-prevent-confusion/\" target=\"_blank\"\u003e\u003cu\u003e移除了暂停更新\u003c/u\u003e\u003c/a\u003e，理由是为了避免造成混淆。企业用户仍然可以暂停更新，但方法要比以前更为复杂，需要通过本地组策略（计算机配置 \u0026gt; 管理模板 \u0026gt; windows \u0026gt; Windows update For Business \u0026gt; windows update For Business \u0026gt; 在收到 \u0026#34;预览版和功能更新\u0026#34; 时选择何时接收或选择接收质量更新）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-27T13:15:20Z",
+  "Author": "WinterIsComing"
+}

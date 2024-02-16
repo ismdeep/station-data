@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 从下个月开始用 main 替代 master",
+  "Link": "https://www.solidot.org/story?sid=65593",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub \u003ca href=\"https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e从下个月开始，用户创建的新代码库将用 main 替代 master 作为默认的分支。现有的库将保持不变，默认分支继续使用 master。GitHub 此举旨在清除对奴隶制的不必要引用，改用更具有包容性的术语。GitHub 表示，新的中性术语将从 2020 年 10 月 1 日启用。它表示，重命名现有代码库的默认分支面临许多挑战，到今年年底它将让现有代码库默认分支的重命名变得更顺畅。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-20T14:00:04Z",
+  "Author": "WinterIsComing"
+}

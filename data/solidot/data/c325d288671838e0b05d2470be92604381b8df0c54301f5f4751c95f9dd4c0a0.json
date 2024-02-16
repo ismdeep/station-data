@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软招募 Rust 开发者重写核心 C# 代码",
+  "Link": "https://www.solidot.org/story?sid=77276",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正在招募 Rust 开发者去重写核心 C# 代码。微软招募的职位隶属于 Microsoft 365 Core Platform 旗下的 Substrate App Platform 组，该组从事微软云服务的幕后工作。 微软称，它正在组建一个团队去现代化其平台服务。软件巨人早就表达了对 Rust 的兴趣，Windows 操作系统安全总监 David \u0026#34;dwizzle\u0026#34; Weston 去年初表示  Rust 代码已经进入了 Windows 内核。Rust 是一种高性能、内存安全语言，而软件项目的大部分漏洞都属于内存安全 bug。自 2006 年以来微软在 Windows 中修复的漏洞大约七成是内存安全漏洞。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/?td=rt-3a\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-02-01T09:26:12Z",
+  "Author": "Wilson"
+}

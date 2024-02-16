@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "我们是否不再需要 VPN",
+  "Link": "https://www.solidot.org/story?sid=70235",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数百万人仍在使用 VPN 加密位置和网络流量。但网络安全专家\u003ca href=\"https://it.slashdot.org/story/22/01/02/2143256/nbc-you-probably-dont-need-to-rely-on-a-vpn-anymore\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，在现代互联网上，大多数人可以安全地弃用 VPN，这要归功于加密技术的广泛使用使公共网络连接的安全风险大大降低。加州大学伯克利分校的网络安全讲师 Nicholas Weaver 表示：“从安全的角度看，大多数商业 VPN 都是骗人的。它们根本没有提高你的安全性……” 大多数浏览器最近几年悄悄地增加了一层安全措施，用名为 HTTPS 的技术自动加密大多数站点的互联网流量。URL地 址栏前的小锁标志着 HTTPS，它的存在意味着诈骗者或者黑客蹲守在公共 Wi-Fi 连接上观察人们互联网习惯这种令人担忧的场景不会出现了。Weaver 表示，虽然不清楚你所在的咖啡馆里是不是真的有黑客的威胁，但现在这肯定不是一种重大的危险了。他表示：“请记住，在咖啡馆攻击你的人基本上必须也在咖啡馆里。”他表示：“我不知道除了恶作剧之外真的出现过这种情况。现在大多数网站都使用 HTTPS，所以这些都无关紧要了。”\u003cbr/\u003e\n\u003cbr/\u003e\nVPN 仍然有一些有效的用途。它们是绕过审查的工具，不过也有其他的选项，例如 Tor Browse，这是一种免费的网络浏览器，可以自动重新路由用户的流量，并受到网络安全专家的广泛赞誉。VPN 对于需要员工远程登录其内部网络的企业来说也至关重要。它们是一种流行且有效的方式，可以观看仅限于特定国家的流媒体服务上的电视节目和电影。但与防病毒软件一样，付费 VPN 行业是一个蓬勃发展的\u003ca href=\"https://www.alliedmarketresearch.com/virtual-private-network-market\" target=\"_blank\"\u003e\u003cu\u003e全球市场\u003c/u\u003e\u003c/a\u003e，尽管其核心使命对许多人来说不再是必需。大多数 VPN 在营销中都将其产品作为一种安全工具。本月早些时候发布的一份\u003ca href=\"https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/\"\u003e\u003cu\u003e消费者调查报告\u003c/u\u003e\u003c/a\u003e发现，16 家最大的 VPN 中有12家在安全优势方面做出了夸大声明或误导了客户。有些 VPN 做得更糟糕，要么是将客户的浏览历史出手给数据掮客，要么就是网络安全性很差。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-04T10:12:46Z",
+  "Author": "wanwan"
+}

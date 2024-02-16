@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NetBSD 9.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63561",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNetBSD 操作系统第 17 个大版本 \u003ca href=\"https://www.netbsd.org/releases/formal-9/NetBSD-9.0.html\" target=\"_blank\"\u003e\u003cu\u003eNetBSD 9.0\u003c/u\u003e\u003c/a\u003e 发布。该版本改进了硬件支持、质量控制、安全，引入了众多新特性，修复了大量 bug。其中包括：Arm64 支持，改进虚拟化支持，内核地址空间布局随机化，GCC 7.4，GDB 8.3， LLVM 7.0.0，OpenSSL 1.1.1d， OpenSSH 8.0，sqlite 3.26.0，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-18T11:54:37Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 将开源代码库保存在北极洞穴",
+  "Link": "https://www.solidot.org/story?sid=62607",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t位于北极圈内的挪威斯瓦尔巴特群岛（Svalbard）将部分关闭的煤矿变成储存库来保存人类文明，如 Svalbard 全球种子库。除了保存实物，\u003ca href=\"https://www.bloomberg.com/news/features/2019-11-13/microsoft-apocalypse-proofs-open-source-code-in-an-arctic-cave\"\u003e\u003cu\u003e它甚至还保存软件之类的源代码\u003c/u\u003e\u003c/a\u003e。GitHub CEO Nat Friedman 于 10 月 24 日进入一个废弃的煤矿洞穴，将记录了 GitHub 开源代码的胶片盘放置在架子上。胶片由挪威公司 Piql AS 制造，表面有氧化铁粉涂层，Piql 称在正常条件下这种材料能保存 750 年，在寒冷干燥低氧洞穴内能保存 2000 年。GitHub 计划留下 200 张胶片盘，每张包含 120GB 的开源代码，首批储存了 Linux、Android 和其它 6000 个重要开源应用的代码。为了避免单点故障，GitHub 计划在世界各地保存开源代码库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-14T08:47:35Z",
+  "Author": "wenfeixiang"
+}

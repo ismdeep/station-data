@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软预览 .NET Hot Reload",
+  "Link": "https://www.solidot.org/story?sid=67885",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在开发者大会上\u003ca href=\"https://www.theregister.com/2021/05/27/microsoft_previews_hot_reload_for/\" target=\"_blank\"\u003e\u003cu\u003e预览了 .NET Hot Reload\u003c/u\u003e\u003c/a\u003e，允许开发者对正在运行的应用程序直接应用源代码变更，无需去手动暂停运行的应用程序。.NET Hot Reload 支持最新的 Visual Studio 预览版（Visual Studio 2019 version 16.11 Preview 1）或 .NET 6 Preview 4 ，支持的项目类型包括  WPF、Windows Forms 和 .NET MAUI 等。微软\u003ca href=\"https://www.theregister.com/2021/05/27/microsoft_previews_hot_reload_for/\"\u003e\u003cu\u003e还宣布\u003c/u\u003e\u003c/a\u003e  .NET 6 将在 11 月 9 日正式发布。.NET 6 是在统一了  .NET Framework 和 .NET Core 之后发布的第一个长期支持版本，将提供三年的支持，新特性包括重写了  FileStream，EventPipe，占用更少内存的精简 API，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-27T13:43:58Z",
+  "Author": "WinterIsComing"
+}

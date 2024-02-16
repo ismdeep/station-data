@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 被发现对其加密进行虚假宣传",
+  "Link": "https://www.solidot.org/story?sid=64032",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因新冠疫情，Zoom 被数以百万计的人用于举行远程会议。但其安全性也日益引起关注。加拿大多伦多大学公民实验室的研究人员\u003ca href=\"https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/\" target=\"_blank\"\u003e\u003cu\u003e对软件进行了逆向工程\u003c/u\u003e\u003c/a\u003e，发现该公司在加密方案上有虚假宣传。Zoom 称其会议使用 AES-256 加密，但实际上只在 ECB 模式下使用了简单的 AES-128 密钥，密钥由 Zoom 的服务器产生，在某些情况下密钥由来自中国的服务器产生。它还声称使用端对端加密，但事实上距离真正的端对端加密\u003ca href=\"https://blog.cryptographyengineering.com/2020/04/03/does-zoom-use-end-to-end-encryption/\"\u003e\u003cu\u003e还比较遥远\u003c/u\u003e\u003c/a\u003e，该公司对端对端加密的定义与通常的定义有差距。Zoom 虽然是一家硅谷公司，但在中国有三家公司至少 700 名雇员从事软件工作工作，三家公司的名字都叫软视软件。Zoom 的 SEC 文件显示它的收入中有 81% 来自北美。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-04T14:18:16Z",
+  "Author": "WinterIsComing"
+}

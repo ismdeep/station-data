@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "阿里巴巴开源 Wujian100",
+  "Link": "https://www.solidot.org/story?sid=62314",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t官媒\u003ca href=\"https://www.thepaper.cn/newsDetail_forward_4733409\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，阿里巴巴旗下半导体公司平头哥宣布开源其低功耗微控制芯片（MCU）设计平台 \u003ca href=\"https://github.com/T-head-Semi/wujian100_open\"\u003e\u003cu\u003ewujian100\u003c/u\u003e\u003c/a\u003e，基础硬件代码和配套软件代码发布在 GitHub 上，\u003ca href=\"https://github.com/T-head-Semi/wujian100_open/blob/master/LICENSE\"\u003e\u003cu\u003e采用 MIT 许可证\u003c/u\u003e\u003c/a\u003e。报道称，wujian100_open 平台包含处理器、基础接口 IP、操作系统、软件驱动和开发工具等模块，搭载基于 RISC-V 架构的玄铁 902 处理器，提供多种 IP 以及驱动，能让用户快速集成、快速验证，减少基础模块开发成本。后续还将开放更多 IP 和玄铁处理器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T10:51:16Z",
+  "Author": "wenfeixiang"
+}

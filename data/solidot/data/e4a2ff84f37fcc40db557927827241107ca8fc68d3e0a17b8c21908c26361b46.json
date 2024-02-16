@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "假的广告屏蔽应用用广告轰炸用户",
+  "Link": "https://www.solidot.org/story?sid=62651",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003cdiv align=\"center\"\u003e\u003cimg src=\"https://img.solidot.org/0/911/liUFbcrZWUM5E.png\" width=\"225\" height=\"400\" align=\"\"/\u003e\u003cbr/\u003e\n\u003cbr/\u003e\n\u003c/div\u003e\n一种假的广告屏蔽应用\u003ca href=\"https://arstechnica.com/information-technology/2019/11/absolutely-relentless-ad-blocker-plasters-users-with-you-guessed-it-ads/#p3\" target=\"_blank\"\u003e\u003cu\u003e正在用广告轰炸用户\u003c/u\u003e\u003c/a\u003e，而让许多用户沮丧的是不知道怎么卸载它。名叫 Ads Blocker 的应用利用了多种技巧偷偷的持续用广告轰炸用户。首先它简单要求用户权限在其它应用上显示，其次它要求设置 VPN 连接监视网络流量，第三它寻求权限在主屏添加  widget。申请  VPN 连接是部分合法广告屏蔽工具的标准要求， 但这允许  Ads Blocker 一直在后台运行，组合在其它应用上显示的权限它可以随心所欲的展示广告。Ads Blocker 没有图标，在应用设置里也看不到 Ads Blocker 的信息，因为它用白盒子掩盖了名字（如图所示），让许多用户不知道怎么卸载它。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-18T12:11:24Z",
+  "Author": "wenfeixiang"
+}

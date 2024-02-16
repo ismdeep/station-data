@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 实验功能导致浏览器标签崩溃",
+  "Link": "https://www.solidot.org/story?sid=62625",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 的一项实验功能导致浏览器标签\u003ca href=\"https://www.zdnet.com/article/google-chrome-experiment-crashes-browser-tabs-impacts-companies-worldwide/\"\u003e\u003cu\u003e发生崩溃\u003c/u\u003e\u003c/a\u003e，全世界有大量企业受波及。问题持续了两天，没有影响所有 Chrome 用户，而是主要影响运行在 Windows Server terminal server 设置——这是企业网络中非常常见的设置——下的 Chrome 浏览器。数以百计的用户通过 Google 支持论坛\u003ca href=\"https://support.google.com/chrome/thread/19713332?hl=en\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，雇员使用的 Chrome 标签突然变成空白，这一错误被称为“白屏死亡”。一位使用 Costco 邮箱地址的系统管理员称，崩溃影响了所有呼叫中心的工作人员，他们无法再与客户进行聊天。另一名系统管理员称其公司有 4000 雇员受影响，还有一人称影响到了数百人。导致标签崩溃的原因已经找到，是 Chrome 名叫 WebContents Occlusion 的实验功能：当用户移动到另一个应用窗口时，将 Chrome 当前活动标签作为背景标签暂停其活动减少资源占用。Google 是在周二早晨在稳定版 Chrome 启用该功能，结果 bug 导致  terminal server 设置下的 Chrome 标签发生崩溃。一位愤怒的系统管理员说，“我们不是你们的实验鼠。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-15T10:49:33Z",
+  "Author": "wenfeixiang"
+}

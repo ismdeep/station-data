@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "JavaScript 是否应该重命名",
+  "Link": "https://www.solidot.org/story?sid=62395",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在诞生 25 年之后，\u003ca href=\"https://en.wikipedia.org/wiki/JavaScript\"\u003e\u003cu\u003eJavaScript 语言\u003c/u\u003e\u003c/a\u003e仍然让很多人困惑不已。所以一个老生常谈的问题是：\u003ca href=\"https://developers.slashdot.org/story/19/10/26/032235/should-javascript-be-renamed\"\u003e\u003cu\u003e它是否应该重命名\u003c/u\u003e\u003c/a\u003e？呼吁改名的支持者列举了一系列理由，包括：JavaScript 本意指的是 ECMAScript 的子集，但使用中它经常被指代多种不同的 ECMAScript 超集；JavaScript 是甲骨文公司的商标，这与 JavaScript 作为 Web 平台核心组件的身份不相符合，Web 平台是建立在开放技术和标准基础上的；JavaScript 连官方 logo 都没有；JavaScript 与 Java 没有一点关系，几十年来它给非技术人员造成了混淆。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-28T09:26:51Z",
+  "Author": "wenfeixiang"
+}

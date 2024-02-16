@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 与 Mozilla 达成交易",
+  "Link": "https://www.solidot.org/story?sid=70317",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Ubuntu 的 Linux Mint 发行版与 Mozilla \u003ca href=\"https://linux.slashdot.org/story/22/01/10/1930243/linux-mint-sells-out-for-mozilla-money\" target=\"_blank\"\u003e\u003cu\u003e达成了\u003c/u\u003e\u003c/a\u003e一笔未披露金额的交易，目的是修改 Linux Mint 上的 Firefox 配置。从 Linux Mint 19 开始，Firefox 的默认起始页将不再指向 https://www.linuxmint.com/start/，默认搜索引擎不再是 Linux Mint 的搜索合作伙伴如 Yahoo 和 DuckDuckGo，而是 Mozilla 的搜索合作伙伴如 Google、Amazon、Bing、DuckDuckGo、Ebay...默认配置切换到 Mozilla 默认。Firefox 的代码更新也将都由 Mozilla 负责。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T05:40:28Z",
+  "Author": "WinterIsComing"
+}

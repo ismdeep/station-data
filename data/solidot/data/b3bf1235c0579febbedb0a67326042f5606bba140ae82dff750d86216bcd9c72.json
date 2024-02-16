@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 回应 Google 的 Manifest v3 提议",
+  "Link": "https://www.solidot.org/story?sid=61965",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的 Manifest v3 提议引发了广泛的\u003ca href=\"https://www.solidot.org/story?sid=61605\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e。Manifest v3 是 Google Chrome 下一个版本的扩展 API，当前版本是 V2。Mozilla 称 Firefox 的扩展系统 WebExtensions API 接近 100% 兼容 V2，扩展开发者可以很容易开发支持两种浏览器的扩展。2018 年 11 月，Google 提议更新 API，新的扩展 API 包含了许多不兼容于 V2 的变化，将需要扩展开发者采取行动去维持兼容性。Manifest v3 的一大变化是用 declarativeNetRequest API 取代了 webRequest API，并对规则的数量设置了上限，这一限制影响到了广告屏蔽工具在内的各种扩展，部分开发者已经表示他们考虑不再维护其扩展。Mozilla 称，因为缺乏浏览器扩展标准，维持与 Chrome 扩展的兼容性对于 Firefox 的开发者和用户至关重要，但 Firefox 并没有义务去实现 V3 的每一部分，V2 中的一部分它就没有去实现。对于 V3，\u003ca href=\"https://blog.mozilla.org/addons/2019/09/03/mozillas-manifest-v3-faq/\"\u003e\u003cu\u003eMozilla 近期没有计划移除 webRequest API\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-04T08:31:54Z",
+  "Author": "wenfeixiang"
+}

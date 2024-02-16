@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员提取出英特尔 CPU 微码更新密钥",
+  "Link": "https://www.solidot.org/story?sid=65949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://arstechnica.com/gadgets/2020/10/in-a-first-researchers-extract-secret-key-used-to-encrypt-intel-cpu-code/\"\u003e\u003cu\u003e提取出\u003c/u\u003e\u003c/a\u003e英特尔 CPU 微码更新的密钥。CPU 的微码更新主要用于修复安全漏洞和其它类型的 bug。拥有解密微码更新的密钥将允许黑客逆向工程，了解微码更新修复了哪些漏洞。它还可以允许攻击者创造恶意的微码更新，然后加载到 CPU 上，但由于缺乏签名，这种恶意微码更新在重启之后就会失效。独立研究员 Maxim Goryachy 与安全公司 Positive Technologies 的两名研究员 Dmitry Sklyarov 和 Mark Ermolov 合作完成了这一壮举，Goryachy 称这是英特尔处理器历史上第一次你可以执行你的微码和对微码更新进行分析。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-30T03:03:17Z",
+  "Author": "WinterIsComing"
+}

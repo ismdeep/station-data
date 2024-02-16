@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 在漏洞披露 7 小时后修复了 Gmail Bug",
+  "Link": "https://www.solidot.org/story?sid=65313",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 曾制定了一条著名的规定：修一个漏洞给 90 天时间足够了，超过这个时间期限可以公开漏洞。现在我们知道，这个规定只适用于其他公司，不适用于 Google。安全研究员 Allison Husain 在 4 月份向 Google 报告了一个漏洞，该漏洞允许攻击者模仿任何 Gmail 或 G Suite 客户发送欺骗性邮件。但 Goolge 没有在 90 天时间内修复漏洞，它计划的修复时间是在 9 月份，也就是在漏洞报告 5 个月之后。8 月 19 日，Husain 在其个人博客上\u003ca href=\"https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e漏洞细节，包括 POC 漏洞利用代码。Google 开发者在漏洞公开 7 个小时后给 Gmail  打了补丁\u003ca href=\"https://www.zdnet.com/article/google-fixes-major-gmail-bug-seven-hours-after-exploit-details-go-public/\" target=\"_blank\"\u003e\u003cu\u003e阻止漏洞被利用\u003c/u\u003e\u003c/a\u003e，但完整补丁将在 9 月份部署。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-21T07:58:40Z",
+  "Author": "WinterIsComing"
+}

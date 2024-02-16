@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 M3 Pro 的内存带宽比 M1/M2 Pro 少四分之一",
+  "Link": "https://www.solidot.org/story?sid=76504",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果本周宣布的新一代 M3 系列处理器被发现在多个版本的规格上低于前两代的同类产品。M3 是全球首批使用台积电 3 纳米工业制造的芯片，其中 M3 Pro SoC 的内存带宽为 150GB/s，相比下 M1 Pro 和 M2 Pro 的内存带宽为 200GB/s；M3 Pro 的 12 核 CPU 包含了 6 个性能核心和 6 个效率核心，GPU 有 18 个核心，相比下 M2 Pro 的 12 核 CPU包含了 8 个性能核心和 4 个效率核心，GPU 有 19 个核心。不太清楚苹果为什么会降低规格，可能是新的统一内存架构，或者是台积电 3 纳米工艺的产量问题。降低规格是否会影响性能还需要等到产品正式上市之后才会知道。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://apple.slashdot.org/story/23/10/31/1613223/apple-m3-pro-chip-has-25-less-memory-bandwidth-than-m1m2-pro\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-01T12:33:21Z",
+  "Author": "Wilson"
+}

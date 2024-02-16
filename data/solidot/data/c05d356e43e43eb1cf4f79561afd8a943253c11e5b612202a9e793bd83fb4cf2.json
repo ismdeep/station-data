@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.6 发布",
+  "Link": "https://www.solidot.org/story?sid=63965",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wi9ZT7Stg-uSpX0UWQzam6OP9Jzz6Xu1CkYu1cicpD5OA@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.6。Torvalds 称，他没有看到内核开发受到新冠疫情影响的迹象，大部分人可能早就习惯了在家远程工作。他估计 Linux 5.7 的发布不太会有变动，但有人错过合并窗口还是可能的，毕竟合并窗口没有你或你周围的人的健康更重要。Linux 5.6 的特性包括：Arm EOPD 支持，\u003ca href=\"https://lwn.net/Articles/766089/\" target=\"_blank\"\u003e\u003cu\u003e时间命名空间\u003c/u\u003e\u003c/a\u003e，\u003cu\u003eBPF 调度器和批映射操作\u003c/u\u003e，openat2() 系统调用，WireGuard  VPN 实现，流队列 PIE 包调度器，2038 年问题接近解决，pidfd_getfd()系统调用，ZoneFS 文件系统，BPF TCP 拥堵控制算法实现，移除 /dev/random blocking pool 等等。具体可阅读 \u003ca href=\"https://kernelnewbies.org/Linux_5.6\"\u003e\u003cu\u003eKernelNewbies\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://lwn.net/Articles/816213/rss\"\u003e\u003cu\u003eLWN\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-30T02:55:15Z",
+  "Author": "WinterIsComing"
+}

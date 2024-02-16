@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 本月更新 KB5033375 破坏了部分设备的 Wi-Fi 连接",
+  "Link": "https://www.solidot.org/story?sid=76925",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周释出的 Windows 11 例行更新 KB5033375 破坏了部分 Windows 11 设备的 Wi-Fi 连接。用户在 Reddit、Twitter 和微软的社区平台报告了问题，多所大学还发表声明建议学生卸载 KB5033375。问题主要影响启用了快速转换/快速漫游的企业无线网络，家用无线网络基本未受影响。此外，问题主要影响 Windows 11 v22H2 或 v23H2，Windows 10 基本未受影响。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-19T10:51:07Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 SGX 再次被打败",
+  "Link": "https://www.solidot.org/story?sid=66066",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://arstechnica.com/information-technology/2020/11/intel-sgx-defeated-yet-again-this-time-thanks-to-on-chip-power-meter/\"\u003e\u003cu\u003e找到了\u003c/u\u003e\u003c/a\u003e新方法远程窃取英特尔 CPU 的密钥，即使 CPU 启用了 SGX（software guard extensions）。最新的攻击被称为 \u003ca href=\"https://platypusattack.com/\"\u003e\u003cu\u003ePLATYPU\u003c/u\u003e\u003c/a\u003e，能通过 Running Average Power Limit（RAPL）远程利用发动旁路攻击。RAPL 是英特尔的接口，用于监控通过 CPU 和内存的能流。研究人员发现，利用 RAPL 能获得有关指令和数据流的足够多线索，从而推断出 CPU 加载的值，泄露 SGX 保管的加密密钥，挫败 ASLR（地址空间布局随机化），建立一个秘密通道悄悄窃取数据。英特尔始于 Sandy Bridge 架构的 CPU 都存在该漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-11T11:42:37Z",
+  "Author": "WinterIsComing"
+}

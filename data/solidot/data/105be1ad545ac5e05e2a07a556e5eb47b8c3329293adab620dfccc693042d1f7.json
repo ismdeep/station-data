@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Garmin 支付赎金解密其服务",
+  "Link": "https://www.solidot.org/story?sid=65076",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t智能手表和可穿戴设备制造商 Garmin \u003ca href=\"https://www.garmin.com/zh-CN/outage/\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e它在 7 月 23 日遭到了勒索软件攻击，部分系统被加密，导致多个在线服务受到影响，它强调“目前没有任何迹象显示任何用户数据（包括 Garmin Pay 的付款资料）被非法访问，丢失或被盗用”，而“中国大陆服务器并未受到此次事件的影响”。Sky News 援引消息来源\u003ca href=\"https://news.sky.com/story/garmin-obtains-decryption-key-after-ransomware-attack-12036761\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，Garmin 支付了赎金获得了解密密钥解密其服务。Garmin 受到的是勒索软件 \u003ca href=\"https://blog.malwarebytes.com/threat-spotlight/2020/07/threat-spotlight-wastedlocker-customized-ransomware/\"\u003e\u003cu\u003eWastedLocker\u003c/u\u003e\u003c/a\u003e 的攻击，它被认为是俄罗斯黑客组织 Evil Corp 开发的，该组织去年 12 月被美国财政部纳入了制裁清单，禁止任何美国人与该犯罪组织有任何交易。Garmin 做法违反了美国的禁令。Garmin 是在纳斯达克上市的跨国公司，消息来源称该公司是通过第三方而不是直接向黑客支付赎金的。Garmin 拒绝对这一报道置评。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-28T12:23:11Z",
+  "Author": "WinterIsComing"
+}

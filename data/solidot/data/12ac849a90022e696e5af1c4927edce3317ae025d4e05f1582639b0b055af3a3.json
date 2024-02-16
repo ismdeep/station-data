@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微信、QQ、淘宝等应用被发现频繁读取用户相册",
+  "Link": "https://www.solidot.org/story?sid=69165",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果最新发布的 iOS 15 提供了记录 APP 活动的隐私功能，而苹果用户随后注意到微信、QQ、淘宝等多款国内应用会频繁读取用户相册。以微信为例，在用户未主动激活应用的情况下，在后台数次读取相册，每次读取时间长达 40 秒至 1 分钟不等。微信随后回应称，iOS 系统为 APP 开发者提供相册更新通知标准能力，相册发生内容更新时会通知到 APP，提醒 APP 可以提前做准备，APP 的该准备行为会被记录成读取系统相册。当用户授权微信可以读取“系统相册权限”的前提后，为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力，使用户发送图片体验更快速流畅。微信\u003ca href=\"https://finance.sina.com.cn/wm/2021-10-09/doc-iktzscyx8657350.shtml\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，最新版本中将取消对该系统能力的使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-09T04:28:01Z",
+  "Author": "WinterIsComing"
+}

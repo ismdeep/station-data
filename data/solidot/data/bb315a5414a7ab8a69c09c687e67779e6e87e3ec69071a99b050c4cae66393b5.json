@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux kernel 5.4 发布",
+  "Link": "https://www.solidot.org/story?sid=62725",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核开发者邮件列表上\u003ca href=\"https://lkml.org/lkml/2019/11/24/187\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.4。主要新特性包括：\u003ca href=\"https://lwn.net/Articles/791863/\" target=\"_blank\"\u003e\u003cu\u003e内核锁定模式\u003c/u\u003e\u003c/a\u003e， haltpoll CPU 调节器，iocost I/O 控制器，EROFS 文件系统，\u003ca href=\"https://lwn.net/Articles/790185/\" target=\"_blank\"\u003e\u003cu\u003efs-verity\u003c/u\u003e\u003c/a\u003e 文件完整性机制，dm-clone 设备映射器对象，新的随机数生成器，virtiofs 文件系统，内核符号命名空间，支持英特尔/AMD 新显卡，等等，\u003ca href=\"https://kernelnewbies.org/Linux_5.4\"\u003e\u003cu\u003e更多\u003c/u\u003e\u003c/a\u003e可浏览 kernelnewbies。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-25T04:43:43Z",
+  "Author": "WinterIsComing"
+}

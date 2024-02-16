@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目发布 2020-2021 年度报告",
+  "Link": "https://www.solidot.org/story?sid=71884",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目\u003ca href=\"https://blog.torproject.org/2020-2021-annual-report/\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 2020-2021 \u003ca href=\"https://www.torproject.org/static/findoc/2020-2021-TorProject-Annual-Report.pdf\"\u003e\u003cu\u003e年度报告\u003c/u\u003e\u003c/a\u003e（PDF）。过去一年最鼓舞人心的一件事是俄罗斯通信监管机构 Roskomnadzor 打击 VPN 使用，去年 12 月开始大规模屏蔽 Tor 节点，俄罗斯用户占到了 Tor 用户数的 15%，社区随后立即展开行动，短时间内增加了 1200 个网桥，确保俄罗斯用户能继续使用 Tor 网络。年度报告还谈论了 2022 年的计划，其中包括：开发独立的 Tor 移动客户端允许用户将所有移动流量通过 Tor 网络；用 Rust 语言重写 Tor 的 Arti 项目将发布 1.0 版本。Tor 项目的大部分资金来自于美国政府（占 38%）和个人捐赠（占 36%），87% 的支出投入在项目开发上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-20T09:59:51Z",
+  "Author": "WinterIsComing"
+}

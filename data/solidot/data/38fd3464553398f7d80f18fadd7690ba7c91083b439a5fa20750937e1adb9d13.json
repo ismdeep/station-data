@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 7.2 发布",
+  "Link": "https://www.solidot.org/story?sid=73126",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenBSD 发行版的第 53 个版本 \u003ca href=\"https://www.openbsd.org/72.html\"\u003e\u003cu\u003ev7.2 \u003c/u\u003e\u003c/a\u003e释出。主要新变化包括：支持新平台如 Ampere Altra、苹果 M2，联想 ThinkPad x13s 和其它使用高通 Snapdragon 8cx Gen 3 (SC8280XP)SoC 的设备；多项内核改进，SMP 改进，更新 drm(4) 到 Linux 5.15.69，等等，更多可浏览\u003ca href=\"https://marc.info/?l=openbsd-announce\u0026amp;m=166627392720815\u0026amp;w=2\" target=\"_blank\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-21T05:48:19Z",
+  "Author": "WinterIsComing"
+}

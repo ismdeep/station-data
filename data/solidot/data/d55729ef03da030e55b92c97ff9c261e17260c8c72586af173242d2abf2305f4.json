@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 95.0 释出",
+  "Link": "https://www.solidot.org/story?sid=69914",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/95.0/releasenotes/\"\u003e\u003cu\u003eFirefox 95.0\u003c/u\u003e\u003c/a\u003e。主要变化包括：新沙盒技术 RLBox；用户现在可以从微软应用商店 Microsoft Store \u003ca href=\"https://support.mozilla.org/kb/download-firefox-windows-microsoft-store\"\u003e\u003cu\u003e下载\u003c/u\u003e\u003c/a\u003e Firefox；减少了 macOS 下的 CPU 占用和解码视频的功耗；网站隔离功能默认启用以抵御 Spectre 之类的边信道攻击；Bug 修复等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-08T03:26:18Z",
+  "Author": "WinterIsComing"
+}

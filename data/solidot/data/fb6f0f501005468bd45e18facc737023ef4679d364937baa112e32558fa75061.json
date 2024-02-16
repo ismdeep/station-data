@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 Safari 的安全浏览功能使用了腾讯的服务",
+  "Link": "https://www.solidot.org/story?sid=62225",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果 iOS 版 Safari 浏览器\u003ca href=\"https://blog.cryptographyengineering.com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e会向中国互联网巨头腾讯的服务器发送用户浏览的网址。作为浏览器安全浏览（Safe Browsing）功能的一部分，为阻止和识别钓鱼或其它欺诈性网站，Safari 会向 Google 和腾讯的 Safe Browsing 服务发送网址进行检查。向腾讯 Safe Browsing 发送网址可能只限于中国大陆地区，但苹果向其他国家的用户展示警告信息称它会向 Google 和腾讯发送网址。苹果的做法引发了隐私方面的担忧，因为腾讯在很大程度上被认为不值得信任。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-14T04:42:58Z",
+  "Author": "wenfeixiang"
+}

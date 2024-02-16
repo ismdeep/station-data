@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Let’s Encrypt 推出繁体中文版",
+  "Link": "https://www.solidot.org/story?sid=61841",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"/~匿名\"\u003e匿名\u003c/a\u003e 写道\u003ci\u003e \u0026#34;旨在让每个网站都能使用 HTTPS 加密的非赢利组织 Let\u0026#39;s Encrypt 发布了\u003ca href=\"https://letsencrypt.org/zh-tw/\" target=\"_blank\"\u003e\u003cu\u003e繁体中文版\u003c/u\u003e\u003c/a\u003e，方便中文用户使用 Let\u0026#39;s Encrypt 签发的证书 。繁体中文版主要是替换了简体中文版的部分词语，而文档实际上还没有完成翻译，感兴趣的志愿者可以\u003ca href=\"https://github.com/letsencrypt/website\"\u003e通过 GitHub\u003c/a\u003e 帮助它翻译网站文档。Let\u0026#39;s Encrypt 目前支持包括中文在内的多种语言，它的证书已获得了主要浏览器开发商的信任。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-25T13:48:05Z",
+  "Author": "WinterIsComing"
+}

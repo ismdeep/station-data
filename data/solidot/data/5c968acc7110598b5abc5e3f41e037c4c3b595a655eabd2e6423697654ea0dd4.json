@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布 Visual Studio 2022 和 .NET 6 正式版本",
+  "Link": "https://www.solidot.org/story?sid=69545",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/visualstudio/visual-studio-2022-now-available/\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 Visual Studio 2022 和 .NET 6 正式版本。Visual Studio 2022 是 Visual Studio 编译器首个 64 位版本，它将能更好的利用系统资源，将能长时间运行复杂的解决方案，早期测试显示  VS IDE 能持续运行数天，即使解决方案含有多达 700+ 项目。VS 2022 的新特性包含：AI 助手 \u003ca href=\"https://devblogs.microsoft.com/visualstudio/tag/intellicode/\"\u003eIntelliCode\u003c/a\u003e 能帮助用户自动补充数行代码；支持实时更新代码的 \u003ca tabindex=\"-1\" title=\"https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/\" href=\"https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Link Hot Reload\"\u003eHot Reload\u003c/a\u003e；\u003ca tabindex=\"-1\" title=\"https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/\" href=\"https://devblogs.microsoft.com/visualstudio/design-your-web-forms-apps-with-web-live-preview-in-visual-studio-2022/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Link Live Preview\"\u003eWeb Live Preview\u003c/a\u003e；Linux 上的跨平台测试；等等。更多可浏览\u003ca href=\"https://docs.microsoft.com/zh-cn/visualstudio/releases/2022/release-notes-preview\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-09T05:13:54Z",
+  "Author": "WinterIsComing"
+}

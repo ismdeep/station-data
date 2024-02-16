@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Dropbox 发布密码管理器",
+  "Link": "https://www.solidot.org/story?sid=65238",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDropbox \u003ca href=\"https://play.google.com/store/apps/details?id=com.dropbox.passwords_android\"\u003e\u003cu\u003e正式发布了\u003c/u\u003e\u003c/a\u003e它的密码管理器 Dropbox Passwords，支持 \u003ca href=\"https://play.google.com/store/apps/details?id=com.dropbox.passwords_android\"\u003eAndroid\u003c/a\u003e 个 \u003ca href=\"https://apps.apple.com/us/app/dropbox-passwords-by-invite/id1492511905\"\u003eiOS\u003c/a\u003e 。它的功能与其它密码管理器类似，支持一键登录应用和网站，在登录应用和网站时存储密码， 随时随地访问密码，并自动同步到所有设备，能生成随机的强密码。Dropbox 称，Passwords 利用零知识加密技术来保护登陆凭据，确保只有用户才能访问密码，而即使是 Dropbox 也无法访问。Passwords 提供给 Dropbox Plus 或 Professional 订阅用户，而另一项文件备份功能则提供给 Dropbox Basic、Plus 和 Professional 用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-13T11:10:21Z",
+  "Author": "WinterIsComing"
+}

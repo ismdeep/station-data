@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "88% 的 Firefox 用户屏蔽 Google Analytics",
+  "Link": "https://www.solidot.org/story?sid=68777",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox、Brave 和 Safari 等浏览器都会干扰 Google Analytics 和 Google Tag Manager 的跟踪，许多广告屏蔽扩展也都会屏蔽 Google 的跟踪程序。继续使用  Google Analytics 的网站可能不会收集到精确的访问数据。那么\u003ca href=\"https://plausible.io/blog/google-analytics-adblockers-missing-data\"\u003e\u003cu\u003e对 Google Analytics 的屏蔽程度究竟有多高\u003c/u\u003e\u003c/a\u003e？在对比了利用代理绕过屏蔽的 Plausible Analytics 和以及默认情况下的 Google Analytics 之后，统计结果显示：58% 的 Hacker News 读者、Reddit 用户及其他对精于技术的人员屏蔽了Google Analytics，相比普通用户对技术了解的访客更可能使用广告屏蔽工具和隐私友好的浏览器；68.2% 的笔记本和桌面用户屏蔽了 Google Analytics，移动和平板用户的比例为 49.9%；88.28% 的 Firefox 用户屏蔽 Google Analytics，Safari 用户只有 41.41%；82% 的 Linux 用户屏蔽 Google Analytics，iOS 用户为 41.5%...\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-01T15:00:35Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "donaldfeury.xyz",
+  "Title": "Get all the documents out of a collection in MongoDB",
+  "Link": "https://donaldfeury.xyz/get-all-the-documents-out-of-a-collection-in-mongodb/",
+  "Content": "\u003csection class=\"gh-content gh-canvas\"\u003e\n        \u003cp\u003eFor a full overview of MongoDB and all my posts on it, check out my \u003ca href=\"https://donaldfeury.xyz/introduction-to-mongodb/\"\u003eoverview\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eThe most simple way to read all the documents out of a collection in MongoDB is to use the \u003ccode\u003efind\u003c/code\u003e method on a collection.\u003c/p\u003e\u003cp\u003eLet\u0026#39;s say you have a collection in your database called \u003ccode\u003eusers\u003c/code\u003e. If you wanted to read all the documents out of it, you can do this:\u003c/p\u003e\u003cpre\u003e\u003ccode class=\"language-javascript\"\u003edb.users.find()\u003c/code\u003e\u003c/pre\u003e\u003cp\u003eThis will return a cursor that you can iterate over to get each document from the collection. Keep in mind, most tooling you can use to interact with your data will automatically do some iteration for you.\u003c/p\u003e\u003chr/\u003e\u003cp\u003eDid you find this information useful? If so, consider heading over to my \u003ca href=\"https://donaldfeury.xyz/donate/\"\u003edonation\u003c/a\u003e page and drop me some support.\u003c/p\u003e\u003cp\u003eWant to ask a question or just chat? Contact me \u003ca href=\"https://donaldfeury.xyz/contact\"\u003ehere\u003c/a\u003e\u003c/p\u003e\n    \u003c/section\u003e",
+  "Date": "2021-08-03T12:48:53Z",
+  "Author": "Donald Feury"
+}

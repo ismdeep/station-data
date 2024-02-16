@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果宣布类似 AMD FSR 和 Nvidia DLSS 的图像缩放技术",
+  "Link": "https://www.solidot.org/story?sid=71756",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在  WWDC 大会上，苹果\u003ca href=\"https://arstechnica.com/gaming/2022/06/metalfx-upscaling-will-bring-dlss-like-image-reconstruction-to-games-on-macos/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e类似 AMD FSR、英伟达 DLSS 和英特尔 XeSS 的图像缩放技术 MetalFX Upscaling，通过将较低分辨率的图像缩放为更高分辨率的图像去重建游戏图形。AMD 的 FSR（FidelityFX Super Resolution）已经发布了两代，并开源了相关代码。FSR 不同于英伟达的 Deep Learning Super Sampling (DLSS)，没有使用 AI 训练模型，而是采用传统图像处理算法，其优点是容易整合到游戏中。根据苹果的描述，MetalFX Upscaling 没有使用 AI，因此更接近 AMD FSR。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-07T11:26:32Z",
+  "Author": "WinterIsComing"
+}

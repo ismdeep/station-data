@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 AMD 等联合制定 Chiplet 间互联标准",
+  "Link": "https://www.solidot.org/story?sid=70842",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔、AMD、高通、Arm、台积电和三星等芯片行业巨头\u003ca href=\"https://arstechnica.com/gadgets/2022/03/intel-amd-and-other-industry-heavyweights-create-a-new-standard-for-chiplets/\" target=\"_blank\"\u003e宣布联合\u003c/a\u003e制定 Chiplet 处理器设计的开放互联标准 \u003ca href=\"https://www.uciexpress.org/specification\"\u003e\u003cu\u003eUniversal Chiplet Interconnect Express\u003c/u\u003e\u003c/a\u003e (UCIe)。英特尔和 AMD 等公司已经设计出或销售基于 Chiplet 的处理器，如 AMD 的 Ryzen CPU 和英特尔即将推出的 Sapphire Rapids Xeon 处理器。但这些芯片使用了不同的互联实现小芯片之间的通信。UCIe 将用单一的标准去替代不同的互联方法，让规模较小的企业能更容易的利用基于 Chiplet 的芯片设计，让一家公司能更容易的在产品中整合另一家公司的芯片，举例来说，在英特尔的 CPU 中封装 AMD 的 GPU。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-03T10:54:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 36 beta 释出",
+  "Link": "https://www.solidot.org/story?sid=71111",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://fedoramagazine.org/announcing-fedora-36-beta/\" target=\"_blank\"\u003e\u003cu\u003eFedora 36 beta \u003c/u\u003e\u003c/a\u003e释出，正式版预计将在 4 月底发布。Fedora 36 Workstation Beta 包括了刚刚发布的桌面环境 GNOME 42，GNOME 42 包含了一个全局的暗色风格 UI 设置，重新设计了屏幕截图工具，许多核心 GNOME 应用都切换到了最新的 GTK 工具箱，改进了性能和采用了现代的外观。轻量级桌面环境 LXQt 更新到了 1.0 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-30T14:18:22Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Moment.js 宣布进入遗留状态",
+  "Link": "https://www.solidot.org/story?sid=65553",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为事实上的 JavaScript 时间日期处理标准库，Moment.js 项目\u003ca href=\"https://momentjs.com/docs/#/-project-status/\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它不再鼓励新项目使用该 JS 库。Moment.js 被数百万项目使用，截至 2020 年 9 月每周的下载量超过 1200 万。Moment.js 诞生于 2011 年，今天的 Web 环境已经与当时大不相同。由于有太多的项目依赖于 Moment.js，开发者优先选择了保持稳定而不是引入新特性，它面临的一大问题是体积太大。Chrome Dev Tools 最近开始建议开发者替换 Moment.js。Moment.js 团队在讨论之后决定不再鼓励新项目使用这个库，现有的项目可以继续使用——项目进入到了维护模式，它没有死亡，但它的使命已经完成了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-16T02:09:36Z",
+  "Author": "WinterIsComing"
+}

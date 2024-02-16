@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Thunderbird 78 将加入端对端加密支持",
+  "Link": "https://www.solidot.org/story?sid=64982",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tThunderbird 项目\u003ca href=\"https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e最新的扩展支持版本 v78。主要新特性包括：重新设计了撰写邮件的窗口；暗模式；整合了日历和任务扩展；更新了账号设置和帐户中心；更新了文件夹图标和颜色；Windows 版本可以最小化到托盘；未来几个月内释出的 Thunderbird 78.2 将支持端对端加密，通过 OpenPGP 加密邮件，不再需要 Enigmail 扩展，开发者对 Enigmail 作者 Patrick Brunschwig 为这一整合功能奠定基础表示感谢。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-18T06:54:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "eBay 用脚本扫描访问者的端口寻找远程访问程序",
+  "Link": "https://www.solidot.org/story?sid=64474",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t可能是为了防止遭到黑客入侵的计算机被用于进行欺诈性购买，eBay 网站\u003ca href=\"https://it.slashdot.org/story/20/05/25/161246/ebay-port-scans-visitors-computers-for-remote-access-programs\" target=\"_blank\"\u003e\u003cu\u003e会使用脚本扫描访问者计算机的 14 个不同端口\u003c/u\u003e\u003c/a\u003e，寻找远程访问程序。大部分被扫描的端口与常用的远程访问工具 Windows Remote Desktop、VNC、TeamViewer、Ammy Admin 等相关。2016 年有报告称，攻击者使用远程访问工具 TeamViewer 控制了受害者的计算机，然后在 eBay 网站上进行大量的欺诈性购买。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-26T12:38:11Z",
+  "Author": "WinterIsComing"
+}

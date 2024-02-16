@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.1 释出",
+  "Link": "https://www.solidot.org/story?sid=73621",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上宣布释出 Linux 6.1，意味着为期两周的 6.2 合并窗口开启，而 6.2 的合并关闭时间正好是圣诞假期。以前内核开发者喜欢在截止日期前递交 pull request，这对准备庆祝假期的 Torvalds 可不是好消息。不过 Torvalds 此前批评了这种做法，而开发者们看起来听取了意见，他们已经提前开始 pull request。Linux 6.1 的新特性包括：初步支持 Rust 语言，便于内核调试的 BPF 程序崩溃（panic），改进 io_uring 性能，为透明大页创建提供更好的用户空间控制，改进内存分层支持，maple tree  数据结构，替代页回收 Multi-Gen LRU，等等。更多可浏览 KernelNewbies 6.1。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lore.kernel.org/lkml/CAHk-=wj_HcgFZNyZHTLJ7qC2613zphKDtLh6ndciwopZRfH0aQ@mail.gmail.com/T/#u\u003cbr/\u003e\nhttps://kernelnewbies.org/Linux_6.1\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-12T04:50:02Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IEEE 对接受明尼苏达大学论文发表声明",
+  "Link": "https://www.solidot.org/story?sid=67717",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIEEE 主办的研讨会 Symposium on Security and Privacy 此前接受了明尼苏达大学博士生 Qiushi Wu 和助理教授 Kangjie Lu 递交的论文《On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits》，在引发争议之后论文\u003ca href=\"https://www.solidot.org/story?sid=67665\"\u003e\u003cu\u003e已经撤回\u003c/u\u003e\u003c/a\u003e。IEEE 就接受论文一事发表了\u003ca href=\"https://www.ieee-security.org/TC/SP2021/downloads/2021_PC_Statement.pdf\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e（PDF），称有四名审稿人审阅了论文，他们给出了总体上非常正面的评分（两人 Accept 两人 Weak Accept，得分排在所有递交论文的前 5%）。审稿人指出，恶意攻击者尝试在开源项目中故意加入漏洞并非前所未闻，但论文作者通过描述为什么这比预计的更简单以及为什么维护者难以发现问题而提供了新的见解。一位审稿人提出可能存在伦理方面的问题，但这一评论未进一步讨论。IEEE 承认它错过了这一评论，表示将采取措施确保以后不会接受伦理上存在问题的论文。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-08T12:58:28Z",
+  "Author": "WinterIsComing"
+}

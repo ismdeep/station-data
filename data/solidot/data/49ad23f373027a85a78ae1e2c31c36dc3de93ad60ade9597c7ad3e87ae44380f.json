@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家驱散笼罩在数字上的阴云",
+  "Link": "https://www.solidot.org/story?sid=70254",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一项新证明\u003ca href=\"https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/\" target=\"_blank\"\u003e\u003cu\u003e驱散了\u003c/u\u003e\u003c/a\u003e数学家担心可能会笼罩数轴的阴云。它提供了另一套工具理解算术的基本结构单元——素数。在去年 3 月发表的一篇\u003ca href=\"https://arxiv.org/abs/2103.06853\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，德国哥廷根大学的 Harald Helfgott 和加州理工学院的 Maksym Radziwiłł 提出了一个改进的解决方案，可以解决 Chowla 猜想的特定公式，Chowla 猜想是一个关于整数之间关系的问题。该猜想预测一个整数是否有偶数或奇数个素因数，并不影响后一个或前一个整数是否也有偶数或奇数个素因数。也就是说相邻的数字不会共有一些最基本的算术属性。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这种看似简单的探究与数学中关于素数本身的一些最深层次的未解难题交织在一起。加州大学洛杉矶分校的陶哲轩表示，证明 Chowla 猜想是回答那些更棘手问题的“某种热身或垫脚石”。然而几十年来，“热身”本身就成了一项几乎无可能完成的任务。几年前数学家取得了些许进展，陶哲轩当时证明了对数 Chowla 猜想，它是该问题的一个简单版本。虽然他使用的技术被誉为颇具创新性并令人兴奋的，但是它产生的结果不够精确，对在相关问题（包括素数问题）上取得更多进展没什么帮助。数学家盼望能有一个更强大、更广泛适用的证明。现在 Helfgot t和 Radziwiłł 实现了这一点。他们的解决方案将图论中的技术直接引入数论的核心，重新点燃了证明 Chowla 猜想的希望——最终引导数学家找到解决一些最难以捉摸问题所需要的思路。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-05T09:47:14Z",
+  "Author": "wanwan"
+}

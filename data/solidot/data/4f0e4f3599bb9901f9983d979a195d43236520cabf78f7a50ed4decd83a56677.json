@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微星主板的 BIOS 设置被发现不安全",
+  "Link": "https://www.solidot.org/story?sid=73921",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微星主板的 BIOS 默认设置被发现不安全，允许任何操作系统镜像运行，不管它们有没有签名或者签名是错误的。逾 290 款微星主板受到影响。波兰安全研究员 Dawid Potocki 最早发现了该问题，他尝试联系了微星但没有收到任何回应。该问题影响英特尔或 AMD 处理器使用的微星主板使用的最新固件，甚至全新型号的微星主板。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/msi-accidentally-breaks-secure-boot-for-hundreds-of-motherboards/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-18T13:00:12Z",
+  "Author": "Wilson"
+}

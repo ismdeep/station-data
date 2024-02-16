@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 106 发布",
+  "Link": "https://www.solidot.org/story?sid=73106",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/106.0/releasenotes/\"\u003e\u003cu\u003eFirefox 106\u003c/u\u003e\u003c/a\u003e。主要新特性包括：支持 PDF 编辑，包括输入文本、绘图和签名；在 Windows 下设置 Firefox 为默认浏览器也将设置 Firefox 为默认 PDF 浏览器；支持在 Windows 任务栏固定新建隐私窗口，简化隐私模式访问；Linux 下的滑动导航支持 Wayland；Firefox View 允许用户寻找和打开最近关闭的标签；一组新的配色方案，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-19T09:44:02Z",
+  "Author": "WinterIsComing"
+}

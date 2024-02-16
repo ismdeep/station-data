@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora Linux 37 为修复高危漏洞推迟发布",
+  "Link": "https://www.solidot.org/story?sid=73198",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 发行版\u003cu\u003e宣布\u003c/u\u003e（https://fedoramagazine.org/fedora-linux-37-update/） Fedora Linux 37 的发布日期从原计划的 10 月底推迟到 11 月 15 日，原因是为了修复一个 OpenSSL \u003cu\u003e高危漏洞\u003c/u\u003e。修复漏洞的补丁计划在 11 月 1 日释出，因此关于该漏洞的细节尚未公开，安全社区的一种通常做法是在补丁做好准备前对相关信息保密，以防止其被利用。如果 Fedora 提前构建补丁就可能会泄露漏洞细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-28T08:00:56Z",
+  "Author": "WinterIsComing"
+}

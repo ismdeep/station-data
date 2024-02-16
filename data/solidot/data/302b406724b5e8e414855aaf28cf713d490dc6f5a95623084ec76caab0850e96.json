@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KDE Plasma 5.17 发布",
+  "Link": "https://www.solidot.org/story?sid=62251",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tKDE 项目\u003ca href=\"https://kde.org/announcements/plasma-5.17.0.php\"\u003e\u003cu\u003e宣布释出\u003c/u\u003e\u003c/a\u003e桌面环境 KDE Plasma 5.17。主要变化包括：启动更快，启动脚本从 Bash 转为 C++ 并支持异步运行；Night Color 支持 X11；做演示期间将会停止信息弹出；Wayland 下支持分数缩放；系统监视器 KSysGuard 将能提供更多系统细节，更容易发现消耗内存过高的进程；软件管理器 Discover 也得到了改进，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-16T03:53:25Z",
+  "Author": "wenfeixiang"
+}

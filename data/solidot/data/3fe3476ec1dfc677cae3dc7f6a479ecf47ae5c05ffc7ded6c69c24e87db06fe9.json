@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 发布 Firefox 75",
+  "Link": "https://www.solidot.org/story?sid=64053",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 发布了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/75.0/releasenotes/\"\u003e\u003cu\u003eFirefox 75\u003c/u\u003e\u003c/a\u003e，表示将会按照原定发布时间表发布新版本。Firefox 75 的主要新特性包括：全新的地址栏，为较小的屏幕进行了优化，改进了搜索建议的可读性，点击地址栏将会显示常用网站列表；改进了搜索功能；本地缓存所有 Web PKI Certificate Authority 证书；Linux 版本发布了 Flatpak 打包格式；Windows 版整合了 Direct Composition；bug 修复和开发者工具等等。许多老用户对于 Firefox 调整地址栏可能并不感冒，他们可以修改配置返回熟悉的界面，方法是 about:config --\u0026gt; browser.urlbar.update1 --\u0026gt; false。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-08T03:58:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google AI 不再用性别二元标记图像中的人",
+  "Link": "https://www.solidot.org/story?sid=63602",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的图像标记 AI 工具 Cloud Vision API 不再用性别二元（男或女）\u003ca href=\"https://www.businessinsider.com/google-cloud-vision-api-wont-tag-images-by-gender-2020-2\" target=\"_blank\"\u003e\u003cu\u003e去标记图像中的人\u003c/u\u003e\u003c/a\u003e。搜索巨人以 AI 的道德准则为由做出这一改变，它将以中性的“人”去标记图像中的人。Google 称不可能只凭借一个人的外表去推断其性别，因此“为避免制造或加强不公平偏见”而移除性别标记。Google 在其讨论论坛邀请开发者对此发表评论。有开发者对此表达了反对意见，认为这是政治正确。还有许多人\u003ca href=\"https://tech.slashdot.org/story/20/02/20/1925246/google-ai-no-longer-uses-gender-binary-tags-on-images-of-people\"\u003e\u003cu\u003e批评了 Google 的做法\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-21T12:30:48Z",
+  "Author": "WinterIsComing"
+}

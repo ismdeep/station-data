@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "台积电称 5 纳米芯片不良率低于 7 纳米",
+  "Link": "https://www.solidot.org/story?sid=65348",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t衡量一个开发中的半导体制造工艺优劣的一个关键指标是其定量芯片产量，或者叫缺陷密度。缺陷密度低的制造工艺能生产出更多的良品硅。缺陷密度或不良率会随着工艺的改进而逐步减少，台积电 7 纳米工艺在量产开始 3 个季度后不良率降至了每平方厘米 0.09。该公司最近透露，它开发中的 5 纳米制造工艺的不良率\u003ca href=\"https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5\" target=\"_blank\"\u003e\u003cu\u003e低于同期的 7 纳米工艺\u003c/u\u003e\u003c/a\u003e，其缺陷密度大约为每平方厘米  0.10 到 0.11，该公司预计当 5 纳米芯片下个季度量产时不良率将会低于 0.10。缺陷密度低的可能原因是增加使用了极紫外（Extreme Ultra-Violet，EUV）技术，而 7 纳米工艺主要使用深紫外(Deep Ultra Violet)技术。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-25T14:27:05Z",
+  "Author": "WinterIsComing"
+}

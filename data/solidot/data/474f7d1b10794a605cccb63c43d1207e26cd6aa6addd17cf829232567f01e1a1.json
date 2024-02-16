@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNU Guile 3.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63285",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tScheme 语言解释器/虚拟机项目 GNU Guile  \u003ca href=\"https://www.gnu.org/software/guile/news/gnu-guile-300-released.html\"\u003e\u003cu\u003e释出了 3.0.0 版本\u003c/u\u003e\u003c/a\u003e。新版主要的新特性是 just-in-time (JIT) 本地码生成，这一特性显著加快了程序的性能。基准测试显示，相比 2.2 版本，总体性能提升两倍，个别测试提升多达 32 倍。其它特性包括：词汇语境中的交叉定义和表达式，原生支持结构化异常，改进支持 R6RS 和 R7RS Scheme 标准，以及大量的优化等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-17T07:43:25Z",
+  "Author": "WinterIsComing"
+}

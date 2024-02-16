@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软测试一键修改默认浏览器切换设置",
+  "Link": "https://www.solidot.org/story?sid=69880",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在发布 Windows 11 时\u003ca href=\"https://www.solidot.org/story?sid=68599\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e修改默认浏览器非常繁琐，要改变默认的浏览器，用户需要修改一遍 HTM、HTML、PDF、SHTML、SVG,、WEBP、XHT、XHTML、FTP、HTTP 和 HTTPS 等文件类型和链接类型打开的默认浏览器。微软此举受到了广泛批评。上周微软看起来改变了受争议的做法，它的新测试版本允许 Chrome、Firefox 等浏览器用户一键修改默认浏览器。微软营销副总裁 Aaron Woodman 在一份声明中\u003ca href=\"https://www.theverge.com/2021/12/3/22815209/microsoft-windows-11-default-browser-button-changes\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，刚刚发布的 Windows 11 Insider Preview Build 22509 简化了将默认浏览器设置为打开 HTTP:、HTTPS:、.HTM 和.HTML 应用的能力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-06T05:05:15Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 Qt 版本可能让付费用户独占 12 个月",
+  "Link": "https://www.solidot.org/story?sid=64079",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几天，Qt 公司以及 Qt 开源社区、KDE 项目之间的分歧日益扩大，原因是 Qt 公司考虑新版本不立即开源，而是让付费用户先使用 12 个月。Qt 公司随后发表简单声明\u003ca href=\"https://www.qt.io/blog/qt-and-open-source\" target=\"_blank\"\u003e\u003cu\u003e予以否认\u003c/u\u003e\u003c/a\u003e。根据 KDE 邮件列表上的\u003ca href=\"https://mail.kde.org/pipermail/kde-community/2020q2/006098.html\"\u003e\u003cu\u003e讨论\u003c/u\u003e\u003c/a\u003e，Qt 公司上周通知代表 KDE 桌面项目的 KDE e.V. 董事会和 KDE Free QT 基金会，称新冠疫情带来的经济影响对他们施加了更大的压力去增加短期收入，他们考虑所有新版本在发布12 个月内只提供给付费用户使用。这一变化无疑会影响到 KDE 项目以及 Qt。KDE 希望 Qt 公司能重新考虑其决定。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-10T05:12:30Z",
+  "Author": "WinterIsComing"
+}

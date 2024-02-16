@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Norton 360 将允许用户挖掘以太坊",
+  "Link": "https://www.solidot.org/story?sid=67959",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNortonLifelock 在其 Norton 360 杀毒软件中\u003ca href=\"https://slashdot.org/story/21/06/03/0358213/norton-360-antivirus-now-lets-you-mine-ethereum-cryptocurrency\" target=\"_blank\"\u003e\u003cu\u003e加入挖掘以太坊的功能\u003c/u\u003e\u003c/a\u003e，以“保护”用户免受恶意挖矿软件的侵犯。新功能被称为 Norton Crypto，将开始推送给登记参与测试的 Norton 360 用户。启用 Norton Crypto 之后，杀毒软件将使用 GPU 挖掘以太坊，挖矿所得将转移到云端的 Norton 钱包。暂时还不清楚 Norton Crypto 是独立挖矿还是作为矿池的一部分挖矿。矿池挖矿能更容易挖出以太坊。如果 Norton 经营矿池，从挖掘出的以太坊里获取少部分收入，那么这项功能将能给它带来收入。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-04T15:32:36Z",
+  "Author": "WinterIsComing"
+}

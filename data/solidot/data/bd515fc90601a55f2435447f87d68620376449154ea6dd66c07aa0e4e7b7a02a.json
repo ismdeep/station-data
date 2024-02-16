@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软例行更新修复正被利用的 IE 漏洞",
+  "Link": "https://www.solidot.org/story?sid=65230",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软本周释出了例行安全更新，修复了至少  120 个安全漏洞，有 17 个被归类为高危漏洞。其中 编号为 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1380\"\u003eCVE-2020-1380\u003c/a\u003e 的 IE 漏洞正被利用，用户使用 IE 浏览器访问恶意网站就可能被利用该漏洞执行任意代码入侵系统，并拥有当前用户的相同权限，如果是系统权限那么攻击者就能完全控制系统；另一个正被利用的漏洞 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1464\"\u003eCVE-2020-1464\u003c/a\u003e 允许攻击者绕过 Windows 的安全功能加载错误的签名文件；Windows Server 漏洞  \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472\"\u003eCVE-2020-1472\u003c/a\u003e 允许未经授权的攻击者获得域控制器的管理访问权限；Windows Print Spooler 漏洞 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1337\"\u003eCVE-2020-1337\u003c/a\u003e 允许攻击者或恶意程序进行提权。Adobe 本周也释出了\u003ca href=\"https://helpx.adobe.com/security/products/acrobat/apsb20-48.html\"\u003e\u003cu\u003e安全更新\u003c/u\u003e\u003c/a\u003e，修复了旗下产品的多个漏洞，其中包括 Acrobat 和 PDF Reader 的高危漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-12T15:18:04Z",
+  "Author": "WinterIsComing"
+}

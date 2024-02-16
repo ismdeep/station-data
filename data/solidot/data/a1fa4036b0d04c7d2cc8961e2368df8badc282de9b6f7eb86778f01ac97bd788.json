@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "id Software 公布 Quake II 源代码",
+  "Link": "https://www.solidot.org/story?sid=75766",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tid Software 公布了 Quake II 源代码。源代码采用 GNU GPLv2.0 许可证，托管在 GitHub 上。id Software 表示它不再提供任何支持，但感兴趣的用户可以利用现有的社区资源。Quake II 源代码包含了新版 API 用于在服务器和游戏模组之间通信，引入了一个瘦 client game 模组，类似 Quake III Arena 的 cgame 模组，以及一个 2023 年版的网络协议。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/id-Software/quake2-rerelease-dll\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-11T03:49:18Z",
+  "Author": "Wilson"
+}

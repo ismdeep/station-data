@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "1Password for Linux 发布首个 beta 版本",
+  "Link": "https://www.solidot.org/story?sid=65878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t流行的密码管理器 1Password \u003ca href=\"https://blog.1password.com/1password-for-linux-beta-is-now-open/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Linux 桌面客户端的首个 beta 版本。这是一个功能完整的 Linux 桌面应用，正式版本预计将在明年初释出。Linux 版本的后端是完全用 Rust 语言开发的，利用了 ring 加密库实现端对端加密。其主要功能包括：快速查找和智能搜索建议；新的外观；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-22T05:49:40Z",
+  "Author": "WinterIsComing"
+}

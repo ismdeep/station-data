@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Java 16 发布",
+  "Link": "https://www.solidot.org/story?sid=67226",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://lawrenceli.me\"\u003eLonor\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://jdk.java.net/16/\" target=\"_blank\"\u003eJava 16 已于 2021 年 3 月 16 日正式发布\u003c/a\u003e。其新特性主要包括：提升向量计算性能的 Vector API（孵化），JDK 中 C++ 源码开始使用 C++ 14 的新特性，并发处理线程栈的 ZGC，优化 HotSpot 对元空间的处理以更快地回收内存，引入 Foreign Linker API 提供对本地代码静态类型的纯 Java 访问，堆外内存访问 API（第三次孵化），instanceof 模式匹配，密封类(Sealed Class 第二次预览)，Records 类型也终于正式毕业等。JDK 源码的 VCS 已经从 Mercurial 迁移到了流行的 Git，OpenJDK 代码现托管于 \u003ca href=\"https://github.com/openjdk/jdk\" target=\"_blank\"\u003eGitHub\u003c/a\u003e。和最近的几个版本一样，它依旧是短期支持版本。下一个长期支持版本（LTS）将会是今年 9 月发布的 JDK 17。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-17T05:34:24Z",
+  "Author": "WinterIsComing"
+}

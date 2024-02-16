@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Popcorn 开源项目因 DMCA 通知被 GitHub 关闭",
+  "Link": "https://www.solidot.org/story?sid=64268",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t代表美国主要电影公司和流媒体公司的美国电影协会向 GitHub 递交了 \u003ca href=\"https://github.com/github/dmca/blob/master/2020/05/2020-05-01-MPA.md\"\u003e\u003cu\u003eDMCA 删除通知\u003c/u\u003e\u003c/a\u003e，称开源项目 Popcorn Time 广泛侵犯了电影和电视节目的版权。GitHub 之后根据要求关闭了 Popcorn Time 的\u003ca href=\"https://github.com/popcorn-official/popcorn-desktop/issues\" target=\"_blank\"\u003e\u003cu\u003e开源库\u003c/u\u003e\u003c/a\u003e。这一做法引起了\u003ca href=\"https://github.com/github/dmca/blob/master/2020/05/2020-05-04-MPA-counternotice.md\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e，因为 Popcorn Time 本身并不包含任何侵权材料，但作为一种工具它确实能帮助用户访问侵权材料。作为一种工具，Popcorn Time 整合了 BT 下载和流媒体播放器，能提供类似 Netflix 的盗版内容流媒体服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-05T05:23:08Z",
+  "Author": "WinterIsComing"
+}

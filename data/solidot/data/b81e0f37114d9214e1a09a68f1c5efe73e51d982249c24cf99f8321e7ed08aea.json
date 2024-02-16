@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cloudflare 宕机导致众多网站受影响",
+  "Link": "https://www.solidot.org/story?sid=64983",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCloudflare \u003ca href=\"https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/\"\u003e\u003cu\u003e发布事故报告\u003c/u\u003e\u003c/a\u003e，称骨干网络的配置错误导致了持续 27 分钟的宕机。Cloudflare 称，在处理一个不相关的问题时它的工程师为缓解拥堵而更新了位于亚特兰大的路由器配置，但配置中包含了一个错误，导致它的骨干网流量全都发送给了亚特兰大，亚特兰大的路由器过载引发了宕机。Cloudflare 为 2600 万网站提供服务，这次宕机导致了大量网站受影响无法访问，其中知名的网站和服务\u003ca href=\"https://tech.slashdot.org/story/20/07/18/0434221/cloudflares-23-minute-outage-today-also-took-down-major-web-sites\"\u003e\u003cu\u003e包括了\u003c/u\u003e\u003c/a\u003e：Discord、Patreon、Deliveroo、GitLab、 Zendesk、Medium、Feedly、Politico、Shopify 和英雄联盟。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-18T07:18:24Z",
+  "Author": "WinterIsComing"
+}

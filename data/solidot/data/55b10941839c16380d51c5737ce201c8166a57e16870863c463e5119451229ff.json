@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 警告开源供应链攻击 Octopus Scanner",
+  "Link": "https://www.solidot.org/story?sid=64523",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub 安全博客\u003ca href=\"https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain\"\u003e\u003cu\u003e警告了\u003c/u\u003e\u003c/a\u003e针对的 Apache NetBeans IDE 项目的开源供应链攻击 Octopus Scanner。GitHub 称它在 3 月 9 日收到了被称为 JJ 的安全研究人员发来的警告，称发现一组感染了恶意程序 Octopus Scanner 的开源库。一旦感染，恶意程序会寻找用户开发系统上的 NetBeans 项目，然后将恶意负荷嵌入到项目文件中，每次项目构建都会执行恶意负荷。GitHub 随后展开了调查，发现了 26 个开源项目被植入了  Octopus Scanner 后门。GitHub 称，他们向 VirusTotal 上传了样本，60 个杀毒软件只有 4 个能将其检测出来。恶意程序伪装成 ocs.txt 文件，但实际上是一个 JAR（Java Archive）文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-30T13:22:54Z",
+  "Author": "WinterIsComing"
+}

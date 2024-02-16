@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 关闭 Firefox Send 和 Firefox Notes 服务",
+  "Link": "https://www.solidot.org/story?sid=65581",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为重组的一部分，Mozilla \u003ca href=\"https://blog.mozilla.org/blog/2020/09/17/update-on-firefox-send-and-firefox-notes/\"\u003e\u003cu\u003e宣布关闭\u003c/u\u003e\u003c/a\u003e Firefox Send 和 Firefox Notes 服务。Firefox Send 是一个加密文件共享工具，最近因为有用户滥用它发送恶意程序和用于钓鱼攻击而临时下线，下线期间 Mozilla 发生了裁员和重组的事情，它在权衡之后决定不再重新上线 Send。Firefox Notes 是一个加密数据同步工具，它将在 11 月关闭 Android Notes 应用和同步服务，Firefox Notes 桌面扩展的现有用户可继续使用，Mozilla 将提供选项导出所有笔记，但不再维护，也不再提供安装。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T08:41:41Z",
+  "Author": "WinterIsComing"
+}

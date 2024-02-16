@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VVVVVV 公开源代码",
+  "Link": "https://www.solidot.org/story?sid=63235",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVVVVVV 作者 Terry Cavanagh 在游戏发布十周年之际\u003ca href=\"http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/\" target=\"_blank\"\u003e\u003cu\u003e宣布公开其源代码\u003c/u\u003e\u003c/a\u003e，代码发布在 GitHub 上，采用 VVVVVV Source Code License v1.0 许可证，开源的是关卡和文字等，图形和音乐等素材没有开源，个人使用可以免费\u003ca href=\"http://distractionware.com/blog/category/vvvvvv-make-and-play/\" target=\"_blank\"\u003e\u003cu\u003e获得素材\u003c/u\u003e\u003c/a\u003e。VVVVVV 最初是一个 Flash 游戏，开源的代码包含了两个库，其一是 Simon Roth 在 2011 年用 C++ 重写的桌面移植版本，该版本后由 Ethan Lee 更新和维护；其二是用  Actionscript for Adobe AIR 写的移动版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-11T04:44:43Z",
+  "Author": "WinterIsComing"
+}

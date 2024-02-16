@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软详述迁移到新 Microsoft Edge 的计划",
+  "Link": "https://www.solidot.org/story?sid=62983",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软即将在下个月正式推出基于 Chrome 的新 Microsoft Edge 浏览器，它将取代现有的 Microsoft Edge 浏览器，微软\u003ca href=\"https://tech.slashdot.org/story/19/12/17/1524226/microsoft-details-its-migration-plans-for-the-new-microsoft-edge\"\u003e\u003cu\u003e详述了新旧更替计划\u003c/u\u003e\u003c/a\u003e：旧版本的所有开始菜单固定、磁贴和快捷方式都将替换为新版本；旧版本的任务栏固定和快捷方式替换为新版本；新版本将固定到任务栏，如果任务栏已固定了旧版本，它将被取代；新版本将添加到桌面快捷方式，如果已有旧版本的快捷方式，它将被取代；旧版本默认处理的绝大部分协议将替换为新版本处理；旧版本将在操作系统内深入隐藏，包括设置、应用、文件或协议支持对话框；启动旧版本的任何尝试都将重定向到新版本。微软开始向开发者开放\u003ca href=\"https://www.inputmag.com/tech/microsoft-begins-accepting-extensions-for-its-edge-chromium-browser\"\u003e\u003cu\u003e扩展递交\u003c/u\u003e\u003c/a\u003e，如果已经有 Chrome 扩展，无需修改就能支持新 Edge。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T10:31:14Z",
+  "Author": "WinterIsComing"
+}

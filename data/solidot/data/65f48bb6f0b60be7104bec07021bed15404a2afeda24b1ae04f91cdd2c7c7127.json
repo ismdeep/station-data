@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软警告乌克兰计算机网络遭破坏性恶意程序攻击",
+  "Link": "https://www.solidot.org/story?sid=70386",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软从乌克兰政府和私人计算机网络\u003ca href=\"https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/\" target=\"_blank\"\u003e\u003cu\u003e探测到\u003c/u\u003e\u003c/a\u003e一种高度破坏性的恶意程序，它似乎正在等待被触发。该恶意程序与 2017 年的 NotPetya 有几分相似，攻击目标也主要是针对乌克兰。NotPetya 伪装成勒索软件，但目的是破坏数据而非勒索比特币赎金。新的恶意程序与之类似，伪装成勒索软件要求赎金，但并不存在相关的加密货币地址。研究人员认为其目的旨在破坏而非勒索。恶意程序试图清空硬盘和破坏文件。乌克兰政府\u003ca href=\"https://cn.reuters.com/article/ukraine-gov-website-attack-us-ru-0117-idCNKBS2JR03I?il=0\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，已经恢复了大部分受影响的网站，没有个人数据被盗。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-17T06:17:43Z",
+  "Author": "WinterIsComing"
+}

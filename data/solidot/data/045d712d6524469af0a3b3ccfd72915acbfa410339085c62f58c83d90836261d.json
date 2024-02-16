@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenXLA 加速简化机器学习",
+  "Link": "https://www.solidot.org/story?sid=74361",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t阿里巴巴、亚马逊 AWS、AMD、苹果、Arm、Cerebras、Google、Graphcore、Hugging Face、英特尔、Meta 和英伟达等行业巨头联合宣布了一个开源机器学习编译器生态系统 OpenXLA，源代码托管在 GitHub 上，包括了 XLA、StableHLO 和 IREE 等库。OpenXLA 旨在消除机器学习基础设施中的碎片化和孤立性问题，改进相关模型的可移植性、提高效率和加速产品化。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/openxla\u003cbr/\u003e\nhttps://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-10T15:54:03Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Avira 在 Norton 360 之后整合加密货币挖矿程序",
+  "Link": "https://www.solidot.org/story?sid=70318",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名安全产品 Norton 360 上周被发现整合了加密货币挖矿程序。但没有默认激活。另一款流行的安全软件 Avira \u003ca href=\"https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cryptomining/\" target=\"_blank\"\u003e\u003cu\u003e也在做同样的事情\u003c/u\u003e\u003c/a\u003e，与 Norton 类似用户需要选择加入才能激活挖矿。与 Norton 不同的是 Avira 未披露它的分成（Norton 是 15%）。Avira 在 \u003ca href=\"https://support.avira.com/hc/en-us/articles/4407469485585-What-is-Avira-Crypto-\"\u003e\u003cu\u003eFAQ\u003c/u\u003e\u003c/a\u003e 中称，挖矿程序 Avira Crypto 允许利用计算机的闲置算力挖掘以太坊，挖矿需要高处理能力，不适合普通计算机，即使计算机配置足够高，用户仅仅靠自己挖掘的回报也很低，因此最佳做法是加入矿池，共享算力和回报。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T06:54:15Z",
+  "Author": "WinterIsComing"
+}

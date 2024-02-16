@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WSL 开始支持 GPU 视频加速",
+  "Link": "https://www.solidot.org/story?sid=74131",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软宣布它的 Windows Subsystem for Linux（WSL）子系统开始支持 GPU 视频加速。微软称该功能是基于现有的  Mesa 3D D3D12 后端，集成 VAAPI mesa 前端。Linux 媒体应用能使用 VAAPI 接口访问硬件视频加速。微软表示，支持 GPU 视频加速需要 WSL 版本 1.1.0 或更新版本，WSL 需要启用 systemd。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-14T09:52:59Z",
+  "Author": "Wilson"
+}

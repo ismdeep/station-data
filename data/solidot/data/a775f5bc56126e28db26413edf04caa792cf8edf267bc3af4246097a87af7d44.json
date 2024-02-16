@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FFmpeg 5.0 发布",
+  "Link": "https://www.solidot.org/story?sid=70400",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFFmpeg 多媒体框架释出了最新的 \u003ca href=\"https://ffmpeg.org/index.html#pr5.0\"\u003e\u003cu\u003e5.0 \u0026#34;Lorentz\u0026#34;\u003c/u\u003e\u003c/a\u003e。FFmpeg 被多媒体应用广泛使用，其中之一是 VLC。FFmpeg 5.0 是一个重大更新版本，开发者删除了旧的编码/解码 API，用基于 N:M 的新 API 取代，删除了 libavresample 库，libswscale 引入了新的更易于使用的基于 AVframe 的 API，改进了 Vulkan 代码，加入了许多新的过滤器，整合了 libplacebo，支持 DoVi 等等。\n\n\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-18T05:59:25Z",
+  "Author": "WinterIsComing"
+}

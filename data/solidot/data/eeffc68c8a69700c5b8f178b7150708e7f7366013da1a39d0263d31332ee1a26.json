@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 2.93 LTS 发布",
+  "Link": "https://www.solidot.org/story?sid=67946",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源 3D 图形设计软件 Blender \u003ca href=\"https://www.blender.org/news/blender-2-93-release/?utm_source=www-homepage\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e 2.93 LTS 版，它代表着 2.xx 时代的结束，3.0 时代的到来。主要新特性包括：重写了 EEVE 景深渲染选项；扩充了 Geometry Nodes，加入了默认工作空间；艺术线条修改工具支持创建风格化线条，支持导出 SVG 和 PDF；更新了建模；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-03T12:54:29Z",
+  "Author": "WinterIsComing"
+}

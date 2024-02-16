@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客伪造“紧急数据请求”美议员要求调查",
+  "Link": "https://www.solidot.org/story?sid=71126",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t包括苹果在内的美国科技和互联网公司都收到了黑客伪造的“紧急数据请求”。在交出客户数据前企业通常会要求执法机构提供法庭搜查令或传票，但执法机构可以以攸关生命和死亡的名义向相关企业发出“紧急数据请求”。这种数据披露请求不需要搜索令和传票，而企业通常也很难验证“紧急数据请求”的真伪，因为美国据估计有 1.8 万家警察机构。犯罪分子和黑客利用这个漏洞通过侵入警方或政府机构的邮箱，然后向科技公司发出伪造的“紧急数据请求”获取目标用户的数据。部分黑客甚至将其作为一种服务提供给其他罪犯。包括 Discord、苹果和 Meta/Facebook 都收到了伪造的“紧急数据请求”，而相关公司都向黑客\u003ca href=\"https://www.bloomberg.com/news/articles/2022-03-30/apple-meta-gave-user-data-to-hackers-who-forged-legal-requests?sref=ylv224K8\"\u003e\u003cu\u003e提供了客户数据\u003c/u\u003e\u003c/a\u003e。美国民主党参议员 Ron Wyden 要求对此展开调查\u003ca href=\"https://krebsonsecurity.com/2022/03/fake-emergency-search-warrants-draw-scrutiny-from-capitol-hill/\" target=\"_blank\"\u003e\u003cu\u003e并准备起草法案杜绝伪造的政府数据请求\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-01T06:24:21Z",
+  "Author": "WinterIsComing"
+}

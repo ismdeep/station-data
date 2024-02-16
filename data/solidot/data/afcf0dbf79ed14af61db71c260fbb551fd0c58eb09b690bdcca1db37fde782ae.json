@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 和 Canonical 合作将 Flutter Apps 带到 Linux",
+  "Link": "https://www.solidot.org/story?sid=64895",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 和 Canonical 合作将它的开源 UI 框架 Flutter \u003ca href=\"https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter\" target=\"_blank\"\u003e\u003cu\u003e带到 Linux 平台\u003c/u\u003e\u003c/a\u003e，将 Flutter Apps 带到 Canonical 的 Snap 商店。Snap 主导开发的应用打包格式，旨在解决 Linux 应用的依赖问题，但 Canonical 强推 Snap App 的问题最近在社区\u003ca href=\"https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/\"\u003e\u003cu\u003e引发了争论\u003c/u\u003e\u003c/a\u003e。Google 和 Canonical 称，Flutter SDK snap 提供了在 Linux 发行版上开发 Flutter app 所需的所有组件，无需安装大量的依赖。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-09T06:50:42Z",
+  "Author": "WinterIsComing"
+}

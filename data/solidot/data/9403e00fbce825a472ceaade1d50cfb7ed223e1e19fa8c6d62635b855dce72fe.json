@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "破解游戏被发现植入了挖矿软件",
+  "Link": "https://www.solidot.org/story?sid=68163",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Avast 的研究人员发现，部分论坛免费提供的游戏破解版本实际上\u003ca href=\"https://www.bbc.com/news/technology-57601631\" target=\"_blank\"\u003e\u003cu\u003e植入了挖矿软件 Crackonosh\u003c/u\u003e\u003c/a\u003e。一旦安装 Crackonosh，它会禁用 Windows 更新，卸载所有安全软件，然后在后台挖掘门罗币。对黑客数字钱包地址的跟踪显示，挖掘到的门罗币价值超过了 200 万美元，受害者主要位于菲律宾、巴西、印度、波兰、美国和英国。在这之前研究人员还在游戏作弊软件中发现了恶意程序。Akamai 称自 2019 年以来它检测到的针对游戏的攻击增加了 340%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-30T05:19:42Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意程序窃取了 2600 万密码",
+  "Link": "https://www.solidot.org/story?sid=68005",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNordLocker 公司的安全研究人员\u003ca href=\"https://nordlocker.com/blog/malware-case-study/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一个包含敏感数据容量高达 1.2TB 的数据库，这些数据被认为是未知恶意程序从被感染的设备上窃取的。数据库包含了 2600 万登陆凭证，超过 20 亿浏览器 cookies，660 万文件，部分文本文件储存了密码。此外还有 100 多万图像，65 万 Word 和 PDF 文件，以及屏幕截图和设备摄像头拍摄的图像。恶意程序还收集了消息、邮件、游戏和文件共享应用相关的数据。这些数据来自了 300 万台被感染的 PC，时间是从 2018 年到 2020 年。安全分析师认为恶意程序的目的很可能是为了窃取加密货币。窃取的密码已经\u003ca href=\"https://www.troyhunt.com/nameless-malware-discovered-by-nordlocker-is-now-in-have-i-been-pwned/\"\u003e\u003cu\u003e上传\u003c/u\u003e\u003c/a\u003e到了\u003ca href=\"https://haveibeenpwned.com/\" target=\"_blank\"\u003e\u003cu\u003e Have I Been Pwned\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-10T09:19:04Z",
+  "Author": "WinterIsComing"
+}

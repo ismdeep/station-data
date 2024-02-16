@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出 Windows Terminal Preview v0.3",
+  "Link": "https://www.solidot.org/story?sid=61618",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://github.com/microsoft/terminal/releases\"\u003e\u003cu\u003eWindows Terminal Preview v0.\u003c/u\u003e\u003c/a\u003e3。Windows Terminal 是微软在今年的开发者大会上宣布的新命令行终端，源代码发布在 GitHub 上，支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。最新版本引入了大量新的变化，包括：终端窗口标题栏可拖曳到任何地方，标题栏有了新的外观，改进了下拉按钮布局，重新整合了部分辅助技术，可定义标签标题，新增背景图像选项，等等...\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-06T07:31:16Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Vivaldi 将改变用户代理字符串模仿 Chrome 规避不公平的屏蔽",
+  "Link": "https://www.solidot.org/story?sid=63006",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因为遭到部分网站不公平的阻止访问其服务，基于 Chromium 的浏览器 Vivaldi 从最新释出的 \u003ca href=\"https://vivaldi.com/press/releases/vivaldi-2-10-no-strings-attached/\"\u003e\u003cu\u003eVivaldi 2.10 \u003c/u\u003e\u003c/a\u003e起修改用户代理字符串（UA string），模仿 Chrome \u003ca href=\"https://www.zdnet.com/article/vivaldi-to-change-user-agent-string-to-chrome-due-to-unfair-blocking/\"\u003e\u003cu\u003e以规避屏蔽\u003c/u\u003e\u003c/a\u003e。UA String 是浏览器与网站建立初始连接时发送的数据，其中包含浏览器类型、渲染引擎和操作系统等数据。举例来说，Windows 版本 Firefox 的 UA string 是“Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0”。UA string 始于 1990 年代，网站可以利用这一数据调整性能和功能，或屏蔽过时的浏览器。但今天许多网站使用 UA string 屏蔽用户访问，部分是因为不愿意处理与特定浏览器相关的 bug，部分是因为繁琐，微软和 Google 这么做则是为了独霸市场打击竞争对手。Vivaldi 是基于 Chromium，与 Chrome 基础代码相同，Vivaldi 称它遭到屏蔽的主要原因是竞争对手所为。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-20T03:54:52Z",
+  "Author": "WinterIsComing"
+}

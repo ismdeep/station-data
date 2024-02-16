@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 新代码搜索 GA",
+  "Link": "https://www.solidot.org/story?sid=74905",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub 宣布其重构过的新代码搜索功能 GA（general availability）。GitHub 称新代码搜索的速度是旧版的两倍，改进对上下文的感知，能将最相关的结果展示在搜索前列。新搜索界面提供了建议和代码补全，能更智能的对结果进行分类和格式化。代码视图会在侧面板显示引用，类似 Visual Studio。新代码搜索还支持子串查询、正则表达式和符号搜索。GitHub 还发布了一份语法指南。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.blog/2023-05-08-github-code-search-is-generally-available/\n\u003cbr/\u003e\nhttps://cs.github.com/about/syntax\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-09T05:51:36Z",
+  "Author": "Wilson"
+}

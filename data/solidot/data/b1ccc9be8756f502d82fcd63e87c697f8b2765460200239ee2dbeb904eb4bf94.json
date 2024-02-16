@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "北京司法鉴定所能对 AirDrop 匿名投放进行溯源",
+  "Link": "https://www.solidot.org/story?sid=77082",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t北京市司法局微信公众号“京司观澜”发文称，北京网神洞鉴司法鉴定所对手机“隔空投送”传播不当信息案件的司法鉴定突破了 AirDrop 匿名溯源的技术难题，提升了案件侦破的效率和准确性，防止了不当言论的进一步传播和潜在的恶劣影响。iPhone 的 AirDrop 能在苹果设备之间匿名共享文件，司法鉴定所的专家通过分析 iPhone 设备日志，发现发送者的设备名、邮箱和手机号相关字段，其中手机号与邮箱相关字段是以哈希值的形式记录，且哈希值部分字段被隐藏。技术团队制作了一张详尽的手机号与邮箱账号“彩虹表 ”，能够将密文转换成原始文本，快速锁定发送者的手机号与邮箱账号。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.thepaper.cn/newsDetail_forward_25935720\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-08T15:03:50Z",
+  "Author": "Wilson"
+}

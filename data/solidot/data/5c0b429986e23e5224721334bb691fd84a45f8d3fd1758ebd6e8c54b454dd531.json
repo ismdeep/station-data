@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 36 释出",
+  "Link": "https://www.solidot.org/story?sid=71497",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 36 \u003ca href=\"https://fedoramagazine.org/announcing-fedora-36/\" target=\"_blank\"\u003e\u003cu\u003e正式释出\u003c/u\u003e\u003c/a\u003e。主要新变化包括桌面环境 GNOME 42、使用英伟达的系统默认支持 Wayland，Podman 4.0、 Ansible 5、移除对遗留的 ifcfg 配置文件的支持，GCC 12，轻量级桌面环境 LXQt 更新到了 1.0 版本，更多可浏览\u003ca href=\"https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-11T08:02:49Z",
+  "Author": "WinterIsComing"
+}

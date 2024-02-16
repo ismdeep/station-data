@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "K-9 Mail 5.8 释出",
+  "Link": "https://www.solidot.org/story?sid=68376",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t运行在 Android 平台的自由软件邮件客户端 K-9 Mail 在时隔两年之后\u003ca href=\"https://k9mail.app/2021/07/24/K-9-Mail-is-back\" target=\"_blank\"\u003e\u003cu\u003e释出了 5.8 稳定版\u003c/u\u003e\u003c/a\u003e。主要变化包括：重新设计了 UI，这一变动有人喜欢有人可能不会喜欢； Android 6 起引入的变化限制了应用在后台的操作，K-9 Mail 的旧版本在限制下的表现不佳，新版本通过定期后台同步改进了推送的可靠性；支持 Android 5.0 及以上版本；停止支持 WebDAV 账号，但现有的账号会继续支持；改进了端对端加密（Autocrypt, OpenPGP）等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-26T05:13:36Z",
+  "Author": "WinterIsComing"
+}

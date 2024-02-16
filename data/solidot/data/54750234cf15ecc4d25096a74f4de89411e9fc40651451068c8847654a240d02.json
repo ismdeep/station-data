@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "分析 FLoC 的隐私问题",
+  "Link": "https://www.solidot.org/story?sid=68028",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 提出的第三方 cookies 替代 Federated Learning of Cohorts (FLoC) 引发了很多争议，多家基于 Chromium 的浏览器开发商已经决定禁用 FLoC，而搜索巨人则声称 FLoC 对隐私更为友好、更少跟踪。Mozilla 对 FLoC \u003ca href=\"https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/\" target=\"_blank\"\u003e\u003cu\u003e进行了分析\u003c/u\u003e\u003c/a\u003e，发现它存在多个需要解决的隐私问题。FLoC 使用了代表一组有着相似兴趣用户的识别符，它代表的用户数量可能多达数千，但这并不意味着它不能被用于跟踪单个用户，原因是用户的兴趣是在变化的，因此 FLoC ID 也在变化。FLoC ID 目前大约每周重新计算一次，这意味着网站可以组合利用第一周、第二周等等的 FLoC ID 去跟踪单个用户。FLoC 还被发现会泄露更多的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-13T14:06:24Z",
+  "Author": "WinterIsComing"
+}

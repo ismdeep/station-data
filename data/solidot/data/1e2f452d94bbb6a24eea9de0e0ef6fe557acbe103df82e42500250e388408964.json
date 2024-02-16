@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 对 AMD CPU 很满意",
+  "Link": "https://www.solidot.org/story?sid=66563",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 使用了 15 年的英特尔处理器工作站，Linux 作者现在表示英特尔对他而言已经死了。他在去年\u003ca href=\"https://opensource.solidot.org/story?sid=64456\"\u003e\u003cu\u003e组装了\u003c/u\u003e\u003c/a\u003e一台采用 AMD 线程撕裂者 3970x 的新工作站，Torvalds 现在\u003ca href=\"https://www.zdnet.com/article/linus-torvalds-tears-into-intel-favors-amd/\"\u003e\u003cu\u003e表示对 AMD CPU 非常满意\u003c/u\u003e\u003c/a\u003e。在 Real World Technologies 论坛上，Torvalds 说英特尔的数学是你要得到两倍的 CPU 就需要花五倍的钱，而 AMD 线程撕裂者的价格则是两倍的 CPU 花两倍的钱。AMD 不像英特尔那样尝试压榨用户和限制非服务器版芯片的功能。如线程撕裂者能支持 ECC 内存。ECC 内存芯片能探测内存中的错误，Torvalds 表示 ECC 对于内核开发仍然是必不可少的，他们遭遇过许多次无法解释的内核错误，这些错误很有可能是内存出错导致的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-05T07:56:16Z",
+  "Author": "WinterIsComing"
+}

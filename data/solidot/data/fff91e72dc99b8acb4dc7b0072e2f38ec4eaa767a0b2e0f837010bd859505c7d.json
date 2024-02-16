@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 Pro 将需要微软账号",
+  "Link": "https://www.solidot.org/story?sid=70698",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软开始释出 Windows 11 的首个更新，主要新特性包括预览 Android 应用运行支持，重新设计了记事本和媒体播放器应用，改进了任务栏，改善了免干扰和专注模式，新的触摸屏手势，等等。其中一个不受欢迎的变化可能是 Windows 11 Pro \u003ca href=\"https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/\"\u003e\u003cu\u003e在设置时将需要网络连接和微软账号\u003c/u\u003e\u003c/a\u003e。而目前用户可以不使用网络连接和创建本地账号。Windows 11 将在不久之后成为首个必须登陆云端服务才能启用基本功能的主要消费者操作系统。苹果的 Macs 仍然允许在设置期间创建本地账号。Android 需要联网账号激活但进入主屏幕不需要登陆。Chrome OS 也支持访客模式不需要用户账号就能使用基本的浏览功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-18T06:11:13Z",
+  "Author": "WinterIsComing"
+}

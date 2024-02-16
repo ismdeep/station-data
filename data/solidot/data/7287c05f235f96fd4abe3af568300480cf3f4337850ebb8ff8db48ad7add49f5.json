@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 87 发布",
+  "Link": "https://www.solidot.org/story?sid=67298",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/87.0/releasenotes/\"\u003e释出\u003c/a\u003e了 Firefox 87。主要新特性包括：\u003ca href=\"https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/\" target=\"_blank\"\u003e\u003cu\u003eSmartBlock\u003c/u\u003e\u003c/a\u003e 通过提供替代脚本防止网站在隐私浏览和严格增强跟踪保护下显示不正确；移除反向链接中的路径和其它字符串；“高亮全部”功能显示匹配查找关键词的标记和相应滚动条；macOS 版本完整支持内置的屏幕阅读器 VoiceOver；为防止填写表格时数据丢失，Firefox 将禁用退格键作为后退导航按钮的快捷键，用户如果不喜欢这一变动可以修改 about:config 设置 browser.backspace_action 值为 0。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-24T06:00:38Z",
+  "Author": "WinterIsComing"
+}

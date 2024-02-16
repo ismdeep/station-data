@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 Chrome 0day 漏洞正被利用",
+  "Link": "https://www.solidot.org/story?sid=67100",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 本周\u003ca href=\"https://thehackernews.com/2021/03/new-chrome-0-day-bug-under-active.html\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Chrome 的安全更新 v89.0.4389.72，修复了 47 个漏洞，其中包括正被利用 0day。编号为 CVE-2021-21166 的漏洞是微软安全研究员 Alison Huffman 在 2 月 11 日报告的，Google 没有披露漏洞细节，只是表示它知道漏洞正被利用。这是 Google 在今年修复的第二个 0day，上一个是 2 月 4 日修复的 V8 堆溢出漏洞 CVE-2021-21148。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-04T07:33:18Z",
+  "Author": "WinterIsComing"
+}

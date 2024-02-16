@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.16 开发者统计",
+  "Link": "https://www.solidot.org/story?sid=70352",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周日发布的 Linux 5.16 \u003ca href=\"https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/\" target=\"_blank\"\u003e\u003cu\u003e包含了\u003c/u\u003e\u003c/a\u003e来自 1,988 名开发者的  14,190 个变更集。开发者数量仅次于  Linux 5.13 的  2,062 人为历史第二高，有 296 名开发者是首次向内核贡献补丁。根据变更集统计，最活跃的五名开发者是 Michael Straube，Cai Huoqing，Jakub Kicinski，Christoph Hellwig 和 Bart Van Assche，其中 Michael Straube 的贡献主要集中在 r8188eu 无线网卡驱动程序，而 Cai Huoqing 主要做了大量的清理工作（可能是百度开发者，\u003ca href=\"https://lkml.org/lkml/2021/12/5/378\"\u003e\u003cu\u003e此前\u003c/u\u003e\u003c/a\u003e曾用 @baidu.com 后缀的邮件），Jakub Kicinski 改进了网络子系统，Christoph Hellwig 的贡献集中在块和文件系统层，Bart Van Assche 修改了 SCSI 子系统代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-13T08:35:21Z",
+  "Author": "WinterIsComing"
+}

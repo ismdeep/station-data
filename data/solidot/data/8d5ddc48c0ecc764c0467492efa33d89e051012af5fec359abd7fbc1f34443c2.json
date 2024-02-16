@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "JDK 15 发布",
+  "Link": "https://www.solidot.org/story?sid=65555",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:lonor@live.com\"\u003eLonor\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://openjdk.java.net/projects/jdk/15/\" target=\"_blank\"\u003eJDK 15 已于 2020 年 9 月 15 日发布\u003c/a\u003e。其新特性主要包括：使用 Edwards-Curve 数字签名算法（EdDSA）实现加密签名，限制超类的使用的 Sealed Classes（预览），Hidden Class，Records 语法（预览），堆外内存访问 API（第二次孵化），instanceof 类型模式匹配（第二次预览），重新实现了旧版 DatagramSocket API，两个低延迟垃圾回收器 Shenandoah 和 Z 现可用于生产，Text Blocks 语法也成为正式功能。除此之外，新版 JDK 默认禁用了偏向锁，淘汰了过时的 Nashorn JavaScript 引擎，并建议弃用 RMI 激活机制（会被将来的版本会移除）。和最近的几个版本一样，它依旧是短期支持版本。下一个长期支持版本（LTS）将会是 2021 年 9 月发布的 JDK 17。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-16T06:27:14Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 能通过 Chrome 安装 ID 跟踪用户",
+  "Link": "https://www.solidot.org/story?sid=63440",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 想要封杀第三方 cookie，想要替换 User-Agent 字符串...Google 会提供很多理由，最主要的理由它未必会说出来：它有更多的方法跟踪用户。当竞争对手的可用跟踪方法少了之后它的竞争优势会更大，而 Google 的 Android 和 Chrome 都有无数用户在使用。在 W3C Technical Architecture Group 上，Google 工程师\u003ca href=\"https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600\" target=\"_blank\"\u003e\u003cu\u003e提出了 User-Agent 的替代\u003c/u\u003e\u003c/a\u003e。在讨论中，有用户指出 Google 能通过 Chrome 安装 ID 跟踪用户。Chrome 在首次安装运行时会生成 Chrome-Variations 消息头，使用随机选择的种子数生成，如果浏览器禁用了使用统计和崩溃统计，种子数会在 0 -7999 之间选择。Google 称这个消息头不包含任何身份信息，但它可以组合收集的其它信息创造一个\u003ca href=\"https://news.ycombinator.com/item?id=22236106\"\u003e\u003cu\u003e独特 Chrome ID\u003c/u\u003e\u003c/a\u003e，即使用户使用隐身模式，这个 ID 也不会发生变化。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-06T08:22:13Z",
+  "Author": "WinterIsComing"
+}

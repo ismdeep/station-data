@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NPM 禁止终端广告",
+  "Link": "https://www.solidot.org/story?sid=61923",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在一个流行的 JS 库开始在 NPM 命令行界面展示广告之后，NPM 公司计划\u003ca href=\"https://www.zdnet.com/article/npm-bans-terminal-ads/\" target=\"_blank\"\u003e\u003cu\u003e未来禁止\u003c/u\u003e\u003c/a\u003e此类的行为。公司 CTO Ahmad Nassri 表示他们致力于改进政策扩大对社区的承诺。它更新了政策，明确不接受此类的商业内容。NPM 的新政策禁止在运行时、安装或软件开发周期的其它阶段展示广告。新政策针对的是 Standard 和 Funding 库的开发者 Feross Aboukhadije，Aboukhadije 在终端展示广告的做法导致了第一\u003ca href=\"https://github.com/kethinov/no-cli-ads\" target=\"_blank\"\u003e\u003cu\u003e种终端广告屏蔽器\u003c/u\u003e\u003c/a\u003e的诞生。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-31T14:32:30Z",
+  "Author": "wenfeixiang"
+}

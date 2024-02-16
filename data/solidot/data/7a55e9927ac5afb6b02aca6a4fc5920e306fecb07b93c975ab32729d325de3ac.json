@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LastPass 否认用户密码泄露",
+  "Link": "https://www.solidot.org/story?sid=70169",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t部分密码管理器 LastPass 的用户最近收到了主密码可疑登录尝试的邮件警告，引发了 LastPass 用户密码泄露的担忧。但 LastPass \u003ca href=\"https://gizmodo.com/lastpass-says-it-didnt-leak-your-password-1848276573\" target=\"_blank\"\u003e\u003cu\u003e否认该公司发生了用户密码泄露的事故\u003c/u\u003e\u003c/a\u003e。它在一份声明中表示，它认为是未知攻击者发动了撞库攻击（credential stuffing）。也就是攻击者使用从第三方获取到的电子邮件和密码去尝试登录 LastPass 上的用户账号。由于密码管理器包含了用户大量的其它服务密码，它如果被破解会导致严重的后果。密码管理器的主密码应该尽可能避免复用密码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-29T06:48:19Z",
+  "Author": "WinterIsComing"
+}

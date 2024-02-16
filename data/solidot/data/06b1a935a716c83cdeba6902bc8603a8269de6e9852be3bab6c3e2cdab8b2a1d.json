@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mastodon 给 TRUTH Social 30 天时间遵守 AGPL 许可证",
+  "Link": "https://www.solidot.org/story?sid=69439",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自由软件社交网络项目 Mastodon 向美国前总统特朗普的公司发去\u003ca href=\"https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/\"\u003e\u003cu\u003e正式通知\u003c/u\u003e\u003c/a\u003e，要求其开发的基于 Mastodon 的社交网络 TRUTH Social 遵守 AGPL 许可证\u003ca href=\"https://news.slashdot.org/story/21/10/29/227236/mastodon-puts-trumps-social-network-on-notice-for-improperly-using-its-code\" target=\"_blank\"\u003e\u003cu\u003e公开修改的源代码\u003c/u\u003e\u003c/a\u003e。特朗普的媒体技术集团(TMTG)与 Digital World Acquisition 上周\u003ca href=\"https://www.solidot.org/story?sid=69332\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e新社交网络  TRUTH Social，预计 11 月开放测试，TRUTH 很快被发现是基于 Mastodon，按照 AGPL 许可证要求它需要公开源代码。Mastodon 项目给 TRUTH 30 天时间遵守要求，否则它将无法使用 Mastodon 代码需要在不使用现有代码的情况下自行重构，这是相当困难的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-30T11:35:57Z",
+  "Author": "WinterIsComing"
+}

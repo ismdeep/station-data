@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 宣布从其 iOS 客户端移除 Facebook SDK",
+  "Link": "https://www.solidot.org/story?sid=63959",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t新冠疫情让提供远程会议服务的 Zoom 成为最受瞩目的科技公司之一，它的服务对于居家隔离和远程工作者来说是必不可少的。但 Zoom 的 iOS 客户端\u003ca href=\"https://www.vice.com/en_us/article/k7e599/zoom-ios-app-sends-data-to-facebook-even-if-you-dont-have-a-facebook-account\"\u003e\u003cu\u003e引发了批评\u003c/u\u003e\u003c/a\u003e，被发现会向 Facebook 发送数据，即使用户没有 Facebook 账号。Zoom 官方博客\u003ca href=\"https://blog.zoom.us/wordpress/2020/03/27/zoom-use-of-facebook-sdk-in-ios-client/\"\u003e\u003cu\u003e回应称\u003c/u\u003e\u003c/a\u003e，原因是它的客户端使用了 Facebook SDK。Zoom 称，它非常重视用户的隐私，它使用 Facebook SDK 实现了 Login with Facebook 的功能，让用户能更方便的访问其平台。它刚刚获悉，Facebook SDK 收集了设备操作系统类型，版本号，时区，型号，屏幕大小，处理器核心、可用储存空间和运营商等信息。这些信息对于 Zoom 提供服务并非是必要的，因此它决定移除 Facebook SDK，重新配置 Facebook 登陆功能，用户在更新之后仍然可通过浏览器使用 Facebook 账号登陆。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-28T09:52:19Z",
+  "Author": "WinterIsComing"
+}

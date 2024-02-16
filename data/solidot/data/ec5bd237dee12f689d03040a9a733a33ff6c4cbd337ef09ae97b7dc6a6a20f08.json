@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 11 发布",
+  "Link": "https://www.solidot.org/story?sid=65485",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 正式宣布\u003ca href=\"https://android-developers.googleblog.com/2020/09/android11-final-release.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e Android 11，源代码发布到 \u003ca href=\"https://source.android.com/\"\u003eAndroid Open Source Project\u003c/a\u003e (AOSP)。Google 表示  Android 11 将开始逐步推送给 Pixel、OnePlus、小米、Oppo 和 realme 等品牌的部分型号。从功能上说， Android 11 不是一次大的更新，主要变化包括通知面板加入了新的会话区；消息和聊天应用可以使用  \u0026#34;Bubbles\u0026#34; API 创建漂浮的对话框；长按电源按钮可快速访问设备控制；媒体控制允许用户快速切换输出设备；单次授权应用访问麦克风、摄像头或位置，下次使用时应用将需要再次请求权限；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-09T04:51:29Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Vivaldi 浏览器将内建广告与跟踪拦截器",
+  "Link": "https://www.solidot.org/story?sid=63963",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道 \u003ci\u003e\u0026#34;在多个浏览器\u003ca href=\"https://www.solidot.org/story?sid=47445\" target=\"_blank\"\u003e内建广告拦截器\u003c/a\u003e后，Vivaldi 浏览器也开始内建广告与\u003ca href=\"https://vivaldi.com/blog/snapshots/desktop/tracking-blocker-vivaldi-browser-snapshot-1838-3/\" target=\"_blank\"\u003e跟踪拦截器\u003c/a\u003e。跟踪拦截器使用了 \u003ca href=\"https://github.com/duckduckgo/duckduckgo-privacy-extension\" target=\"_blank\"\u003eDuckDuckGo Privacy Essentials\u003c/a\u003e 浏览器扩展同样的列表，列表基于 \u003ca href=\"https://github.com/duckduckgo/tracker-radar\" target=\"_blank\"\u003eDuckDuckGo Tracker Radar\u003c/a\u003e 跟踪器雷达的数据集生成，可以识别出能完全拦截而不破坏网站的跟踪器。拦截跟踪的方法是在发送之前停止对跟踪器 URL 的请求。对于多数用户而言，拦截跟踪就足够了，而网站需要广告获得收入，Vivaldi 则坚信\u003ca href=\"https://vivaldi.com/blog/snapshots/desktop/built-in-ad-blocker-vivaldi-browser-snapshot-1848-4/\" target=\"_blank\"\u003e用户说了算\u003c/a\u003e。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-29T13:02:27Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 网站因黑客攻击进入维护模式",
+  "Link": "https://www.solidot.org/story?sid=67209",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t著名开源 3D 绘图软件 Blender 通过其 Twitter 账号\u003ca href=\"https://twitter.com/Blender/status/1371273322399404038\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e其网站进入了维护模式，原因是有黑客尝试入侵。绝大部分基础设施，包括 Wiki、开发者入口、git 库、blender.chat 等功能仍然正常。目前网站除了首页显示的内容，大部分链接指向的页面都显示“不可用（This page is not available）”。目前网站已经下线了 12 小时。暂时不清楚攻击者的企图。当前软件供应链攻击非常流行，对 Blender 的攻击可能也是通过它攻击其客户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-15T13:41:38Z",
+  "Author": "WinterIsComing"
+}

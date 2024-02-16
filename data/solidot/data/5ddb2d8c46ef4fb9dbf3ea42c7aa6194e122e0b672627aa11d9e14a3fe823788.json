@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenWrt 19.07.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63242",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 路由器发行版 OpenWrt 释出了 19.07.0。新版\u003ca href=\"https://openwrt.org/releases/19.07/notes-19.07.0\"\u003e\u003cu\u003e整合了\u003c/u\u003e\u003c/a\u003e 18.06.0 以来的 3954 个 commits，支持从 18.06.0 升级到 19.07.0，但建议最好备份下配置。19.07.0 的发布代表着 OpenWrt 支持的所有对象固件都统一为同一个内核版本；初步支持 ath79 对象，OpenWrt 项目将逐渐从 ar71xx 过渡到 ath79，未来将停止支持 ar71xx；初步支持 WPA3，但默认没有启用，需要安装特定包；新的 Web 界面 LuCI，等等。其它变化包括：内核版本 4.14.162，musl libc 1.1.24，Clibc-ng 1.0.31，glibc 2.27，gcc 7.5.0，binutils 2.31.1，hostapd 2.9，dnsmasq 2.80，dropbear 2019.78，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-12T09:51:51Z",
+  "Author": "WinterIsComing"
+}

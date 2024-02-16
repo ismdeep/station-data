@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软收购了 Corp.com 域名防止其被滥用",
+  "Link": "https://www.solidot.org/story?sid=64055",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软以未披露的价格\u003ca href=\"https://krebsonsecurity.com/2020/04/microsoft-buys-corp-com-so-bad-guys-cant/\" target=\"_blank\"\u003e\u003cu\u003e从 Mike O’Connor 手中收购了 Corp.com 域名\u003c/u\u003e\u003c/a\u003e。今年二月，O’Connor 以起售价 170 万美元拍卖 Corp.com 域名，引发了安全方面的担忧，原因是命名空间冲突——即内网使用的域名在外网能被正常解析。基于 Windows 的企业内网通过 Active Directory 进行集中式目录管理服务，其中一项叫 DNS name devolution 的功能允许内网机器通过简写访问其他机器或服务器上的资源。举例来说，一共享硬盘的完整名称是 drive1.internalnetwork.example.com，内网设备可输入 drive1 即可访问该硬盘，不用输入完整名称。Corp.com 的问题在于 Windows 早期版本的默认或示例 Active Directory 路径是 corp，很多企业没有修改就直接采用了这个设置。在机器普遍为台式机的时代，这么做没什么问题。但在企业普遍使用笔记本电脑的时代，这就产生了安全方面的问题，因为雇员可能会在外网使用公司的笔记本电脑。在连接外网的情况下，笔记本上的部分资源可能会尝试访问内网的 corp 域名，而 Windows 的 DNS name devolution 工作方式会导致它寻求访问\nCorp.com 上的资源。谁控制了 Corp.com 域名就可以被动拦截许多企业计算机的私密通信。收购该域名的微软表示这可以更好的保护客户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-08T04:36:44Z",
+  "Author": "ai"
+}

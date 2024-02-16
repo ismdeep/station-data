@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将屏蔽 DigiTrust 的通用 ID 跟踪",
+  "Link": "https://www.solidot.org/story?sid=62791",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDigiTrust 正在开发一种标准化的共享用户 ID 以减少广告行业对第三方 cookies 的依赖。浏览器开发商正越来越多的采取行动屏蔽第三方跨站 cookies，新的方案就是应对这一情况而进行反制。DigiTrust 形容它的方案是提供一种匿名加密的身份标识符储存在第一方 cookies 内，其它广告商可以利用该共享标识符跟踪用户，不再需要第三方 cookies。Mozilla 发言人对此表示，未来版本的 Firefox \u003ca href=\"https://digiday.com/media/firefox-browser-will-block-the-iabs-digitrust-universal-id/\" target=\"_blank\"\u003e\u003cu\u003e将屏蔽 DigiTrust 的通用 ID 跟踪\u003c/u\u003e\u003c/a\u003e。DigiTrust 不是唯一一家提供通用 ID 方案的机构，LiveRamp 和 The Trade Desk 都在提供类似的方案。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-29T11:24:12Z",
+  "Author": "WinterIsComing"
+}

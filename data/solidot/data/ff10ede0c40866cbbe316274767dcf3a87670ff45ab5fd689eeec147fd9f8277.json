@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat 开发 NVFS 文件系统",
+  "Link": "https://www.solidot.org/story?sid=65558",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Red-Hat-NVFS-File-System\" target=\"_blank\"\u003e\u003cu\u003e正在开发\u003c/u\u003e\u003c/a\u003e名为 NVFS 的新文件系统，设计用于持久内存如 Intel Optane DCPMM。 NVFS 并不是第一个为持久内存设计的新高性能文件系统，目前任职于 Google 的 \u003ca href=\"https://github.com/Andiry\" target=\"_blank\"\u003e\u003cu\u003eAndiry Xu\u003c/u\u003e\u003c/a\u003e 在加州圣迭戈\u003ca href=\"http://cseweb.ucsd.edu/~jix024/\"\u003e\u003cu\u003e读博期间\u003c/u\u003e\u003c/a\u003e参与开发了 \u003ca href=\"https://lwn.net/Articles/754505/\" target=\"_blank\"\u003e\u003cu\u003eNOVA 文件系统\u003c/u\u003e\u003c/a\u003e，但这一开发努力于去年终止。Red Hat 工程师 Mikulas Patocka 领导开发的 NVFS 采用了类似 EXT4 的设计方法，集成了 Linux 的 VFS 代码，在持久内存上的性能好于 EXT2/EXT4/XFS 和 NOVA。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-16T08:24:02Z",
+  "Author": "WinterIsComing"
+}

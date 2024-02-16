@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "日本 ARM 超算富岳第三次登顶 Top 500 榜单",
+  "Link": "https://www.solidot.org/story?sid=68158",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTop 500 公布了\u003ca href=\"https://www.top500.org/news/fugaku-holds-top-spot-exascale-remains-elusive/\" target=\"_blank\"\u003e最新的榜单\u003c/a\u003e，日本\n ARM 超算富岳第三次登顶。富岳安装在神户的日本理化所计算机科学中心，其处理器为富士通公司的 48/52 核 A64FX ARM v8.2-A，采用了可缩放矢量扩展（Scalable Vector Extension）和 512 位实现，为高性能计算进行了优化，由台积电 7 纳米工艺制造，晶体管数量 878.6 亿。A64FX 包含 48 个计算核心和 2 到 4 个辅助核心，没有 GPU 加速器，封装了 HBM2 内存。富岳的处理器核心数从今年上半年的 7,299,072 增加到了 7,630,848，运算性能达到 442 petaflops，是第二名美国橡树岭国家实验室 IBM 超算 Summit 的 3 倍。排名前十的超算只出现一个新人：富岳，Summit（148.6 petaflops），Sierra，神威太湖之光，新超算 Perlmutter（使用 AMD EPYC 处理器和英伟达 A100 GPU，性能 64.6 petaflops），英伟达超算 Selen（性能 63.4 petaflops），天河二号 A（61.4 petaflops），德国超算 JUWELS Booster Module（44.1 petaflops），HPC5（意大利），Frontera。中国依旧保持超算数量第一有 186  台(比去年的 212 台大幅下降，原因未知)，美国 123 台，美国超算的总性能高于中国，以 856.8 petaflops 超过中国的 445.3 petaflops。Top 500 超算中使用 AMD CPU 的数量在大幅增加，从去年的 21 \n台增加到 43 台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-29T15:19:06Z",
+  "Author": "WinterIsComing"
+}

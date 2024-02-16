@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ESR 猜测 Windows 未来会切换到 Linux 内核",
+  "Link": "https://www.solidot.org/story?sid=65681",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEric S. Raymond(ESR)指出，微软的大部分收入来自于其云服务 Azure，因此未来 Windows 系统的开发不可避免的会成为微软业务的累赘。如果你是微软的企业战略师，最大化利润的方向是什么？ESR 认为 \u003ca href=\"https://linux.slashdot.org/story/20/09/27/193250/eric-s-raymond-is-microsoft-switching-to-a-linux-kernel-that-emulates-windows\" target=\"_blank\"\u003e\u003cu\u003eWindows 将会切换到 Linux 内核\u003c/u\u003e\u003c/a\u003e，通过切换到 Linux，微软将能大幅减少开发成本。新 Windows 将主要是基于 Linux kernel，上面有旧 Windows 的模拟层。模拟层是方便游戏和第三方应用程序，而 Edge 等实用工具则不使用模拟而是 Linux 原生应用。Linux 最终将赢得桌面战争，但它不是通过取代 Windows，而是融合。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-28T13:39:15Z",
+  "Author": "WinterIsComing"
+}

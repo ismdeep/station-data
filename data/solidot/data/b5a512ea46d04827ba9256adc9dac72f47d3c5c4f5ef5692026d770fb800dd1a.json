@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "威盛作价 1.25 亿美元将 x86 子公司 Centaur 出售给英特尔",
+  "Link": "https://www.solidot.org/story?sid=69556",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为三季度财报发布的一部分，威盛科技\u003ca href=\"https://www.anandtech.com/show/17049/via-to-offload-parts-of-x86-subsidiary-centaur-to-intel-for-125-million\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e该公司正与英特尔达成一项不同寻常的协议，以剥离威盛的 x86 研发子公司 Centaur Technology 的业务。根据这项模糊交易条款，英特尔将向 Centaur 支付 1.25 亿美元以聘用部分工程人员——或者如威盛宣布的、更奇特的说法，“招募了一些 Centaur 的员工加入英特尔”，尽管这笔交易的价码高达九位数，可却并没有提到Centaur 的业务、设计或专利，也没有宣布计划的截止日期。\n\u003cbr/\u003e\n\u003cbr/\u003e\n总部位于奥斯汀的 Centaur 自 1999 年起成为威盛子公司，负责为威盛的其他部分开发 x86 内核设计，开发辅助 IP 例如深度学习加速器。通过 Centaur，威盛科技成了 x86 三巨头中的一员，同英特尔和 AMD一样，成了x86 许可证持有者。Centaur 的设计从未像 AMD 或英特尔那样广泛采用，但是自 90 年代以来，在并入威盛旗下的大部分时间里，它一直在 x86 市场上占有一席之地。\n\u003cbr/\u003e\n\u003cbr/\u003e\nCentaur 的最新研发成果是该公司于 2019 年末发布的 CNS x86 内核。据称这款瞄准了服务器级工作负载的处理器可提供类似 Haswell 的通用 CPU 性能，支持 AVX-512 指令集（通过 256-bit SIMD 执行超过 2 轮）。反过来，CNS 可被组合进一个 Centaur 称为 CHA 的产品，该产品增加了结构和 I/O，还有一个集成的专用深度学习加速器。首款基于 CHA 的芯片最初预计将于 2020 年下半年推出，但是目前还没有听到任何消息，这种情况对威盛来说并不罕见。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-09T12:07:15Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布如何安装 Linux 指南",
+  "Link": "https://www.solidot.org/story?sid=76314",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软早就不把 Linux 视为敌人，它的云计算业务就受益于 Linux，因此软件巨人发表了一份如何下载和安装 Linux 的指南也不是什么不可思议的现象。微软介绍了多种安装 Linux 的方法，包括 Windows Subsystem for Linux (WSL) ，裸金属 Linux、虚拟机、本地或云端。它推荐的发行版包括了 Ubuntu、Debian、Kali Linux、OpenSUSE 等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://learn.microsoft.com/en-us/linux/install\u003cbr/\u003e\nhttps://linux.slashdot.org/story/23/10/11/1521249/microsoft-gives-unexpected-tutorial-on-how-to-install-linux\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-12T05:39:29Z",
+  "Author": "Wilson"
+}

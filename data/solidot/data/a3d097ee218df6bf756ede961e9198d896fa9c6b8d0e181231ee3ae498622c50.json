@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "密码管理器 Passwordstate 被植入后门",
+  "Link": "https://www.solidot.org/story?sid=67592",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t密码管理器 Passwordstate 的开发商 Click Studios \u003ca href=\"https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/\" target=\"_blank\"\u003e\u003cu\u003e通知客户\u003c/u\u003e\u003c/a\u003e，恶意攻击者入侵了它的升级机制，在客户电脑上安装了一个恶意文件。名为 moserware.secretsplitter.dll 的恶意文件包含了 \u003ca href=\"https://github.com/moserware/SecretSplitter\" target=\"_blank\"\u003e\u003cu\u003eSecretSplitter\u003c/u\u003e\u003c/a\u003e 的一份拷贝和恶意代码 Loader。恶意代码会尝试将 Passwordstate 数据发送到攻击者控制的服务器上。入侵发生在 4 月 20 日 8:33 am UTC 到 4 月 22 日 12:30 am 之间，攻击者的服务器在 4 月 22 日 7:00 am UTC 关闭。这次入侵的严重性在于 Passwordstate 是主要出售给企业级客户，用于管理防火墙、VPN 和其它企业应用的密码，有多达 2.9 万客户受到影响。这是最新一起的供应链攻击案件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-24T05:36:50Z",
+  "Author": "WinterIsComing"
+}

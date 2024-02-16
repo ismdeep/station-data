@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gaijin 开源 《战争雷霆》使用的引擎",
+  "Link": "https://www.solidot.org/story?sid=76461",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在俄罗斯创办、目前总部位于匈牙利的游戏开发商 Gaijin Entertainment 开源了它的热门战争类网游《战争雷霆》使用的 Dagor 引擎，源代码采用 BSD 3-Clause 许可证托管在 GitHub 上。这意味着其他人几乎可以不受限制的修改和使用该引擎。《战争雷霆》于 2012 年上线，国区版本此前由腾讯代理。在上线十多年之后，根据 Steam 的统计数据，它的同时在线玩家仍然有 2.5 万以上，是 Steam 上最热门的游戏之一。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/GaijinEntertainment/DagorEngine\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-27T05:58:38Z",
+  "Author": "Wilson"
+}

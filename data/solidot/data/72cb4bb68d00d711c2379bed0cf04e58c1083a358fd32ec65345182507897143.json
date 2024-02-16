@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeBSD 13.0 发布",
+  "Link": "https://www.solidot.org/story?sid=67486",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeBSD 项目正式释出了 \u003ca href=\"https://www.freebsd.org/releases/13.0R/relnotes/\"\u003e\u003cu\u003eFreeBSD 13.0-RELEASE\u003c/u\u003e\u003c/a\u003e。它包含了大量的软件更新，移除了大量不再有用的工具，因为时间关系 FreeBSD 13.0 \u003ca href=\"https://lwn.net/Articles/850098/\"\u003e\u003cu\u003e未能加入\u003c/u\u003e\u003c/a\u003e对 WireGuard VPN 的支持。其它重要的变化包括：ZFS 2.0，更新了内核加密框架更好的支持现代加密算法和简化接口，等等，更多可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-14T06:02:55Z",
+  "Author": "WinterIsComing"
+}

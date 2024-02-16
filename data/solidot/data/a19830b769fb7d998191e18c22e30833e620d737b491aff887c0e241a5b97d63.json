@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "大语言模型涌现无法预测的能力",
+  "Link": "https://www.solidot.org/story?sid=74424",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在去年组织的一次测试中，研究人员输入不同的提示去测试不同规模大语言模型的能力。其中之一是一个女孩和三条鱼的绘文字，询问它们描述了哪部电影。最小的模型产生了超现实的答案：“The movie is a movie about a man who is a man who is a man”。中等复杂度的模型猜测是《Emoji大电影》，最复杂的模型一锤定音《海底总动员（Finding Nemo）》。计算机科学家对大语言模型的表现非常吃惊。语言模型已经研究了几十年，五年前最强大的模型是基于递归神经网络，本质上是根据提供的文本字符串猜测下一个单词是什么，所谓递归是从输出中不断学习，利用反馈去改进性能。2017 年 Google Brain 的研究人员提出了被称为 transformer 的新型架构。递归网络是逐字分析句子，transformer 则是同时处理所有单词，它能并行处理大块文本。Transformers 能通过增加模型的参数快速扩展语言模型的复杂度。2020 年 OpenAI 的研究人员发现随着参数规模的增加语言模型改进了其能力和准确度。但大语言模型也同时带来了一些始料未及的东西。研究人员发现大语言模型产生了数以百计的“新”能力，这种行为被称为涌现。研究人员如今正努力去识别新的涌现能力，以及找出背后的原因——本质上是去尝试预测不可预测性。了解涌现可揭示出 AI 和一般机器学习深层问题的答案，如复杂模型是真的在做新事情，还是极其擅长统计。它还可帮助研究人员去利用潜在的益处和减少涌现风险。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.quantamagazine.org/the-unpredictable-abilities-emerging-from-large-ai-models-20230316/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-18T07:01:38Z",
+  "Author": "Wilson"
+}

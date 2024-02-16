@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "25 年前写的 Windows 3.1 程序仍然能正常运行",
+  "Link": "https://www.solidot.org/story?sid=68523",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t悉尼大学的 Mark Pesce 在准备 SIGGRAPH 演讲时翻出了 20-30 年前写的程序，其中包括用于浏览 3D 内容的浏览器 \u003ca href=\"https://markpesce.com/labyrinth\" target=\"_blank\"\u003e\u003cu\u003eLabyrinth\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://en.wikipedia.org/wiki/Mark_Pesce\"\u003e\u003cu\u003eMark Pesce \u003c/u\u003e\u003c/a\u003e是一位未来学家，在 1991 年创办了以 William Gibson 小说《神经漫游者》中虚构公司名字命名的 Ono-Sendai Corporation，它是最早一批虚拟现实创业公司。他尝试解压和运行这个为 Windows 3.1 操作系统编写的程序，结果惊讶的发现它在今天仍然能正常运行，甚至还能成功加载为 3D Web 开发的 \u003ca href=\"http://hyperreal.org/~mpesce/banana.wrl\" target=\"_blank\"\u003eCyberbanana\u003c/a\u003e。他\u003ca href=\"https://www.theregister.com/2021/08/11/column_cyberbanana_windows/\"\u003e\u003cu\u003e称赞了\u003c/u\u003e\u003c/a\u003e微软在操作系统向后兼容方面做出的成就。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-12T08:00:09Z",
+  "Author": "WinterIsComing"
+}

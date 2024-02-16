@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伊朗新数据破坏恶意程序正在攻击中东企业",
+  "Link": "https://www.solidot.org/story?sid=62855",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 的安全部门 X-Force \u003ca href=\"https://arstechnica.com/information-technology/2019/12/new-iranian-wiper-discovered-in-attacks-on-middle-eastern-companies/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一种新的数据删除恶意程序被用于对中东企业发动破坏性攻击。该恶意程序被称为 ZeroCleare，被认为是多个伊朗黑客组织协作行动的一部分。攻击的初始阶段从阿姆斯特丹 IP 地址发动，该 IP 与伊朗黑客组织 TG13 Group aka Oilrig 和 APT34 有关联。攻击者通过暴力破解攻击窃取目标的网络账号，利用一个 SharePoint 漏洞向 SharePoint 植入 web shell，尝试安装 TeamViewer 远程访问工具，使用修改版的 Mimikatz 窃取更多网络凭证。渗透到企业网络之后，攻击者开始传播 ZeroCleare 恶意程序，在被感染的机器上覆写主引导记录和硬盘分区。受害者主要位于被伊朗视为竞争对手国家的能源和工业部门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-05T08:42:03Z",
+  "Author": "WinterIsComing"
+}

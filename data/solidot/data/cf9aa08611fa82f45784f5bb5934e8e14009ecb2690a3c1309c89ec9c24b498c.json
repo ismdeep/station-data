@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员利用供应链攻击入侵 35 家科技公司",
+  "Link": "https://www.solidot.org/story?sid=66916",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位安全研究员设法利用一种新颖的软件供应链攻击\u003ca href=\"https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e 35 家大型科技公司的内部系统，这些公司包括了 Microsoft、Apple、PayPal、Shopify、Netflix、Yelp、Tesla 和 Uber。这次攻击利用了开源生态系统的一个设计缺陷：依赖关系混乱。Alex Birsan 注意到 PayPal 使用的一个程序包含了非公开的私有 npm 包，他想知道如果他创建一个同名的公开的  npm 包，那么软件在构建时是优先使用私有的还是公开的版本？为了测试这一假说，他向流行的软件包库 npm、PyPI 和 RubyGems 上传了同名的冒牌项目，每个项目都包括了相同的说明，解释软件包不包含任何有用的代码，只是用于安全研究目的。他发现，公开的软件包会比私有的软件包优先度更高；某些情况下版本更高的软件包优先度更高，无论私有还是公开。利用这一方法，他成功入侵了多家知名科技公司，获得了超过 13 万美元的漏洞报告奖励。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-10T15:39:01Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么开发者不使用 Rust？",
+  "Link": "https://www.solidot.org/story?sid=64234",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在编程问答社区 Stack Overflow 的最喜欢编程语言投票中，Rust 连续四年高居第一。但 Rust 项目承认，尽管如此，Rust 存在严重的普及度问题：Stack Overflow 的投票显示：开发者对 Rust 有普遍好感，但 97% 的开发者并不真正使用它。\u003ca href=\"https://developers.slashdot.org/story/20/04/26/0222228/why-arent-more-developers-using-rust\" target=\"_blank\"\u003e\u003cu\u003e为什么不使用 Rust \u003c/u\u003e\u003c/a\u003e的调查显示：受访者称公司不使用，或者学习曲线太陡，缺乏必要的库，缺乏集成开发环境的支持，需要更好的培训和文档。换句话说，Rust 缺乏走向大众的生态系统，这不是一朝一夕能建立起来的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-27T14:08:32Z",
+  "Author": "blackhat"
+}

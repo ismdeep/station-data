@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "欺骗性技术支持网站利用 Firefox bug 锁定浏览器",
+  "Link": "https://www.solidot.org/story?sid=62506",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t欺骗性技术支持网站正利用一个 Firefox bug \u003ca href=\"https://arstechnica.com/information-technology/2019/11/scammers-are-exploiting-an-unpatched-firefox-bug-to-send-users-into-a-panic/\" target=\"_blank\"\u003e\u003cu\u003e锁定浏览器并恐吓用户\u003c/u\u003e\u003c/a\u003e，声称用户运行的 Windows 操作系统是盗版已遭到入侵，要求用户在五分钟内拨打技术支持电话。Windows 和  Mac 版本的 Firefox 都受到影响，当浏览器访问攻击者的网站，会弹出警告窗口，标签和浏览器随后被锁定，用户只能强制性关闭浏览器，如 Windows 下是通过任务管理器选择 Firefox。用户重新打开浏览器后需要在网页加载完成前关闭该标签（或者断网）。Malwarebytes 的安全研究员 Jérôme Segura 已经向 Mozilla \u003ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1593795\"\u003e\u003cu\u003e报告了该 bug\u003c/u\u003e\u003c/a\u003e，Mozilla 表示正在开发补丁，预计会在 Firefox 71 或 72 中修复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-06T07:35:50Z",
+  "Author": "wenfeixiang"
+}

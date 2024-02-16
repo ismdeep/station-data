@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞",
+  "Link": "https://www.solidot.org/story?sid=67960",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从 286 时代起，x86 处理器都是使用一个拜占庭系统去管理中断、故障和异常，它组合使用了查询表、权限检查等，可能会让人困惑，但大部分情况下能正常工作。不可避免的是，中断描述符表存在一些 bug，竞争条件、死锁、无限循环和权限冲突等问题虽然罕见但却难以避开。英特尔和 AMD 都各自提出一种方案\u003ca href=\"https://www.eejournal.com/article/we-interrupt-this-program/\"\u003e\u003cu\u003e去简化 x86 处理器的中断处理\u003c/u\u003e\u003c/a\u003e。两家公司的方案是互相不兼容的，英特尔野心更大，但将需要程序员重写程序才能利用新的机制，而 AMD 的方案更像是补丁而不是彻底改变，因此更简单。英特尔提出了 \u003ca href=\"https://software.intel.com/content/dam/develop/external/us/en/documents-tps/346446-flexible-return-and-event-delivery.pdf\"\u003e\u003cu\u003eFRED (Flexible Return and Event Delivery)\u003c/u\u003e\u003c/a\u003e 去替代中断描述符表及其中断描述符，将权限级别的数量从 4 个减少到 2 个。FRED 是一个可选的系统，能与现有的方法共存，你需要在启动时候启用 FRED。AMD 的方案称为 \u003ca href=\"https://www.amd.com/system/files/TechDocs/57115.pdf\" target=\"_blank\"\u003e\u003cu\u003eSupervisor Entry Extensions (SEE)\u003c/u\u003e\u003c/a\u003e，保留了现有的中断描述符表和权限数量，它调整了现有的 SYSCALL 指令，添加了一个状态位标记中断处理程序为可重入，它寻求堵上一些漏洞。Linux 作者 Linus Torvalds \u003ca href=\"https://www.realworldtech.com/forum/?threadid=200812\u0026amp;curpostid=200822\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e这两个方案都是好主意，建议都实现一下。两个方案并非完全互相排斥的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-05T08:00:28Z",
+  "Author": "WinterIsComing"
+}

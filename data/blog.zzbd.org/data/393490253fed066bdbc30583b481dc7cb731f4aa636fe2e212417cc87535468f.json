@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "找出“页面上有错误”的元凶",
+  "Link": "https://blog.zzbd.org/2010/01/06/findbugs/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e今天打开博客，在主页多停留了一会儿，没成想IE状态栏跳出了“页面有错误”的提示。\u003cimg data-src=\"http://cdn.zzbd.org/2010-01-06-12-20-00.jpg\" alt=\"wrongpage\" title=\"wrongpage\"/\u003e\u003cbr/\u003e打开Opera，果然跳出了“javascript错误”的对话框，可惜opera没有提供什么有用的信息。反复观察发现是首页的一个flash加载完成之后才会页面错误，看来不是wordpress程序或者模板的问题了。一番折腾之后，积累了以下经验和大家分享：\u003cbr/\u003e首先回想一下最近对博客进行的更新，比如增加的文章、插件、PHP代码等。最常见的错误是：\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e 标点符号不是半角，用外置程序写博客，比如windows live writer,会出现这个问题这个问题很常见，我就不嚼舌了；\u003c/li\u003e\u003cli\u003e PHP代码不规范，比如标点，换行等等。标点问题同上，在不应该换行的地方换行（比如一个元素单词分成两段）比较容易被忽略，改正就是了。另外改核心代码最好不要用windows记事本；\u003c/li\u003e\u003cli\u003e 使用了不兼容插件修改文章或代码，有可能你跟我一样，用FCKEditor插入了个flash，然后停用它，导致代码不能正常解析。这个问题好解决。\u003c/li\u003e\u003cli\u003e 此外，高手可以直接看页面源文件查找问题，这也是最高效的办法。\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e菜鸟如果实在解决不了，我推荐使用opera的“校验”功能。就是在发生错误的页面点右键-校验，会弹出一个分析结果页，它把源代码中的错误都罗列出来，并且详细分析了原因。不过页面是英文的，英语不好的得多花点时间理解。你还可以结合IE8的“开发人员工具”（F12）迅速找到发生错误的位置。没有Opera的站长朋友也可以登录\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://validator.w3.org/#validate_by_uri\"\u003evalidate_by_uri\u003c/a\u003e，输入网址。点“GO”也能达到目的。\u003c/p\u003e\u003cp\u003e在你觉得所有错误都改正之后需要清除一下cookies跟缓存文件，刷新一下，错误提示应该没有了。\u003c/p\u003e\u003cp\u003e这只是个人经验，要做好一个网站，经常维护是少不了的，有错即改，这样不会导致错误堆积，最终到了不可收拾的地步。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-01-05T20:56:09Z",
+  "Author": "J. F"
+}

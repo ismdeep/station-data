@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Signal 引入模糊工具",
+  "Link": "https://www.solidot.org/story?sid=64574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加密消息应用 Signal 称，他们支持人民走上街发出声音，而有许多抗议者是使用 Signal 进行沟通和组织的。为了更好的帮助这些抗议者，它释出了更新，\u003ca href=\"https://signal.org/blog/blur-tools/\" target=\"_blank\"\u003e\u003cu\u003e为图像编辑器引入模糊功能\u003c/u\u003e\u003c/a\u003e，模糊用户所分享照片中的人脸。新的模糊功能利用了  Android 和 iOS 中的系统和平台级库，为保护隐私，所有处理都是在本地进行。这些库并不完美，可能会检测不出人脸，这个时候用户可以手动操作去模糊人脸。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-04T12:45:46Z",
+  "Author": "WinterIsComing"
+}

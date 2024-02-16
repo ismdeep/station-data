@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "学生的物理作业引起 AWS 量子研究员的注意",
+  "Link": "https://www.solidot.org/story?sid=67480",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t经典计算机中的比特错误是极其罕见的，但量子计算机中的量子比特则极其容易受到外界干扰。为了让量子计算机能有效工作，它需要纠错。悉尼大学的一位科学专业的本科生 Pablo Bonilla Ataides 领了一门物理作业，去检查下量子纠缠码 XZZX 能否被改进。结果他发现调整代码能将其纠错能力提升一倍。他的作业\u003ca href=\"https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html\" target=\"_blank\"\u003e\u003cu\u003e引起了\u003c/u\u003e\u003c/a\u003e亚马逊 AWS 量子计算中心的研究员的注意。他们在《Nature Communications》期刊上发表了署名论文《\u003ca href=\"https://www.nature.com/articles/s41467-021-22274-1\"\u003e\u003cu\u003eThe XZZX surface code\u003c/u\u003e\u003c/a\u003e》。AWS 研究人员计划在开发量子硬件时采用改进的纠错技术。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-13T13:32:47Z",
+  "Author": "WinterIsComing"
+}

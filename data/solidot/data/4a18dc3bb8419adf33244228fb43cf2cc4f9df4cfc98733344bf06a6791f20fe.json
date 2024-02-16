@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意 PyPI 包窃取信用卡和登陆凭证",
+  "Link": "https://www.solidot.org/story?sid=68451",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件包库日益成为供应链攻击的一个目标。流行的软件包库 npm、PyPI 和 RubyGems 都被发现存在恶意包。攻击者利用了软件开发者对官方库的盲目信任。JFrog 的安全研究人员\u003ca href=\"https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/\" target=\"_blank\"\u003e\u003cu\u003e最近在 PyPI 库中发现了 8 个恶意包\u003c/u\u003e\u003c/a\u003e，下载量大约 3 万次，但确切影响难以判断。这些恶意包有的设计窃取 Discord 服务的令牌，窃取信用卡信息或注入代码。所有这些恶意包都使用了简单的混淆技术欺骗分析工具避免被识别和剔除。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-04T02:16:49Z",
+  "Author": "WinterIsComing"
+}

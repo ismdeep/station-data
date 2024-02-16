@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为何 AlphaFold 不会对新药研制产生革命性影响？",
+  "Link": "https://www.solidot.org/story?sid=72396",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDeepMind 上个月\u003ca href=\"https://www.solidot.org/story?sid=72298\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e发布所有已知蛋白质的预测结构，它的蛋白质结构数据库 AlphaFold DB 中的数据超过了 2 亿。这一突破是否会对新药研制产生革命性影响？在多家大型药厂工作过的 Derek Lowe 博士\u003ca href=\"https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article\"\u003e\u003cu\u003e给出了否定答案\u003c/u\u003e\u003c/a\u003e。他指出 AlphaFold DB 发现的蛋白质结构是知其然而不知其所以然——为什么蛋白质如此折叠的疑问还需要很多年才能回答。此外 AlphaFold 算法是建立在有序的已知结构的基础之上，对于无序的结构帮助不大。有些无序的蛋白质会在其它蛋白质存在的情况下突然变成有序，而有些在任何条件下都不会变成有序。这一特性对其功能至关重要。部分蛋白质行为无法通过结构解释，显然超出了 AlphaFold 的能力范围。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-08T14:36:16Z",
+  "Author": "WinterIsComing"
+}

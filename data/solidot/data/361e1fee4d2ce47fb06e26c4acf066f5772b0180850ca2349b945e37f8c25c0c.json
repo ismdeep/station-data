@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NASA 计划在未来太空任务中使用 RISC-V 架构处理器",
+  "Link": "https://www.solidot.org/story?sid=72699",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为 NASA 高性能太空计算项目(HPSC) 的一部分，开发 RISC-V 架构处理器的 SiFive 公司将为未来的太空任务\u003ca href=\"https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem\"\u003e\u003cu\u003e开发 HPSC 处理器\u003c/u\u003e\u003c/a\u003e。太空任务使用的处理器都需要强化抗辐射能力。SiFive 公司开发的 HPSC 处理器将包含 8 个 Intelligence X280 RISC-V 矢量核心 和另外 4 个 SiFive RISC-V 核心，其计算能力将百倍于现有的太空计算机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-07T07:17:38Z",
+  "Author": "WinterIsComing"
+}

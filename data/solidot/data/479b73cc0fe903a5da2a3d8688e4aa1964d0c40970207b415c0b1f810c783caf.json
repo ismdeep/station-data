@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeBSD 降低对 i386 架构的支持",
+  "Link": "https://www.solidot.org/story?sid=66805",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeBSD 项目\u003ca href=\"https://lists.freebsd.org/pipermail/freebsd-announce/2021-January/002006.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，从 FreeBSD 13.x 起 i386 架构将降为二级支持架构，i386 架构特定的问题可能不会去修复。i386 32 位微架构至今已有 35 年历史，主要芯片公司基本上不再提供 i386 芯片，主要 Linux 发行版也都陆续停止了对该架构的支持。FreeBSD 项目称，i386 仍然是  FreeBSD 11.x 和 12.x 的一级支持架构，未来发布的 14.x 有可能会进一步降低对它的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-29T13:24:02Z",
+  "Author": "WinterIsComing"
+}

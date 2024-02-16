@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Maps 加入新冠信息",
+  "Link": "https://www.solidot.org/story?sid=65652",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 官方博客\u003ca href=\"https://blog.google/products/maps/navigate-safely-new-covid-data-google-maps/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，Google Maps 正在加入新冠确诊病例信息，用户将可以像查看一个地区的交通数据那样查看该地区的新冠确诊数据。当该功能推送到设备之后，用户点击“层”按钮切换到一个 COVID-19 视图，Google Maps 将根据过去 7 天每 10 万人的平均新冠确诊病例数据给地图涂上不同颜色，灰色表示该地区每 10 万人确诊病例不到 1 例，黄色表示 1 - 10 例，橙色 10-20 例，深橙色 20-30 例，红色 30-40 例，暗红色 40 例以上。Google 表示新冠确诊数据来自多个权威来源，包括约翰霍普金斯大学、纽约时报和维基百科，而这些地方的数据来自于公共卫生机构如世界卫生组织、政府卫生部门、州和当地卫生部门以及医院。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-25T10:28:53Z",
+  "Author": "WinterIsComing"
+}

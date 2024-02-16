@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "百度的自然语言图像合成模型有敏感词限制",
+  "Link": "https://www.solidot.org/story?sid=72771",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t百度发布了自己的自然语言图像合成模型 ERNIE-ViLG，有中国视频主播\u003ca href=\"https://www.bilibili.com/video/BV1Ug411U7VL/\"\u003e\u003cu\u003e对比\u003c/u\u003e\u003c/a\u003e了用 ERNIE-ViLG、DALL-E 2 和 Stable Diffusion 等不同模型生成的图像，认为 ERNIE-ViLG 产生了更精确的图像。百度在 Hugging Face 上发布了 ERNIE-ViLG 的 \u003ca href=\"https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG\"\u003e\u003cu\u003eDEMO\u003c/u\u003e\u003c/a\u003e，用户很快注意到与 DALL-E 2 和 Stable Diffusion 等 AI 模型的区别：\u003ca href=\"https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/\"\u003e\u003cu\u003e有敏感词限制\u003c/u\u003e\u003c/a\u003e。输入某些词语会返回“存在敏感词，请重新输入”或者“输入内容不符合相关规则，请调整后再试！”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-15T03:48:32Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ardour 8.0 释出",
+  "Link": "https://www.solidot.org/story?sid=76284",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源音频工作站 Ardour 释出了 8.0 版本。除了修复 bug 外，新版本带来了大量改善用户体验的变更（即所谓的 Quality Of Life），新特性包括：在用户长期要求下加入了调整 MIDI音键速度的传统 Lollipops 编辑界面；允许用户根据需要编排音乐，支持 3 点编辑（3-point edits）；新的 MIDI Track Piano Roll Header；支持 Launchpad Pro；Quick Groups；等等。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://ardour.org/whatsnew.html#\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-09T12:13:50Z",
+  "Author": "Wilson"
+}

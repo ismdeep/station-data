@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stability AI 宣布了它的 AI 编程助手 StableCode",
+  "Link": "https://www.solidot.org/story?sid=75752",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAI 创业公司 Stability AI 宣布了它的 AI 编程助手 StableCode。StableCode 使用了三种不同的模型，基础模型首先使用了 BigCode 的 stack-dataset (v1.2)数据集训练，然后用流行编程语言如 Python、Go、Java、 Javascript、C、markdown 和 C++ 进一步训练。训练使用的总数据量达到了5600 亿 token。基础模型确定之后，指令模型用特定用例微调，以帮助解决复杂的编程任务。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://stability.ai/blog/stablecode-llm-generative-ai-coding\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-09T15:29:58Z",
+  "Author": "Wilson"
+}

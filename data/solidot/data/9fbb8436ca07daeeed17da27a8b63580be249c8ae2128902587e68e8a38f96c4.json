@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "斯坦福 AI“基石”提议引发争议",
+  "Link": "https://www.solidot.org/story?sid=69015",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，由数十位斯坦福大学研究人员共同撰写的论文将一部分 AI 模型称为“\u003ca href=\"https://crfm.stanford.edu/\"\u003e\u003cu\u003e基石（foundation）\u003c/u\u003e）\u003c/a\u003e”，引发了人们对于 AI 未来发展的\u003ca href=\"https://news.slashdot.org/story/21/09/20/0015220/stanfords-proposal-over-ais-foundations-creates-controversy\"\u003e\u003cu\u003e争论\u003c/u\u003e\u003c/a\u003e。斯坦福大学提议建立新的研究机构来研究这些所谓“模型”，但反对者称这些“基石”会彻底“扰乱有意义的讨论”。 有人认为这些模型的功能相当有限、而且经常出现难以解释的怪异行为；也有些人警告称，这是在过度强调实现机器智能的特定一种方法。加州大学伯克利分校研究 AI 技术的 Jitendra Malik 教授在\u003ca href=\"https://www.reddit.com/r/MachineLearning/comments/pd4jle/d_jitendra_maliks_take_on_foundation_models_at/\" target=\"_blank\"\u003e\u003cu\u003e视频讨论\u003c/u\u003e\u003c/a\u003e中向与会者们宣布，“我认为「基石」这个词用得大错特错。”Malik 承认，斯坦福大学研究人员确定的这类能够回答问题、或者根据提示生成文本的大型语言模型确实拥有巨大的实际用途，但在他看来生物学进化证明语言需要建立在智能的多种具体基石之上，比如与物理世界互动的能力。Malik 强调，“这些模型只是空中楼阁，没有任何基础、自然也不应被称为基石。这些模型中的语言是被悬置起来的虚假产物，不存在任何对语义的真实理解……”亚利桑那州立大学 Subbarao Kambhampati 教授也认为，这些模型并不能指明通往通用型AI技术的确切路径……华盛顿大学语言学系 Emily M. Bender 教授则表示，她担心基石模型的想法反映出投资行业对于以数据为中心的AI方法的过度偏好……与之并列、同样非常重要的领域则严重缺乏资金。她指出，“希望行业能在把资金投入云端之前，先照顾一下其他没那么光鲜的相关学科。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-22T10:16:17Z",
+  "Author": "wanwan"
+}

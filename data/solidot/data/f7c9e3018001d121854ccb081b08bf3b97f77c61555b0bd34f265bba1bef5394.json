@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "防火墙开始屏蔽 ESNI",
+  "Link": "https://www.solidot.org/story?sid=65185",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t防火墙\u003ca href=\"https://gfw.report/blog/gfw_esni_blocking/zh/\" target=\"_blank\"\u003e\u003cu\u003e被发现开始屏蔽\u003c/u\u003e\u003c/a\u003e ESNI（加密服务器名称指示）。TLS1.3 引入了 ESNI（尚未成为正式规格），用加密的 SNI 阻止中间人查看客户端要访问的特定网站。因为不知道用户使用 ESNI 访问的网站，审查者要么不封锁任何 ESNI 连接，要么封锁所有的 ESNI 连接。防火墙选择了后者。测试发现，防火墙通过丢弃从客户端到服务器的数据包来阻止 ESNI 连接。此外，ESNI 封锁不仅会发生在 443 端口，也会发生在 1 到 65535 的所有端口。在阻断 ESNI 握手后，防火墙会继续阻断与（源IP，目标IP，目标端口) 3 元组相关的任何连接一段时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-08T05:43:08Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "至少三万家机构被利用微软电邮软件漏洞入侵",
+  "Link": "https://www.solidot.org/story?sid=67123",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tKrebsOnSecurity 援引消息来源\u003ca href=\"https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，至少三万家美国机构——包括大量的小企业和各级政府被黑客组织利用微软电邮软件 Microsoft Exchange Server 的漏洞入侵。微软本周披露，黑客正在利用 Exchange Server v2013 到 2019 中的四个 0day 漏洞。在漏洞披露的三天内，安全专家称同一黑客组织增加了对尚未修补的 Exchange 服务器的攻击，在入侵之后攻击者留下一个可以后续访问的 web shell。微软表示正与美国网络安全和基础设施安全局密切合作，为客户提供最佳的指南和缓解措施。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-06T08:32:43Z",
+  "Author": "WinterIsComing"
+}

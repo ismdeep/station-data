@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "富士康墨西哥工厂遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=66306",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t富士康墨西哥工厂  CTBG MX 在感恩节周末的 11 月 29 日\u003ca href=\"https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/\" target=\"_blank\"\u003e\u003cu\u003e遭到了勒索软件攻击\u003c/u\u003e\u003c/a\u003e，设备被加密内部文件被窃取。富士康是世界最大的电子代工厂，在全世界有超过 80 万名员工。勒索软件 DoppelPaymer 背后的运营者周一在其网站上公开了富士康北美的部分内部文件，主要是常见的商业文件，没有财务信息或员工个人信息。自攻击以来，CTBG MX 的\u003ca href=\"https://fii-na.com.mx/\" target=\"_blank\"\u003e\u003cu\u003e主页\u003c/u\u003e\u003c/a\u003e至今仍然无法访问。消息来源称，攻击者索要  1804.0955 BTC 的赎金，其价值约 3400 万美元。攻击者声称加密了 1200 台服务器，窃取了 100 GB 的文件，删除了 20-30 TB 的备份。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-08T10:25:20Z",
+  "Author": "WinterIsComing"
+}

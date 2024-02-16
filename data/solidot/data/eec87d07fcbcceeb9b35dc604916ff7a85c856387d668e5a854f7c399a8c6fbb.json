@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用户报告 Microsoft Edge 强制同步",
+  "Link": "https://www.solidot.org/story?sid=69663",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMicrosoft Edge 浏览器被发现有一个策略叫 \u003ca href=\"https://docs.microsoft.com/zh-cn/deployedge/microsoft-edge-policies#forcesync\"\u003e\u003cu\u003eForceSync\u003c/u\u003e\u003c/a\u003e：强制同步浏览器数据，但不显示同步许可提示。如果未配置此策略，用户将可以启用或禁用同步。如果启用此策略，用户将不能关闭同步。安全专家 Bruce Schneier \u003ca href=\"https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html\"\u003e\u003cu\u003e称\u003c/u\u003e\u003c/a\u003e有用户报告 Edge 未警告或征得用户同意的情况下启用了同步，将浏览器数据同步到云端。Edge 还有一个默认启用的配置是“在 Microsoft Edge 关闭后继续运行后台扩展和应用”。微软此举\u003ca href=\"https://it.slashdot.org/story/21/11/17/205245/is-microsoft-stealing-peoples-bookmarks\"\u003e\u003cu\u003e引发了争议\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-18T06:26:46Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Wine 5.7 发布",
+  "Link": "https://www.solidot.org/story?sid=64217",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWine (Wine Is Not an Emulato）项目\u003ca href=\"https://www.winehq.org/announce/5.7\"\u003e\u003cu\u003e释出了 5.7 版\u003c/u\u003e\u003c/a\u003e。主要新变化包括： Wine Mono 引擎更新到 5.0.0，改进 WineD3D Vulkan 后端，USB 设备驱动起步，支持用 Clang 构建，Builtin 模块不再依赖 libwine，命令行配置 Windows 版本，bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-25T02:48:56Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "深度学习让智能手机呈现三维全息成为可能",
+  "Link": "https://www.solidot.org/story?sid=67204",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMIT 的科学家利用深度学习在智能手机\u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/realtime-hologram\"\u003e\u003cu\u003e快速生成了\u003c/u\u003e\u003c/a\u003e逼真的彩色三维全息图。\u003ca href=\"https://dx.doi.org/10.1038/s41586-020-03152-0\" target=\"_blank\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《自然》期刊上。这项研究可应用于虚拟现实和增强现实。全息图是一种让二维视窗看起来像三维场景的图像，而全息显示器能创造出人眼不会感到疲劳的三维图像。虽然企业在全息显示的硬件开发上取得了进步，但为这些设备生成全息数据仍然是一大挑战。全息图需要编码大量的数据以产生深度的错觉，生成全息视频通常需要超算的算力。为了普及全息视频，科学家尝试了很多方法减少计算量，但现有的方法主要是降低图像质量实现的。MIT 的研究人员利用卷积神经网络学习如何从有深度信息的图像中产生新的全息图。新的系统只需要不到 620KB 的内存，能在消费级 GPU 上每秒生成 60 张分辨率 1,920 x 1,080 的彩色三维全息图，在 iPhone 11 Pro 上的速率是 1.1，而 Google Edge TP 是 2。未来生成实时的全息图将是可能的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-15T07:39:14Z",
+  "Author": "WinterIsComing"
+}

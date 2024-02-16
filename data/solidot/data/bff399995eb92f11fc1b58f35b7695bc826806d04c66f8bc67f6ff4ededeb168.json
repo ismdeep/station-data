@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AppGet 开发者不满微软在宣布 winget 时根本没提 AppGet",
+  "Link": "https://www.solidot.org/story?sid=64531",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软最近出人意料的宣布了包管理器 \u003ca href=\"https://devblogs.microsoft.com/commandline/windows-package-manager-preview/\" target=\"_blank\"\u003e\u003cu\u003eWindows Package Manager (winget)\u003c/u\u003e\u003c/a\u003e ，另一个 Windows 开源包管理器项目 AppGet 开发者 Keivan Beigi 随即宣布项目进入维护状态，将于 8 月 31 日永久关闭。他写了\u003ca href=\"https://medium.com/@keivan/the-day-appget-died-e9a5c96c8b22\"\u003e\u003cu\u003e一篇博客\u003c/u\u003e\u003c/a\u003e，详述了他与微软产品经理 Andrew Clinick 一年前交流的经历。Andrew 与 Keivan 有过多次交流，讨论了某种类似人才收购的流程，将 AppGet 整合进 Windows 系统。Andrew 还去微软进行了面试，但最终无疾而终，直到上个月微软宣布了 winget。winget 显然受到了 AppGet 启发，很多结构和理念都相似。AppGet 是开源项目，因此微软拷贝他的创意他对此并不感到愤怒，他所不满的是微软根本没有提到 AppGet。他的博客发表之后，Andrew Clinick 在微软官方博客上\u003ca href=\"https://devblogs.microsoft.com/commandline/winget-install-learning/\" target=\"_blank\"\u003e\u003cu\u003e提到了双方的交流事宜以及 winget 从 AppGet 汲取的灵感\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-01T08:25:30Z",
+  "Author": "WinterIsComing"
+}

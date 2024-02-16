@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 释出机器翻译插件",
+  "Link": "https://www.solidot.org/story?sid=71723",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为欧盟资助项目 \u003ca href=\"https://browser.mt/\"\u003e\u003cu\u003eProject Bergamot\u003c/u\u003e\u003c/a\u003e 倡议的一部分，Mozilla \u003ca href=\"https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e一个机器翻译插件。该项目旨在开发一个能在本地运行的机器翻译工具，即翻译引擎、语言模型和页面内翻译算法都完全在用户计算机内运行，没有任何数据会发送到云端，因此完全保密。该插件现在可通过 \u003ca href=\"https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/\"\u003eFirefox Add-On\u003c/a\u003e 商店下载安装，\u003ca href=\"https://mozilla.github.io/translate/\"\u003e\u003cu\u003e支持\u003c/u\u003e\u003c/a\u003e 14 种语言，包括西班牙语、爱沙尼亚语、德语、捷克语、保加利亚语、挪威语、葡萄牙语 、意大利语、波兰语、俄语、波斯语、冰岛语和挪威尼诺斯克语。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-03T02:02:26Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "政府采取行动迫使 REvil 再次下线",
+  "Link": "https://www.solidot.org/story?sid=69349",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯勒索软件组织 REvil 本周再次下线，该组织运营者 0_neday \u003ca href=\"https://www.solidot.org/story?sid=69294\" target=\"_blank\"\u003e\u003cu\u003e自称服务器遭到入侵\u003c/u\u003e\u003c/a\u003e。据路透\u003ca href=\"https://www.reuters.com/technology/exclusive-governments-turn-tables-ransomware-gang-revil-by-pushing-it-offline-2021-10-21/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，执法机构和情报人员采取行动阻止 REvil 继续伤害其它公司。美国特勤局网络犯罪调查顾问、VMWare 网络安全战略负责人 Tom Kellermann 称，FBI、特勤局以及其它志同道合的国家合作对勒索软件组织发动了破坏性行动，而 REvil 是主要目标。REvil 在今年 7 月曾下线了数个月，据报道当时美国的执法和情报机构入侵了 REvil 基础设施，至少获得了对部分服务器的访问权。上个月，0_neday 等人重新恢复服务时无意中重启了已被执法机构控制的内部系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-22T15:18:08Z",
+  "Author": "WinterIsComing"
+}

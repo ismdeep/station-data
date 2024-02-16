@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LLVM 11.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65781",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLLVM 编译器套装\u003ca href=\"https://lists.llvm.org/pipermail/llvm-announce/2020-October/000089.html\" target=\"_blank\"\u003e\u003cu\u003e释出了 v11.0.0 版本\u003c/u\u003e\u003c/a\u003e。主要\u003ca href=\"https://releases.llvm.org/11.0.0/docs/ReleaseNotes.html\" target=\"_blank\"\u003e\u003cu\u003e新特性和变化\u003c/u\u003e\u003c/a\u003e包括：Flang Fortran 前端；构建系统优先选择 Python 3；移除 llgo 前端，下个版本将移除 BG/Q 支持；具体变化可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-13T02:58:11Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "540 万 Twitter 账号信息泄露",
+  "Link": "https://www.solidot.org/story?sid=72236",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2022 年 1 月 1 日 HackerOne 用户“zhirinovskiy” 递交了一个 bug 报告，指出 Twitter 的 Android 客户端的身份验证环节存在漏洞，允许攻击者获取目标账号相关的电话号码和/或电子邮件地址。Twitter 确认了这一漏洞，奖励了 zhirinovskiy 5,040 美元奖金。本周有人在黑客论坛 Breached Forums \u003ca href=\"https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/\"\u003e\u003cu\u003e出售\u003c/u\u003e\u003c/a\u003e包含 540 万 Twitter 账号信息的数据库并公开了样本，售价 3 万美元。这位用户证实利用的漏洞就是 zhirinovskiy 报告的。黑客有可能是从其它服务的数据泄露中收集电话号码和电邮地址数据库，然后匹配相关的 Twitter ID。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-24T14:55:37Z",
+  "Author": "WinterIsComing"
+}

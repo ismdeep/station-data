@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国上诉法院裁决抓取公开网站没违反计算机欺诈和滥用法",
+  "Link": "https://www.solidot.org/story?sid=62033",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国第九巡回上诉法院\u003ca href=\"http://cdn.ca9.uscourts.gov/datastore/opinions/2019/09/09/17-16783.pdf\"\u003e\u003cu\u003e做出裁决\u003c/u\u003e\u003c/a\u003e（PDF），抓取公开网站的信息没有违反计算机欺诈和滥用法。此案与微软子公司 LinkedIn 和创业公司 HiQ Labs 有关。HiQ Labs 通过抓取  LinkedIn 上的公开账号数据，使用算法预测企业雇员的行为，比如是否会辞职。在容忍了抓取行为多年之后 LinkedIn 向这家公司发去了禁止和终止信函，警告抓取行为违反了美国的计算机欺诈和滥用法。HiQ 提起了诉讼。2017 年美国旧金山地区法院法官\u003ca href=\"https://www.solidot.org/story?sid=53466\"\u003e\u003cu\u003e裁决\u003c/u\u003e\u003c/a\u003e， LinkedIn 不能禁止 HiQ Labs 访问公开账号数据，法官命令 LinkedIn 在 24 小时内移除任何阻止 HiQ 访问公开账号的技术。LinkedIn 提起了上诉，但上诉法院法官\u003ca href=\"https://arstechnica.com/tech-policy/2019/09/web-scraping-doesnt-violate-anti-hacking-law-appeals-court-rules/#p3\"\u003e\u003cu\u003e维持了原判\u003c/u\u003e\u003c/a\u003e，认为计算机欺诈和滥用法不适用于面向公众的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-10T07:13:01Z",
+  "Author": "wenfeixiang"
+}

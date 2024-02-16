@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 推出只有赞助者能访问的私有库",
+  "Link": "https://www.solidot.org/story?sid=70581",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年 GitHub \u003ca href=\"https://www.solidot.org/story?sid=60733\"\u003e\u003cu\u003e推出了\u003c/u\u003e\u003c/a\u003e开发者赞助项目，旨在帮助开源开发者获得他们所需的资源（或动力）。现在，微软旗下的源代码托管平台更进一步，\n\u003ca href=\"https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/\"\u003e\u003cu\u003e推出\u003c/u\u003e\u003c/a\u003e只有赞助者能访问的私有库。但此举\u003ca href=\"https://developers.slashdot.org/story/22/02/05/0051247/github-launches-new-sponsors-only-repositories\"\u003e\u003cu\u003e引发了争议\u003c/u\u003e\u003c/a\u003e，被批评是将开源库变成了付费的闭源库。GitHub 表示它的想法是让赞助者能在项目早期参与，让开发者和赞助者能展开对话，有助于解决开源库的安全问题。最近曝出的 Log4j 漏洞再次引发了开源软件安全问题的讨论，尤其是那些广泛依赖但缺乏全职开发者维护的开源库的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-07T09:16:50Z",
+  "Author": "WinterIsComing"
+}

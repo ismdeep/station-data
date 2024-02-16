@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开发自己的手机芯片",
+  "Link": "https://www.solidot.org/story?sid=64132",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t媒体\u003ca href=\"https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html\"\u003e报道称\u003c/a\u003e，Google 在自研 Pixel 手机芯片方面取得了重大进展。它自己设计的 SoC 预计最快明年发布。该项目代号为 Whitechapel，Google 的合作伙伴是三星。Google SoC 为 8 核 ARM 处理器，硬件上对 Google 的机器学习技术进行了优化，能让 Google Assistant 始终在线。芯片可能使用三星的 5 纳米工艺制造。除了被 Pixel 手机使用外，它还可能被 Chromebook 笔记本电脑使用。Google 手机使用过自研芯片，不是系统 SoC 而是被称为 Pixel Visual Core 和 Neural Core 的相机芯片。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-15T15:00:53Z",
+  "Author": "WinterIsComing"
+}

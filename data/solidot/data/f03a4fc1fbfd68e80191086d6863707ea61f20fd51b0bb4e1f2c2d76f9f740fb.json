@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家证明融冰始终光滑",
+  "Link": "https://www.solidot.org/story?sid=69174",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t将冰块放入水杯，我们可以想象它是如何融化的。不管放进去时是什么形状，冰块永远不会融化成雪花那样菱角分明。\u003ca href=\"https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/\" target=\"_blank\"\u003e\u003cu\u003e数学家用方程建模了这个融化过程\u003c/u\u003e\u003c/a\u003e。虽然这些方程式工作良好，但直到 130 年后才最终证明符合现实。在今年 3 月发表的一篇\u003ca href=\"https://arxiv.org/abs/2103.13379\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，Alessio Figalli 等人确定这些方程符合直觉。雪花状形态不是不可能，只是极为罕见而且会转瞬即逝。\n\u003cbr/\u003e\n\u003cbr/\u003e\n瑞士联邦理工学院的 Maria Colombo 解释道，“这些结果为该领域开辟了新的视角。以往人们对于冰的融化现象一直没有如此深入且准确的理解。” 冰在水中的融化问题也被称为 \u003ca href=\"https://en.wikipedia.org/wiki/Stefan_problem\" target=\"_blank\"\u003e\u003cu\u003eStefan problem\u003c/u\u003e\u003c/a\u003e，以1889 年\u003ca href=\"https://www.zobodat.at/pdf/SBAWW_98_2a_0471-0484.pdf\" target=\"_blank\"\u003e\u003cu\u003e提出该问题\u003c/u\u003e\u003c/a\u003e的物理学家 Josef Stefan 的名字命名。Stefan 问题是自由边界问题中最为著名的例子，数学家通过此类问题思考如热量是如何在扩散过程中实现边界移动的。在 Stefan 问题中，这道边界就在冰与水之间。\n\u003cbr/\u003e\n\u003cbr/\u003e\n多年以来，数学家一直希望理解这些不断演变的复杂边界计算模型。为了取得进展，此次新尝试从之前对各类物理系统的研究成果中汲取了灵感，最典型的学习对象就是肥皂膜。新模型建立在以往认识的基础之上，证明边界会沿着冰与水之间不断变化，因此很少形成清晰的尖突或边缘；即使偶有形成，也会立即消失。这些尖锐的点被称为奇点；事实证明，即使是在数学的自由边界中，奇点也如同在物理世界中一样转瞬即逝。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-09T10:46:08Z",
+  "Author": "wanwan"
+}

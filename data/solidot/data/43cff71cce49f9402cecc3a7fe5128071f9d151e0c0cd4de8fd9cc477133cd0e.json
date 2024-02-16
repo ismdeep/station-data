@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "2018 年冬奥会网络攻击是如何追踪到俄罗斯黑客的",
+  "Link": "https://www.solidot.org/story?sid=62396",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2018 年韩国平昌冬奥会开开幕式期间主办方的计算机系统遭到了黑客攻击。此次网络攻击破坏了冬奥会的网站、广播系统和会场系统，许多出席者无法打印开幕式的电子票，导致会场出现了大量空座。俄罗斯因为兴奋剂丑闻被禁止参加此次冬奥会，而奥委会允许俄罗斯运动员以个人身份参赛。美国情报官员\u003ca href=\"https://www.solidot.org/story?sid=55603\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e攻击的幕后发起者是俄罗斯黑客。《连线》\u003ca href=\"https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/\"\u003e\u003cu\u003e发表了一篇长文\u003c/u\u003e\u003c/a\u003e，披露了冬奥会网络攻击是如何追踪到俄罗斯黑客的。韩国发生的任何网络攻击，其首要嫌疑人通常是朝鲜，但当时朝鲜正表现出友好姿态，金正恩甚至派了妹妹作为外交大使去参加冬奥会，所以朝鲜为什么要破坏这一气氛呢？另一个嫌疑人就是俄罗斯了，俄罗斯显然有充分理由去发动网络攻击。但证据呢？受雇于 FireEye 的安全研究员 Michael Matonis 在分析嵌入恶意程序的 Word 文档时注意到攻击者使用了名为 PowerShell Empire 的开源程序去创建文档。通过相似的文档，他找到了攻击者留下的指纹，将美国 2016 年大选黑客攻击、 2017 年针对乌克兰不同 LGBT 团体的攻击都串联起来，一直跟踪到俄罗斯军事情报机构 GRU 下属的 74455 部队。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-28T10:51:01Z",
+  "Author": "wenfeixiang"
+}

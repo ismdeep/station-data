@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "glibc 仍然没有默认解决 2038 年问题",
+  "Link": "https://www.solidot.org/story?sid=70181",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t距离 2038 年只剩下 16 年了。所谓的 \u003ca href=\"https://zh.wikipedia.org/wiki/2038%E5%B9%B4%E9%97%AE%E9%A2%98\" target=\"_blank\"\u003e\u003cu\u003e2038 年问题\u003c/u\u003e\u003c/a\u003e是指类 Unix 系统的时间表示 time_t 使用的是一个 32 位整数，从1970 年 1 月 1 日开始计算秒数，到 2038 年 1 月 19 日 3 时 14 分 07 秒将超过 32 位长度，导致所有使用这种时间表示法的程序停止工作。在 64 位系统上，time_t 使用的是 64 位整数，Linux kernel  在几年前就切换到了 64 位时间表示，微软的 msvcrt 也早就默认使用 64 位 time_t。然而广泛使用的 GNU libc 库虽然从 v2.34 开始支持 64 位 time_t，\u003ca href=\"https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/\" target=\"_blank\"\u003e\u003cu\u003e但并没有默认使用\u003c/u\u003e\u003c/a\u003e，而是需要明确要求否则不会使用。这意味着今天使用 glibc 的应用在 16 年后可能会出现问题，而 16 年并不意味着天翻地覆一切都变了，如 Windows XP 在发布 16 年后仍然有很多人使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-29T13:31:24Z",
+  "Author": "WinterIsComing"
+}

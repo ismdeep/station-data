@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 7 bug 阻止用户关机或重启",
+  "Link": "https://www.solidot.org/story?sid=63461",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 7 用户\u003ca href=\"https://www.zdnet.com/article/windows-7-bug-prevents-users-from-shutting-down-or-rebooting-computers/\" target=\"_blank\"\u003e\u003cu\u003e报告一个未知原因的 bug\u003c/u\u003e\u003c/a\u003e 会导致在尝试关机或重启时弹出警告信息“你没有权限关闭这台计算机”。Windows 7 已在今年 1 月结束支持，意味着微软不再可能会向 Windows  7 系统释出补丁。不过微软表示它会修复 Windows 7 最后一批补丁引入的黑屏幕 bug。对于最新的阻止关机 bug，目前还不清楚微软是否会修复，不过用户已经找到了两种解决方法，其中一种是创建新的管理账号，登录之后重返旧的管理账号，然后手动关机或重启。第二种需要使用组策略编辑器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-08T07:02:26Z",
+  "Author": "WinterIsComing"
+}

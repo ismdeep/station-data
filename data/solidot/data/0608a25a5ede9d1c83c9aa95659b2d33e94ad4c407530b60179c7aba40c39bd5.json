@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Apple News 不再支持 RSS",
+  "Link": "https://www.solidot.org/story?sid=63095",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tiOS 和 macOS 版 Apple News \u003ca href=\"https://news.slashdot.org/story/19/12/27/2122211/apple-news-no-longer-supports-rss\" target=\"_blank\"\u003e\u003cu\u003e不再支持\u003c/u\u003e\u003c/a\u003e添加 RSS 或 ATOM 源。用户添加之后不会显示任何信息，也不会返回错误。对服务器日志的观察显示，Apple News 正确发出了请求，但随后完全忽视 RSS 或 ATOM 源，它现在只支持苹果自己挑选的消息源。Djang 合作者 Simon Willison \u003ca href=\"https://twitter.com/simonw/status/1210622908143415297\" target=\"_blank\"\u003e\u003cu\u003e注意到\u003c/u\u003e\u003c/a\u003e，Apple News 仍然劫持到 Atom/RSS 源的链接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-28T07:43:08Z",
+  "Author": "WinterIsComing"
+}

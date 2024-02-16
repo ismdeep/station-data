@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国政府机构以 BGP 劫持为由想要取消对中国电信的运营许可",
+  "Link": "https://www.solidot.org/story?sid=64093",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国多个行政机构以 BGP 流量劫持等为由\u003ca href=\"https://www.justice.gov/opa/pr/executive-branch-agencies-recommend-fcc-revoke-and-terminate-china-telecom-s-authorizations\" target=\"_blank\"\u003e\u003cu\u003e建议\u003c/u\u003e\u003c/a\u003e FCC 取消对中国电信在美国的服务许可。中国电信是中国最大的电信公司，其美国子公司在 2002 年获得了 FCC 的许可提供往来美国的国际电信服务。过去十年，中国电信是\u003ca href=\"https://arstechnica.com/tech-policy/2020/04/citing-bgp-hijacks-and-hack-attacks-feds-want-china-telecom-out-of-the-us/#p3\" target=\"_blank\"\u003e\u003cu\u003e多次重大 BGP 路由劫持事件的中心\u003c/u\u003e\u003c/a\u003e——也就是通过 BGP 边界网关协议将美国的网络流量路由经过中国。BGP 劫持有可能是失误导致，但频繁发生被认为可能存在恶意。FCC 去年 5 月一致投票支持否决中国移动在美国提供服务的申请，\u003ca href=\"https://cn.reuters.com/article/us-fcc-china-telecom-license-0410-idCNKCS21S085\"\u003e理由\u003c/a\u003e是中国政府可能借此许可对美国政府进行间谍活动。当时 FCC 表示正在“考虑”对中国电信和中国联通的许可。最新的建议来自美国国土安全部、国防部、州政府、商务部和美国贸易代表，他们称“存在中国电信相关的重大的、不可接受的国安及执法风险。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-12T12:13:49Z",
+  "Author": "WinterIsComing"
+}

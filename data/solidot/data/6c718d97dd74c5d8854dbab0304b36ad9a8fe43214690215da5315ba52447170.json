@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 释出紧急更新修复正被利用的 Chrome 0day",
+  "Link": "https://www.solidot.org/story?sid=76060",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 释出紧急更新修复一个 Chrome 0day。Google 在安全公告中警告，被称为 CVE-2023-4863 的漏洞正被利用，但没有披露更多信息。Chrome 用户被建议尽快更新到 v116.0.5845.187 (Mac 和 Linux) 以及 v116.0.5845.187/.188(Windows)。CVE-2023-4863 属于 WebP 堆缓冲区溢出（heap buffer overflow）漏洞，会导致从崩溃到任意代码执行。苹果  Security Engineering and Architecture (SEAR)和多伦多大学公民实验室在 9 月 6 日报告了该漏洞。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-12T11:07:55Z",
+  "Author": "Wilson"
+}

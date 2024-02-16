@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 说如果 M1 Mac 能运行 Linux 他愿意使用",
+  "Link": "https://www.solidot.org/story?sid=66182",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 \u003ca href=\"https://www.realworldtech.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eReal World Technologies \u003c/a\u003e 论坛上，Linux 作者 Linus Torvalds 说如果 M1 Mac 能运行 Linux \u003ca href=\"https://www.zdnet.com/article/linus-torvalds-would-like-to-use-an-m1-mac-for-linux-but/\" target=\"_blank\"\u003e\u003cu\u003e他非常乐意拥有一台\u003c/u\u003e\u003c/a\u003e。他说，苹果也许会在云端运行 Linux，但它的笔记本电脑无法运行 Linux。他指出将 Linux 移植运行在基于 M1 的苹果电脑上是不太可能的，主要原因是 GPU 以及其它硬件组件。苹果在软件方面与开源社区关系不错，但它从未向开源开发者披露硬件细节，他说，当然对此“你总可以满怀希望”。他说对处理器的核心数量更感兴趣，他不在乎有 20 小时的电池续航，但希望有更多核心。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-24T14:08:58Z",
+  "Author": "WinterIsComing"
+}

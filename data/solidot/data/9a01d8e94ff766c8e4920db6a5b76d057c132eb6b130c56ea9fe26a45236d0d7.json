@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为开发者被批评在内核刷 KPI",
+  "Link": "https://www.solidot.org/story?sid=68077",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t内核维护者在开发者邮件列表上\u003ca href=\"https://lkml.org/lkml/2021/6/18/153\"\u003e\u003cu\u003e批评\u003c/u\u003e\u003c/a\u003e华为开发者递交没有多少价值的补丁，呼吁他们不要在内核中刷 \u003ca href=\"https://zh.wikipedia.org/wiki/%E9%97%9C%E9%8D%B5%E7%B8%BE%E6%95%88%E6%8C%87%E6%A8%99\"\u003e\u003cu\u003eKPI\u003c/u\u003e\u003c/a\u003e。KPI 代表关键绩效指标，用于评估员工的表现，越高可能意味着会带来更高的薪水或其它荣誉。华为开发者递交了清理错误信息的一个补丁，此类的补丁通常由新人递交，价值不大，接受的话有助于鼓励新人递交有价值的补丁。但华为开发者显然不是什么新手，通过搜索发现华为开发者递交了大量此类的琐细补丁，被判断是一种刷 KPI 的行为。SuSE 发行版的开发者 Qu Wenruo 建议他们不要再这么做，称此类行为会愈加损坏公司的声誉，呼吁通过递交有价值的补丁挽回受损的名誉。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-20T13:40:52Z",
+  "Author": "WinterIsComing"
+}

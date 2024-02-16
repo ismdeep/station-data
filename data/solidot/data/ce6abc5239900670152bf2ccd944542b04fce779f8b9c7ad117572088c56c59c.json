@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "攻击者利用已披露高危漏洞攻击工行美国子公司",
+  "Link": "https://www.solidot.org/story?sid=76615",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t工行美国子公司 ICBC Financial Services 上周遭到勒索软件攻击，与俄罗斯有关联的勒索软件组织 LockBit 与此次攻击相关。攻击者利用最近披露的高危漏洞入侵工行系统，此事凸显了及时打补丁的重要性。攻击者利用的一个漏洞是思杰(Citrix)在 10 月 10 日披露的 CitrixBleed 高危漏洞 CVE-2023-4966，危险等级 9.4/10，可远程利用，无用户互动，无特殊权限，低复杂度。攻击发生之后，工行隔离了部分系统，切断了与美国国债市场以及为其结算交易的纽约梅隆银行平台的连接，开始手动清算交易。工商尚未透露是否向黑客支付赎金。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://cn.wsj.com/articles/%E5%B7%A5%E8%A1%8C%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6%E4%BD%BF%E7%94%A8%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9B%BE%E6%9B%9D%E5%85%89%E7%9A%84%E6%94%BB%E5%87%BB%E6%96%B9%E5%BC%8F-09ae13e1\u003cbr/\u003e\nhttps://www.darkreading.com/vulnerabilities-threats/ransomware-hit-china-owned-bank-citrixbleed-flaw\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-14T09:42:59Z",
+  "Author": "Wilson"
+}

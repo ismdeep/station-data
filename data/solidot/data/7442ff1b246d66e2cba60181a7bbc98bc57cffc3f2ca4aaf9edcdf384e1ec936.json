@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软 Teams 应用 Bug 会导致 Android 手机无法呼叫 911",
+  "Link": "https://www.solidot.org/story?sid=69952",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位用户上周在 Reddit 上报告无法用 Pixel 3 手机拨打 911 紧急救助电话。本周 Google \u003ca href=\"https://it.slashdot.org/story/21/12/09/209251/google-says-bug-with-teams-and-android-can-cause-911-calls-to-fail\"\u003e\u003cu\u003e解释了这一问题背后的原因\u003c/u\u003e\u003c/a\u003e：微软协作工具 Microsoft Teams 与底层 Android 操作系统之间未预料到的互动。当用户使用 Android 10 以上版本，安装 Microsoft Teams 但没有登录时会触发这个 bug。这是一个很罕见的情况，很少有人在安装了 Teams 会不登录。Google 称微软将会释出更新解决这个问题。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-10T07:13:16Z",
+  "Author": "WinterIsComing"
+}

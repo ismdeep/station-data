@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将屏蔽不安全文件下载",
+  "Link": "https://www.solidot.org/story?sid=68671",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Chrome 之后 Firefox \u003ca href=\"https://therecord.media/firefox-follows-chrome-and-prepares-to-block-insecure-downloads/\"\u003e\u003cu\u003e也将屏蔽不安全的文件下载\u003c/u\u003e\u003c/a\u003e。该功能被称为 mixed content downloaded blocking，将屏蔽源自一个 HTTPS 网页但实际下载却是通过未加密的 HTTP 通道下载的文件。用户从一个 HTTPS 网页下载文件时可能误以为下载通道也是加密的，因此可能会被误导，而通过 HTTP 下载的文件可能会在传输过程中被纂改。Firefox 将屏蔽从 HTTPS 网页的所有 HTTP 下载，但会同时提供选项允许用户选择继续下载，HTTP 网页的 HTTP 下载将不会被屏蔽，直接访问的 HTTP 下载链接不会被屏蔽。Mozilla 预计会在 9 月释出 Firefox v92 时对所有用户启用该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-24T15:16:48Z",
+  "Author": "WinterIsComing"
+}

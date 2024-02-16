@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 表示它可能找到了 cookies 的隐私友好替代",
+  "Link": "https://www.solidot.org/story?sid=66763",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 周一\u003ca href=\"https://www.axios.com/google-privacy-friendly-substitute-cookies-test-05c2c28e-77f1-4921-9a99-1ef0c009b064.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它可能找到了 cookies 的隐私友好替代。它测试了名为 \u003ca href=\"https://github.com/WICG/floc\"\u003e\u003cu\u003eFederated Learning of Cohorts (FLoC)\u003c/u\u003e\u003c/a\u003e的新 API，其源代码发布在 GitHub 上。测试显示，相比基于 cookies 的广告，FLoC 广告的转化率至少达到 95%。FLoC 使用机器学习算法分析用户数据，然后根据个人访问的网站将数千用户分成一组，数据是浏览器在本地收集的不会分享出去，但这群用户的数据会共享并被用于定向广告。也就是说 FLoC 广告是根据一个人的普遍兴趣进行针对性展示。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-26T05:50:52Z",
+  "Author": "WinterIsComing"
+}

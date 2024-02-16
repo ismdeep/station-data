@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 将生成随机浏览器指纹保护隐私",
+  "Link": "https://www.solidot.org/story?sid=63764",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tBrave \u003ca href=\"https://www.zdnet.com/article/brave-to-generate-random-browser-fingerprints-to-preserve-user-privacy/\"\u003e\u003cu\u003e正在开发一项功能\u003c/u\u003e\u003c/a\u003e，在用户访问一个网站时生成随机指纹以保护隐私。越来越多的在线广告商和分析公司正从 cookie 转移到指纹去跟踪用户。这一转变始于 2019 年 5 月，当时 Google 宣布将屏蔽第三方 cookie。现在，绝大部分广告和分析公司依赖于用户指纹作为跟踪用户的主要方法。所谓用户指纹是一组包含用户及其浏览器的技术细节。Firefox 是第一家加入反指纹设置的大型浏览器。Brave \u003ca href=\"https://brave.com/whats-brave-done-for-my-privacy-lately-episode3/\"\u003e\u003cu\u003e开发者称\u003c/u\u003e\u003c/a\u003e，他们的方法让每一个浏览器在不同网站之间和不同浏览器会话之间都是完全不同的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T06:39:33Z",
+  "Author": "WinterIsComing"
+}

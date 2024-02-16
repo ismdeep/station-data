@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在错误被 Google 标记为间谍软件之后开源邮件客户端 FairEmail 的开发者终止开发并关闭其所有项目",
+  "Link": "https://www.solidot.org/story?sid=71584",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在错误被 Google 标记为间谍软件之后开源邮件客户端 \u003ca href=\"https://email.faircode.eu/\"\u003e\u003cu\u003eFairEmail\u003c/u\u003e\u003c/a\u003e 的开发者 Marcel Bokhorst 宣布终止开发并关闭其所有项目，其中包括受欢迎的开源防火墙应用 \u003ca href=\"https://netguard.me/\"\u003e\u003cu\u003eNetguard\u003c/u\u003e\u003c/a\u003e。众所周知，如果你的账号被 Google 关闭，或者你的应用被 Google 以不同理由下架，要找到方法上诉或成功上诉是非常困难的，绝大部分情况下你只会收到自动回复，你找不到人能进行投诉，毕竟 Google 有十亿以上的用户，你只是其中一个数字而已。这是很多不幸用户的\u003ca href=\"https://news.ycombinator.com/item?id=31432334\"\u003e\u003cu\u003e遭遇\u003c/u\u003e\u003c/a\u003e，Bokhorst 是其中之一。他的反应是\u003ca href=\"https://tech.slashdot.org/story/22/05/19/2033249/fairemail-developer-calls-it-quits-after-google-falsely-flags-app-as-spyware\"\u003e\u003cu\u003e终止其所有项目\u003c/u\u003e\u003c/a\u003e，将他的所有应用从 Google Play 上下架。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-20T06:30:14Z",
+  "Author": "WinterIsComing"
+}

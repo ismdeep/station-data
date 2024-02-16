@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员披露一个活跃五年的黑客组织",
+  "Link": "https://www.solidot.org/story?sid=70677",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Proofpoint 的研究人员\u003ca href=\"https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个活跃至少五年的黑客组织，该组织被称为 TA2541，使用的技术比较粗糙，主要针对航空、航天、运输、制造和国防等领域的机构。研究人员指出，TA2541 的顽强和持久弥补了其技术上的不足。自研究人员从 2017 年跟踪该组织以来，它对数以千计的组织发动了攻击。TA2541 使用 Google Drive 或 Microsoft OneDrive 等网盘托管恶意程序，它过去几年使用的十多种恶意程序家族要么是地下黑客论坛出售的要么是免费的。其中包括 AsyncRAT、NetWire、WSH RAT 和 Parallax 病毒家族。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-16T14:10:32Z",
+  "Author": "WinterIsComing"
+}

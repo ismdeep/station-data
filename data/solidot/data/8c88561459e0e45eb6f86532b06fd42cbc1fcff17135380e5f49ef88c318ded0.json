@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 9 LTS 结束支持",
+  "Link": "https://www.solidot.org/story?sid=72036",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 长期支持(LTS)团队\u003ca href=\"https://lwn.net/Articles/899962/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Debian 9 (\u0026#34;stretch\u0026#34;)于 7 月 1 日结束支持。Debian 的支持包括 \u003ca href=\"https://wiki.debian.org/LTS\"\u003e\u003cu\u003eLTS\u003c/u\u003e\u003c/a\u003e 和\u003ca href=\"https://wiki.debian.org/LTS/Extended\"\u003e\u003cu\u003e扩展\u003c/u\u003e\u003c/a\u003e支持，支持时间都是五年，LTS 在发布五年之后结束支持，扩展支持则是从 LTS 结束五年后终止。Debian 9 于 2017 年 6 月 17 日发布，LTS 支持于 2022 年 7 月 1 日结束，扩展支持从 2022 年 7 月 1 日到 2027 年 6 月 30 日。Debian 下一个 LTS 支持版本为 Debian 10 buster，它预计到 2024 年 6 月 30 日结束 LTS 支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-05T11:36:03Z",
+  "Author": "WinterIsComing"
+}

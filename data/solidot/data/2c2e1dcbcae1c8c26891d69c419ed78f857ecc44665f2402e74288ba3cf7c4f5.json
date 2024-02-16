@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究员发现能访问和控制所有小米宠物喂食器",
+  "Link": "https://www.solidot.org/story?sid=62406",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名俄罗斯安全研究员发现利用后端 API 和固件漏洞\u003ca href=\"https://www.zdnet.com/article/security-researcher-gets-access-to-all-xiaomi-pet-feeders-around-the-world/\" target=\"_blank\"\u003e\u003cu\u003e可以访问和控制\u003c/u\u003e\u003c/a\u003e世界各地的所有小米 FurryTail 智能宠物喂食器。这种宠物喂食器可通过移动应用配置在特定时间释出少量食物，它可用于在主人离开家较长时间期间喂食猫或狗。安全研究员 Anna Prosvetova 在购买了一台喂食器之后发现，其 API 允许她访问世界各地的其它喂食器，她共发现了 10,950 台同品牌喂食器，她声称不需要密码就能修改喂食时间表。她声称，设备使用了无线芯片组 ESP8266，芯片组的一个漏洞允许攻击者下载和安装新的固件，漏洞还允许攻击者将宠物喂食器变成物联网 DDoS 僵尸网络的一部分。小米已收到了漏洞报告，据称它承诺将释出补丁修复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-29T07:13:24Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "TikTok 披露其推荐算法的细节",
+  "Link": "https://www.solidot.org/story?sid=65514",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTikTok \u003ca href=\"https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html\"\u003e\u003cu\u003e披露了其推荐算法的细节\u003c/u\u003e\u003c/a\u003e，该公司使用机器学习判断用户最有可能与之互动的内容，根据用户偏好发现更多类似的视频，将之展示给用户。当用户首次打开 TikTok，会看到 8 个有着不同趋势、音乐和主题的视频，随后根据用户的互动和操作展示下一批 8 个视频。算法根据用户与之互动的视频信息寻找相似视频，推荐算法还考虑了用户设备、账号设置如语言偏好和国别等因素。一旦 TikTok 收集了足够的用户数据之后，应用能根据偏好将相似的用户分到同一组里，同时将相似主题的视频分到同一组里。算法使用机器学习向用户推荐可能喜欢的视频，同时会努力避免将过度重叠的视频推荐给用户，以免用户在看到多个相同音乐或主题的视频之后感到无聊。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-11T12:47:47Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯黑客修改浏览器植入流量指纹",
+  "Link": "https://www.solidot.org/story?sid=62177",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯安全公司卡巴斯基\u003ca href=\"https://securelist.com/compfun-successor-reductor/93633/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，一个从事网络间谍活动的黑客组织通过修改浏览器为 TLS 加密流量加入了可跟踪的指纹。黑客利用远程访问木马 Reductor 感染受害者，修改了系统上的浏览器 Chrome 或 Firefox。这一过程涉及到两步：黑客首先为被感染的主机安装了数字证书，使其能拦截来自主机的任何 TLS 加密流量；其次，他们为系统上安装的  Chrome 或 Firefox 打上了自己的伪随机数生成器。随机数生成器被用于在建立安全连接时产生随机数。黑客利用被修改的随机数生成器为每一个 TLS 连接加入了指纹。被称为 Turla 的组织被认为与俄罗斯政府有关联。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-08T09:04:13Z",
+  "Author": "wenfeixiang"
+}

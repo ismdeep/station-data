@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "针对 MAGA 人群的自由手机引发了很多疑问",
+  "Link": "https://www.solidot.org/story?sid=68347",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一款瞄准美国 MAGA 人群的智能手机 Freedom Phone \u003ca href=\"https://arstechnica.com/gadgets/2021/07/the-maga-targeted-freedom-phone-has-a-breathtaking-amount-of-red-flags\" target=\"_blank\"\u003e\u003cu\u003e引发了很多疑问\u003c/u\u003e\u003c/a\u003e。手机是在三月份宣布的，自称来自保守派提供给保守派的手机，售价 500 美元，8 月出货。这款手机没有提供任何硬件规格，由一家同名公司生产，声称它的应用商店不审查任何应用，不会封杀保守派社交应用如  Gab 和 Parler，它的操作系统则是 FreedomOS。公开叫卖这款手机的 Erik Finman 接受媒体采访时承认 Freedom Phone 是由深圳公司\u003ca href=\"https://www.umidigi.com/page-index2020.html\" target=\"_blank\"\u003e\u003cu\u003e乌米迪吉（UMIDIGI）\u003c/u\u003e\u003c/a\u003e生产的。该公司主要生产廉价智能手机，其最昂贵的型号不超过 300 美元。Freedom Phone 搭载的应用商店 PatriApp 很可能是基于 Play Store 开源客户端 \u003ca href=\"https://gitlab.com/AuroraOSS/AuroraStore\"\u003eAurora Store\u003c/a\u003e，它不是一个独立的应用商店，连接的还是 Google 的 Play Store。Freedom Phone 的购买页面提供了优惠码如 MAGA 和 Trump2024，可以减免 50 美元，但网站的开发者可能编码出错，优惠码可以叠加，一直叠加到零美元，用户只要支付 20 美元运费就能拿到手机，不知道这家公司是否会真的以零美元出售手机，或者是否真的会如期出货。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-21T11:55:28Z",
+  "Author": "WinterIsComing"
+}

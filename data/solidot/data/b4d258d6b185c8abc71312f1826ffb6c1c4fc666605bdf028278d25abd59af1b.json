@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 宣布 POWER10 处理器",
+  "Link": "https://www.solidot.org/story?sid=65269",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM \u003ca href=\"https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了它的下一代处理器 POWER10。IBM 早已不再自己生产芯片，POWER10 将由三星制造，采用 7 纳米工艺，是 IBM 第一款使用 7 纳米制程技术的商业处理器。IBM 在新闻稿中称，POWER10 的能效三倍于上一代的 POWER9，采用 POWER10 的系统将在明年上半年上市。POWER10 有单芯片模块和双芯片模块\u003ca href=\"https://regmedia.co.uk/2020/08/17/ibm_power10_summary.pdf\" target=\"_blank\"\u003e\u003cu\u003e两种配置\u003c/u\u003e\u003c/a\u003e，单芯片模块有 15 个 SMT8 核心，每个核心 2MB L2 缓存，L3 缓存 120 MB，运行频率 4+GHz，每个核心的性能比 POWER9 提升 30%。双芯片模块有 30 个 SMT8 核心，运行频率 3+GHz，FP64 性能 5.7TF。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-17T12:27:27Z",
+  "Author": "WinterIsComing"
+}

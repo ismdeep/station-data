@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 以贸易制裁短暂屏蔽微软工程师的开源项目",
+  "Link": "https://www.solidot.org/story?sid=63881",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软 UX 首席工程师 Rob Eisenberg 在 Twitter 上\u003ca href=\"https://twitter.com/eisenbergeffect/status/1240671036292485121\"\u003e\u003cu\u003e抱怨\u003c/u\u003e\u003c/a\u003e，他创建的开源 JS 框架 Aurelia 被 GitHub 以美国贸易制裁的理由禁止访问。GitHub 是微软旗下的代码托管平台。它的做法引发了广泛关注，包括 CEO Nat Friedman 和 COO Erica Brescia 在内的 GitHub 高管都迅速回应，表示这是一次严重失误，\u003ca href=\"https://news.ycombinator.com/item?id=22628961\"\u003e\u003cu\u003e称被禁的账号已经恢复\u003c/u\u003e\u003c/a\u003e。Friedman 在 HN 上说，他们将进行调查确保不会再次发生。他解释说，如果一家公司在美国有业务，它们都必须遵守美国的贸易制裁规定。这包括了与美国银行基础设施的互动。因此将公司总部设在其它地方并没有帮助。根据美国的政策，GitHub 不能向被制裁国家提供商业性质的服务，但 Github 仍然向被制裁的伊朗、叙利亚和古巴等国提供了公开的软件代码库的访问。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-20T09:05:15Z",
+  "Author": "WinterIsComing"
+}

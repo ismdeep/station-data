@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "卡巴斯基称 SolarWinds 黑客可能来自俄罗斯",
+  "Link": "https://www.solidot.org/story?sid=66637",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯安全公司卡巴斯基发表\u003ca href=\"https://securelist.com/sunburst-backdoor-kazuar/99981/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e称 SolarWinds 黑客与俄罗斯有关联。SolarWinds 黑客在攻击中植入了被安全公司称为 Sunburst 的后门程序，卡巴斯基和美国安全公司 Palo Alto Networks 对其展开进一步分析后发现 Sunburst 与另一个已知的后门程序 Kazuar 在多个功能上有重叠，而 Kazuar 被认为是俄罗斯政府黑客组织  Turla 开发的。这些证据显示 SolarWinds 黑客与俄罗斯政府有着很强的关联性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-12T14:45:02Z",
+  "Author": "WinterIsComing"
+}

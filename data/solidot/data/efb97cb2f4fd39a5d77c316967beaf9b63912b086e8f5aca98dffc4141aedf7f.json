@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "可合理否认存在的秘密数据库",
+  "Link": "https://www.solidot.org/story?sid=70639",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无论设备多安全，用户总是其中最薄弱的一环。在实际中攻击者可简单通过口头威胁或法庭传票要求用户交出秘密。绝大多数安全方案都设计强调数据的保密性，而不是让用户可以否认设备上存在秘密数据。著名黑客黄欣国（Andrew \u0026#39;bunnie\u0026#39; Huan）\u003ca href=\"https://www.bunniestudios.com/blog/?p=6307\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e一种让用户可以否认秘密存在的机制 Plausibly Deniable DataBase (PDDB)。PDDB 使用的设备被称为 \u003ca href=\"https://precursor.dev\"\u003e\u003cu\u003ePrecursor\u003c/u\u003e\u003c/a\u003e，在攻击者能无限制访问设备，能对存储器的数据进行快照，能反复的侵入性检查，PDDB 允许用户否认秘密存在。用户需要在性能和可否认之间做选择，秘密数据占据的比例很小时对性能的影响甚微，如 100 MB 容量占 8 MB。但如果 100 MB 占 80 MB 时性能影响会比较显著。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-13T12:24:19Z",
+  "Author": "WinterIsComing"
+}

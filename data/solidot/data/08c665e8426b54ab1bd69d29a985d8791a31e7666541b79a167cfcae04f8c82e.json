@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "2024 年的 Linux 内核和开源社区展望",
+  "Link": "https://www.solidot.org/story?sid=77059",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2024 年的 Linux 内核会发生什么，开源社区又会发生什么：邮件列表长期以来是内核开发流程的核心，但从 2024 年起电邮将逐渐让位，用 Linus Torvalds 的话说是时候做出改变了；Linux 6.12 将是下一个长期稳定版内核，预计 12 月 1 日释出；首批用户可见的 Rust 代码将合并进内核，最早可能是 Linux 6.8；Red Hat 对企业级 Linux 发行版市场的统治将面临更强大的挑战；Google 受争议的 Manifest V3 扩展系统即将生效，Firefox 如果不抓住机会扩大市场份额，可能就再也没机会了；开源生成式 AI 将更受关注；支持自由线程的 Python 首个版本将在 10 月发布；开源项目的维护者危机将加剧...\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lwn.net/SubscriberLink/954544/666b8433d343147e/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-05T08:07:10Z",
+  "Author": "Wilson"
+}

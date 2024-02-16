@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 93 发布",
+  "Link": "https://www.solidot.org/story?sid=69141",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/93.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003e释出了 Firefox 93\u003c/u\u003e\u003c/a\u003e。主要新特性包括：支持基于 AV1 视频编解码器的 AVIF 图像格式，AV1 是成员包括亚马逊、Google 和苹果等的 Alliance for Open Media（AOMedia）联盟在 2018 年释出的开源免专利费的编解码器，而 AVIF 相比现有的图像格式能显著节省网站的带宽；PDF 查看器支持 XFA 表格；当内存不足时根据上次访问时间、内存占用等因素自动清除加载的标签页，减少内存不足导致的崩溃，切换到一个清除的标签页后会重新加载；将屏蔽不安全连接的下载；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-05T14:46:50Z",
+  "Author": "WinterIsComing"
+}

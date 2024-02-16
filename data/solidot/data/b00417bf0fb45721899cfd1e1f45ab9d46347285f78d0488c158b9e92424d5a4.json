@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软宣布 Linux 代码完整性安全模块",
+  "Link": "https://www.solidot.org/story?sid=64057",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://www.zdnet.com/article/microsoft-announces-ipe-a-new-code-integrity-feature-for-linux/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e它正在开发的 Linux 代码完整性检查安全模块 \u003ca href=\"https://microsoft.github.io/ipe/\" target=\"_blank\"\u003e\u003cu\u003eIntegrity Policy Enforcement 或 IPE\u003c/u\u003e\u003c/a\u003e。IPE 尝试解决 Linux 的代码完整性问题。当 Linux 系统启用 IPE，系统管理员能创建一个允许执行的二进制列表，向内核加入验证属性，在允许运行前检查每一个二进制程序。如果二级制程序被修改了，IPE 将屏蔽恶意代码执行。IPE 安全模块设计用于特定用例，在突出安全的场景下，系统管理员需要完全控制系统上执行的任何程序。IPE 目前处于 RFC (request for comments) 状态，还需要时间才能真正进入内核。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-08T06:40:52Z",
+  "Author": "WinterIsComing"
+}

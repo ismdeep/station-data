@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软有了自己的 Linux 发行版",
+  "Link": "https://www.solidot.org/story?sid=68310",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软有了自己的 Linux 发行版 \u003ca href=\"https://github.com/microsoft/CBL-Mariner\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eCommon Base Linux, (CBL)-Mariner\u003c/a\u003e，软件巨人悄无声息的在 GitHub 上公开了 \u003ca href=\"https://github.com/microsoft/CBL-Mariner\"\u003e\u003cu\u003eCBL-Mariner 1.0\u003c/u\u003e\u003c/a\u003e 版本的源代码。CBL-Mariner 不是桌面 Linux 而是服务器端 Linux，它在微软内部被用于云基础设施以及边缘计算产品和服务。它\u003ca href=\"https://www.zdnet.com/article/say-hi-to-microsofts-own-linux-cbl-mariner/\" target=\"_blank\"\u003e\u003cu\u003e提供了\u003c/u\u003e\u003c/a\u003e一组云和边缘服务所需的通用软件包集，可以很容易根据需要引入额外的软件包。它是一个轻量级的发行版，可作为容器或容器主机使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-17T08:15:47Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 计划两年内停止支持第三方 cookie",
+  "Link": "https://www.solidot.org/story?sid=63262",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 官方博客\u003ca href=\"https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，Chrome/Chromium 将在两年内逐步停止支持第三方 cookie。Chrome 是目前市场占有率第一的浏览器，但分析师认为此举对 Google 自己的业务\u003ca href=\"https://www.reuters.com/article/us-alphabet-google-privacy-idUSKBN1ZD2L0\"\u003e\u003cu\u003e影响甚微\u003c/u\u003e\u003c/a\u003e，因为搜索巨人有很多其它方法来收集用户数据。Google \u003ca href=\"http://www.ftchinese.com/story/001085945\"\u003e\u003cu\u003e表示希望\u003c/u\u003e\u003c/a\u003e开发替代工具以“维持广告支持的 web”，以便在两年内“使第三方 cookie 变得过时”。这种替代工具可能会使 Chrome 成为更重要的中介，持有用户的相关信息，有选择地与希望确定广告投放目标和衡量广告效果的机构分享。网站将仍能用“第一方 cookie”来标记个人，记录他们的行为。但第三方将无法把他们的 cookie 放在网站上，在用户浏览不同网站时勾画出他们的行为轮廓。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-15T14:39:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 宣布安全操作系统 KataOS 及其实现 Sparrow",
+  "Link": "https://www.solidot.org/story?sid=73080",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html\"\u003e宣布\u003c/a\u003e了新操作系统 KataOS 及其参考实现 Sparrow，搜索巨人旨在创造一种安全的嵌入式系统。\u003ca href=\"https://github.com/AmbiML/sparrow-manifest\"\u003e\u003cu\u003e项目源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 Apache License 2.0 许可证。Google 称我们身边的智能设备愈来愈多，因此需要一种简单的方案为嵌入式硬件构建可验证的安全系统。它的新操作系统 KataOS 使用了 seL4 微内核，它已经在数学上被证明是安全的。系统几乎完全用 Rust 语言实现，核心部分包括包括提供系统调用 API 的 sel4-sys crate，替代 rootserver 等。Google 还与 Antmicro 合作开发了模拟器 \u003ca href=\"https://antmicro.com/blog/2022/08/running-rust-programs-in-sel4/\" target=\"_blank\"\u003e\u003cu\u003eRenode\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-17T10:08:23Z",
+  "Author": "WinterIsComing"
+}

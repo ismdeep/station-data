@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 研究表明伦敦国家美术馆多年来一直在展出赝品",
+  "Link": "https://www.solidot.org/story?sid=69118",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《\u003ca href=\"https://en.wikipedia.org/wiki/Samson_and_Delilah_(Rubens)\"\u003e\u003cu\u003e参孙和达丽拉（Samson and Delilah）\u003c/u\u003e\u003c/a\u003e》是十七世纪最具影响力的艺术家之一彼得·保罗·鲁本斯(Peter Paul Rubens)的一幅传世名作。这幅画描绘的是勇士参孙被自己的情人达丽拉出卖的旧约故事。在伦敦国家美术馆 1980 年买下这幅作品时，交易价格创下了当时拍卖史上的\u003ca href=\"https://timesmachine.nytimes.com/timesmachine/1980/07/12/112158744.pdf\" target=\"_blank\"\u003e\u003cu\u003e第三高位\u003c/u\u003e\u003c/a\u003e。但如今买家最好找找当时的收据了，因为根据一项最新 AI 分析，这幅画作几乎\u003ca href=\"https://thenextweb.com/news/ai-suggests-peter-paul-rubens-did-not-paint-samson-and-delilah\"\u003e\u003cu\u003e肯定是赝品\u003c/u\u003e\u003c/a\u003e。测试工作由 \u003ca href=\"https://art-recognition.com/\"\u003e\u003cu\u003eArt Recognition\u003c/u\u003e\u003c/a\u003e 完成，这是一家使用算法验证艺术品真伪的瑞士公司。该公司的工具基于深度卷积神经网络，系统在艺术家的真品图像之上进行算法训练，快速学会识别艺术家的特征。之后系统会将图像拆分成更多小块以扩充训练数据集，各图块会被放大以捕捉更多精细细节。训练完成之后，算法会输入一张新图像进行评估，分析图像特征并检测其属于真品的可能性。在将《参孙与达丽拉》与 148 幅鲁本斯真迹进行比较后，系统认为这幅作品有 91% 的几率为赝品。Art Recognition 联合创始人 Carina Popovici 对结果\u003ca href=\"https://www.theguardian.com/artanddesign/2021/sep/26/was-famed-samson-and-delilah-really-painted-by-rubens-no-says-ai\"\u003e\u003cu\u003e感到震惊\u003c/u\u003e\u003c/a\u003e：“为了防止错误，我们又重复进行了检测，而结果一直相同。每块都像是假的，几率超过 90%。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-30T10:08:44Z",
+  "Author": "wanwan"
+}

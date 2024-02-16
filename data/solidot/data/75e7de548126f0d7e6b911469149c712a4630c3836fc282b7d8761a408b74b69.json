@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "越来越多的 Tor 中继开始支持 IPv6",
+  "Link": "https://www.solidot.org/story?sid=66671",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 网络从 2020 年 11 月发布的 \u003ca href=\"https://blog.torproject.org/node/1949\"\u003e\u003cu\u003eTor 0.4.5.1-alpha\u003c/u\u003e\u003c/a\u003e 起加入了 IPv6 带宽统计。Tor 官方博客\u003ca href=\"https://blog.torproject.org/state-of-ipv6-support-tor-network\"\u003e\u003cu\u003e现在报告了 IPv6 的普及现状\u003c/u\u003e\u003c/a\u003e：到 2020 年 12 月 2 日，54% 的中继节点运行了支持 IPv6 的版本，6852 个中继中有 3587 运行 v0.4.4，8 个运行 v0.4.5，其中 1588 个通告了 IPv6 地址和端口，1587 个中继 IPv6 上可达。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-15T12:32:24Z",
+  "Author": "WinterIsComing"
+}

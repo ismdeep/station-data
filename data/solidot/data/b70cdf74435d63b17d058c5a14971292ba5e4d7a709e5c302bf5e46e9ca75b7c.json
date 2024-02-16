@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在承包商未支付赎金后勒索软件攻击者泄露波音等公司的机密文件",
+  "Link": "https://www.solidot.org/story?sid=64111",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从一家航空航天行业承包商窃取的内部机密文件\u003ca href=\"https://www.theregister.co.uk/2020/04/10/lockheed_martin_spacex_ransomware_leak/\" target=\"_blank\"\u003e\u003cu\u003e被勒索软件攻击者泄露到网上\u003c/u\u003e\u003c/a\u003e。DoppelPaymer Windows 勒索软件感染了 Visser Precision 的计算机，窃取并加密了文件，索要赎金，当该公司未能在截至日期前支付赎金后，攻击者上传了窃取到的部分机密文件。Visser 的客户包括了很多业内知名公司如洛克希德马丁、波音、SpaceX、特斯拉、霍尼韦尔、Blue Origin 等等。泄露的内部文件与洛克希德马丁、波音、SpaceX 和特斯拉相关，其中包括了洛克希德马丁设计的军用天线规格，以及供应商信息、数据分析报告，账单和支付表格等。洛克希德马丁发言人表示它已知道这一情况。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-14T07:57:38Z",
+  "Author": "WinterIsComing"
+}

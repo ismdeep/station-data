@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客窃取了阿根廷全国人口 ID 数据库",
+  "Link": "https://www.solidot.org/story?sid=69296",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名黑客窃入侵了阿根廷政府 IT 系统，\u003ca href=\"https://therecord.media/hacker-steals-government-id-database-for-argentinas-entire-population/\"\u003e\u003cu\u003e窃取了全国人口的 ID 数据库\u003c/u\u003e\u003c/a\u003e，而相关信息正在私下兜售。攻击发生在上个月，目标是国家人口登记处 RENAPER 的数据库。RENAPER 向居民发放国家身份证，它储存了可供政府机构查询 ID 信息的数据库。攻击者本月初首先通过 Twitter 账号 @AnibalLeaks 披露了 44 位阿根廷名人的 ID 卡照片和个人细节，其中包括总统 Alberto Fernández、多名记者和政客，足球明星梅西（Lionel Messi）和阿奎罗（Sergio Aguero）。阿根廷政府之后承认遭到入侵，但否认数据库被窃取。然而有证据显示黑客正在出售 RENAPER 完整数据库的访问权。数据库包含了居民的全名、家庭住址、出生日期、性别、身份证签发和到期日期、劳工身份代码、Trámite 号码、公民号码和政府照片 ID。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T15:26:55Z",
+  "Author": "WinterIsComing"
+}

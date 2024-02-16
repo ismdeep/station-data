@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ron Gilbert 开源了 Delores",
+  "Link": "https://www.solidot.org/story?sid=64738",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t著名游戏设计师和程序员 Ron Gilbert \u003ca href=\"https://grumpygamer.com/delores_dev\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e他的一部作品《\u003ca href=\"https://store.steampowered.com/app/1305720/Delores_A_Thimbleweed_Park_MiniAdventure/\"\u003e\u003cu\u003eDelores\u003c/u\u003e\u003c/a\u003e》。他说在疫情隔离期间，相信很多人可能厌倦了一直玩动森，“所以”他放出源代码让玩家们玩玩其它东西。他没有公开《Delores》的游戏引擎，原因之一是他使用了第三方库，无权自己决定将其开源。《Delores》是他开源的第一个项目，他接受其他用户递交的 bug 补丁和翻译（英文文本已经提取出来）。Ron Gilbert 以互动类的冒险游戏著称，早期作品为《猴岛小英雄》系列，近期的作品为 《\u003ca href=\"https://store.steampowered.com/app/569860/Thimbleweed_Park/\" target=\"_blank\"\u003e\u003cu\u003e银莲公园（Thimbleweed Park）\u003c/u\u003e\u003c/a\u003e》。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-22T07:40:59Z",
+  "Author": "WinterIsComing"
+}

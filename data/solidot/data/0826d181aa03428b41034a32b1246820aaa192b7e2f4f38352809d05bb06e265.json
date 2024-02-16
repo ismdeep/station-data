@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.13 Kernel 发布",
+  "Link": "https://www.solidot.org/story?sid=68144",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上宣布释出 \u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wj7E9iTGHbqfgtaTAM09WrVzwXjda2_D59MT8D_1=54Rg@mail.gmail.com/T/#u\"\u003e\u003cu\u003eLinux 5.13\u003c/u\u003e\u003c/a\u003e，他称该版本包含了超过 16k commits。主要新特性包库：\u003ca href=\"https://lwn.net/Articles/856438/\"\u003e\u003cu\u003e misc 组控制器\u003c/u\u003e\u003c/a\u003e，可信加密密钥的新来源 TEE，每个系统调用的内核堆栈随机化，支持 Clang 的\u003ca href=\"https://lwn.net/Articles/856514/\" target=\"_blank\"\u003e\u003cu\u003e控制流完整执行\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/856005/\"\u003e\u003cu\u003eBPF 程序能直接调用内核函数\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/851531/\"\u003e\u003cu\u003e移除  /dev/kmem\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/859908/\"\u003e\u003cu\u003e Landlock 安全模块\u003c/u\u003e\u003c/a\u003e，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-28T12:24:34Z",
+  "Author": "WinterIsComing"
+}

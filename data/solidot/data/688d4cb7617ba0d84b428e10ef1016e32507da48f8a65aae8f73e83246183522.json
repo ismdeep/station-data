@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux From Scratch v10 发布",
+  "Link": "https://www.solidot.org/story?sid=65424",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux From Scratch 项目\u003ca href=\"http://www.linuxfromscratch.org/news.html\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e v10。Linux 平台以发行版众多闻名，每个发行版都有各自的特色，喜欢这个还是喜欢那个可能只与口味有关。但你也可能觉得现有的发行版都不满意，想要打造自己的发行版。但如何从零开始创造定制发行版呢？Linux From Scratch 项目旨在提供必要的知识，帮助你设计和构建自己的发行版，并在此过程中增强 Linux 相关的技能，阅读本书的读者需要掌握一定程度的现有 Unix 系统管理知识。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-02T14:03:09Z",
+  "Author": "WinterIsComing"
+}

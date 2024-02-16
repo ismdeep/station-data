@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软测试在 Edge 中整合 VPN",
+  "Link": "https://www.solidot.org/story?sid=71396",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://www.xda-developers.com/microsoft-edge-built-in-vpn-powered-cloudflare/\"\u003e\u003cu\u003e正测试\u003c/u\u003e\u003c/a\u003e在其浏览器 Edge 中整合名为 \u003ca href=\"https://support.microsoft.com/en-us/topic/use-the-microsoft-edge-secure-network-to-protect-your-browsing-885472e2-7847-4d89-befb-c80d3dda6318\"\u003e\u003cu\u003eMicrosoft Edge Secure Network\u003c/u\u003e\u003c/a\u003e 的 VPN 服务。该服务由 Cloudflare 提供，用户需要使用微软账号登陆，每月的免费数据流量为 1GB。和其他 VPN 服务类似，它将加密网络连接，阻止在线跟踪，保密个人位置。Cloudflare 承诺不收集数据，将会 25 小时永久删除诊断和支持数据。该服务尚未正式开始推送给用户使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-29T05:50:08Z",
+  "Author": "WinterIsComing"
+}

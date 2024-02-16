@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软拒绝为 Process Hacker 提供内核驱动签名",
+  "Link": "https://www.solidot.org/story?sid=69354",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://github.com/processhacker/processhacker\" target=\"_blank\"\u003e\u003cu\u003eProcess Hacker\u003c/u\u003e\u003c/a\u003e 是一款强大而灵活的开源工具，采用 GNU GPLv3 许可证，可用于监视系统资源、调试软件和检测恶意程序，但由于微软拒绝为新版本提供内核驱动签名，这意味着较新版本的 Process Hacker \u003ca href=\"https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/\"\u003e\u003cu\u003e将无法在 Windows 上使用\u003c/u\u003e\u003c/a\u003e。微软 Microsoft Process Explorer 与 Process Hacker 拥有相同的功能，但 Process Hacker 更受欢迎，开发者认为微软采用了与对付 Netscape Navigator 浏览器相同的方法去消除竞争。微软声称拥抱开源和透明，但实际上是做一套说一套。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-24T11:38:22Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么火星需要闰日？",
+  "Link": "https://www.solidot.org/story?sid=63705",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t地球公转的精确数字是 365.2422 天，因此我们每四年都要增加一个闰日，今年的闰日是 2 月 29 日。但由于公转时间不是恰好为 365.25 天，因此日历还需要微调以处理多出来的一点点时间：如果年份能被 100 整除但不能被 400 整除，那么这一年没有闰年，比如 1900 年就不是闰年，2100 年也不是。\u003ca href=\"https://www.nytimes.com/2020/02/28/science/leap-year.html\"\u003e\u003cu\u003e火星也存在类似的情况\u003c/u\u003e\u003c/a\u003e，一火星年是 668.6 火星日，所以火星日历年只持续 668 天，它需要闰日去处理那 0.6 天，否则季节很快会不一致。太空法专家 Thomas Gangale 在 1985 年创造了 Darian 火星日历，将一年分成 24 个月，每个月 27 或 28 火星日。为了维持日历与火星季节的一致，Gangale 提议偶数年（排除能被 10 整除的年份）有 668 火星日，奇数年 669 火星日，平均下来一年为 668.6 火星日。这不是唯一一种能达到这一平均数的日历。已退休的 NASA 科学家 Michael Allison 博士提出了\u003ca href=\"http://ops-alaska.com/time/allison/MPCrev067.pdf\"\u003e\u003cu\u003e另一种日历\u003c/u\u003e\u003c/a\u003e，保留与地球日历相似的 12 个月，但增加 10 个月，用著名天文学家或科幻作者 Johannes Kepler 和 Ray Bradbury 等人的名字命名。他提议能被 5 整除的年份有 3 个闰日有  671 天，其它年份只有 668 天。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-04T11:29:36Z",
+  "Author": "ai"
+}

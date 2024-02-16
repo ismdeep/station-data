@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stability AI 发布官方的 Blender 插件",
+  "Link": "https://www.solidot.org/story?sid=74299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源 AI 文本图像模型 Stable Diffusion 的开发商 Stability AI 发布了 Stability for Blender，为开源 3D 设计软件 Blender 提供了官方的生成式 AI 插件，允许 Blender 用户直接在软件内使用文本描述生成图像。Blender 有第三方的 Stable Diffusion 插件，而官方的插件应该会表现更好，它还承诺会定期更新。该插件还允许用户使用现有的渲染创建图像，无需重建场景的情况下实验不同风格。Stability for Blender 免费，使用插件甚至无需独显，只需要联网和获得 Stability API 密钥。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://platform.stability.ai/docs/integrations/blender/install\u003cbr/\u003e\nhttps://www.theverge.com/2023/3/3/23623473/blender-stable-diffusion-ai-plugin-3d-modeling-texture-render\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-04T14:38:54Z",
+  "Author": "Wilson"
+}

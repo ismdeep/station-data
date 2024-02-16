@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 准备发布 Fuchsia 的首个开发者版本",
+  "Link": "https://www.solidot.org/story?sid=67260",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://9to5google.com/2021/03/19/fuchsia-friday-first-release-f1/\"\u003e\u003cu\u003e准备发布\u003c/u\u003e\u003c/a\u003e Fuchsia OS 的首个开发者版本。Fuchsia OS 是 Google 正在开发的实验性操作系统，使用名叫 Zircon 的微内核。这个新操作系统引发了很多猜测，被认为将取代 Android 和 Chrome OS，但 Google 高管否认了这一说法，称其意图不是想成为新的 Android 或 Chrome OS，而是尝试在操作系统中引入最新技术，将项目上获得的知识整合到其它产品。目前测试 Fuchsia OS 需要开发者自己下载代码然后构建，但过去几个月，Google 被发现创建了分支 \u003ca href=\"https://fuchsia.googlesource.com/fuchsia/+/refs/heads/releases/f1\"\u003ereleases/F1\u003c/a\u003e 和 \u003ca href=\"https://fuchsia.googlesource.com/fuchsia/+log/refs/heads/releases/f2\"\u003ereleases/F2\u003c/a\u003e，种种迹象显示它准备释出开发者版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-20T06:09:02Z",
+  "Author": "WinterIsComing"
+}

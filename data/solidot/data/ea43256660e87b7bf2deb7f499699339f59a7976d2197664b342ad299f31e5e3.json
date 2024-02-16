@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果开源代码被发现包含兼容微信的代码",
+  "Link": "https://www.solidot.org/story?sid=66699",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter 用户在苹果的开源代码中\u003ca href=\"https://twitter.com/lolgrep/status/1350957552545259520?s=21\"\u003e发现了\u003c/a\u003e一个专门设计兼容腾讯微信的文件，文件名被称为“\u003ca href=\"https://opensource.apple.com/source/libmalloc/libmalloc-317.40.8/private/make_tapi_happy.h.auto.html\" target=\"_blank\"\u003e\u003cu\u003emake_tapi_happy.h\u003c/u\u003e\u003c/a\u003e”，tapi 是腾讯官方 API 的名字简写。苹果的程序员还在注解里吐槽说，“WeChat references this, only god knows why. This symbol does nothing.”苹果和腾讯曾在 2017 年因微信的打赏功能而\u003ca href=\"https://www.solidot.org/story?sid=52117\" target=\"_blank\"\u003e\u003cu\u003e发生分歧\u003c/u\u003e\u003c/a\u003e，双方在 2018 年 1 月就此事\u003ca href=\"https://www.solidot.org/story?sid=55229\"\u003e\u003cu\u003e达成了和解\u003c/u\u003e\u003c/a\u003e，make_tapi_happy.h 文件的创建日期是在 2018 年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-19T07:57:36Z",
+  "Author": "WinterIsComing"
+}

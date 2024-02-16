@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 漏洞 StrandHogg 正被利用",
+  "Link": "https://www.solidot.org/story?sid=62827",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Promon 的研究员\u003ca href=\"https://arstechnica.com/information-technology/2019/12/vulnerability-in-fully-patched-android-phones-under-active-attack-by-bank-thieves/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个正被利用的 Android 漏洞 \u003ca href=\"https://promon.co/security-news/strandhogg/\"\u003e\u003cu\u003eStrandHogg\u003c/u\u003e\u003c/a\u003e，恶意程序能利用该漏洞窃取用户的银行账号。漏洞存在于名为 TaskAffinity 的多任务功能中，它允许应用假定多任务环境中运行的其它应用或任务的身份。恶意程序可利用该功能设置它的一个活动去匹配信任第三方应用的包名字。组合其它欺骗方法恶意应用可以劫持目标任务，请求权限去执行敏感任务如记录音频、拍摄照片、阅读短信，或钓鱼登录凭证。安全研究人员发现了 36 个恶意应用正在利用该漏洞，其中包括了窃取银行账号的恶意应用，部分应用甚至进入 Google  Play 官方市场。Google 在接到报告之后已经下架了相关应用，但影响所有 Android 版本的这一漏洞尚未修复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-03T11:58:33Z",
+  "Author": "WinterIsComing"
+}

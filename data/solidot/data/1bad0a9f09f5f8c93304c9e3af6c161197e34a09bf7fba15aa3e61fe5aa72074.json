@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google、Mozilla、苹果和微软联合屏蔽哈萨克斯坦的 root 证书",
+  "Link": "https://www.solidot.org/story?sid=66435",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle、Mozilla、苹果和微软\u003ca href=\"https://arstechnica.com/information-technology/2020/12/kazakhstan-spies-on-citizens-https-traffic-browser-makers-fight-back/\"\u003e\u003cu\u003e宣布正联合阻止\u003c/u\u003e\u003c/a\u003e哈萨克斯坦政府解密和阅读其公民与海外社交网站之间的加密流量。四大浏览器开发商释出了更新屏蔽了哈萨克斯坦政府要求其部分公民安装的 root 证书。安装该自签名证书之后将导致特定网站的流量用政府而不是网站运营者控制的密钥加密。记录显示，哈萨克斯坦从 12 月 6 日开始使用这个证书，包括 Google、YouTube、Facebook 和 Twitter 在内的流行网站都受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-21T14:53:06Z",
+  "Author": "WinterIsComing"
+}

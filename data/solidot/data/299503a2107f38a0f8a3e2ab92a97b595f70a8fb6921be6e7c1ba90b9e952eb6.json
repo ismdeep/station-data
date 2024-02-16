@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布 64 核线程撕裂者 3990X，售价 3990 美元",
+  "Link": "https://www.solidot.org/story?sid=63189",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 CES 展会上，AMD \u003ca href=\"https://www.anandtech.com/show/15318/amds-64core-threadripper-3990x-3990-sd\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e 64 核 128 线的第三代线程撕裂者 3990X，售价 3990 美元，2 月 7 日发售。AMD 去年底发布了 24 核和 32 核的第三代线程撕裂者 3960X 和 3970X，而 3990X 本质上是 64 核服务器芯片 EPYC 7702P 的消费者版本，缩减了内存带宽和企业级功能，提高了主频和功耗。3990X 主频 2.9 GHz，最高加速到 4.3 GHz，功耗 280W。类似其它高端处理器，AMD 推荐用户使用水冷。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-07T07:48:32Z",
+  "Author": "WinterIsComing"
+}

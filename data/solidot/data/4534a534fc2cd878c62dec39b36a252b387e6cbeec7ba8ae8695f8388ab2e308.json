@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "4400 万微软用户使用已泄漏的用户名密码",
+  "Link": "https://www.solidot.org/story?sid=62861",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软安全研究人员使用一个包含 30 多亿遭泄漏的用户名和密码数据库扫描了微软服务用户账号，\u003ca href=\"https://www.zdnet.com/article/44-million-microsoft-users-reused-passwords-in-the-first-three-months-of-2019/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e多达 4400 万用户使用已泄漏的用户名和密码。4400 万账号中有 Microsoft Services Accounts 和 Azure AD 账号。这次扫描帮助用户识别出在不同服务之间重用用户名和密码的用户。微软表示，在发现重用泄漏的密码之后，它会强迫密码重置。对于企业级客户，微软会警告管理员。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-06T03:17:25Z",
+  "Author": "WinterIsComing"
+}

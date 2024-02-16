@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ASP.NET 托管服务商感染勒索软件",
+  "Link": "https://www.solidot.org/story?sid=62583",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t有超过 44 万客户的 ASP.NET 托管服务商 SmarterASP.NET \u003ca href=\"https://www.zdnet.com/article/major-asp-net-hosting-provider-infected-by-ransomware/\" target=\"_blank\"\u003e\u003cu\u003e遭到了勒索软件攻击\u003c/u\u003e\u003c/a\u003e。根据官方最新的\u003ca href=\"http://status.smarterasp.net/post/good-news\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，“部分客户账户被入侵，数据被锁定，它有个方案可以解决该问题，但需要时间。”它没有对此进行更详细的解释，不清楚是支付赎金还是使用备份恢复数据。攻击不仅仅影响其客户，还导致网站下线了一整天。根据 Twitter 上公布的截图，SmarterASP.NET 遭到了勒索软件 Snatch 的攻击，文件用 .kjhbx 扩展名进行了加密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-12T12:45:29Z",
+  "Author": "wenfeixiang"
+}

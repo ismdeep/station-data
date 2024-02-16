@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因用户数据收集 Google 移除了 Avast 和 AVG 扩展",
+  "Link": "https://www.solidot.org/story?sid=62994",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在\u003ca href=\"https://www.solidot.org/story?sid=62837\"\u003e\u003cu\u003e Mozilla \u003c/u\u003e\u003c/a\u003e之后，Google 从  Chrome Web Store \u003ca href=\"https://news.softpedia.com/news/google-bans-avast-extensions-for-google-chrome-due-to-user-data-collection-528642.shtml\" target=\"_blank\"\u003e\u003cu\u003e移除了\u003c/u\u003e\u003c/a\u003e Avast 和 AVG 的多个扩展。Avast 被发现大量收集用户数据并将其出售给的第三方。这一问题最早是 Adblock Plus 作者 Wladimir Palant 披露的，他发现这些扩展收集了超过其需求的信息，包括详细的用户浏览历史，利用这些信息 Avast 能知道用户打开了多少次浏览器，在某个网页停留了多长时间。Mozilla 和 Opera 之后采取行动下架了相关扩展。Google 目前只在 Chrome Web Store 保留了 AVG 的一个扩展 AVG Online Security。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-19T06:55:22Z",
+  "Author": "WinterIsComing"
+}

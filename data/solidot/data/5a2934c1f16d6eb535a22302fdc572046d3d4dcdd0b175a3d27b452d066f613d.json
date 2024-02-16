@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软为 Windows 11 向第三方服务发送数据辩护",
+  "Link": "https://www.solidot.org/story?sid=74116",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tYouTube 频道 PC Security Channel 对比了全新的 Windows 11 和 Windows XP PC 的数据收集，用 Wireshark 抓包，发现一台从未用于浏览互联网的全新 Windows 11 PC 不仅会向 Windows Update、MSN 和 Bing 发送数据，还向 Steam、McAfee、geo.prod.do 和 Comscore ScorecardResearch.com 等第三方服务发送数据。相比下 Windows XP 只检查下更新服务器。Windows 11 因此被称为间谍软件。微软发言人对此回应称，流数据在现代操作系统中很常见，以帮助保持安全和最新，确保系统按预期工作，“我们致力于提高透明度，定期公布收集的数据信息，使客户更多了解隐私。”\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.youtube.com/watch?v=IT4vDfA_4NI\u003cbr/\u003e\nhttps://tech.slashdot.org/story/23/02/12/059214/is-windows-11-spyware-microsoft-defends-sending-user-data-to-third-parties\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-13T07:01:28Z",
+  "Author": "Wilson"
+}

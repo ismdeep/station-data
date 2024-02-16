@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Signal 被屏蔽",
+  "Link": "https://www.solidot.org/story?sid=67212",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;安全消息应用 Signal 的官方网站和通信服务的域名在昨日开始被防火墙屏蔽，它们的域名分别是 \u003ca href=\"https://blocky.greatfire.org/detail/328894/https%3A%2F%2Fsignal.org\" title=\"signal.org\" target=\"_blank\"\u003esignal.org\u003c/a\u003e 和 \u003ca href=\"https://blocky.greatfire.org/detail/331006/https%3A%2F%2Ftextsecure-service.whispersystems.org\" title=\"textsecure-service.whispersystems.org\" target=\"_blank\"\u003etextsecure-service.whispersystems.org\u003c/a\u003e。防火墙使用的方法是 DNS 污染和检测 SNI。\u0026#34;\u003c/i\u003e\n\u003cp\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-16T01:39:03Z",
+  "Author": "WinterIsComing"
+}

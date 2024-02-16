@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "多达 1500 家企业感染 REvil 勒索软件",
+  "Link": "https://www.solidot.org/story?sid=68216",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在上周五发生的供应链攻击中，有多达 1500 家企业\u003ca href=\"https://arstechnica.com/gadgets/2021/07/up-to-1500-businesses-infected-in-one-of-the-worst-ransomware-attacks-ever/#p3\" target=\"_blank\"\u003e\u003cu\u003e感染 REvil 勒索软件\u003c/u\u003e\u003c/a\u003e。REvil 组织利用了 Kaseya VSA 远程管理服务中的一个 0day 漏洞，而 VSA 服务有多达 3.5 万企业客户。Kaseya 表示有 800 到 1,500 家企业感染了勒索软件。REvil 在其暗网网站中称攻击中有超过一百万个目标感染，它要求 7000 万美元赎金提供通用解密密钥。REvil 此前最为成功的攻击是从肉类供应商  JBS 勒索到了 1100 万美元赎金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-07T04:27:53Z",
+  "Author": "WinterIsComing"
+}

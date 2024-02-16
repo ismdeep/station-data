@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "假的 Tor Browser 从暗网用户窃取比特币",
+  "Link": "https://www.solidot.org/story?sid=62302",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 ESET \u003ca href=\"https://www.zdnet.com/article/malicious-tor-browser-steals-bitcoin-from-dark-web-users/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，黑客传播假的 Tor Browser 从暗网用户窃取比特币。黑客在论坛等地以“Tor Browser 官方俄语版本”的名义传播修改过的浏览器，并诱骗用户访问名字与官网相似的两个网站 tor-browser.org 和 torproect.org，用户访问之后会被告知他们的浏览器过时了需要更新。目前修改过的版本主要是 Windows 版本，没有发现 macOS、Linux 或移动版本。修改过的版本关闭了更新，加入了一个脚本将用户的浏览活动发送到黑客控制的服务器，如果用户在暗网用比特币进行交易，脚本会尝试替换钱包地址，将比特币发送到黑客控制的钱包。攻击者主要针对访问俄语暗网市场的用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-20T15:31:02Z",
+  "Author": "wenfeixiang"
+}

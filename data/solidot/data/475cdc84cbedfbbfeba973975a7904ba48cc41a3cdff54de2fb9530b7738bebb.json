@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么 uBlock Origin 在 Firefox 上效果最佳",
+  "Link": "https://www.solidot.org/story?sid=67450",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tuBlock Origin 作者 Raymond Hill \u003ca href=\"https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox\"\u003e\u003cu\u003e解释了\u003c/u\u003e\u003c/a\u003e为什么他的广告屏蔽扩展在 Firefox 上工作效率最佳。uBlock Origin 支持 Firefox 和基于 Chromium 的浏览器如 Chrome。他称，Firefox 支持曝光利用 CNAME记录伪装成第一方的第三方服务；只有 Firefox 支持 webRequest.filterResponseData() API，允许在浏览器对 HTML 文档解析前过滤响应体；只有 Firefox 支持在 uBlock Origin 启动后发送网络请求；Firefox 能可靠的阻止预取，基于 Chromium 的浏览器无法这么做，因为浏览器给予网站的优先权高于用户设置；Firefox 版本的 uBlock Origin 使用  WebAssembly 作为核心的过滤代码路径。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-10T03:00:26Z",
+  "Author": "WinterIsComing"
+}

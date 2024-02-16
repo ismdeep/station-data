@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "X.Org Server 进入维护模式",
+  "Link": "https://www.solidot.org/story?sid=65905",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tX.Org Server 上一个大版本 1.20 是在 2018 年 5 月发布的，在短时间内 1.21 不太可能会发布，因为无人愿意接手  1.21 的发布工作。X.Org Server 实际上\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=XServer-Abandonware\" target=\"_blank\"\u003e\u003cu\u003e已经进入到了维护模式\u003c/u\u003e\u003c/a\u003e。X.Org Server 的发布工作长期以来是由 Red Hat 开发者负责的，但随着 Fedora Workstation 默认使用 Wayland 而企业发行版 RHEL 也准备跟着这么做，Red Hat 没有投入更多资源到 X.Org Server 的新版本上。其它主要的利益相关者也无意接手发布 1.21 或向新版本投入资源。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-25T13:06:23Z",
+  "Author": "WinterIsComing"
+}

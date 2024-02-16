@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Nvidia 开源 Linux GPU 内核驱动",
+  "Link": "https://www.solidot.org/story?sid=71503",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNvidia \u003ca href=\"https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源其 Linux GPU 内核驱动模块，\u003ca href=\"https://github.com/NVIDIA/open-gpu-kernel-modules\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。Nvidia 承认其内核驱动目前的形式还不适合进入上游，意味着内核主线暂时还无法合并其内核驱动。此外开源的驱动不包含用户空间的部分，Nvidia GPU 在 Linux 平台上仍然需要闭源代码。AMD 在 Linux 平台早就统一了开源和闭源驱动，Nvidia 长期以来一直被批评对 Linux 支持不友好，它的私有驱动表现出色，但开源驱动 Nouveau 项目主要通过逆向工程实现对 Nvidia GPU 的支持，功能上有欠缺。Nvidia 在其新闻稿中表示它计划找到对上游更友好的方法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-12T03:24:40Z",
+  "Author": "WinterIsComing"
+}

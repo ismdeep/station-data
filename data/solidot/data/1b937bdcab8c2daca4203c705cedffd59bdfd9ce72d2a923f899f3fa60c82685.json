@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "L0phtCrack 开源",
+  "Link": "https://www.solidot.org/story?sid=69266",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t密码审计和恢复应用 L0phtCrack \u003ca href=\"https://l0phtcrack.gitlab.io/\" target=\"_blank\"\u003e\u003cu\u003e宣布开源\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://gitlab.com/l0phtcrack/l0phtcrack\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 Gitlab 上，采用 MIT 和 Apache License\nVersion 2.0 许可证。\u003ca href=\"https://en.wikipedia.org/wiki/L0phtCrack\"\u003e\u003cu\u003eL0phtCrack\u003c/u\u003e\u003c/a\u003e 由黑客组织 L0pht 成员 Peiter Zatko aka Mudge 开发，最早版本在 1997 年发布，可用于测试密码强度，使用字典、暴力、彩虹表等恢复丢失的 Windows 密码。上周日，L0phtCrack 发布了\u003ca href=\"https://gitlab.com/l0phtcrack/l0phtcrack/-/releases\" target=\"_blank\"\u003e\u003cu\u003e 7.2 版本\u003c/u\u003e\u003c/a\u003e，正式宣布开源。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-18T04:28:48Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 否认网站源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=66021",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t隐私活动人士 Resynth1943 \u003ca href=\"https://resynth1943.net/articles/github-source-code-leak/\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e GitHub 的源代码泄露。但  GitHub CEO Nat Friedman 迅速回应\u003ca href=\"https://arstechnica.com/information-technology/2020/11/githubs-source-code-was-leaked-on-github-last-night-sort-of/#p3\" target=\"_blank\"\u003e\u003cu\u003e否认网站源代码泄露\u003c/u\u003e\u003c/a\u003e。Friedman 解释说，源代码意外公开的是 GitHub Enterprise Server，并非网站本身，虽然两者共享了一部分代码，但区别也很大。Friedman 称，它通常以混淆格式向客户提供 GitHub Enterprise Server 的源代码，但几个月前不小心向客户提供了非混淆的 GitHub Enterprise Server 代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-06T07:32:19Z",
+  "Author": "WinterIsComing"
+}

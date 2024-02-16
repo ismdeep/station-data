@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 称默认启用双因素认证减少一半的账号入侵",
+  "Link": "https://www.solidot.org/story?sid=70612",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 称默认启用双因素认证\u003ca href=\"https://tech.slashdot.org/story/22/02/09/2128233/google-says-default-2fa-cut-account-breaches-in-half\" target=\"_blank\"\u003e\u003cu\u003e减少了\u003c/u\u003e\u003c/a\u003e一半的账号入侵。Google 是从去年底开始对 1.5 亿有“合适配置”的用户账号默认启用 2FA。所谓“合适配置”是指用户已经有账号的恢复信息，如手机号码或额外的电邮。Google 表示将会在 2022 年继续推广 2FA，并从 3 月起让用户选择加入一个账户级的安全浏览选项，不让用户访问已知的恶意网站。Google 还承诺在美国中期选举前加强对政客的保护。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-10T05:29:11Z",
+  "Author": "WinterIsComing"
+}

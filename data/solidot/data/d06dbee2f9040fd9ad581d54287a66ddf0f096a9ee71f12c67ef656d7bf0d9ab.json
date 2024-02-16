@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SHA-1 碰撞攻击成本降至 4.5 万美元",
+  "Link": "https://www.solidot.org/story?sid=63252",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 在 2017 年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值。在 Google 的研究中，攻击所需的计算量十分惊人，用 Google 说法，它用了 6,500 年的 CPU 计算时间去完成了碰撞的第一阶段，然后用了 110 年的 GPU 计算时间完成第二阶段。去年五月，一组来自新加坡和法国的研究人员\u003ca href=\"https://www.solidot.org/story?sid=60610\" target=\"_blank\"\u003e\u003cu\u003e演示了\u003c/u\u003e\u003c/a\u003e首个构造前缀碰撞攻击，即攻击者可以自由选择两个碰撞信息的前缀。当时构造前缀碰撞攻击所需的计算费用不到 10 万美元，现在研究人员在\u003ca href=\"https://sha-mbles.github.io/\"\u003e\u003cu\u003e最新演示\u003c/u\u003e\u003c/a\u003e中进一步将攻击成本\u003ca href=\"https://arstechnica.com/information-technology/2020/01/pgp-keys-software-security-and-much-more-threatened-by-new-sha1-exploit/\" target=\"_blank\"\u003e降至 4.5 万美元\u003c/a\u003e。研究人员在线租赁了 900 台 Nvidia GTX 1060 GPU 执行攻击，几个月前费用还高达 7.4 万美元，优化实现和计算成本的下降使得攻击成本降至 4.5 万美元，他们估计到 2025 年攻击成本会降至 1 万美元。SHA-1    的使用率在下降，但距离淘汰还很遥远。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-13T07:14:12Z",
+  "Author": "WinterIsComing"
+}

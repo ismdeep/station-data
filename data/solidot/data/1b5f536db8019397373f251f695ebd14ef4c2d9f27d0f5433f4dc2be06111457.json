@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软 .NET 运行时加入初步支持 RISC-V 处理器的代码",
+  "Link": "https://www.solidot.org/story?sid=74228",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软开源 .NET 运行时项目合并了初步支持 RISC-V 处理器的代码。代码已经在 RISC-V 上成功进行了测试，甚至还运行了简单的 hello world 应用。微软目前没有让 Windows 支持 RISC-V 架构的计划，代码也不是微软程序员递交的，而是三星程序员，这是他在三星工作的一部分。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Microsoft-dotNET-RISC-V\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-24T10:27:49Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubiquiti 安全事故是“灾难级别”",
+  "Link": "https://www.solidot.org/story?sid=67363",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无线通信设备制造商 Ubiquiti 在 1 月份披露了一起安全事故，称涉及到第三方云服务商，事故暴露了客户的账号凭证。但吹哨人称，这起事故比 Ubiquiti 承认的要严重得多，\u003ca href=\"https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/\"\u003e\u003cu\u003e是“灾难级别”\u003c/u\u003e\u003c/a\u003e，该公司有意淡化事故风险级别是为了最小化对股价的影响。吹哨人称，除了客户账号泄露外，攻击者还可能访问了客户数据，以及安装在企业和家庭中的客户设备。吹哨人表示，黑客获得了 Ubiquiti 放在 AWS 云服务中的数据库的完整读写访问权限，而 AWS 就是所谓的第三方云服务商。攻击者访问了一位 Ubiquiti IT 雇员 LastPass 账号里的高权限登陆凭证，获得了所有 Ubiquiti AWS 账号的 root 管理员访问权限，此类的权限允许黑客远程访问 Ubiquiti 客户在世界各地的设备。根据 Ubiquiti 在其网站上提供的数据，该公司在全世界 200 多个国家销售了超过 8500 万部设备。Ubiquiti 的安全团队在去年 12 月发现了黑客在系统中留下的后门，在移除后门之后，黑客留下信息勒索 50 比特币以交换他们保持沉默，黑客还提供证据证明他们窃取到了该公司的源代码。Ubiquiti 没有继续联系黑客，而是靠自己发现了第二个后门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-31T12:28:59Z",
+  "Author": "WinterIsComing"
+}

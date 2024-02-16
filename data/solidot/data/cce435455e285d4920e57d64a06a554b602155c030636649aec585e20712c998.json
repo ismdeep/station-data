@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DirectX 将进入 Windows Subsystem for Linux",
+  "Link": "https://www.solidot.org/story?sid=64415",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 //build 2020 上，微软\u003ca href=\"https://devblogs.microsoft.com/directx/directx-heart-linux/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e GPU 硬件加速将加入到 Windows Subsystem for Linux 2（WSL 2）中。WSL 是一个允许用户在 Windows PC 上运行 Linux 应用的环境。现在，这些 Linux 应用和工具将能使用 GPU 加速。微软称，对 GPU 的访问，Linux 环境中的应用将和 Windows 原生应用一样，它不会对 Linux 应用进行限制，将根据需要对 GPU 提供动态的分享。如果只有一个 Linux 应用访问 GPU，那么它将可使用 GPU 的全部资源。微软表示它将完整的 D3D12 API 带到了 Linux。除了 D3D12 和 DxCore 外，它还将其机器学习 API DirectML 移植到了 Linux。微软同时宣布最流行的计算 API NVIDIA CUDA 加速也将加入到 WSL。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T06:48:35Z",
+  "Author": "WinterIsComing"
+}

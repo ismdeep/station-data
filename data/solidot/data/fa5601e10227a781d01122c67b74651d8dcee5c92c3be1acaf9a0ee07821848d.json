@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "HTTPS Everywhere 将使用 DuckDuckGo 的 Smarter Encryption",
+  "Link": "https://www.solidot.org/story?sid=67534",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着 HTTPS 的普及，主流浏览器默认使用 HTTPS，电子前哨基金会(EFF)维护的隐私保护扩展 HTTPS Everywhere 似乎不再有用武之地。EFF \u003ca href=\"https://www.eff.org/deeplinks/2021/04/https-everywhere-now-uses-duckduckgos-smarter-encryption\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它与 \u003cspan\u003eDuckDuckGo 合作将在 \u003c/span\u003eHTTPS Everywhere 扩展中使用 DuckDuckGo 的 Smarter Encryption 规则集。EFF 称 Smarter Encryption 覆盖了更多域名，现在已经不再需要以前那种规则集的细粒度维护，而 Chrome 的 Manifest V3 declarativeNetRequest API 设定了规则集的上限。EFF 表示，从 4 月 15 日开始使用 Smarter Encryption 规则集，旧的规则集将在年底弃用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-19T13:29:28Z",
+  "Author": "WinterIsComing"
+}

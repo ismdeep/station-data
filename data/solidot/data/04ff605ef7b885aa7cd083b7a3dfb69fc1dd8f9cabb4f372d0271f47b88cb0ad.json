@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国最大 ATM 供应商遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=64348",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国最大 ATM 供应商 Diebold Nixdorf \u003ca href=\"https://krebsonsecurity.com/2020/05/ransomware-hit-atm-giant-diebold-nixdorf/\" target=\"_blank\"\u003e\u003cu\u003e遭勒索软件攻击\u003c/u\u003e\u003c/a\u003e。该公司表示黑客未能接触 ATM 或客户网络，只影响其企业网络。Diebold 有 3.5 万名员工，其 ATM 机器在全球的市场占有率估计为 35%，它还生产零售商使用的销售终端系统和软件。攻击发生在 4 月 25 日晚上，安全团队探测到企业网络的异常行为，它立即采取行动隔离网络中的系统，阻止恶意程序扩散。该公司表示勒索软件没有影响到它的客户网络。入侵 Diebold 企业网络的是被称为 ProLock 的勒索软件。Diebold 称它没有向攻击者支付赎金。安全专家表示这么做也许更好，因为当前版本的 ProLock 解密工具会损坏数据库之类的大型文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-13T06:59:48Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 称黑客利用手机钓鱼攻击窃取员工凭证",
+  "Link": "https://www.solidot.org/story?sid=65105",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter 官方博客\u003ca href=\"https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e黑客攻击的更多细节：7 月 15 日，攻击者对少数 Twitter 员工发动手机钓鱼攻击，成功的攻击不仅让攻击者能访问公司内网，还能利用特定员工凭证访问内部支持工具。在利用凭证访问内部系统之后攻击者获得了 Twitter 内部流程的情报（比如谁能访问账号管理工具）。然后利用这些情报攻击者针对了能访问账号管理工具的员工，使用这些员工的凭证攻击者劫持了 130 个账号，使用其中 45 个账号发帖，访问了 36 个账号的 DM 私信，下载了 7 个账号的数据。Twitter 表示它仍然在继续进行调查，与执法机构合作识别攻击者的身份。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-31T05:41:46Z",
+  "Author": "WinterIsComing"
+}

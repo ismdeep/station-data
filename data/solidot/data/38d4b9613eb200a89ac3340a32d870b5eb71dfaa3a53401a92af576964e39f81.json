@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 20.04 的 ZFS 将支持 APT 操作快照",
+  "Link": "https://www.solidot.org/story?sid=63771",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年底发布的 Ubuntu 19.10 \u003ca href=\"https://www.solidot.org/story?sid=61708\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e ZFS on Linux 支持，而即将在下个月发布的 Ubuntu 20.04 将是 Ubuntu 首个支持 ZFS 的长期支持版本（LTS）。此外，Ubuntu 的 Zsys daemon 还加入了\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Ubuntu-20.04-Zsys-APT-Snapshots\"\u003e\u003cu\u003e额外的功能\u003c/u\u003e\u003c/a\u003e：APT 包管理器的操作将会触发系统快照。当 APT 执行升级/安装/卸载操作时，ZFS 将会对系统进行镜像，如果 APT 操作发生问题，系统可以回滚到最新的快照。最新的 Zsys 0.4.1 包含了该功能。不过 Zsys 尚处于开发阶段，还有很多功能\u003ca href=\"https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/\"\u003e\u003cu\u003e等待加入\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T12:53:44Z",
+  "Author": "WinterIsComing"
+}

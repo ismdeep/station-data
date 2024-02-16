@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Let's Encrypt 签发了 10 亿证书",
+  "Link": "https://www.solidot.org/story?sid=63657",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t旨在让每一个网站都启用 HTTPS 加密的 Let\u0026#39;s Encrypt 项目\u003ca href=\"https://letsencrypt.org/2020/02/27/one-billion-certs.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e在 2 月 27 日签发了第 10 亿个证书。Let\u0026#39;s Encrypt 是在 2017 年 6 月\u003ca href=\"https://www.solidot.org/story?sid=52926\"\u003e\u003cu\u003e签发了\u003c/u\u003e\u003c/a\u003e第一亿个证书。三年后的今天互联网在加密情况上已经出现了巨大变化：当时浏览器加载的网页有 58% 启用了 HTTPS，美国是 64%；今天这一比率提高到了 81%，美国是 91%。 2017 年 Let\u0026#39;s Encrypt 项目有 11 个全职雇员和 261 万美元预算，服务于 4600 万网站；今天它有 13 名全职雇员和 335 万美元预算，服务于 1.92 亿个网站。它的雇员只增加两人预算增加 28% 但服务的网站数量是以前的四倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-28T06:23:27Z",
+  "Author": "ai"
+}

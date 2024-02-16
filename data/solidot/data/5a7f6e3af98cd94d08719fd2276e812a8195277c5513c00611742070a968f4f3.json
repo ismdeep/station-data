@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将默认隐藏弹出式通知",
+  "Link": "https://www.solidot.org/story?sid=62469",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从明年开始，Firefox \u003ca href=\"https://www.zdnet.com/article/firefox-to-hide-notification-popups-by-default-starting-next-year/\" target=\"_blank\"\u003e\u003cu\u003e将默认隐藏\u003c/u\u003e\u003c/a\u003e恼人的弹出式通知。2020 年 1 月释出的 Firefox 72 将启用该功能。Mozilla 在今年 4 月做了一个实验，观察用户与通知之间的互动。用户数据显示，97% 的用户不理睬通知，或者干脆屏蔽显示通知的网站。因此 Mozilla 工程师决定默认隐藏通知。从 Firefox 72 起，如果一个网站弹出通知，它将被默认隐藏，浏览器会在地址栏显示一个图标告诉用户有通知，图标还会有一个摇动的特效。该功能已在最新的 Firefox Nightly 版本中启用，Firefox 用户可以选择手动启用：在地址栏输入  about:config，搜索 dom.webnotifications.enabled，然后设置为 false。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-04T03:18:14Z",
+  "Author": "wenfeixiang"
+}

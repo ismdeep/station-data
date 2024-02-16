@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客正在利用 BIG-IP 漏洞",
+  "Link": "https://www.solidot.org/story?sid=71489",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员对黑客正在利用的漏洞的范围和程度感到惊讶，黑客正试图利用它们完全控制运行一些世界上最大、最敏感网络的网络设备。该漏洞的严重等级为 9.8分（满分为 10 分），影响 F5 的 BIG-IP，这是一组应用，作为负载均衡器、防火墙，检查并加密进出网络的数据。线上可发现的设备实例超过 1.6 万个，F5 \u003ca href=\"https://www.f5.com/customer-stories\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，财富 50 强中有 48 家企业在使用。鉴于 BIG-IP 靠近网络边缘以及它们是作为管理 We b服务器流量的设备，它们所处的位置通常有利于查看受 HTTPS 保护的流量的解密内容。\n\u003cbr/\u003e\n\u003cbr/\u003e\n上周 F5 \u003ca href=\"https://support.f5.com/csp/article/K23605346\" target=\"_blank\"\u003e\u003cu\u003e披露并修补了\u003c/u\u003e\u003c/a\u003e一个 BIG-IP 漏洞，黑客可利用该漏洞，以 root 权限运行命令。威胁源于 iControl REST 的身份验证实现缺陷，\u003ca href=\"https://cdn.f5.com/websites/devcentral.f5.com/downloads/icontrol-rest-api-user-guide-14-1-0.pdf\"\u003e\u003cu\u003eiControl REST \u003c/u\u003e\u003c/a\u003e是一组用于配置和管理（PDF）BIG-IP设备的、基于 Web 的编程接口。安全公司 Randori 的研发主管 Aaron Portnoy 在私信中表示：“由于身份验证的实现方式存在缺陷，这个问题基本上使能访问管理界面的攻击者可以伪装成管理员。”“一旦你成了管理员，你就可以与应用提供的所有端点进行交互，包括执行代码。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n过去 24 小时 Twitter 上流传的图片显示黑客如何利用该漏洞访问名为 bash 的 F5 应用程序端点。它的功能是提供一个接口，将用户提供的输入作为具有 root 权限的 bash 命令运行。虽然很多图片显示的是提供一个密码让命令运行，但在\u003ca href=\"https://twitter.com/wdormann/status/1523713803602788352\" target=\"_blank\"\u003e\u003cu\u003e不提供密码\u003c/u\u003e\u003c/a\u003e的情况下，该漏洞也能工作。在其他地方，研究人员分享了漏洞利用代码，报告称看到了一些野蛮做法，攻击者会留下后门 webshell，以保持对被入侵的 BIG-IP 设备的控制——即使在漏洞被修补之后。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-10T14:05:12Z",
+  "Author": "wanwan"
+}

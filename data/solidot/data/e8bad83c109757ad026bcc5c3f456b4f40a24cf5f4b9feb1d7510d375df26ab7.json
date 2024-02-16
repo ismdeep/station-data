@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "联想更新笔记本固件修复允许禁用 UEFI 的漏洞",
+  "Link": "https://www.solidot.org/story?sid=73329",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t联想更新了 25 款笔记本电脑的固件，修复允许攻击者禁用 UEFI Secure Boot 然后安装恶意固件植入永久性后门的漏洞，受影响的笔记本型号包括 ThinkPads、Yoga Slims 和 IdeaPads。UEFI 位于主板的闪存芯片上，它是安全链的首个环节，它被感染了恶意代码是很难检测和移除，它会在系统一次次重新安装之后仍然存在。安全公司 ESET 的研究人员报告了三个漏洞  CVE-2022-3430、CVE-2022-3431 和 CVE-2022-3432。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://support.lenovo.com/us/en/product_security/LEN-94952\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-10T15:08:05Z",
+  "Author": "WinterIsComing"
+}

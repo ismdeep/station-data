@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软撤回默认屏蔽宏的计划",
+  "Link": "https://www.solidot.org/story?sid=72078",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了应对勒索软件等恶意程序，微软今年早些时候\u003ca href=\"https://www.solidot.org/story?sid=70587\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e计划改变 MS Office 办公软件处理宏的方式：如果文件使用的宏命令是从网上下载的，宏将会默认完全禁用。 2022 年 4 月起，这一改变将首先提供给 Office v2203 用户预览，6 月起推广到订阅版本 Microsoft 365  Office。但在上周，微软通知 IT 管理员，根据测试收到的用户反馈，它撤回了禁用 VBA 宏的计划。禁用宏可能破坏某些功能而导致微软决定回滚。如果 MS Office 的宏运行在沙盒模式下，未经用户许可不能访问其它任何文档，那么它构成的安全风险\u003ca href=\"https://it.slashdot.org/story/22/07/08/1551218/microsoft-rolls-back-blocking-office-vba-macros-by-default\"\u003e\u003cu\u003e也就基本不存在了\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-09T13:21:51Z",
+  "Author": "WinterIsComing"
+}

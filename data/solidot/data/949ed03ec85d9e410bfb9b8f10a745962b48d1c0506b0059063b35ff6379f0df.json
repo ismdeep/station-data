@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Sublime Text 4 发布",
+  "Link": "https://www.solidot.org/story?sid=67835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t跨平台源码编辑器 Sublime Text 释出了 4 系列的\u003ca href=\"https://www.sublimetext.com/blog/articles/sublime-text-4\"\u003e\u003cu\u003e首个稳定版本\u003c/u\u003e\u003c/a\u003e，Sublime Text 4 的一大改变是许可证不再只绑定一个大版本，而是对购买三年内的所有更新都有效。之后用户仍然可以访问三年内 Sublime Text 释出的每一个版本，但较新的构建版本将需要许可证升级。新版的主要变化包括：文件标签多选；原生支持 Apple Silicon，Linux ARM64 版本支持 Raspberry Pi，更新了 UI，重写了内容感知自动完成，支持 TypeScript、JSX 和 TSX，改进了语法高亮引擎，能利用 GPU 渲染，更新到  Python 3.8，兼容 Sublime Text 3，等等。其它变化可浏览 Changelog。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-21T10:47:53Z",
+  "Author": "WinterIsComing"
+}

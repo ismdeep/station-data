@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 82.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65866",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/82.0/releasenotes/\"\u003e\u003cu\u003eFirefox 82.0\u003c/u\u003e\u003c/a\u003e。主要变化包括：画中画按钮有了新外观和位置，使其更容易使用；Mac 版本画中画功能引入快捷键；Windows 版本使用 DirectComposition 硬解码视频，改进视频播放的 CPU 和 GPU 占用，延长笔记本电池使用时间；改进页面加载性能和缩短启动时间；bug 修正和安全更新等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-21T05:08:22Z",
+  "Author": "WinterIsComing"
+}

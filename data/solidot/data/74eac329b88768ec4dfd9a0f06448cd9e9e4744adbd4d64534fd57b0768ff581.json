@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 10.5 将移除 Tor Launcher",
+  "Link": "https://www.solidot.org/story?sid=68132",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目开发者\u003ca href=\"https://blog.torproject.org/improving-ux-connecting-to-tor-105\"\u003e\u003cu\u003e宣布 \u003c/u\u003e\u003c/a\u003eTor Browser 10.5 将移除 Tor Launcher，连接到 Tor 网络节点的过程将整合到浏览器内而不是在启动时连接。开发者称，它的调查发现用户对输入网桥地址的方法感到困惑，对 Tor Launcher 的启动和浏览器窗口打开之间的时间间隔感到迷茫。为了改善用户体验它决定移除 Tor Launcher UI，将 Tor 网络连接嵌入到主浏览器屏幕。本月晚些时候释出的 Tor Browser 10.5 将包含这一变动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-26T08:52:08Z",
+  "Author": "WinterIsComing"
+}

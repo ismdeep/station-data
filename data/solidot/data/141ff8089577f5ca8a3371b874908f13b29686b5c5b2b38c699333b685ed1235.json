@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "信用卡 PIN 码很容易猜测",
+  "Link": "https://www.solidot.org/story?sid=69284",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://www.bleepingcomputer.com/news/security/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad/\"\u003e\u003cu\u003e证明\u003c/u\u003e\u003c/a\u003e，训练一种专用深度学习算法是可能猜出 41%的 4 位信用卡 PIN 码——即使受害者用手遮住了 ATM 机的键盘。发动攻击需要一个目标 ATM 机的复制品，因为训练算法了解不同密码键盘的特定尺寸和按键间距至关重要。接下来使用在 ATM 键盘上输入密码的视频，训练机器学习模型识别按键动作，猜测出可能的密码组合及其概率。\n\u003cbr/\u003e\n\u003cbr/\u003e\n在实验中，研究人员收集了 5800 段来自 58 个不同地区/人种的人输入 4 位和 5 位 PIN 码的视频。预测模型运行在一台配备 128 GB RAM 的 Xeon E5-2670 以及三张 5GB RAM 的 Tesla K20m 上。通过三次尝试（通常是银行卡被扣留之前被允许的最大尝试次数），研究人员成功猜对了30% 的 5 位和 41% 的 4 位 PIN 码。模型可以根据非输入手的覆盖范围排除按键，评估两个按键之间的距离，从而根据另一只手的动作推测出按下的数字。摄像头的位置非常关键，尤其是在记录左撇子或者右撇子的人的动作时。隐藏在 ATM 顶部的针孔摄像机被认为是攻击者的最佳帮手。如果摄像头还能捕捉音频的话，该模型还能分辨每个数字按键声音反馈的细微差别，从而让预测更加准确。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T06:47:31Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Marvin Minsky 的通用图灵机发现 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=67786",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t瑞典的一位计算机科学家在 Marvin Minsky 设计的通用图灵机（Universal Turing Machine）中\u003ca href=\"https://www.theregister.com/2021/05/11/turing_machine_0day_no_patch_available/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了一个 0day 漏洞，允许任意代码执行。这一发现应该没什么“实际意义”。瑞典皇家理工学院的 Pontus Johnson 教授在预印本网站 ArXiv 发表了他的\u003ca href=\"https://arxiv.org/abs/2105.02124\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e，解释了漏洞。通用图灵机被认为是计算机的最简单最抽象模型。Minsky 的 1967 年通用图灵机实现被发现缺乏输入验证，能被利用执行任意代码。该漏洞被分配了编号 \u003ca href=\"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471\" target=\"_blank\"\u003e\u003cu\u003eCVE-2021-32471\u003c/u\u003e\u003c/a\u003e，目前没有补丁也没有方法阻止漏洞利用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-17T05:58:40Z",
+  "Author": "WinterIsComing"
+}

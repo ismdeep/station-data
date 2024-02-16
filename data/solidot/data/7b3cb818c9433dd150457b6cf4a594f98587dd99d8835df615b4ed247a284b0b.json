@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英国最强大的超算将使用 AMD 的 Epyc",
+  "Link": "https://www.solidot.org/story?sid=62274",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTop 500 榜单中的大部分超算使用的都是英特尔的处理器，但随着 AMD 的 CPU 再次表现出强大的竞争力，越来越多的超算也开始使用 AMD 的服务器处理器 Epyc。HPE 旗下的 Cray 公司与英国政府签署了 7900 万英镑的交易去\u003ca href=\"https://www.theregister.co.uk/2019/10/15/uk_archer2_supercomputer/\"\u003e\u003cu\u003e建造\u003c/u\u003e\u003c/a\u003e 28-petaFLOPS Archer2 超算，这是英国至今最强大的超算。Archer2 将取代它的前任 Archer 超算，后者运算速度  2.6-petaFLOPS，使用英特尔的 Xeon E5 v2 处理器。和 Archer 一样，Archer2 将安装在爱丁堡大学，它将包含 5,848 个计算节点，每个节点由两个 64 核 AMD Epyc Rome 组成，处理器频率 2.2GHz，共 748,544 个 CPU 核心，系统内存 1.57PB。系统设计主要使用 AMD 的 CPU，但有四个计算节点连接了 16 个 AMD GPU。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-17T10:01:17Z",
+  "Author": "wenfeixiang"
+}

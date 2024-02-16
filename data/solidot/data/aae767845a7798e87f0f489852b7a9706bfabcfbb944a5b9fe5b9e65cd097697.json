@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 车手打败最优秀的 GT赛车玩家",
+  "Link": "https://www.solidot.org/story?sid=70622",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t索尼 AI 部门的研究人员使用深度强化学习，训练 AI 玩 GT赛车游戏，在正面比赛中\u003ca href=\"https://arstechnica.com/cars/2022/02/sony-trains-superhuman-ai-to-race-in-gran-turismo/\" target=\"_blank\"\u003e\u003cu\u003e击败了世界最顶尖的玩家\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.nature.com/articles/s41586-021-04357-7\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《自然》 期刊上。赛车并不简单，除了控制速度外，还涉及到战术、战略甚至某种不明确的礼仪概念。实时控制具有复杂非线性动力学的汽车同时在前后左右车辆的毫厘之间进行操作是一项巨大的挑战。目前赛车游戏中最先进的 AI 方法来自于微软的 Forza Motorsport 系列，它始于微软研究院的一项神经网络项目，使用了人类玩家的数据训练 AI 车手。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-10T15:34:40Z",
+  "Author": "WinterIsComing"
+}

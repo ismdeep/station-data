@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软称 SolarWinds 黑客窃取了它三款产品的源代码",
+  "Link": "https://www.solidot.org/story?sid=66967",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软称 SolarWinds 黑客阅读和下载了它三款产品的源代码，但没有证据显示黑客访问了它的产品服务器或客户数据，也没有发现黑客通过它攻击客户。SolarWinds 黑客攻击是被认为是至今最大规模的针对美国的网络间谍行动。\u003ca href=\"https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/\"\u003e微软称\u003c/a\u003e，黑客访问了 Azure 组件的少量子集；Intune 组件的少量子集；Exchange 组件的少量子集。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-19T05:43:13Z",
+  "Author": "WinterIsComing"
+}

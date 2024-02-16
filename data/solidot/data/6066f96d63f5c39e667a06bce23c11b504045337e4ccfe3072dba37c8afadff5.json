@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 调查滥用其基础设施挖掘加密货币",
+  "Link": "https://www.solidot.org/story?sid=67399",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub \u003ca href=\"https://therecord.media/github-investigating-crypto-mining-campaign-abusing-its-server-infrastructure/\" target=\"_blank\"\u003e\u003cu\u003e正在调查一系列对其基础设施的攻击\u003c/u\u003e\u003c/a\u003e，攻击者滥用其自动化执行任务的功能 GitHub Actions 去挖掘加密货币。攻击者首先创建了合法项目的分支，然后向原代码库递交恶意的 Pull Reques，只需要递交就能发动攻击。如果项目启用了 GitHub Actions，那么新的 Pull Reques 就会被视为新的任务自动执行测试。GitHub 的系统将会读取恶意代码，在其基础设施内启动虚拟机下载和运行挖掘加密货币的软件。这一攻击至少从 2020 年 11 月就开始了。目前看来 GitHub 将与攻击者展开一场打地鼠的游戏，关闭一个帐号攻击者可以注册新的账号继续。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-04T15:39:53Z",
+  "Author": "WinterIsComing"
+}

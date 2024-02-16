@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PostgreSQL 15 释出",
+  "Link": "https://www.solidot.org/story?sid=73061",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数据库管理系统 PostgreSQL \u003ca href=\"https://www.postgresql.org/docs/15/release-15.html\" target=\"_blank\"\u003e\u003cu\u003e发布了 v15 版本\u003c/u\u003e\u003c/a\u003e。新版本进一步改进了性能，主要新特性包括：支持 SQL MERGE 命令；改进内存中和磁盘上的排序性能；Zstandard（zstd）压缩支持，支持 pg_basebackup 期间执行服务器端压缩；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-14T12:53:21Z",
+  "Author": "WinterIsComing"
+}

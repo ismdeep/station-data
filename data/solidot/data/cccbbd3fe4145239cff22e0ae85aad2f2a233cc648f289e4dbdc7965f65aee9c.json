@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Starlink 激光系统每天传输 42PB 数据",
+  "Link": "https://www.solidot.org/story?sid=77283",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tStarlink 宽带卫星的激光系统每天为客户传输逾 42 PB 的数据。SpaceX 工程师 Travis Brashears 在旧金山举办的 SPIE Photonics West 上表示，卫星上的逾 9000 个激光器每天向 230 多万的客户传输逾 42PB 数据，峰值吞吐量 5.6 Tbps。为降低延迟和改进全球覆盖面，Starlink 使用了名为“激光链路（laser link）”的系统，激光器能维持每个链路 100Gbps 的链接。地球表面很大一部分是海洋，不可能有卫星地面站，因此海洋中的通信需要能将请求发送到一颗处于连接范围内的卫星，Starlink 卫星之间通过激光器传输数据，形成太空中的网状网。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-02-02T07:07:10Z",
+  "Author": "Wilson"
+}

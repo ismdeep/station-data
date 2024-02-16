@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "特斯拉透露它的 AI 超算 Dojo",
+  "Link": "https://www.solidot.org/story?sid=68632",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t特斯拉举办了 AI Day 活动，\u003ca href=\"https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/\" target=\"_blank\"\u003e\u003cu\u003e透露了\u003c/u\u003e\u003c/a\u003e它的自研超算 Dojo，使用台积电 7 纳米工艺制造，将输入来自特斯拉汽车发回的海量视频训练其神经网络。特斯拉称 Dojo 使用的芯片叫 D1，具有 GPU 级别的计算能力，同时又拥有 CPU 级别的灵活性。Dojo D1 的分布式计算架构类似硅谷创业公司 Cerebras Systems 的\u003ca href=\"https://www.solidot.org/story?sid=67584\" target=\"_blank\"\u003e\u003cu\u003e超大型 AI 芯片 \u003c/u\u003e\u003c/a\u003eWafer Scale Engine（WSE)。每个功能单元具有 1TFlop BF16/CFP8 和 64GFlops FP32 的运算能力，每个方向的带宽 512GB/s。一块完整的芯片有 354 个功能单元，运算能力 362 TFlops BF16/CFP8 和 22.6 TFlops FP32，大小 645mm^2，晶体管数量 500 亿，功率 400W TDP。它的晶体管密度高于几乎所有高性能芯片，只低于移动芯片和  Apple M1。25 个 D1 芯片封装成 1 个  training tile，每个 tile 的运算能力 9 PFlops BF16/CFP8。一个机柜共有 12 个 tile，运算能力 108 PFlops，总共超过 10 万个功能单元。特斯拉计划扩大到 10 个机柜，使得运算能力超过 1.1 Exaflops。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-21T15:08:03Z",
+  "Author": "WinterIsComing"
+}

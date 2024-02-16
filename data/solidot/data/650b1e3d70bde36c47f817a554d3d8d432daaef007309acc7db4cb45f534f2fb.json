@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "React 是最受欢迎的 JS 框架",
+  "Link": "https://www.solidot.org/story?sid=63013",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 State of JavaScript 的\u003cu\u003e调查结果\u003c/u\u003e，React 不仅仅使用率最高的也是满意度最高的 JS 前端框架。21,717 名开发者接受了调查，86% 的开发者写 JS 的时间两年或两年以上，最多有 20 年。调查显示，越来越多的开发者对  \u003ca target=\"_blank\" href=\"https://svelte.dev/\"\u003eSvelte\u003c/a\u003e 框架产生兴趣；曾经的明星 Angular 如今呈现颓势，开发者的满意度只有 38%；\u003ca target=\"_blank\" href=\"https://jestjs.io/\"\u003eJest\u003c/a\u003e测试框架的满意度高达 96%；曾经人人使用的  jQuery 库如今使用率只有 11.2%；Visual Studio Code 是最受欢迎的文本编辑器...\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-20T14:49:51Z",
+  "Author": "WinterIsComing"
+}

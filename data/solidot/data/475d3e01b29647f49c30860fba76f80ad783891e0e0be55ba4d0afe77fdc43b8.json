@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CIA 储存机密黑客工具的虚拟机使用的密码是 123ABCdef",
+  "Link": "https://www.solidot.org/story?sid=63733",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国正在起诉被指泄露 CIA 黑客工具集 Vault 7 和 Vault 8 的前雇员 Joshua A. Schulte。审讯透露的信息显示，CIA 内部的信息安全措施\u003ca href=\"https://www.theregister.co.uk/2020/03/05/cia_leak_trial/\"\u003e\u003cu\u003e称不上有多严密\u003c/u\u003e\u003c/a\u003e，储存机密黑客工具的虚拟机密码是 123ABCdef，DevLAN 服务器的 root 登陆密码是 mysweetsummer，而这些密码在内部是共享的，发布在局域网内。聊天记录显示，每个人对这些薄弱的信息安全实践都心知肚明，并对此开玩笑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-06T14:27:31Z",
+  "Author": "WinterIsComing"
+}

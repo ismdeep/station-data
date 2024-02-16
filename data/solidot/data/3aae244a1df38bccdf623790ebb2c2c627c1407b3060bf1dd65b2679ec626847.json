@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意 Python 库被发现会窃取 SSH 和 GPG 密钥",
+  "Link": "https://www.solidot.org/story?sid=62845",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 安全团队从  PyPI (Python Package Index) \u003ca href=\"https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/\" target=\"_blank\"\u003e\u003cu\u003e移除了\u003c/u\u003e\u003c/a\u003e两个被发现会窃取 SSH 和 GPG 密钥的恶意 Python 库。两个库都由同一名开发者创建，利用名字相似的方法去模仿已知的流行库：python3-dateutil 试图模仿流行的 dateutil 库，jeIlyfish 模仿 jellyfish 库。德国开发者 Lukas Martini 上周日发现了这两个恶意库，在通知安全团队之后它们被立即移除。Martini 称，恶意代码只存在于 jeIlyfish 中，python3-dateutil 本身不包含恶意代码，但它会导入  jeIlyfish 库。dateutil 开发团队成员 Paul Ganssle 分析后认为，恶意代码是尝试从用户计算机上窃取 SSH 和 GPG 密钥，然后发送到一个 IP 地址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-05T02:55:30Z",
+  "Author": "WinterIsComing"
+}

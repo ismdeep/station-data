@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果 Mac App Store 拒绝 Electron Apps",
+  "Link": "https://www.solidot.org/story?sid=62486",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发者报告，苹果 Mac App Store 的应用审核流程\u003ca href=\"https://developers.slashdot.org/story/19/11/04/1620223/apple-now-rejects-electron-apps-from-mac-app-store\"\u003e\u003cu\u003e开始自动拒绝\u003c/u\u003e\u003c/a\u003e使用 Electron 框架开发的 App。基于 JavaScript 和 Node.js 的 Electron 框架能将 Web App 封装打包成桌面 App。苹果拒绝此类 App 的原因是它们使用的私有 API 调用。这些  API 调用是 Electron 框架的一部分，并不在应用之中。Electron 框架使用这些 API 已经有好几年了，而苹果最近更新了服务端的应用审核流程，能检测和识别出这些违反其应用审核规定的私有 API。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-05T04:08:41Z",
+  "Author": "wenfeixiang"
+}

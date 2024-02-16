@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "法国警方控制僵尸网络远程移除恶意程序",
+  "Link": "https://www.solidot.org/story?sid=61893",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t法国警方在 Avast 的帮助下接管了一台控制僵尸网络的服务器，\u003ca href=\"https://decoded.avast.io/janvojtesek/putting-an-end-to-retadup-a-malicious-worm-that-infected-hundreds-of-thousands/\" target=\"_blank\"\u003e\u003cu\u003e远程移除了\u003c/u\u003e\u003c/a\u003e受害者系统中的恶意程序。Avast 称，它发现了一台指令服务器用于控制挖掘数字货币的恶意程序，它位于法国境内，存在一个设计漏洞能无需受害者运行任何额外代码就能移除恶意程序。该恶意程序被称为 Retadup，主要用于挖掘数字货币门罗币，偶尔也会推送勒索软件和窃取密码的恶意程序，该恶意程序的受害者超过 85 万，主要位于南美洲，秘鲁、委内瑞拉、玻利维亚和墨西哥是感染数量最多的国家。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-29T05:13:28Z",
+  "Author": "wenfeixiang"
+}

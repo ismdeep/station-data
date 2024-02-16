@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客开发 Linux 恶意程序从移动网络窃取短信",
+  "Link": "https://www.solidot.org/story?sid=62447",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 FireEye \u003ca href=\"https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，中国黑客组织开发定制的 Linux 恶意程序从一家移动运营商的网络\u003ca href=\"https://www.zdnet.com/article/chinese-hackers-developed-malware-to-steal-sms-messages-from-telcos-network/\" target=\"_blank\"\u003e\u003cu\u003e窃取短信\u003c/u\u003e\u003c/a\u003e。恶意程序安装在处理短信通信的 Short Message Service Center (SMSC) 服务器上。FireEye 没有披露移动运营商的名字，它将恶意程序命名为 MessageTap，称它设计窃取包含特定关键词的短信，这些关键词包括了政治领导人的名字、军事和情报组织以及政治运动。此外，它还窃取特定手机号码、特定 IMSI 识别码发送或接受的短信。FireEye 称，MessageTap 背后的黑客组织是 APT41，它找到证据显示 APT41 搜索了移动运营商的呼叫记录数据库，查询了高级别人员相关的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-01T03:30:13Z",
+  "Author": "wenfeixiang"
+}

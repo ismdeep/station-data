@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Element 的许可证将从 Apache 2.0 迁移到 AGPLv3",
+  "Link": "https://www.solidot.org/story?sid=76548",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tElement 成为最新一个改变开源许可证的公司，但它没有变成只分享源代码，而只是从比较宽松的 Apache 2.0 迁移到更严格的 AGPLv3。Element 是去中心化联邦架构通信协议 Matrix 的客户端。Element CEO 和 Matrix 联合创始人 Matthew Hodgson 解释说，他们的意图是如果有人开发私有定制版本，如果分发该版本或有用户连接，那么修改后的版本需要在 AGPL 下公开源代码。Matrix 平台用户达到了 1.15 亿，过去一年增加了接近一倍。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/11/06/element_moves_to_agplv3/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-06T15:31:42Z",
+  "Author": "Wilson"
+}

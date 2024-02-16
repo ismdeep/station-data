@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 的 AI 驱动音频编解码器压缩率十倍于 MP3",
+  "Link": "https://www.solidot.org/story?sid=73244",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta/Facebook 宣布了 AI 驱动的新音频编解码器 EnCodec，压缩后的大小仅为 MP3 文件格式的十分之一。Meta 表示这项技术能显著改善低带宽下的语音声音质量。Meta 同时在预印本平台 arxiv 上发表了论文《High Fidelity Neural Audio Compression》。新的方法由三部分组成，首先编码器将未压缩数据转换成低帧率的潜在空间（latent space）表示；量化器 quantizer 随后压缩表示到目标大小，同时跟踪最重要信息以用于未来重建原始信号；解码器最后用单 CPU 上的神经网络将压缩后的数据实时转变成音频。研究人员表示他们是第一个实现将神经网络技术应用于压缩  48 kHz 立体声。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/?p=1894059\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-02T15:25:33Z",
+  "Author": "WinterIsComing"
+}

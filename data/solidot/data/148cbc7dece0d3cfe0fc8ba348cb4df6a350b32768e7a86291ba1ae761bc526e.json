@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 更新永久移除 Adobe Flash",
+  "Link": "https://www.solidot.org/story?sid=65952",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAdobe Flash 将于 2020 年 12 月 31 日终止支持，微软释出了更新 \u003ca href=\"https://support.microsoft.com/en-us/help/4577586/update-for-removal-of-adobe-flash-player\" target=\"_blank\"\u003e\u003cu\u003eKB4577586\u003c/u\u003e\u003c/a\u003e 永久性移除 Adobe Flash，在移除之后用户将无法再重新安装。该更新尚未通过 Windows Server Update Service (WSUS) 推送给用户，而是需要通过 \u003ca href=\"https://www.catalog.update.microsoft.com/search.aspx?q=4577586\" target=\"_blank\" rel=\"noopener noreferrer\" data-component=\"externalLink\"\u003eMicrosoft Update Catalog\u003c/a\u003e 下载和安装。该补丁将在 2021 年初通过 WSUS 提供给用户。微软在 Adobe Flash 终止支持前提供卸载补丁的一个目的是让企业级用户测试在 Windows 系统移除 Flash 对企业应用的影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-30T03:17:41Z",
+  "Author": "WinterIsComing"
+}

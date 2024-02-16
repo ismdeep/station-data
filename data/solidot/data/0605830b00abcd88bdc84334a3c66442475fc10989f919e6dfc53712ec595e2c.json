@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员比较 TikTok 和抖音",
+  "Link": "https://www.solidot.org/story?sid=67281",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加拿大多伦多大学公民实验室的研究人员\u003ca href=\"https://citizenlab.ca/2021/03/tiktok-vs-douyin-security-privacy-analysis/\"\u003e\u003cu\u003e详细对比\u003c/u\u003e\u003c/a\u003e了字节跳动旗下的短视频应用 TikTok 和抖音，没有发现 TikTok 存在威胁到美国国家安全的证据。研究人员逆向工程了 TikTok 和抖音的 APK 文件，监视了它们发送的网络流量，发现两者之间有着明显的差异，但并没有表现出任何明显的恶意行为，应用没有未经用户同意收集通讯录、记录和发送照片、音频或视频或地理位置数据，但抖音包含的功能引起了更多隐私和安全方面的担忧，包括动态代码加载和服务端的搜索审查，而 TikTok 不包含这些功能。TikTok 和抖音有着相同的代码库，之后根据市场需要加入不同的定制功能，部分定制可通过服务器端返回的配置值启用或关闭。两个应用都限制了对标记为“仇恨言论”、“自杀预防”和“敏感”等内容的搜索。抖音有政治类关键词搜索限制，而 TikTok 没有此类限制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-23T04:48:50Z",
+  "Author": "WinterIsComing"
+}

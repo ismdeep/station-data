@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "企业级 VPN 服务成为黑客攻击的目标",
+  "Link": "https://www.solidot.org/story?sid=61986",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国黑客组织 APT5 aka  Manganese 正以  Fortinet 和 Pulse Secure 的企业级 VPN 服务\u003ca href=\"https://www.zdnet.com/article/a-chinese-apt-is-now-going-after-pulse-secure-and-fortinet-vpn-servers/\"\u003e\u003cu\u003e为攻击目标\u003c/u\u003e\u003c/a\u003e。根据 FireEye 的\u003ca href=\"https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-southeast-asia-threat-landscape.pdf\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，APT5 的活动可以追溯到 2007 年，它被认为由多个小组构成，有着不同的策略和基础设施，主要攻击目标是电信公司和科技公司，对卫星通信公司有着特殊兴趣。在 Black Hat 安全会议披露  Fortinet 和 Pulse Secure VPN 产品的漏洞之后，APT5 的一个小组从八月下旬开始扫描和尝试利用这些漏洞。两个产品的漏洞都属于预授权文件读取，允许攻击者在无需授权的情况下从 VPN 服务器获取文件。APT5 试图利用漏洞窃取储存有密码信息的文件，然后利用窃取的信息接管设备。Fortinet 的 Fortigate SSL VPN 和 Pulse Secure 的 SSL VPN 产品都非常流行，其客户包括了财富五百强企业。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-05T12:02:06Z",
+  "Author": "WinterIsComing"
+}

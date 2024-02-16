@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSH 8.7 发布",
+  "Link": "https://www.solidot.org/story?sid=68631",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSH 项目释出了 \u003ca href=\"https://www.openssh.com/txt/release-8.7\"\u003e\u003cu\u003ev8.7\u003c/u\u003e\u003c/a\u003e。主要新特性包括：实验性支持使用 SFTP 作为文件传输协议，替代\u003ca href=\"https://lwn.net/Articles/835962/\"\u003e\u003cu\u003e不再安全的 scp 协议\u003c/u\u003e\u003c/a\u003e；改变远程到远程的复制行为，默认通过本地主机传输；更严格的配置文件解析器；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-21T05:10:05Z",
+  "Author": "WinterIsComing"
+}

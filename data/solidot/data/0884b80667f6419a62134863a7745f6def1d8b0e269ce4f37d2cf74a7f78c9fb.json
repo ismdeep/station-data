@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stable Diffusion：你所见到的不再是真的",
+  "Link": "https://www.solidot.org/story?sid=72706",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年早些时候 OpenAI、Google 和 Meta 先后宣布了各自的自然语言图像合成 AI 模型，但曲高和寡，能接触到的人并不多，直到 8 月 22 日 Stability AI \u003ca href=\"https://www.solidot.org/story?sid=72484\"\u003e\u003cu\u003e开源\u003c/u\u003e\u003c/a\u003e了它的 AI 模型 Stable Diffusion，称在质量上能匹敌 OpenAI 的 DALL-E 2。Stable Diffusion 的优势是能运行在单张显卡上，\u003ca href=\"https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/\" target=\"_blank\"\u003e\u003cu\u003e测试显示\u003c/u\u003e\u003c/a\u003e使用英伟达的 RTX 3060 12GB GPU，能在 10 秒内生成  512×512 图像，如果显卡升级为高端的 3090 Ti，生成每幅图像只需要 4 秒。即使你没有英伟达的显卡，你也可以利用在线 \u003ca href=\"https://huggingface.co/spaces/stabilityai/stable-diffusion\"\u003e\u003cu\u003eDEMO\u003c/u\u003e\u003c/a\u003e 排队去生成文本图像。仅仅过去一周， Stable Diffusion 就吸引了数十个项目。在 Reddit 的 \u003ca href=\"https://www.reddit.com/r/StableDiffusion/\" target=\"_blank\"\u003e\u003cu\u003eStable Diffusion 非官方论坛\u003c/u\u003e\u003c/a\u003e上，数以万计的用户在分享用该模型生成的合成图像。AI 合成图像如何影响我们还有待观察。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-07T14:07:49Z",
+  "Author": "WinterIsComing"
+}

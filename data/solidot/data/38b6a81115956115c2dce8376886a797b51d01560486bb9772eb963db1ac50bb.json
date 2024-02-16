@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "字节跳动支持自由固件",
+  "Link": "https://www.solidot.org/story?sid=74354",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t字节跳动本周主办了 CloudFW Open System Firmware 研讨会，庆祝 CloudFW 2.0 的发布。CloudFW 2.0 是该公司替代 UEFI 的自由固件 Coreboot 的实现。字节跳动的开发者表示计划在该公司基础设施使用的不同架构上运行 Coreboot 和 LinuxBoot。字节跳动称，相比 Linux 社区，UEFI/EDK II 社区不怎么活跃，由于关键模块控制在 BIOS 供应商（IBV）手中，UEFI/EDK II 的问题无法快速得到修复。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Bytedance-CloudFW-Open-Source\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-10T09:08:26Z",
+  "Author": "Wilson"
+}

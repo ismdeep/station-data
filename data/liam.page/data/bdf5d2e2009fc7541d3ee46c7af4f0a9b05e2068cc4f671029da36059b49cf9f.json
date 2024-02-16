@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "解决 cisco.anyconnect.macos.acsockext 大量消耗 CPU 资源的问题",
+  "Link": "https://liam.page/2023/01/21/fix-the-CPU-hogging-of-cisco-anyconnect-macos-acsockext/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e最近将 Cisco AnyConnect 升级到了公司提供的 4.10.00093 版本。接下来就发现 cisco.anyconnect.macos.acsockext 长期大量占用 CPU 资源，以及导致风扇转动不停。这显然是个问题。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e\u003cimg data-src=\"/uploads/images/computer-skills/acsockext-cpu-usage.jpg\"/\u003e\u003c/p\u003e\n\u003cp\u003e检查发现，这是因为在 4.10 版本开始，思科的 VPN 加入了 Socket 过滤功能。从现象来看，它几乎无时无刻不在 buzy loop（哪怕把所有网络连接都断掉），这应当是个 bug。从功能来看，这种全方位的过滤功能，实在令人担忧其安全性。因此决定干掉他。以下是步骤：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e打开系统设置 -\u0026gt; 网络\u003c/li\u003e\n\u003cli\u003e应能观察到三个以 \u003ccode\u003eCisco...\u003c/code\u003e 开头的网络配置\u003c/li\u003e\n\u003cli\u003e选中它们，然后点下方的 \u003ccode\u003e-\u003c/code\u003e，删除他们\u003c/li\u003e\n\u003cli\u003e右下角，应用\u003c/li\u003e\n\u003cli\u003e应能观察到 CPU 利用率立刻下降\u003c/li\u003e\n\u003cli\u003e删除 \u003ccode\u003e/Applications/Cisco/Cisco AnyConnect Socket Filter.app\u003c/code\u003e 以免将来之虞\u003c/li\u003e\n\u003c/ul\u003e\n\n    \u003c/div\u003e",
+  "Date": "2023-01-21T09:47:04Z",
+  "Author": "Liam Huang"
+}

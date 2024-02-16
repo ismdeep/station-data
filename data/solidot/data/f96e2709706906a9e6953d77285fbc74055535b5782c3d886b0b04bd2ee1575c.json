@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英国公共卫生部使用旧的 Excel 格式导致 Covid-19 病例数据未报告",
+  "Link": "https://www.solidot.org/story?sid=65731",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国公共卫生部称 \u003ca href=\"https://www.bbc.com/news/technology-54423988\" target=\"_blank\"\u003e\u003cu\u003eExcel 是导致近 1.6 万 Covid-19 病例数据未报告的罪魁祸首\u003c/u\u003e\u003c/a\u003e。英国公共卫生部使用 Excel 整理分析拭子检测判断公众是否感染新冠的商业公司数据。商业公司使用 CSV 格式递交结果，英国公共卫生部设置了一个自动化过程将数据整理到 Excel 模板，然后上传到一个中心系统，提供给 NHS 测试和跟踪团队。问题是卫生部选择了旧的 Excel  文件格式 XLS，只能处理 6.5 万行数据，而新的文件格式  XLSX 能处理超过一百万行数据。XLS 文件格式的时间可以上溯到 1987 年，取代它的 XLSX 是在 2007 年推出的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-06T15:00:54Z",
+  "Author": "WinterIsComing"
+}

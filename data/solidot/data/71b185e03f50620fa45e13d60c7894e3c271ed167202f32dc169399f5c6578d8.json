@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 6 以上版本将重置不使用应用权限",
+  "Link": "https://www.solidot.org/story?sid=68990",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 准备对未使用的应用\u003ca href=\"https://arstechnica.com/gadgets/2021/09/google-is-backporting-an-android-11-privacy-feature-to-android-6/\"\u003e下杀手\u003c/a\u003e。该公司周五\u003ca href=\"https://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将向后移植 Android 11 系统的隐私功能，将应用权限自动重置机制引入到 Android 6 及以上版本。Android 11 的应用权限自动重置功能是持续扩大的 Android 功能集的一部分，旨在自动限制用户不使用的应用。当我们在一段时间内未使用某应用时，Android 会自动剥离该应用已被授予的一切权限，从而限制它在后台跟踪您的动向或访问数据。对于不太懂技术、也不想手动组织手机内权限机制的用户来说，这项功能可谓雪中送炭。在再次打开该应用时，系统会再次请求所有权限。与大多数新 Android 功能一样，应用权限自动重置属于去年推出的 Android 11 版本的独占选项。但这一最新版本在全球 30 亿部活跃 Android 设备中只占很小一部分。目前 Google 官方 Android Studio 统计数据中 Android 11 的市场份额仍显示为 0%，这是因为该图表自 Android 11 发布以来就从来没更新过。我们收到的最后一次更新说明提到，OEM 发布 Android 11 的速度与当初推出Android 10 时差不多，因此目前 Android 11 在全部 Android 设备中的占比应该是在 10% 左右。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-18T10:18:20Z",
+  "Author": "wanwan"
+}

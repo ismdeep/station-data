@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "物联网僵尸网络被用于充当代理服务器",
+  "Link": "https://www.solidot.org/story?sid=65847",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Bitdefender 的研究人员\u003ca href=\"https://arstechnica.com/information-technology/2020/10/thousands-of-infected-iot-devices-used-in-for-profit-anonymity-service/\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e大约 9000 台物联网设备——大部分运行  Android，少数运行 Linux 和 Darwin——组成了被称为 Storm 的僵尸网络，其主要目的是创建盈利目的的代理服务器。这不是第一次僵尸网络充当代理服务器。攻击者是通过 SSH 扫描寻找弱密码或默认密码的设备然后感染机器，恶意程序 \u003ca href=\"https://www.bitdefender.com/files/News/CaseStudies/study/376/Bitdefender-Whitepaper-IPStorm.pdf\"\u003e\u003cu\u003eIPStorm\u003c/u\u003e\u003c/a\u003e 是用 Go 语言编写，整合了 NTP、UPnP 和 SOCKS5 等协议的开源实现，将 lib2p 库用于点对点功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-19T09:36:25Z",
+  "Author": "WinterIsComing"
+}

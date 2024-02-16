@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "网站仍然能探测 Google Chrome 隐身模式",
+  "Link": "https://www.solidot.org/story?sid=61687",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近释出的 Chrome 76 修改了 FileSystem API 的行为，防止网站利用脚本调用 FileSystem API 去检测浏览器是否处于隐身模式。此前在 Chrome 的隐身模式下，FileSystem API 被禁用，以防止在设备上留下痕迹。但即便 Chrome 76 进行了修改，网站仍然能\u003ca href=\"https://www.bleepingcomputer.com/news/google/google-chrome-incognito-mode-can-still-be-detected-by-these-methods/\"\u003e\u003cu\u003e探测\u003c/u\u003e\u003c/a\u003e Google Chrome 的隐身模式。研究人员发现，在隐身模式下，Chrome 分配给文件系统的临时存储空间有一个 120MB 的硬限制，因此脚本可以去查询分配的存储空间是否在 120MB 以内，如果是那么浏览器是处于隐身模式。此外还有其它方法能探测隐身模式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-12T07:04:02Z",
+  "Author": "wenfeixiang"
+}

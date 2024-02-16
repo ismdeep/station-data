@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenWRT 使用 HTTP 连接传输更新",
+  "Link": "https://www.solidot.org/story?sid=64000",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员报告，流行的路由器发行版 OpenWRT \u003ca href=\"https://arstechnica.com/information-technology/2020/03/openwrt-is-vulnerable-to-attacks-that-execute-malicious-code/\"\u003e\u003cu\u003e容易受到远程代码执行攻击\u003c/u\u003e\u003c/a\u003e，原因是它的更新是通过未加密渠道传输的，其数字签名验证很容易绕过。OpenWRT 被广泛用于路由器和其它嵌入式系统，安全研究员 Guido Vranken 发现它的更新和安装文件是通过 HTTP 连接传输的，容易受到中间人攻击，攻击者可以用恶意更新文件去替换合法更新文件。除此之外，它的数字签名检查和验证也很容易绕过，验证函数 checksum_hex2bin 存在 bug，在输入字符串前加空格可绕过检查，该 bug 是在 2017 年 2 月引入的。组合这两个弱点攻击者可以向设备发送恶意更新并自动安装。OpenWRT 维护者已经释出了更新部分修复了问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-01T10:13:36Z",
+  "Author": "WinterIsComing"
+}

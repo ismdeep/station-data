@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开源 Visual ChatGPT",
+  "Link": "https://www.solidot.org/story?sid=74450",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 的 ChatGPT（GPT 3 版本）是基于大语言模型，专门训练以文本形式的对话与用户互动。它不是基于多模态模型，不支持图像或语音的输入输出。如果我们想要构建一个类似 ChatGPT 的支持图像理解和生成的系统，那么可能需要使用一个多模态会话模型进行训练。但此类的训练需要消耗大量的数据和算力资源。与此从头开始构建一个全新的系统，不如站在巨人的肩膀上。微软亚洲研究院的研究人员在预印本网站 arxiv 上发表论文《Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models》，提出在 ChatGPT  和多个 Visual Foundation Models 基础上构建 Visual ChatGPT。源代码托管在 GitHub 上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arxiv.org/pdf/2303.04671.pdf\u003cbr/\u003e\nhttps://github.com/microsoft/visual-chatgpt\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-21T10:02:56Z",
+  "Author": "Wilson"
+}

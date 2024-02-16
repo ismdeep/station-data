@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "德国安全厂商提供自由固件coreboot方案",
+  "Link": "https://www.solidot.org/story?sid=62689",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedlinux.github.io/\"\u003eHardenedLinux\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;成立于1992年的德国安全厂商\u003ca href=\"https://www.genua.de/en/solutions/firewall-vpn-appliance-genuscreen.html\" target=\"_blank\"\u003e genua GmbH\u003c/a\u003e 今年向\u003ca href=\"https://www.bsi.bund.de/DE/Home/home_node.html\" target=\"_blank\"\u003e德国联邦信息安全办公室（BSI）\u003c/a\u003e提供了最新网络安全产品genuscreen 7.0\u003ca href=\"https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Reporte/Reporte1000/1085b_pdf.pdf?__blob=publicationFile\u0026amp;v=2\" target=\"_blank\"\u003e安全目标（编号：BSI-DSZ-CC-1085-2019）\u003c/a\u003e中提到了在verifiedboot方案中除了传统UEFI的secure boot实现外也可由基于自由固件coreboot的方案替代，这是首次BSI的安全产品提供商（非方案提供商）在公开的方案中提到coreboot作为固件安全实现的选项。BSI支持自由固件项目coreboot由来已久，甚至还协助coreboot社区\u003ca href=\"https://coreboot.org/Coreboot_conference_Bonn_2015\" target=\"_blank\"\u003e组织过几次欧洲coreboot大会\u003c/a\u003e，HardenedLinux社区也曾受邀参加2017年的欧洲coreboot会议，在ECC17上BSI的工作人员Carl-Daniel Hailfinger也谈到了德国政府部门在\u003ca href=\"https://ecc2017.coreboot.org/talks/mwqECyNYcOs09MEjshFMGw\" target=\"_blank\"\u003e采购可靠硬件的过程中遇到的各种问题以及为什么自由固件是很好的方案\u003c/a\u003e。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-21T06:59:51Z",
+  "Author": "WinterIsComing"
+}

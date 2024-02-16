@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "国家支持黑客对美国发动供应链攻击",
+  "Link": "https://www.solidot.org/story?sid=66367",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软和安全公司 FireEye 证实，一个国家支持的黑客组织对美国发动了供应链攻击，入侵了 SolarWinds 的集中式监控和管理平台 \u003ca href=\"https://www.solarwinds.com/solutions/orion\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eOrion\u003c/a\u003e，在其软件更新中植入恶意程序。FireEye 将恶意程序命名为 \u003ca href=\"https://www.fireeye.com/blog/products-and-services/2020/12/global-intrusion-campaign-leverages-software-supply-chain-compromise.html\" target=\"_blank\"\u003e\u003cu\u003eSUNBURST\u003c/u\u003e\u003c/a\u003e，而微软将其命名为 \u003ca href=\"https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/Solorigate.C!dha\u0026amp;ThreatID=2147771132\"\u003e\u003cu\u003eSolorigate\u003c/u\u003e\u003c/a\u003e。SolarWinds 已经发布\u003ca href=\"https://www.solarwinds.com/securityadvisory\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e承认遭到入侵。全球有数十万家组织使用 SolarWinds 公司的 Orion 平台，受害者包括“北美、欧洲、亚洲和中东的政府机构以及咨询、科技、电信和采掘行业实体”。美国国土安全部的网络安全部门指示所有联邦机构断开与该平台的连接。FireEye 和 SolarWinds \u003ca href=\"http://www.ftchinese.com/story/001090629\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，入侵依赖于人工的定制化攻击，这表明全球 27.5 万家使用 SolarWinds 软件的组织并非全都受到了影响。入侵行动可能早在 2020 年春季就开始了，多达 18,000 个 SolarWinds 公司客户下载了含有恶意程序的软件更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-15T05:29:23Z",
+  "Author": "WinterIsComing"
+}

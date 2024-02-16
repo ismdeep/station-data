@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 开始提供 Firefox Nightly 的 .deb 包",
+  "Link": "https://www.solidot.org/story?sid=76483",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 宣布向基于 Debian 的发行版(如 Debian、Ubuntu、Linux Mint 等)提供 Firefox Nightly 版的 .deb 包。这意味着基于 Debian 或 Ubuntu 的发行版用户可以更容易的通过 APT 包管理器安装更新 Firefox Nightly 版。此外，在额外的编译器优化和安全加固的帮助下 Firefox Nightly 版的 .deb 包性能更强。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.nightly.mozilla.org/2023/10/30/introducing-mozillas-firefox-nightly-deb-packages-for-debian-based-linux-distributions/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-30T14:47:04Z",
+  "Author": "Wilson"
+}

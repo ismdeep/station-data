@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 Mac 勒索软件具有间谍软件功能",
+  "Link": "https://www.solidot.org/story?sid=64835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t勒索软件很常见，但针对苹果 Mac 计算机的勒索软件不常见，因此安全研究员  Dinesh Devadoss 本周发现的针对 Mac 的勒索软件 ThiefQuest 引发了广泛关注。ThiefQuest 除了是勒索软件外\u003ca href=\"https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/\" target=\"_blank\"\u003e\u003cu\u003e还包括一组间谍软件功能\u003c/u\u003e\u003c/a\u003e，能从被感染的计算机上获取文件，搜索密码和加密钱包数据，能运行键盘记录器抓取密码、信用卡号码、或其他用户输入的金融信息。它还能充当后门，重启后仍然会留在系统中。Jamf 公司的首席安全研究员 Patrick Wardle 认为，这个勒索软件最初是作为 Mac 恶意程序开发的，只是为了获得额外的收入而加入了勒索软件功能。ThiefQuest 目前主要通过盗版的 Mac 软件传播。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T00:30:10Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 推出用 Rust 开发的容器发行版 Bottlerocket",
+  "Link": "https://www.solidot.org/story?sid=65468",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 可能终止了对 Rust 语言的资助，但有 Linux 项目的支持和加持，它的未来还是安全的。亚马逊 Amazon Web Services(AWS)服务\u003ca href=\"https://aws.amazon.com/cn/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e主要用 Rust 语言开发的发行版 Bottlerocket，设计用于托管容器。\u003ca href=\"https://github.com/bottlerocket-os\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。作为一种专注于安全、速度和并发的系统级编程语言，Rust 能避免常见的编程错误如访问无效的内存区和竞态条件。AWS 产品经理 Samartha Chandrashekar 称，Rust 帮助确保线程安全和防止内存相关的错误，如能导致安全漏洞的缓冲溢出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-07T13:36:52Z",
+  "Author": "WinterIsComing"
+}

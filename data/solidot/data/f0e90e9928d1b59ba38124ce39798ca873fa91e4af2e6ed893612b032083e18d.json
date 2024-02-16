@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 在美国测试 VPN 服务",
+  "Link": "https://www.solidot.org/story?sid=62046",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://private-network.firefox.com/?utm_source=Blog\u0026amp;utm_medium=AnnouncementPost\u0026amp;utm_campaign=FPN_Beta\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e Test Pilot Program 回归，推出了 \u003ca href=\"https://private-network.firefox.com/?utm_source=Blog\u0026amp;utm_medium=AnnouncementPost\u0026amp;utm_campaign=FPN_Beta\" target=\"_blank\"\u003e\u003cu\u003eFirefox Private Network Beta\u003c/u\u003e\u003c/a\u003e 服务。你可以称这是一个 VPN 服务，但它实际上是一个 HTTP/HTTPS 代理，由 Mozilla 的合作伙伴 Cloudflare 运营，目前只对美国桌面版用户提供，暂时不会收费。Mozilla 称，Firefox Private Network 是一个扩展，向用户提供一个安全加密的访问 Web 的通道，通过测试 Mozilla 将根据用户需求探索不同的价格选项。使用该服务需要有一个 Firefox 账号。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-11T04:54:03Z",
+  "Author": "WinterIsComing"
+}

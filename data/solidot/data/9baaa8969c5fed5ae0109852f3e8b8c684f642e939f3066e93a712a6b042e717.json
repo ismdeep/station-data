@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在廉价 AMD 笔记本电脑上测试 Ubuntu 和 Windows 10 性能",
+  "Link": "https://www.solidot.org/story?sid=63406",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPhoronix 在一台购买自沃尔玛的廉价 AMD 笔记本电脑上\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=ryzen3-windows-linux\u0026amp;num=1\" target=\"_blank\"\u003e\u003cu\u003e对比了 Ubuntu 和 Windows 10 的性能\u003c/u\u003e\u003c/a\u003e。这台笔记本售价仅为 199 美元，配备了 AMD Ryzen 3 3200U 处理器，集成了 Vega 3 显卡，4GB 内存和 14 英寸 1080p 显示屏。对预装的  Windows 10 和 Ubuntu 20.04 LTS 操作系统的测试显示，63 项测试中 Linux 发行版 Ubuntu 在六成的测试中占优，Linux 下的性能平均比 Windows 快 15%。Linux 占优的项目包括：Java 文本渲染性能，GraphicsMagick 图形程序，英特尔的 Embree 路径跟踪器，GIMP 图形编辑软件，Python 3 和 PHP7 性能，视频性能等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-03T12:23:36Z",
+  "Author": "WinterIsComing"
+}

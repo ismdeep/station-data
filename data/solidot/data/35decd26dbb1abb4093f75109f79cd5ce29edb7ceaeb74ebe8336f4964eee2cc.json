@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 升级到 Rails 6.0",
+  "Link": "https://www.solidot.org/story?sid=62029",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub 宣布它\u003ca href=\"https://github.blog/2019-09-09-running-github-on-rails-6-0/\" target=\"_blank\"\u003e\u003cu\u003e顺利升级到了 Rails 6.0\u003c/u\u003e\u003c/a\u003e。GitHub 平台是用 Rails 构建的，而 Rails 也是最早托管在 GitHub 上大型开源项目之一。GitHub 称他们的开发者与上游紧密合作，参与了新版本的开发。在 Rails 6.0 开发期间，GitHub 工程师递交了 100 多个 pull requests 去改进文档、修复 bug、增加功能和改善性能。GitHub 称升级 Rails 6.0 到生产环境没有对客户造成任何负面影响，唯一的异常发生在测试期间，还是 bot 导致的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-10T03:07:43Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目在法庭挑战俄罗斯对其的审查",
+  "Link": "https://www.solidot.org/story?sid=70511",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目对一家俄罗斯法庭屏蔽其网站的决定\u003ca href=\"https://www.zdnet.com/article/tor-project-battles-russian-censorship-through-the-courts/\"\u003e\u003cu\u003e提起上诉\u003c/u\u003e\u003c/a\u003e。俄罗斯 Saratov 地区法院根据信息法 15.1 条款做出了屏蔽 Tor 项目网站的判决。Tor 项目在去年 12 月初观察到其公开节点和非公开的网桥\u003ca href=\"https://www.solidot.org/story?sid=69947\"\u003e\u003cu\u003e遭到屏蔽\u003c/u\u003e\u003c/a\u003e。俄罗斯数字权利保护组织 RosKomSvoboda 的律师现在代表 Tor 项目提起了上诉。Tor 项目称法庭的决定不是基于特定内容，而是因为它允许下载匿名浏览器程序，然后用浏览器访问网站，这些网站上含有 Federal List of extremist Materials 清单中的材料。RosKomSvoboda 认为屏蔽命令违反了自由提供、接受和传播信息以及保护隐私的宪法权利。在被俄罗斯屏蔽之后，EFF 托管了一个\u003ca href=\"https://tor.eff.org/\"\u003e \u003cu\u003eTor 网站镜像\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-26T07:08:02Z",
+  "Author": "WinterIsComing"
+}

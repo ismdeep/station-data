@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.18-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=71157",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wg6FWL1xjVyHx7DdjD2dHZETA5_=FqqW17Z19X-WTfWSg@mail.gmail.com/\"\u003e\u003cu\u003e宣布释出\u003c/u\u003e\u003c/a\u003e Linux 5.18-rc1，标志着合并窗口关闭。\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=linux-518-features\u0026amp;num=1\" target=\"_blank\"\u003e\u003cu\u003e主要新特性\u003c/u\u003e\u003c/a\u003e包括：调度器更新增强 AMD EPYC 服务器性能，支持英特尔的 Hardware Feedback Interface，支持受争议的英特尔 Software Defined Silicon，支持英特尔 Indirect Branch Tracking (IBT) ，AMD HSMP 驱动，改进 AMD 嵌套虚拟化，AMD 新音频代码，AMD Zen 4 处理器的预备工作，RISC-V Sv57 虚拟内存支持，默认启用 AMDGPU FreeSync Video Mode，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-04T14:36:02Z",
+  "Author": "WinterIsComing"
+}

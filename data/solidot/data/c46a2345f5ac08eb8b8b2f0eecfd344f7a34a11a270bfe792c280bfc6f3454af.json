@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Orbiter 太空飞行模拟器开源",
+  "Link": "https://www.solidot.org/story?sid=68410",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOrbiter 是最逼真的太空飞行模拟器之一，基于牛顿力学，操作背景是太阳系及其主要的天体如太阳、行星和卫星。在 2016 年版本发布之后开发者基本上停止了更新。为了让它能继续活跃下去，项目的唯一开发者\u003ca href=\"https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e公开源代码，\u003ca href=\"https://github.com/mschweiger/orbiter\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 MIT 许可证。开源的代码是基于 2016 年版本加上少量修正。开发者表示他仍然希望继续进一步加强 Orbiter，但无法做出任何承诺。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-29T15:17:24Z",
+  "Author": "WinterIsComing"
+}

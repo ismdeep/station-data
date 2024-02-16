@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软将统一 Windows 桌面和 UWP 应用",
+  "Link": "https://www.solidot.org/story?sid=64418",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软最近几年正致力于将传统的 win32 桌面应用和 Universal Windows Platform (UWP)  应用统一起来。\u003ca href=\"https://www.theverge.com/2020/5/19/21258697/microsoft-windows-project-reunion-win32-uwp-apps-apis-build\" target=\"_blank\"\u003e\u003cu\u003e这项工作有了正式的代号\u003c/u\u003e\u003c/a\u003e：Project Reunion。微软承诺统一的应用将可以运行在多种类型的 Windows 设备上，传统桌面应用和 UWP 应用将简称为 Windows 应用。微软高级副总裁 Rajesh Jha 解释说，Project Reunion 背后的理念是允许开发者构建一种 Windows 应用，能面向所有 10 亿设备。微软将统一现有的 API，在某种程度上将 API 与操作系统脱钩。Project Reunion 的一个重要部分是 UI 框架 WinUI 3。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T10:48:43Z",
+  "Author": "WinterIsComing"
+}

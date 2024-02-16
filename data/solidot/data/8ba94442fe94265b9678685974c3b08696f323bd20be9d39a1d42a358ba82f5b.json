@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 反驳 Google 的“量子霸权”论",
+  "Link": "https://www.solidot.org/story?sid=62347",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 研究人员在发表在《自然》期刊的\u003ca href=\"https://www.nature.com/articles/s41586-019-1666-5\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中宣称，该公司的 53 量子比特处理器实现了“量子霸权”，最先进的超级计算机将需要一万年时间去执行相同的任务。IBM 认为这是夸大其词。它的研究人员\u003ca href=\"https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/\"\u003e\u003cu\u003e在官方博客上称\u003c/u\u003e\u003c/a\u003e，经典超级计算机在两天半的时间里完成了相同的任务。IBM 的研究人员称，这还是一个保守的估计，在额外的改进之后所需时间还能进一步减少。Google 被指选择了一个量子计算机擅长而经典计算机不擅长的任务，Google 研究人员称，53 量子比特计算机能在 200 秒完成计算，而世界上最强大的美国橡树岭国家实验室的 Summit 超算将需要一万年。IBM 研究人员\u003ca href=\"https://www.theregister.co.uk/2019/10/22/ibm_poopoos_google_quantum_claims/\"\u003e\u003cu\u003e认为\u003c/u\u003e\u003c/a\u003e，量子计算机将会与经典计算机共存，它们都有各自的优势。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T11:56:33Z",
+  "Author": "wenfeixiang"
+}

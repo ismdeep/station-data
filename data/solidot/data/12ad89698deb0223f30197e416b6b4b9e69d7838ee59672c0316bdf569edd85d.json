@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究估计五成 WebAssembly 网站将其用于恶意目的",
+  "Link": "https://www.solidot.org/story?sid=62480",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国 Braunschweig 科技大学应用及系统安全研究院委托的\u003ca href=\"https://www.tu-braunschweig.de/Medien-DB/ias/pubs/2019-dimva.pdf\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e（PDF）分析了 Alexa 排名前一百万的网站，发现使用 WebAssembly 代码（Wasm）的网站比例约为六百分之一，但其中一半\u003ca href=\"https://www.infoq.com/news/2019/10/WebAssembly-wasm-malicious-usage/\"\u003e\u003cu\u003e是将其用于恶意目的\u003c/u\u003e\u003c/a\u003e，如挖掘数字货币或混淆恶意代码。WebAssembly 源于 Mozilla 发起的 Asm.js 项目，设计补充 JavaScript，其本地解码速度比 JS 解析快得多，让高性能的 Web 应用在浏览器上运行成为可能，主要浏览器都已经加入了对它的支持。研究小组在四天时间里分析了 947,704 个网站，访问了 3,465,320 个网页，在 1,639 个网站发现了 1,950 个 Wasm 模块。Wasm 模块被用于六个目的：定制、游戏、库、挖矿、混淆和测试。其中挖矿和混淆分别占了 55.6% 和 0.2%。这项研究对未来的安全防御提出了新的挑战。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-04T10:56:19Z",
+  "Author": "wenfeixiang"
+}

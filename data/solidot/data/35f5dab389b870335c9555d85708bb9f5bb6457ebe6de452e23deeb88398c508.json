@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KDE Plasma 6.0 将默认启用 Wayland",
+  "Link": "https://www.solidot.org/story?sid=76599",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tKDE 桌面释出了 Plasma 6.0 Alpha，新版本将默认启用 Wayland。KDE Plasma 6.0 仍然支持 X11，但在开箱即用的情况下会尝试用 Wayland 会话。KDE 开发者 Nate Graham 称，他们正在解决剩余的严重 bug，认为默认启用 Wayland 会话已经达到可接受的程度。KDE Plasma 6.0 的其他变化包括：大改 Breeze 应用样式，对支持 HDR 的显示屏初步支持 HDR 游戏，改进打印机集成；再次重新设计 Plasma 面板设置区，等等。\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003ehttps://pointieststick.com/2023/11/10/this-week-in-kde-wayland-by-default-de-framed-breeze-hdr-games-rectangle-screen-recording/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-12T13:45:15Z",
+  "Author": "Wilson"
+}

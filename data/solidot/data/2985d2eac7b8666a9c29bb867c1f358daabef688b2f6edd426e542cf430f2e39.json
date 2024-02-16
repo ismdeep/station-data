@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三成 SolarWinds 攻击受害者没使用 SolarWinds",
+  "Link": "https://www.solidot.org/story?sid=66817",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当安全公司  Malwarebytes 披露它也是 SolarWinds 黑客的入侵目标时，该公司表示没有使用 SolarWinds 的网络管理软件 Orion，攻击者利用“另一个入侵向量”访问了它的一部分内部邮件。美国网络安全和基础设施局代理局长 Brandon Wales 称，\u003ca href=\"https://arstechnica.com/information-technology/2021/01/30-of-solarwinds-hack-victims-didnt-actually-use-solarwinds/\" target=\"_blank\"\u003e\u003cu\u003e接近三成 SolarWinds 攻击受害者没使用 SolarWinds\u003c/u\u003e\u003c/a\u003e。绝大部分攻击是“对密码进行喷洒式攻击”入侵目标机构的个人邮件账号。在建立初步的立足点之后，攻击者然后使用各种复杂的提权和身份验证攻击利用微软云服务的漏洞。SolarWinds 正在调查攻击者是否首先利用微软的漏洞入侵它的机构。微软此前表示 SolarWinds 黑客入侵了它的内部网络，访问了源代码，但表示没有发现有证据显示攻击者利用了它的系统入侵其它目标。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-01T06:26:14Z",
+  "Author": "WinterIsComing"
+}

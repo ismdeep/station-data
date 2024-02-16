@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NVIDIA 将通过驱动限制消费级显卡“挖矿”并推出专用矿卡",
+  "Link": "https://www.solidot.org/story?sid=66964",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:realducksoft@gmail.com\"\u003eDuckSoft\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;\u003ca href=\"https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/\"\u003eNVIDIA 官方博客\u003c/a\u003e中提到，RTX 3060 显卡的驱动将会检测以太坊挖矿算法，并通过限制 hash rate 的方式将挖矿效能降低约 50%。\n\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e博文称此举有助于“确保 GeForce GPU 最终落到游戏玩家手中”。\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e博文指出，将推出的 \u003ca href=\"https://www.nvidia.com/en-us/cmp/\" target=\"_blank\"\u003eCMP 产品线\u003c/a\u003e 会砍掉视频输出、改良散热设计、降低核心电压，以更好适应挖矿场景需求。\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e“GeForce 为游戏而生，而 CMP 为挖矿而生”——NVIDIA 在其博文标题中如是说。 \u0026#34;\u003c/i\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-19T01:10:32Z",
+  "Author": "WinterIsComing"
+}

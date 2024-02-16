@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件 Maze 公开数十 GB 的 LG 和施乐内部数据",
+  "Link": "https://www.solidot.org/story?sid=65152",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在未能勒索到赎金之后，勒索软件 Maze 背后的犯罪组织\u003ca href=\"https://www.zdnet.com/article/ransomware-gang-publishes-tens-of-gbs-of-internal-data-from-lg-and-xerox/\" target=\"_blank\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e 50.2 GB 的 LG 内部数据和 25.8 GB 的施乐内部数据。Maze 犯罪组织入侵企业网络后，首先窃取数据然后加密数据，最后索要赎金解密文件。如果受害者拒绝支付赎金解密文件而是使用备份恢复数据，那么 Maze 犯罪组织者将会威胁公开敏感数据，展开第二轮的勒索尝试。如果受害者仍然拒绝，那么它将会公开数据。LG 和施乐显然拒绝了两次勒索企图。犯罪组织公布的文件包含了 LG 多款产品固件的源代码，公开的施乐数据看起来与其客户服务业务相关。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-05T09:51:55Z",
+  "Author": "WinterIsComing"
+}

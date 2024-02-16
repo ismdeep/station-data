@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 歌手唱中文、粤语和英文歌曲",
+  "Link": "https://www.solidot.org/story?sid=64944",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t浙江大学和微软亚洲研究院的研究人员使用网上抓取的歌曲数据进行训练，开发出能唱中文、粤语和英文歌曲的语音合成系统 \u003ca href=\"https://speechresearch.github.io/deepsinger/\" target=\"_blank\"\u003e\u003cu\u003eDeepSinger\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://arxiv.org/pdf/2007.04590.pdf\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e（PDF）发表在预印本网站 Arxiv.org。这项研究\u003ca href=\"https://venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/\"\u003e\u003cu\u003e可用于\u003c/u\u003e\u003c/a\u003e在录音完成之后对歌曲进行修改或增添，无需歌手重新演唱，但它也可能带来假唱的问题，让歌手唱他们从未唱过的歌。研究人员称，网上抓取的歌曲质量通常参差不齐，DeepSinger 使用了由 89 名歌手 92 小时的歌曲数据集进行训练，通过将歌唱与伴奏分离、歌词歌曲对齐、过滤和建模等多个步骤，最后能合成出高质量的 AI 歌曲。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-14T14:40:14Z",
+  "Author": "WinterIsComing"
+}

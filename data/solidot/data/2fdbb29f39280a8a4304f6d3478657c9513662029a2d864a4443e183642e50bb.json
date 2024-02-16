@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件使用了微软签名的恶意 Windows 驱动",
+  "Link": "https://www.solidot.org/story?sid=73650",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软取消了多个 Microsoft 硬件开发者账号，原因是这些账号通过 Windows Hardware Developer Program 认证程序递交的驱动在获得签名之后被用于包括勒索软件在内的网络攻击。微软称，安全公司 SentinelOne、Mandiant 和 Sophos 在 10 月 19 日报告了这些活动，随后的调查发现 Microsoft Partner Center 的多个开发者账号参与了递交恶意驱动获得微软签名的活动。安全研究人员称，他们发现了一种新的工具包，包含了名为 STONESTOP (加载器) 和 POORTRY（内核模式驱动）的组件被用于网络攻击，其中 POORTRY 有微软签名。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://msrc.microsoft.com/update-guide/vulnerability/ADV220005\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-14T11:41:41Z",
+  "Author": "wanwan"
+}

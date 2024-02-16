@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源峰会 FreeBSD 相遇 Linux",
+  "Link": "https://www.solidot.org/story?sid=61854",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在上周 Linux 基金会主办的\u003ca href=\"https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/\"\u003e\u003cu\u003e圣迭戈开源峰会\u003c/u\u003e\u003c/a\u003e上，FreeBSD 基金会执行董事  Deb Goodkin 接受了\u003ca href=\"https://www.tfir.io/2019/08/24/freebsd-meets-linux-at-the-open-source-summit/\"\u003e\u003cu\u003e采访\u003c/u\u003e\u003c/a\u003e（视频）谈论了 FreeBSD 项目和基金会。采访者开玩笑的问 Linux 基金会怎么让 FreeBSD 基金会的人进来的，Goodkin 开玩笑的回答，他们没有意识到 FreeBSD 不是 Linux 发行版；严肃的说，Linux 社区欢迎 FreeBSD 社区，想要在开源对话中包含 FreeBSD 的声音。 FreeBSD 基金会成立于 2000 年，Goodkin 是在 2005 年加入基金会负责日常运行，基金会是 501(c)(3) 公共慈善机构，相比下 Linux 基金会是一个  501(c)(6) 行业协会。FreeBSD 项目有约 400 名贡献者，它以出色文档闻名。FreeBSD 源自于早期的 Berkeley Unix 项目，部分在 Berkeley Unix 项目上工作的人\u003ca href=\"https://bsd.slashdot.org/story/19/08/25/1637253/some-original-berkeley-unix-pioneers-still-work-on-the-freebsd-project\" target=\"_blank\"\u003e\u003cu\u003e仍然参与 FreeBSD 项目\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-26T10:23:39Z",
+  "Author": "wenfeixiang"
+}

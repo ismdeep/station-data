@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 宣布创建 Elasticsearch 和 Kibana 分支",
+  "Link": "https://www.solidot.org/story?sid=66728",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周，开发  Elasticsearch 和 Kibana 的公司 Elastic 宣布更改许可证，新版本将不再使用 Apache License, Version 2.0 (ALv2) 而是使用  Elastic License 和 Server Side Public License，此举旨在禁止云服务商（aka AWS）使用它的软件作为一种服务提供给客户。但许可的更改也意味着 Elasticsearch 和 Kibana 不再是开源软件了。亚马逊 AWS \u003ca href=\"https://aws.amazon.com/cn/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它将创建和维护 Elasticsearch 和 Kibana 的一个分支，继续使用 ALv2 许可证。亚马逊称，它是在 ALv2 许可下提供 Elasticsearch 的软件即服务，而且它在 Elasticsearch 上的所有改进都递交到上游。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-22T03:07:50Z",
+  "Author": "WinterIsComing"
+}

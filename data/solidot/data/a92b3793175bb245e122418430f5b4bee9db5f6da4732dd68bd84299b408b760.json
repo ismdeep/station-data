@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PHP 7.4.0 发布",
+  "Link": "https://www.solidot.org/story?sid=62809",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPHP 语言\u003ca href=\"https://www.php.net/releases/7_4_0.php\"\u003e\u003cu\u003e释出了 7.4.0 版\u003c/u\u003e\u003c/a\u003e，PHP 7 系列的第四次更新。主要新特性包括：\u003ca href=\"https://www.php.net/manual/migration74.new-features.php#migration74.new-features.core.typed-properties\" target=\"_blank\"\u003e\u003cu\u003e类型属性\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://www.php.net/manual/migration74.new-features.php#migration74.new-features.core.arrow-functions\" target=\"_blank\"\u003e\u003cu\u003e箭头函数\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://www.php.net/manual/migration74.new-features.php#migration74.new-features.core.weakreference\" target=\"_blank\"\u003e\u003cu\u003e弱引用\u003c/u\u003e\u003c/a\u003e、数值文字分隔符、Opcache 预载，等等。PHP 7.4.0 还废弃了\u003ca href=\"https://www.php.net/manual/zh/migration74.deprecated.php#migration74.deprecated.core.invalid-base-characters\"\u003e\u003cu\u003e多个功能\u003c/u\u003e\u003c/a\u003e，从核心移除了 Firebird/Interbase、Recode 和 WDDX \u003ca href=\"https://www.php.net/manual/zh/migration74.removed-extensions.php\"\u003e\u003cu\u003e三个扩展\u003c/u\u003e\u003c/a\u003e。更多可浏览发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-02T07:41:48Z",
+  "Author": "WinterIsComing"
+}

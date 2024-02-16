@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果杀死 macOS Server",
+  "Link": "https://www.solidot.org/story?sid=71330",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果\u003ca href=\"https://support.apple.com/en-us/HT208312\" target=\"_blank\"\u003e\u003cu\u003e宣布停用 macOS Server\u003c/u\u003e\u003c/a\u003e，现有的客户可以继续下载和使用 macOS Server。苹果称 macOS Server 最受欢迎的功能如 Caching Server、File Sharing Server 和 Time Machine Server 都捆绑在  macOS High Sierra 及之后的版本中，客户可免费使用。\u003ca href=\"https://zh.wikipedia.org/wiki/MacOS_Server\" target=\"_blank\"\u003e\u003cu\u003emacOS Server \u003c/u\u003e\u003c/a\u003e是服务器操作工具，运行于 macOS 之上的应用，包括用于服务器的额外功能，应用和系统管理工具，用于管理和部署服务器。早期的 macOS Server 是一套独立的操作系统，但从 Lion 起，它只作为一个工具包存在。此前服务器版本售价 499 美元，但应用只售价 50 美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-22T13:59:40Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SolarWinds 供应链攻击发现第二个后门",
+  "Link": "https://www.solidot.org/story?sid=66456",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在 SolarWinds 供应链攻击中\u003ca href=\"https://www.bleepingcomputer.com/news/security/new-supernova-backdoor-found-in-solarwinds-cyberattack-analysis/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e第二个后门。恶意程序被命名为 \u003ca href=\"https://unit42.paloaltonetworks.com/solarstorm-supernova/\"\u003e\u003cu\u003eSUPERNOVA\u003c/u\u003e\u003c/a\u003e，是一个植入在  Orion 平台代码中的 webshell，允许在机器上执行任意代码。这个 webshell 是合法 .NET 库(app_web_logoimagehandler.ashx.b6031896.dll)的木马版，设计躲避自动防御机制。安全研究人员称，恶意程序代码质量非常高，即使人工分析也可能会漏过。它的编译时间是在 2020 年 3 月 24 日。SUPERNOVA 被认为来自另一个黑客攻击团队，不同于早先报道的俄罗斯黑客组织。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-23T09:23:59Z",
+  "Author": "WinterIsComing"
+}

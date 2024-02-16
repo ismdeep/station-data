@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 浏览器支持 IPFS 点对点协议",
+  "Link": "https://www.solidot.org/story?sid=66714",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t由 Mozilla 联合创始人 Brendan Eich 所创公司开发的 Brave \u003ca href=\"https://brave.com/ipfs-support/\" target=\"_blank\"\u003e\u003cu\u003e成为首个支持 IPFS 点对点协议的浏览器\u003c/u\u003e\u003c/a\u003e。IPFS 代表 InterPlanetary File System，类似 BitTorrent 的点对点协议，设计作为去中心化储存系统，允许用户在数百甚至数千个节点之间共享不受审查的内容。当  Brave \u003ca href=\"https://blog.ipfs.io/2021-01-19-ipfs-in-brave/\" target=\"_blank\"\u003e\u003cu\u003e探测\u003c/u\u003e\u003c/a\u003e到用户试图访问 IPFS 内容或使用原生地址如 ipfs:// 或 ipns://，浏览器会提示用户安装和启用 IPFS 节点，或使用一个 HTTP 网关。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-20T13:29:16Z",
+  "Author": "WinterIsComing"
+}

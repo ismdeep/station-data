@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数十家公司的源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=65086",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因配置错误，数十家企业的源代码\u003ca href=\"https://www.bleepingcomputer.com/news/security/source-code-from-dozens-of-companies-leaked-online/\" target=\"_blank\"\u003e\u003cu\u003e遭到泄露\u003c/u\u003e\u003c/a\u003e，其中包括了微软、Adobe、联想、AMD、高通、摩托罗拉、华为海思、联发科、GE Appliances、任天堂、Roblox、迪士尼和江森自控等等。\u003ca href=\"https://pastebin.com/aAnaLgS8\"\u003e\u003cu\u003e完整名单\u003c/u\u003e\u003c/a\u003e发布在 Pastebin 上。逆向工程师 Tillie Kottmann 收集了这些泄露的代码库，并努力确保公开代码不会对相关公司造成直接伤害，比如在发现金融公司的代码库里有\u003ca href=\"https://twitter.com/Bank_Security/status/1287386043872837632\" target=\"_blank\"\u003e\u003cu\u003e硬编码的凭证\u003c/u\u003e\u003c/a\u003e之后就会迅速移除。到目前为止，只有少数公司发出了 DMCA 删除通知，还有许多公司可能不知情，或者不在意，比如一家公司的开发者只想知道 Kottmann 是如何获得代码的，他们没有要求移除，而是说“玩得开心”。其中任天堂的游戏代码库引发了\u003ca href=\"https://www.solidot.org/story?sid=65080\"\u003e\u003cu\u003e最多的关注\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-29T08:02:34Z",
+  "Author": "WinterIsComing"
+}

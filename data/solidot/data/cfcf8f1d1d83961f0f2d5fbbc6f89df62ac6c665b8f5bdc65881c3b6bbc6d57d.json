@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MIT 研究人员发现苹果 M1 芯片无法修复的硬件漏洞",
+  "Link": "https://www.solidot.org/story?sid=71801",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMIT 研究人员\u003ca href=\"https://spectrum.ieee.org/pacman-hack-can-break-apple-m1s-last-line-of-defense\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e苹果 M1 芯片存在一个无法修复的硬件漏洞，允许攻击者突破最后一道安全防线。漏洞存在于 M1 芯片硬件层安全机制 PAC（pointer authentication codes） 中。PAC 旨在加大向硬件内存注入恶意代码的难度，为抵御缓冲区溢出漏洞增加一层防御。但 MIT 的研究人员开发出了一种新颖的硬件攻击 \u003ca href=\"https://pacmanattack.com/\" target=\"_blank\"\u003e\u003cu\u003ePacman\u003c/u\u003e\u003c/a\u003e，利用预测执行泄露 PAC 验证结果。研究人员证明该攻击对系统内核也有效。攻击是在本地进行的，攻击者需要登陆进系统并安装一个定制的 kext，操作难度很大。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-11T09:03:04Z",
+  "Author": "WinterIsComing"
+}

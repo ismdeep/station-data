@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "只有三个人赞助 Log4j 维护者",
+  "Link": "https://www.solidot.org/story?sid=69971",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 OpenSSL 项目曝出 Heartbleed 高危漏洞前，人们并不知道许多关键基础组件虽然人人用但却无人维护。在 Java 日志框架 Log4j 本周末曝出高危漏洞后，又一个广泛使用但几乎没人维护的开源项目暴露在人们面前。Log4j 维护者称他有全职软件开发工作，只能在空闲时间维护该项目，他也想全职维护开源项目，但在这之前\u003ca href=\"https://christine.website/blog/open-source-broken-2021-12-11\" target=\"_blank\"\u003e\u003cu\u003e只有三个人（现在人数增加了）赞助 Log4j\u003c/u\u003e\u003c/a\u003e。使用 Log4j 项目的知名企业包括苹果和微软。有人\u003ca href=\"https://blog.filippo.io/professional-maintainers/\"\u003e\u003cu\u003e主张\u003c/u\u003e\u003c/a\u003e，如果一家企业使用了一个开源项目但不想自己维护一个版本，那么它有道德上的责任赞助和支持项目的维护者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-12T03:21:22Z",
+  "Author": "WinterIsComing"
+}

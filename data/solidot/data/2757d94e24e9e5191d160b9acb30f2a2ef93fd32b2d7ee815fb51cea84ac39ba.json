@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 7.0 释出",
+  "Link": "https://www.solidot.org/story?sid=69238",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.openbsd.org/70.html\" target=\"_blank\"\u003e\u003cu\u003eOpenBSD 7.0 释出\u003c/u\u003e\u003c/a\u003e。主要新特性包括：支持 64 位 RISC-V 系统的 riscv64 平台；改进 arm64 平台支持，对苹果的 Silicon Macs 的支持尚未达到一般使用；退役 OpenBSD/sgi 平台，更新 drm(4) 到 Linux 5.10.65；对虚拟处理器 vcpus 可分配数加入理论上限 512；等等。详细变化可阅读发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-14T11:56:14Z",
+  "Author": "WinterIsComing"
+}

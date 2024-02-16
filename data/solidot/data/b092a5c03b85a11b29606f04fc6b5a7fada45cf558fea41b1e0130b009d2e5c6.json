@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "60 万 GPS 跟踪器使用的密码是 123456",
+  "Link": "https://www.solidot.org/story?sid=62000",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t大约 60 万被用于定位儿童或宠物的 GPS 跟踪器被发现\u003ca href=\"https://arstechnica.com/information-technology/2019/09/600000-gps-trackers-for-people-and-pets-are-using-123456-as-a-password/#p3\" target=\"_blank\"\u003e\u003cu\u003e使用简单密码如 123456\u003c/u\u003e\u003c/a\u003e。GPS 跟踪器价格在 25 到 50 美元之间，可以挂在脖子下或放在口袋里。但这些主要由中国公司制造的设备安全性欠缺，很容易被黑客用于监视或修改真正的位置。安全公司 Avast 发现，GPS 跟踪器除了使用相同密码外，还使用明文传输所有数据，允许同一网络的设备监视或修改敏感数据，比如改变 GPS 坐标。研究人员识别的设备默认密码除了 123456，还有 S1、P1、3G 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-06T11:48:34Z",
+  "Author": "wenfeixiang"
+}

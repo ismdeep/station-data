@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "僵尸网络利用百度贴吧等常用服务进行管理",
+  "Link": "https://www.solidot.org/story?sid=64477",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t奇虎安全研究人员\u003ca href=\"https://blog.netlab.360.com/shuang-qiang-zui-xin-huo-dong-fen-xi-bao-gao-nei-bu-bao-gao-ban/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，双枪恶意程序的僵尸网络利用国内的常用服务进行管理。该僵尸网络的数量超过了 10 万。研究人员观察到双枪恶意程序使用百度贴吧图片来分发配置文件和恶意软件，使用了阿里云存储来托管配置文件，利用百度统计管理感染主机的活跃情况，恶意程序样本中还多次发现了腾讯微云的 URL 地址。它第一次将 BAT 三大厂商的服务集成到了自己的程序中。百度已经采取行动阻断恶意代码下载链接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-26T15:38:12Z",
+  "Author": "WinterIsComing"
+}

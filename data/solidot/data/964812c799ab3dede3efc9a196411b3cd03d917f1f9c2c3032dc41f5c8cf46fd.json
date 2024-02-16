@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源开发者故意破坏广泛使用的依赖库",
+  "Link": "https://www.solidot.org/story?sid=70299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位开源开发者的故意破坏再次引发了企业依赖靠维护者义务工作的开源库的\u003ca href=\"https://developers.slashdot.org/story/22/01/09/2336239/open-source-developer-intentionally-corrupts-his-own-widely-used-libraries\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e。Marak Squires 的开源库 color 和 faker 被广泛使用，其中不乏企业和商业客户。在包管理器 NPM 上，\u003ca href=\"https://www.npmjs.com/package/colors\"\u003e\u003cu\u003ecolors\u003c/u\u003e\u003c/a\u003e 的周下载量超过 2000 万次，有近 19000 个项目依赖它；\u003ca href=\"https://www.npmjs.com/package/faker\"\u003e\u003cu\u003efaker \u003c/u\u003e\u003c/a\u003e的周下载量超过 280 万次，有超过 2500 个项目依赖它。开发者在 color.js 库的 v1.4.44-liberty-2 版本中给新的美国国旗模块加入了无限循环，依赖 color.js 的项目会在控制台看到不停打印的非 ASCII 字符。faker v6.6.6 版本的情况类似，他将这两个搞破坏的版本推送到 GitHub 和 npm。受影响的项目包括亚马逊 AWS 的 \u003ca href=\"https://github.com/aws/aws-cdk/issues/18323\" target=\"_blank\"\u003e\u003cu\u003eCloud Development Kit\u003c/u\u003e\u003c/a\u003e。开发者此前曾批评企业没有回馈社区，他在 2020 年 11 月警告说，他将不再用义务工作支持大企业，商业客户应该考虑创建分支，或者用每年六位数的薪水补偿开发者。安全专家批评这种行为不负责任，每一个依赖这些库的项目都受到影响，而不仅仅是大企业。GitHub 平台暂时封禁了 \u003ca href=\"https://github.com/Marak\" target=\"_blank\"\u003e\u003cu\u003eMarak Squires\u003c/u\u003e\u003c/a\u003e 的账号（已解封），此举也引发了对 GitHub 如何控制开源项目的争议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-10T05:34:54Z",
+  "Author": "WinterIsComing"
+}

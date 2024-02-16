@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 下架 Fediverse 应用",
+  "Link": "https://www.solidot.org/story?sid=65387",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 从其应用商店 \u003ca href=\"https://qoto.org/@freemo/104765288863293481\"\u003e\u003cu\u003e下架了\u003c/u\u003e\u003c/a\u003e多个 Fediverse 应用如 Husky 和 Fedilab，理由是部分 Fediverse 服务器上有仇恨言论。\u003ca href=\"https://en.wikipedia.org/wiki/Fediverse\"\u003e\u003cu\u003eFediverse\u003c/u\u003e\u003c/a\u003e 是 federation 和 universe 的混合词，是一组去中心化的互联服务器，使用 Matrix 等协议用作社交网络、文件共享等服务。Fediverse 应用访问的就是不同互联服务器上的内容，类似浏览器访问不同网站。Google 的理由被认为也可以用于封杀非 Chrome  浏览器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-29T09:09:38Z",
+  "Author": "WinterIsComing"
+}

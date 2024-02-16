@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔处理器新微码更新将禁用 TSX",
+  "Link": "https://www.solidot.org/story?sid=68151",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔即将释出新微码更新，将\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-TSX-Off-New-Microcode\" target=\"_blank\"\u003e\u003cu\u003e默认禁用\u003c/u\u003e\u003c/a\u003e从 Skylake 到 Coffee Lake 系列处理器的\u003ca href=\"https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions\"\u003e\u003cu\u003eTransactional Synchronization Extensions (TSX)\u003c/u\u003e\u003c/a\u003e功能。此举将严重影响部分英特尔处理器在特定工作负荷下的性能：TSX 能将特定应用执行性能提高 40%，数据库每秒处理事务数提高 4 到 5 倍。新微码更新将合并到 Linux 5.14 中。TSX 是 x86 指令集的一个扩展，计算机科学家此前发现它容易受到边信道时序攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-29T06:18:37Z",
+  "Author": "WinterIsComing"
+}

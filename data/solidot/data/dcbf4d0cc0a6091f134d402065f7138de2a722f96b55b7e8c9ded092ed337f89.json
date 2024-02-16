@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gigaset 手机更新服务器遭到入侵，攻击者推送了恶意更新",
+  "Link": "https://www.solidot.org/story?sid=67457",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国手机制造商 Gigaset（原西门子家庭办公通信设备部门）的更新服务提供商的服务器遭到入侵，攻击者向用户设备\u003ca href=\"https://thehackernews.com/2021/04/gigaset-android-update-server-hacked-to.html\" target=\"_blank\"\u003e\u003cu\u003e推送了恶意更新\u003c/u\u003e\u003c/a\u003e。这是最新一起供应链安全事故。受影响的主要是旧型号手机，包括 GS100、GS160、GS170、GS180、GS270(plus)和 GS370(plus)系列。攻击者通过预装的系统更新应用推送了恶意更新 Gem、Smart、Xiaoan、asenf、Tayase、com.yhn4621.ujm0317、com.wagd.smarter 和 com.wagd.xiaoan。Gigaset 表示它已经采取措施从被感染的设备上自动移除恶意程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-11T12:07:46Z",
+  "Author": "WinterIsComing"
+}

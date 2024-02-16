@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails 4.20 发布",
+  "Link": "https://www.solidot.org/story?sid=68279",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t注重隐私的匿名 Linux 发行版 Tails \u003ca href=\"https://tails.boum.org/news/version_4.20/index.en.html\"\u003e\u003cu\u003e发布了 4.20\u003c/u\u003e\u003c/a\u003e，最大的一个变化是新的 Tor 连接助手帮助用户连接到 Tor 网络，它能更好的保护用户不被注意，更方便的使用网桥连接 Tor，帮助首次使用的用户理解如何连接到本地无线网络，等等。其它变化包括：OnionShare 升级到 2.2，KeePassXC 2.6.2，Tor Browser 10.5.2，Thunderbird  78.11.0，Tor  0.4.5.9，Linux kernel 5.10.46 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-14T07:14:31Z",
+  "Author": "WinterIsComing"
+}

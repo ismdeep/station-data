@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "大脑建模先驱认为深度学习不可信",
+  "Link": "https://www.solidot.org/story?sid=70213",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去 20 年，深度学习透过一系列商业应用逐渐主导了人工智能研究和应用。但令人眼花缭乱的背后存在一些根深蒂固的问题，威胁着这种技术的腾飞。 举例来说，典型的深度学习程序在多任务上表现欠佳，该技术被限制在严格控制环境中的特定任务的应用。更严重的是，\u003ca href=\"https://spectrum.ieee.org/deep-learning-cant-be-trusted\" target=\"_blank\"\u003e\u003cu\u003e深度学习被认为是不可信的\u003c/u\u003e\u003c/a\u003e，因为它无法解释——而且不适用于某些应用，因为它会经历灾难性的遗忘。说得更通俗一点，如果算法有效，无法理解它为什么有效。当该工具慢慢学习新数据库时，其学习记忆的任意部分可能会突然崩塌。因此在任何攸关生死的应用（例如医疗应用）上使用深度学习都可能存在风险。 \u003cbr/\u003e\n\u003cbr/\u003e\n在一本新书中，IEEE 研究员 \u003ca href=\"https://sites.bu.edu/steveg/\" target=\"_blank\"\u003eStephen Grossberg\u003c/a\u003e 认为需要一种完全不同的方法。Grossberg根据自己几十年来对认知和神经的研究，在《\u003ca href=\"https://www.amazon.com/Conscious-Mind-Resonant-Brain-Makes/dp/0190070552\"\u003e\u003cu\u003eConscious Mind, Resonant Brain: How Each Brain Make a Mind\u003c/u\u003e\u003c/a\u003e》一书中描述了一种生物和人工智能的替代模型。他将模型称为自适应共振理论（ART）。\n\nGrossberg 是波士顿大学认知和神经系统、数学和统计、心理和脑科学以及生物医学工程领域的讲席教授，他在其大脑如何处理信息的理论基础上构建了 ART。\n\n他表示：“在充满了意外事件的、不断变化的世界中，我们的大脑学会了识别并预测对象和事件。”\n\n对于这种不断的变化，ART 使用有监督和无监督的学习方法解决模式识别和预测问题。一些大规模的应用已在使用该理论的算法，例如对声纳和雷达信号进行分类、检测睡眠呼吸暂停、推荐电影以及基于计算机视觉的驾驶辅助软件等。Grossberg 表示，可以放心使用 ART，因为它是可解释的，并且不会经历灾难性的遗忘。他表示，ART 解决了他所谓的稳定性-可塑性悖论：大脑或其他学习系统如何才能在不经历灾难性遗忘（稳定性）的情况下快速自主学习（可塑性）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-31T09:35:12Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 103 发布",
+  "Link": "https://www.solidot.org/story?sid=72261",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/103.0/releasenotes/\"\u003e\u003cu\u003eFirefox 103\u003c/u\u003e\u003c/a\u003e。主要新特性包括：改进 macOS 平台高 CPU 负荷下的响应；高亮 PDF 表格中的必填项；改进 120Hz+ 高刷新率显示器上的性能；支持调整画中画的字幕字体大小；bug 修正和安全更新，等等。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-26T14:25:07Z",
+  "Author": "WinterIsComing"
+}

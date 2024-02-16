@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Enlightenment 0.26.0 释出",
+  "Link": "https://www.solidot.org/story?sid=76970",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t轻量级桌面环境项目 Enlightenment 释出了v0.26，而它的上一个版本还是在 2021 年 12 月释出的。主要新变化包括：大量小 bug 修正，背光设置加入 DDC 选项，任务预览更大，wl 模式加入水印以凸显实验性，支持新的  eet 磁盘同步 API，支持 logind 的 lock/unlock Dbus API，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-25T07:39:34Z",
+  "Author": "Wilson"
+}

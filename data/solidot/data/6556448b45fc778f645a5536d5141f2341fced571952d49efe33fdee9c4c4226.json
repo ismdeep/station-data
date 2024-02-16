@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 87 将默认移除 HTTP 反向链接",
+  "Link": "https://www.solidot.org/story?sid=67283",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，为了保护用户隐私，即将发布的 Firefox 87 将默认从反向链接头文件中移除路径和字符串信息，以防止用户敏感信息泄露。反向链接提供了用户跳到另一个网站的源地址，网站利用反向链接可以收集用户信息和进行分析优化。但问题是 HTTP 反向链接头文件通常会包含用户的隐私信息，透露了用户正在阅读的哪一篇指向网站的文章，甚至有时候会包含用户账号信息。从 Firefox 87 起，Mozilla 将在反向链接中保留域名，移除特定文章的路径和其它可能包含用户隐私信息的字符串。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-23T04:55:24Z",
+  "Author": "WinterIsComing"
+}

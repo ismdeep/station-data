@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 10 发布",
+  "Link": "https://www.solidot.org/story?sid=61964",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 正式发布了之前被称为 Android Q 的 \u003ca href=\"https://android-developers.googleblog.com/2019/09/welcoming-android-10.html\"\u003e\u003cu\u003eAndroid 10\u003c/u\u003e\u003c/a\u003e。为了避免产生混淆，Android 不再使用代号而使用数字作为版本号。Google 称，Android 10 支持可折叠设备和 5G 设备，增强了隐私和安全保护，有近 50 项功能给予用户更大的保护和控制。这些引人注目的功能包括：智能回复，通知系统将利用机器学习建议上下文动作，比如智能回复信息或打开地图查找地址；黑色模式；全手势导航模式；给予用户对位置数据有更多控制；引入了更精细的位置数据权限管理；应用不再允许访问不可复位的设备标识符用于跟踪，这些标识符包括设备 IMEI 号和序列号等；系统将阻止应用从后台启动打断前台应用；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-04T07:56:17Z",
+  "Author": "wenfeixiang"
+}

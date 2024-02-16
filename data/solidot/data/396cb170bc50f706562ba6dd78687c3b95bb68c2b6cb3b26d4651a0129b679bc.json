@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《塞尔达传说时之笛》被完整反编译",
+  "Link": "https://www.solidot.org/story?sid=69811",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一群程序员组成的 Zelda Reverse Engineering Team (ZRET)团队耗时近两年成功将任天堂游戏《塞尔达传说时之笛》\u003ca href=\"https://arstechnica.com/gaming/2021/11/reverse-engineering-team-completes-its-ocarina-of-time-decompilation/\" target=\"_blank\"\u003e\u003cu\u003e完整反编译\u003c/u\u003e\u003c/a\u003e，将可执行的 ROM 转变成可读可编辑的 C 代码。\u003ca href=\"https://github.com/zeldaret/oot\"\u003e\u003cu\u003e源代码库\u003c/u\u003e\u003c/a\u003e不包含任何游戏素材。在这之前，任天堂的另一款经典游戏《超级马里奥64》在 2019 年被\u003ca href=\"https://github.com/n64decomp/sm64\" target=\"_blank\"\u003e\u003cu\u003e完整反编译\u003c/u\u003e\u003c/a\u003e， 之后出现了多个\u003ca href=\"https://sm64pc.info/\" target=\"_blank\"\u003e\u003cu\u003e PC 移植版本\u003c/u\u003e\u003c/a\u003e。《塞尔达传说时之笛》也可能会有类似的移植。据 ZRET 团队成员解释，PC 移植难度很大，因为源代码包含大量处理特定 N64 硬件的代码，N64 渲染管线与 现代 OpenGL 差异巨大，反编译代码主要帮助更好的理解游戏的内部工作和创造。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-30T07:09:11Z",
+  "Author": "WinterIsComing"
+}

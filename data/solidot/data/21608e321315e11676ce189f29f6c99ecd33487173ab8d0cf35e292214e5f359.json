@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Inkscape 发布 1.0 RC 版",
+  "Link": "https://www.solidot.org/story?sid=64106",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自由软件向量图形编辑器 Inkscape 项目\u003ca href=\"https://inkscape.org/release/inkscape-1.0rc1/\" target=\"_blank\"\u003e\u003cu\u003e释出了 1.0 RC 版\u003c/u\u003e\u003c/a\u003e，如果没有发现严重问题，正式版本将在数周内发布。\u003ca href=\"https://wiki.inkscape.org/wiki/index.php?title=Release_notes/1.0/zh-cn\"\u003e主要新特性\u003c/a\u003e包括：主题支持；画布旋转和镜像；画布对象对齐；改进  HiDPI 显示屏支持；新的 PNG 输出选项；中心线跟踪；新的  Live Path Effect 选择对话框；原生支持 macOS ，等等。开发者表示第三方扩展需要更新才能支持新版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-13T14:49:45Z",
+  "Author": "ai"
+}

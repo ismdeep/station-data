@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "【LaTeX Tips】2013 清華大學（臺灣） LaTeX 研習投影片——蔡炎龍",
+  "Link": "https://liam.page/2013/10/18/LaTeX-Tsinghua-TW/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e本文原载于 \u003ca target=\"_blank\" rel=\"noopener\" href=\"http://www.latexstudio.net/2013-qing-hua-university-latex-developed-its-idiosyncrasies-and-powerpoint-cai-yan-south-dragon/\"\u003eLaTeXstudio\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e这是台湾清华大学 2013 年在清大『LaTeX 研習』上使用的投影片，内容非常实用易懂。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e投影共分成四个部分：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003ca href=\"//liam.page/attachment/attachment/TsinghuaLaTeX/latex01.pdf\"\u003e基础速成\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//liam.page/attachment/attachment/TsinghuaLaTeX/latex02.pdf\"\u003e表格和进阶数学式子\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//liam.page/attachment/attachment/TsinghuaLaTeX/latex03.pdf\"\u003e基本排版、修饰、自订命令\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//liam.page/attachment/attachment/TsinghuaLaTeX/latex04.pdf\"\u003e用 Beamer 做简报\u003c/a\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e截图：\u003cbr/\u003e\u003cimg data-src=\"http://www.latexstudio.net/wp-content/uploads/2013/10/caiyanlong20131016081801.png\"/\u003e\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2013-10-17T16:00:00Z",
+  "Author": "Liam Huang"
+}

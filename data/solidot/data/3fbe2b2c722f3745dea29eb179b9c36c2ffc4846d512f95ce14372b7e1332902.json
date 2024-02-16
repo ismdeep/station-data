@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LidarPhone 攻击将智能吸尘器变成麦克风",
+  "Link": "https://www.solidot.org/story?sid=66149",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一组学者描述了被称为 \u003ca href=\"https://www.cs.umd.edu/~nirupam/images/2_publication/papers/LidarPhone_SenSys20_nirupam.pdf\"\u003e\u003cu\u003eLidarPhone\u003c/u\u003e\u003c/a\u003e（PDF） 的攻击，方法是将智能吸尘器转变成记录附近对话的麦克风。攻击原理是智能真空吸尘器内置的 Lidar（激光雷达）导航组件\u003ca href=\"https://www.zdnet.com/article/lidarphone-attack-converts-smart-vacuums-into-microphones/\" target=\"_blank\"\u003e\u003cu\u003e能转变成激光麦克风\u003c/u\u003e\u003c/a\u003e。研究人员在不同条件下对这项技术进行了测试，重点在于数据恢复的准确性。研究人员称他们设法达到了 90% 的精度。他们认为这项技术还可以根据其性别识别说话的人，甚至根据新闻节目播放的音乐判断政治倾向。这种攻击主要是理论上，实际应用需要很多前提条件，相比复杂的 LidarPhone 攻击有很多更简单的方法可以监视用户，比如手机上安装的恶意程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-20T13:01:22Z",
+  "Author": "WinterIsComing"
+}

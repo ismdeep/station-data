@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为改进可及性 Debian 考虑默认加载非自由固件",
+  "Link": "https://www.solidot.org/story?sid=72602",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为改进可及性 Debian 社区讨论\u003ca href=\"https://linux.slashdot.org/story/22/08/28/0242228/debian-considers-changing-how-it-handles-non-free-firmware\"\u003e\u003cu\u003e默认加载非自由固件\u003c/u\u003e\u003c/a\u003e。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。目前 Debian 发行版默认不加载非自由固件，要盲人用户自己去摸索调整是非常困难的。因此 Debian 开发者提议在官方镜像中包含非自由固件。非自由软件仍然是明确反对的，用户如果需要可以自己启用非自由组件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-29T03:43:10Z",
+  "Author": "WinterIsComing"
+}

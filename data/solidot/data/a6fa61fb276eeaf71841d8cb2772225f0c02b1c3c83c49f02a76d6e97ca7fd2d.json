@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 100 释出",
+  "Link": "https://www.solidot.org/story?sid=71098",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_29.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Chrome 浏览器的首个三位数版本 Chrome 100。版本号的跳跃并不代表变化有多大，新版本主要是\u003ca href=\"https://chromium.googlesource.com/chromium/src/+log/99.0.4844.84..100.0.4896.60?pretty=fuller\u0026amp;n=10000\"\u003e\u003cu\u003e修正\u003c/u\u003e\u003c/a\u003e了大量的 bug。Google 和 Firefox 在未来两个月内先后突破 100 版本号，Firefox 100 将在 5 月 3 日发布正式版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-30T04:42:53Z",
+  "Author": "WinterIsComing"
+}

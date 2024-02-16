@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Slackware 15.0 RC1 释出",
+  "Link": "https://www.solidot.org/story?sid=68583",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t至今仍在维护的历史最悠久的 Linux 发行版 Slackware 释出了\u003ca href=\"http://www.slackware.com/changelog/current.php?cpu=x86_64\"\u003e\u003cu\u003e 15.0 RC1\u003c/u\u003e\u003c/a\u003e，朝着正式版本的推出前进了一大步。它的上一个稳定版本 \u003ca href=\"http://www.slackware.com/index.html\" target=\"_blank\"\u003e\u003cu\u003eSlackware 14.2 \u003c/u\u003e\u003c/a\u003e还是在 2016 年发布的。Slackware 15.0 的主要变化包括：KDE Plasma 5.21、Xfce 4.16 和 GNOME 3.36/3.38，内核版本为 Linux Kernel 5.13，其它应用包括 Python 3.9，Mozilla Firefox 91.0.1 和 Thunderbird 91.0.1 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-18T04:53:53Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PowerShell 7.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63714",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://devblogs.microsoft.com/powershell/announcing-PowerShell-7-0/\"\u003e\u003cu\u003e宣布发布\u003c/u\u003e\u003c/a\u003e PowerShell 7.0 正式版。PowerShell 是微软的跨平台自动化工具和配置框架。PowerShell 7 是首个在 MIT 开源许可证下发布的版本，微软表示通过该版本它完成了对 Windows PowerShell 的向后兼容，PowerShell 7 与底层的 .NET 运行时的生命周期将保持一致，PowerShell 7.0 将是首个长期支持版，提供大约 3 年的支持，起始日期为 .NET Core 3.1 发布的 2019 年 12 月 3 日。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-05T07:55:06Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Plausible 许可证从 MIT 切换到 AGPL",
+  "Link": "https://www.solidot.org/story?sid=65795",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t可作为 Google Analytics 开源替代的 Web 分析工具 Plausible 项目\u003ca href=\"https://plausible.io/blog/open-source-licenses\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e其授权许可证从 MIT 切换到 AGPLv3。此举旨在防止企业拿了 Plausible 的代码后直接与 Plausible 展开竞争但不提供任何的回馈。AGPLv3 要求公开修改后的源代码，MIT 则没有任何此类要求。Plausible 称许可证的改变对订阅 Plausible Cloud 或自托管的用户没有任何改变。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-14T06:20:03Z",
+  "Author": "WinterIsComing"
+}

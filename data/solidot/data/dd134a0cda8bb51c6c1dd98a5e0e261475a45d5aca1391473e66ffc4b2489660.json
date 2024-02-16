@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "百度发布量子机器学习工具",
+  "Link": "https://www.solidot.org/story?sid=64534",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国最大的中文搜索引擎在 GitHub 上发布了量子机器学习工具集 \u003ca href=\"https://github.com/PaddlePaddle/Quantum\" target=\"_blank\"\u003e\u003cu\u003ePaddle Quantum（量桨）\u003c/u\u003e\u003c/a\u003e，源代码采用了 Apache V2.0 许可证。量桨是基于飞桨（PaddlePaddle）深度学习框架，百度称飞桨是中国目前唯一一个支持量子机器学习的深度学习框架，“量桨建立起了人工智能与量子计算的桥梁，不但可以快速实现量子神经网络的搭建与训练，还提供易用的量子机器学习开发套件与量子优化、量子化学等前沿量子应用工具集，并提供多项自研量子机器学习应用。”百度\u003ca href=\"https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，飞桨已被超过 190 万开发者使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-01T12:54:03Z",
+  "Author": "WinterIsComing"
+}

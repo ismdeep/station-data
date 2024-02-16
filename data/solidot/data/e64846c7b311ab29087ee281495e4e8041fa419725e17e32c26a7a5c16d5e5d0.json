@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Adobe Acrobat Reader 安全漏洞允许恶意程序悄悄获得 macOS 的 root 权限",
+  "Link": "https://www.solidot.org/story?sid=64372",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tmacOS 版本的 Adobe Acrobat Reader 释出了补丁，修复了三个高危漏洞（CVE-2020-9615，CVE-2020-9614 和 CVE-2020-9613）。这些漏洞是腾讯安全玄武实验室的研究人员发现和报告的，漏洞允许普通用户从本地进行提权，在不被注意的情况下获得 root 权限。腾讯安全研究人员通过 GitHub 博客\u003ca href=\"https://rekken.github.io/2020/05/14/Security-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently/\" target=\"_blank\"\u003e\u003cu\u003e披露了漏洞细节\u003c/u\u003e\u003c/a\u003e。com.adobe.ARMDC.SMJobBlessHelper 是 Adobe Acrobat Reader 负责更新的一个组件，它运行在 root 权限下，没有应用沙盒，三个漏洞 Bad Checking，绕过临时文件夹 root 保护，竞争条件与之相关。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-15T06:59:54Z",
+  "Author": "WinterIsComing"
+}

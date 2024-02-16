@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 访问了数千万美国人的详细医疗数据",
+  "Link": "https://www.solidot.org/story?sid=62578",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWSJ \u003ca href=\"https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790?shareToken=st98ed7303aedb45d281bc0bda02eb90b4\" target=\"_blank\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，通过名叫 Project Nightingale 的项目，Google 与美国第二大非营利卫生系统 Ascension \u003ca href=\"https://arstechnica.com/science/2019/11/would-you-trust-google-with-your-medical-records-it-might-already-have-them/\" target=\"_blank\"\u003e\u003cu\u003e合作访问了数千万美国人的详细医疗数据\u003c/u\u003e\u003c/a\u003e。该项目让至少 150 名 Goolge 雇员查看患者的医疗信息，这些信息包括诊断、实验室测试结果、住院记录，还包含患者的名字和出生日期。 Google 和 Ascension 之间的数据共享没有通知患者或医生。Google 的目标是开发新软件，利用人工智能和机器学习向患者提供护理建议，最终的目标是开发出可搜索的基于云端的工具去托管和检查大量患者数据。Ascension 的目标则是改进护理。 Google 和 Ascension 在声明中表示该项目遵守了美国联邦的患者医疗信息保护。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-12T08:50:17Z",
+  "Author": "wenfeixiang"
+}

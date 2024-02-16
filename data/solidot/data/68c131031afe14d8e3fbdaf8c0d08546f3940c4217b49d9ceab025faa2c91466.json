@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "龙芯 3D5000 CPU 支持 32 个核心",
+  "Link": "https://www.solidot.org/story?sid=74632",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t龙芯中科透露了它的最新处理器 3D5000，基于 LoongArch 架构，支持 32 个核心。3D5000 利用 chiplet 技术组合了两个 16 核 3C5000 处理器。新芯片 L3 缓存 64MB，支持八通道 DDR4-3200 ECC 内存传输率能达到 50GB/s，有 5 个 HyperTransport 3.0 IO 接口。TDP 为 300 瓦，正常运行 150 瓦左右，主频 2GHz。对于 3D5000 CPU 的性能，龙芯中科称 SPEC2006 得分 425，双精度 64 位下 1 TeraFLOP。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.loongson.cn/product/show?id=15\u003cbr/\u003e\nhttps://www.techpowerup.com/307046/chinese-loongson-3d5000-features-32-cores-and-is-4x-faster-than-the-average-arm-chip\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-11T11:19:50Z",
+  "Author": "Wilson"
+}

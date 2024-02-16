@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核准备支持 Rust",
+  "Link": "https://www.solidot.org/story?sid=68211",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.solidot.org/story?sid=68068\" target=\"_blank\"\u003e\u003cu\u003e受雇\u003c/u\u003e\u003c/a\u003e于 Prossimo 项目的 Rust 开发者 Miguel Ojeda \u003ca href=\"https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/\" target=\"_blank\"\u003e\u003cu\u003e递交了\u003c/u\u003e\u003c/a\u003e补丁为 Linux 内核加入对 Rust 的支持。Rust 是一种高性能、内存安全的语言，而软件项目发现的大部分漏洞都属于内存安全相关漏洞，用 Rust 开发内核组件如驱动将有助于改进内核的内存安全。开发者表示他们已经获得了多家科技公司的声明：微软 Linux Systems Group 有望在未来几个月递交用 Rust 语言开发的 Hyper-V 驱动；Arm 正与 Rust 社区合作改进在 Arm 系统上的 Rust 支持；Google Android 团队正在评估  Binder 实现，在考虑用 Rust 开发其他驱动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-06T11:27:02Z",
+  "Author": "WinterIsComing"
+}

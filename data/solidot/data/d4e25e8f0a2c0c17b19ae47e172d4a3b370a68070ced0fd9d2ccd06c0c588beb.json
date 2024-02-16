@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "迪士尼研究院演示照片视频的高分辨率人脸替换",
+  "Link": "https://www.solidot.org/story?sid=64836",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t迪士尼研究院和苏黎世理工学院合作发表\u003ca href=\"https://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，描述了一种全自动的、基于神经网络的照片和视频换脸方法。研究人员称他们首次实现了高分辨率、百万像素分辨率的人脸替换。\u003ca href=\"https://techcrunch.com/2020/06/29/disney-research-neural-face-swapping-technique-can-provide-photorealistic-high-resolution-video/\"\u003e\u003cu\u003e这项技术\u003c/u\u003e\u003c/a\u003e可用于电视和电影制作，使得换脸后的结果能让观众感觉以假乱真。研究人员的意图是用替补演员的脸去替换现有演员，如降低或增加一个人的年龄，或参演的演员去世了，或替换特技演员的脸部。研究人员发布了一则\u003ca href=\"https://www.youtube.com/watch?v=yji0t6KS7Qo\"\u003e\u003cu\u003e视频\u003c/u\u003e\u003c/a\u003e（YouTube），演示了他们的方法，并与现有的其它换脸技术进行对比。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T00:31:07Z",
+  "Author": "WinterIsComing"
+}

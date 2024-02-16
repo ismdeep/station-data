@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Perl.com 域名劫持之谜",
+  "Link": "https://www.solidot.org/story?sid=67065",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1 月 27 日，Perl 语言的官网 Perl.com 域名\u003ca href=\"https://log.perl.org/2021/01/perlcom-hijacked.html\"\u003e\u003cu\u003e遭到劫持\u003c/u\u003e\u003c/a\u003e；直到 2 月 5 日问题才完全解决。Perl.com 网站资深编辑于 2 月 28 日发表文章\u003ca href=\"https://www.perl.com/article/the-hijacking-of-perl-com/\" target=\"_blank\"\u003e\u003cu\u003e阐述了\u003c/u\u003e\u003c/a\u003e这一事件的经过。Perl.com 域名是在 1990 年代初注册的，Tom Christiansen 被列为注册人，除了域名续期近年引入的安全功能如二步认证可能没有启用。Perl.com 不是唯一的受害者，攻击者可能是首先通过社会工程入侵了域名服务商 Network Solutions，然后更新了多个域名的联络信息。攻击事实上发生在去年 9 月，到了 12 月域名转移到注册商 BizCN，1 月又转移到另一个注册商 Key Systems。之所以没有立即转移域名是因为  ICANN 的一项规定：在更新联络信息 60 天内不能转移域名。转移到 Key Systems 之后攻击者尝试以 19 万美元拍卖 Perl.com 域名，但在媒体报道之后很快被终止。现在，Perl.com 域名回到了 Tom Christiansen 手中，他们加入了安全功能防止同样的事再次发生，Perl 基金会还检查了其他域名。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-01T12:05:22Z",
+  "Author": "WinterIsComing"
+}

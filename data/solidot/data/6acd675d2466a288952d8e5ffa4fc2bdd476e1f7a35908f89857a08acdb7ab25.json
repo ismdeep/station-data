@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "暗网托管商 Daniel's Hosting 再次被黑",
+  "Link": "https://www.solidot.org/story?sid=63941",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大的暗网托管商 Daniel\u0026#39;s Hosting \u003ca href=\"https://www.zdnet.com/article/dark-web-hosting-provider-hacked-again-7600-sites-down/\"\u003e\u003cu\u003e再次被黑\u003c/u\u003e\u003c/a\u003e，数据库被删除，托管的 7600 个网站全部下线。它上一次被黑\u003ca href=\"https://www.solidot.org/story?sid=58649\" target=\"_blank\"\u003e\u003cu\u003e发生在 2018 年 11 月\u003c/u\u003e\u003c/a\u003e，这一次发生在 3 月 10 日，站长 Daniel Winzen 在一份声明中称，攻击者访问了服务的后端，删除了所有托管相关的数据库，攻击者随后还删除了 Winzen 的数据库账号，创建了一个新的账号。Winzen 是在第二天发现入侵的，但为时已晚。他的服务设计没有备份——如果有备份的话托管商可能会收到法庭的传票，如果其托管的某个网站遭到调查的话——意味着数据无法恢复。Winzen 表示他不知道黑客是如何入侵的，表示现在忙其它项目，没时间调查。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-26T12:23:50Z",
+  "Author": "WinterIsComing"
+}

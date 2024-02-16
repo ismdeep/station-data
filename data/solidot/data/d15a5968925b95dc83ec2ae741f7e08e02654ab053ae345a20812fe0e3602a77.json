@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LIHKG 遭到网络大炮攻击",
+  "Link": "https://www.solidot.org/story?sid=62860",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 2015 年 GitHub 之后，LIHKG 成为最新一个遭到网络大炮攻击的网站。AT\u0026amp;T Cybersecurity 发表\u003ca href=\"https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again\" target=\"_blank\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e称，访问两个流行 JS 脚本 http://push.zhanzhang.baidu.com/push.js 和 http://js.passport.qihucdn.com/11.0.1.js 的请求有一定比例遭到劫持，被替换为恶意脚本向 LIHKG 发动 DDoS 攻击。如果这两个脚本地址使用了 HTTPS，那么劫持将不会发生。在今年 8 月的攻击高峰，LIHKG 的每小时请求数\u003ca href=\"https://lihkg.com/thread/1525319/page/1#2\"\u003e\u003cu\u003e超过了 15 亿次\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-06T03:10:14Z",
+  "Author": "WinterIsComing"
+}

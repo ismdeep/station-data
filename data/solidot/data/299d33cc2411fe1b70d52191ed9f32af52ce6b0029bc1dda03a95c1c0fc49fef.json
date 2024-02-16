@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "堆内存将可以让 Chrome 减少内存占用",
+  "Link": "https://www.solidot.org/story?sid=64723",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 版本的 Google Chrome 浏览器在长时间使用后会占用大量内存，Chrome 开发者去年 10 月\u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1014701\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，指出问题不是它，而是与 Windows 的内存分配机制有关。Chrome 使用的半数以上内存它实际上已经释放了，但 Windows 并没有释放将其重新分配，开发者认为名叫“堆内存（segment heap）”的功能可以解决这个问题，但 Windows 没有提供 API 能启用堆内存。Chrome 开发者称正在与微软进行协调。随着 Windows 10 2004（Windows May 2020）的发布，微软\u003ca href=\"https://www.extremetech.com/internet/311877-chrome-might-not-eat-all-your-ram-after-adopting-this-windows-feature\" target=\"_blank\"\u003e\u003cu\u003e正式提供\u003c/u\u003e\u003c/a\u003e了 segment heap，它基于 Chromium 的 Edge 浏览器已经整合了这项功能，大幅减少了内存占用，测试显示内存占用减少了 27%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-20T11:21:41Z",
+  "Author": "WinterIsComing"
+}

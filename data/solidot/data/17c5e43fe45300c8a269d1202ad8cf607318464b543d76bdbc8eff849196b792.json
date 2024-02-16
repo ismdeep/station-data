@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "谋杀案嫌疑人赢得查看 DNA 测试工具源代码的权利",
+  "Link": "https://www.solidot.org/story?sid=66886",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位被控谋杀的男子\u003ca href=\"https://www.theregister.com/2021/02/04/dna_testing_software/\"\u003e\u003cu\u003e赢得了查看 DNA 测试软件源代码的权利\u003c/u\u003e\u003c/a\u003e，以质疑对其不利的证据。软件的开发商  Cybergenetics 则反对查看源代码，坚称源代码是商业机密，公司联合创始人 Mark Perlin 称软件包含了 17 万行 MATLAB 代码，如果以每小时看 10 行代码的速度检查，需要花费八年半的时间。该公司在保密协议中对辩方团队访问源代码设定了非常严格的条件，其中包括泄露源代码将面临 100 万美元的责任罚款。但辩方团队反对这些条件，认为会影响评估，会阻止专家证人作证。辩方的专家证人此前指出，基因测试软件 STRmix 中的 13 个编程错误影响了 50 个刑事案件，这些错误直到审查源代码之后才被发现。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-07T12:36:07Z",
+  "Author": "WinterIsComing"
+}

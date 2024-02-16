@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 黑客攻击调查报告",
+  "Link": "https://www.solidot.org/story?sid=65858",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约州金融服务部公布了发生在 7 月 15 日的 Twitter 黑客攻击\u003ca href=\"https://www.dfs.ny.gov/Twitter_Report\"\u003e\u003cu\u003e调查报告\u003c/u\u003e\u003c/a\u003e。报告称，攻击始于 7 月 14 日下午，一名或多名黑客打电话给多名 Twitter 员工，自称是 IT 部门的技术支持，声称他们收到了 VPN 问题相关的报告。在切换到远程工作之后，VPN 出问题在 Twitter 十分常见。黑客尝试将 Twitter 员工引导到一个模仿 VPN 入口的钓鱼网站，当员工在钓鱼网站输入他们的登陆凭证，黑客同时在真实的 Twitter 网站输入账号。错误输入产生了一个 Multi-Factor Authentication 通知，要求员工验证身份，部分员工这么做了。没有证据表明 Twitter 员工知道他们在帮助黑客。黑客利用收集到的 Twitter 员工个人信息来说服员工相信他们是真的技术支持。黑客获得的 Twitter 员工登陆凭证并不能让他们访问内部工具，但通过该账号黑客掌握了更多内部系统的信息。7 月 15 日，黑客针对了能访问内部工具的 Twitter 员工。之后他们使用内部工具接管和出售 OG（original gangste） 账号，劫持名人的账号骗取比特币，窃取到价值超过 11.8 万美元的比特币。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-20T13:50:03Z",
+  "Author": "WinterIsComing"
+}

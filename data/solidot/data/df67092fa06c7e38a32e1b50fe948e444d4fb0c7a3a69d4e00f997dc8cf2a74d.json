@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出紧急补丁修复打印机无法打印问题",
+  "Link": "https://www.solidot.org/story?sid=64704",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上周释出的例行安全更新被发现\u003ca href=\"https://www.solidot.org/search?tid=53\"\u003e\u003cu\u003e导致了\u003c/u\u003e\u003c/a\u003e部分型号的打印机无法打印。问题看起来与打印后台程序有关。\u003ca href=\"https://docs.microsoft.com/en-us/windows/release-information/status-windows-10-2004#436msgdesc\"\u003e\u003cu\u003e受影响的系统\u003c/u\u003e\u003c/a\u003e包括了客户端系统 Windows 10 版本 2004，1909，1903，1809，1803，1709;，1607，Windows 8.1，以及服务器系统 Windows Server 2004，1909 等。微软目前向 Windows 10 的 \u003ca href=\"https://support.microsoft.com/zh-cn/help/4567514/windows-10-update-kb4567514\"\u003e\u003cu\u003e1803\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://support.microsoft.com/zh-cn/help/4567513/windows-10-update-kb4567513\"\u003e\u003cu\u003e1809\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://support.microsoft.com/zh-cn/help/4567512/windows-10-update-kb4567512\"\u003e\u003cu\u003e1903\u003c/u\u003e\u003c/a\u003e 和 1909 \u003ca href=\"https://www.theregister.com/2020/06/17/windows_10_print_fix/\" target=\"_blank\"\u003e\u003cu\u003e释出了紧急更新\u003c/u\u003e\u003c/a\u003e，其它版本的更新可能需要等待更长时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-18T13:54:28Z",
+  "Author": "WinterIsComing"
+}

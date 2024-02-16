@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国电信的“IPv6 超大规模部署实践与技术创新” 被选为世界领先互联网成果",
+  "Link": "https://www.solidot.org/story?sid=62303",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t乌镇主办的第六届世界互联网大会公布了“\u003ca href=\"http://www.wicwuzhen.cn/web19/news/achievement/\"\u003e\u003cu\u003e世界互联网领先科技成果\u003c/u\u003e\u003c/a\u003e”，其中包括了华为的 “鲲鹏 920”，清华的“面向通用人工智能的异构融合天机芯片”，360 的“360 全视之眼 ——0day 漏洞雷达系统”，寒武纪公司的 “思元 270”，腾讯的“科技向善 —— 通过科技手段助力现代智慧城市综合治理实践”，以及中国电信的“\u003ca href=\"http://www.wicwuzhen.cn/web19/news/achievement/201910/t20191020_11219466.shtml\" target=\"_blank\"\u003e\u003cu\u003eIPv6 超大规模部署实践与技术创新\u003c/u\u003e\u003c/a\u003e”。这些称誉为领先互联网科技成果的介绍都非常简单，比如中国电信的介绍是“2009 年，预见到 IPv4 地址很快就会耗尽，中国电信开始了商用网络向基于 IPv6 的下一代互联网演进研究和实践。如今，已申请了 30 项专利，并制定了包括 IETF 和 ETSI 的 9 项国际标准，以及 13 项中国行业标准。其中，针对超大规模网上引入 IPv6 的难题，制定了以 IPv6 为主的覆盖多专业网络的网络架构和平滑演进路线，此外还实现了 IPv6 轻量级过渡技术 LAFT6，有效降低了集中式地址转换设备处理复杂度，本技术成为国际 IETF 的主要过度技术之一。”没有提供任何专利列表，不过在国家知识产权局的\u003ca href=\"http://epub.sipo.gov.cn/patentoutline.action\" target=\"_blank\"\u003e\u003cu\u003e专利查询系统\u003c/u\u003e\u003c/a\u003e以中国电信和 IPv6 为关键词确实能找到许多专利，比如“IPv6 网络中识别虚拟主机的方法和 DPI 设备”，“IPv6 数据包服务质量处理方法及设备”，“ IPv6 环境下 IPSecVPN 通信业务处理方法与系统”，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T03:41:38Z",
+  "Author": "wenfeixiang"
+}

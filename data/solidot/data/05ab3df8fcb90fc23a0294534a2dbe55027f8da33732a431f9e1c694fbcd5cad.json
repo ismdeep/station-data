@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 间谍软件被发现与孔夫子黑客组织有关联",
+  "Link": "https://www.solidot.org/story?sid=66935",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Lookout \u003ca href=\"https://blog.lookout.com/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e Android 间谍软件的两种变种 Hornbill 和 SunBird 被发现与孔夫子黑客组织有关联。孔夫子 APT 组织最早是在 2013 年发现的，主要攻击东南亚的政府机构、巴基斯坦军方成员，印度选举官员和核机构，被认为与印度政府有关联。新发现的两种  Android 恶意程序主要用于入侵流行的消息应用 Whatsapp，提取聊天内容。其中 Hornbill 是基于商业间谍软件 MobileSpy，SunBird 是基于印度开发的间谍软件 BuzzOut。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-15T11:20:41Z",
+  "Author": "WinterIsComing"
+}

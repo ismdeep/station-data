@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软移除发现严重 bug 的 Windows 10 最新更新，建议受影响用户卸载",
+  "Link": "https://www.solidot.org/story?sid=63537",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件巨人的软件质量每况愈下。微软本周释出的 Windows 10 例行更新 \u003ca href=\"https://support.microsoft.com/en-us/help/4524244/security-update-for-windows-10-february-11-2020\" target=\"_blank\"\u003e\u003cu\u003eKB4532693\u003c/u\u003e\u003c/a\u003e 被发现存在严重 bug，会导致用户桌面重置为默认。部分用户可通过 C:\\Users 中后缀为 .000 或 .bak 的临时文件夹恢复丢失的桌面文件，但还有部分用户\u003ca href=\"https://www.windowslatest.com/2020/02/14/windows-10-kb4532693-issues/\"\u003e\u003cu\u003e无法恢复\u003c/u\u003e\u003c/a\u003e。微软已经从 Windows 更新服务器移除了 KB4532693，如果用户在安装该更新后出现问题微软建议将其卸载（搜索更新历史选择 KB4524244）。如果没有出现问题，用户无需采取任何行动。根据用户的\u003ca href=\"https://answers.microsoft.com/en-us/windows/forum/all/2020-02-updates-kb4524244-locks-up-my-computer-and/b3cb2162-79aa-4870-a645-ac8a2e5a7ef6\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，许多受影响的用户使用的是惠普的 AMD 电脑，启用了惠普的 Sure Start Secure Boot Key Protection 保护。其它公司的 AMD 电脑不受影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-16T07:04:58Z",
+  "Author": "WinterIsComing"
+}

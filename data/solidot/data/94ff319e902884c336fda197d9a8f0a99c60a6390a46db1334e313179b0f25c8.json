@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家用地球计算机解决 42 的三立方数和问题",
+  "Link": "https://www.solidot.org/story?sid=62005",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 33 之后，数学家\u003ca href=\"https://www.eurekalert.org/pub_releases/2019-09/uob-sot090619.php\"\u003e\u003cu\u003e解决了\u003c/u\u003e\u003c/a\u003e三立方数和问题的最后一个数：42。\u003ca href=\"https://zh.wikipedia.org/wiki/%E4%B8%89%E7%AB%8B%E6%96%B9%E6%95%B0%E5%92%8C\" target=\"_blank\"\u003e\u003cu\u003e三立方数和问题\u003c/u\u003e\u003c/a\u003e是指丢番图方程 x^3+y^3+z^3=k（k 为 100 以内的正整数）是否存在整数解的问题。该问题始于 1954 年，多年来，除了 33 和 42，其它数都证明或证否了。2019 年，布里斯托大学数学教授 Andrew Booker 发现了方法在学校超算的帮助下\u003ca href=\"https://link.springer.com/article/10.1007/s40993-019-0162-1\" target=\"_blank\"\u003e\u003cu\u003e找到了 33 的一组整数解\u003c/u\u003e\u003c/a\u003e，最后只剩下道格拉斯亚当斯和银河漫游粉丝们最爱的 42 了。42 的复杂性比 33 个更高，Booker 教授求助于 MIT 数学教授 Andrew Sutherland，在一个类似“深思”的地球计算平台 \u003ca href=\"https://www.charityengine.net/\"\u003e\u003cu\u003eCharity Engine\u003c/u\u003e\u003c/a\u003e 的帮助下，利用 50 多万台家用 PC 的闲置算力找到了 42 的一组整数解：X = -80538738812075974，Y = 80435758145817515，Z = 12602123297335631 或 42 =（-80538738812075974）^3+80435758145817515^3 +12602123297335631^3。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-07T14:30:53Z",
+  "Author": "wenfeixiang"
+}

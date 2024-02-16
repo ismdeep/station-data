@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 用 15 亿 Reddit 帖子创造聊天机器人",
+  "Link": "https://www.solidot.org/story?sid=64294",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFacebook 使用 15 亿 Reddit 帖子\u003ca href=\"https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/\"\u003e\u003cu\u003e创造了\u003c/u\u003e\u003c/a\u003e聊天机器人 \u003ca href=\"https://parl.ai/projects/recipes/\"\u003e\u003cu\u003eBlender\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://arxiv.org/abs/2004.13637\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e发表在预印本网站 arxiv.org 上。社交巨人称，聊天机器人能表现出同情心、知识渊博和个性。在与人类进行对比的测试中，有 49% 的人更乐意与聊天机器人进行互动。专家表示，利用 Reddit 进行训练 AI 有缺点，如 Blender 就在测试中会用冒犯性的言语进行回复，有时候还会胡说八道。研究人员表示希望通过改进模型解决部分问题。Facebook 用 Blender 与 Google 的聊天机器人 Meena 的最新版本进行了比较，结果显示 67% 的人认为  Blender 比 Meena 更像人类。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-07T12:51:50Z",
+  "Author": "WinterIsComing"
+}

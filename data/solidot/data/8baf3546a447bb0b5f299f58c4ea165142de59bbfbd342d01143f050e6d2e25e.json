@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FBI 文件显示可从加密消息应用中获取数据",
+  "Link": "https://www.solidot.org/story?sid=69835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近发现的 \u003ca href=\"https://propertyofthepeople.org/document-detail/?doc-id=21114562\"\u003e\u003cu\u003eFBI 培训文件\u003c/u\u003e\u003c/a\u003e(PDF)显示，美国执法部门\u003ca href=\"https://it.slashdot.org/story/21/11/30/2148250/fbi-document-shows-what-data-can-be-obtained-from-encrypted-messaging-apps\" target=\"_blank\"\u003e\u003cu\u003e可以有限地访问\u003c/u\u003e\u003c/a\u003e iMessage、Line 和 WhatsApp 等安全消息服务的加密内容，但无法访问通过 Signal、Telegram、Threema、Viber、微信或 Wickr 发送的消息。文件是 Property of the People 在提交了 FOIA 申请后于本月初获得的，Property of the People 是一家致力于政府透明度的美国非营利性组织。文件包含了关于可以从加密消息服务运营商那里获得哪些类型的数据代理，以及必须完成的法律程序的培训建议。日期为 2021 年 1 月 7 日的这份文件没有包含任何新的信息，但是提供了 FBI 目前可以从所列的每个服务中获取信息类型的最新摘要。虽然文件证实 FBI 无法访问通过某些服务发送的加密消息，但他们从提供商收集到的其他类型的信息仍然可以在其他方面帮助进行调查。由于某些字体渲染问题，文档的内容可能难以阅读，这部分信息也可以在文中嵌入的表格中找到。值得注意的是，文档不包括 Keybase 的详细信息，这是最近流行的一种端到端加密（E2EE）服务。该服务于 2020 年 5 月被视频会议软件制造商 Zoom 收购。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-01T11:59:56Z",
+  "Author": "wanwan"
+}

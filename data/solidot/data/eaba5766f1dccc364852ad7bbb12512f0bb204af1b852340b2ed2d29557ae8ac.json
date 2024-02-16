@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IOTA 加密货币在钱包漏洞被利用后关闭整个网络",
+  "Link": "https://www.solidot.org/story?sid=63544",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIOTA 不是基于区块链而是基于有向非循环图这一数学概念的加密货币，它诞生于比特币最为火热的 2017 年。上周，在得知黑客正利用官方钱包应用漏洞窃取用户资金之后，管理 IOTA 的基金会\u003ca href=\"https://www.zdnet.com/article/iota-cryptocurrency-shuts-down-entire-network-after-wallet-hack/\"\u003e\u003cu\u003e关闭了\u003c/u\u003e\u003c/a\u003e整个加密货币网络。攻击发生在 2 月 12 日，IOTA 基金会在收到\u003ca href=\"https://status.iota.org/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e 25 分钟内关闭了用于批准交易的最后一个节点 Coordinator，阻止黑客窃取用户资金，但事实上也关闭了整个网络。攻击者被认为针对了 10 个高价值的用户，利用官方钱包应用 Trinity 的漏洞窃取资金。据非官方消息称，有大约价值 160 万美元的 IOTA 币被窃取。IOTA 团队在周日发布了 \u003ca href=\"https://github.com/iotaledger/trinity-wallet/releases/tag/desktop-1.4.0\"\u003e\u003cu\u003e1.4 版本\u003c/u\u003e\u003c/a\u003e，修复了被利用的漏洞。目前网络仍然下线，开发者正在敲定补救计划。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-17T04:55:20Z",
+  "Author": "WinterIsComing"
+}

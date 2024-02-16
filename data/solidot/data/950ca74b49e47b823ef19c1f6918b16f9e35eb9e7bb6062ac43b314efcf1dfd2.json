@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 测试隐藏完整网址",
+  "Link": "https://www.solidot.org/story?sid=64673",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 85 的测试版本\u003ca href=\"https://www.androidpolice.com/2020/06/12/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/\" target=\"_blank\"\u003e\u003cu\u003e引入了\u003c/u\u003e\u003c/a\u003e名为“Omnibox UI Hide Steady-State URL Path, Query, and Ref”的新特性，启用该功能将会在地址栏隐藏完整网址而只展示域名，比如完整网址是“https://www.solidot.org/story?sid=64656”，但你在地址栏只会看到“solidot.org”。Google 还提供了两种变化：一种是你将鼠标悬浮在地址栏上就会显示完整网址，另一种是你在与网页互动之后才会隐藏网址。Google 工程师\u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=1090393\"\u003e\u003cu\u003e解释说\u003c/u\u003e\u003c/a\u003e，地址栏仍然值得探索，钓鱼和社交工程今天仍然很猖獗，众多研究表明，现有的网址展示方式不能提供有效的防御，Google 正在测试简化网址展示的实验，进行量化研究，以判断它是否能帮助用户识别钓鱼网址。Google 也提供了退出的机制，用户只需要在地址栏点击右键选择“总是显示完整网址”，就能恢复旧的地址栏网址展示方式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-16T07:16:52Z",
+  "Author": "WinterIsComing"
+}

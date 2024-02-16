@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "维护者抗议俄罗斯破坏 NPM 包",
+  "Link": "https://www.solidot.org/story?sid=70966",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位 NPM 包维护者为抗议俄罗斯入侵乌克兰而故意搞破坏，\u003ca href=\"https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/\" target=\"_blank\"\u003e\u003cu\u003e制造了最新一起供应链攻击安全事故\u003c/u\u003e\u003c/a\u003e，凸显了代码中的依赖传递会对安全产生巨大影响。RIAEvangelist 维护的 node-ipc 非常受欢迎，周下载量超过一百万。维护者创建了名为 \u003ca href=\"https://www.npmjs.com/package/peacenotwar\" target=\"_blank\"\u003e\u003cu\u003epeacenotwar\u003c/u\u003e\u003c/a\u003e 的模块表达抗议，该模块几乎无人下载，但他随后将 peacenotwar 作为 node-ipc 的依赖推送给了下游用户，受影响版本为 node-ipc@10.1.1 和 node-ipc@10.1.2，目前这两个版本都已经废弃。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-17T05:19:19Z",
+  "Author": "WinterIsComing"
+}

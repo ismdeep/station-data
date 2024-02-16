@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "小米被指记录用户的 Web 和手机使用数据",
+  "Link": "https://www.solidot.org/story?sid=64260",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员 Gabi Cirlig 半开玩笑的说小米手机是带手机功能的后门。他发现小米公司在该公司生产的手机上\u003ca href=\"https://www.forbes.com/sites/thomasbrewster/2020/04/30/exclusive-warning-over-chinese-mobile-giant-xiaomi-recording-millions-of-peoples-private-web-and-phone-use/#5c5a8af01b2a\"\u003e\u003cu\u003e收集了惊人的数据\u003c/u\u003e\u003c/a\u003e，这些数据被发送到小米在世界各地租用的服务器上。小米手机默认的小米浏览器会记录用户访问的所有网站，通过 Google 或 DuckDuckGo 的所有搜索查询词，在新闻源浏览的所有条目，即使使用隐身模式小米仍然会跟踪用户。手机还会记录用户打开的文件夹，切换的屏幕，包括状态栏和设置页。另一位网络安全专家 Andrew Tierney 展开了更进一步的调查，发现小米通过 Google 官方应用商店发布的浏览器 Mi Browser Pro 和 Mint Browser 会收集相同的数据。Cirlig 认为这是一起严重的隐私事件，有数以百万计的用户受到影响。小米的设备以低价但高配置著称，但用户付出的代价是隐私。对于这一发现，小米公司回应声称不真实。该公司发言人承认浏览器会收集数据，但表示数据是匿名收集的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-01T08:55:46Z",
+  "Author": "WinterIsComing"
+}

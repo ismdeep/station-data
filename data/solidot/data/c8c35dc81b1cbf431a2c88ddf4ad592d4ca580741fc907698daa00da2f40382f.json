@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 称攻击者入侵 Google Cloud 账号安装挖矿程序",
+  "Link": "https://www.solidot.org/story?sid=69798",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://services.google.com/fh/files/misc/gcat_threathorizons_brief_nov2021.pdf\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://services.google.com/fh/files/misc/gcat_threathorizons_full_nov2021.pdf\" target=\"_blank\"\u003e\u003cu\u003eThreat Horizons\u003c/u\u003e\u003c/a\u003e 报告，对攻击者入侵 Google Cloud 账号安装挖矿程序发出警告。Google 称，最近入侵的 50 个 Google Cloud 实例中 86% 被用于挖矿，10% 被用于扫描去识别存在漏洞的系统，8% 被用于攻击其它目标。窃取数据反而不是主要目标。Google 还对其它黑客活动发出警告：俄罗斯政府支持的黑客组织 APT28 对 Gmail 账号发动大规模钓鱼攻击，朝鲜支持的黑客冒充招募人员向安全研究人员发去钓鱼邮件，勒索软件组织 Black Matter 日益活跃，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-29T06:03:16Z",
+  "Author": "WinterIsComing"
+}

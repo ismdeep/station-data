@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么 FUSE for macOS 从开源走向闭源",
+  "Link": "https://www.solidot.org/story?sid=62971",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年 5 月，FUSE for macOS 项目的用户注意到最新版本没有公开源代码，这个项目从开源走向了闭源。维护者接受采访谈论了\u003ca href=\"https://www.theregister.co.uk/2019/12/16/fuse_macos_closed_source/\" target=\"_blank\"\u003e\u003cu\u003e他为什么要做出这一决定\u003c/u\u003e\u003c/a\u003e。FUSE 代表 File System in Userspace，允许开发者在不需要为内核写代码的情况下创建定制文件系统。它最早是为 Linux 系统开发的，之后移植到类 UNIX 系统如 FreeBSD 和 OpenSolaris，2007 年 Google 发布了 Mac OS X 版本，但这个版本之后没有继续维护下去。Benjamin Fleischer 于 2011 年在此基础上创建了一个分支 osxfuse，后将其重命名为 FUSE for macOS。今天，有很多商业公司在使用该项目，其中包括云储存和基础设施即服务的供应商。Fleischer 对项目的维护一直是免费的，2016 年他试图寻求帮助资助其继续开发，但没有获得所希望的结果。于是他开始联络使用该项目的商业公司。但讽刺的是，大部分商业公司都无意支持该项目，尽管其产品依赖于 FUSE for macOS，但它是免费的，对商业公司来说似乎没什么价值。因此 Fleischer 决定停止发布源代码并改变许可证。结果一些公司开始联系他协商授权。他说，FUSE for macOS 对非商业使用将是始终免费的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-17T13:00:55Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新浪微博对信息泄露的回应受到质疑",
+  "Link": "https://www.solidot.org/story?sid=63904",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对于黑客在暗网出售 5.38 亿微博用户信息，新浪微博的\u003ca href=\"https://www.sohu.com/a/381597416_505818\"\u003e\u003cu\u003e回应是\u003c/u\u003e\u003c/a\u003e，泄漏的手机号是 2019 年通过通讯录上传接口被暴力匹配的，其余公开信息都是网上抓来的，并表示这起数据泄露不涉及身份证、密码，对微博服务没有影响。社交 app 多有通过通讯录匹配好友的功能。攻击者可以伪造本地通讯录来获得手机号到微博用户账号的关联。比如先伪造通讯录有 xxxx00001 到 xxxx010000 手机号匹配好友，再伪造 xxxx010001 到 xxxx020000 手机号匹配好友，不断列举，就能关联出微博 id 到手机号的关系。新浪微博\u003ca href=\"https://www.weibo.com/2735327001/IzCMJioqC?type=comment\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e已经上报给司法机关，称部分用户使用了和其他平台相同账号密码，可能导致其微博账号面临被盗的风险。但黑客出售的信息包括了性别、位置等非公开信息，这些信息无法通过 API 匹配通讯录返回。这些微博用户数据究竟来自何处\u003ca href=\"https://www.zdnet.com/article/hacker-selling-data-of-538-million-weibo-users/\"\u003e\u003cu\u003e引发了很多担忧\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-23T13:27:16Z",
+  "Author": "WinterIsComing"
+}

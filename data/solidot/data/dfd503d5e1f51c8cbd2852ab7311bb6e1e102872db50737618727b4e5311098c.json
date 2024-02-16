@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "物理学家接近解决量子计算的纠错问题",
+  "Link": "https://www.solidot.org/story?sid=68290",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的物理学家在量子计算的纠错方面\u003ca href=\"https://www.sciencemag.org/news/2021/07/physicists-move-closer-defeating-errors-quantum-computation\" target=\"_blank\"\u003e\u003cu\u003e取得了重要进展\u003c/u\u003e\u003c/a\u003e。虽然研究人员还不能补偿所有类型的错误——这是构建成熟量子计算机的必要一步，但实现这一目标已经“近在咫尺”了。量子计算机的量子比特易受外界干扰，如 Google 的量子比特在被噪音淹没前只能维持双向状态（two-way state）15 微秒。纠错是量子计算机面临的一大挑战。传统计算机可以利用冗余副本验证正确状态去防止错误，但量子计算机没办法这么做，量子力学禁止拷贝一个量子比特的未知状态到另一个量子比特。为了纠错，科学家设计出方法将一个逻辑量子比特的信息分布到多个量子比特。如一个量子比特有 30% 的概率为 1，70% 为 1，这些信息可以分布到三个量子比特，作为一个集合，三个量子比特处于所有三个有 30% 可能性为 0，70% 为 1 的状态。Google 研究人员在《自然》期刊上\u003ca href=\"https://www.nature.com/articles/s41586-021-03588-y\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，他们将量子比特在 50 微秒后出错的概率从 40% 减少到 0.2%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-15T07:46:59Z",
+  "Author": "WinterIsComing"
+}

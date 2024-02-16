@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "雄迈嵌入式设备固件发现 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63434",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于华为海思 SoC 的杭州雄迈数字录像机、网络录像机和网络摄像头设备所用的固件\u003ca href=\"https://habr.com/en/post/486856/\" target=\"_blank\"\u003e\u003cu\u003e被发现存在漏洞或后门\u003c/u\u003e\u003c/a\u003e。存在漏洞的设备固件运行的都是 Linux 和一组 busybox 开源工具。busybox 采用的是 GPL 许可证，按许可证要求软件应该都应该提供源代码的，不提供源代码构成了对 GPL 的违反。漏洞设备会与 9530 端口进行通信，经过一系列程序可以激活 telnet daemon，使用硬编码的用户名密码组合如用户名 root 密码 xmhdipc 或 klv123、xc3511、123456、jvbzd 或 hi3518 登陆。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-06T03:02:46Z",
+  "Author": "WinterIsComing"
+}

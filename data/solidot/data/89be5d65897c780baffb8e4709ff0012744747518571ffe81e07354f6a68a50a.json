@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI 的 GPT-3 引发广泛关注",
+  "Link": "https://www.solidot.org/story?sid=64992",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAI 研究机构 OpenAI 于 5 月 29 日公布了其下一代文本生成神经网络 \u003ca href=\"https://github.com/openai/gpt-3\"\u003e\u003cu\u003eGPT-3\u003c/u\u003e\u003c/a\u003e 的\u003ca href=\"https://arxiv.org/abs/2005.14165\"\u003e\u003cu\u003e研究论文\u003c/u\u003e\u003c/a\u003e。GPT-3 的训练规模是上一代 GPT-2 的 117 倍，它是\u003ca href=\"https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/\" target=\"_blank\"\u003e\u003cu\u003e如此之大\u003c/u\u003e\u003c/a\u003e，以至于无法运行在传统计算机上，目前主要通过邀请测试的方法提供 API 供测试者使用。\u003ca href=\"https://minimaxir.com/2020/07/gpt3-expectations/\" target=\"_blank\"\u003e\u003cu\u003e测试者最近发布了多篇文章\u003c/u\u003e\u003c/a\u003e，演示了 GPT-3 出色的文本生成效果，如\u003ca href=\"http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html\"\u003e\u003cu\u003e图灵测试\u003c/u\u003e\u003c/a\u003e，一篇还算通顺的\u003ca href=\"https://maraoz.com/2020/07/18/openai-gpt3/\"\u003e\u003cu\u003e文章\u003c/u\u003e\u003c/a\u003e读到结尾你才知道前面都是 AI 生成的。Sharif Shameem 利用 GPT-3 \u003ca href=\"https://twitter.com/sharifshameem/status/1282676454690451457\" target=\"_blank\"\u003e\u003cu\u003e开发了一个布局生成器\u003c/u\u003e\u003c/a\u003e，能根据你描述的任何布局生成 JSX 代码。尽管如此，它的成功率可能还是不适合生产应用使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-20T07:14:35Z",
+  "Author": "WinterIsComing"
+}

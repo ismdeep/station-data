@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "台积电谈 5 纳米工艺技术",
+  "Link": "https://www.solidot.org/story?sid=63901",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据台积电研究人员递交到多个行业会议的论文，该公司正在风险投产的 5 纳米工艺技术能将晶体管密度\u003ca href=\"https://fuse.wikichip.org/news/3398/tsmc-details-5-nm/\"\u003e\u003cu\u003e提高到\u003c/u\u003e\u003c/a\u003e每平方毫米 1.713 亿，是其 7 纳米节点密度的 1.84 倍。过去五年，台积电的芯片工艺技术从 16 纳米逐步过渡到 10 纳米、7 纳米和 5 纳米，晶体管密度从 16 纳米的 2888 万/平方毫米增长到 10 纳米的 5251 万，7 纳米的 9120 万，到 5 纳米的 1.713 亿。5 纳米节点设计用于制造移动 SoC 和 HPC 应用，典型的移动 SoC 包含 60% 的逻辑，30% 的 SRAM 和 10% 的模拟/IO，它预计能将芯片大小减少 35%-40%。台积电在南部科学工业园区建造的 12 英寸 EUV GigaFab 晶圆厂 Fab 18 将使用 5 纳米和未来的 3 纳米技术制造芯片。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-23T09:43:11Z",
+  "Author": "WinterIsComing"
+}

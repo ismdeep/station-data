@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "赛门铁克发现先进黑客工具",
+  "Link": "https://www.solidot.org/story?sid=70814",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t赛门铁克研究人员发表报告《\u003ca href=\"https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage\"\u003e\u003cu\u003eDaxin: Stealthy Backdoor Designed for Attacks Against Hardened Networ\u003c/u\u003e\u003c/a\u003eks》，他们发现了一种复杂先进的后门工具 Daxin，至少有十年历史。Daxin 设计作为一种 Windows 内核驱动，实现了先进的通信功能，具有高度的保密性，在感染计算机后它允许攻击者读写任意文件。它能监视特定模式的传入 TCP 流量，当特定模式检测到后，Daxin 能切断合法的接收方接管连接。除了劫持合法 TCP/IP 连接外，Daxin 能在被感染计算机上部署额外的恶意组件，能在多台被感染的计算机上创建加密通信通道。它最早发现的样本创建时间是 2013 年，已具有了最近变种的所有先进功能，这意味着该工具在 2013 年已经发展成熟。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T14:56:10Z",
+  "Author": "WinterIsComing"
+}

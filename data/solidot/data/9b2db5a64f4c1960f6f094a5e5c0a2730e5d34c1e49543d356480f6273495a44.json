@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WireGuard 因捐赠链接从 Google Play Store 移除",
+  "Link": "https://www.solidot.org/story?sid=62263",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWireGuard 作者 Jason Donenfeld 在邮件列表上\u003ca href=\"https://lists.zx2c4.com/pipermail/wireguard/2019-October/004596.html\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，他的开源应用在经过多日的审核之后被 Google 批准了，但 20 分钟之后他又收到邮件称应用已经从商店删除了，原因是它违反了 Google 的“付款政策”，也就是包含了一个捐赠链接。WireGuard 是一种新兴的 VPN 实现，比 OpenVPN 和 IPSec 速度更快、攻击面更小，配置更简单。作为一个开源项目，作者主要靠用户的捐赠支持其开发。Donenfeld 表示他只能移除捐赠链接，重新递交应用，继续等待 Google 的审核。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-16T11:01:01Z",
+  "Author": "wenfeixiang"
+}

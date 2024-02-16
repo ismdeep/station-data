@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核贡献成熟度模型",
+  "Link": "https://www.solidot.org/story?sid=73677",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2021 年内核维护者峰会讨论的一个主题是招募内核维护者以及维护者继任上所面临的挑战。讨论得出的部分结论是作为 Linux 社区的一部分，企业需要允许从事内核开发的工程师成为维护者，工程师能逐渐成长为受人尊敬的项目领导者，最终成为内核维护者。曹子德（Theodore Y. Ts\u0026#39;o）以及 Linux 基金会技术咨询委员会发布了名叫 Linux 内核贡献成熟度模型的文档，帮助企业改进在内核开发流程中的参与。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lwn.net/Articles/917913/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-16T15:13:04Z",
+  "Author": "Wilson"
+}

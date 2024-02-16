@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 将让用户知道哪一个进程在使用文件",
+  "Link": "https://www.solidot.org/story?sid=73299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows 用户可能都有类似的经历，试图删除一个文件，结果被告知文件正在被使用，但在任务管理器中你不知道文件是被哪个进程使用。现在 Windows 11 和 Windows 10 上的工具 PowerToys 释出了更新，加入了名叫 File LockSmith 的功能让用户知道哪一个进程在使用哪个文件，安装之后选定某个文件或某个文件夹右键，可以选择查看哪个进程在使用该文件。PowerToys 发布在 GitHub 上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/microsoft/PowerToys/releases\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-08T07:26:50Z",
+  "Author": "WinterIsComing"
+}

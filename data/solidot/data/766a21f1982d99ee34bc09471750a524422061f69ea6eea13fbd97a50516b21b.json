@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 在规避审查上的挑战和进展",
+  "Link": "https://www.solidot.org/story?sid=65383",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目官方博客\u003ca href=\"https://blog.torproject.org/anti-censorship-challenges-priorities-progress\" target=\"_blank\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e它在规避审查方面面临的挑战和进展。Tor 项目表示，它在 2019 年 2 月雇佣了两名工程师专注于先进反审查技术：尽管网站遭到屏蔽，它的 GetTor 服务帮助用户获得 \nTor Browser 客户端，只要向 gettor@torproject.org 发送邮件，用户能会收到指向 GitHub、GitLab、互联网档案馆 和 Google Drive 的替代下载链接；Tor 网络如公开中继地址在部分地方遭到屏蔽，网桥成为主要的规避审查方法，用户可选择 obfs4、Snowflake 和 meek-azure。Tor 开发者称，缺乏资源是它目前面临的最大挑战，它一直在寻找新的贡献者和合作者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-28T14:51:17Z",
+  "Author": "WinterIsComing"
+}

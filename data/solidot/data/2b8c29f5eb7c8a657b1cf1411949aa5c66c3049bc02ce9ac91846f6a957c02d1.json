@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Wyze 用户数据泄露，公司归罪于雇员的失误",
+  "Link": "https://www.solidot.org/story?sid=63127",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t出售监控探头的 Wyze 公司产品数据库\u003ca href=\"https://arstechnica.com/tech-policy/2019/12/surveillance-camera-company-wyze-confirms-leak-of-user-data/\"\u003e\u003cu\u003e被发现没有保护\u003c/u\u003e\u003c/a\u003e，泄露的信息包括客户邮件地址、摄像头名称、WiFi 网络信息、设备信息，以及与 Alexa 整合相关的令牌。公司联合创始人 Dongsheng Song 称一名雇员在 12 月 4 日使用数据库时的失误导致了它没有得到保护。名叫 12Security 的公司曝光了 Wyze 的用户数据泄露，声称数据被发送到了阿里云服务。Wyze 否认它使用阿里云，表示它使用的亚马逊的云服务，称它在中国有雇员和硬件合作伙伴，但没有与任何中国政府机构分享用户数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-31T13:24:35Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI 开源多语言语音识别系统 Whisper",
+  "Link": "https://www.solidot.org/story?sid=72878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 开源了它的多语言语音识别系统 \u003ca href=\"https://github.com/openai/whisper\"\u003e\u003cu\u003eWhisper\u003c/u\u003e\u003c/a\u003e，源代码采用 MIT 许可证托管在 GitHub 上。语音识别系统是科技巨头软件和服务的核心部分，Whispe 能将多种语言的语音翻译到文本，并将其翻译到英语。它使用了 68 万小时的多语言语音数据进行训练，数据集是从网络中收集到的，改进了对独特口语、背景噪音和技术术语的识别。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-26T08:28:22Z",
+  "Author": "WinterIsComing"
+}

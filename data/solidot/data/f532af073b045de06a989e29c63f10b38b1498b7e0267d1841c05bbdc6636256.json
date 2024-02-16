@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软准备测试 Windows 10 的云端恢复功能",
+  "Link": "https://www.solidot.org/story?sid=61574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软向测试者\u003ca href=\"https://blogs.windows.com/windowsexperience/2019/07/31/announcing-windows-10-insider-preview-build-18950/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e新的预览版本  Windows 10 Insider Preview Build 18950 (20H1)，透露了名叫  Cloud download 的功能，但这项功能尚未启用，还无法工作，微软表示会在准备就绪后提供给测试者测试。这项功能看起来\u003ca href=\"https://www.theverge.com/2019/8/1/20749847/microsoft-windows-10-cloud-download-restore-feature\" target=\"_blank\"\u003e\u003cu\u003e类似\u003c/u\u003e\u003c/a\u003e苹果 macOS 云端恢复功能，从系统出故障之后从云端下载一份拷贝重新安装。要提供这项功能，微软显然需要得到 OEM 厂商的支持，所有重要的驱动都需要工作良好。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-01T12:31:42Z",
+  "Author": "wenfeixiang"
+}

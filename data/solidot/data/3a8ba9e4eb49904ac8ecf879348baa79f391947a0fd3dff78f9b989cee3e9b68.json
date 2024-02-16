@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 默认使用开源的 Windows Terminal",
+  "Link": "https://www.solidot.org/story?sid=73103",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows Terminal 项目经理 Kayla Cinnamon \u003ca href=\"https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，从  Windows 11 22H2 开始所有命令行应用将默认用 Windows Terminal 打开。Windows Terminal 是微软在 2019 年宣布的新命令行终端，\u003ca href=\"http://www.github.com/microsoft/terminal\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。Windows Terminal 支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-19T07:36:56Z",
+  "Author": "WinterIsComing"
+}

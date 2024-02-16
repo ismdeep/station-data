@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 为 Linux On x86 环境创建了 COBOL 编译器",
+  "Link": "https://www.solidot.org/story?sid=67434",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM \u003ca href=\"https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/9/872/ENUSAP21-0019/index.html\u0026amp;request_locale=en\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 IBM COBOL for Linux on x86 1.1，为 Linux On x86 环境构建的 COBOL 编译器。诞生于 1959 年的 Common Business-Oriented Language（缩写 COBOL）面向商业语言其黄金时代早已过去，但仍然被广泛用于银行和金融等关键领域。IBM 为 Linux 系统创建 COBOL 编译器可能是希望客户能将 COBOL 应用用于混合云中。COBOL 在短时间内还不会被完全淘汰，当然它的前景也未必乐观，此举旨在为仍然有 COBOL 应用的机构提供一种灵活性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-08T15:14:57Z",
+  "Author": "WinterIsComing"
+}

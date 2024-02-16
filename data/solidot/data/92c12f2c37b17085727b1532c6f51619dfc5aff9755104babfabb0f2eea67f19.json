@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "抵抗主动探测的代理 HTTPT",
+  "Link": "https://www.solidot.org/story?sid=65364",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了探测和屏蔽代理服务器，审查者越来越多的使用主动探测攻击，即使用已知的代理协议向可疑的服务器尝试进行握手，如果服务器回应了那么审查者将会知道它是代理服务器，然后将其屏蔽。为了对抗主动探测攻击，Tor 等项目的开发者开发了 obfs4 等能抵抗探测的协议。但这些协议被发现存在指纹，审查者仍然能将其识别出来。此外审查者还能利用重放攻击去识别此类的代理服务器。科罗拉多 Boulder 的研究人员\u003ca href=\"https://www.usenix.org/system/files/foci20-paper-frolov.pdf\"\u003e\u003cu\u003e提出了一种新的代理原型 HTTPT\u003c/u\u003e\u003c/a\u003e，基于现有的 Web 服务器和广泛使用 HTTPS 协议，能对主动探测返回标准的 TLS 响应，加大其识别的难度。他们的\u003ca href=\"https://github.com/sergeyfrolov/httpt\"\u003e\u003cu\u003e代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-27T05:03:28Z",
+  "Author": "WinterIsComing"
+}

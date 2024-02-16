@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stuxnet 遗产还活在新 Windows bug 里",
+  "Link": "https://www.solidot.org/story?sid=64374",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软本周二释出了例行安全更新，修复了多个漏洞，其中一个漏洞与打印机后台处理程序 Windows Print Spooler 相关，影响 Windows Server 2008、2012、2016 和 2019，以及 Windows 7、8.1 和 10。微\u003ca href=\"https://duo.com/decipher/stuxnets-legacy-lives-on-in-new-windows-bug\" target=\"_blank\"\u003e\u003cu\u003e软的安全公告似曾相识\u003c/u\u003e\u003c/a\u003e，称成功利用该漏洞的攻击者可以使用提升的系统权限执行任意代码。这个漏洞与十年前 Stuxnet 蠕虫利用的 Windows XP 漏洞十分相似。Stuxnet 蠕虫在 2010 年感染了伊朗的核设施，之后扩散到了世界其它地方。Stuxnet 至少利用了 4 个 0day 漏洞，其中之一就是打印机后台处理程序 Windows Print Spooler 漏洞 \u003ca href=\"https://docs.microsoft.com/en-us/security-updates/securitybulletins/2010/ms10-061\" target=\"_blank\"\u003e\u003cu\u003eCVE-2010-2729\u003c/u\u003e\u003c/a\u003e，成功利用该漏洞的攻击者可以在 XP 系统上执行任意代码。最新的漏洞是 SafeBreach 的安全研究人员发现和报告给微软的，它除了与 Stuxnet 蠕虫相关外，最引人注目的一点是\u003ca href=\"https://windows-internals.com/printdemon-cve-2020-1048/\" target=\"_blank\"\u003e\u003cu\u003e非常容易利用\u003c/u\u003e\u003c/a\u003e，一行 PowerShell 指令就能利用和安装一个持久性的后门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-15T08:55:22Z",
+  "Author": "WinterIsComing"
+}

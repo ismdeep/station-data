@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "心怀不满的雇员试图部署勒索软件",
+  "Link": "https://www.solidot.org/story?sid=68772",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客希望入侵有良好盈利能力的企业，通过勒索软件获得上百万美元收益。如今一家企业中一位心怀不满的员工也试图干类似的勾当。此人主动与黑客团伙联系，要求他们在雇主网络内释放恶意软件，并表示事成之后自己也要分取一定比例的赎金。很遗憾，他联系的对象是 Abnormla Security 威胁情报总监 Crane Hassold，于是\u003ca href=\"https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/\"\u003e\u003cu\u003e这个故事也以截屏的形式被披露了出来\u003c/u\u003e\u003c/a\u003e。Hassold 给出的条件非常诱人，对方只要配合在雇主网络中启动恶意软件，就向他支付 100 万美元赎金中的 40%。但这家伙相当健谈，短短五天里，Hassold 的通讯员就被迫改变了部署能在 GitHub 上免费获得的 DemonWare 勒索软件的想法。\n\u003cbr/\u003e\u003cbr/\u003e\nHassold 写道，“根据对方的说法，他最初是打算向公司的所有高层人员发送钓鱼邮件以实现账户入侵。但因为没有成功，他只能转向申请勒索软件“外援”这条出路。”Abnormal Security 方面将邮件与尼日利亚的一个年轻人联系了起来，对方承认自己想用这笔钱开发自己的全新社交网络 Sociogram。在通过LinkedIn与 Sociogram 创始人 Oluwaseun Medayedupin 取得联系之后，对方要求将自己和公司的名称从报道当中隐去，但他没有明确回应 Hassold 的报告中是否存在不准确之处。Medayedupin 恳求道，“请不要损害 Sociogram 的声誉。我是个前途光明的年轻人，请给我留条生路。”\n\u003cbr/\u003e\u003cbr/\u003e\n这位攻击者的手段虽然业余，但他背后体现的其实是西非地区网络犯罪分子对勒索软件攻击的高度关注。虽然近年来，涉案金额高达数百万美元的勒索软件攻击总能登上新闻头条，但每年最大的网络犯罪经济损失仍主要来自商业电子邮件欺诈（BEC）或 CEO 诈骗。目前，来自非洲和东南亚的欺诈分子会伪造身份与目标公司高管搭线，引导对方发起未经授权的跨国电汇。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-01T07:45:38Z",
+  "Author": "wanwan"
+}

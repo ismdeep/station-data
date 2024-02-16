@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "政府如何限制互联网网速",
+  "Link": "https://www.solidot.org/story?sid=63785",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t相比切断互联网，限制互联网网速更隐秘更难以察觉和确认。印度去年切断了克什米尔邦的互联网接入，至今没有完全解除。此事广为人知。但没有多少人知道的是约旦政府限制了 Facebook live 直播服务，如果它屏蔽 Facebook 那么确认起来很简单，如果它让网民难以直播视频，那么网民可能只会以为某个线路发生了故障。\u003ca href=\"https://netzpolitik.org/2020/jordan-throttles-not-blocks-internet-access-shutdowns-keepiton/\"\u003e\u003cu\u003e政府有很多方法去限制网速\u003c/u\u003e\u003c/a\u003e：带宽管理/流量控制和策略；QoS(Quality of Service) 可以有效的降低特定通信协议的流量；Inline DPI(Deep Packet Inspection) 可用于引入延迟；NIC (Network Interface Card) /端口分区 可用于影响所有流量；路由寻径可路由流量通过更长或容量更低的网络端点去限制网速。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-11T10:20:45Z",
+  "Author": "WinterIsComing"
+}

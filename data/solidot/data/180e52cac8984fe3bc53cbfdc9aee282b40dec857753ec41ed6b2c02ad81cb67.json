@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三星手机让香港澳门用户使用中国大陆的 DNS 服务",
+  "Link": "https://www.solidot.org/story?sid=65835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t香港和澳门的三星手机用户报告，三星最近释出的固件将中国大陆的公共 DNS 服务 114.114.114.114 加入到了 DNS 设置中，三星手机还被发现连接到 WIFI 时大约每分钟向包括 114 在内的所有 DNS 服务器查询一次 qq.com 的域名，即使用户没有安装任何腾讯的软件。这一消息引发了隐私方面的担忧。三星在 10 月中旬释出的最新固件\u003ca href=\"http://blog.headuck.com/2020/10/12/samsung-phones-force-mainland-china-dns-service-upon-hong-kong-wifi-users/\" target=\"_blank\"\u003e\u003cu\u003e修复了\u003c/u\u003e\u003c/a\u003e DNS 问题，但对 qq.com 的查询\u003ca href=\"http://blog.headuck.com/2020/10/15/samsung-phones-force-mainland-china-dns-service-upon-hong-kong-wifi-users-2/\"\u003e\u003cu\u003e没有发生改变\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-18T15:15:06Z",
+  "Author": "WinterIsComing"
+}

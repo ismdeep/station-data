@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "LaTeX 幻灯片模板：easy_slides",
+  "Link": "https://liam.page/2018/10/29/easy-slides-template/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e这是一篇非常图省事儿的模板发布文章。发布的内容如题，是我自用的一个简易的 LaTeX 幻灯片模板——\u003ccode\u003eeasy_slides\u003c/code\u003e。由于我需要做演示的场景相对严肃、学术，所以我不会需要过多的效果。因此，模板基于标准模板类 \u003ccode\u003earticle\u003c/code\u003e 简单修改而来。主要来说修改有二：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e版面尺寸修改为适合幻灯片播放的 4:3 的样式；\u003c/li\u003e\n\u003cli\u003e利用\u003ca href=\"/2014/04/22/LaTeX-watermark/\"\u003e以前实现过的水印功能\u003c/a\u003e，给幻灯片贴上了一个背景图。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e由于我需要做演示的场景常与代码打交道，所以对 \u003ccode\u003elistings\u003c/code\u003e 提供的代码列印环境做了一些设置。\u003c/p\u003e\n\u003cp\u003e以上基本就是 \u003ccode\u003eeasy_slides\u003c/code\u003e 的全部内容了。\u003c/p\u003e\n\u003cp\u003e本模板主要目的为自用，不接受任何批判、提问和特性请求；但欢迎使用、fork、改进。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eGitHub 项目地址：\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/Liam0205/easy_slides/\"\u003ehttps://github.com/Liam0205/easy_slides/\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eGitHub 最新发布：\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/Liam0205/easy_slides/releases/latest\"\u003ehttps://github.com/Liam0205/easy_slides/releases/latest\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n    \u003c/div\u003e",
+  "Date": "2018-10-29T06:09:44Z",
+  "Author": "Liam Huang"
+}

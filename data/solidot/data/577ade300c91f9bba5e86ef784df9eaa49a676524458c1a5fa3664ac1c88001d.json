@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NSA 不确定量子计算机能否破解公钥加密",
+  "Link": "https://www.solidot.org/story?sid=68823",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNSA \u003ca href=\"https://www.msn.com/en-us/news/technology/nsa-doesnt-think-quantum-computers-can-break-public-key-encryption/ar-AAO4Egk\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e“不确定量子计算机何时、或者是否能够破解公钥加密技术。”在被问及是否需要担心攻击方使用量子算力开展入侵时，NSA 表示“不清楚量子计算机何时、或者能否拥有破解公钥密码术的能力。”在 FAQ 中，NSA 描述了 Cryptographically Relevant Quantum Computer(CRQC)  （CRQC）这一概念，即能够实际攻击现实加密系统的量子计算机。但目前来看，这一概念能否实现还不确定。虽然 NSA 也认同此类计算机会对数字安全基础设施造成“破坏”，但也强调他们并不太相信这样的 CRQC 能被实际制造出来。但面对越来越多的量子计算研究成果，NSA 也不得不抢先一步、支持后量子 时代下的密码标准开发工作，希望最终过渡到此类更为安全的加密新时代。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-06T10:01:18Z",
+  "Author": "wanwan"
+}

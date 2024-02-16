@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 透露 Firefox Replay",
+  "Link": "https://www.solidot.org/story?sid=62780",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 透露了一项实验性功能 \u003ca href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Projects/WebReplay\"\u003e\u003cu\u003eFirefox Replay\u003c/u\u003e\u003c/a\u003e，但\u003ca href=\"https://firefox-replay.com/#try\"\u003e官网\u003c/a\u003e在引发关注之后就删除了所有介绍内容（\u003ca href=\"https://web.archive.org/web/20191128111509/https://firefox-replay.com/\"\u003e\u003cu\u003e存档\u003c/u\u003e\u003c/a\u003e），只留下一则声明。Firefox Replay 是一种开发者工具，目前只提供给 macOS 用户，感兴趣的苹果开发者可下载\u003ca href=\"https://www.mozilla.org/en-US/firefox/channel/desktop/\" target=\"_blank\"\u003e\u003cu\u003e最新测试版\u003c/u\u003e\u003c/a\u003e。Firefox Replay 允许内容进程记录其行为，稍后重放，回退到早期状态。重放进程保留了在记录过程中发生的相同 JS 行为、DOM 结构、图形更新以及其它行为。浏览器的 JS 调试器可用于检查和控制重放。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-29T03:35:28Z",
+  "Author": "WinterIsComing"
+}

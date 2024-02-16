@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将禁止扩展静默安装",
+  "Link": "https://www.solidot.org/story?sid=62459",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/addons/2019/10/31/firefox-to-discontinue-sideloaded-extensions/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Firefox 将禁止被称为 Sideloading 的扩展静默安装方法。计划在 2020 年 3 月 10 日释出的 Firefox v74 将停止支持 Sideloading，如果扩展开发者的扩展是采用 Sideloading 方法安装，Mozilla 建议开发者更新安装流程。Mozilla 并没有禁止用户手动安装扩展或安装来自非官方扩展网站 addons.mozilla.org (AMO)之外分发的扩展，而是要求所有扩展的安装都必须得到用户的明确同意，此举被认为主要是防止静默安装到浏览器上的广告扩展或其它恶意扩展。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-01T12:21:17Z",
+  "Author": "wenfeixiang"
+}

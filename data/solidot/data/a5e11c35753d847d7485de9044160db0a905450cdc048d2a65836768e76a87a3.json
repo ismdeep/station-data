@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "宝马开源其使用的 AI 算法",
+  "Link": "https://www.solidot.org/story?sid=62949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t宝马公司\u003ca href=\"https://www.bmwblog.com/2019/12/13/bmw-shares-ai-algorithms-used-in-production-available-on-github/\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e它在产品中使用的 AI 算法。\u003ca href=\"https://github.com/BMW-InnovationLab\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上，采用 Apache License 2.0 或 BSD 3-Clause 许可证。宝马称，这些算法被用于多种 AI 应用，包括图像识别和图像标记，公开源代码将允许全世界的开发者浏览、改变、使用和改进代码，这将有助于减少自主运输系统和机器人神经网络的开发时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-16T03:11:26Z",
+  "Author": "WinterIsComing"
+}

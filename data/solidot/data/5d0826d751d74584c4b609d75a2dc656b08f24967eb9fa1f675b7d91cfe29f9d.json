@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rocky Linux 发布三天吸引 8 万人次下载",
+  "Link": "https://www.solidot.org/story?sid=68184",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 杀死 RHEL 社区发行版 CentOS Linux 之后涌现了多个替代的社区版本，其中之一是 CentOS 联合创始人 Gregory Kurtzer 发起的 Rocky Linux。本周一它\u003ca href=\"https://www.solidot.org/story?sid=68091\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e首个正式版本 Rocky Linux 8.4，在发布三天内\u003ca href=\"https://www.theregister.com/2021/07/02/rocky_linux_80000_downloads/\" target=\"_blank\"\u003e\u003cu\u003e吸引了\u003c/u\u003e\u003c/a\u003e 8 万人下载。而 CentOS 用户还在困惑于究竟应该选择哪一种替代对自己最有利。Google 的云服务  Google Compute Engine (GCE) 已经加入了对 Rocky Linux 和另一个替代 AlmaLinux 的支持，Google 还成为 Rocky Enterprise Software Foundation (RESF)基金会的赞助商（Principal Sponsor），微软也是 RESF 的一个合作伙伴。目前看来 Rocky Linux 的吸引力要远大于 AlmaLinux。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-02T11:10:41Z",
+  "Author": "WinterIsComing"
+}

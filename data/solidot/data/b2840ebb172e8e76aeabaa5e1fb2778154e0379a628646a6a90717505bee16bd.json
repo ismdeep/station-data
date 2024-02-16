@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 84.0 释出",
+  "Link": "https://www.solidot.org/story?sid=66388",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/84.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 84.0\u003c/u\u003e\u003c/a\u003e。主要变化包括：原生支持采用 Apple Silicon CPU 的 macOS 设备；继续向更多系统推送 WebRender；在 Linux 平台使用更现代的技术分配共享内存改进性能；最后一个支持 Adobe Flash 的版本；\u003ca href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/84\" target=\"_blank\"\u003e\u003cu\u003e确保\u003c/u\u003e\u003c/a\u003e localhost 网址指向本地的回送接口；bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-16T12:49:42Z",
+  "Author": "WinterIsComing"
+}

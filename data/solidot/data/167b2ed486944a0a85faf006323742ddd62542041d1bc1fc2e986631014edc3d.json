@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因可能危及数据库英国公司登记局强迫一家公司改名",
+  "Link": "https://www.solidot.org/story?sid=66056",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在意识到可能会构成安全风险之后英国公司登记局\u003ca href=\"https://idle.slashdot.org/story/20/11/08/2334254/uk-agency-demands-company-stop-using-name-which-includes-an-html-closing-tag\" target=\"_blank\"\u003e\u003cu\u003e强迫一家公司改名\u003c/u\u003e\u003c/a\u003e。现在这家公司改名为 THAT COMPANY WHOSE NAME USED TO CONTAIN HTML SCRIPT TAGS LTD，它最初的名字叫 ““\u0026gt;。一位做咨询生意的英国软件工程师出于好玩起了这个名字。他说他没有意识到英国公司登记局的数据库真的容易受到简单的“跨站脚本”的影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-10T13:41:08Z",
+  "Author": "WinterIsComing"
+}

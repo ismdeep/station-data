@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国新量子计算机比 Google 的快百万倍",
+  "Link": "https://www.solidot.org/story?sid=69428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在同行评审期刊《Physical Review Letters》和《科学通报》上的\u003ca href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.180501\" target=\"_blank\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e，中国物理学家声称，他们\u003ca href=\"https://tech.slashdot.org/story/21/10/28/078203/chinas-new-quantum-computer-has-1-million-times-the-power-of-googles\" target=\"_blank\"\u003e\u003cu\u003e建造出了\u003c/u\u003e\u003c/a\u003e两台性能超越美国竞争对手的量子计算机：一台是首次推出的超导机器，还有一台是使用光子。\n\u003cbr/\u003e\n\u003cbr/\u003e\n名为九章二号的超级计算机可在一毫秒内计算出世界上最快的传统计算机需要 30 万亿年才能完成的任务。该团队在接受央视采访时透露了这项突破，可能让其不那么可信。但有两篇同行评审的论文，则值得认真对待。研究负责人潘建伟表示，66 比特可编程超导量子计算机祖冲之二号比 Google 的 55 比特“悬铃木”（Sycamore）计算机快 1000 万倍，这使中国的新机器成为世界上最快的机器，在两年内首次击败 Google。\n\u003cbr/\u003e\n\u003cbr/\u003e\n祖冲之二号是三个月前完成的旧机器改进版。九章二号是另一种依靠光子运行的量子计算机，它的应用程序较少，但运行速度却是当今最强大传统计算机的 10的24次方倍（亿亿亿倍）。如果你被弄糊涂了，这是一个后面有23个零的数字。但是虽然这些新机器的功能暗示着一场计算革命，但它们不会很快进入市场。目前两台机器只能在原始环境中运行，只能用于超特定的任务。即使特别小心，它们仍然会犯很多错误。中国科学技术大学潘建伟教授表示：“下一步，我们希望通过四到五年的努力实现量子纠错。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-29T10:10:02Z",
+  "Author": "wanwan"
+}

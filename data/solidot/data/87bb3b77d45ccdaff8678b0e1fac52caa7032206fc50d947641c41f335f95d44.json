@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NordVPN 遭黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=62318",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVPN 服务商 NordVPN 证实\u003ca href=\"https://techcrunch.com/2019/10/21/nordvpn-confirms-it-was-hacked/\"\u003e\u003cu\u003e它遭到了黑客入侵\u003c/u\u003e\u003c/a\u003e。NordVPN 称黑客在 2018 年 3 月入侵了它在芬兰租赁的一个数据中心服务器，而它直到几个月前才察觉此次事故，现在才披露是因为它需要确保基础设施的每一个部分都是安全的。NordVPN 声称它采取了零日志政策，不会跟踪、收集或分享用户私人数据。但入侵服务器的黑客可能能利用中间人攻击拦截部分用户数据。NordVPN 称，黑客利用了数据中心供应商留下的一个不安全的远程管理系统，而它对此类系统的存在完全不知情。NordVPN 声称没有其它服务器受到影响。但安全研究人员对此表达了担忧，认为 NordVPN 缺乏有效的安全防御。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-22T03:23:30Z",
+  "Author": "wenfeixiang"
+}

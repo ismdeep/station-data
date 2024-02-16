@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CRISPR 药物首次注入到血液中去治疗遗传疾病",
+  "Link": "https://www.solidot.org/story?sid=68137",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t利用基因编辑技术 CRISPR 治疗遗传疾病通常涉及到移除病人患病的血干细胞，在实验室里用 CRISPR 进行修改，然后将修改后的血干细胞重新输回到病人体内，整个过程相当复杂，其应用存在很多障碍。现在研究人员首次直接将 CRISPR 药物\u003ca href=\"https://www.sciencemag.org/news/2021/06/crispr-injected-blood-treats-genetic-disease-first-time\"\u003e\u003cu\u003e注入到患者血液中去治疗遗传疾病\u003c/u\u003e\u003c/a\u003e。根据发表《The New England Journal of Medicine》期刊上的\u003ca href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2107454\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，初步数据显示结果令人乐观。在这项研究中，4 名男性和 2 名女性患者患有罕见遗传疾病甲状腺素运载蛋白淀粉样变性，一种突变基因会导致肝细胞生成错误折叠形式的转甲状腺素蛋白（TTR)。这 6 名年龄在 46 到 64 岁的患者注入了携带两种 RNA 的脂质颗粒：其一是编码蛋白质 Cas 的 mRNA，用于剪切 DNA；其二是用于定位 TTR 基因的向导 RNA。在 Cas 剪切后，细胞 DNA 修复机制会修复断裂，但修复是不完全的会导致 TTR 基因失去活性。在 28 天之后，3 名给与两剂治疗的男子其体内的 TTR 水平下降了 80% 到 96%。科学家表示需要较长时间才能知道这种疗法是否会带来比较严重的副作用，比如剪切了错误的 DNA 位置，诱发癌症或其他问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-27T11:26:33Z",
+  "Author": "WinterIsComing"
+}

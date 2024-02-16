@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NSA 表示美国新加密标准没有后门",
+  "Link": "https://www.solidot.org/story?sid=71525",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国政府正在制定新一代的加密标准，设计能抵御量子计算机。量子计算机被认为能容易破解现有经典计算机难以破解的加密算法。NSA 参与了新加密标准制定，它表示自己也无法绕过新标准，NSA 网络安全总监 Rob Joyce \u003ca href=\"https://it.slashdot.org/story/22/05/13/1410209/nsa-says-no-backdoor-for-spies-in-new-us-encryption-scheme\"\u003e\u003cu\u003e称新标准没有后门\u003c/u\u003e\u003c/a\u003e。后门允许利用隐蔽的缺陷破解加密算法。此前 NSA 最为熟知的行为是它开发的椭圆曲线伪随机数生成器 Dual EC DRBG \u003ca href=\"https://www.solidot.org/story?sid=42686\" target=\"_blank\"\u003e\u003cu\u003e被认为含有后门\u003c/u\u003e\u003c/a\u003e。Dual EC DRBG 一度使用广泛，在曝光之后被移除。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-14T11:06:47Z",
+  "Author": "WinterIsComing"
+}

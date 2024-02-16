@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM和三星推出垂直传输场效应晶体管（VTFET）",
+  "Link": "https://www.solidot.org/story?sid=70046",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 和三星\u003ca href=\"https://www.engadget.com/ibm-samsung-vtfet-semiconductor-design-announcement-213018254.html\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e他们在半导体设计方面取得突破。在旧金山举行的 IEDM（国际电子器件会议）的第一天，两家公司公布了一种在芯片上垂直堆叠晶体管的新设计。对当前的处理器和 SoC 而言，晶体管平铺在硅的表面上，电流从一侧流向另一侧。垂直传输场效应晶体管 (VTFET) 彼此垂直，电流也垂直流动。IBM 和三星称，这种设计有两个优点。首先它将允许绕过许多性能限制，将摩尔定律扩展到 IBM 现在的纳米片技术之外。更重要的是，由于电流更大，该设计减少了能源浪费。他们估计 VTFET 将使处理器的速度比采用 FinFET 晶体管设计的芯片快两倍或功耗降低 85%。IBM 和三星宣称，有朝一日，这一工艺可能会让手机充上一次电就能用整整一周。他们表示，它还可以使某些能源密集型任务（包括加密货币挖矿）更加节能，因此减少对环境的影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-17T09:57:27Z",
+  "Author": "wanwan"
+}

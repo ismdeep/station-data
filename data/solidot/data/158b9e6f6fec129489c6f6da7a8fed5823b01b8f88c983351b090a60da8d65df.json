@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出更新修复两个正被利用的 0day",
+  "Link": "https://www.solidot.org/story?sid=74412",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软周二释出了三月例行安全更新，修复了 74 个漏洞，其中两个是正被利用的 0day——CVE-2023-23397 的危险得分 9.8/10，是 Microsoft Outlook 中的一个提权漏洞，微软没有公开漏洞细节，但披露它正被俄罗斯黑客用于攻击欧洲的政府、能源和军事部门；CVE-2023-24880 是一个 Windows SmartScreen 绕过漏洞，它的危险得分比较低只有 5.4/10，它正被勒索软件组织利用。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/03/14/microsoft_patch_tuesday/\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-16T09:26:26Z",
+  "Author": "Wilson"
+}

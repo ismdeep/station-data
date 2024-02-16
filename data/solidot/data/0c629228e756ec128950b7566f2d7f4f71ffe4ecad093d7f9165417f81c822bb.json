@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Exchange 漏洞至少遭 10 个黑客组织利用",
+  "Link": "https://www.solidot.org/story?sid=67168",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 ESET 发表\u003ca href=\"https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e称，微软 Exchange 邮件服务器软件最近曝出的 4 个漏洞正被至少 10 个黑客组织利用。微软已经释出了修复漏洞的补丁，但其企业客户更新速度缓慢，让黑客组织可以利用快速发动攻击。已经有数万家企业和政府机构受到攻击，每天都有新的受害者出现。利用该漏洞，黑客可以在服务器上安装用于后续攻击的 webshells。专家将更新缓慢部分\u003ca href=\"https://cn.reuters.com/article/microsoft-softwareflaw-0310-thur-idCNKBS2B3092?il=0\" target=\"_blank\"\u003e\u003cu\u003e归因于\u003c/u\u003e\u003c/a\u003e Exchange 架构的复杂性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-11T03:43:29Z",
+  "Author": "WinterIsComing"
+}

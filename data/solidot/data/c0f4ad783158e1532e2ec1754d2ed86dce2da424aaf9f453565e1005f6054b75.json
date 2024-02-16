@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "arXiv 论文开始提供 HTML 格式",
+  "Link": "https://www.solidot.org/story?sid=76949",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了让所有人能公平的访问科研文献，预印本平台 arXiv 宣布它开始实验性的提供论文的 HTML 格式。如果 TeX/LaTeX 格式的预印本是在 2023 年 12 月 1 日后递交到 arXiv，它会尝试对其生成 HTML 格式版本。HTML 不会取代 PDF，提交者将被邀请预览论文的 HTML 版本。此举旨在帮助有残疾的科学家，有了 HTML 格式版本，他们可以用屏幕阅读器等工具阅读论文。目前 HTML 转换尚处于实验阶段。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-22T04:46:38Z",
+  "Author": "Wilson"
+}

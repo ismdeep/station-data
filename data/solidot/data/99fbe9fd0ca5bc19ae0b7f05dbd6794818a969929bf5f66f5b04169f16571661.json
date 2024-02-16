@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员发布开源软硬件自主四旋翼无人机",
+  "Link": "https://www.solidot.org/story?sid=71967",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苏黎世大学的一个研究小组\u003ca href=\"https://techxplore.com/news/2022-06-open-source-hardware-autonomous-quadrotor-flies.html\"\u003e\u003cu\u003e开发出\u003c/u\u003e\u003c/a\u003e一种具有高度敏捷性的四旋翼无人机 Agilicious，能高速飞行并能避开障碍。\u003ca href=\"https://www.science.org/doi/10.1126/scirobotics.abl6259\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Science Robotics》期刊上，\u003ca href=\"https://github.com/uzh-rpg/agilicious\" target=\"_blank\"\u003e软硬件架构细节\u003c/a\u003e发布在 GitHub 上，采用 GPLv3 许可证。Agilicious 的最新设计加入了一个 AI 模块 NVIDIA Jetson TX2。在测试中无人机能在 50 到 70公里的时速范围内保持敏捷性。研究人员还发现无人机能执行运动捕捉轨迹跟踪，无人机能持续观测它的空中的位置，添加时间实例显示位置和时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-28T15:43:18Z",
+  "Author": "WinterIsComing"
+}

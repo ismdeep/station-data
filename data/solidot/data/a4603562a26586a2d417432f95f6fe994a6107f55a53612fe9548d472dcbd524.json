@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ChatGPT 允许禁用聊天历史和导出数据",
+  "Link": "https://www.solidot.org/story?sid=74795",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 宣布了允许 ChatGPT 用户更好的控制其数据的新政策：用户可以关闭聊天记录，可以选择退出将聊天记录用作 AI 训练数据，以及可以导出聊天历史。这些新的控制选项可以在设置中找到。在永久删除前 OpenAI 将保留聊天记录 30 天时间，该公司表示需要用于监控滥用。此前 ChatGPT 用户的聊天记录会被用于微调 AI 模型，用户可以定期清除聊天记录，但数据仍然会被用于微调。这对企业而言是一个严重的隐私问题，因为员工可能会输入敏感数据。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-26T07:48:25Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "波音泄漏代码暴露 787 安全漏洞",
+  "Link": "https://www.solidot.org/story?sid=61653",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《连线》报道了 IOActive 公司的安全研究员 Ruben Santamarta \u003ca href=\"https://www.wired.com/story/boeing-787-code-leak-security-flaws/\" target=\"_blank\"\u003e\u003cu\u003e对泄漏的波音代码的研究\u003c/u\u003e\u003c/a\u003e。Santamarta 业余时间用于专研飞机的网络安全。去年九月，他无意发现波音公司的一台服务器没有任何密码保护，服务器储存了波音 737 和 787 客机的代码。他下载了这些代码。在大约一年之后，Santamarta 声称他从 787 的代码中发现了安全漏洞，可被黑客作为入侵的起点，进一步渗透到飞机的安全敏感系统。他将在拉斯维加斯举行的 Black Hat 安全会议上披露其发现，包括在 Crew Information Service/Maintenance System（CIS/MS）中发现的多个漏洞。CIS/MS 负责维护系统和电子飞行包等应用。Santamarta  称他在 CIS/MS 中发现了多个内存损害漏洞，可作为入侵飞机安全系统的立足点。波音否认了这一说法，称漏洞不会影响任何关键或必须的飞行系统，它在飞行模式下尝试利用这些漏洞，但没有成功。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T09:57:43Z",
+  "Author": "WinterIsComing"
+}

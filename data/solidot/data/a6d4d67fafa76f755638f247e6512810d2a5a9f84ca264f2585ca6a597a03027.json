@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "高通将通过 Google Play 提供 GPU 驱动更新",
+  "Link": "https://www.solidot.org/story?sid=62878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在夏威夷举行的 Snapdragon 峰会上，高通宣布了最新的 Snapdragon 865 移动平台，它将被用于明年推出的 5G 手机。移动芯片巨人\u003ca href=\"https://hothardware.com/news/qualcomm-to-enable-adreno-gpu-driver-updates-via-google-play-store\"\u003e\u003cu\u003e还宣布\u003c/u\u003e\u003c/a\u003e将通过 Google Play 官方应用商店提供 Snapdragon 865 的  Adreno GPU 驱动更新。这对智能手机用户而言是一个大新闻，因为他们之前几乎没有多少途径可以更新 GPU 驱动，OEM 厂商很少会确保手机 GPU 运行最新驱动，用户如果想要更新驱动通常需要等到厂商提供下一个 Android 大版本。目前高通只支持 Snapdragon 865 使用的 Adreno 650 GPU 驱动更新，消费者只能希望高通未来能对更多 Snapdragon SoC 平台提供带外驱动更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-07T15:00:46Z",
+  "Author": "WinterIsComing"
+}

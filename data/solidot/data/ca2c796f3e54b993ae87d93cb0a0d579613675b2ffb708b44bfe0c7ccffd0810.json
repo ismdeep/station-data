@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Avast JS 引擎发现严重安全缺陷",
+  "Link": "https://www.solidot.org/story?sid=63791",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t杀毒软件通常以最高的系统权限运行，因此杀毒软件中的漏洞很容易影响到整个系统。捷克杀毒软件 Avast 的主进程是 AvastSvc.exe，运行权限 SYSTEM，它通过加载底层杀毒引擎去分析不能信任的数据。它的 JS 引擎被发现未沙盒化，它的任何漏洞都是高危的，很容易被远程攻击者利用。Google 安全研究员 Tavis Ormandy 在 GitHub 上\u003ca href=\"https://github.com/taviso/avscript\"\u003e\u003cu\u003e公布了他的发现\u003c/u\u003e\u003c/a\u003e。他已经报告给了 Avast，但该公司至今还没有释出补丁修复，Avast 目前的应对之策是在修复前\u003ca href=\"https://www.zdnet.com/article/avast-disables-javascript-engine-in-its-antivirus-following-major-bug/\"\u003e\u003cu\u003e禁用了\u003c/u\u003e\u003c/a\u003e JS 扫描功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-12T03:00:30Z",
+  "Author": "WinterIsComing"
+}

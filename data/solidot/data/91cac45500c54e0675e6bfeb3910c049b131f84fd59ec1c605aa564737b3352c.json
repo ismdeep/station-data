@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 称他不再写代码了",
+  "Link": "https://www.solidot.org/story?sid=64863",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在最近举行的开源峰会和嵌入式 Linux 会议上，Linus Torvalds \u003ca href=\"https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more\" target=\"_blank\"\u003e谈论了\u003c/a\u003e他作为内核维护者的工作。他说自己的工作主要是阅读邮件，然后写邮件，他不再写任何代码了。他仍然会写写代码，但代码是写在邮件阅读器里的，是伪代码，没有编译，也没有测试，主要是针对其他人递交的补丁写的反馈。他阅读的邮件远多于写的邮件，他的工作主要是说不，通过说不他希望内核开发者们能更谨慎些。但为了说不，他需要了解其背景，他基本上是将所有的时间花在其他人工作邮件上。Torvalds 认为，commit 信息和代码变更本身一样重要，有时候代码变更是如此明显因此不需要任何 commit，但这种情况非常非常少。所以他希望开发者在写代码的时候同时还需要思考代码如何工作，以及为什么需要某些变更。如果你能解释你的代码，那么 Torvalds 表示他将能信任代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-06T09:25:36Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "“我的商务名片运行 Linux”",
+  "Link": "https://www.solidot.org/story?sid=63074",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t嵌入式系统工程师 George Hilliard  使用从珠海全志科技的电路板，\u003ca href=\"https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/\" target=\"_blank\"\u003e\u003cu\u003e创造了能运行 Linux 的电子商务名片\u003c/u\u003e\u003c/a\u003e，成本低至真的可以作为名片免费送出。这个电子名片是一个完整的迷你 ARM 计算机，运行用 Buildroot 构建的定制 Linux 固件，它的边角有一个 USB 端口，插入到电脑之后能在 6 秒钟内启动，显示一个 U 盘和虚拟串口，U 盘里有一个 README 文件，一份简历，一些个人照片，你可以通过虚拟串口登陆进 shell，里面有一些游戏，一个 MicroPython 解释器。电路板有一个 8MB 大小的 flash 芯片，引导程序 256KB，内核 1.6MB，根文件系统 2.4MB，因此还有很多空间用于虚拟 U 盘。名片的成本为 2.88 美元，足以廉价到将其送出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-26T09:47:36Z",
+  "Author": "WinterIsComing"
+}

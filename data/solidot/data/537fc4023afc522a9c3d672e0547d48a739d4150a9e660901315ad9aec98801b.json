@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 P2P 僵尸网络感染世界各地的 SSH 服务器",
+  "Link": "https://www.solidot.org/story?sid=65307",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Guardicore Labs 的研究人员\u003ca href=\"https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个没有中心服务器利用 P2P 机制进行控制的僵尸网络。这种控制机制意味着僵尸网络更难被关闭，传统的打击僵尸网络的方法是接管指令控制服务器，但这种传统方法对 P2P 控制的僵尸网络没有效果。被称为 FritzFrog 的僵尸网络具有很多先进功能，包括：只在内存中运行不留下硬盘文件的恶意负荷；自 1 月以来发布了 20 多个版本；只感染 SSH 服务器。研究人员称，僵尸网络至今成功感染了 500 台属于知名美国和欧洲大学的服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-20T15:26:26Z",
+  "Author": "WinterIsComing"
+}

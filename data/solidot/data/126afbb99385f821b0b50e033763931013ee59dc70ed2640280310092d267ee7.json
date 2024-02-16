@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AlmaLinux 9 发布",
+  "Link": "https://www.solidot.org/story?sid=71668",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2020 年 Red Hat 决定停止将 CentOS Linux 作为独立发行版，改为推出滚动更新发行版 CentOS Stream，把它作为企业发行版 RHEL  的上游 beta 版本。社区立即推出了多个项目替代 CentOS，其中最为突出的是两个项目：Rocky Enterprise Software Foundation 赞助的 Rocky Linux，它最近释出了 \u003ca href=\"https://rockylinux.org/news/rocky-linux-8-6-ga-release/\"\u003e\u003cu\u003eRocky Linux 8.6\u003c/u\u003e\u003c/a\u003e；另一个是 AlmaLinux OS Foundation 的 AlmaLinux，它刚刚释出了最新的 \u003ca href=\"https://almalinux.org/blog/almalinux-9-now-available/\"\u003e\u003cu\u003eAlmaLinux 9\u003c/u\u003e\u003c/a\u003e。AlmaLinux 9 \u003ca href=\"https://wiki.almalinux.org/release-notes/9.0.html\" target=\"_blank\"\u003e\u003cu\u003e是基于 Linux 5.14 内核\u003c/u\u003e\u003c/a\u003e，增强了云端和容器开发，改进了 cockpit，改善了 SELinux 性能和用户身份验证日志，Python 3.9、GCC 11，最新版本的 LLVM、Rust 和 Go 编译器，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-29T14:53:06Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CentOS 8 将在明年底结束支持",
+  "Link": "https://www.solidot.org/story?sid=66322",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t企业级付费用户用 Red Hat 的企业级发行版，而免费用户则使用基于 Red Hat Enterprise Linux（RHEL） 的社区发行版 CentOS。但在 Red Hat 拥有 CentOS 项目的情况下，社区发行版的重要性日益降低。CentOS 项目宣布 CentOS 8 \u003ca href=\"https://lists.centos.org/pipermail/centos-announce/2020-December/048208.html\"\u003e\u003cu\u003e将到 2021 年底终止维护\u003c/u\u003e\u003c/a\u003e，而上一代 CentOS 7 仍然会一直维护到 2024 年。CentOS 项目将重心转移到了作为 RHEL 上游的开发分支 CentOS Stream。现有的 CentOS 8 用户被鼓励迁移到 CentOS Stream 8。Red Hat 的这一做法遭到了很多人的\u003ca href=\"https://news.ycombinator.com/item?id=25345428\" target=\"_blank\"\u003e\u003cu\u003e批评\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-09T14:36:54Z",
+  "Author": "WinterIsComing"
+}

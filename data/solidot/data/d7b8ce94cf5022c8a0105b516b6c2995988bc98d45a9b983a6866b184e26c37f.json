@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在源代码中隐藏人眼看不见的漏洞",
+  "Link": "https://www.solidot.org/story?sid=69447",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t剑桥大学的研究人员发表\u003ca href=\"https://trojansource.codes/trojan-source.pdf\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e在源代码中隐藏人眼看不见的漏洞的攻击方法。\u003ca href=\"https://github.com/nickboucher/trojan-source\" target=\"_blank\"\u003e\u003cu\u003ePOC 攻击代码\u003c/u\u003e\u003c/a\u003e已发布在 GitHub 上。这种被称为 Trojan-Source 的攻击方法利用的是字符编码标准 Unicode 中的微妙之处，利用方向覆盖、同形异义等创造出对编译器和人类代码审查员视觉上存在差异的源代码，人眼看不出漏洞，但对编译器来说逻辑编码顺序和显示的顺序是不同的。这种攻击方法对 C、C++、C#、JavaScript、Java、Rust、Go 和 Python 都有效，研究人员已经将漏洞报告给了相关项目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T07:17:15Z",
+  "Author": "WinterIsComing"
+}

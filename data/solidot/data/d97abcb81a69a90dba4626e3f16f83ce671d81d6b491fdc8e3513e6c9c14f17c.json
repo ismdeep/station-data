@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "思科 VPN 服务器遭黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=64512",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t思科披露六台用于提供 VPN 服务的服务器\u003ca href=\"https://arstechnica.com/information-technology/2020/05/cisco-security-breach-hits-corporate-servers-that-ran-unpatched-software/\"\u003e\u003cu\u003e遭黑客入侵\u003c/u\u003e\u003c/a\u003e，攻击者利用了 4 月底公开的 Salt 组件漏洞。思科的 Virtual Internet Routing Lab Personal Edition (VIRL-PE) 和 Cisco Modeling Labs Corporate Edition 都整合了 Salt 管理框架，而 Salt 在四月底披露了两个高危漏洞——目录遍历和身份验证绕过，两个漏洞组合允许未经授权访问整个服务器文件系统。思科在 5 月 7 日部署服务器时没有整合补丁，同一天它的服务器遭到了黑客入侵，然后同一天它把相关服务器都下线了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-29T07:33:11Z",
+  "Author": "WinterIsComing"
+}

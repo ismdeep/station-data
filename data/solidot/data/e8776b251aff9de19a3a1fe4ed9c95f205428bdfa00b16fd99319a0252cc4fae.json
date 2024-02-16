@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯去匿名化 Telegram 用户",
+  "Link": "https://www.solidot.org/story?sid=74505",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯在 2022 年逮捕了多名知名的 Telegram 用户，调查显示国有的俄罗斯国家工业和科技集团公司(Rostec)旗下的一家公司开发了名为  \u0026#34;Okhotnik\u0026#34; (Охотник) 的系统，利用了逾 800 个数据点建立关联去匿名化 Telegram 用户的身份。这些数据点来自社交网络、博客、论坛、即时通讯工具、BBS、加密货币区块链、暗网以及政府服务，包括姓名、昵称、电邮地址、网站、域名、加密钱包、加密密钥、电话号码、地理位置信息、IP地址等。Okhotnik 可以找到目标用户过去任何时候犯下的任何错误去实现去匿名化。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/russia-s-rostec-allegedly-can-de-anonymize-telegram-users/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-27T14:37:27Z",
+  "Author": "Wilson"
+}

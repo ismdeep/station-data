@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KDE Plasma 5.18 发布",
+  "Link": "https://www.solidot.org/story?sid=63503",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tKDE 项目发布了 \u003ca href=\"https://kde.org/announcements/plasma-5.18.0\"\u003e\u003cu\u003ePlasma 5.18\u003c/u\u003e\u003c/a\u003e。这是一个长期支持版本，会得到两年的支持和维护，非长期支持版的维护时间只有 4 个月。主要新特性包括：Emoji 选择器；Global Edit 模式，改进 GTK 应用支持，Night Color 模式，改进系统设置，Discover 软件管理器，User Feedback 设置，等等。更多可浏览 Plasma 5.18.0\u003ca href=\"https://kde.org/announcements/plasma-5.17.5-5.18.0-changelog.php\"\u003e\u003cu\u003e changelog\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-12T09:42:30Z",
+  "Author": "WinterIsComing"
+}

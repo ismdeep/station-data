@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员教机器人拍摄 Airbnb 级照片",
+  "Link": "https://www.solidot.org/story?sid=70984",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t康奈尔大学研究人员\u003ca href=\"https://www.engadget.com/cornell-researchers-taught-a-robot-to-take-air-bn-b-photos-like-people-do-133023892.html\"\u003e\u003cu\u003e使用\u003c/u\u003e\u003c/a\u003e计算美学系统教人工智能机器人“不仅在给定数据集中确定最令人愉悦的图片，还能自行捕捉新的、原创的——更重要的是，好的——镜头。”这个项目名为\u003ca href=\"https://news.cornell.edu/stories/2022/03/robot-photographer-has-eye-aesthetics\"\u003e\u003cu\u003eAutoPhoto\u003c/u\u003e\u003c/a\u003e，于去年秋天在智能机器人和系统国际会议上展示。机器人“摄影师”由三部分组成：图像评估算法，对呈现的图像进行评估并给出审美评分；一个装有摄像头的 Clearpath Jackal 轮式机器人； AutoPhoto 算法本身作为一种固件，将图像评级过程的结果转换为物理机器人的驱动命令，并有效地将优化图像捕获过程自动化。对于图像评估算法，这个由二年级硕士生 Hadi AlZayer 领导的康奈尔团队利用了现有的\u003ca href=\"https://www.tandfonline.com/doi/abs/10.1080/0144929X.2021.2023635\" target=\"_blank\"\u003e\u003cu\u003e学习美学估计模型\u003c/u\u003e\u003c/a\u003e，模型使用超过一百万张经过人类排名的照片行了训练。 AutoPhoto 本身接受了数十张室内场景 3D 图像的训练，以在团队将其连接到 Jackal 上之前找到最佳拍摄角度。在被放到校园中的一个建筑物内之后，机器人开始时会拍出很多不好的镜头，但随着 AutoPhoto 算法“找到感觉”，它的镜头选择会稳步提高，直至拍摄出的图像可以与本地Zillow 列表中的图像相媲美。平均而言，优化一个镜头大约需要迭代十几次，整个过程只需几分钟即可完成。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-18T07:04:00Z",
+  "Author": "wanwan"
+}

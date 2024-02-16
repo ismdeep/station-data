@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "搜寻最优解时发现令人惊讶的限制",
+  "Link": "https://www.solidot.org/story?sid=69466",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t我们的生活是一连串的优化问题。当我们寻找下班回家的最快路线或在去商店的路上试图平衡成本和质量时，甚至当我们决定如何度过睡前有限的空闲时间时，就会出现此类问题。\n\n这些场景和许多其他场景可以表示为数学优化问题。做出最佳决策就是找到最优解。对于一个沉浸在优化中的世界，最近的两项研究成果既带来了\u003ca href=\"https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/\"\u003e\u003cu\u003e好消息也带来了坏消息\u003c/u\u003e\u003c/a\u003e。\n\n在 2020 年 8 月发表的\u003ca href=\"https://arxiv.org/abs/2008.05558\" target=\"_blank\"\u003e\u003cu\u003e一篇论文\u003c/u\u003e\u003c/a\u003e中，普林斯顿大学的 \u003ca href=\"https://aaa.princeton.edu/\"\u003e\u003cu\u003eAmir Ali Ahmadi \u003c/u\u003e\u003c/a\u003e和他以前的学生、现就读于卡内基梅隆大学的\u003ca href=\"https://sites.google.com/view/jeffreyzhang\" target=\"_blank\"\u003e Jeffrey Zhang\u003c/a\u003e 确定，对于一些二次优化问题（这类问题中成对的变量会相互作用），在计算上以具有时效性的方式即使是寻找局部最优解也是不可行的。\n\n但是两天之后，Zhang 和 Ahmadi 发表了\u003ca href=\"https://arxiv.org/abs/2008.06148\"\u003e\u003cu\u003e第二篇论文\u003c/u\u003e\u003c/a\u003e，给出了积极的结论。他们证明，快速确定三次多项式（变量之间存在三向相互作用）是否存在局部最小值并找到这个值（如果存在的话）总是可行的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-02T09:44:39Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 公布账号劫持事故细节",
+  "Link": "https://www.solidot.org/story?sid=64981",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter \u003ca href=\"https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e周三发生的大规模账号劫持事故的初步调查报告。Twitter 称，攻击者利用了社会工程。所谓社会工程就是操纵他人去执行某些动作泄露机密信息。攻击者成功操纵了一小部分 Twitter 雇员，使用雇员的凭证登陆内部系统，访问了只提供给内部支持团队的工具以 130 个账号为目标，对其中 45 个目标，攻击者重置了密码，登录进账号发推。攻击者还使用下载了 8 个账号的信息档案。这 8 个账号都不是认证账号。Twitter 表示它还在继续调查，正在配合执法机构，思考改进系统安全的措施。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-18T05:59:52Z",
+  "Author": "ai"
+}

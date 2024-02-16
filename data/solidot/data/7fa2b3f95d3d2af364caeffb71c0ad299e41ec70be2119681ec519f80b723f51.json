@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "W3C 技术架构组拒绝了 Google 将多个不同域名视为同源的提议",
+  "Link": "https://www.solidot.org/story?sid=67448",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t很多网站都会加载来自不同域名的资源，而这些域名很可能控制在同一家公司手中，比如 Google 控制了 youtube.com、google.com 和 doubleclick.com，搜索巨人提议将这些不同的域名编辑成表，允许浏览器将它们都视为\u003ca href=\"https://github.com/privacycg/first-party-sets\"\u003e\u003cu\u003e相同的第一方\u003c/u\u003e\u003c/a\u003e。W3C 技术架构组（Technical Architecture Group，TAG）\u003ca href=\"https://www.theregister.com/2021/04/08/w3c_google_multple_domains/\" target=\"_blank\"\u003e\u003cu\u003e拒绝了这一提议\u003c/u\u003e\u003c/a\u003e，认为这一提议没有考虑全部含义，将会削弱同源的意义。这一提议也意味着浏览器开发商将会提供和维护自己的列表，可能会导致更多应用开发者针对特定浏览器开发仅限于运行在这些浏览器上的应用。TAG 认为 Google 寻求重写定义第三方 cookie 的含义，这一提议将会伤害到当前形式的 Web。Google 已经在 Chrome 89 实现了这一功能，但没有默认启用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-09T15:45:03Z",
+  "Author": "WinterIsComing"
+}

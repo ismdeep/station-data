@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯精英黑客用新僵尸网络恶意程序感染网络设备",
+  "Link": "https://www.solidot.org/story?sid=70771",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯精英黑客\u003ca href=\"https://arstechnica.com/information-technology/2022/02/russias-most-cut-throat-hackers-infect-network-devices-with-new-botnet-malware/\"\u003e\u003cu\u003e使用\u003c/u\u003e\u003c/a\u003e一种以前未见的新僵尸网络恶意程序感染 WatchGuard 制造的网络设备窃取机密。被称为 Cyclops Blink 的恶意程序\u003ca href=\"https://detection.watchguard.com/\" target=\"_blank\"\u003e\u003cu\u003e感染了\u003c/u\u003e\u003c/a\u003e百分之一的 WatchGuard 网络防火墙。Cyclops Blink 存在了大约三年时间，用于取代 2018 年发现的 VPNFilter 恶意程序。\u003ca href=\"https://www.solidot.org/story?sid=56764\"\u003e\u003cu\u003eVPNFilter\u003c/u\u003e\u003c/a\u003e 被认为来自  APT 28 (aka Fancy Bear），在全世界感染了 50 万路由器，它的一个攻击模块甚至能尝试将 HTTPS 连接降级为明文 HTTP 连接。在  VPNFilter 曝光之后，黑客开发了新的恶意程序。Cyclops Blink 被发现能修改 WatchGuard 设备的固件，篡改用于验证固件镜像合法的 HMAC 值，让包含恶意功能的固件能合法运行。修改后的固件包含了一个硬编码的 RSA 公钥用于 C2 通信。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-25T06:55:50Z",
+  "Author": "WinterIsComing"
+}

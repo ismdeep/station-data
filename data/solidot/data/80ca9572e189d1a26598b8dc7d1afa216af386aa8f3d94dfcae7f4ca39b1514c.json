@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 数据中心尝试转向主线内核",
+  "Link": "https://www.solidot.org/story?sid=69153",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 数据中心产品系统运行的内核被称为 Prodkernel，它是基于旧版本的  Linux kernel，加上 Google 打上的大约 9000 个补丁，补丁包括各种内部 API、硬件支持、性能优化，以及其它必要的微调。每隔两年左右时间，这些补丁会移植到较新版本的 Linux kernel。Google 发现这种工作模式面临越来越大的挑战，原因包括：内核在两年中变化很大，跟踪 bug 会耗费大量时间。但 Google 也无法直接使用主线内核，因为它的工作负荷需要的某个特性在主线内核中可能并不存在。雪上加霜的是，Google 为其产品开发的每一个特性都是在 Prodkernel 上开发和测试的。Prodkernel 与主线内核之间的巨大差异给开发增加了越来越多的难度。为了解决这个问题，\u003ca href=\"https://lwn.net/SubscriberLink/871195/d7e9acf5894446e6/\" target=\"_blank\"\u003e\u003cu\u003eGoogle 发起了一个新的内核项目 Project Icebreaker\u003c/u\u003e\u003c/a\u003e，旨在解决两个问题：紧跟主线内核，让 Google 为产品引入的新特性能更容易递交到上游的主线内核；能在内核生产环境中运行任意 Google 程序，在 Prodkernel 变更内核版本前验证上游变化。目前 Icebreaker 是基于 5.13 kernel，而最新的内核版本是 5.14，5.15 处于候选发布状态。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-08T05:21:33Z",
+  "Author": "WinterIsComing"
+}

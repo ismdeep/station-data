@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究显示智能电视是数据收集机器",
+  "Link": "https://www.solidot.org/story?sid=62218",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t普林斯顿大学的\u003ca href=\"https://tv-watches-you.princeton.edu/tv-tracking-acm-ccs19.pdf\"\u003e\u003cu\u003e研究\u003c/u\u003e\u003c/a\u003e显示，联网智能电视加载了\u003ca href=\"https://www.theverge.com/2019/10/11/20908128/smart-tv-surveillence-data-collection-home-roku-amazon-fire-princeton-study\"\u003e\u003cu\u003e大量的跟踪程序\u003c/u\u003e\u003c/a\u003e。如果你使用 Roku 或 Amazon Fire 等设备，那么有很多公司能对你正在观看的内容构建相对全面的画面。普林斯顿计算机科学副教授 Arvind Narayanan 和同事开发了一个机器人程序自动在 Roku 和 Amazon Fire 上安装了数千个频道，然后它模拟人类行为去浏览和观看视频，在播放广告时它会跟踪幕后的数据收集。设备类型、城市等信息对用户来说称不上唯一，但设备序列号、Wi-Fi 和广告 ID 则能跟踪到个人。某些频道甚至会向跟踪器发送未加密的电邮地址和视频标题。研究在 69% 的 Roku 频道和 89% 的 Amazon Fire 频道上发现了跟踪器，许多跟踪服务商属于 Google 等知名企业，但还有许多鲜为人知。89% 的 Roku 频道发现了 Google 的广告服务 DoubleClick。搜索巨人在一份声明中表示它制定了保护用户隐私的行业准则。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-12T14:22:24Z",
+  "Author": "wenfeixiang"
+}

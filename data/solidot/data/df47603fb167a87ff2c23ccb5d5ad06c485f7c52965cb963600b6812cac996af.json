@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布工具修复错误安装到系统中的惠普打印软件",
+  "Link": "https://www.solidot.org/story?sid=76937",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本月初，微软披露了一个与打印机相关的 bug：没有连接惠普打印机的 Windows 用户的系统中突然安装了惠普打印机软件。微软没有公开解释问题的根源，但被认为与打印机元数据有关。它现在释出了一个工具 KB5034510: Microsoft Printer Metadata Troubleshooter Tool，该工具将从系统中移除所有惠普打印机软件和相关数据（如果用户没有使用惠普打印机）。微软发布了 4 个版本，针对 Arm 和 x86 系统分别提供了 32 位 和 64 位版本。\n\n\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://support.microsoft.com/en-us/topic/kb5034510-microsoft-printer-metadata-troubleshooter-tool-december-2023-b3197f24-fd25-430d-96d2-70f2044ce6a1\u003cbr/\u003e\nhttps://arstechnica.com/?p=1991945\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-20T13:33:11Z",
+  "Author": "Wilson"
+}

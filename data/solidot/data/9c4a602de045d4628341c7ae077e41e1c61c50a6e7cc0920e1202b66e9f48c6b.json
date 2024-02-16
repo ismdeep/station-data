@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails 5.5 发布",
+  "Link": "https://www.solidot.org/story?sid=73107",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名发行版 Tail OS \u003ca href=\"https://tails.boum.org/news/version_5.5/index.en.html\"\u003e\u003cu\u003e发布了 5.5 版本\u003c/u\u003e\u003c/a\u003e，主要新特性为更新到 Thunderbird 102，其中包括 OpenPGP 功能的可用性改进，密钥助手将帮助用户解决密钥相关问题；Tor Browser 11.5.4，Linux kernel 5.10.140，wget 命令行工具每次都会使用不同 Tor 回路，等等。Tail OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下使用痕迹。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-19T10:12:58Z",
+  "Author": "WinterIsComing"
+}

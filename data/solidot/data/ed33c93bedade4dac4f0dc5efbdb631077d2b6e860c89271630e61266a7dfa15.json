@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ChatGPT 加入对插件的支持",
+  "Link": "https://www.solidot.org/story?sid=74482",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 宣布它的 AI 聊天机器人 ChatGPT 加入对插件的初步支持。插件开发者现在可以加入一个等待名单等候批准。OpenAI 称，自 ChatGPT 推出以来，用户就要求支持插件，因为插件将能解开大量可能的用例。OpenAI 表示它将采用逐步扩大的方式，创建一个庞大的插件库，首批插件由 Expedia、FiscalNote、Instacart、KAYAK、Klarna、Milo、OpenTable、Shopify、Slack、Speak、Wolfram 和 Zapier 创建。以 Wolfram 为例， 当用户输入一个问题，ChatGPT 会将问题格式化，然后发送给 Wolfram|Alpha 进行计算，对于返回的计算结果 ChatGPT 会决定用什么方式回复用户。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://openai.com/blog/chatgpt-plugins\u003cbr/\u003e\nhttps://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-24T05:53:54Z",
+  "Author": "Wilson"
+}

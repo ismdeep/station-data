@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Overgrowth 开源",
+  "Link": "https://www.solidot.org/story?sid=71356",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《Overgrowth》的开发商 Wolfire Games \u003ca href=\"http://blog.wolfire.com/2022/04/Overgrowth-Open-Source-Announcement\"\u003e\u003cu\u003e宣布游戏开源\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/WolfireGames/overgrowth\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 Apache License 2.0 许可证。《Overgrowth》只开源了游戏代码，游戏数据如素材和关卡仍然需要通过合法购买（\u003ca href=\"https://www.humblebundle.com/store/overgrowth\"\u003eHumble Store\u003c/a\u003e 和 \u003ca href=\"https://www.humblebundle.com/store/overgrowth\"\u003eSteam\u003c/a\u003e）获得，Wolfire Games 同时宣布了游戏降价，美版降价三分之一至 20 美元，国区版从 90 元降至 70 元。开发商表示它并不建议其他开发者使用源代码创建游戏，因为存在更优秀的开源引擎如 Godot，但对游戏感兴趣的人或社区 Mod 开发者可以借鉴和利用它。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-25T15:26:13Z",
+  "Author": "WinterIsComing"
+}

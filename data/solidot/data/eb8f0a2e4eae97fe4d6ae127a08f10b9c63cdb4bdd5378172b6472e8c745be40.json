@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub CLI 1.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65576",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub 的命令行工具 CLI \u003ca href=\"https://github.blog/2020-09-17-github-cli-1-0-is-now-available/\"\u003e\u003cu\u003e发布了 1.0 正式版本\u003c/u\u003e\u003c/a\u003e。GitHub CLI 允许开发者在终端内直接操作 GitHub 的各项功能，如 pull requests 和 issues，减少上下文切换，专注于工作。GitHub CLI 1.0 让开发者可以在终端完成整个开发到发布的工作流；允许开发者为任意命令创建别名，能直接访问  GitHub API，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T04:24:22Z",
+  "Author": "WinterIsComing"
+}

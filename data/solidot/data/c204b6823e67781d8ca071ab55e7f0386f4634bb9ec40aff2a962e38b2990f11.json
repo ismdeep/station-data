@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "曹子德和 Greg-KH 等重新当选为 Linux 基金会技术咨询委员会成员",
+  "Link": "https://www.solidot.org/story?sid=69055",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2021 Kernel Summit 和 Linux Plumbers Conference 会议期间 Linux 内核社区对基金会的技术咨询委员会举行了年度选举，五名现任成员 Greg Kroah-Hartman、Jonathan Corbet、Steven Rostedt、Ted Ts\u0026#39;o（曹子德）和 Sasha Levin \u003ca href=\"https://lwn.net/Articles/870403/\"\u003e\u003cu\u003e重新当选\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://lore.kernel.org/lkml/fccbdadc-a57a-f6fe-68d2-0fbac2fd6b81@labbott.name/\"\u003e\u003cu\u003e有资格投票\u003c/u\u003e\u003c/a\u003e的开发者需要有 3 个以上 commit，其中至少一个是 2020 年或 2021 年内，超过 50 个 commit 的开发者将自动获得投票资格，3 到 49 个 commit 的开发者则需要通过电邮要求投票。共有 1,012 名开发者获得投票资格。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-26T03:10:37Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Disney+ 服务降低 DRM 安全等级，Linux 用户现在能正常使用",
+  "Link": "https://www.solidot.org/story?sid=62894",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t迪士尼的流媒体服务 Disney+ \u003ca href=\"https://www.bleepingcomputer.com/news/linux/disney-now-works-in-linux-after-drm-tweak/\" target=\"_blank\"\u003e\u003cu\u003e降低了 DRM 安全等级\u003c/u\u003e\u003c/a\u003e，Linux 用户现在能正常使用。在上线之初，访问 Disney+ 的 Linux 用户会返回错误码 83 的报错信息。原因是 Disney+ 使用了 Google 旗下 Widevine 提供 DRM 技术，Widevine 的 DRM 有三个安全级别，Disney+ 设定了最高的安全等级，而 Linux PC 和许多 Android 设备只支持最低安全等级。对于 Firefox 用户，如果要正常播放 Disney+ 流媒体，用户还需要启用 Play DRM-controlled content 设置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-09T10:56:33Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "不怕苍蝇拍的软体昆虫机器人",
+  "Link": "https://www.solidot.org/story?sid=63008",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t瑞士洛桑联邦理工学院的研究人员\u003ca href=\"https://techcrunch.cn/2019/12/19/this-tiny-soft-robo-bug-scoots-with-smarts-and-survives-swats/\"\u003e\u003cu\u003e研发出\u003c/u\u003e\u003c/a\u003e一种非常牢固的软体昆虫机器人 DEAnsect，能抵抗苍蝇拍的打击。\u003ca href=\"https://robotics.sciencemag.org/content/4/37/eaaz6451\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Science Robotics》期刊上。DEAnsect 中的 DEA 指 “介电弹性体致动器”，利用 3 只小腿移动，每当电流改变弹性体的形状时，这些小腿就会略微前进一点，从而带动机器人向前移动。EAnsect 能以每秒 0.3 个自身体长的速度向前滑动。这个速度难以比拟蟑螂或蜘蛛道，但胜过了其他自供电的微型机器人。DEAnsect 足够强壮，不仅可以携带电池，还能携带一些板载电子元件（，这让它能够遵循一些基本的逻辑运行。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-20T06:44:42Z",
+  "Author": "WinterIsComing"
+}

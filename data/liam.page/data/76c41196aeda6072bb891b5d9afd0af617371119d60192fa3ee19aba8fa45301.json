@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "快速生成 HTML 表格代码",
+  "Link": "https://liam.page/2020/07/29/tools-for-generating-HTML-table/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e最近写博客的时候，需要用到表格。然后不可避免地再次发现 Markdown 孱弱的表格语法，于是又一次不能忍。\u003c/p\u003e\n\u003cp\u003e于是发现了这个\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://www.tablesgenerator.com/html_tables\"\u003e神奇的网站\u003c/a\u003e。它允许你从 Excel 当中贴入设计好的表格，然后自动生成相应的 HTML 表格代码（及所需的 CSS 样式表）。\u003c/p\u003e\n\u003cp\u003e简直是神器！\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2020-07-28T16:27:53Z",
+  "Author": "Liam Huang"
+}

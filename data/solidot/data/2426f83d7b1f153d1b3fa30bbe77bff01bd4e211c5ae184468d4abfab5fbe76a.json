@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 礼貌的批评一位开发者的博文",
+  "Link": "https://www.solidot.org/story?sid=63178",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2018 年，Linux 作者 Linus Torvalds 在因语言礼貌问题备受非议之后\u003ca href=\"https://www.solidot.org/story?sid=58018\" target=\"_blank\"\u003e\u003cu\u003e宣布反省\u003c/u\u003e\u003c/a\u003e一段时间，接受礼貌训练的 Torvalds 之后其言论不再咄咄逼人，而是变得非常绅士。在一位 C++ 开发者 Malte Skarupke 声称 \u003ca href=\"https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/\"\u003e\u003cu\u003eLinux 存在调度器问题\u003c/u\u003e\u003c/a\u003e，影响了开发者为 Google 的云平台 Google Stadia 提供 Linux 游戏之后，Linus Torvalds 回应称他的博文\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Torvalds-On-Scheduler-Woes\"\u003e\u003cu\u003e纯粹胡扯\u003c/u\u003e\u003c/a\u003e，根本不懂调度器。他的回应听起来苛刻，但其实还是非常的有礼貌，没有进行任何可能的人身攻击，而是很有耐心的讲述这篇有关调度器的博文究竟错在什么地方。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-06T11:44:10Z",
+  "Author": "WinterIsComing"
+}

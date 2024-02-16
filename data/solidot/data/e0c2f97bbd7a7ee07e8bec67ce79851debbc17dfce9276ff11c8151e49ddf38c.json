@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客组织利用 CAPTCHA 阻止自动检测工具",
+  "Link": "https://www.solidot.org/story?sid=64717",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t全自动区分计算机和人类的图灵测试 CAPTCHA 让很多人类感到困恼，现在恶意攻击者被发现利用它去阻止自动检测工具。微软\u003ca href=\"https://arstechnica.com/information-technology/2020/06/to-evade-detection-hackers-are-requiring-targets-to-complete-captchas/#p3\"\u003e\u003cu\u003e最近发现了\u003c/u\u003e\u003c/a\u003e一个传播恶意 Excel 文档的黑客组织 Chimborazo，它使用的一个网站要求访问者完成 CAPTCHA 测试。此举被认为旨在阻止白帽黑客使用的自动检测工具。Chimborazo 传播的恶意 Excel 文档包含了宏，启用之后会安装木马程序 GraceWire 去窃取用户的敏感信息如密码。Chimborazo 主要使用钓鱼邮件传播恶意文件，但钓鱼方式经常会发生变化，钓鱼邮件有时候包含附件，有时候包含链接会重定到钓鱼网站，但当受害者点击链接访问钓鱼网站时，它会要求完成  CAPTCHA 测试。完成测试意味着是真实的人类而不是机器人程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-20T04:58:21Z",
+  "Author": "WinterIsComing"
+}

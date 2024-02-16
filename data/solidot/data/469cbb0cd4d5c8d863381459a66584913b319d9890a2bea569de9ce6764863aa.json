@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为开源方舟编译器",
+  "Link": "https://www.solidot.org/story?sid=61937",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华为上周末在它的开源网站\u003ca href=\"https://code.opensource.huaweicloud.com/HarmonyOS/OpenArkCompiler\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e它的方舟编译器，但这次开源有些匆忙，上线不久就关闭访问（GitHub \u003ca href=\"https://github.com/Himself65/OpenArkCompiler\"\u003e\u003cu\u003e镜像\u003c/u\u003e\u003c/a\u003e），修改部分文件后才再次上线。此次开源的为编译器中间表示 IR + 中端语言实现，后续将开源前端、后端、编译优化；完整支持 Java 程序编译、JavaScript 语言应用的编译等。方舟编译器的不同寻常之处是它的许可证是官方开源云联盟推出的\u003ca href=\"https://code.opensource.huaweicloud.com/HarmonyOS/OpenArkCompiler/file?ref=master\u0026amp;path=license%252FLICENSE\"\u003e\u003cu\u003e木兰宽松许可证\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-02T10:08:12Z",
+  "Author": "wenfeixiang"
+}

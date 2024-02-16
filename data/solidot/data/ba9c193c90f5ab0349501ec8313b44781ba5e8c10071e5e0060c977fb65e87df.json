@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 生成的地下城游戏被玩家诱导创作儿童色情",
+  "Link": "https://www.solidot.org/story?sid=67720",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年 12 月，创业公司 Latitude 发布了文字冒险游戏《AI Dungeon》，演示新形式的人机协作。游戏利用了 OpenAI 的文本生成技术创造出受《龙与地下城》启发的由玩家选择的冒险游戏。当玩家输入一个想要他们的角色执行的动作或对白，算法将会产生下一阶段的无法预测的独特冒险。去年夏天，OpenAI 允许 Latitude 早期使用它更强大的文本生成技术的商业版本。上个月，OpenAI 称它发现《AI Dungeon》也\u003ca href=\"https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/\" target=\"_blank\"\u003e\u003cu\u003e展现了人机协作的黑暗面\u003c/u\u003e\u003c/a\u003e。监视系统发现部分玩家输入的文字能导致算法产生描述儿童色情的故事。OpenAI 要求 Latitude 立即采取行动。Latitude 上周启用了内容过滤系统。玩家随后抱怨过滤系统过度敏感，输入 8-year-old laptop 都会触发警告信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-09T09:27:16Z",
+  "Author": "WinterIsComing"
+}

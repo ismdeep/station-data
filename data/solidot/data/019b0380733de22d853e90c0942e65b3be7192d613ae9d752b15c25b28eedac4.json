@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GEDmatch 的家谱 DNA 数据库暴露",
+  "Link": "https://www.solidot.org/story?sid=65030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t家谱数据库网站 \u003ca href=\"https://gedmatch.com/\"\u003e\u003cu\u003eGEDmatch\u003c/u\u003e\u003c/a\u003e 因帮助警方破解了金州杀手等陈年悬案而闻名远扬，但也引发了用户隐私的争议。GEDmatch 因此\u003ca href=\"https://www.solidot.org/story?sid=60925\"\u003e\u003cu\u003e修改了授权\u003c/u\u003e\u003c/a\u003e，只允许执法机构访问明确授权的用户 DNA 数据，它的 145 万用户只有 28 万允许警方搜索 DNA 进行匹配。但上周末，去年 12 月收购 GEDmatch 的 Verogen \u003ca href=\"https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy\" target=\"_blank\"\u003e\u003cu\u003e声称遭到黑客攻击\u003c/u\u003e\u003c/a\u003e，它的数据库突然之间所有用户授权被重置，所有用户家谱数据可以被任何人访问。黑客攻击之后 GEDmatch 很快恢复了服务，但用户授权再次发生问题，这一次屏蔽了所有搜索。GEDmatch 随后再次下线进行维护。7 月 21 日另一个家谱网站\u003ca href=\"https://www.myheritage.com/\"\u003e\u003cu\u003e MyHeritage\u003c/u\u003e\u003c/a\u003e 称其用户遭到钓鱼攻击，攻击者使用了窃取自 GEDmatch 的电邮地址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-23T13:06:34Z",
+  "Author": "WinterIsComing"
+}

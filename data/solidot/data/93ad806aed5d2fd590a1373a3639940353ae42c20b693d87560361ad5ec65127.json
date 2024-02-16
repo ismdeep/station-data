@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvald 的最新开发机细节",
+  "Link": "https://www.solidot.org/story?sid=64493",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvald 主力开发计算机 CPU 最近英特尔切换到了 AMD，Linux 作者\u003ca href=\"https://www.zdnet.com/article/look-whats-inside-linus-torvalds-latest-linux-development-pc/\" target=\"_blank\"\u003e\u003cu\u003e详细介绍了机器的细节\u003c/u\u003e\u003c/a\u003e，称他以前在换新电脑时通常会重复利用部分组件，如硬盘或机箱，但这一次新电脑都是全新组件。因新冠疫情，这一次都是从亚马逊上购买了零部件进行组装。他上一台机器用的是 i9-9900k，新电脑替换为 32 核 64 线的 AMD 线程撕裂者 3970x，主板为技嘉 Aorus TRX40 Master，风扇是猫头鹰 NF-A14 PWM Premium Quiet Fan（Torvald 有点担忧水冷的可靠性，宁愿用空气冷却系统），机箱是德国黑豹的 Dark Base 700，额外的风扇 Silent Wings 3，电源是海韵 Focus GX-850，固态硬盘三星 1 TB EVO 970，临时用的内存是 4x16GB DDR4-2666（在寻找支持 ECC 的内存），显卡是 Sapphire RX580，操作系统为 Fedora 32。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-28T06:42:47Z",
+  "Author": "WinterIsComing"
+}

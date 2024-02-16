@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 94 引入 Idle Detection API",
+  "Link": "https://www.solidot.org/story?sid=69020",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 释出了 Chrome 94，主要变化包括：引入 Idle Detection API，移除 AppCache，新的  VirtualKeyboard API，新的 JavaScript \u003ca target=\"_blank\" href=\"https://github.com/WICG/js-self-profiling\"\u003eSelf Profiling API\u003c/a\u003e 允许开发者从终端用户收集 JS 性能档案，等等。其中\u003ca href=\"https://www.theregister.com/2021/09/22/google_emits_chrome_94_with/\" target=\"_blank\"\u003e\u003cu\u003e最富有争议\u003c/u\u003e\u003c/a\u003e的是 Idle Detection API，它设计用于多用户应用如会议、聊天和游戏，当检测到用户空闲时通知应用，检测空闲根据鼠标键盘停止使用、锁屏、从当前应用运行窗口切换出去等信号。Mozilla 开发者 Tantek Çelik 认为 Idle Detection API 对监控资本主义非常有吸引力，能用于侵犯用户隐私，浪费计算机本地资源。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-22T15:40:08Z",
+  "Author": "WinterIsComing"
+}

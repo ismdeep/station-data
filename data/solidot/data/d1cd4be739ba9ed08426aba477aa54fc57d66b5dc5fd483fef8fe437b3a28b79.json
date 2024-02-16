@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 开发者调查显示只有十分之一的人还在用 Python 2",
+  "Link": "https://www.solidot.org/story?sid=64327",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 2 已经结束支持，根据 Python 软件基金会和 JetBrains 发布\u003ca href=\"https://www.jetbrains.com/lp/python-developers-survey-2019/\" target=\"_blank\"\u003e\u003cu\u003e的第三年度 Python 开发者调查\u003c/u\u003e\u003c/a\u003e，被调查者中只有十分之一的人还在用 Python 2。这项调查收到了 2.4 万多名开发者的回应，结果显示 59% 的开发者将 Python 用于数据分析，51% 用于 Web 开发，40% 机器学习，39% DevOps 和系统管理，37% 用于开发爬虫类 Web 工具，31% 软件测试，26% 教育，25% 原型，21% 网络编程，18% 桌面开发，14% 计算机图形，8% 嵌入式系统开发，7% 游戏开发，6% 移动开发。Web 开发仍然是 Python 最常见的用途，其次是数据分析、机器学习、DevOps 和系统管理。九成的开发者现在使用 Python 3，相比下 2018 年的比例是 84%。在继续用 Python 2 的开发者中，45% 将其用于 Web 开发，41% 用于 DevOps 和系统管理。如此多的开发者将 Python 2 用于 Web 开发的原因被认为是旧的遗留代码。Linux 是 Python 开发者最常用的开发系统，其次是 Windows 和 macOS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-11T09:20:48Z",
+  "Author": "WinterIsComing"
+}

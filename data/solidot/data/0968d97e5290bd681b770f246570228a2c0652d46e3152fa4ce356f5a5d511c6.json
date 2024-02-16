@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "幽灵必须死：漏洞利用幽灵'msg_msg'以及VED的防护策略",
+  "Link": "https://www.solidot.org/story?sid=73351",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHardenedVault 写道\u003ci\u003e \u0026#34;近年来不少针对Linux系统内核的漏洞利用攻击方式都会利用一个名为msg_msg的神奇结构体作为利用早期阶段的部署展开，比如信息泄漏的攻击场景，对于系统安全的纵深防御体系越早的检测和阻断对于防御的一方越有利，赛博堡垒（HardenedVault）的Linux内核疫苗方案VED（Vault Exploit Defense）的一个2022版本的特性可以针对这种攻击方法免疫，并测试了主流的公开的漏洞利用。VED 维护了一个 msg_msg 的列表，计算每个 msg_msg 内容的 hash。 使用 msgrcv() 读取或释放struct msg_msgseg next, size_t m_ts 和 void *security\u0026#39; 被污染的 msg_msg 将会被 VED 探测到。但是我们的检查并没有包含 stuct list_head m_list`， 这意味着如果该指针被污染并被释放，VED 并不能检查出来，因为他是由 msg_queue 来维护的。\nCVE-2021-22555: Turning \\x00\\x00 into 10000$ - Exploring struct msg_msg 就是这样一个例子. 但  VED 使用其他办法来进行防御。VED 添加了越界读取的检查。如果说读取目标缓存的长度和读取长度是不匹配的， VED 就能检查到污染。在漏洞利用中’size_t m_ts’的污染较容易达成越界读取， 并且实现 KASLR 绕过或者泄漏堆地址。VED 的检查能够有效检查到越界读取， 但是这个防御也是不完整的，精心制作的 msg 仍可能绕过。比如说， 存在 UAF/double free 漏洞的结构体，msg_msg 结构体，需要泄漏目标结构体， 三者的长度都是一致的，仍可以绕过 VED 的检查。\n\n\u003c/i\u003e\u003cp\u003e\u003ci\u003e这两个缓解措施均是可被绕过的，VED 目前的版本是基于 LKRG 实现的，检查的完整性与性能的平衡是需要考虑的。更加严密的 msg 是可能的，但是 kprobe 的检查点数量，计算量需要多的多。另外则是虽然这两个缓解措施均可被绕过，但是叠加两者，由于其中的检查是相互交叉的，比方说完整性检查包含的 struct msg_msgseg *next, size_t m_ts，和越界检查。这使得漏洞利用需要依赖于原代码路径来实现堆喷，和更依赖同类型的 object 之间的污染，使得 msg 的漏洞利用困难程度上升。当然这些专门的绕过对资深的内核黑客来说不会是多大的问题。VED 也在探索更加完整并且平衡性能损耗的方案。\u0026#34;\n\u003c/i\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e\nhttp://https://hardenedvault.net/blog/2022-11-13-msg_msg-recon-mitigation-ved/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-13T14:23:58Z",
+  "Author": "WinterIsComing"
+}

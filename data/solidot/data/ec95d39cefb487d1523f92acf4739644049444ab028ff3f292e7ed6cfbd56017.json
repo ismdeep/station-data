@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软的 DreamWalker VR 将每日通勤变成沉浸式体验",
+  "Link": "https://www.solidot.org/story?sid=62341",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软研究院的研究人员\u003ca href=\"https://arstechnica.com/gadgets/2019/10/microsofts-dreamwalker-vr-turns-your-daily-commute-into-a-totally-different-one/\"\u003e\u003cu\u003e开发出\u003c/u\u003e\u003c/a\u003e一种新的 VR 技术，研究人员声称新的技术允许用户完全沉浸在虚拟世界的同时在现实世界里自由穿梭。微软称新的项目为 \u003ca href=\"https://www.microsoft.com/en-us/research/publication/dreamwalker-substituting-real-world-walking-experiences-with-a-virtual-reality/\"\u003eDreamWalker\u003c/a\u003e，目前还较为原始，它引入了方法在现实世界里安全导航。研究人员将在 ACM Symposium on User Interface Software and Technology 研讨会上介绍\u003ca href=\"https://www.microsoft.com/en-us/research/uploads/prod/2019/10/uist19a-DreamWalker_small.pdf\"\u003e\u003cu\u003e他们的方法（PDF）\u003c/u\u003e\u003c/a\u003e。真实世界的路线与相应的虚拟世界根据地理位置数据提前计划好，然后根据不受控的室外环境要求实时更新。用户在现实世界穿梭时遭遇的任何潜在障碍都会被 VR 设备上的实时传感技术记录下来。那些障碍可能会被虚拟世界里的障碍替换，类似游戏的任务导航箭头将会引导用户安全绕过障碍。研究人员的 DreamWalker VR 原型包括了 VR 头戴式设备、双频 GPS 手机以及背包里执行大量计算的高性能计算机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T08:50:57Z",
+  "Author": "WinterIsComing"
+}

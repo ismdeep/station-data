@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla Thunderbird Beta 默认启用对 Matrix 的支持",
+  "Link": "https://www.solidot.org/story?sid=71195",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t电邮客户端 Mozilla Thunderbird 的最新\u003ca href=\"https://support.mozilla.org/kb/thunderbird-beta\"\u003e\u003cu\u003e Beta 版本\u003c/u\u003e\u003c/a\u003e默认启用了对 Matrix 的\u003ca href=\"https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird\"\u003e\u003cu\u003e支持\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://matrix.org/blog/home/\"\u003eMatrix\u003c/a\u003e 是一个端对端加密、去中心化的实时通讯系统。没有中心服务器。Thunderbird 的最新版本改进了 Matrix 实现，端对端加密支持基本完成，支持显示格式化信息，home server discovery，消息编辑，延迟加载房间成员，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-09T05:29:10Z",
+  "Author": "WinterIsComing"
+}

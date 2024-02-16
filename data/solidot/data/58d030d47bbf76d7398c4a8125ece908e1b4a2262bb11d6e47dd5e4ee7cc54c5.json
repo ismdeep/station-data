@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员演示对特斯拉汽车的蓝牙中继攻击",
+  "Link": "https://www.solidot.org/story?sid=71543",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员演示了对特斯拉汽车的\u003ca href=\"https://duo.com/decipher/researchers-demo-relay-attack-against-bluetooth-le-systems\"\u003e蓝牙中继攻击\u003c/a\u003e。Bluetooth LE 近距离身份验证设计允许一个受信任的设备去解锁附近的另一个设备，比如特斯拉可以使用智能手机作为钥匙解锁汽车。所谓中继攻击就是恶意设备中继合法设备的身份验证信号。这是一个已知的问题，通常的防御方法是对链路层发送的请求进行加密或者限制响应时间。安全研究人员在一辆 2020 年款 Tesla Model 3 汽车上演示了中继攻击。攻击工具运行在一部 iPhone 13 mini 手机上，iPhone 距离汽车 25 米，位于蓝牙通信距离范围外，iPhone 和汽车之间部署了两个中继设备。研究人员利用工具远程解锁了特斯拉汽车。这项研究显示链路层加密和限制响应时间都无法阻止中继攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-17T06:06:49Z",
+  "Author": "WinterIsComing"
+}

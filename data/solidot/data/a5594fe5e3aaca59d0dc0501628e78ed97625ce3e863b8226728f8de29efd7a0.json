@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用 VMware 0day 漏洞长达两年时间",
+  "Link": "https://www.solidot.org/story?sid=77190",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Mandiant 披露，黑客组织 UNC3886 至少从 2021 年开始利用一个去年 10 月才修复的 vCenter Server 0day 漏洞 CVE-2023-34048。黑客利用该漏洞入侵目标的 vCenter 服务器，窃取凭证，使用特制的 vSphere Installation Bundles (VIBs)在 ESXi 主机上部署 VirtualPita 和 VirtualPie 后门。然后他们利用 CVE-2023-20867 VMware Tools 身份验证绕过漏洞提权、收集文件，从客户虚拟机中渗出。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-vmware-bug-as-zero-day-for-two-years/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-22T08:24:57Z",
+  "Author": "Wilson"
+}

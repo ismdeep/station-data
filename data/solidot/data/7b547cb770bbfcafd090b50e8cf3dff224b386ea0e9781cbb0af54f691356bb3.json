@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Slackware 15.0 Beta 释出",
+  "Link": "https://www.solidot.org/story?sid=67504",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSlackware 发行版还活着，它刚刚释出了 15.0 Beta。Slackware 是至今仍在维护的历史最悠久的 Linux 发行版。它的上一个稳定版本 \u003ca href=\"http://www.slackware.com/index.html\" target=\"_blank\"\u003e\u003cu\u003eSlackware 14.2 \u003c/u\u003e\u003c/a\u003e还是在 2016 年发布的。15.0 Beta 的\u003ca href=\"https://www.debugpoint.com/2021/04/slackware-15-0-beta/\"\u003e\u003cu\u003e变化\u003c/u\u003e\u003c/a\u003e包括：KDE Plasma 5.21、Xfce 4.16 和 GNOME 3.36/3.38，内核版本为 Linux Kernel 5.10.x，可选 Kernel 5.11，其它应用包括 Python 3.9，Mozilla Firefox 87 和 \nThunderbird 78.9.1。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-15T15:43:47Z",
+  "Author": "WinterIsComing"
+}

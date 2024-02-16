@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NASA 科学家称在月球上也能使用 GPS",
+  "Link": "https://www.solidot.org/story?sid=63856",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当宇航员重返月球，他们有很多工作要做，其中最重要的是寻找冰。他们需要精确导航到冰所在的位置。但月球轨道上并没有类似地球的导航卫星如 GPS。那么地球轨道上的 GPS 卫星发射的信号\u003ca href=\"https://spectrum.ieee.org/tech-talk/aerospace/satellites/can-astronauts-use-gps-to-navigate-on-the-moon-nasa-scientists-say-yes\"\u003e\u003cu\u003e是否能在月球上接收使用\u003c/u\u003e\u003c/a\u003e？NASA JPL 的 Kar-Ming Cheung 和 Charles Lee 进行了一番计算，认为是可以的。地球轨道上的导航卫星包括美国 GPS、欧洲伽利略和俄罗斯的 GLONASS 总有 81 颗，绝大部分有向地球表面传输信号的定向天线，但这些信号会辐射到太空，信号强度足以被月球附近的飞船接收到。一艘月球轨道上的飞船在任何时候能接收到 5 到 13 颗导航卫星的信号，定位精度能达到 200 到 300 米。研究人员认为利用多种方法精度还可以进一步提高。但宇航员着陆之后导航会比较困难，信号会被山丘之类的屏障阻挡。NASA 科学家认为可以将月球轨道上的中继卫星作为定位信标。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-18T08:32:20Z",
+  "Author": "WinterIsComing"
+}

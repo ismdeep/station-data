@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数以千计的服务器感染 Lilocked 勒索软件",
+  "Link": "https://www.solidot.org/story?sid=62032",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数以千计的服务器\u003ca href=\"https://www.zdnet.com/article/thousands-of-servers-infected-with-new-lilocked-lilu-ransomware/\" target=\"_blank\"\u003e\u003cu\u003e感染了\u003c/u\u003e\u003c/a\u003e名为 Lilocked (Lilu)的勒索软件。最早的感染是在 7 月中旬报告的，最近两周愈演愈烈，它被认为主要针对的是 Linux 服务器，可能利用旧版本  Exim 软件的漏洞，但还不清楚勒索软件是如何获得服务器的 root 访问的。勒索软件并不加密全盘文件，而只是 HTML、SHTML、JS、CSS、PHP、INI 等文件格式，加密后的文件扩展变为 \u0026#34;.lilocked，感染勒索软件的服务器仍然能正常运行。勒索软件作者留下了名为 #README.lilocked 勒索通知，因此你可以通过 Google 搜索该文件名找到感染了 Lilocked 的服务器，\u003ca href=\"https://www.google.com/search?client=firefox-b-d\u0026amp;ei=vzF3Xc_yEorC-gTs_oqYAw\u0026amp;q=intitle%3A%22index+of%22+%22%23README.lilocked%22\"\u003e\u003cu\u003e输入\u003c/u\u003e\u003c/a\u003e intitle:\u0026#34;index of\u0026#34; \u0026#34;#README.lilocked\u0026#34;返回了 6000 多个结果，安全研究人员称 Lilocked 加密了 6700 多台服务器，许多感染的服务器都被 Google 索引和缓存了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-10T05:19:03Z",
+  "Author": "wenfeixiang"
+}

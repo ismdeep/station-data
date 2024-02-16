@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ARM 支持开源的 Panfrost Gallium3D 驱动",
+  "Link": "https://www.solidot.org/story?sid=65592",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMesa 的 Panfrost Gallium3D 开源驱动提供了对 ARM 的 Mali Midgard 和 Bifrost GPU 的支持，它最初始于对私有 Mali 图形驱动的逆向工程，进展缓慢，但随着主要开发者 Alyssa Rosenzweig 受雇于咨询公司 Collabora，项目取得了稳定进展。在 XDC2020 大会上，Alyssa \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Arm-Panfrost-Going-Official\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，ARM 支持 Panfrost Gallium3D 作为开源的 Mali 驱动。Alyssa 称，ARM 正与 Collabora 合作开发 Panfrost，在最近的一次更新中他们移除了三千多行代码，加入了接近一万行新代码，未来 Panfrost 将会更成熟支持更多平台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-20T13:00:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 迁移到四周发布周期",
+  "Link": "https://www.solidot.org/story?sid=62113",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 通常每 6 到 8 周发布一个大的版本。Mozilla 采用了分阶段发布策略，其中正式版之外的预发布版本包括了  \u003ca href=\"https://www.mozilla.org/firefox/channel/desktop/#nightly\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eFirefox Nightly\u003c/a\u003e、\u003ca href=\"https://www.mozilla.org/firefox/channel/desktop/#beta\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eBeta\u003c/a\u003e 和 \u003ca href=\"https://www.mozilla.org/firefox/developer/\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eDeveloper Edition\u003c/a\u003e。这一方法运转良好，现在 Mozilla 宣布它调整了节奏提高敏捷性，将\u003ca href=\"https://hacks.mozilla.org/2019/09/moving-firefox-to-a-faster-4-week-release-cycle/\"\u003e\u003cu\u003e迁移到四周的发布周期\u003c/u\u003e\u003c/a\u003e。从 2020 年第一季度开始，Mozilla 将每四周发布一个大版本。扩展支持版 ESR 的发布节奏保持不变，仍然是每 12 个月发布一个大版本，两个版本之间有三个月的支持重叠期。Firefox 还将每周发布两个 Beta 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-18T02:51:00Z",
+  "Author": "wenfeixiang"
+}

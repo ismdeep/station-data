@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zoom 的自由软件替代",
+  "Link": "https://www.solidot.org/story?sid=64029",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在新冠疫情大流行的时代，Zoom 等私有软件几乎成为了工作必不可少的工具了。但其隐私安全也日益引起关注，找到 Zoom 的替代并不难，难的是为了拥有自主掌控的能力你需要自托管，这需要付出很多努力克服需要困难。为了软件自由，自由软件基金会（FSF）\u003ca href=\"https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch\" target=\"_blank\"\u003e\u003cu\u003e介绍了 Zoom 的自由软件\u003c/u\u003e\u003c/a\u003e替代并建议用户自行托管。语音会话的替代有 \u003ca href=\"https://directory.fsf.org/wiki/Mumble\"\u003e\u003cu\u003eMumble\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://directory.fsf.org/wiki/Asterisk\"\u003e\u003cu\u003eAsterisk/SIP\u003c/u\u003e\u003c/a\u003e；视频会话的替代有 \u003ca href=\"https://directory.fsf.org/wiki/Jitsi\" target=\"_blank\"\u003e\u003cu\u003eJitsi\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://directory.fsf.org/wiki/Jami\"\u003e\u003cu\u003eJami\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://obsproject.com/\"\u003e\u003cu\u003eOBS Studio\u003c/u\u003e\u003c/a\u003e；文字聊天的替代有 XMPP 客户端如 \u003ca href=\"https://f-droid.org/en/packages/eu.siacs.conversations/\"\u003eConversations.im\u003c/a\u003e 和 IRC 客户端如 \u003ca href=\"https://thelounge.chat/\"\u003eThe Lounge\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-04T10:47:40Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 12 将默认允许边下载边玩",
+  "Link": "https://www.solidot.org/story?sid=68273",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://youtu.be/e9JCRsLjDr4?t=1101\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e Android 12 和 Google Play Store 的一项新功能：默认\u003ca href=\"https://arstechnica.com/gadgets/2021/07/android-12s-play-as-you-download-scheme-will-make-games-start-twice-as-fast/\" target=\"_blank\"\u003e\u003cu\u003e允许边下载边玩\u003c/u\u003e\u003c/a\u003e。如果玩家下载一个大型游戏，在下载完成前就可以试玩。部分游戏商店很早就提供了边下载边玩的功能。这一功能的背后是游戏是由引擎、UI 、关卡等组成，游戏最主要的数据是图形、音频和预渲染视频等素材，因此如果能将游戏分成必要和次要部分，先下载必要部分然后在游戏过程中下载次要部分。Google 的演示显示，一个 127MB 大小的游戏在完成 20% 下载后就可以试玩。该功能由 Android 12 独占，利用了新的增量文件系统 Incremental FS。Google 此前提供了类似的 Instant Apps 功能，但主要用于演示并不能代替安装。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-13T13:37:24Z",
+  "Author": "WinterIsComing"
+}

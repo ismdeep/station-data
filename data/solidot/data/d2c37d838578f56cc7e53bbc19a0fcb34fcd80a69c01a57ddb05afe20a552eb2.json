@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ripple20 漏洞影响数亿设备",
+  "Link": "https://www.solidot.org/story?sid=64693",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以色列网络安全公司 JSOF 的研究人员在一个广泛使用的底层 TCP/IP 库中发现了一系列 0day 漏洞，这些漏洞被统称 \u003ca href=\"https://www.jsof-tech.com/ripple20/\" target=\"_blank\"\u003e\u003cu\u003eRipple20\u003c/u\u003e\u003c/a\u003e ，影响高达数亿的设备，包括大量的物联网设备，如电网设备、医疗系统、工业设备等等。这个 TCP/IP 库由软件公司 Treck 开发，它最早是在 1997 年发布的，实现了一个轻量级的  TCP/IP 堆栈，在二十多年里被企业广泛用于实现联网功能。JSOF 团队在这个库里发现了 19 个漏洞，可用于提权、拒绝攻击和信息泄露。受影响的财富 500 强企业包括惠普、施耐德、\u003ca href=\"https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00295.html\"\u003e\u003cu\u003e英特尔\u003c/u\u003e\u003c/a\u003e、罗克韦尔、卡特彼勒和巴克斯特。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-17T13:04:09Z",
+  "Author": "WinterIsComing"
+}

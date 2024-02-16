@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 测试移除搜索结果页网址",
+  "Link": "https://www.solidot.org/story?sid=63405",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome \u003ca href=\"https://tech.slashdot.org/story/20/02/03/059225/chrome-tests-removing-the-url-of-googles-search-results-page\" target=\"_blank\"\u003e\u003cu\u003e正在测试一项新特性\u003c/u\u003e\u003c/a\u003e：移除搜索结果页网址——地址栏显示搜索查询的关键词而不是执行搜索的网址。该功能被称为 Query in Omnibox，默认没有启用，Google 正在进行测试，对部分用户启用了这一功能。该功能没有启用的话地址栏仍然会展示网址而不是关键词。2018 年《连线》曾报道称 Google 计划杀死网址，现在看起来这一计划正在推进之中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-03T11:23:04Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD  5800X3D 不能超频",
+  "Link": "https://www.solidot.org/story?sid=70988",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 第一款采用 3D 缓存技术的芯片 \u003ca href=\"https://www.amd.com/en/press-releases/2022-03-15-amd-launches-the-ultimate-gaming-processor-brings-enthusiast-performance\" target=\"_blank\"\u003e\u003cu\u003e5800X3D\u003c/u\u003e\u003c/a\u003e 也是第一款\u003ca href=\"https://arstechnica.com/gadgets/2022/03/speedy-new-5800x3d-is-amds-first-non-overclockable-ryzen-processor/\" target=\"_blank\"\u003e\u003cu\u003e不支持超频\u003c/u\u003e\u003c/a\u003e的 Ryzen 处理器。5800X3D 将在 4 月 20 日上市，售价 449 美元，AMD 称它是当前性能最强的游戏 CPU。AMD 技术营销总监 Robert Hallock 称 5800X3D 的电压被锁定在 1.35 伏。低电压意味着会产生更少的热量，原因可能是 3D 缓存技术增加的 64MB L3 缓存产生了更多的热余量。Hallock 表示，未来采用 3D 缓存技术的 CPU 不会限制超频。AMD 的 CPU 一般不会锁定频率，而英特尔 CPU 如果要超频的话则需要购买更昂贵的 K 系列处理器和 Z 系列主板。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-18T10:15:47Z",
+  "Author": "WinterIsComing"
+}

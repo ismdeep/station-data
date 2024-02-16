@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 项目不缺钱缺开发者",
+  "Link": "https://www.solidot.org/story?sid=65509",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 项目领导人(DPL) Jonathan Carter 在 DebConf20 虚拟大会上\u003ca href=\"https://www.theregister.com/2020/09/10/debian_project_address/\"\u003e\u003cu\u003e谈论了面临的主要问题\u003c/u\u003e\u003c/a\u003e：项目不缺钱，缺的是开发者。Debian 是影响力最大的 Linux 发行版之一，是流行发行版如  Ubuntu 和 Linux Mint 等的构建基础，被广泛用于云服务。Carter 说，Debian 项目的银行账户里有超过 90 万美元，如果真需要钱的话，赞助商是乐于伸出援手的。他说，社区的文化是不花不必要的钱，Debian 项目成员对花钱会感到内疚。但项目缺少足够的开发者。统计显示 Debian 项目有 975 名开发者和 223 名维护者，这是远远不够的。以代号为 Bullseye 的 Debian 11 为例，amd64 二进制包的数量就超过 6.1 万，在可预见的未来包数量将会突破 10 万。如何吸引更多志愿者？增加多元化，吸引更多非裔和女性开发者，举办更多的 Debian 地区性活动，降低进入项目的门槛。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-11T06:21:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 调查显示远程工作的开发者无计划重返办公室",
+  "Link": "https://www.solidot.org/story?sid=69702",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大源代码托管平台 GitHub \u003ca href=\"https://octoverse.github.com\"\u003e\u003cu\u003e公布了 2021 年度的开发者调查\u003c/u\u003e\u003c/a\u003e。它表示有 7300 万开发者，2021 年新增 1600 万，财富 500 强企业中有 84% 使用 GitHub 企业版，去年开发者创建了 6100 万新库，合并了 1.7 亿 Pull requests；活跃用户中间北美占 31.5% 亚洲占 31.2% 欧洲占 27.3%；最流行的语言仍然是 JavaScript，其次是 Python 和 Java；更少的审核者能增加 pull request 数量，每增加一名审核者工作日合并 pull request 的数量减少 17%；贡献者数量最多的项目是 Docker，它在全世界有 63.2 万贡献者，比 Linux 内核高不止一个数量级。在接受调查的 1.2 万开发者中，只有 10.7% 的开发者\u003ca href=\"https://www.zdnet.com/article/remote-work-developers-arent-planning-to-go-back-to-the-office/\" target=\"_blank\"\u003e\u003cu\u003e预期疫情结束后重返办公室\u003c/u\u003e\u003c/a\u003e。26.5% 的开发者在疫情前的工作地点都是远程办公，现在 38.8% 的开发者预计会完全远程办公。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-22T06:22:39Z",
+  "Author": "WinterIsComing"
+}

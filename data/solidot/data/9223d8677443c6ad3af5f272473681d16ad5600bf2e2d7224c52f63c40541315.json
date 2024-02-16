@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "网红前往深圳公司寻求对方遵守 GPLv2 授权",
+  "Link": "https://www.solidot.org/story?sid=68656",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t主打出口的深圳手机制造商优米公司（Umidigi）被一位波兰开发者根据 GPLv2 许可证要求提供内核源代码，她的 Umidigi F2 手机\u003ca href=\"https://wiki.postmarketos.org/wiki/Umidigi_F2_(umidigi-f2)#Display\" target=\"_blank\"\u003e\u003cu\u003e遇到了问题\u003c/u\u003e\u003c/a\u003e，想获得显示驱动源代码。Linux 内核采用的是 GPLv2 许可证，而 Umidigi F2 运行了一个修改版的 Linux 内核，根据 GPLv2 许可证要求该公司在发行产品时需要向消费者提供源代码。但优米公司的客服 Ben 的回答是她索要的驱动源代码大部分由联发科所有，如果要获得可共享的源代码可以在工作时间到该公司深圳办公室里来拿，表示办公室员工只会说普通话。生活在深圳的 Youtube 网红\u003ca href=\"https://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA\" target=\"_blank\"\u003e\u003cu\u003e吴淖米\u003c/u\u003e\u003c/a\u003e，aka SexyCyborg/机械妖姬，与这位波兰开发者在 Twitter 上\u003ca href=\"https://twitter.com/ptrcnull/status/1427593045478985745\"\u003e\u003cu\u003e达成协议\u003c/u\u003e\u003c/a\u003e代替对方到深圳办公室去拿源代码。\u003ca href=\"https://twitter.com/RealSexyCyborg/status/1428706989274583049\" target=\"_blank\"\u003e\u003cu\u003e结果\u003c/u\u003e\u003c/a\u003e 被告知 Ben 不在了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-24T03:45:16Z",
+  "Author": "WinterIsComing"
+}

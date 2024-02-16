@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊参与生成式 AI 竞赛",
+  "Link": "https://www.solidot.org/story?sid=74663",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在微软和 Google 之后，亚马逊也加入了生成式 AI 的竞赛，但它不是推出自己的 AI 聊天机器人，而是通过其 AWS 平台向用户提供大语言模型去构建自己的聊天机器人。亚马逊发布了 Bedrock 平台，向用户提供访问 Anthropic 和 AI21 开发的模型。亚马逊还提供了自己的模型，其中 Titan Text 能从提示生成文本，Text Embeddings 生成文本的数学表达，可用于翻译和搜索等任务。AWS 还提供了 Stability AI 的开源模型 Stable Diffusion。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.wired.com/story/amazon-is-joining-the-generative-ai-race/\u003cbr/\u003e\nhttps://aws.amazon.com/cn/bedrock/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-13T15:54:40Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox Preview 加入对扩展的支持",
+  "Link": "https://www.solidot.org/story?sid=63424",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 正在为移动平台开发新的浏览器 \u003ca href=\"https://support.mozilla.org/en-US/kb/add-compatibility-firefox-preview\"\u003e\u003cu\u003eFirefox Preview\u003c/u\u003e\u003c/a\u003e，采用新的移动渲染引擎 GeckoView，目前还在早期测试阶段，它在设计上与现有的移动版本 Firefox for Android 有不少区别，如地址栏位于屏幕的底部，默认启用跟踪保护，强调隐私。Firefox Preview 暂时还不支持扩展，开发者现在宣布\u003ca href=\"https://github.com/mozilla-mobile/fenix/pull/8064\" target=\"_blank\"\u003e\u003cu\u003e合并了\u003c/u\u003e\u003c/a\u003e扩展支持功能，唯一支持的扩展是著名的广告屏蔽扩展 uBlock Origin。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-05T06:01:01Z",
+  "Author": "WinterIsComing"
+}

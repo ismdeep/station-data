@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Valve 宣布 Linux 掌机 Steam Deck",
+  "Link": "https://www.solidot.org/story?sid=68299",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tValve \u003ca href=\"https://www.steamdeck.com/zh-cn/\"\u003e\u003cu\u003e正式宣布了\u003c/u\u003e\u003c/a\u003e运行 Linux 操作系统的掌机 \u003ca href=\"https://store.steampowered.com/steamdeck\"\u003e\u003cu\u003eSteam Deck\u003c/u\u003e\u003c/a\u003e，采用 AMD 的 APU（Zen 2 + RDNA 2），12 月发售，商品页面显示这款产品目前不对中国区开放预购。Valve 开发 Linux 掌机的消息早在今年五月就已\u003ca href=\"https://www.solidot.org/story?sid=67869\"\u003e\u003cu\u003e传出\u003c/u\u003e\u003c/a\u003e。Steam Deck 的显示屏为 7 英寸 LCD 分辨率 1280 x 800px，60Hz；CPU 为 4 核 8 线的 Zen 2，频率 2.4-3.5GHz，性能 448 GFlops FP32，GPU 为 8 个  RDNA 2 计算单元（CU），性能 1.6 TFlops FP32；内存 16 GB LPDDR5，可选储存 64 GB eMMC、256 GB NVMe SSD、512 GB 高速 NVMe SSD，提供了 microSD 卡插槽，操作系统为基于 Arch Linux 的 SteamOS。掌机的起售价为 399 美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-16T02:40:28Z",
+  "Author": "WinterIsComing"
+}

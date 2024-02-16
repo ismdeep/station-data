@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西部数据称远程安装的木马抹掉了 My Book 设备中的数据",
+  "Link": "https://www.solidot.org/story?sid=68147",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周西部数据\u003ca href=\"https://www.solidot.org/story?sid=68122\"\u003e\u003cu\u003e建议\u003c/u\u003e\u003c/a\u003e My Book Live 存储设备客户立即断开设备的网络连接，起因是用户报告设备中储存的数据全部被清空。受影响的型号为 My Book Live 和 Live Duo，西部数据在 2015 年停止销售该型号产品，最后一次固件更新是在 2015 年释出的。现在西部数据\u003ca href=\"https://www.westerndigital.com/support/productsecurity/wdc-21008-recommended-security-measures-wd-mybooklive-wd-mybookliveduo\"\u003e\u003cu\u003e判断\u003c/u\u003e\u003c/a\u003e是远程安装的木马抹掉了 My Book 设备中的数据。攻击者利用一个远程命令执行漏洞直接访问或通过端口转发访问了相关联网设备，安装了文件名为 \u003ca href=\"https://www.virustotal.com/gui/file/9f7edb6383ca58584d3c7bd038aa3bf29f0a544fe1eedb0f8c28af52245b70f0/detection\"\u003e\u003cu\u003e.nttpd,1-ppc-be-t1-z\u003c/u\u003e\u003c/a\u003e 的木马，它是一个 Linux ELF 二进制文件，编译运行在 My Book Live 和 Live Duo 使用的 PowerPC 架构上。西部数据的调查没有发现它的云服务、固件更新服务器等遭到入侵的证据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-28T15:00:47Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "The NFT Bay 是恶搞吗？",
+  "Link": "https://www.solidot.org/story?sid=69699",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t非同质化代币（non-fungible token，NFT）对应的作品在区块链上是唯一的，但作品本身则是可以无限复制。因此名叫 \u003ca href=\"https://thenftbay.org/\"\u003e\u003cu\u003eThe NFT Bay \u003c/u\u003e\u003c/a\u003e的网站模仿著名的 BT 网站海盗湾，将 Ethereum 和 Solana 区块链上的所有 NFT 作品打包存档为一个 17.8 TB 的\u003ca href=\"https://thenftbay.org/description.html\"\u003e\u003cu\u003e文件\u003c/u\u003e\u003c/a\u003e供任何人分享。由于文件容量如此之大，因此很少有人会真的去下载文件。一家 NFT 创业公司 ClubNFT 利用亚马逊云服务 AWS 创建了一个高达 40 TB 空间的实例，尝试下载该文件，它发现这个巨大的存档实际上有效数据只有 10GB，其余全是用零填充的。The NFT Bay \u003ca href=\"https://yro.slashdot.org/story/21/11/20/2323247/is-the-nft-bay-just-a-giant-hoax\"\u003e\u003cu\u003e被怀疑是恶搞\u003c/u\u003e\u003c/a\u003e。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-21T12:41:18Z",
+  "Author": "WinterIsComing"
+}

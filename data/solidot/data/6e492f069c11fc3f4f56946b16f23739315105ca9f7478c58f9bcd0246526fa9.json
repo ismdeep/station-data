@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenJDK 项目从 Mercurial 迁移到 GitHub",
+  "Link": "https://www.solidot.org/story?sid=65054",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenJDK 项目正从 Mercurial \u003ca href=\"https://www.infoq.com/news/2020/07/openjdk-github-migration/\" target=\"_blank\"\u003e\u003cu\u003e迁移到 GitHub\u003c/u\u003e\u003c/a\u003e，切换到 Git 源代码控制系统，预计迁移将在 2020 年 9 月完成。OpenJDK 从 2008 年起使用  Mercurial 管理源代码，如今部分 OpenJDK 项目如 Loom、Valhalla 和 JMC 已经迁移到 GitHub，还有部分项目正在迁移中，而到 9 月份 OpenJDK 主线也将正式加入进来。OpenJDK 是在 2018 年评估 Mercurial 的可能替代，其宗旨是提高新旧贡献者的生产力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-26T08:20:35Z",
+  "Author": "WinterIsComing"
+}

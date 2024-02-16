@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LibreOffice 6.3 发布",
+  "Link": "https://www.solidot.org/story?sid=61663",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tThe Document Foundation \u003ca href=\"https://blog.documentfoundation.org/blog/2019/08/08/tdf-announces-libreoffice-63/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 LibreOffice 6.3。LibreOffice 6.3 加入了大量新功能，改进了性能和互操作性。字处理 Writer 和电子表格 Calc 性能提升了一个量级；紧凑式 UI 给用户文档、电子表格和幻灯片留出更多的空间；改进了 PDF 导出，支持 PDF/A-2 文档格式；文档在导出或共享前能被编辑删除或隐藏敏感信息；改进了与  Microsoft Office 私有文档格式的互操作，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-09T04:35:56Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "梦工厂动画的 MoonRay 将开源",
+  "Link": "https://www.solidot.org/story?sid=72379",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 SIGGRAPH 国际图像学年会上，梦工厂动画\u003ca href=\"https://www.awn.com/news/dreamworks-animation-release-moonray-open-source\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e其私有渲染器 MoonRay 将在年内开源。 MoonRay 是梦工厂内部开发的蒙特卡洛路径追踪器，被用于制作《驯龙高手3（How to Train Your Dragon: The Hidden World）》、《疯狂原始人2（The Croods: A New Age）》、《坏蛋联盟》和即将在年底上映的《穿靴子的猫2（Puss in Boots: The Last Wish）》。MoonRay 使用的基于云端的分布式计算框架 Arras 也将包含在开源代码库中。源代码将采用 Apache 2.0 许可证，未来的更新将通过 \u003ca href=\"https://openmoonray.org/\" rel=\"external noopener noreferrer\" target=\"_blank\"\u003eOpenMoonRay.org\u003c/a\u003e 网站公布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-06T07:25:13Z",
+  "Author": "WinterIsComing"
+}

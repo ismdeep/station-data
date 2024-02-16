@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 21.04 发布",
+  "Link": "https://www.solidot.org/story?sid=67586",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCanonical 正式\u003ca href=\"https://ubuntu.com//blog/ubuntu-21-04-is-here\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Ubuntu \u003ca href=\"https://ubuntu.com/download\"\u003e\u003cu\u003e21.04\u003c/u\u003e\u003c/a\u003e。主要新特性包括：原生微软 Active Directory 集成，Ubuntu 机器可以在安装时加入 Active Directory（AD）域以进行集中配置，AD 管理员现在可以管理 Ubuntu 工作站，从而简化了对公司策略的合规性；默认使用 Wayland；Snap 版 Flutter SDK 构建集成；重新设计深色主题 Yaru，等等。软件方面的更新包括：5.11 Linux 内核，gcc 10.3.0，openssl 1.1.1，Openstack Wallaby、Rails 6、 QEMU 5.2、libvirt 7.0、Kubernetes 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-23T13:28:33Z",
+  "Author": "WinterIsComing"
+}

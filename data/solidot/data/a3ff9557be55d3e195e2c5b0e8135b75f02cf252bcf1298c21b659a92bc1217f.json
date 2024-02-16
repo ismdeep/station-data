@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英国与欧盟的脱欧协议拷贝了几十年前的旧文档",
+  "Link": "https://www.solidot.org/story?sid=66513",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国与欧盟达成的最新脱欧协议文件\u003ca href=\"https://www.bbc.com/news/technology-55475433\" target=\"_blank\"\u003e\u003cu\u003e被发现包含了几十年前的软件\u003c/u\u003e\u003c/a\u003e，专家相信起草协议的官员是直接拷贝了旧的法律文档。文件中推荐的现代电邮系统包括了  Outlook、Mozilla Mail 和 Netscape Communicator 4.x。后两个软件早在 1997 年就停止更新了。文件还推荐 1024 位 RSA 加密和 SHA-1 哈希算法，它们也早就过时了。一些人认为它们是拷贝自 2008 年的欧盟法律文件，里面有完全相同的描述。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-29T16:01:16Z",
+  "Author": "WinterIsComing"
+}

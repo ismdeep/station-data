@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 出现无法联网问题",
+  "Link": "https://www.solidot.org/story?sid=70353",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据社交网络上的消息，北京时间四点左右，Firefox 突然之间无法联网，无法访问任何网站，并出现高 CPU 占用率，问题不限于中国，被认为与 HTTP3 有关。有人\u003cu\u003e\u003ca href=\"https://twitter.com/jbaiter_/status/1481543050438619139\" target=\"_blank\"\u003e推荐\u003c/a\u003e\u003c/u\u003e的临时解决方案是禁用 HTTP3，方法为地址栏输入 about:config，搜索 network.http.http3.enabled，设置为 false，重启浏览器，网络访问能恢复。根据 \u003cu\u003e\u003ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1749908\" target=\"_blank\"\u003eFirefox Bug Report\u003c/a\u003e\u003c/u\u003e报告，测试版本的 HTTP3 功能此前就报告过出现问题。Mozilla 开发者\u003ca href=\"https://www.solidot.org/admin?op=edit\u0026amp;sid=70353\"\u003e\u003cu\u003e回应称\u003c/u\u003e\u003c/a\u003e，问题已经解决，他们会在稍后提供更详细的信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-13T09:01:56Z",
+  "Author": "WinterIsComing"
+}

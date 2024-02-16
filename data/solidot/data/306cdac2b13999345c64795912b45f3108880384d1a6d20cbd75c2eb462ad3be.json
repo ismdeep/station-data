@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Arti 1.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=72675",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目宣布用 Rust 语言重写 Tor 服务器的  Arti 项目\u003ca href=\"https://blog.torproject.org/arti_100_released/\" target=\"_blank\"\u003e\u003cu\u003e释出 v1.0.0\u003c/u\u003e\u003c/a\u003e。Tor 开发者称，他们对 v1.0.0 的定义是可在生产环境下使用；能用于真实世界，与现有用 C 语言写的 Tor 客户端获得相似程度的隐私、可用性和稳定性；能稳定的用于嵌入环境。开发者表示他们相信 Arti 项目达到了这样的成熟度，用户现在可以使用  arti proxy 连接到 Tor 网络匿名化网络连接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-05T07:38:39Z",
+  "Author": "WinterIsComing"
+}

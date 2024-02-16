@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔处理器新漏洞 Load Value Injection",
+  "Link": "https://www.solidot.org/story?sid=63784",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员披露了名叫 \u003ca href=\"https://lviattack.eu/\"\u003e\u003cu\u003eLoad Value Injection\u003c/u\u003e\u003c/a\u003e（LVI） 的英特尔处理器\u003ca href=\"https://arstechnica.com/information-technology/2020/03/hackers-can-steal-secret-data-stored-in-intels-sgx-secure-enclave/\"\u003e\u003cu\u003e新漏洞\u003c/u\u003e\u003c/a\u003e，能窃取英特尔 SGX（代表 Software Guard eXtensions）中储存的秘密信息。LVI 与 Meltdown 和 Spectre 等类似，都属于瞬态执行利用，源自于 CPU 的一项优化技术“预测执行”。与其它瞬态执行漏洞类似，LVI 只能缓解无法修复。SGX 能在内存中创建一个隔离的环境，使用强加密和硬件层的隔离确保数据和代码的安全，防止被纂改。研究人员演示了他们可以利用 LVI 漏洞窃取 SGX 保护的密钥。受影响的处理器\u003ca href=\"https://software.intel.com/security-software-guidance/insights/processors-affected-load-value-injection\"\u003e\u003cu\u003e包括了\u003c/u\u003e\u003c/a\u003e Sandy Bridge 家族、Ivy Bridge 家族和 Haswell 家族等等，Ice Lake 不受影响。芯片巨人\u003ca href=\"https://software.intel.com/security-software-guidance/insights/deep-dive-load-value-injection\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e LVI 在现实中很难利用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-11T09:13:14Z",
+  "Author": "WinterIsComing"
+}

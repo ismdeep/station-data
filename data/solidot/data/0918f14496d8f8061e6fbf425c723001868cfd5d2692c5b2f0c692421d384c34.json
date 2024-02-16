@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔新侧信道攻击：Lord of the Ring(s)",
+  "Link": "https://www.solidot.org/story?sid=67175",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t伊利诺伊香槟的三位研究人员在预印本网站 arXiv 发表\u003ca href=\"https://arxiv.org/abs/2103.03443\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，披露了针对英特尔 CPU 的最新侧信道攻击，该攻击被命名为 \u003ca href=\"https://github.com/FPSG-UIUC/lotr\" target=\"_blank\"\u003e\u003cu\u003eLord of the Ring(s)\u003c/u\u003e\u003c/a\u003e。随着芯片上的功能模块越来越多，英特尔为其 CPU 引入了片内总线，以实现各个模块之间的高速通信，它先后引入了 Ring Bus 和 Mesh Bus。最新侧信道攻击针对的就是 Ring Bus 的环形总线。研究人员首先逆向工程了 Ring Bus 的通信协议，设法构建了一个跨核心的隐蔽信道，利用环争用的细粒度时态模式去推动应用程序的秘密。从有漏洞的 EdDSA 和 RSA 实现中提取出密钥比特。对于 AMD 的 Zen 架构使用的片内总线 Infinity Fabric，研究人员表示需要进一步的研究，但相信他们的技术能应用于其它平台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-11T10:26:52Z",
+  "Author": "WinterIsComing"
+}

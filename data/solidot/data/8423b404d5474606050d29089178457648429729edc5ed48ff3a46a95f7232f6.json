@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客贿赂游戏公司雇员访问客户数据",
+  "Link": "https://www.solidot.org/story?sid=64272",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t人通常是数据安全的最薄弱环节。一名黑客再次证明了这一点。该名黑客贿赂了流行网络游戏 Roblox 的雇员，\u003ca href=\"https://www.vice.com/en_us/article/qj4ddw/hacker-bribed-roblox-insider-accessed-user-data-reset-passwords\" target=\"_blank\"\u003e\u003cu\u003e访问了\u003c/u\u003e\u003c/a\u003e游戏后端的客户支持面板，可以查询玩家的个人信息，获得游戏内的虚拟货币。Roblox 是一款在未成年人中间非常受欢迎的网络游戏，月活用户超过 1 亿。通过访问后端支持面板，黑客可以看到用户的电邮地址，可以修改密码，移除二步认证，封掉用户，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-05T13:11:31Z",
+  "Author": "WinterIsComing"
+}

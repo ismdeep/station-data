@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员开发出和狗鼻一样灵敏的炸弹探测器",
+  "Link": "https://www.solidot.org/story?sid=62217",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t炸弹嗅探犬能以极高的灵敏度感知炸药化学分子如三过氧化三丙酮（TATP），只要存在几个分子，这些超级英雄犬就能将其探测出来，它们的探测水平能达到 ppt（parts per trillion）。现在，罗德岛大学的研究人员\u003ca href=\"https://spectrum.ieee.org/tech-talk/semiconductors/devices/using-a-twopronged-approach-to-detect-explosive-substances-from-bombs\" target=\"_blank\"\u003e\u003cu\u003e开发出一种化学传感器\u003c/u\u003e\u003c/a\u003e，能在 ppb（parts per billion）水平上探测 TATP 分子。\u003ca href=\"https://ieeexplore.ieee.org/document/8854867\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《IEEE Sensors Letters》期刊上。TATP 是制造炸弹的常用原料，2015 年的巴黎袭击，2016 年的布鲁塞尔机场爆炸，2017 年的曼彻斯特音乐会爆炸，以及 2018 年印尼泗水的爆炸等事件都使用了 TATP。传感器使用了两个微型加热器，当炸药化学分子接触到微加热器，设备通过分析催化剂和非催化剂反应之间的热力学差异去揭示物质性质。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-12T09:51:04Z",
+  "Author": "wenfeixiang"
+}

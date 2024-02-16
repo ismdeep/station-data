@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "海盗湾恢复上线",
+  "Link": "https://www.solidot.org/story?sid=64102",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在长达一个多月时间内，用户访问海盗湾网站 ThePirateBay.org 会返回 Cloudflare 的错误消息，称连接超时，但在 Tor 网络中海盗湾可以正常访问。知情人士称，网站遇到了一些技术问题。上周末，ThePirateBay.org 的  whois 记录发生了变更，不再指向 Cloudflare 的域名服务器，而是指向了  EasyDNS。海盗湾的域名短暂的被解析到了 127.0.0.1 这个 localhost 地址。几个小时之后海盗湾\u003ca href=\"https://torrentfreak.com/the-pirate-bays-main-domain-returns-after-month-of-downtime-200411/\"\u003e\u003cu\u003e恢复上线\u003c/u\u003e\u003c/a\u003e，并继续使用了 Cloudflare 的域名服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-13T08:50:17Z",
+  "Author": "WinterIsComing"
+}

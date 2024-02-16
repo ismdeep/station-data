@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.7 内核移除安腾 IA-64 支持",
+  "Link": "https://www.solidot.org/story?sid=76519",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t正在合并代码的 Linux 6.7 内核正式移除了对英特尔安腾 IA64 架构处理器的支持。因基本上没人用且没人维护，内核开发者最近几年一直在讨论是否移除安腾 IA64 架构。英特尔已经在 2021 年淘汰了安腾处理器产品。刚刚发布的 Linux 6.6 将被选为长期支持版本，它将是最后一个支持安腾架构的内核版本。为移除安腾架构内核删除了 6.5 万行代码。仍然使用安腾处理器的用户可以选用 Linux 6.6 LTS。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-02T15:34:32Z",
+  "Author": "Wilson"
+}

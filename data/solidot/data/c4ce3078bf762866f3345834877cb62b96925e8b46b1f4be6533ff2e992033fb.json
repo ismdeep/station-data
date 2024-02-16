@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "现代操作系统如何启动的魔法",
+  "Link": "https://www.solidot.org/story?sid=72760",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net/\"\u003eHardenedVault\u003c/a\u003e 写道\u003ci\u003e \u0026#34;在x86/amd64架构下，Linux内核通常被打包成bzImage格式，其中包含用于引导参数的部分填充数据结构，以及16位实模式，32位保护模式和64位长模式的多个阶段入口点（如果为amd64构建），\u003ca href=\"https://hardenedvault.net/blog/2022-09-13-modern-os-boot-magic/\" target=\"_blank\"\u003e最后一个阶段是自解压缩平面二进制文件\u003c/a\u003e，它将正确解压缩和执行gzip压缩的内核映像， 也以平面二进制的格式，存储在其数据段中。每个阶段都将初始化下一阶段的正确执行环境，将CPU切换到下一阶段可以工作的模式，然后执行下一阶段。当然，Linux内核能够从16位实模式启动，但它也允许引导加载程序为以后阶段准备执行环境（例如32位保护模式或64位长模式），并从相应的入口点执行Linux内核。例如，如果引导加载程序本身主要在 32 位保护模式下工作，那么从其 32 位保护模式入口点引导 Linux 内核将是最有效的方法，而为 amd64 构建的 Linux 内核将在使用 kexec 引导另一个为 amd64 构建的 Linux 内核时选择 64 位长模式的入口点。最近，\u003ca href=\"https://lore.kernel.org/all/YjHMEsXiraMrOLN4@MiWiFi-R3L-srv/T/\" target=\"_blank\"\u003eQEMU 的一个bug导致 kexec 之后的内核崩溃\u003c/a\u003e，因为 kexec-ed 内核将无法解压缩压缩的 initrd。此错误仅影响在 QEMU 中使用压缩内联的新 Linux 内核。物理机器上的 kexec，以及在 QEMU 中使用压缩的 initrd 引导 Linux 内核的其他方法，均不受影响。\u003cbr/\u003e\n\u003cbr/\u003e\n当然，在 QEMU 中，\u003ca href=\"https://hardenedvault.net/blog/2022-09-13-modern-os-boot-magic/\" target=\"_blank\"\u003e使用未压缩的initrd来创建新Linux内核是有效的\u003c/a\u003e，因此，如果您想在 QEMU中使用基于kexec的引导加载程序，则可能必须使用未压缩的initrd才能引导目标系统。\u003ca href=\"https://hardenedvault.net/blog/2022-09-13-modern-os-boot-magic/\" target=\"_blank\"\u003eHardenedVault（赛博堡垒）的Vault Labs使用此类方法\u003c/a\u003e成功完成了vTPM环境下的远程证明。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-14T07:23:06Z",
+  "Author": "WinterIsComing"
+}

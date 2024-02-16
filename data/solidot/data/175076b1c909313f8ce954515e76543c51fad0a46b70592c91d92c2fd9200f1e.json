@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "QQ 被发现扫描并上传用户的浏览器历史",
+  "Link": "https://www.solidot.org/story?sid=66679",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t腾讯消息应用 QQ 以及 QQ 办公版 TIM 被发现会扫描用户的浏览器历史，搜索购物记录选择性上传。用户\u003ca href=\"https://bbs.pediy.com/thread-265359.htm\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，QQ 在登陆 10 分钟之后开始扫描 Appdata\\Local\\下的所有文件夹，对其中 User Data\\Default\\History 进行进一步的扫描，User Data\\Default\\History 是基于 Chrome/Chromium 的浏览器默认历史纪录存放位置，Firefox 的浏览历史存放位置不同，因此目前看来不受影响。不过 Firefox 市场份额不高，而基于 Chrome/Chromium 的浏览器占据了九成以上的份额。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-17T11:03:30Z",
+  "Author": "WinterIsComing"
+}

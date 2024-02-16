@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat 恪守对开源的承诺",
+  "Link": "https://www.solidot.org/story?sid=75351",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 上周宣布其企业发行版 RHEL（Red Hat Enterprise Linux）相关源码仅通过 CentOS Stream 公开。此举加大了社区发行版如 Alma Linux 和 Rocky Linux 以及甲骨文的企业发行版 Oracle Linux 构建 1:1 二进制兼容版本的难度，引发了 Red Hat 走向闭源的批评。Red Hat 副总裁 Mike McGrath 通过官方博客做出回应，表示该公司恪守对开源的承诺。他表示，RHEL 是基于 CentOS Stream，而 CentOS Stream 的 gitlab 库是公开的，称 RHEL 闭源是完全不正确的。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes\u003cbr/\u003e\nhttps://lwn.net/Articles/936405/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-27T08:08:57Z",
+  "Author": "Wilson"
+}

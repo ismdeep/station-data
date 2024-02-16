@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "北约机密云平台遭到入侵",
+  "Link": "https://www.solidot.org/story?sid=68167",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2021 年 5 月，黑客\u003ca href=\"https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform\" target=\"_blank\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e一家在拉美有子公司的西班牙企业 Everis，访问了多个数据集，包括北约的云计算平台，以及相关源代码和文档。除了获得数据拷贝，黑客还声称删除了公司的拷贝，并有机会修改了项目或植入了后门。黑客还试图勒索 Everis，开玩笑的说向俄罗斯情报机构发送数据。被称为北约 Service-Oriented Architecture and Identity Access Management (SOA \u0026amp; IdM) 的平台是北约 IT 现代化的 4 个核心项目之一。黑客自称有政治动机，他们最初只对 Everis 的拉美子公司数据感兴趣。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-30T15:20:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Exyn 的无人机实现了 Level 4 自主飞行",
+  "Link": "https://www.solidot.org/story?sid=67725",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无人机自主飞行的进展令人印象深刻。源自宾夕法尼亚大学的无人机公司 \u003ca href=\"https://www.exyn.com/\"\u003e\u003cu\u003eExyn\u003c/u\u003e\u003c/a\u003e \u003ca href=\"https://spectrum.ieee.org/automaton/robotics/drones/exyn-brings-level-4-autonomy-to-drones\" target=\"_blank\"\u003e\u003cu\u003e开发出了\u003c/u\u003e\u003c/a\u003e具有 Level 4 自主飞行能力的无人机。无人机能完全脱离操作人员自主飞行，操作人员只需要简单告诉无人机测绘的地点，它就能在没有 GPS、没有通信、没有预先了解目标空间的情况下完成任务。无人机配备了 GoPro、Velodyne 激光雷达，飞行速度最高每秒 2 米，一次飞行能探索 1600 万立方米的空间。它也有不足之处，能感知电线，但可能无法识别钓鱼线那里小的东西，灰尘有时候也会很麻烦。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-10T04:00:20Z",
+  "Author": "WinterIsComing"
+}

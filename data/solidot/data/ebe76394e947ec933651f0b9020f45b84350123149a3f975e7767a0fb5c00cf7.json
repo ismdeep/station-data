@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "JetBrains 更新 IDE 整合 AI 助手",
+  "Link": "https://www.solidot.org/story?sid=75628",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tJetBrains 更新了它的 IDE ，整合了 AI 助手。类似微软/Github 的 Copilot，JetBrains AI Assistant 使用的也是 OpenAI 的技术。它与 Github Copilot 插件的区别在于，AI Assistant 深度整合在 IDE 中，支持 AI Chat 等 Copilot 插件不支持的功能。除了 OpenAI 的模型，AI Assistant 也依赖 JetBrains 的内部模型。AI Assistant 的功能因不同语言而存在差异，其中文档生成仅限于 Java、Kotlin 和 Python 项目。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://devclass.com/2023/07/25/jetbrains-ide-update-previews-deeply-integrated-ai-assistant/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-27T04:58:56Z",
+  "Author": "Wilson"
+}

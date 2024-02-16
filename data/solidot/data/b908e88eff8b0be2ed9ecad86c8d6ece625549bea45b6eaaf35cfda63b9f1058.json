@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "多达三百万用户安装了恶意 Chrome 和 Edge 扩展",
+  "Link": "https://www.solidot.org/story?sid=66395",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Avast 的研究人员在 Google 和 Microsoft 的浏览器扩展商店\u003ca href=\"https://press.avast.com/third-party-browser-extensions-from-instagram-facebook-vimeo-and-others-infected-with-malware\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e 28 个恶意扩展，这些扩展自我描述是帮助用户从 Facebook、Instagram、Vimeo 和 Spotify 等平台下载照片和视频，但包含了恶意代码允许下载恶意程序去窃取用户个人数据，重定向到广告和钓鱼网站。这些恶意扩展的下载量多达三百万。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-17T05:11:35Z",
+  "Author": "WinterIsComing"
+}

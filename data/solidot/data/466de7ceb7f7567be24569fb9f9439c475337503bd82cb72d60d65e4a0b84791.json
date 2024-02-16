@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeDB 将于 3 月 31 日关闭",
+  "Link": "https://www.solidot.org/story?sid=63100",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCD 数据库 FreeDB 发布紧急通知宣布\u003ca href=\"http://www.freedb.org/en/\" target=\"_blank\"\u003e\u003cu\u003e网站和服务\u003c/u\u003e\u003c/a\u003e将于 2020 年 3 月 31 日关闭。\u003ca href=\"https://en.wikipedia.org/wiki/Freedb\"\u003e\u003cu\u003eFreeDB\u003c/u\u003e\u003c/a\u003e 的所有内容都是基于 GNU GPL 授权，为了查询 CD 信息，客户端程序根据 CD 目录计算哈希值，然后将其作为 ID 去查询数据库，如果数据库内有该 CD，程序能提取和展示艺术家、专辑标题、曲目列表等信息。FreeDB 历史上经历多次关闭危机，最新的通知没有解释关闭原因。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-29T09:43:07Z",
+  "Author": "WinterIsComing"
+}

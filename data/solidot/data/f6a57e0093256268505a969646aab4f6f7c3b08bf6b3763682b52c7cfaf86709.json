@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 资源管理器将整合 Linux 文件访问",
+  "Link": "https://www.solidot.org/story?sid=64074",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软计划在 Windows 10 的资源管理器中\u003ca href=\"https://www.theverge.com/2020/4/8/21213783/microsoft-windows-10-linux-file-explorer-integration-features\" target=\"_blank\"\u003e\u003cu\u003e整合 Linux 文件访问\u003c/u\u003e\u003c/a\u003e。在资源管理器左侧导航窗格中将会展示著名的 Linux 企鹅图标，提供了通过 WSL 安装的 Linux 发行版的 root 文件系统访问。微软在最新释出的 \u003ca href=\"https://blogs.windows.com/windowsexperience/2020/04/08/announcing-windows-10-insider-preview-build-19603/\"\u003e\u003cu\u003eWindows 10 测试版 19603\u003c/u\u003e\u003c/a\u003e 中测试了 Linux 文件访问整合。微软正在逐渐改进 WSL（Windows Subsystem for Linux），承诺会在 Windows 10 包含完整的 Linux 内核。如果用户启用了 WSL，企鹅图标将会显示在资源管理器内。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-09T12:07:53Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "openSUSE Leap 15.3 发布",
+  "Link": "https://www.solidot.org/story?sid=67943",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于企业发行版 SUSE Linux Enterprise (SLE) 的社区发行版 openSUSE 释出了\u003ca href=\"https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/\"\u003e\u003cu\u003e Leap 15.3\u003c/u\u003e\u003c/a\u003e，开发者称，Leap 15.3 不只是使用 SLE 源代码构建的，它还使用了 SLE 的二进制包，两者的关系就像是阴和阳。开发者不推荐从 Leap 15.2 之前的版本直接升级到 Leap 15.3，而是建议先升级到 Leap 15.2 再升级到 Leap 15.3。主要变化包括：Xfce 4.16，GNU Health v3.8，包管理器 DNF 4.7.0，支持 IBM Z 和 LinuxONE (s390x)，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-03T08:06:38Z",
+  "Author": "WinterIsComing"
+}

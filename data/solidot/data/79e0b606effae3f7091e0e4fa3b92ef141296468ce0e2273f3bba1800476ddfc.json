@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "让粒子物理学家事半功倍的算法",
+  "Link": "https://www.solidot.org/story?sid=69728",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://www.physik.uzh.ch/en/groups/gehrmann/team/gehrmann.html\" target=\"_blank\"\u003e\u003cu\u003eThomas Gehrmann\u003c/u\u003e\u003c/a\u003e 记得二十年前的一天，大量数学表达式在电脑屏幕上倾泻而下。他试图计算从两个粒子相撞而喷出三束基本粒子的几率。这是物理学家经常做的一种基本计算，检查理论是否与实验结果相匹配。更准确的预测需要更长的计算时间，而 Gehrmann 在进行大量计算。使用 Richard Feynman 在 70 多年前设计的标准方法，他绘制了数百种碰撞粒子在射出三股喷流之前可能发生的变形和相互作用方式的示意图。将这些事件的单个概率相加将给出三股喷流结果的总体概率。\n\u003cbr/\u003e\n\u003cbr/\u003e\n但是 Gehrmann 需要软件来计算概率公式中的 35,000 项条件。至于计算呢？他说，那是“你举起白旗并与同事交谈”的时间。对他来说，幸运的是，一位同事碰巧知道一种尚未发表的技术，可以显著缩短这种公式。使用这种新方式，Gehrmann 看到成千上万的项合并在一起并消失了。在剩下的 19 个可计算表达式中，他看见了粒子物理学的未来。\n\u003cbr/\u003e\n\u003cbr/\u003e\n今天这种称为 Laporta 算法的简化程序\u003ca href=\"https://www.quantamagazine.org/the-algorithm-that-lets-particle-physicists-count-higher-than-two-20211122/\" target=\"_blank\"\u003e\u003cu\u003e已成为生成关于粒子行为精确预测的主要工具\u003c/u\u003e\u003c/a\u003e。哥本哈根大学粒子物理学家 \u003ca href=\"https://nbia.nbi.ku.dk/members/junior-faculty/hippel/\" target=\"_blank\"\u003e\u003cu\u003eMatt von Hippel\u003c/u\u003e\u003c/a\u003e 表示：“它无处不在。”尽管算法在世界各地广泛使用，但其发明者 Stefano Laporta 仍然默默无闻。他很少参加会议，手下也没有大量的研究人员。von Hippel 表示：“很多人都以为他死了。”Laporta 住在意大利的博洛尼亚，他正逐步完成他最关心的计算，这个计算催生了他的开创性方法：更精确地评估电子如何在磁场中移动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-23T12:11:21Z",
+  "Author": "wanwan"
+}

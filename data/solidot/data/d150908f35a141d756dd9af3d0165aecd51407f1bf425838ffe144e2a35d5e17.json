@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软错误配置的服务器泄露了 2.5 亿客户服务信息",
+  "Link": "https://www.solidot.org/story?sid=63335",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软承\u003ca href=\"https://msrc-blog.microsoft.com/2020/01/22/access-misconfiguration-for-customer-support-database/\"\u003e\u003cu\u003e认\u003c/u\u003e\u003c/a\u003e，它的客户支持内部数据库因  Azure 云服务错误配置在 2019 年 12 月 5 日到 31 日之间暴露在网上。一共有五台  Elasticsearch 服务器暴露，这些服务器储存了相同的数据，彼此充当镜像。数据库含有大约 2.5 亿条记录，包含了电子邮件、IP 地址和支持案例细节。微软称，绝大部分记录不包含任何用户个人信息。微软表示它已经开始通知受影响的客户，表示没有发现数据被恶意使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-22T14:34:49Z",
+  "Author": "WinterIsComing"
+}

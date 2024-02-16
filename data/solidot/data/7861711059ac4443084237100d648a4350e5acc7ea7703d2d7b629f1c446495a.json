@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软将在办公软件中屏蔽下载的宏",
+  "Link": "https://www.solidot.org/story?sid=70587",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了应对勒索软件等恶意程序，微软\u003ca href=\"https://techcommunity.microsoft.com/t5/microsoft-365-blog/helping-users-stay-safe-blocking-internet-macros-by-default-in/ba-p/3071805\"\u003e\u003cu\u003e计划\u003c/u\u003e\u003c/a\u003e改变 MS Office 办公软件处理宏的方式：如果文件使用的宏命令是从网上下载的，宏将会默认完全禁用。目前的 Office 版本会对包含宏的文件弹出警告横幅，用户可通过点击启用，但新版本的横幅不再能启用宏。从 2022 年 4 月起，这一改变将首先提供给  Office v2203 用户预览，6 月起推广到订阅版本 Microsoft 365  Office，最后是目前支持的独立版本 Office 2021、2019、2016 和 2013。如果用户仍然想要启用网上下载文件中的宏，他们可以打开文件的属性，点击 unblock 按钮。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-08T05:24:13Z",
+  "Author": "WinterIsComing"
+}

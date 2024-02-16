@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以色列警方用 Pegasus 间谍软件攻击本国公民",
+  "Link": "https://www.solidot.org/story?sid=70423",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据以色列商业媒体网站 Calcalist 的\u003ca href=\"https://www.calcalistech.com/ctech/articles/0,7340,L-3927410,00.html\"\u003e\u003cu\u003e调查\u003c/u\u003e\u003c/a\u003e，以色列警方在未经授权的情况下，使用 NSO 集团备受争议的 Pegasus 间谍软件对包括政治家和活动人士在内的以色列公民进行电话侦听。报道称这些侦听针对的目标包括本地市长、反对前总理内塔尼亚胡（Benjamin Netanyahu）的政治抗议活动领袖以及前政府雇员。监控以色列公民需要法院监督，这些监控是在缺少法院监督的情况下进行的，对于数据如何使用也缺乏监督，以色列警方和一位政府部长明确否认这一说法。以色列日报《国土报（Haaretz）》的另外一则报道称，据报社看到的发票，NSO 集团在 2013 年向以色列警方开具了 270 万谢克尔（86.2万美元）的发票，显然是该计划的基本版本。以色列 NSO 集团设计了 Pegasus并将其出售给外国政府，虽然出现了许多滥用 Pegasus 的报道，但最近的报道标志着情况出现了重大变化，以色列人也成了侦听的目标。《卫报》\u003ca href=\"https://www.theguardian.com/news/2022/jan/18/israeli-citizens-targeted-by-police-using-pegasus-spyware-report-claims\" target=\"_blank\"\u003e\u003cu\u003e从熟悉 NSO 授权的消息人士处了解到\u003c/u\u003e\u003c/a\u003e，虽然 NSO 出售给国外第三方客户的软件不能在国外针对美国和以色列的电话号码，但购买间谍软件的以色列执法机构——例如警方——可以针对以色列的手机号码。虽然报道没有提及消息来源，但它声称使用间谍软件的命令是由高级官员下达的，由警方的电子侦听专家执行。这一说法意义重大，因为它首次反驳了向以色列人做出的保证，即他们不会成为 Pegasus 的目标，对以色列人免于非法入侵的观点提出了质疑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-19T07:50:33Z",
+  "Author": "WinterIsComing"
+}

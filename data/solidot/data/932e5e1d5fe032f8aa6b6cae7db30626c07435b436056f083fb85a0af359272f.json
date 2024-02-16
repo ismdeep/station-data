@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软正式推出基于 Chromium 的 Edge",
+  "Link": "https://www.solidot.org/story?sid=63265",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://venturebeat.com/2020/01/15/microsoft-launches-chromium-edge-for-windows-7-windows-8-windows-10-and-macos/\" target=\"_blank\"\u003e正式推出了基于\u003c/a\u003e Chromium 的 \u003ca href=\"https://www.microsoft.com/edge\"\u003e\u003cu\u003eEdge 浏览器\u003c/u\u003e\u003c/a\u003e，支持系统包括了 Windows 7、Windows 8、Windows 10 和 macOS，支持超过 90 种语言。Chromium Edge 支持 Chrome 的扩展，默认情况下用户可以通过 Microsoft Store 下载移植的扩展，而“Allow extensions from other stores”选项允许用户从 Chrome Web Store 下载扩展。Chromium Edge 还默认启用了类似 Firefox  tracking protection 的防跟踪保护功能。Chromium Edge 目前还不支持历史和扩展同步功能，这些功能正在开发之中。微软表示新 Edge 的速度是旧版本的两倍。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-16T04:31:46Z",
+  "Author": "WinterIsComing"
+}

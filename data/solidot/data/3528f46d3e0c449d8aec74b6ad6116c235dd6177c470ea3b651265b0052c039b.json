@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "容器与云问答：虚拟机和容器是否能统一调度和管理？",
+  "Link": "https://www.solidot.org/story?sid=65651",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t答案是肯定的。过去的容器平台（如OpenShift）主要面向容器平台，以容器为中心，然而在现实中大多数企业还有虚拟机负载，不少企业中虚拟机甚至是主流的运行环境——可能由于是传统的应用，或者出于安全和隔离等原因，这些应用部署在虚拟机上。两套不同的平台同时运行但并没有集成，提高了管理成本，也不利于资源的统一调度，统一管理成为不少企业的现实需求。\u003cbr/\u003e\n\u003cbr/\u003e\n面对市场需求，不管是虚拟化平台还是容器平台都在设法提供对对方的调度和管理。比如，红帽的OpenShift虚拟化源就在容器平台（OpenShift）上集成了对虚拟机的管理。OpenShift源自KubeVirt开源项目,使企业能够对由虚拟机、容器和无服务器功能构成的应用进行开发、部署和管理全部在Kubernetes平台上实现。\u003cbr/\u003e\n\u003cbr/\u003e\n混合多云时代已来，企业如何应势而上？戳链接看「\u003ca href=\"http://www.zhiding.cn/special/IBM_hybrid_cloud_2020\" target=\"_blank\"\u003e\u003cu\u003e混合云100问\u003c/u\u003e\u003c/a\u003e」，一站全面了解真正的「混合云」\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-25T10:23:23Z",
+  "Author": "blues_man"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 的编程问答机器人 Copilot Chat GA",
+  "Link": "https://www.solidot.org/story?sid=77013",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitHub 面向编程的聊天机器人 Copilot Chat 开放提供给所有用户——付费用户，以及经过认证的教师、学生和开源项目维护者可免费使用。Copilot Chat 基于 OpenAI 的大模型 GPT-4，为软件开发应用场景进行了微调。开发者可以以自然语言输入提示实时获得指导，如要求 Copilot Chat 解释概念、检测漏洞或编写单元测试。Copilot Chat 已整合在微软的 IDE 工具 Visual Studio Code 和 Visual Studio 中，可通过侧边栏访问。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://docs.github.com/zh/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide\n\u003cbr/\u003e\nhttps://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-30T13:32:28Z",
+  "Author": "Wilson"
+}

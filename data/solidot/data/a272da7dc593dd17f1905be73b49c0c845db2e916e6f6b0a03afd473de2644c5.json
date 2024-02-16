@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔发现 AMD 笔记本 CPU 推迟 10 秒进入全性能运行状态",
+  "Link": "https://www.solidot.org/story?sid=66177",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在上周五进行的一场演示中，英特尔声称 AMD 笔记本 CPU 为了延长电池使用时间而牺牲了性能，基于 Zen2 架构的 AMD CPU（Ryzen 4000 系列）会推迟 \u003cspan id=\"intelliTXT\" name=\"intellitxt\"\u003e 7-10\u003c/span\u003e 秒左右时间才进入到全性能运行状态。芯片巨人宣称，绝大部分消费者工作负荷是非常短暂的，这种推迟让 AMD CPU 相对于它的笔记本 CPU 处于性能劣势。但这种性能延迟行为是 AMD 所为还是 OEM 厂商做的？Extremetech \u003ca href=\"https://www.extremetech.com/extreme/317657-intel-is-spreading-fud-about-supposedly-huge-ryzen-4000-performance-drops-on-battery\"\u003e\u003cu\u003e调查发现\u003c/u\u003e\u003c/a\u003e这种设置实际上是由厂商设定的。而 Ars 的测试\u003ca href=\"https://arstechnica.com/gadgets/2020/11/amd-laptops-have-a-hidden-10-second-performance-delay-heres-why/\" target=\"_blank\"\u003e发现\u003c/a\u003e，即使存在这种性能上的延迟，在 Cinebench R23 上运行 5 分钟，AMD Ryzen 7 Pro 4750u 系统比英特尔 i7-1185G7 渲染了更多的场景，功耗还更低。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-24T09:17:18Z",
+  "Author": "WinterIsComing"
+}

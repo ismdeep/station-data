@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "cURL 作者回顾项目历史",
+  "Link": "https://www.solidot.org/story?sid=67345",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tcURL 作者 Daniel Stenberg 在个人网站上\u003ca href=\"https://daniel.haxx.se/blog/2021/03/20/curl-is-23-years-old-today/\"\u003e\u003cu\u003e回顾了项目的历史\u003c/u\u003e\u003c/a\u003e：cURL 的官方诞辰日是 1998 年 3 月 20 日，但它的历史可以追溯到 1996 年，当年的 11 月 11 日，Rafael Sagula 发布了工具 httpget，该项目吸引了 Stenberg，他开始为它贡献代码，httpget 0.1 只有不到 300 行 C 代码。同一天另一个工具 Wget 也发布了首个版本，但它的容量高达 171 KB。之后不久 Stenberg 接管了 httpget 的维护工作，扩展了它的功能，加入了对  Gopher 和 FTP支持 后为了避免名字产生混淆而改名为 urlget，1998 年加入了对 FTP 上传的功能后再次改到为现在的名字 cURL，c 读做 see，意思是 see URL。今天 cURL 及其 API 库 libcurl 几乎被每一个联网的设备和系统使用。Red Hat Linux 在 1998 年底采用了 cURL，Debian 是 1999 年 5 月，Mac OS X 10.1 是 2001 年 8 月。今天 Windows 10、iOS 和 Android ，以及 Nintendo Switch、Xbox 和 Sony PS5 都包含了 cURL。iOS 和 Android 这两大移动系统虽然包含了 cURL，但并没有提供 API，因此 YouTube、Skype、 Instagram、Spotify、Google Photos、Netflix 等应用都捆绑了自己的 libcurl。libcurl 也包含在几乎每一辆需要传输数据的汽车内。它的代码行数从 1996 年的 300 行增加到了 2021 年 3 月的 17.2 万行。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-29T13:53:41Z",
+  "Author": "WinterIsComing"
+}

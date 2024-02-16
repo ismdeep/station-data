@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "墨干编辑器V1.0.2发布",
+  "Link": "https://www.solidot.org/story?sid=71423",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://gitee.com/XmacsLabs\"\u003e墨者实验室\u003c/a\u003e 写道 \u0026#34;本次发布主要改善了用户体验，修复了若干严重的错误。\n\u003cp\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003cp\u003e马上下载：\u003ca href=\"https://gitee.com/XmacsLabs/mogan/releases/v1.0.2\" target=\"_blank\"\u003ehttps://gitee.com/XmacsLabs/mogan/releases/v1.0.2\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e主要变更：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e① 中国美院的鹿尔尔女士创作了全新的软件图标\u003c/li\u003e\n\u003cli\u003e② 文档入口 帮助-\u0026gt;墨干 直接加载远程文档\u003c/li\u003e\n\u003cli\u003e③ 主要错误修复：LaTeX导入和导出、分段函数在CJK语言文档中的排版、gnuplot折叠会话\u003c/li\u003e\u003c/ol\u003e\n\u003cbr/\u003e\n小巧精美的绘图软件欧几里得(Eukleides)会在墨干编辑器V1.1.0之前完成内置。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-04T10:31:53Z",
+  "Author": "WinterIsComing"
+}

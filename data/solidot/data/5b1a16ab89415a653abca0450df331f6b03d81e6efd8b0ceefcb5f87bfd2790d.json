@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客组织被发现能绕过二步验证",
+  "Link": "https://www.solidot.org/story?sid=63030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t荷兰安全公司 Fox-IT 报告，中国黑客组织 APT20 在最近的攻击中\u003ca href=\"https://www.zdnet.com/article/chinese-hacker-group-caught-bypassing-2fa/\" target=\"_blank\"\u003e\u003cu\u003e被发现能绕过二步验证\u003c/u\u003e\u003c/a\u003e。该组织的主要目标是政府机构和管理服务供应商。安全研究人员称，黑客使用 web server 作为进入目标系统的最初入口点，一个利用目标是大型企业和政府机构常用的企业级应用平台 JBoss。APT20 利用漏洞访问这些 web server，安装 web shells，然后逐渐渗透进系统。之后黑客会去寻找管理员账号，以及用于从外网访问内网的 VPN 账号。安全研究人员发现，黑客能绕过 VPN 账号使用的二步认证，他们猜测可能是黑客窃取了 RSA SecurID 软件令牌，用它去生成有效的一次性代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-23T07:12:59Z",
+  "Author": "WinterIsComing"
+}

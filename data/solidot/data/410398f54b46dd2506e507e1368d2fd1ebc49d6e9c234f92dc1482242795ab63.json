@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "360 安全浏览器尝试收费，剥离部分 Chromium 自带功能",
+  "Link": "https://www.solidot.org/story?sid=66248",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Chromium 开源浏览器的奇虎 360 安全浏览器开始尝试收费，年费 100 元。\u003ca href=\"https://www.ithome.com/0/522/219.htm\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e称，用户充值加入 VIP 会员可以享受六大特权，包括：DoH 安全防劫持、智能隐私防护体系、DNT 防跟踪、支持国密 SSL 协议、专属反馈渠道、提前试用最新版。其中 DoH 和 DNT 都是 Chromium 自带功能，暂时不知道奇虎是否为 VIP 用户提供了专用的 DoH（DNS over HTTPS）服务器，而根据用户在官方论坛上的\u003ca href=\"https://bbs.360.cn/thread-15939054-1-1.html\"\u003e\u003cu\u003e反馈\u003c/u\u003e\u003c/a\u003e，VIP 并没有去掉广告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-01T13:17:07Z",
+  "Author": "WinterIsComing"
+}

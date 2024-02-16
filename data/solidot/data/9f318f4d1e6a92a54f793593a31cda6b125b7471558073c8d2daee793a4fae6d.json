@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "北京智源推出通用视觉分割模型 SegGPT",
+  "Link": "https://www.solidot.org/story?sid=75084",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t北京智源人工智能研究院推出通用分割模型 SegGPT（Segment Everything In Contex），这是一个利用视觉提示（prompt）完成任意分割任务的通用视觉模型。相关代码发布在 GitHub 上，论文发表在预印本平台 arXiv 上。SegGPT 是智源通用视觉模型 Painter 的衍生模型，针对分割一切物体的目标做出优化。SegGPT 具备上下文推理能力，训练完成后无需微调，只需提供示例即可自动推理并完成对应分割任务，包括图像和视频中的实例、类别、零部件、轮廓、文本、人脸、医学图像等。它的灵活推理能力支持任意数量的视觉提示。自动视频分割和追踪能力以第一帧图像和对应的物体掩码作为上下文示例，SegGPT 能够自动对后续视频帧进行分割，并且可以用掩码的颜色作为物体的ID，实现自动追踪。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arxiv.org/abs/2304.03284\u003cbr/\u003e\nhttps://github.com/baaivision/Painter\u003cbr/\u003e\nhttps://www.thepaper.cn/newsDetail_forward_23265031\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-29T06:20:42Z",
+  "Author": "Wilson"
+}

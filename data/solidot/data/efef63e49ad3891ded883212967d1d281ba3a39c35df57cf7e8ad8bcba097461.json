@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "备份不再能有效阻止勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=70804",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t备份\u003ca href=\"https://www.computerweekly.com/news/252513735/Backups-no-longer-effective-for-stopping-ransomware-attacks\" target=\"_blank\"\u003e不再能有效阻止勒索软件攻击\u003c/a\u003e，因为勒索软件组织日益采用两种甚至三种以上的勒索手段。对 IT 安全决策者的调查发现，83% 的成功勒索攻击使用了替代勒索方法：使用窃取的数据勒索客户(38%)，向暗网泄露数据(35%)，通知客户他们的数据被入侵了(32%)，只有 17% 的攻击只要求赎金以换取解密密钥。备份能最小化数据被加密带来的影响，但无法阻止勒索软件组织使用窃取的数据进行二次甚至三次勒索。但问题是即使支付了赎金，遭到窃取的数据仍然可能会泄露。调查发现 18% 的受害者在支付赎金之后数据仍然泄露，这一比例甚至高于拒绝支付赎金的受害者（16%）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T05:49:19Z",
+  "Author": "WinterIsComing"
+}

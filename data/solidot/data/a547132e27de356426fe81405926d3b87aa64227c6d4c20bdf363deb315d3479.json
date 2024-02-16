@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MojoJS-Query开源JS选择器（CSS3 Selector）引擎",
+  "Link": "https://www.solidot.org/story?sid=63465",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/scottcgi/MojoJS-Query\"\u003e代码搬运工\u003c/a\u003e 写道\u003ci\u003e\u0026#34;\u003ca href=\"https://github.com/scottcgi/MojoJS-Query/blob/master/MojoJS.query.js\" target=\"_blank\"\u003eMojoJS-Query\u003c/a\u003e（\u003ca href=\"https://github.com/scottcgi/MojoJS-Query\" target=\"_blank\"\u003eGitHub\u003c/a\u003e）是一个使用JS实现的CSS选择器引擎，其功能实现特点如下：\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\n\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e支持所有CSS3选择器，以及更多非标准选择器（如has，not）。\u003c/li\u003e\n\u003cli\u003e性能高效，只比native实现慢2~3倍。\u003c/li\u003e\n\u003cli\u003e代码结构极其简洁、短小、易懂。\u003c/li\u003e\n\u003cli\u003e非常容易扩展，自定义的非标准选择器实现。\u003c/li\u003e\u003c/ul\u003e\n最后，\u003ca href=\"https://scottcgi.github.io/MojoJS-Query/speed-test/index.html\" target=\"_blank\"\u003e在线速度测试\u003c/a\u003e：提供了与native和sizzle（jQuery）的性能测试对比。\u0026#34;\n\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-08T11:55:45Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Reddit 遭到钓鱼攻击",
+  "Link": "https://www.solidot.org/story?sid=74098",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t社交网站 Reddit 披露了一起安全事故，称其员工遭到复杂且高度针对性的钓鱼攻击。它是在 2 月 5 日察觉到这起攻击，攻击者在窃取到一名雇员的登陆凭证之后访问了部分内部文档、代码、仪表盘和业务系统，但没有迹象表明访问了主生产系统，用户密码和账号仍然是安全的。Reddit 称泄露的主要是企业联系人以及前和现员工的联络信息，它建议用户为保护账号安全启用 2FA。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://old.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-10T08:26:54Z",
+  "Author": "Wilson"
+}

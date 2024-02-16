@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Devuan Beowulf 3.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=64558",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2014 年，因为初始化系统 systemd 引发的争议，一群不满的开发者创建了不使用 systemd 的 Debian 分支 Devuan。2017 年，Devuan 开发者\u003ca href=\"https://www.solidot.org/story?sid=52542\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Devuan Jessie 1.0 正式版，基于 2015 年发布的 Debian 8 Jessie；2018 年 6 月\u003ca href=\"https://www.solidot.org/story?sid=56794\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Devuan 2.0 \u0026#39;ASCII\u0026#39;。现在，他们\u003ca href=\"https://devuan.org/os/announce/beowulf-stable-announce-060120\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Devuan Beowulf 3.0.0，基于 Debian Buster (10.4) 和 Linux kernel 4.19，下一个大版本代号为 Chimaera。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-03T12:50:29Z",
+  "Author": "WinterIsComing"
+}

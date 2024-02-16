@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 79 将允许用户测试未发布的实验功能",
+  "Link": "https://www.solidot.org/story?sid=64788",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEdge 和 Chrome 都允许用户尝试未发布的实验功能，现在 Firefox 79 也将开始引入类似的“实验功能”选项。此前 Firefox 主要通过 Nightly 版本测试实验功能，一大限制是测试人数较少，只有一小部分好奇的用户会去参加测试。从 Firefox 79 开始，Mozilla 将在稳定版本中\u003ca href=\"https://news.thewindowsclub.com/mozilla-firefox-79-launches-new-firefox-experiments-101041/\" target=\"_blank\"\u003e\u003cu\u003e引入实验功能\u003c/u\u003e\u003c/a\u003e，扩大测试人数。Firefox 79 目前还处于 Nightly 版中，用户可在地址栏输入 about:preferences，将 browser.preferences.experimental 的值设为 True，之后可以在偏好设置下找到 Firefox Experiment。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T12:52:19Z",
+  "Author": "WinterIsComing"
+}

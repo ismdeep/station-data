@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD Radeon 图形驱动占到了内核的 10.5%",
+  "Link": "https://www.solidot.org/story?sid=65769",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据最新的 Linux 5.9 Git 树记录，内核包含有 2049 万行代码，以及 358 万行代码注释和 372 万空行，总共 2781 万行。其中 AMDGPU 图形驱动占据的比例最高。六年前，AMD \u003ca href=\"https://www.solidot.org/story?sid=41378\" target=\"_blank\"\u003e\u003cu\u003e采取行动\u003c/u\u003e\u003c/a\u003e统一了 Linux 开源和闭源驱动，AMDGPU 内核驱动作为一个核心组件被开源驱动和闭源驱动共同使用。在 Linux 5.9 中，AMDGPU 驱动共有 216 万行代码，以及 24.7 万行代码注释和 10.9 万空行，共 251 万行，\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.9-AMDGPU-Stats\"\u003e\u003cu\u003e占到了内核的约 10.5%\u003c/u\u003e\u003c/a\u003e。相比之下，NVIDIA \u0026#34;Nouveau\u0026#34;驱动只有 14.9 万行代码，2.56 万行注释和 1.99 万空行。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-12T02:27:08Z",
+  "Author": "WinterIsComing"
+}

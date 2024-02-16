@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "将 Apple ID 迁移转区到美国",
+  "Link": "https://liam.page/2018/01/15/AppleID-transfer-to-US/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e因为一些原因，我需要将 Apple ID 迁移转区到美国。这篇记录一下操作步骤。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003col\u003e\n\u003cli\u003e若已加入「家庭共享（Family Sharing）」，则退出当前家庭共享。\u003c/li\u003e\n\u003cli\u003e准备好一个可用的美国地址（可使用 \u003ca target=\"_blank\" rel=\"noopener\" href=\"https://www.google.cn/maps\"\u003eGoogle 地图\u003c/a\u003e，确认邮编等信息）。\u003c/li\u003e\n\u003cli\u003e准备好一个可用的美国电话号码（可使用 \u003ca target=\"_blank\" rel=\"noopener\" href=\"https://www.textnow.com/\"\u003eTextNow\u003c/a\u003e 或者 Google Voice 注册，获取一个可用的美国 VoIP 电话号码）。\u003c/li\u003e\n\u003cli\u003e准备好一个可用的美国支付方式（可在 \u003ca target=\"_blank\" rel=\"noopener\" href=\"https://www.paypal.com/\"\u003ePayPal\u003c/a\u003e 注册美国区账号，结合支持美元支付的信用卡）。\u003c/li\u003e\n\u003cli\u003e打开最新版的 iTunes，按如下操作步骤，进入到修改付款方式的界面：菜单栏 -\u0026gt; 账户 -\u0026gt; 查看我的账户 -\u0026gt; 更改国家/地区 -\u0026gt; 一路下一步。\u003c/li\u003e\n\u003cli\u003e填写准备好的可用的美国支付方式；对于 Paypal，选择后会弹出浏览器并跳转到 PayPal 界面登录验证。\u003c/li\u003e\n\u003cli\u003e填写准备好的可用的美国地址、电话。\u003c/li\u003e\n\u003cli\u003e完成。\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e备注：\u003cdel\u003e将 Apple ID 迁移转区到美国之后，若要组建新的家庭共享，则必须绑定美国银行发行的信用卡/储蓄卡；使用 PayPal 或他国发行的信用卡/储蓄卡是不行的。\u003c/del\u003e当前使用 PayPal 作为支付方式的用户，已可组建家庭共享。但应注意，家庭共享的成员，应该均为美区账号。\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2018-01-15T03:44:24Z",
+  "Author": "Liam Huang"
+}

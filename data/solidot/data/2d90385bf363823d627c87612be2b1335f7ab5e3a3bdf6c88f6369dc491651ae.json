@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RubyGems 发现了两个试图窃取数字货币的恶意软件包",
+  "Link": "https://www.solidot.org/story?sid=66428",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRuby 项目的软件包仓库 RubyGems \u003ca href=\"https://blog.sonatype.com/rubygems-laced-with-bitcoin-stealing-malware\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e两个设计通过安装剪切板劫持程序设计窃取数字货币的恶意软件包。幸运的是这两个包只被下载了 142 次，而且其替换的数字货币钱包地址没有收到任何资金。恶意包伪装成比特币库和一个显示字符串颜色效果的库。剪切板劫持程序通过监视 Windows 的剪切板中的数字货币地址，一旦监测到就用攻击者控制的钱包地址替换掉，除非用户重复检查拷贝的地址，否则用户发送的数字货币就会发送给攻击者而不是目标接收者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-21T05:24:52Z",
+  "Author": "WinterIsComing"
+}

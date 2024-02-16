@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Audacity 引发隐私争议",
+  "Link": "https://www.solidot.org/story?sid=68206",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t著名开源免费跨平台开源音频编辑器 Audacity 今年早些时候被 Muse Group 收购，它最近更新了\u003ca href=\"https://www.audacityteam.org/about/desktop-privacy-notice/\"\u003e\u003cu\u003e隐私政策\u003c/u\u003e\u003c/a\u003e，表示可能会按执法机构、诉讼和当局要求收集必要的数据。一个不联网的音频编辑器去收集“必要的数据”，引发了 Audacity 变成间谍软件的担忧。Audacity 开发者在其 GitHub 项目上\u003ca href=\"https://github.com/audacity/audacity/discussions/1225\"\u003e\u003cu\u003e澄清\u003c/u\u003e\u003c/a\u003e，称它收集的数据非常有限，主要是 IP 地址和基本系统信息，以及可选的错误报告，表示正与律师团队合作修改隐私政策更明确的阐述这些观点和意图。已经有人\u003ca href=\"https://github.com/temporary-audacity/audacity\"\u003e\u003cu\u003e创建\u003c/u\u003e\u003c/a\u003e了 Audacity 的分支，不收集任何数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-06T04:42:30Z",
+  "Author": "WinterIsComing"
+}

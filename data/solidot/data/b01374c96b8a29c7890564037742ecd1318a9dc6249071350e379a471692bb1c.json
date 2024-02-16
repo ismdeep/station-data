@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "如何在 Windows 上卸载 Edge",
+  "Link": "https://www.solidot.org/story?sid=76708",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本月早些时候，微软释出了 Windows 11 的一个预览版本，为了遵守欧洲经济区的监管规定，它现在允许该区域的用户卸载 Edge 和移除 Bing。不幸的是，其它区域的用户享受不到这一变化。但用户现在找到了一个“简单”的方法，允许生活在不被支持区域的用户也能卸载 Edge，整个过程共有十几步，其中包括下载开源应用 ViVeTool、修改注册表和多次重启电脑，等等。整体来说还是比较简单。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.neowin.net/guides/here-is-a-simple-method-to-uninstall-edge-in-windows-10-and-11/\n\u003cbr/\u003e\nhttps://github.com/thebookisclosed/ViVe/releases\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-24T05:06:14Z",
+  "Author": "Wilson"
+}

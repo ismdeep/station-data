@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "突破性 AI 技术实现从 2D 图像实时渲染 3D 场景",
+  "Link": "https://www.solidot.org/story?sid=70045",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t人类非常擅长根据 2D 图像理解它描绘的 3D 场景。人工智能代理则不然。然而需要与物理物体进行交互的机器——比如收割庄稼或者协助手术的机器人——必须能从它对 2D 训练图像的观察中推断出 3D 场景的特性。虽然科学家成功使用神经网络根据图像推断出 3D 场景的模型，但这种机器学习方法速度不够快，无法适用于很多现实世界的应用。MIT 等机构的研究人员\u003ca href=\"https://scitechdaily.com/breakthrough-ai-technique-enables-real-time-rendering-of-scenes-in-3d-from-2d-images/\" target=\"_blank\"\u003e\u003cu\u003e展示的一项新技术能以比某些现有模型快 15,000 倍的速度从图像中展现 3D 场景\u003c/u\u003e\u003c/a\u003e。该方法将场景表示为一个 360 度的光场，一个函数描述了 3D 空间中流经每个点和每个方向的所有光线。光场被编码到一个神经网络中，可更快地从图像中渲染底层 3D 场景。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-17T09:54:59Z",
+  "Author": "wanwan"
+}

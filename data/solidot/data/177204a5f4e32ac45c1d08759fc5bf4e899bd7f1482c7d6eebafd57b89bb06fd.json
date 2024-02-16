@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "绝大部分 Android 手电筒应用需要大量权限",
+  "Link": "https://www.solidot.org/story?sid=62070",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对 Google Play 应用商店内 937 款手电筒应用的分析\u003ca href=\"https://www.zdnet.com/article/most-android-flashlight-apps-request-an-absurd-number-of-permissions/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，绝大部分都要求超过其需求的大量权限，平均每个应用需要 25 个权限。手电筒应用所需权限最主要的是访问手机摄像头上的闪光灯，而从 Android 5 开始系统其实内置了手电筒应用。Avast Security 的\u003ca href=\"https://decoded.avast.io/luiscorrons/flashlight-apps-on-google-play-request-up-to-77-permissions/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e还发现，有 77 个手电筒应用需要 50 个以上的权限，其中两个下载量十万+ 的应用需要多达  77 个权限，还有 3 个需要 76 个。77 个应用要求音频记录权限，180 个应用要求通讯录权限，21 个应用要求写入通讯录的权限。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-12T11:24:08Z",
+  "Author": "wenfeixiang"
+}

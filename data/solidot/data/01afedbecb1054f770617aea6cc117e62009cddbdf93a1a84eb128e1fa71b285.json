@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "窃取密码的 Android 恶意程序正在快速扩散",
+  "Link": "https://www.solidot.org/story?sid=67625",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名为 FluBot 的 Android 恶意程序正在\u003ca href=\"https://www.zdnet.com/article/this-password-stealing-android-malware-is-spreading-quickly-heres-watch-to-watch-out-for/\"\u003e快速扩散\u003c/a\u003e。它能窃取密码、银行数据和其它敏感信息。FluBot 主要通过短信传播，短信声称是来自快递公司，要求用户点击链接跟踪正在快递的包裹。而这个钓鱼链接会要求用户安装一个应用。一旦安装恶意程序会访问通讯录，向所有联络人发送短信，进一步扩散恶意程序。英国国家网络安全中心已对此发出了\u003ca href=\"https://www.ncsc.gov.uk/guidance/flubot-guidance-for-text-message-scam\" target=\"_blank\"\u003e\u003cu\u003e安全警告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-27T10:27:40Z",
+  "Author": "WinterIsComing"
+}

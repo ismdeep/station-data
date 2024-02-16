@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "日本连锁酒店 HIS Group 称黑客可能通过室内机器人偷窥客人",
+  "Link": "https://www.solidot.org/story?sid=62340",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t日本连锁酒店 HIS Group \u003ca href=\"https://www.theregister.co.uk/2019/10/22/japanese_hotel_chain_sorry_that_bedside_robots_may_have_watched_guests\"\u003e\u003cu\u003e为忽视警告道歉\u003c/u\u003e\u003c/a\u003e，它的室内机器人能被入侵和远程查看视频片段。酒店配备的迎宾机器人允许客人通过面部识别技术办理入住。但一位安全研究人员在 Twitter 上透露，他曾在 7 月份警告 HIS Group 机器人存在容易利用的漏洞，在没有听到任何回应之后他于 10 月 13 日披露了漏洞。机器人的未签名代码允许客人在其头部安装 NFC 标签，远程访问其摄像头和麦克风，监视后续入住的客人。HIS Group 是日本十家使用机器人替代人类服务员的连锁酒店之一，该公司认为未经授权访问机器人的风险较低，但尽管如此他们还是更新了机器人。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T07:59:09Z",
+  "Author": "wenfeixiang"
+}

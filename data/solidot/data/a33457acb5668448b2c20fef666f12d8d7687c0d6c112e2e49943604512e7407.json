@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "兆芯八核 CPU 距离主流还差一步",
+  "Link": "https://www.solidot.org/story?sid=64100",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年 6 月，台湾威盛（VIA）与上海市政府的合资企业兆芯发布了基于“陆家嘴（LuJiaZui）”微架构的 KX-6000，声称能达到英特尔 i5-7400 的水平。KX-6000 采用台积电 16 纳米工艺制造，为八核 x86-64 处理器，频率 2.7 GHz 到 3.0 GHz，集成 8 MB L2 缓存，DirectX 11.1 兼容 iGPU，双通道 DDR4-3200 内存控制器，PCIe 和 SATA等控制器，不支持超线程。现在，对 KX-6000系列产品如 U6880 和 U6780A 的测试显示\u003ca href=\"https://www.techspot.com/news/84789-latest-zhaoxin-x86-cpus-tested-what-china-closing.html\"\u003e它距离主流入门级产品还差一点\u003c/a\u003e。KX-U6780A 的 Geekbench 单核和多核得分分别为 363 和 2091，距离 i5-7400 的 884 和 2793 还有一段差距；它的 3DMark Fire Strike Physics 得分 6871，低于 i5-7400 的 7404。在 720p 最低图形设置下玩 Dota 2 只有 19-20 fps，而 i5-7400 的集显能达到 100-120 fps。有意思的是，KX-U6780A 还存在影响英特尔处理器的 Spectre 漏洞，兆芯计划在下一代  KX-7000 系列中整合修正补丁。目前兆芯主要与系统集成商合作向政府机构提供运行 Windows 10 CMIT 政府版的机器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-13T07:38:35Z",
+  "Author": "WinterIsComing"
+}

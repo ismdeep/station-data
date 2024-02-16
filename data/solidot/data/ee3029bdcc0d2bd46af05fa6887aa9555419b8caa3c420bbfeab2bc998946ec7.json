@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BlueKeep 漏洞利用导致打过补丁的 Windows 机器崩溃",
+  "Link": "https://www.solidot.org/story?sid=62576",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t正在传播的 BlueKeep 漏洞利用不只是影响没有及时打补丁的 Windows 机器，\u003ca href=\"https://arstechnica.com/information-technology/2019/11/solved-why-in-the-wild-bluekeep-exploits-are-causing-patched-machines-to-crash/#p3\" target=\"_blank\"\u003e\u003cu\u003e它还导致部分打过补丁的 Windows 机器崩溃\u003c/u\u003e\u003c/a\u003e。原因与修复英特尔 CPU 漏洞 Meltdown 的补丁有关。该补丁被称为 KVA Shadow，代表 Kernel Virtual Address Shadow，方法是隔离内核内存和用户模式线程的虚拟内存页表，但因为需要执行捕获异常和系统调用等功能部分内核代码子集被排除在外。Bluekeep 漏洞利用引发的 shellcode 不是 KVA Shadow 代码的一部分，用户模式无法与 Shadow 代码作用，导致内核陷入了递归循环直至系统崩溃。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-12T07:50:01Z",
+  "Author": "wenfeixiang"
+}

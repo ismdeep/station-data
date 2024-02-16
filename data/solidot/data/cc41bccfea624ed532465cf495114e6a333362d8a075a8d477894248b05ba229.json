@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软收购 NPM",
+  "Link": "https://www.solidot.org/story?sid=63838",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软旗下的代码托管平台 GitHub \u003ca href=\"https://github.blog/2020-03-16-npm-is-joining-github/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e签署了协议收购 npm。作为 Node.js 项目的包管理器，npm 是 JS 开发的重要组成部分，托管了 130 多万个包，每月下载量 750 亿次。GitHub CEO Nat Friedman 表示，收购之后 npm 仍然会免费，GitHub 会投资扩展其基础设施，确保 npm 快速、可靠和可伸缩。对于付费用户，GitHub 会继续提供支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-17T03:30:06Z",
+  "Author": "WinterIsComing"
+}

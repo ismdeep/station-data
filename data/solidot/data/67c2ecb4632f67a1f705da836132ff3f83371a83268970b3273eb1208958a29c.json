@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "智利银行在勒索软件攻击后关闭所有分行",
+  "Link": "https://www.solidot.org/story?sid=65477",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t智利三大银行之一的国家银行（BancoEstado）\u003ca href=\"https://www.zdnet.com/article/chilean-bank-shuts-down-all-branches-following-ransomware-attack/\" target=\"_blank\"\u003e上周末遭到勒索软件攻击\u003c/a\u003e，周一宣布关闭所有分支机构。有关攻击的细节尚未公开，但消息来源称该银行计算机感染的是 REvil (Sodinokibi)勒索软件。攻击始于一位雇员收到并打开了一份恶意 Office 文档，文档据信在银行的网络安装了一个后门。上周五到周六晚上，黑客利用后门访问了银行的内网安装了勒索软件。一开始，银行试图在不被注意的情况下恢复服务，但破坏范围太广了，勒索软件加密了该行的大部分内部服务和雇员工作站。银行在周日披露了攻击，官员认识到到周一他们也难以恢复服务，因此决定关闭分行。银行的网站、入口、移动应用，以及 ATM 机器都未受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-08T11:53:00Z",
+  "Author": "WinterIsComing"
+}

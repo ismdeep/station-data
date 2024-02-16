@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Kali Linux 加入秘密模式模仿 Windows",
+  "Link": "https://www.solidot.org/story?sid=62806",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近发布的 \u003cspan class=\"tlid-translation translation\" lang=\"zh-CN\"\u003e Kali Linux 2019.4 \u003c/span\u003e加入了一个机密模式，可以让其桌面\u003ca href=\"https://www.bleepingcomputer.com/news/security/kali-linux-adds-undercover-mode-to-impersonate-windows-10/\" target=\"_blank\"\u003e\u003cu\u003e看起来像是 Windows 10\u003c/u\u003e\u003c/a\u003e。Kali 是用于渗透测试的 Linux 发行版，鉴于 Linux 桌面远没有 Windows 和 macOS 那样流行，因此在公共场所看到有人运行带有龙标志的 Kali Linux 可能会让人感到可疑。新引入的这个模式可以减少怀疑避免惹来麻烦。开发者\u003ca href=\"https://www.kali.org/news/kali-linux-2019-4-release/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，用户回到私人地方之后可以运行脚本恢复原来的主题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-02T04:35:18Z",
+  "Author": "WinterIsComing"
+}

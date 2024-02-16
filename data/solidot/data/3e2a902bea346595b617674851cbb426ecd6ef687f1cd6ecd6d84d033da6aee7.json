@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "摩尔线程开发者向 VA-API 和 FFmpeg 项目贡献代码",
+  "Link": "https://www.solidot.org/story?sid=74704",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发国产 GPU 的摩尔线程开发者最近向 Video Acceleration API (VA-API) 库和 FFmpeg 项目贡献了代码，加入了  VAProfileH264High10 支持。摩尔线程的工程师在代码注解中称，该公司最新的产品 TTS80/MTTS2000/MTT3000 都具有在最高 8k 分辨率上编解码 H264High10 的能力。此外还支持 AVS+ 和 AVS2 视频解码，计划未来加入到 VAAPI。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Moore-Threads-VA-API-FFmpeg\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-18T15:01:43Z",
+  "Author": "Wilson"
+}

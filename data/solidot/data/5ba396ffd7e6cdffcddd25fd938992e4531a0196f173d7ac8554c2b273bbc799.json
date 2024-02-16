@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数千 NPM 账号使用域名过期的邮箱",
+  "Link": "https://www.solidot.org/story?sid=70656",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软和北卡州立大学的研究人员\u003ca href=\"https://therecord.media/thousands-of-npm-accounts-use-email-addresses-with-expired-domains/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，数千名 JS 开发者使用了域名过期的邮箱，这将使得他们在 NPM（Node Package Manager） 上的项目很容易被劫持。研究人员分析了上传到 NPM 包管理器上的 1,630,101 个库的元数据。NPM 是最大的软件包仓库。研究人员发现有 2818 个项目维护者的账户仍在使用域名过期的电邮地址，而部分过期的域名正在 GoDaddy 等网站出售。研究人员认为，攻击者可购买相关域名，在电邮服务器上注册这些维护者的地址，然后重置维护者的账户密码接管 NPM 包。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-15T05:27:09Z",
+  "Author": "WinterIsComing"
+}

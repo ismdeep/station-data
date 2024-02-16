@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google FCM 被屏蔽",
+  "Link": "https://www.solidot.org/story?sid=72861",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;FCM推送通知是少数在中国可用的Google服务，截止9月22日下午。其域名 mtalk.google.com 近日在中国遭到屏蔽，方式是关键词检测，监测到该SNI或者Host则对连接发起TCP重置攻击，\u003ca href=\"https://blocky.greatfire.org/detail/327801/https%3A%2F%2Fmtalk.google.com\" target=\"_blank\"\u003e攻击发生在所有端口上\u003c/a\u003e，包括443和实际提供服务的5228。Android用户可以在拨号盘输入 \u003cspan style=\"font-family: \u0026#34;Helvetica Neue\u0026#34;, \u0026#34;Luxi Sans\u0026#34;, \u0026#34;Segoe UI\u0026#34;, \u0026#34;Hiragino Sans GB\u0026#34;, \u0026#34;Microsoft Yahei\u0026#34;, sans-serif, \u0026#34;Apple Logo\u0026#34;; font-size: 14px; background-color: rgb(255, 255, 255);\"\u003e*#*#426#*#* 来查看当前FCM连接状况。\u003c/span\u003e\u003cspan style=\"font-family: \u0026#34;Helvetica Neue\u0026#34;, \u0026#34;Luxi Sans\u0026#34;, \u0026#34;Segoe UI\u0026#34;, \u0026#34;Hiragino Sans GB\u0026#34;, \u0026#34;Microsoft Yahei\u0026#34;, sans-serif, \u0026#34;Apple Logo\u0026#34;; font-size: 14px; background-color: rgb(255, 255, 255);\"\u003e即使不使用代理也能收到被屏蔽的应用程序的通知这一现象现在终止了。见\u003ca href=\"https://v2ex.com/t/882280\" target=\"_blank\"\u003eV2EX用户们的讨论\u003c/a\u003e（需要登录）。\u003c/span\u003e\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-23T10:56:19Z",
+  "Author": "blackhat"
+}

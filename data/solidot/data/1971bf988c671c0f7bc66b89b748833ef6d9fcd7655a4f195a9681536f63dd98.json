@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客操纵一个僵尸网络只为下载日本动漫",
+  "Link": "https://www.solidot.org/story?sid=64301",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Forcepoint \u003ca href=\"https://www.forcepoint.com/blog/x-labs/botnets-nas-nvr-devices\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个存在了八年之久的僵尸网络，而这个僵尸网络的目的不是为了发动拒绝服务攻击或发送垃圾信息，而只是为了下载日本动漫，很可能是一位黑客的业余项目。被称为 Cereals 的僵尸网络利用了友讯科技的 NVR 和 NAS 设备固件 SMS 通知功能的\u003ca href=\"http://roberto.greyhats.it/advisories/20120208-dlink-rce.txt\"\u003e\u003cu\u003e一个漏洞\u003c/u\u003e\u003c/a\u003e，它最早出现 2012 年，2015 年设备数量最多有 1 万台，最近几年逐渐消失，原因包括存在漏洞的设备逐渐老化和淘汰，此外 2019 年出现的勒索软件 Cr1ptT0r 还会删除 Cereals。种种迹象显示，这个僵尸网络的作者可能是名叫 Stefan 的德国人——Stefan 是德国最常见的名字之一。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-08T10:27:18Z",
+  "Author": "WinterIsComing"
+}

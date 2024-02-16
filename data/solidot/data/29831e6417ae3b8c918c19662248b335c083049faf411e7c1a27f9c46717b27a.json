@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 和 Vivaldi 宣布不支持 Google 的 FLoC",
+  "Link": "https://www.solidot.org/story?sid=67487",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 最近宣布了它的 cookies 替代 \u003ca href=\"https://github.com/WICG/floc\"\u003e\u003cu\u003eFederated Learning of Cohorts (FLoC)\u003c/u\u003e\u003c/a\u003e，设计根据用户群而不是个别用户的兴趣展示广告，Google 声称它对隐私更为友好。但这一提议引发了\u003ca href=\"https://www.solidot.org/story?sid=67242\"\u003e\u003cu\u003e反垄断调查\u003c/u\u003e\u003c/a\u003e。两大基于 Chromium 的浏览器 \u003ca href=\"https://github.com/brave/brave-core/pull/8468\"\u003e\u003cu\u003eBrave\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced/\" target=\"_blank\"\u003e\u003cu\u003eVivaldi \u003c/u\u003e\u003c/a\u003e都宣布不支持 Google 的 FLoC。Vivaldi 称，FLoC 实际上是一种侵入式的隐私跟踪技术，它将会关闭 FLoC API。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-14T07:25:33Z",
+  "Author": "WinterIsComing"
+}

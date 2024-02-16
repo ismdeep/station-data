@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 13.0 释出",
+  "Link": "https://www.solidot.org/story?sid=76328",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目释出了 Tor Browser 13.0，基于 Firefox ESR 115 的首个稳定版本。主要变化包括：更新了浏览器图标；新的主页，可切换到 DuckDuckGo 的 onion 版本进行搜索；更大的窗口，等等。其它更新包括：tor 0.4.8.7，OpenSSL 3.0.11，Firefox 115.3.1esr，等。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.torproject.org/new-release-tor-browser-130/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-13T06:41:46Z",
+  "Author": "Wilson"
+}

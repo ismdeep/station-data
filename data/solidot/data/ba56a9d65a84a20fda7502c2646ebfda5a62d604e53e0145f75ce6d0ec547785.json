@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 开始启用深层链接技术",
+  "Link": "https://www.solidot.org/story?sid=63612",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近发布的 Chrome 80 激活了 ScrollToTextFragment 功能，它是一种深层链接技术，用户可以通过特定网址直接指定想要分享的文本位置，其他人点击链接可以直接访问相关文本而不只是网址。这项功能\u003ca href=\"https://yro.slashdot.org/story/20/02/21/1620224/chrome-deploys-deep-linking-tech-in-latest-browser-build-despite-privacy-concerns\"\u003e\u003cu\u003e去年引发了隐私方面的争议\u003c/u\u003e\u003c/a\u003e，但 Chrome 团队不管争议实现并启用这一功能。ScrollToTextFragment 功能类似在前往某个网页搜索特定文本，浏览器自动滚动到文本所在位置。这项功能听起来似乎人畜无害，但这意味着网站会对访问者有着更多的了解，它们可以知道你对特定的内容感兴趣，从而推断出你的更多信息，很可能你的个人隐私会因此泄露。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-23T12:29:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客删除了 NewsBlur 的 Mongo 数据库",
+  "Link": "https://www.solidot.org/story?sid=68113",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客删除了 \u003ca href=\"https://newsblur.com/\" target=\"_blank\"\u003e\u003cu\u003eNewsBlur\u003c/u\u003e\u003c/a\u003e 网站的所有 Mongo 数据库，将下载的 250 GB 数据作为“人质”进行勒索。NewsBlur 提供 RSS 在线阅读服务，创始人在 HN 上\u003ca href=\"https://news.ycombinator.com/item?id=27613217\"\u003e\u003cu\u003e解释说\u003c/u\u003e\u003c/a\u003e，当时他正在切换 Mongo 服务器，他的 ufw 防火墙本来设置禁止外部 IP 访问内部服务器，但由于 Docker 的问题导致了 Mongo 服务器可以公开访问，一个黑客或者脚本小子在大约 3 小时后扫描到了公开的 Mongo 数据库，因此下载并删除了数据库。NewsBlur 表示会很快通过备份恢复服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-24T06:07:38Z",
+  "Author": "WinterIsComing"
+}

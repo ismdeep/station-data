@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家扫清理解素数分布的一大障碍",
+  "Link": "https://www.solidot.org/story?sid=70373",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黎曼（Bernhard Riemann）提出关于素数分布的开创性猜想之后，162 年过去了。尽管尽了最大努力，数学家在证明黎曼猜想上取得的进展很小。但他们设法在一个相对简单的相关问题上\u003ca href=\"https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/\" target=\"_blank\"\u003e\u003cu\u003e取得了进展\u003c/u\u003e\u003c/a\u003e。在 9 月发表的一篇\u003ca href=\"https://arxiv.org/abs/2109.15230\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，高等研究院的 \u003ca href=\"https://www.ias.edu/scholars/paul-nelson\" target=\"_blank\"\u003e\u003cu\u003ePaul Nelson\u003c/u\u003e\u003c/a\u003e 解决了亚凸界问题（subconvexity problem），这是黎曼猜想的一种轻量级版本。证明本身是一项重大成就，让人们期待与素数相关的更大发现。Nelson 表示：“这是一个有点牵强的梦想，但是你可以非常乐观地希望，也许我们可以研究这样的问题来了解黎曼猜想是怎么回事。”黎曼假设和亚凸界问题很重要，因为素数是数学中最基本的——也是最神秘的对象。当你将它们放在数轴上时，其分布方式似乎没有规律。但在1859 年，黎曼设计了名为黎曼 zeta 函数的对象——一种无限和——它推动了一种革命性的方法，如果得到证明，它将揭开素数的隐藏结构。证明它几年前还被视为是科幻故事。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-14T11:25:32Z",
+  "Author": "matrix"
+}

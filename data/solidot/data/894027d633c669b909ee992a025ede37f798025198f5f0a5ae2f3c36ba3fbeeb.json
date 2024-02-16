@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开发者抱怨 Linux 在低内存条件下的糟糕性能",
+  "Link": "https://www.solidot.org/story?sid=61646",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发者  Artem S Tashkinov 在内核开发者邮件列表上\u003ca href=\"https://lkml.org/lkml/2019/8/4/15\"\u003e\u003cu\u003e抱怨\u003c/u\u003e\u003c/a\u003e Linux 在低内存条件下的\u003ca href=\"https://linux.slashdot.org/story/19/08/06/1839206/linux-performs-poorly-in-low-ram--memory-pressure-situations-on-the-desktop\" target=\"_blank\"\u003e\u003cu\u003e糟糕性能\u003c/u\u003e\u003c/a\u003e。他称，系统可用内存 4GB，禁用 SWAP 以加速低内存情况的出现，启动浏览器如 Chrome/Chromium，打开标签看着内存逐渐减少，当打开一个新标签需要占用比可用内存更多的内存时，整个系统停止响应，你的鼠标光标难以移动，你的硬盘灯在疯狂闪烁，你将无法打开新的应用程序或关闭目前正在运行的应用程序。系统挂起的情况会持续数分钟或更长时间。他认为内核开发者应该采取措施避免这种情况出现。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T04:40:49Z",
+  "Author": "wenfeixiang"
+}

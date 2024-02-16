@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.13-rc1 发布",
+  "Link": "https://www.solidot.org/story?sid=67737",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 发布了\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wiWTU+=wK9pv_YG01rXSqApCS_oY+78Ztz5-ORH5a-kvg@mail.gmail.com/T/#u\"\u003e\u003cu\u003e Linux 5.13-rc1\u003c/u\u003e\u003c/a\u003e，标志着合并窗口的关闭。Linux 5.13-rc1 加入了 631k 行代码，移除了 246k 行代码，主要新的变化\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=linux-513-features\u0026amp;num=1\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e：初步支持 Apple M1 SoC，初步支持 Intel Alder Lake S 图形，AMDGPU FreeSync/Adaptive-Sync HDMI 支持，AMD Aldebaran 加速器支持，Amazon Luna 游戏手柄支持，RISC-V 改进，对 Rust 语言的支持没有合并仍然停留在 Linux-Next 分支，移除了 POWER9 NVLink 2.0 驱动，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-11T11:16:30Z",
+  "Author": "WinterIsComing"
+}

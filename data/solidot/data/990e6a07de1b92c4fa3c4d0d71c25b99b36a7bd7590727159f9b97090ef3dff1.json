@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ProtonVPN 公开源代码",
+  "Link": "https://www.solidot.org/story?sid=63357",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tProtonMail 上周公开了旗下的 VPN 客户端 ProtonVPN 的源代码，包括了 \u003ca href=\"https://github.com/ProtonVPN/win-app\"\u003e\u003cu\u003eWindows\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://github.com/ProtonVPN/mac-app\" target=\"_blank\"\u003e\u003cu\u003emacOS\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://github.com/ProtonVPN/android-app\"\u003e\u003cu\u003eAndroid\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://github.com/ProtonVPN/ios-app\"\u003e\u003cu\u003eiOS\u003c/u\u003e\u003c/a\u003e 版本。ProtonMail 称，VPN 服务缺乏透明度和问责，是否有安全认证，是否遵守了隐私保护法律如  GDPR，公开所有应用程序的源代码是理所当然的下一步。ProtonVPN 的程序已经进过了  SEC Consult 的安全审计，Windows 版本的\u003ca href=\"https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-Windows-app-audit-report-2020.pdf\"\u003e\u003cu\u003e审计报告\u003c/u\u003e\u003c/a\u003e发现了两个低风险的漏洞；\u003ca href=\"https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-Android-app-audit-report-2020.pdf\"\u003e\u003cu\u003eAndroid 版本\u003c/u\u003e\u003c/a\u003e发现了 4 个低风险漏洞，其中之一是不安全的登出；\u003ca href=\"https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-iOS-app-audit-report-2020.pdf\"\u003e\u003cu\u003eiOS 版本\u003c/u\u003e\u003c/a\u003e发现了 2 个中等风险的漏洞和 2 个低风险漏洞，最严重的漏洞是硬编码凭证和内存中包含有敏感数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-27T08:40:47Z",
+  "Author": "WinterIsComing"
+}

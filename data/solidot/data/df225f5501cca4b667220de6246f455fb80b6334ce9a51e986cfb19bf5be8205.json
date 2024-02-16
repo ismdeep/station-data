@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软利用商标法破坏僵尸网络",
+  "Link": "https://www.solidot.org/story?sid=65778",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://krebsonsecurity.com/2020/10/microsoft-uses-copyright-law-to-disrupt-trickbot-botnet/\" target=\"_blank\"\u003e\u003cu\u003e正利用商标法去破坏僵尸网络 Trickbot\u003c/u\u003e\u003c/a\u003e。Trickbot 感染了数以百万计的计算机，传播勒索软件，它已经成为一个全球性威胁。美国军方的网络战司令部过去几天也在尝试破坏 Trickbot 僵尸网络。微软从弗吉尼亚州的一家法庭获得命令接管 Trickbot 使用的多台服务器。微软递交的民事诉讼文件称，Trickbot 背后的攻击者在感染 Windows 系统过程中对微软的品牌和商标造成了极大的损害。在获得法庭命令之后，微软负责客户安全的副总裁 Tom Burt 称他们切断了 Trickbot 使用的关键基础设施。微软承认此举未必能永久性破坏 Trickbot，攻击者可以通过改变指令控制服务器恢复行动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-12T15:36:34Z",
+  "Author": "WinterIsComing"
+}

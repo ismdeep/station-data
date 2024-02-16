@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软解决导致 Edge 停止响应的 bug",
+  "Link": "https://www.solidot.org/story?sid=71963",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://docs.microsoft.com/en-us/windows/release-health/status-windows-11-21h2#ie-mode-tabs-in-microsoft-edge-might-stop-responding\"\u003e\u003cu\u003e解决了\u003c/u\u003e\u003c/a\u003e导致运行在 IE 模式下的 MS Edge 浏览器停止响应的 bug。该问题影响安装了可选累计更新 \u003ca href=\"https://support.microsoft.com/help/5014019\" target=\"_blank\" rel=\"nofollow noopener\"\u003eKB5014019\u003c/a\u003e、\u003ca href=\"https://support.microsoft.com/help/5014023\" target=\"_blank\" rel=\"nofollow noopener\"\u003eKB5014023\u003c/a\u003e 和 \u003ca href=\"https://support.microsoft.com/help/5014021\" target=\"_blank\" rel=\"nofollow noopener\"\u003eKB5014021\u003c/a\u003e 的 Windows 11 (version 21H2)、Windows 10 (versions 20H2、221H1 和 21H2 以及 Windows Server 2022，在安装上述更新之后， 当一个网站展示模态对话框后 Microsoft Edge 的 IE 模式标签页将停止响应。微软解释说，所谓的模态对话框是指一种表格或对话框，要求用户在与网站继续互动前做出回应。微软通过已知问题回滚（Known Issue Rollback）修复了该问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-28T09:43:28Z",
+  "Author": "WinterIsComing"
+}

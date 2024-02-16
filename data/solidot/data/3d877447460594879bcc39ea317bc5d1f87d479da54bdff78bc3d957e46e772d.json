@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Notepad++ v8 发布",
+  "Link": "https://www.solidot.org/story?sid=67977",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t文本编辑器 Notepad++ \u003ca href=\"https://notepad-plus-plus.org/downloads/v8/\"\u003e\u003cu\u003e释出了 v8\u003c/u\u003e\u003c/a\u003e。主要新特性包括：深色模式（Dark Mode）、ARM64 构建版本，工具栏 Fluent UI 图标，免干扰模式，深色模式 API NPPM_ADDTOOLBARICON_FORDARKMODE，一次点击操作关闭所有标签，移除 Microsoft Bing 搜索，多个 bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-07T14:55:06Z",
+  "Author": "WinterIsComing"
+}

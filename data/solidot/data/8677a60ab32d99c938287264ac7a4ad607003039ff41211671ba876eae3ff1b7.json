@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OCaml 5.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=73676",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOCaml 语言释出了 5.0.0，引入了全新的运行时环境，支持共享的内存并行性和效果处理程序。OCaml 5.0.0 兼容 OCaml 4，能与  OCaml 4 工作的代码应该也能与 OCaml 5 工作，例外是移除了很多早已废弃的函数和模块，改变了内部运行时 API。OCaml 是一个函数式、指令式、模块化、面向对象的通用的编程语言，源自 ML（Meta Language）语言家族。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/ocaml/ocaml/releases/tag/5.0.0\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-16T14:59:24Z",
+  "Author": "Wilson"
+}

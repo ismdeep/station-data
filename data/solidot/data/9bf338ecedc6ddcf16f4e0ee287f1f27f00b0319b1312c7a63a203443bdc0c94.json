@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因域名持有人入狱 Eth.link 域名将下线",
+  "Link": "https://www.solidot.org/story?sid=72598",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t试图成为 Web3 版本 DNS 的以太坊域名服务 ENS 依赖 Eth.link 将 .eth 域名记录转换到其它服务。但 eth.link 域名是有时间期限的，到期后需要续期。问题是域名持有人 Virgil Griffith 因帮助朝鲜逃避制裁\u003ca href=\"https://web3isgoinggreat.com/?id=ethlink-service-about-to-go-offline-because-domain-owner-is-in-prison\"\u003e\u003cu\u003e而被判入狱五年\u003c/u\u003e\u003c/a\u003e，目前正在服第一年牢役。域名服务商 GoDaddy 此前允许其他人代表 Griffith 续期域名，但现在它\u003ca href=\"https://aboutus.godaddy.net/newsroom/company-news/news-details/2022/GoDaddy-Statement-on-eth.link-Domain-Registration/default.aspx\"\u003e\u003cu\u003e逆转了这一决定\u003c/u\u003e\u003c/a\u003e，让 eth.link 域名在 9 月 5 日过期。ENS DAO 督促人们切换到不同的服务，担心域名被恶意者抢注后发动钓鱼攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-28T15:50:58Z",
+  "Author": "WinterIsComing"
+}

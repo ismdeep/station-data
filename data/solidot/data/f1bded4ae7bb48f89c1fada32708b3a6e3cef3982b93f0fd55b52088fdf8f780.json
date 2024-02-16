@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Play Store 是  Android 恶意程序的主要传播渠道",
+  "Link": "https://www.solidot.org/story?sid=66085",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为  Android 生态系统最大的应用商店，Google Play Store 被发现同时也是 Android 恶意程序的\u003ca href=\"https://www.zdnet.com/article/play-store-identified-as-main-distribution-vector-for-most-android-malware/\" target=\"_blank\"\u003e\u003cu\u003e主要传播渠道\u003c/u\u003e\u003c/a\u003e。研究人员分析了 2019 年 6 月到 9 月之间 1200 万 Android 设备安装的 3400 万个应用（来自于 790 万种应用）。根据对恶意程序的不同分类，10% 到 24% 的应用可以被归为恶意或用户不想要的应用。67% 的恶意应用是通过官方应用商店安装的，10% 来自于第三方应用商店。虽然从 Google Play Store 安装的应用中恶意应用的比例实际上非常小，但由于其规模的庞大导致总的数量仍然很惊人。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-13T06:08:24Z",
+  "Author": "WinterIsComing"
+}

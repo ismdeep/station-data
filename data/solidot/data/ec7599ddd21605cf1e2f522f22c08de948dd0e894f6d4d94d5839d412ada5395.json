@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "吹哨人称软件 bug 让囚犯在释放日后继续关押",
+  "Link": "https://www.solidot.org/story?sid=67003",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚利桑那州监狱部门的\u003ca href=\"https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release\"\u003e\u003cu\u003e吹哨人称\u003c/u\u003e\u003c/a\u003e，监狱囚犯管理软件存在 bug 无法解释现有的量刑法律，导致数百名符合释放条件的囚犯被继续关押。吹哨人称他们一年前就在内部提出了这个问题，但至今监管管理人员并没有采取行动解决软件 bug。监狱部门已经承认软件存在问题。监狱部门投入了 2400 万美元雇佣 Business \u0026amp; Decision 开发了名为 ACIS 的软件去管理监狱囚犯。但软件的一个计算囚犯释放日期的模块无法解释 2019 年通过的修正案，该修正案允许非暴力囚犯能提前释放，但软件无法识别有资格释放的囚犯。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-23T05:08:57Z",
+  "Author": "WinterIsComing"
+}

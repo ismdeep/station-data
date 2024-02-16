@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "内核补丁将 kallsyms_lookup_name()查找速度提高 715 倍",
+  "Link": "https://www.solidot.org/story?sid=73648",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 6.2 合并了华为开发者 Zhen Lei 递交的一个补丁，将 kallsyms_lookup_name()的查找速度提高了 715 倍。kallsyms_lookup_name() 用于根据名字查找一个符号的地址，能用于查找内核符号表中的任何符号。Zhen Lei 此前在补丁描述中解释说，目前内核使用的查找方法是将 kallsyms_names 中的符号逐一展开，然后查找，这种算法的时间复杂度是 O(n)。如果像地址一样将名字按升序排序，可以使用二叉树搜索。这种算法的时间复杂度是 O(log(n))。从 O(n) 到 O(log(n)) 查找时间可以大幅减少。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Linux-6.2-Modules\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-14T09:25:10Z",
+  "Author": "Wilson"
+}

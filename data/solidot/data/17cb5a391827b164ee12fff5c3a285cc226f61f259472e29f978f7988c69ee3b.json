@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客组织入侵网游开发商",
+  "Link": "https://www.solidot.org/story?sid=64446",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月安全公司 QuoIntelligence \u003ca href=\"https://www.solidot.org/story?sid=64193\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，中国黑客组织 Winnti (aka APT41、BARIUM、Blackfly)尝试入侵《仙境传说》开发商韩国重力社的内部网络。Winnti 被认为是恶意版 CCleaner 的幕后攻击者。安全公司 ESET 本周四\u003ca href=\"https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e了 Winnti 对网游公司发动攻击的更多细节。安全研究人员称，Winnti 攻击了韩国和台湾的多个热门网游开发商，在其中一个案例中，攻击者入侵了受害者的构建系统，发动了供应链攻击，将游戏可执行文件变成了木马。在另一个案例中，攻击者入侵了游戏服务器，操纵游戏内虚拟货币以获得经济利益。在 2018 年的一次攻击中， Winnti 窃取了 Nfinity Games 的软件证书，该证书直到 ESET 警告其滥用之后才被撤销。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-22T15:41:11Z",
+  "Author": "WinterIsComing"
+}

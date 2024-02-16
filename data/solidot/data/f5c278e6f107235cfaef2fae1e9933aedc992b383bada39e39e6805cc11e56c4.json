@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "法拉第论文以数字方式存储在荧光染料中",
+  "Link": "https://www.solidot.org/story?sid=69251",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t哈佛大学研究人员\u003ca href=\"https://arstechnica.com/science/2021/10/seminal-michael-faraday-paper-image-digitally-stored-in-fluorescent-dyes/\"\u003e\u003cu\u003e开发出\u003c/u\u003e\u003c/a\u003e一种利用荧光染料混合物存储数据的方法，染料被印刷在环氧树脂表面，形成微小的点。每个小点的染料混合物编码了信息，可通过荧光显微镜读取。光盘、闪存和磁性硬盘只能将数字信息存储几十年，而且往往需要消耗大量的能量，不太适合长期存储数据。因此研究人员一直在研究使用分子作为替代品，尤其是利用 DNA 进行数据存储。这些方法都面临自身的问题，如综合成本过高或者读写速度缓慢等。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n发表在《ACS Central Science》期刊上的一篇\u003ca href=\"https://pubs.acs.org/action/showCitFormats?doi=10.1021/acscentsci.1c00728\u0026amp;ref=pdf\"\u003e\u003cu\u003e新论文\u003c/u\u003e\u003c/a\u003e显示，哈佛大学的科学家找到了如何使用荧光染料更便宜、更快速存储数据的方式。研究人员测试了他们的方法：存储了 19 世纪物理学家迈克尔.法拉第的一篇关于电子学和化学的\u003ca href=\"https://royalsocietypublishing.org/doi/10.1098/rstl.1832.0006\"\u003e\u003cu\u003e开创性论文\u003c/u\u003e\u003c/a\u003e和法拉第本人的 JPEG 图像。论文共同作者 Amit A. Nagarkar 是 George Whitesides 哈佛实验室的博士后，他表示：“这种方法可以实现低成本的档案数据存储……（这种方法）使用现有的商业技术——喷墨打印和荧光显微镜，实现了长期数据存储的使用。”Nagarkar 现在为一家创业公司工作，该公司希望能将这种方式商业化。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-15T09:03:28Z",
+  "Author": "wanwan"
+}

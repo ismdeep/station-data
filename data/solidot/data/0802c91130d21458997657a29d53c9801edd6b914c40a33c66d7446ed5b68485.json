@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国供应商 C-Data 的光纤到户设备发现后门账号",
+  "Link": "https://www.solidot.org/story?sid=64915",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在中国供应商\u003ca href=\"https://cdatatec.com.cn/\" target=\"_blank\"\u003e\u003cu\u003e西迪特（C-Data）\u003c/u\u003e\u003c/a\u003e的 29 种光纤到户设备中\u003ca href=\"https://www.zdnet.com/article/backdoor-accounts-discovered-in-29-ftth-devices-from-chinese-vendor-c-data/\" target=\"_blank\"\u003e\u003cu\u003e发现了后门账号\u003c/u\u003e\u003c/a\u003e。安全研究员 Pierre Kim 和 Alexandre Torres 在西迪特的 FTTH OLT 设备固件中\u003ca href=\"https://pierrekim.github.io/blog/2020-07-07-cdata-olt-0day-vulnerabilities.html\" target=\"_blank\"\u003e\u003cu\u003e发现了 7 个漏洞\u003c/u\u003e\u003c/a\u003e，其中最严重的是硬编码的 Telnet 后门账号。这些账号允许攻击者连接设备，为攻击者提供完整的管理员命令行访问权限。不同型号的设备有着不同的后门账号，其中包括 suma123/panger123、debug/debug124、root/root126 和 guest/[empty]。研究人员没有通知西迪特就公开了这项发现，他们认为部分后门是供应商有意加入的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-11T13:55:51Z",
+  "Author": "WinterIsComing"
+}

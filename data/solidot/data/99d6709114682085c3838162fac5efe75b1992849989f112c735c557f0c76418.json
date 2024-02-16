@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客窃取了 Mimecast 的数字证书",
+  "Link": "https://www.solidot.org/story?sid=66643",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t邮件管理提供商 Mimecast 发表\u003ca href=\"https://www.mimecast.com/blog/important-update-from-mimecast/\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e称黑客窃取了它用于加密客户流量的数字证书。它表示是在收到微软的警告之后才获悉证书失窃，大约有十分之一的客户受到影响，成为攻击目标的客户大约为个位数。它已经联络了这些客户，并建议使用现有加密连接的客户立即删除连接，用新的证书重新建立连接。窃取数字证书之后黑客可以通过监视目标的进出流量，阅读和修改加密的数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-13T06:41:27Z",
+  "Author": "WinterIsComing"
+}

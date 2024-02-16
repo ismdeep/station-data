@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果修复被间谍软件利用的 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=68920",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果释出了一个\u003ca href=\"https://techcrunch.com/2021/09/13/apple-zero-day-nso-pegasus/\"\u003e\u003cu\u003e安全更新\u003c/u\u003e\u003c/a\u003e，修复了被以色列间谍软件公司 NSO Group 利用的一个 0day 漏洞，该漏洞存在于 iMessage 的图像渲染库，无需用户点击就能入侵 iPhone、iWatch 或 Mac 设备。加拿大多伦大学公民实验室的安全研究人员将该漏洞命名为 \u003ca href=\"https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/\" target=\"_blank\"\u003e\u003cu\u003eFORCEDENTRY\u003c/u\u003e\u003c/a\u003e，认为它至少存在了六个月。漏洞影响 iOS v14.8、OSX Big Sur 11.6 和 watchOS 7.6.2 之前的所有版本。过去，受害者只有在收到发送到他们手机或电子邮件的可疑链接后，才知道自己的设备已被间谍软件感染。但是 NSO 间谍软件 Pegasus 的零点击功能不会给受害者这样的提示，就可以完全接触一个人的数字生活。这些功能可以在黑客工具的地下市场上赚取数百万美元。苹果发言人\u003ca href=\"https://cn.nytimes.com/technology/20210914/apple-software-update-spyware-nso-group/\"\u003e\u003cu\u003e证实了\u003c/u\u003e\u003c/a\u003e公民实验室的评估，并表示该公司计划在今年晚些时候推出的下一次 iOS 15 软件更新中增加间谍软件屏障。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-14T07:00:36Z",
+  "Author": "WinterIsComing"
+}

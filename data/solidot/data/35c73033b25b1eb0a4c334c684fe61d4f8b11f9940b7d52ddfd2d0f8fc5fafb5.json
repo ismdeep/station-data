@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔处理器微码更新影响性能",
+  "Link": "https://www.solidot.org/story?sid=68096",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2021 年 6 月 8 日，英特尔释出了\u003ca href=\"https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00464.html\" target=\"_blank\"\u003e\u003cu\u003e微码更新\u003c/u\u003e\u003c/a\u003e，缓解多个潜在安全漏洞，其中之一是 \u003ca href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24512\"\u003e\u003cu\u003eCVE-2020-24512\u003c/u\u003e\u003c/a\u003e，英特尔缓解该漏洞的方法是禁用优化 hardware zero store。结果是在部分英特尔处理器上用零填充一个给定大小区域的吞吐性能\u003ca href=\"https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html\" target=\"_blank\"\u003e\u003cu\u003e出现了显著下降\u003c/u\u003e\u003c/a\u003e。绝大多数 Linux 发行版和 Windows 操作系统都会默认启用微码更新，自曝出 Meltdown 和 Spectre 等漏洞之后，英特尔处理器经常发生因补丁导致性能下降的事件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-22T09:45:08Z",
+  "Author": "WinterIsComing"
+}

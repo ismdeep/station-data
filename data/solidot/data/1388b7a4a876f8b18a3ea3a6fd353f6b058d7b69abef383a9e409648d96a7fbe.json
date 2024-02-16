@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一次比特币交易会产生相当于两部 iPhone 的电子垃圾",
+  "Link": "https://www.solidot.org/story?sid=68980",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据荷兰央行和 MIT 经济学家的分析，一次比特币交易产生的电子垃圾\u003ca href=\"https://www.theguardian.com/technology/2021/sep/17/waste-from-one-bitcoin-transaction-like-binning-two-iphones\" target=\"_blank\"\u003e\u003cu\u003e相当于两部 iPhone\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.sciencedirect.com/science/article/pii/S0921344921005103?dgcid=author\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Resources, Conservation and Recycling》期刊上。比特币挖矿释放的碳足迹已经有深入的研究，但对其产生的电子垃圾则关注不多。比特币挖矿必须使用专用的 ASIC 矿机，而这种矿机除了挖比特币没有替代用途，也就是说当旧矿机消耗的电力成本超过了它的产出，矿机就需要被新一代更高效的矿机取代，而旧的矿机就变成了电子垃圾，不像挖以太坊的显卡还可以在二手市场上卖出。研究人员报告，ASIC 矿机的生命期只有 1.29 年，而每年比特币网络需要更换 3.07 万吨的电子设备。2020 年比特币网络共处理了 1.125 亿笔交易，每笔交易产生至少 272g 的电子垃圾，与两部  iPhone 12 mini 手机相当。经济学家认为切换到权益证明（Proof of Stake）有助于减少电子垃圾。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-17T14:12:09Z",
+  "Author": "WinterIsComing"
+}

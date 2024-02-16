@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新方法放大 DDoS 攻击 40 亿倍",
+  "Link": "https://www.solidot.org/story?sid=70898",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员警告，网络犯罪分子正在利用一种新方法将 DDoS 攻击流量\u003ca href=\"https://arstechnica.com/information-technology/2022/03/ddosers-use-new-method-capable-of-amplifying-traffic-by-a-factor-of-4-billion/\" target=\"_blank\"\u003e\u003cu\u003e放大 40 亿倍\u003c/u\u003e\u003c/a\u003e。DDoS 放大攻击非常受网络罪犯的欢迎，它可以大幅减少发动攻击所需的计算资源。最早的放大攻击是利用错误配置的 DNS 服务器，能将攻击流量放大 54 倍，较新的放大攻击方法包括利用 Network Time Protocol 服务器(放大约 556 倍)、Plex 媒体服务器( 5 倍)、Microsoft RDP (86 倍)、Connectionless Lightweight Directory Access Protocol ( 50 倍)等。此前最大的 DDoS 放大攻击是 \u003ca href=\"https://www.solidot.org/story?sid=55657\"\u003e\u003cu\u003ememcached\u003c/u\u003e\u003c/a\u003e，能将流量放大最高 5.1 万倍。最新的攻击利用的是错误配置的 Mitel，它能放大 40 亿倍的原因之一是大幅延长攻击时间。一个欺骗性的数据包可以诱发持续时间长达 14 小时的 DDoS 攻击，数据包放大率达到了创纪录的 4,294,967,296:1。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-09T10:44:02Z",
+  "Author": "WinterIsComing"
+}

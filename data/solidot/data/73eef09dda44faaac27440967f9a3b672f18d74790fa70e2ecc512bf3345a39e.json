@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "廉价中国产路由器被发现内置后门",
+  "Link": "https://www.solidot.org/story?sid=66176",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员分析了廉价的中国产路由器 Jetstream、Wavlink 和 Winstar 等品牌，其中 Jetstream 由沃尔玛独家销售，他们发现\u003ca href=\"https://cybernews.com/security/walmart-exclusive-routers-others-made-in-china-contain-backdoors-to-control-devices/\" target=\"_blank\"\u003e\u003cu\u003e路由器内置了后门\u003c/u\u003e\u003c/a\u003e，能远程控制，路由器甚至还运行了一个脚本列出附近的 wifi 网络并且能够连接那些网络。研究人员还发现攻击者正在积极利用后门，将存在漏洞的设备加入到 Mirai 僵尸网络。这些路由器看起来来自不同的中国公司，但由于三种路由器有着相同的利用链，以及根据雇员在 LinkedIn 上的信息，研究人员相信它们都来自同一家公司或来自同一家母公司。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-24T07:16:11Z",
+  "Author": "WinterIsComing"
+}

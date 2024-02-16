@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Level 3 网络故障导致全球流量下跌 3.5%",
+  "Link": "https://www.solidot.org/story?sid=65408",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t8 月 30 日标准时间上午十点，美国网络服务商 CenturyLink/Level(3)  发现一个存在问题的  Flowspec 规则防止了 BGP 广播，导致其整个网络出现问题，而下游 ISP 和 CDN 服务商跟着出现访问问题。Flowspec 是 BGP 的一个扩展，允许防火墙规则在整个网络之间快速发布，它可以在极短时间内推送新防火墙规则，如果正确使用的话，它是一个强大的工具，但如果出现错误的话，它可能会造成巨大的影响。Level 3 网络故障的起源很可能是它试图发出新的 Flowspec 规则去屏蔽网络中的攻击或其他问题。Level 3 宕机期间\u003ca href=\"https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/\"\u003e\u003cu\u003e导致全球流量下跌了 3.5%\u003c/u\u003e\u003c/a\u003e。为了解决问题，Level 3 \u003ca href=\"https://www.zdnet.com/article/centurylink-outage-led-to-a-3-5-drop-in-global-web-traffic/\"\u003e\u003cu\u003e重置了所有设备\u003c/u\u003e\u003c/a\u003e，用干净的 BGP 路由表重启路由器，整个过程耗时约 7 个小时。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-01T05:00:15Z",
+  "Author": "WinterIsComing"
+}

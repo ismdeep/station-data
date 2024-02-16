@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "Music Manager",
+  "Link": "https://blog.zzbd.org/2011/02/16/music-manager/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cblockquote\u003e\u003cp\u003e\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://music.163.com/#/song?id=254280\"\u003e听，是谁在唱歌-刘若英\u003c/a\u003e\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e过年闲来无事，又开始折腾Autoit。承诺萧老大的翻译任务到现在还没正经开始，乱七八糟的东西倒是先有声有色的搞起来了，囧，这次倒腾的小玩意是个管理歌词的东东，主要是从千千，酷我，迷你歌词等等网站搜索lrc格式的歌词，算是对\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://www.mp3tag.de/en\"\u003emp3tag\u003c/a\u003e\u003cspan id=\"more\"\u003e\u003c/span\u003e的一种补充吧。还没有完成，直接上图！\u003c/p\u003e\u003cp\u003e首先是桌面歌词GUI，可以解析lrc格式的文本，可设定字体，颜色，透明度，可拖动。\u003c/p\u003e\u003cp\u003e\u003cimg data-src=\"http://cdn.zzbd.org/2015-04-22-00-33-54.png\" title=\"桌面歌词\"/\u003e\u003cbr/\u003e然后是主体，可以显示专辑封面，列表支持过滤\u003cbr/\u003e\u003cimg data-src=\"http://cdn.zzbd.org/2015-04-22-00-36-06.png\" title=\"歌词管理\"/\u003e\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2011-02-16T04:06:20Z",
+  "Author": "J. F"
+}

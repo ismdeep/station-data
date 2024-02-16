@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Yahoo! JAPAN 免密码认证减少 25% 的查询登录速度加快 2.6 倍",
+  "Link": "https://www.solidot.org/story?sid=71496",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tYahoo! JAPAN 是日本最大的媒体公司之一，提供搜索、新闻、电子商务和电子邮件等服务。每个月有超过 5000 万用户登录 Yahoo! JAPAN。多年来发生了很多对用户账户的攻击以及导致账户访问权限丢失的问题。这些问题中大多数都和身份验证使用的密码有关。随着身份验证技术的最新发展，Yahoo! JAPAN 决定从基于密码的方式转向无密码身份验证。自 2015 年以来，Yahoo! JAPAN 一直在致力于无密码登陆计划。这始于 2015 年 5月 获得的 FIDO 服务器认证，之后又引入了 SMS 身份认证、密码停用功能以及对每台设备的 FIDO 支持。如今有3000 万月度活跃用户禁用了密码，使用非密码身份验证方法。Yahoo! JAPAN 对 FIDO 的支持始于 Android 上的 Chrome，现已有超过 1000 万用户设置了 FIDO 身份验证。由于 Yahoo! JAPAN 的这些举措，忘记登录 ID 或密码的查询比例比最高峰时\u003ca href=\"https://web.dev/yahoo-japan-identity-case-study/\"\u003e\u003cu\u003e减少了 25%\u003c/u\u003e\u003c/a\u003e，由于无密码账户数量的增加，未经授权的访问有所减少。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-11T07:36:32Z",
+  "Author": "wanwan"
+}

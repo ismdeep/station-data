@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ISC DHCP Server 寿命终止",
+  "Link": "https://www.solidot.org/story?sid=73020",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周发布的 ISC DHCP v4.4.3-P1 和 4.1-ESV-R16-P2 将是最后一个维护版本，除非发现非常严重的安全漏洞，\u003ca href=\"https://www.isc.org/blogs/isc-dhcp-eol/\" target=\"_blank\"\u003e\u003cu\u003eISC 没有计划继续发布更新\u003c/u\u003e\u003c/a\u003e。项目的代码库将\u003ca href=\"https://gitlab.isc.org/isc-projects/dhcp\"\u003e\u003cu\u003e停止维护\u003c/u\u003e\u003c/a\u003e，用户仍然可以递交补丁和问题，但没人再去解决问题或发布补丁了。ISC DHCP 或 \u003ca href=\"https://en.wikipedia.org/wiki/DHCPD\"\u003e\u003cu\u003edhcpd \u003c/u\u003e\u003c/a\u003e是动态主机设置协议（DHCP）的服务器程序，至今有 23 年历史，ISC 结束这个项目是因为它不是为可测试性设计的，修改代码的风险性非常高，因此过去几年它越来越少的修改代码，它创造了名叫 \u003ca href=\"https://www.isc.org/kea/\"\u003e\u003cu\u003eKea\u003c/u\u003e\u003c/a\u003e 的新 DHCP 服务器程序，并建议使用旧版本的用户切换到该版本或其它\u003ca href=\"https://en.wikipedia.org/wiki/Comparison_of_DHCP_server_software\"\u003e\u003cu\u003e替代\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-11T08:36:21Z",
+  "Author": "WinterIsComing"
+}

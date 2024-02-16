@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FBI 曾获得了勒索软件组织 REvil 的密钥",
+  "Link": "https://www.solidot.org/story?sid=69019",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年夏天 REvil 勒索软件攻击中，FBI \u003ca href=\"https://arstechnica.com/information-technology/2021/09/ransomware-victims-panicked-while-fbi-secretly-held-revil-decryption-key/\" target=\"_blank\"\u003e\u003cu\u003e曾控制了\u003c/u\u003e\u003c/a\u003e其解密密钥但没有披露给受害者，原因是它担心这会对  REvil 打草惊蛇，而它试图摧毁这一组织。但 REvil 最终还是察觉了，它在 7 月 13 日销声匿迹，在短暂蛰伏之后过去几周又重新归来，但已经更改了它的网络基础设施。FBI 是通过渗透 REvil 的服务器获得其密钥的。局长 Christopher Wray 本周告诉国会，他们是在与其它机构讨论之后做出了这一决定，不是单方面做出的。安全公司 Bitdefender 上周发布了 REvil 解密密钥，但只适用于 7 月 13 日之前的受害者，不适用于新一轮的受害者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-22T15:28:36Z",
+  "Author": "WinterIsComing"
+}

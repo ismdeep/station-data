@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "距离 Python 2 结束支持还剩 105 天",
+  "Link": "https://www.solidot.org/story?sid=62084",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 语言官网\u003ca href=\"https://www.python.org/doc/sunset-python-2/\"\u003e\u003cu\u003e再次提醒用户\u003c/u\u003e\u003c/a\u003e，距离 Python 2 结束支持只剩下 \u003ca href=\"https://pythonclock.org/\" target=\"_blank\"\u003e\u003cu\u003e105\u003c/u\u003e\u003c/a\u003e 天了。Python 2 系列的最后一个分支 Python 2.7 将于 2020 年 1 月 1 日结束支持，此后开发者不会再提供安全更新。Python 2.0 是在 2000 年发布的，2008 年发布的 Python 3.0 不向后兼容 2.x，因此 Python 2.x 代码不能简单迁移到 3.x。因为有大量 Python 2.x 代码没有及时升级，开发者已经多次推迟了 2.x 的结束支持时间。但仍然有大量应用\u003ca href=\"https://developers.slashdot.org/story/19/09/14/2245258/python-2-sunsets-in-107-days-jpmorgan-isnt-ready\"\u003e\u003cu\u003e无法在截止日期前完成升级\u003c/u\u003e\u003c/a\u003e，其中之一是 JP摩根的 Athena 交易平台，它计划到 2020 年第四季度迁移到 Python 3.x。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-16T03:55:03Z",
+  "Author": "wenfeixiang"
+}

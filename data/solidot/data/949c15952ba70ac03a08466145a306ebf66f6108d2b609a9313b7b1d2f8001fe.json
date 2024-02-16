@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 3.0 释出",
+  "Link": "https://www.solidot.org/story?sid=69872",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tBlender 基金会宣布\u003ca href=\"https://www.blender.org/download/releases/3-0/\"\u003e\u003cu\u003e释出 Blender 3.0\u003c/u\u003e\u003c/a\u003e，宣称这标志着开源 2D/3D 内容创作新时代的开端。Blender 3.0 的新特性包括：重写的 Cycles GPU 内核渲染性能是上一个版本 Blender 2.93 的 3 倍到 9 倍（在英伟达显卡上测试），3D 视窗的移动响应更灵敏；OpenImageDenoise 更新到 v1.4，改进了细节保存，加入了一个新的预滤器选项去控制辅助反照率和法线通道去噪；Shadow Terminator；Shadow Catcher，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-04T08:18:55Z",
+  "Author": "WinterIsComing"
+}

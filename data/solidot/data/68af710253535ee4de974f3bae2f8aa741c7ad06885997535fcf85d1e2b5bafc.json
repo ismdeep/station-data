@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "去中心化视频共享软件 PeerTube v3 发布",
+  "Link": "https://www.solidot.org/story?sid=66621",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去中心化视频共享软件 PeerTube \u003ca href=\"https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/\" target=\"_blank\"\u003e\u003cu\u003e释出了 v3\u003c/u\u003e\u003c/a\u003e。PeerTube 是 YouTube 的去中心化替代，但它不是一个平台而是任何人都可以使用的软件。每个人都可以安装 PeerTube 创建一个 PeerTube 网站然后与其它 PeerTube 网站同步展示它们托管的视频，视频播放采用点对点串流的方式。 PeerTube v3 的主要特性包括：延迟在 30 秒到 1 分钟之间，根据服务器负荷视频支持数百人同时浏览，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-11T08:39:59Z",
+  "Author": "WinterIsComing"
+}

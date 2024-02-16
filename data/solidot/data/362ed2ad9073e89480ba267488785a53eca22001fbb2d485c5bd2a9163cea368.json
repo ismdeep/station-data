@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "奇虎 360 研究员披露 Shadowsocks 流密码重定向攻击",
+  "Link": "https://www.solidot.org/story?sid=63529",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t奇虎 360 的一位安全研究员\u003ca href=\"https://github.com/edwardz246003/shadowsocks\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e流行 SOCKS5 代理 Shadowsocks 的流密码重定向攻击漏洞。\u003ca href=\"https://en.wikipedia.org/wiki/Stream_cipher#Usage\"\u003e\u003cu\u003e流密码\u003c/u\u003e\u003c/a\u003e是一种对称加密算法，加密和解密双方使用相同伪随机加密数据流作为密钥，明文数据每次与密钥数据流顺次对应加密，得到密文数据流。流行的流密码算法包括 ChaCha、RC4、A5/1、A5/2、Chameleon、FISH、Helix 等。研究人员发现 Shadowsocks 协议存在漏洞，会破坏流密码的保密性。利用重定向攻击被动攻击者可以轻松解密所有 Shadowsocks 的加密数据包。中间人攻击者还能实时修改流量，就好像加密根本不存在。受影响的版本包括 shadowsocks-py、shadowsocoks-go 和 shadowsocoks-nodejs，shadowsocks-libev 和 go-shadowsocks2 不受影响，研究人员还建议使用 \u003ca href=\"https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD)\"\u003e\u003cu\u003eAEAD\u003c/u\u003e\u003c/a\u003e 加密算法。漏洞是在 2018 年 12 月发现的，2019 年 3 月发布了概念验证攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-14T11:36:54Z",
+  "Author": "WinterIsComing"
+}

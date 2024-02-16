@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "匿名黑客泄露数百 GB 的 Epik 数据",
+  "Link": "https://www.solidot.org/story?sid=68954",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名黑客组织 Anonymous \u003ca href=\"https://arstechnica.com/information-technology/2021/09/anonymous-leaks-gigabytes-of-data-from-epik-web-host-of-gab-and-parler/\"\u003e\u003cu\u003e泄露了\u003c/u\u003e\u003c/a\u003e数百 GB 的 Epik 数据。Epik 是一家受争议的域名注册和 Web 服务托管商，托管了多家知名的极右翼网站如 Gab、Parler 和 8chan。Anonymous 泄露的数据就\u003ca href=\"https://ddosecrets.com/wiki/Epik\"\u003e\u003cu\u003e包括了\u003c/u\u003e\u003c/a\u003e来自 Texas GOP、Gab、Parler 和 8chan 等右翼网站的域名购买、域名转移、WHOIS 历史、DNS 变更、邮件转发、支付历史、账号凭证、私钥、Git 库、一核心系统的 /home/ 和 /root/ 目录，以及一名雇员的邮箱其中包含了来自 Epik CEO Rob Monster 的邮件等等，容量高达 180 GB。Anonymous 称，这些数据集能用于跟踪到极右翼网站的实际所有者。Anonymous 还恶搞了 Epik 的网页，称“They claim  we get hacked,Q says they\u0026#39;re lying. ”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-16T07:17:32Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.14 释出",
+  "Link": "https://www.solidot.org/story?sid=68732",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 作者 Linus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wh75ELUu99yPkPNt+R166CK=-M4eoV+F62tW3TVgB7=4g@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.14。在 Linux 社区庆祝诞生 30 周年活动之际，Linux 作者认为社区需要一些喘息的机会，而这个机会就是试用 Linux 5.14。新版本的主要特性包括：在云计算时代有用的\u003ca href=\"https://lwn.net/Articles/861251/\"\u003e\u003cu\u003e核心调度（Core scheduling）\u003c/u\u003e\u003c/a\u003e；改进 CFS 带宽控制器\u003ca href=\"https://lwn.net/Articles/844976/\" target=\"_blank\"\u003e\u003cu\u003e在突发性延迟敏感工作负荷下的表现\u003c/u\u003e\u003c/a\u003e；\u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=556910e39249\"\u003e\u003cu\u003erq_qos\u003c/u\u003e\u003c/a\u003e I/O 优先策略；改进 SO_REUSEPORT 网络选项；\u003ca href=\"https://lwn.net/Articles/855049/\"\u003e\u003cu\u003e控制组关闭功能\u003c/u\u003e\u003c/a\u003e；memfd_secret()系统调用；quotactl_fd() 系统调用，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-30T04:56:58Z",
+  "Author": "WinterIsComing"
+}

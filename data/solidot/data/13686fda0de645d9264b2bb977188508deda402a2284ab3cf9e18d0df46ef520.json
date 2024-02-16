@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么在 Firefox 而不是 Chromium 上创建分支",
+  "Link": "https://www.solidot.org/story?sid=62999",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今天绝大多数浏览器都是基于 Chromium—— Google Chrome 的开源版本，但也有少数选择了另一个开源浏览器   Firefox，其中一位就是 Cliqz。Cliqz 于 2015 年在 Firefox 基础上发布了自己的桌面浏览器，它发表博文解释\u003ca href=\"https://0x65.dev/blog/2019-12-17/why-we-forked-firefox-and-not-chromium.html\" target=\"_blank\"\u003e\u003cu\u003e为什么在 Firefox 而不是 Chromium 上创建分支\u003c/u\u003e\u003c/a\u003e：从技术角度谈，Firefox 的所有浏览器功能都有 open API，而 Chromium 保留了对 Google 业务敏感的地方，一个典型例子就是地址栏，Google 无意让其他人更容易的控制地址栏，默认搜索引擎的流向也受到保护，创建新 API 可以解决这些问题，但维护这些 API 就成为了另一个难题。Google 对旧 API 的支持既不连贯也不一致，Chrome 的新 API Manifest v3 就以隐私、安全和性能等理由替换了旧的更强大更有用的 API。 Chrome 捆绑的 Google 服务也不容易移除，为了剥离这些服务微软和 Brave 都投入了大量资源。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-19T12:42:06Z",
+  "Author": "WinterIsComing"
+}

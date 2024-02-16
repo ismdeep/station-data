@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 选择 Matrix 作为 IRC 的接替者",
+  "Link": "https://www.solidot.org/story?sid=63141",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年九月，Mozilla \u003ca href=\"https://discourse.mozilla.org/t/synchronous-messaging-at-mozilla-trial-servers-feedback/44871\"\u003e\u003cu\u003e开始测试\u003c/u\u003e\u003c/a\u003e IRC 的三个替代：Rocket.Chat，Mattermost，Matrix/Riot.IM。去年底，它\u003ca href=\"https://discourse.mozilla.org/t/synchronous-messaging-at-mozilla-the-decision/50620\" target=\"_blank\"\u003e\u003cu\u003e最终选择\u003c/u\u003e\u003c/a\u003e了 Matrix 作为 IRC 的接替者。Matrix 是一个端对端加密、去中心化的实时通讯系统，它没有中心服务器，通过网桥与其它平台互通，它在去年六月\u003ca href=\"https://www.solidot.org/story?sid=60949\" target=\"_blank\"\u003e\u003cu\u003e发布了 1.0 版本\u003c/u\u003e\u003c/a\u003e。Matrix 项目对 Mozilla 的决定\u003ca href=\"https://matrix.org/blog/2019/12/19/welcoming-mozilla-to-matrix/\" target=\"_blank\"\u003e\u003cu\u003e表达了欢迎\u003c/u\u003e\u003c/a\u003e，称他们是 Mozilla 的忠实粉丝。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-02T07:42:48Z",
+  "Author": "WinterIsComing"
+}

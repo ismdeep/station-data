@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软建议 Chromium 中的白名单改为 Allowlist 黑名单改为 Blocklist",
+  "Link": "https://www.solidot.org/story?sid=61983",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在切换到 Chromium 之后递交\u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=981129\"\u003e\u003cu\u003e bug 报告\u003c/u\u003e\u003c/a\u003e提议净化代码库，移除会冒犯人的词语比如 whitelist（白名单）和 blacklist（黑名单），\u003ca href=\"https://www.theregister.co.uk/2019/09/03/chromium_microsoft_offensive/\"\u003e\u003cu\u003e建议\u003c/u\u003e\u003c/a\u003e分别改为 allowlist 和 blocklist 。对于微软开发者的提议，Google 工程师表达了谨慎的欢迎，称他们也不希望 Chromium 的代码库会具有潜在的冒犯性，同时表示 Chrome 团队可能不会将净化代码库作为优先考虑事项。他表示，如果清理冒犯性词语对微软或其他开发者有价值，获得必要的代码审查不是什么难题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-05T09:43:43Z",
+  "Author": "wenfeixiang"
+}

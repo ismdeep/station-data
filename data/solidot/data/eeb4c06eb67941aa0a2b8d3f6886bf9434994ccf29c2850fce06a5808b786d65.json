@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国 CISA 下令修补 Stuxnet 攻击使用的漏洞",
+  "Link": "https://www.solidot.org/story?sid=72796",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国网络和基础设施安全局（CISA）在其 Known Exploited Vulnerabilities 目录中\u003ca href=\"https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-vulnerability-used-in-stuxnet-attacks/\" target=\"_blank\"\u003e加入了\u003c/a\u003e 6 个漏洞，要求联邦机构按照供应商的指示修补漏洞。六个漏洞只有一个是今年报告的，其它五个分别是在 2013 年 和 2010 年报告的，其中 2010 年披露的漏洞 \u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2010-2568\" target=\"_blank\" rel=\"nofollow noopener\"\u003eCVE-2010-2568\u003c/a\u003e (RCE) 被用于传播攻击伊朗  Natanz 铀浓缩工厂离心机的 Stuxnet 蠕虫。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-18T14:01:17Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 演示文本视频 AI 模型 Imagen Video",
+  "Link": "https://www.solidot.org/story?sid=73003",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Meta 宣布其文本视频 AI 模型 Make-A-Video 之后，Google \u003ca href=\"https://arstechnica.com/information-technology/2022/10/googles-newest-ai-generator-creates-hd-video-from-text-prompts/\"\u003e\u003cu\u003e演示\u003c/u\u003e\u003c/a\u003e了自己的同类工具\u003ca href=\"https://imagen.research.google/video/\" target=\"_blank\"\u003e\u003cu\u003eImagen Video\u003c/u\u003e\u003c/a\u003e。它能根据书面提示以每秒 24 帧速生成分辨率为 1280×768 的视频。从文本合成图像到文本合成视频过去半年 AI 扩散模型（diffusion models）进步显著。Google 研究人员称，Imagen Video 的视频能表现出不同风格，如根据梵高的作品生成视频。Google 希望通用视频合成模型能显著降低高质量内容生成的难度。Imagen Video 使用 \u003ca href=\"https://laion.ai/blog/laion-400-open-dataset/\"\u003e\u003cu\u003eLAION-400M\u003c/u\u003e\u003c/a\u003e 图像文本数据集，以及1400 万视频文本对和 6000 万图像-文本对进行训练，和 Meta 一样短时间内不会对公众开放使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-10T06:35:57Z",
+  "Author": "WinterIsComing"
+}

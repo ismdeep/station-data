@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Git 恶意仓库可以在克隆时执行远程代码",
+  "Link": "https://www.solidot.org/story?sid=67159",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道 \u0026#34;\u003ci\u003e今天，\u003ca href=\"https://git-scm.com/\"\u003eGit\u003c/a\u003e 项目\u003ca href=\"https://github.blog/2021-03-09-git-clone-vulnerability-announced/ \"\u003e发布了新的版本\u003c/a\u003e，以解决 CVE-2021-213：Git LFS在 git 克隆操作期间使用的延迟检查机制中的安全漏洞，影响2.15及更新版本。这些更新解决了一个问题，即在支持符号链接的 git 克隆过程中，特制的版本库可以通过滥用某些类型的清理/淤泥过滤器（如 Git LFS 配置的过滤器），在不区分大小写的文件系统上执行代码。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-10T04:40:30Z",
+  "Author": "WinterIsComing"
+}

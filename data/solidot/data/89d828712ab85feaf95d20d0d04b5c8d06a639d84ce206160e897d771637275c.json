@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一名雇员在伊朗登陆之后 GitHub 封锁了整个公司账号",
+  "Link": "https://www.solidot.org/story?sid=66567",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一家公司的雇员回伊朗看望父母，期间打开笔记本电脑登陆了 GitHub 账号，结果是整个公司的账号被封了。GitHub 是一家在美国注册的公司，为了遵守美国对伊朗的出口管制，包括 GitHub、Google Developer、AWS、Docker、NPM、Android、Go、Kubernetes 和 GitLab 等服务都屏蔽了伊朗人的访问。但这次公司账号被屏蔽不是因为伊朗的雇员，\u003ca href=\"https://twitter.com/sebslomski/status/1344219609923276801\"\u003e\u003cu\u003e而是雇员去了伊朗\u003c/u\u003e\u003c/a\u003e。GitHub 支持表示对于错误的屏蔽可以提起上诉。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-05T12:41:33Z",
+  "Author": "WinterIsComing"
+}

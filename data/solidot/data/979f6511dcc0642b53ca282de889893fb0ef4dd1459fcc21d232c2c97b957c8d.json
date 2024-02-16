@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CPU 算法训练深度神经网络比 GPU 快 15 倍",
+  "Link": "https://www.solidot.org/story?sid=67458",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAI 的一大瓶颈是训练成本，深度神经网络（DNN）的训练通常是一系列矩阵乘法操作，这是 GPU 非常擅长的工作，但 GPU 尤其是专业级显卡要比 CPU 昂贵得多。Rice 大学的计算机科学家和英特尔的研究人员从 2019 年就开始探讨使用 CPU 训练深度神经网络，他们采取的方法是将 DNN 训练转变成能用哈希表解决的搜索问题，他们的  \u0026#34;sub-linear deep learning engine\u0026#34; (SLIDE) 设计运行在商业 CPU 上。2019 年的\u003ca href=\"https://arxiv.org/abs/1903.03129\"\u003e\u003cu\u003e研究\u003c/u\u003e\u003c/a\u003e显示，SLIDE  训练所需时间为 GPU 的 2/7。现在，研究人员利用现代 CPU 的向量化和内存优化加速器\u003ca href=\"https://arxiv.org/abs/2103.10891\" target=\"_blank\"\u003e\u003cu\u003e改进了 SLIDE 的性能\u003c/u\u003e\u003c/a\u003e，用 CPU 算法训练深度神经网络比 GPU \u003ca href=\"https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html\"\u003e\u003cu\u003e快 15 倍\u003c/u\u003e\u003c/a\u003e。他们的\u003ca href=\"https://github.com/RUSH-LAB/SLIDE\"\u003e\u003cu\u003e代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-11T12:18:14Z",
+  "Author": "WinterIsComing"
+}

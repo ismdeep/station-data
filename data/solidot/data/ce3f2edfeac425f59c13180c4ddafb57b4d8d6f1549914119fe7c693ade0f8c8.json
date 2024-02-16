@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员发布英特尔微码解密器",
+  "Link": "https://www.solidot.org/story?sid=72177",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tuCode Research Team 的研究人员发布了\u003ca href=\"https://github.com/chip-red-pill/MicrocodeDecryptor\" target=\"_blank\"\u003e\u003cu\u003e英特尔微码解密器\u003c/u\u003e\u003c/a\u003e，源代码托管在 GitHub 上。研究人员强调解密器是用作教育目的，使用者风险自负。uCode 团队利用了 Intel TXE 的漏洞激活了一个未公开的调试模式 red unlock，然后直接从 CPU 提取微码，在其中发现了密钥和算法。研究人员在四月举行的安全会议 OffensiveCon 2022 上介绍了他们的发现——“ \u003ca href=\"https://www.youtube.com/watch?v=V1nJeV0Uq0M\u0026amp;ab_channel=OffensiveCon\"\u003e\u003cu\u003eChip Red Pill: How We Achived to Execute Arbitrary Microcode Inside Intel Atom CPUs\u003c/u\u003e\u003c/a\u003e”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-19T11:20:09Z",
+  "Author": "WinterIsComing"
+}

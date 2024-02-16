@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CrateDB 计划切换到 Elasticsearch 分支",
+  "Link": "https://www.solidot.org/story?sid=66783",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Elastic 宣布更换许可证、在亚马逊 AWS 宣布创建 Elasticsearch 分支后，使用  Elasticsearch 的分布式 SQL 数据库管理系统 CrateDB 宣布\u003ca href=\"https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/\" target=\"_blank\"\u003e\u003cu\u003e它计划切换到 Elasticsearch 分支\u003c/u\u003e\u003c/a\u003e。CrateDB 创始人兼 CTO Bernd Dorn 称，该公司在发布 CrateDB 4.0 时已切换到了自己维护的一个 Elasticsearch 版本，原因是代码库缺乏模块化，现在它计划切换到 Elasticsearch 分支并向分支贡献代码。Bernd Dorn 表示该公司强烈的相信开源开发模式，会继续走开源之路。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-28T04:54:56Z",
+  "Author": "WinterIsComing"
+}

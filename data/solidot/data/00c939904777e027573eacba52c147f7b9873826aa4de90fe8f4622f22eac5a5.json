@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KiCad 7.0 释出",
+  "Link": "https://www.solidot.org/story?sid=74120",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用于印刷电路板设计的自由软件 KiCad 释出了 v7.0。新版本相比 KiCad 6 是一次重大更新，包含了逾 6000 commits，修复了逾 1200 个报告的问题，加入了许多新功能，其中包括：自定义字体支持，文本框支持，3Dconnexion SpaceMouse 支持，Sentry 崩溃报告数据收集，插件和内容管理器将自动检查是否有更新，拖放操作支持，macOS Apple Silicon 支持，命令行界面，正交拖动，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.kicad.org/blog/2023/02/Version-7.0.0-Released/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-13T12:52:33Z",
+  "Author": "Wilson"
+}

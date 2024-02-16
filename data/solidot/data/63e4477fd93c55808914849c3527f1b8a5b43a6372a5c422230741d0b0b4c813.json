@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 地图加入人行横道",
+  "Link": "https://www.solidot.org/story?sid=66825",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Maps 新版地图\u003ca href=\"https://www.ghacks.net/2021/02/01/google-is-adding-details-such-as-crosswalks-to-google-maps/\" target=\"_blank\"\u003e\u003cu\u003e引入了更多细节\u003c/u\u003e\u003c/a\u003e，包括了人行横道、人行道、行人安全岛。目前这些细节只在部分地区提供。这些细节是 Google 通过分析和处理卫星图像和街景记录自动引入到地图中的。首批加入这些细节的城市包括了伦敦、纽约、旧金山和东京。这么做可能带有测试目的，Google 需要将错误率降到足够低才会将该功能加入到更多地方。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-01T13:42:39Z",
+  "Author": "WinterIsComing"
+}

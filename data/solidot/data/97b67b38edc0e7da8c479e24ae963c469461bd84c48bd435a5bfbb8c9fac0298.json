@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布 Windows 包管理器",
+  "Link": "https://www.solidot.org/story?sid=64417",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 \u003ca href=\"https://mybuild.microsoft.com/home/\"\u003eBuild 2020\u003c/a\u003e 上，微软\u003ca href=\"https://developers.slashdot.org/story/20/05/19/2023253/microsoft-debuts-windows-package-manager-for-your-dev-environment\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Windows 下的包管理器，名字就叫 Windows Package Manager，缩写 winget，\u003ca href=\"https://github.com/microsoft/winget-cli\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在该公司旗下的 GitHub 上，采用 MIT 许可证。微软发布了一系列工具吸引开发者使用 Windows 而不是 Linux 或 macOS。winget 是命令行界面，允许开发者浏览、查看和安装常用开发者工具，类似 winget install Terminal，winget install Visual Studio。Linux 平台的包管理器被普遍认为是 Linux 相对于 Windows 的一大优点，微软最终将此类工具带到了自己的平台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T08:57:56Z",
+  "Author": "ai"
+}

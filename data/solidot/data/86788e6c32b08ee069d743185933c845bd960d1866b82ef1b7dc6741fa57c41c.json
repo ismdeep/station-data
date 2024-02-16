@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bitcoin Core 将启用一项加速签名验证的优化方法",
+  "Link": "https://www.solidot.org/story?sid=65669",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2020 年 9 月 25 日，名为\u003ca href=\"https://patents.google.com/patent/US7110538B2/en\" target=\"_blank\"\u003e\u003cu\u003e加速椭圆曲线加密操作方法\u003c/u\u003e\u003c/a\u003e的专利过期。Bitcoin Core 将启用这项被称为 GLV Endomorphism 的方法\u003ca href=\"https://www.btctimes.com/news/hal-finneys-proposal-for-optimizing-bitcoin-to-be-enabled-in-bitcoin-core\" target=\"_blank\"\u003e\u003cu\u003e去加快签名验证的速度和效率\u003c/u\u003e\u003c/a\u003e。GLV Endomorphism 是 Bitcoin 早期贡献者、最早从中本聪收到比特币的 Hal Finney 在 2011 年 2 月提议使用的，他的测试显示这一优化方法能将签名验证提速四分之一。 Bitcoin Core 实现了该方法但由于专利存在而一直没有启用。随着专利过期，开发者计划在下次发布时启用 GLV Endomorphism。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-27T12:21:26Z",
+  "Author": "WinterIsComing"
+}

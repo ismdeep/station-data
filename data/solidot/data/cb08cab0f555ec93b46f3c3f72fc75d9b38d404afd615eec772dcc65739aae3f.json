@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 设计的蛋白质一个一个唤醒休眠基因",
+  "Link": "https://www.solidot.org/story?sid=70840",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t通过结合 CRISPR 技术与 AI 设计的蛋白质，\u003ca href=\"https://phys.org/news/2022-03-ai-designed-protein-awakens-silenced-genes.html\" target=\"_blank\"\u003e\u003cu\u003e唤醒休眠基因成为可能\u003c/u\u003e\u003c/a\u003e。华盛顿大学医学院的研究人员在《Cell Reports》期刊上\u003ca href=\"https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00184-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS221112472200184X%3Fshowall%3Dtrue\" target=\"_blank\"\u003e\u003cu\u003e介绍了这一发现\u003c/u\u003e\u003c/a\u003e。新技术在不改变基因组 DNA 序列的情况下，通过靶向化学修饰控制基因活性，化学修饰帮助将基因包装在染色体中，调节活性。因为化学修饰不是发生在基因中而是发生在基因之上，所以它们被称为表观遗传（epigenetic），这里的“epi”来自希腊语，表示在基因“之上”。调节基因活性的化学修饰被称为表观遗传标记。科学家对表观遗传修饰特别感兴趣，因为它们不仅会影响正常细胞功能中的基因活性，而且随着时间的推移，表观遗传标记会积累，导致衰老，影响后代的健康——因为我们可以将它们传给孩子。在新论文中，研究人员表明，通过使用新技术，他们能阻断 PRC2 并选择性地打开四种不同的基因。他们还能证明可以简单通过打开两种基因，将诱导多能干细胞转化为胎盘祖细胞。研究人员能展示如何使用该技术找到特定 PRC2 控制的调节区域的位置，从中激活单个基因。其中很多位置是未知的。在这种情况下，他们针对一个名为 TBX18 的基因确定了名为“TATA box”的启动区域。尽管目前的看法是启动区域应该在基因附近——在 30 个DNA碱基对内，但他们发现该基因的启动区域和基因的距离超过了 500 个碱基对。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-03T09:21:10Z",
+  "Author": "wanwan"
+}

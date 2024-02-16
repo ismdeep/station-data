@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "System76 用 Rust 语言开发新的桌面环境",
+  "Link": "https://www.solidot.org/story?sid=69532",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 笔记本电脑制造商 System76 今年早些时候宣布它开发的 Linux 发行版 Pop!_OS 将使用一个新的桌面环境 COSMIC。Pop!_OS 是基于 Ubuntu 的发行版，预装在 System76 制造的 Linux 电脑上，COSMIC 是基于  GNOME。现在它还在用 Rust 语言\u003ca href=\"https://tech.slashdot.org/story/21/11/08/0154240/system76-engineer-confirms-work-on-new-rust-written-desktop-not-based-on-gnome\" target=\"_blank\"\u003e\u003cu\u003e开发新的桌面环境\u003c/u\u003e\u003c/a\u003e，不是基于 GNOME 或 KDE 等现有的项目。这一消息是 System76 工程师和 Pop!_OS 维护者 Michael Murphy \u0026#34;mmstick \u0026#34;在 Reddit 上\u003ca href=\"https://www.reddit.com/r/pop_os/comments/qnvrou/will_pop_os_ever_do_an_officially_kde_flavor_or/hjji8hh/\" target=\"_blank\"\u003e\u003cu\u003e透露的\u003c/u\u003e\u003c/a\u003e。System76 并没有完全从零开发一个全新的桌面环境，它将使用现有的项目如 mutter、kwin 和 wlroots，用 Rust 实现一个类似 GNOME Shell 的 Shell。有人对开源社区热衷于重新发明轮子表达了不满，而 Murphy 认为有选择正是开源最好的部分。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-08T06:59:36Z",
+  "Author": "WinterIsComing"
+}

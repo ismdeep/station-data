@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "照片“伪装术”愚弄面部识别",
+  "Link": "https://www.solidot.org/story?sid=65023",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t芝加哥大学 SAND 实验室发布了保护个人隐私的系统 \u003ca href=\"http://sandlab.cs.uchicago.edu/fawkes/\"\u003e\u003cu\u003eFawkes\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/Shawn-Shan/fawkes\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e采用 BSD 3-Clause 许可证托管在 GitHub 上，\u003ca href=\"https://www.shawnshan.com/files/publication/fawkes.pdf\"\u003e\u003cu\u003e相关论文\u003c/u\u003e\u003c/a\u003e(pdf)将发表在下个月举行的 USENIX Security 2020 在线会议上。Fawkes 是运行在本地计算机上的算法和软件工具，可以让用户伪装照片，限制其被用于面部识别。Fawkes 能对照片进行处理，对其进行像素级别的细微改变，而这种改变人眼无法识别出。研究人员将这种方法称为“image cloaking”。用户可以正常使用伪装后的照片，在社交网络中进行分享，可以发送给朋友。但是当有人收集这些公开的人脸照片去构建面部识别模型，伪装后的照片将会构建出高度扭曲的人脸。这种伪装效应难以探测，不会在模型训练中显示错误。如果人脸识别系统试图利用这个模型来识别你，它将会失败。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-23T04:42:14Z",
+  "Author": "WinterIsComing"
+}

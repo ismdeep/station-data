@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "7.5 英寸 e-ink 显示屏完全靠 NFC 供电",
+  "Link": "https://www.solidot.org/story?sid=63872",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNFC 通常被用于快速文本传输，如短距离的移动支付数据传输。一家叫 Waveshare 的公司挑战了 NFC 的极限，\u003ca href=\"https://arstechnica.com/gadgets/2020/03/7-5-inch-e-ink-display-is-powered-completely-by-nfc/#p3\"\u003e\u003cu\u003e推出了\u003c/u\u003e\u003c/a\u003e完全靠 NFC 供电的 \u003ca href=\"https://www.waveshare.com/7.5inch-NFC-e-Paper-Eval-Kit.htm\" target=\"_blank\"\u003e\u003cu\u003e7.5 英寸 e-ink 显示屏\u003c/u\u003e\u003c/a\u003e。E-ink 显示屏的一个独特属性是只在刷新时需要电，图像展示本身不需要电力。很多人不知道的是，除了传输数据，NFC 还有一个微型的无线电力传输装置。该显示屏就设计在 NFC 传输数据的同时提供足够的电力刷新显示屏。部分手机的 NFC 可能不足以输出足够的电力，Waveshare 表示许多旧的 Android 手机如 Galaxy S7 Edge 都支持该显示屏。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-19T11:10:52Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 宣布对 Chrome Web Store 进行“大扫除”",
+  "Link": "https://www.solidot.org/story?sid=64264",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle\u003ca href=\"https://blog.chromium.org/2020/04/keeping-spam-off-chrome-web-store.html\"\u003e\u003cu\u003e 宣布\u003c/u\u003e\u003c/a\u003e对 Chrome Web Store 执行新的规定，减少商店里的低质量和重复递交扩展。新规定从 2020 年 8 月 27 日执行，扩展开发者将不再允许递交重复扩展，如不同名字的墙纸扩展在安装后展示的却是相同墙纸；不再允许滥用关键词在元数据字段输入多个关键词以在搜索时出现在多个类别中；不再允许使用误导性的、格式不当的、非描述性的、不相干或不恰当的元数据；禁止通过欺诈性的、付费的下载方式夸大扩展的评分、安装量和评价。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-02T06:55:45Z",
+  "Author": "WinterIsComing"
+}

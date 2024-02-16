@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 勒索软件被发现移植到 Linux 平台",
+  "Link": "https://www.solidot.org/story?sid=66032",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司卡巴斯基\u003ca href=\"https://www.zdnet.com/index.php/category/2381/index.php/article/linux-version-of-ransomexx-ransomware-discovered/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了 Windows 勒索软件 RansomEXX 的 Linux 版本。这是首次一种规模比较大的 Windows 勒索软件被发现移植到 Linux 平台。RansomEXX 是一种较新的勒索软件，是在今年 6 月最早发现的，主要针对能支付大额赎金的目标。它的受害者包括了得州交通部、柯尼卡美能达、政府承包商 Tyler Technologies，蒙特利尔公交系统和巴西法院系统。RansomEXX 背后的运营者创建 Linux 版本是因为今天的许多企业其内部系统运行在 Linux 而不是 Windows 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-08T09:38:07Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源社区更新 22 年历史的 ATI R300 显卡驱动",
+  "Link": "https://www.solidot.org/story?sid=77062",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tATI 公司在 2002 年发布了 Radeon R300 系列显卡，当时距离它被 AMD 公司收购还有 3 年。 Radeon R300 是第一款完全支持 DirectX 9 的显卡。在发布 22 年后，Mesa Gallium3D OpenGL 开源驱动项目合并了数百行代码，改进了对  Radeon R300 系列到 R500 系列显卡的支持。AMD 工程师主要专注于新一代的显卡，这些旧显卡的支持和改进都来自于开源社区。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/ATI-R300g-2024-Action\u003cbr/\u003e\nhttps://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-05T10:23:25Z",
+  "Author": "Wilson"
+}

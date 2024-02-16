@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 Windows 11 安装脚本绕过 TPM 和系统硬件检查",
+  "Link": "https://www.solidot.org/story?sid=69107",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个新安装脚本允许用户\u003ca href=\"https://www.bleepingcomputer.com/news/microsoft/new-windows-11-install-script-bypasses-tpm-system-requirements/\"\u003e\u003cu\u003e在不兼容的硬件上安装 Windows 11\u003c/u\u003e\u003c/a\u003e，脚本绕过了 TPM 和系统硬件检查。微软今年早些时候宣布 Windows 11 时对硬件提出了较高的要求，包括要求 TPM 2.0 安全处理器、Secure Boot、较新型号的 CPU、至少 64 GB 硬盘空间。新脚本是作为 Windows ISO 镜像创建工具 \u003ca href=\"https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15\" target=\"_blank\"\u003e\u003cu\u003eUniversal MediaCreationTool\u003c/u\u003e\u003c/a\u003e 的一部分发布的，主要功能包括创建镜像的 \u003ca href=\"https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15#file-mediacreationtool-bat\" rel=\"nofollow noopener\"\u003eMediaCreationTool.bat\u003c/a\u003e，以及绕过硬件兼容性检查的 \u003ca href=\"https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15#file-skip_tpm_check_on_dynamic_update-cmd\" rel=\"nofollow noopener\"\u003eSkip_TPM_Check_on_Dynamic_Update.cmd\u003c/a\u003e。该脚本支持虚拟机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-29T12:42:58Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "当开源硬件公司走向闭源",
+  "Link": "https://www.solidot.org/story?sid=75540",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去十几年，开源硬件行业蓬勃发展，业内企业共同创建并签署了开源硬件定义。但今天部分开源硬件公司要么产品闭源，或正在闭源，或推迟释出文件/源码，或要求签署保密协议才能获得开源硬件的软件。以 Arduino 公司为例，它的 Arduino Pro 硬件不再开源，它还从网页中删除了关于 Arduino 板和所有软件都是开源的文字。SparkFun 是另一家著名的开源硬件公司，它的产品固件需要签署保密协议才能获得，理由是固件包含了 SparkFun 的知识产权。著名开源 3D 打印机公司 Prusa 在 2019 年发布的 Prusa MINI 至今其引导程序源代码没有公开。这是结束的开始？还是开始的结束？\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-17T15:39:24Z",
+  "Author": "Wilson"
+}

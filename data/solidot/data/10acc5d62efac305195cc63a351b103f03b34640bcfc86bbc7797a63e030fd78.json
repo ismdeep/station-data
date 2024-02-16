@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Let's Encrypt 发现 CAA bug，必须撤销部分客户证书",
+  "Link": "https://www.solidot.org/story?sid=63707",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLet\u0026#39;s Encrypt \u003ca href=\"https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e在 CAA（Certification Authority Authorization）代码中发现 bug，它将从美国东部时间 3 月 4 日下午 3 点\u003ca href=\"https://community.letsencrypt.org/t/revoking-certain-certificates-on-march-4/114864\"\u003e\u003cu\u003e开始撤销\u003c/u\u003e\u003c/a\u003e受到影响的客户证书。Let\u0026#39;s Encrypt 使用的 CA 软件叫 Boulder。一台有多个独立域名的服务器可以通过 Let\u0026#39;s Encrypt 签发的一个证书去覆盖所有域名，而不是每个域名一个证书。但 CAA 中的 bug 导致 Boulder 没有检查每一个域名的有效性而是同一个域名检查 N 次。Let\u0026#39;s Encrypt 可能对 CAA 记录中不有效的域名签发了证书，它\u003ca href=\"https://arstechnica.com/information-technology/2020/03/lets-encrypt-revoking-https-certs-due-to-certificate-authority-bug/\" target=\"_blank\"\u003e\u003cu\u003e决定撤销\u003c/u\u003e\u003c/a\u003e没有正确检查 CAA 记录的所有证书。在 Let\u0026#39;s Encrypt 签发的 1.16 亿活跃证书中有 3,048,289 个证书受到影响需要替换。Let\u0026#39;s Encrypt 客户如果使用 Certbot 可以输入命令 certbot renew --force-renewal 去更换证书。你也可用访问这个网址 \u003ca href=\"https://unboundtest.com/caaproblem.html\"\u003e\u003cu\u003ehttps://unboundtest.com/caaproblem.html \u003c/u\u003e\u003c/a\u003e检查自己使用的证书是否受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-04T12:56:31Z",
+  "Author": "WinterIsComing"
+}

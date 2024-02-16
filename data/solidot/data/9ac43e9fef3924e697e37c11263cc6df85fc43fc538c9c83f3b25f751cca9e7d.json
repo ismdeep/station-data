@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome Web Store 拒绝 uBlock Origin 开发版更新",
+  "Link": "https://www.solidot.org/story?sid=62219",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tuBlock Origin 作者 Raymond Hill \u003ca href=\"https://github.com/uBlockOrigin/uBlock-issues/issues/745\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，他递交的扩展开发版更新（1.22.5.100）遭到了 Google Chrome Web Store 的拒绝，理由是没有遵守 Google 的政策。Google 给出的解释是：扩展必须是单一用途，不能捆绑不相关的功能。Hill 称他的扩展根本没有不相关的功能，他不打算再继续递交开发版更新了，因为你根本没有办法从 Google 获得更明确的拒绝解释。他称 uBlock Origin 下一个稳定版更新就是上一个没有被拒绝的开发版也就是 1.22.5rc1+。这一消息在社交媒体上收到了广泛关注，以至于 Chrome 扩展团队的成员也看到了，所以问题也就\u003ca href=\"https://www.reddit.com/r/chrome/comments/dgoymg/warning_ubo_ublock_origin_will_possibly_be/f3fwlto/\"\u003e顺利解决了\u003c/a\u003e。但很多 Chrome 扩展开发者\u003ca href=\"https://news.ycombinator.com/item?id=21233041\"\u003e\u003cu\u003e都有类似的经历\u003c/u\u003e\u003c/a\u003e，但他们的扩展没有 uBlock Origin 这样的影响力，他们的声音当然不会被 Chrome 扩展团队成员听到。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-13T04:56:01Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Uber 开源自动清理过时代码的工具",
+  "Link": "https://www.solidot.org/story?sid=64735",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUber \u003ca href=\"https://eng.uber.com/piranha/\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e自动清理停用功能标志的过时代码的工具 \u003ca href=\"https://github.com/uber/piranha\" target=\"_blank\"\u003e\u003cu\u003ePiranha\u003c/u\u003e\u003c/a\u003e，源代码采用 Apache 2.0 发布在 GitHub 上。Piranha 目前支持 Java、Swift 和 Objective-C，它\u003ca href=\"https://www.infoq.com/news/2020/06/uber-piranha/\" target=\"_blank\"\u003e\u003cu\u003e使用\u003c/u\u003e\u003c/a\u003e静态分析执行三项关键任务：删除停用功能标志 API 周围的代码，删除上一步导致的不可达的代码，删除停用功能相关的测试代码。Uber 团队还将在软件工程国际会议上发表 Piranha 的\u003ca href=\"https://github.com/uber/piranha/blob/master/report.pdf\" target=\"_blank\"\u003e\u003cu\u003e研究论文\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-22T05:54:08Z",
+  "Author": "WinterIsComing"
+}

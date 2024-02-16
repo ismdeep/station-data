@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 32 发布",
+  "Link": "https://www.solidot.org/story?sid=64249",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 发行版项目正式释出了最新的 \u003ca href=\"https://fedoramagazine.org/announcing-fedora-32/\"\u003e\u003cu\u003eFedora 32\u003c/u\u003e\u003c/a\u003e，包括了工作站、服务器、CoreOS、Silverblue 和 IoT 等多个版本。Fedora 32  使用的桌面环境为 GNOME 3.36，其它重要的工具和语言更新包括 GCC 10、Ruby 2.7 和 Python 3.8。随着 Python 2 结束支持，绝大部分 Python 2 包已经从 Fedora 里移除。开发者和用户如果仍然需要可以使用  python27 包。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-29T09:25:39Z",
+  "Author": "WinterIsComing"
+}

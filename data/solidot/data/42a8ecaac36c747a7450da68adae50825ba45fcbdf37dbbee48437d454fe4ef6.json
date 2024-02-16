@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 12 Bookworm 进入软冻结",
+  "Link": "https://www.solidot.org/story?sid=74176",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 发行版项目正在开发代号为 Bookworm 的新版本，开发者上周五在邮件列表上宣布了软冻结（soft freeze），意味着除了修正不会再添加或移除新的软件包。Debian 发行版大约每两年发布一个大版本，Debian 11 Bullseye 是在 2021 年 8 月发布的，正在开发的 Debian 12 Bookworm 预计在今年晚些时候发布。它的软件包括了 GNOME 43、KDE Plasma 5.26.90、Linux 6.1 LTS kernel、Mesa 22.3、LLVM 15 等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Debian-12-Soft-Freeze\u003cbr/\u003e\nhttps://lists.debian.org/debian-devel-announce/2023/02/msg00003.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-20T03:07:23Z",
+  "Author": "Wilson"
+}

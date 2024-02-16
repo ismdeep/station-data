@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 逐步停止支持 AMP",
+  "Link": "https://www.solidot.org/story?sid=69679",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter \u003ca href=\"https://tech.slashdot.org/story/21/11/18/1928243/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages\"\u003e\u003cu\u003e逐步停止支持 AMP\u003c/u\u003e\u003c/a\u003e。以前移动用户在 Twitter 上点击分享的链接它的爬虫会首先寻找是否存在对应的 AMP 页面，如果存在则会将链接重定向到 AMP 版本。Accelerated Mobile Pages 或 AMP 是 Google 主导的一个受争议的项目。在优化移动网页加载的名义下，AMP HTML 文档必须从 Google 控制的域名加载一个脚本。Google 从去年开始逐步减少对 AMP 的支持，其 Top Stories 不再需要 AMP。现在，Twitter 也在开发者页面“\u003ca href=\"https://developer.twitter.com/en/docs/twitter-for-websites/amp/overview\" target=\"_blank\"\u003e\u003cu\u003ePublish faster articles with AMP\u003c/u\u003e\u003c/a\u003e”通知开发者它将在四季度完全停止支持 AMP。网站已经注意到其 AMP 页面来自 Twitter 的流量\u003ca href=\"https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168\" target=\"_blank\"\u003e\u003cu\u003e已经降为零\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-19T05:35:16Z",
+  "Author": "WinterIsComing"
+}

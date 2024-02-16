@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 71 发布",
+  "Link": "https://www.solidot.org/story?sid=62830",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/71.0/releasenotes/\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e Firefox 71。主要新特性包括：改进密码管理器  Lockwise，能识别子域名，自动填入登录信息； Enhanced Tracking Protection 跟踪保护功能会在屏蔽数字货币挖矿软件时发出通知；Windows 版本支持视频画中画，视频可作为一个浮动窗口展示在其它标签页上；原生 MP3 解码；多个开发者工具，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-04T03:05:58Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.17 释出",
+  "Link": "https://www.solidot.org/story?sid=71011",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核开发者邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wj4fFjx2pgbGNBM4wJs3=eReZ05EQyprzgT2Jv8qJ2vJg@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.17。主要新特性包括： arm64 架构支持 \u003ca href=\"https://www.kernel.org/doc/html/latest/dev-tools/kcsan.html\"\u003e\u003cu\u003eKCSAN\u003c/u\u003e\u003c/a\u003e，支持\u003ca href=\"https://lwn.net/Articles/837566/\"\u003e\u003cu\u003e递归 ID-mapped 文件系统挂载\u003c/u\u003e\u003c/a\u003e，新 AMD P-State 驱动，改进随机数生成器，重写网络文件系统缓存后端，Real-Time Linux Analysis (RTLA)工具，缓解 \u003ca href=\"https://lwn.net/Articles/877845/\" target=\"_blank\"\u003e\u003cu\u003estraight-line 预测攻击\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/877062/\"\u003e\u003cu\u003ebpf_loop() helper\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/877603/\" target=\"_blank\"\u003e\u003cu\u003e参考计数跟踪设施\u003c/u\u003e\u003c/a\u003e，等等，更多可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.17\"\u003e\u003cu\u003eKernelNewbies 5.17\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-21T12:45:15Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "家用路由器被发现存在大量漏洞",
+  "Link": "https://www.solidot.org/story?sid=64884",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t你正在使用的家用路由器非常有可能存在众多的安全隐患，需要尽可能快的更新固件，如果厂商有新固件释出的话。德国 Fraunhofer Institute for Communication 最近\u003ca href=\"https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/HomeRouter/HomeRouterSecurity_2020_Bericht.pdf\"\u003e\u003cu\u003e测试了\u003c/u\u003e\u003c/a\u003e 127 款家用路由器，其中 91% 运行了某个版本的嵌入式 Linux 系统。研究人员\u003ca href=\"https://hothardware.com/news/millions-of-home-wi-fi-routers-linux-exploits\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，没有一款路由器免于安全漏洞，其中许多款存在数以百计的安全问题。四分之一的路由器超过一年时间没有收到任何安全方面的更新，部分路由器没有收到更新的时间长达五年。研究人员称，部分路由器很容易被破解，或存在用户无法改变的已知硬编码密码。知名路由器厂商 D-Link、TP-Link 和 Linksys 在定期更新上远远落在后面，其中 Linksys 的一款路由器 WRT54GL 使用的是 2002 年释出的 Linux 内核版本 2.4.20，存在 579 个高危漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-08T06:31:18Z",
+  "Author": "WinterIsComing"
+}

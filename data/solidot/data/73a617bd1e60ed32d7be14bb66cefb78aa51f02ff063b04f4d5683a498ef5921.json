@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 大型机整合了 AI 加速器",
+  "Link": "https://www.solidot.org/story?sid=71181",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM 的新大型机 \u003ca href=\"https://www.ibm.com/cn-zh/products/z16\" target=\"_blank\"\u003e\u003cu\u003ez16\u003c/u\u003e\u003c/a\u003e 整合了 \u003ca href=\"https://www.zdnet.com/article/the-first-ibm-mainframe-for-ai-arrives/\"\u003e\u003cu\u003eAI 加速器\u003c/u\u003e\u003c/a\u003e。AI 加速构建在 IBM Telum 处理器上，Telum 为 8 核处理器，频率最高 5.2 GHz，每个核心有 32 MB 的 L2 缓存。双 Telum 处理器有 16 个核心，能以一毫秒延迟执行 3000 亿次深度学习推理，蓝色巨人在新闻稿中声称它能在一次交易完成前识别欺诈。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-07T11:00:07Z",
+  "Author": "WinterIsComing"
+}

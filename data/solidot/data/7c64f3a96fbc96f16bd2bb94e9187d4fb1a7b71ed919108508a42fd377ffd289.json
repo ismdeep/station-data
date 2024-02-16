@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "And. And. And. And. And. 会导致 Google Docs 崩溃",
+  "Link": "https://www.solidot.org/story?sid=71441",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Docs 用户在支持论坛上\u003ca href=\"https://support.google.com/docs/thread/162510194/including-and-and-and-and-and-in-a-google-doc-causes-it-to-crash?hl=en\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，如果 Google Docs  含有特定字符串如“And. And. And. And. And.”或 “But. But. But. But. But.”或 “However. However. However. However. However.”应用程序会崩溃。类似格式的 Also, Therefore, Anyway, Who, Why, Besides 等都会报错。问题似乎只影响英文字符。Google 开发者表示已经知道问题正在着手解决。关闭语法检查可暂时解决问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-06T07:12:59Z",
+  "Author": "WinterIsComing"
+}

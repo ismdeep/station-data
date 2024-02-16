@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国最高法院裁决拷贝 Java API 是合理使用",
+  "Link": "https://www.solidot.org/story?sid=67403",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国最高法院\u003ca href=\"https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf\" target=\"_blank\"\u003e\u003cu\u003e裁决（PDF）\u003c/u\u003e\u003c/a\u003e拷贝 Java API 是合理使用，结束了长达 11 年的 API 侵权诉讼。Google 使用 Java 开发了 Android 操作系统，甲骨文在收购 Sun 之后获得了 Java 的所有权，它在 2010 年指控 Google 侵犯了 Java API 的版权。API 是一种标准函数调用，允许第三方构建与已有平台如 Java 兼容的软件。使用 API 被软件行业广泛视为是合理使用，如果无法使用 API，那么这将动摇软件行业的基础。最高法院的裁决重点不是 API 是否受版权保护，而是使用 API 是否是合理使用，它并没有推翻联邦巡回法院做出的 API 受版权保护的裁决。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-06T03:09:23Z",
+  "Author": "WinterIsComing"
+}

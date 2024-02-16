@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 试验将 1% Firefox 用户的默认搜索引擎设为 Bing",
+  "Link": "https://www.solidot.org/story?sid=69000",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 正在试验将 1% Firefox 用户的\u003ca href=\"https://www.ghacks.net/2021/09/17/firefox-experiment-is-testing-bing-as-the-default-search-engine/\"\u003e\u003cu\u003e默认搜索引擎设为 Bing\u003c/u\u003e\u003c/a\u003e。在大部分地区，Firefox 的默认搜索引擎是 Google，Mozilla 和 Google 在 2020 年将默认搜索引擎交易延长三年，Google 每年向 Mozilla 支付 4 到 4.5 亿美元。Google 是在 2017 年 Mozilla 与雅虎的交易结束之后成为 Firefox 的默认搜索引擎。最新的试验始于 2021 年 9 月 6 日，将一直持续到 2022 年初，大约 1% 的 Firefox 用户在安装时会注意到默认搜索引擎改变了。Firefox 用户可以选择更改默认引擎，而不想参与试验的用户可以修改设置——在地址栏输入 about:preferences#privacy，禁用“Allow Firefox to install and run studies”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-19T13:18:31Z",
+  "Author": "WinterIsComing"
+}

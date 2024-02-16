@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 扩大跟踪保护",
+  "Link": "https://www.solidot.org/story?sid=65162",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 安全博客\u003ca href=\"https://blog.mozilla.org/security/2020/08/04/firefox-79-includes-protections-against-redirect-tracking/\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e即将在未来几周推送给 Firefox 用户的增强隐私保护功能 Enhanced Tracking Protection 2.0（ETP 2.0）。ETP 2.0 能屏蔽新的先进跟踪技术 \u003ca href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Privacy/Redirect_Tracking_Protection#Redirect_tracking_defined\"\u003eredirect tracking\u003c/a\u003e，每隔 24 小时清除跟踪网站的 cookies 和网站数据，但这并不包括用户经常访问的网站。Redirect trackers 是指用户在前往目标网站之前被迫先访问跟踪器的网站，这意味着跟踪器将会作为第一方加载因此允许储存 cookies。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-06T06:30:58Z",
+  "Author": "WinterIsComing"
+}

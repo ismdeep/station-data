@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 屏蔽含 digest 的动态",
+  "Link": "https://www.solidot.org/story?sid=64967",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道 \u003ci\u003e\u0026#34;在名人账号遭劫持发布比特币欺诈信息之后，Twitter \u003ca href=\"https://archive.vn/NMt1l\" target=\"_blank\"\u003e\u003cu\u003e屏蔽了\u003c/u\u003e\u003c/a\u003e含有区块链钱包地址，各类哈希字符串的帖子。用户发表含有这些字符串的帖子会返回发表失败的错误信息。\u0026#34;\u003c/i\u003e这起安全事故引发了对 Twitter 保护用户账号能力的担忧。对于事故的原因，Twitter 仍然在进行调查，\u003ca href=\"https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/07/16/the-technology-202-twitter-just-proved-it-can-t-keep-the-accounts-of-global-leaders-safe/5f0f4d1c88e0fa7b44f75526/\"\u003e\u003cu\u003e初步结论\u003c/u\u003e\u003c/a\u003e是能访问内部系统的雇员遭到社交工程攻击。这起事故将让 Twitter 面临更大的政治压力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-16T13:57:01Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 允许不记名投票",
+  "Link": "https://www.solidot.org/story?sid=71086",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian \u003ca href=\"https://lwn.net/Articles/889444/\" target=\"_blank\"\u003e\u003cu\u003e决定允许不记名投票\u003c/u\u003e\u003c/a\u003e。Debian 社区采用的是\u003ca href=\"https://zh.wikipedia.org/wiki/%E5%AD%94%E5%A4%9A%E5%A1%9E%E6%8A%95%E7%A5%A8%E6%B3%95\"\u003e孔多塞投票法\u003c/a\u003e。Debian 开发者对四个选项进行投票：Hide identities of Developers casting a particular vote、Hide identities of Developers casting a particular vote and allow verification、Reaffirm public voting 和None of the above。最终第二选项“不记名投票但允许验证身份”获胜。DPL 候选人 Felix\nLechner 质疑了选举，呼吁重新投票。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-29T04:39:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 3.11 性能比 3.10 提升最高 60%",
+  "Link": "https://www.solidot.org/story?sid=71772",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 3.11 上个月释出了首个 Beta 版本，预计在 7 月释出 RC 版本，10 月发布正式版本。Python \u003ca href=\"https://docs.python.org/3.11/whatsnew/3.11.html#faster-cpython\"\u003e\u003cu\u003e项目称\u003c/u\u003e\u003c/a\u003e，Python 3.11 的性能比 3.10 有显著提升，速度提高了  10-60%，在标准基准套件中平均增速达到 1.25 倍。Python 3.11  的新特性包括：语法特性有例外组（Exception Groups）和 except*，类型特性有可变泛型、Self 类型、任意文字字符串类型等等。Phoronix 在 AMD Ryzen 9 5950X 开发机上测试了 Python 3.11 Beta、Python 3.10.4,、Python 3.9.13 和 Python 3.8.13，\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=python-311-benchmarks\u0026amp;num=4\" target=\"_blank\"\u003e\u003cu\u003e结果显示\u003c/u\u003e\u003c/a\u003e Python 3.11 Beta 在整体上比 Python 3.10 快 41%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-09T03:14:54Z",
+  "Author": "WinterIsComing"
+}

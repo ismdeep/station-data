@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LibreOffice 6.4 引入二维码生成器",
+  "Link": "https://www.solidot.org/story?sid=63047",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源办公软件 \u003ca href=\"https://wiki.documentfoundation.org/ReleaseNotes/6.4\"\u003e\u003cu\u003eLibreOffice 6.4\u003c/u\u003e\u003c/a\u003e 释出了首个 \u003ca href=\"https://dev-builds.libreoffice.org/pre-releases/\"\u003e\u003cu\u003eRC 版本\u003c/u\u003e\u003c/a\u003e，正式版本预计会在 2020 年 1 月底到 2 月初发布。新版本的一个比较引人注目的功能是在任意文档内插入二维码，二维码生成器允许用户输入超链接或文本，选择复杂度，然后生成一个可分享的二维码。另一个功能是表格全页预览。LibreOffice 源自 OpenOffice，2010 年一群 OpenOffice 开发者因为不满甲骨文对 OpenOffice 项目的严格控制而创建了分支成立了 The Document Foundation。如今 OpenOffice 项目已被甲骨文捐出但开发陷入了停滞，而 LibreOffice 项目则\u003ca href=\"https://www.theregister.co.uk/2019/12/24/libreoffice_64_nearly_done_as_project_prepares_for_10th_anniversary/\" target=\"_blank\"\u003e\u003cu\u003e迎来了十周年\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-24T09:41:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "macOS Catalina 用户打开 LibreOffice 仍然会显示警告信息",
+  "Link": "https://www.solidot.org/story?sid=62362",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t升级到 macOS Catalina 的用户\u003ca href=\"https://www.zdnet.com/article/apples-macos-catalina-libreoffice-users-still-get-scary-malware-messages/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e打开他们打开开源办公软件 LibreOffice 仍然会显示警告信息。The Document Foundation \u003ca href=\"https://blog.documentfoundation.org/blog/2019/10/22/libreoffice-and-macos-catalina/\" target=\"_blank\"\u003e\u003cu\u003e官方博客\u003c/u\u003e\u003c/a\u003e称，苹果在 10 月 7 日释出了 macOS 10.15 Catalina，根据苹果的要求，用开发者 ID 签名的 Mac 应用、安装包、和内核扩展都必须经过苹果公证才能运行在 Catalina 上。虽然它已经按照要求公证了，但用户启动 LibreOffice 6.3.x 时仍然会显示“开发者没有经过验证”的警告信息。苹果建议用户删除该应用或取消操作。The Document Foundation 推荐的权宜之计是右键应用图标，选择打开，再次跳过苹果的警告。继续选择打开。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-24T13:05:59Z",
+  "Author": "wenfeixiang"
+}

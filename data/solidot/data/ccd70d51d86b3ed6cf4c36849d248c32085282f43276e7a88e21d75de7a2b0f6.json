@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 准备移除对 X.Org 会话支持",
+  "Link": "https://www.solidot.org/story?sid=76294",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNOME 项目正在评估移除对 X.Org 会话支持，未来转变为只支持 Wayland 的桌面环境。开发者递交了一组合并请求，准备移除对 X.Org 会话支持。开发者称，X11 的测试愈来愈少，自 2016 年以来 GNOME 就默认使用 Wayland 会话，现在是时候完全移除 X.Org 会话了。可能到明年 GNOME 项目将只支持 Wayland 会话。\n\n\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/GNOME-MR-Drop-X11-Session\u003cbr/\u003e\nhttps://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/98\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-10T08:04:11Z",
+  "Author": "Wilson"
+}

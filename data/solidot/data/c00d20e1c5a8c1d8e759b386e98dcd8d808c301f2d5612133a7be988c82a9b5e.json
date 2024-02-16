@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "网信办试图限制应用索取权限",
+  "Link": "https://www.solidot.org/story?sid=66269",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t国内的很多移动应用都在想方设法获取用户信息，如果用户拒绝应用访问某些权限，那么这些应用可能会拒绝用户使用。现在，网信办试图限制此类行为，它\u003ca href=\"http://www.cac.gov.cn/2020-12/01/c_1608389002247944.htm\"\u003e\u003cu\u003e公布\u003c/u\u003e\u003c/a\u003e了《常见类型移动互联网应用程序（App）必要个人信息范围》的\u003ca href=\"http://www.cac.gov.cn/2020-12/01/c_1608389002456595.htm\" target=\"_blank\"\u003e\u003cu\u003e征求意见稿\u003c/u\u003e\u003c/a\u003e，截止日期 12 月 16 日。 征求意见稿规定，只要用户同意收集必要个人信息，App 不得拒绝用户安装使用。而“必要个人信息”的概念是指保障 App 基本功能正常运行所必须的个人信息，缺少该信息 App 无法提供基本功能服务。\u003ca href=\"https://www.bjnews.com.cn/detail/160691955515222.html\"\u003e\u003cu\u003e这意味着\u003c/u\u003e\u003c/a\u003e用户只要同意 App 收集必要信息，即便不同意其他权限，App 也必须允许用户安装使用并提供服务；反过来，若用户不同意收集这些必要信息，App 则可以不提供服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-03T13:00:22Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西部数据因在 NAS 存储产品中混入 SMR 盘而遭到起诉",
+  "Link": "https://www.solidot.org/story?sid=64522",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，三大硬盘制造商西部数据、希捷和东芝都公开承认机械硬盘产品\u003ca href=\"https://www.solidot.org/story?sid=64164\" target=\"_blank\"\u003e\u003cu\u003e混用了\u003c/u\u003e\u003c/a\u003e SMR 技术。今天流行的机械硬盘主要采用两种技术：CMR/PMR（垂直磁记录）和 SMR（叠瓦式磁纪录），其中 SMR 技术写入性能较差，能在降低成本的同时将存储容量提升 20%，适用于一次写入多次读取的场景，不太适合需要反复写入读取的场景使用，比如 NAS RAID（可能会导致硬盘短时间内损坏）。在三大硬盘制造商中，西部数据是唯一在 NAS 存储产品中混入 SMR 盘的厂商，它也因此\u003ca href=\"https://arstechnica.com/gadgets/2020/05/western-digital-gets-sued-for-sneaking-smr-disks-into-its-nas-channel/\" target=\"_blank\"\u003e\u003cu\u003e遭到了\u003c/u\u003e\u003c/a\u003e律所 Hattis Law 发起的\u003ca href=\"https://www.hattislaw.com/cases/investigations/western-digital-lawsuit-for-shipping-slower-smr-hard-drives-including-wd-red-nas/\"\u003e\u003cu\u003e集体诉讼\u003c/u\u003e\u003c/a\u003e。诉状称，西部数据欺骗和伤害了消费者。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-30T12:53:02Z",
+  "Author": "WinterIsComing"
+}

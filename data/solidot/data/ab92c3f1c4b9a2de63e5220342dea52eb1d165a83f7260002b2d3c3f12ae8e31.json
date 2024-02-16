@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为防止 Zombieload v2 攻击 Windows 和 Linux 引入选项关闭英特尔 TSX",
+  "Link": "https://www.solidot.org/story?sid=62615",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为防止刚刚曝光的 Zombieload v2 攻击，微软 Windows 和 Linux 内核团队\u003ca href=\"https://www.zdnet.com/article/windows-linux-get-options-to-disable-intel-tsx-to-prevent-zombieload-v2-attacks/\" target=\"_blank\"\u003e\u003cu\u003e都引入了方法\u003c/u\u003e\u003c/a\u003e关闭英特尔 TSX（Transactional Synchronization Extensions）。Zombieload 漏洞与 TSX 有关，它与之前披露的 Meltdown、Spectre 和 Foreshadow 漏洞类似，都是利用预测执行去实现跨线程、权限边界和超线程的数据泄露。本周披露的 Zombieload V2 漏洞能影响最近发布的英特尔处理器。英特尔释出了微码更新去修正最新的漏洞，但补丁会对性能产生严重影响。为了避免影响性能，许多企业可能会选择不更新微码，或者宁愿选择禁用漏洞相关的技术。\u003ca href=\"https://support.microsoft.com/en-us/help/4531006/guidance-for-disabling-intel-transactional-synchronization-extensions\"\u003e\u003cu\u003e微软\u003c/u\u003e\u003c/a\u003e和 Linux 内核团队先后发布了\u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c2955f270a84762343000f103e0640d29c7a96f3\"\u003e\u003cu\u003e方法\u003c/u\u003e\u003c/a\u003e去关闭 TSX。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-15T03:26:23Z",
+  "Author": "wenfeixiang"
+}

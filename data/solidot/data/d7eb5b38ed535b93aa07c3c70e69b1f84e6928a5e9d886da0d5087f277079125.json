@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Intel第12代处理器停止对SGX支持",
+  "Link": "https://www.solidot.org/story?sid=70378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net/\"\u003eHardenedVault\u003c/a\u003e 写道\u003ci\u003e \u0026#34;近期相传已久关于Intel在新处理器中停止对SGX支持的\u003ca href=\"https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/\"\u003e消息得到了确认\u003c/a\u003e，第12代处理器将\u003ca href=\"https://zhuanlan.zhihu.com/p/457710785\" target=\"_blank\"\u003e放弃所有SGX特性\u003c/a\u003e。Intel官方的解释是处于市场的考虑而最终作出的决定，会有包括蓝光防盗版DRM在内的诸多应用受到影响。Intel SGX（software guard extension）是自从2015年发售的第6代处理器Skylake中支持的，其主要目的是为了更好的解决云计算环境下云厂商和租户信任的问题，这种方案被称为飞地（Enclave），SGX自诞生之日起就引起了众多争议，赛博堡垒的可信/机密计算方案中\u003ca href=\"https://zhuanlan.zhihu.com/p/457710785\" target=\"_blank\"\u003e对于SGX的失败的总结\u003c/a\u003e主要有几点：1）过度设计和实现导致复杂性失控。2）错的离谱的威胁模型，SGX的威胁模型中把操作系统和固件都当成不可信，但实际情况是操作系统可以轻松发起侧信道攻击，而\u003ca href=\"https://zhuanlan.zhihu.com/p/416458457\" target=\"_blank\"\u003eCSME的“上帝模式“\u003c/a\u003e打破了诸多威胁模型中的假设。3）不可审计性，大部分核心组件都是闭源的所以几乎难以得到完备的审计结果。4）保护的应用的同时也可以用于保护恶意代码，这让恶意代码检测成为摆设。5）第三方证明服务推出的时间太晚。6）SGX内核主线化进程缓慢，2016年提交给Linux内核社区最终到了2021年才合并，而2020年关于SGX会停止支持的消息已经传出。7）市场过度宣传，这个问题在中国地区或许更突出，大厂不断鼓吹SGX可以成为\u0026#34;下一代\u0026#34;银弹级别的方案，实际情况是安全领域的总原则是没有银弹。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-15T10:54:15Z",
+  "Author": "WinterIsComing"
+}

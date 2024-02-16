@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 用自己的芯片取代数百万英特尔 CPU",
+  "Link": "https://www.solidot.org/story?sid=67952",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 用自己设计的芯片 Argos video (trans)coding units(VCU)取代英特尔 CPU 去处理 YouTube 视频。今年早些时候，YouTube \u003ca href=\"https://www.solidot.org/story?sid=67620\"\u003e\u003cu\u003e披露了 Argos VCU\u003c/u\u003e\u003c/a\u003e，称相比以前使用软件在传统服务器的转码，Argos 的视频转码芯片性能提升了 20-33 倍。相比使用英特尔 Skylake CPU 或 Nvidia T4 Tensor core GPU 的方案，VCU 能节省大量的钱。分析师\u003ca href=\"https://www.tomshardware.com/news/intel-replaces-xeons-with-custom-vcus\"\u003e\u003cu\u003e估计\u003c/u\u003e\u003c/a\u003e，Google 可能已经用 VCU 替代了 400 万到 3300 万的英特尔 CPU。Google 已经在设计第二代 Argos VCU，支持 AV1、H.264 和 VP9 编解码器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-04T06:32:45Z",
+  "Author": "WinterIsComing"
+}

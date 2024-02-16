@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.12 释出",
+  "Link": "https://www.solidot.org/story?sid=67616",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在邮件列表上\u003ca href=\"https://kernelnewbies.org/Linux_5.12\"\u003e\u003cu\u003e宣布释出\u003c/u\u003e\u003c/a\u003e Linux 5.12，表示 5.12 是一个相对较小的版本，下一个版本 5.13 \u003ca href=\"https://www.theregister.com/2021/04/25/linux_5_12_released/\"\u003e\u003cu\u003e将会相当庞大\u003c/u\u003e\u003c/a\u003e。Linux 5.12 的新特性和变化包括：移除了大量过时的 32 位 Arm 子架构，BPF \u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=de948576f8e7\"\u003e原子操作指令\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/843163/\" target=\"_blank\"\u003e有条件文件查找\u003c/a\u003e LOOKUP_CACHED，Btrfs 文件系统\u003ca href=\"https://lwn.net/Articles/853308/\"\u003e支持分区块设备\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/833840/\"\u003e内核线程 NAPI 轮询\u003c/a\u003e，文件系统 ID 映射，支持 Clang 链时优化构建内核，内核调试工具 \u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=10efe55f883f\"\u003eKFENCE\u003c/a\u003e，等等。更多浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.12\" target=\"_blank\"\u003e\u003cu\u003eKernelNewbies 5.12\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-26T15:05:08Z",
+  "Author": "WinterIsComing"
+}

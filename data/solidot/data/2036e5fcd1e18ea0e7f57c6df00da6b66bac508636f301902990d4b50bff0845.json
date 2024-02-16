@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软新 AI 模型能理解图像内容解决视觉难题",
+  "Link": "https://www.solidot.org/story?sid=74283",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软研究人员在预印本网站 arXiv 发表论文，介绍了它的多模大语言模型 Kosmos-1，能理解图像内容，解决视觉难题，执行视觉文本识别，通过视觉 IQ 测试，理解自然语言指令。研究人员认为，集成文本、音频、图像和视频等不同输入模式的多模 AI 模型是构建通用 AI（AGI）的关键一步。研究人员称，作为智能的基本组成部分，多模感知是实现 AGI 所必不可少的。Kosmos-1 能分析图像并回答关于相关问题，能从图像中读取文本，为图像写标题，以 22-26% 的准确率完成视觉 IQ 测试。微软使用来自 Web 的数据训练 Kosmos-1，包括 The Pile（800GB 容量的英文文本资源）和 Common Crawl。训练后通过一系列测试去评估了 Kosmos-1 的能力。微软称，在众多测试中，Kosmos-1 的表现超过了目前最先进的模型。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arxiv.org/abs/2302.14045\u003cbr/\u003e\nhttps://arstechnica.com/?p=1920920\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-02T14:07:59Z",
+  "Author": "Wilson"
+}

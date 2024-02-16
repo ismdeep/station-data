@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GOV.UK 移除 jQuery 改进性能",
+  "Link": "https://www.solidot.org/story?sid=71583",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://zh.wikipedia.org/wiki/JQuery\" target=\"_blank\"\u003e\u003cu\u003ejQuery \u003c/u\u003e\u003c/a\u003e是一套跨浏览器的 JavaScript 库，用于简化 HTML 与 JavaScript 之间的操作。jQuery 是最广泛使用的 JS 库之一，数据显示 2021 年逾八成移动网页使用它。jQuery 诞生于 15 年前，今天的 JS 能完成 jQuery 能做的所有工作，所以今天还有必要使用 jQuery 吗？英国政府网站 GOV.UK 回答是不用。它在 3 月移除了 jQuery 库，以精简网站确保所有人能访问。\u003ca href=\"https://web.dev/gov-uk-drops-jquery/\"\u003e\u003cu\u003e结果显示\u003c/u\u003e\u003c/a\u003e网站整体上减少了前端处理的时间，对于设备和网速比较慢的用户访问性能有了提升。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-20T05:47:25Z",
+  "Author": "WinterIsComing"
+}

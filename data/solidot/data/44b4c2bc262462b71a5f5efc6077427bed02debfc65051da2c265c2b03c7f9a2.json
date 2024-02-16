@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软上周释出的补丁导致部分 Windows 10 机器蓝屏死机",
+  "Link": "https://www.solidot.org/story?sid=73713",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上周二释出了 12 月例行补丁，但部分安装累积补丁 KB5021233 的 Windows 10 用户报告发生了蓝屏死机。微软称，问题可能是 c:/windows/system32 和 c:/windows/system32/drivers（假定操作系统安装在 C 盘） 中 hidparse.sys 的文件版本不匹配导致的。系统在启动时会报 0xc000021a 错误，发生蓝屏死机。受影响的版本包括 Windows 10 22H2、21H2、21H1 和 20H2。微软正在开发修复补丁。对于目前无法启动的系统，微软建议使用 Windows Recovery Environment(WinRE)修复。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2022/12/20/microsoft_windows_10_crash/?td=rt-3a\u003cbr/\u003e\nhttps://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22H2\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-21T06:30:29Z",
+  "Author": "Wilson"
+}

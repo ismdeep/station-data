@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "诺基亚将 Plan 9 的版权转移给 Plan 9 基金会",
+  "Link": "https://www.solidot.org/story?sid=67311",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t诺基亚旗下的贝尔实验室将 Plan 9 操作系统的版权\u003ca href=\"https://9fans.topicbox.com/groups/9fans/Tf20bce89ef96d4b6/transfer-of-plan-9-to-the-plan-9-foundation\" target=\"_blank\"\u003e\u003cu\u003e转移给了\u003c/u\u003e\u003c/a\u003e Plan 9 基金会。Plan 9 是贝尔实验室在 1980 年代开发的分布式操作系统，2002 年终止开发，它的一大特色功能是将所有本地和远程资源以文件形式组织的9P协议。Plan 9共发布了四个版本，其中前两个版本未公布源代码，第三和第四个版本开源，但采用了不兼容与 GPL 的 LPL 许可证。Plan 9 基金会已经决定将所有四个版本的源代码在 MIT 许可证下发布。下游项目可以继续使用 LPL，但也可以选择切换到 MIT。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-25T06:11:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究人员在九种路由器中发现了 226 个缺陷",
+  "Link": "https://www.solidot.org/story?sid=69879",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t IoT Inspector 的安全研究人员和 CHIP 杂志合作测试了华硕、AVM、D-Link、Netgear、Edimax、TP-Link、Synology 和 Linksys 制造的九种 WiFi 路由器，这些路由器被数百万用户使用，供应商提供了最新的型号，升级到了最新的固件版本，但\u003ca href=\"https://www.bleepingcomputer.com/news/security/nine-wifi-routers-used-by-millions-were-vulnerable-to-226-flaws/\"\u003e\u003cu\u003e测试仍然发现了 226 个潜在漏洞\u003c/u\u003e\u003c/a\u003e。不是所有的缺陷都是安全漏洞，部分缺陷难以利用，但有许多漏洞可归类为中高危级。研究人员发现的路由器问题包括：使用过时的 Linux 内核版本，过时的多媒体和 VPN 功能，过度依赖于旧版本的 BusyBox，使用如 admin 之类的默认弱密码， 在纯文本格式中保存硬编码凭证，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-05T13:43:16Z",
+  "Author": "WinterIsComing"
+}

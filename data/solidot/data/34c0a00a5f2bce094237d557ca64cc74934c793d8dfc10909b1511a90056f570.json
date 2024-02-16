@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔将停止提供旧的驱动和固件更新下载",
+  "Link": "https://www.solidot.org/story?sid=62660",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对于旧电脑用户来说，未来如果他们重装系统，可能无法在设备的官网找到所需的驱动了。芯片巨人宣布它将在未来几天从其官网移除旧的驱动和 BIOS 固件更新，\u003ca href=\"https://it.slashdot.org/story/19/11/18/1646210/intel-to-remove-old-drivers-and-bios-updates-from-its-site\" target=\"_blank\"\u003e\u003cu\u003e此举预计\u003c/u\u003e\u003c/a\u003e可以节省数 GB 的服务器储存空间。根据英特尔公布在一个\u003ca href=\"https://downloadcenter.intel.com/download/28273/BIOS-Update-BLH6710H-86A-\"\u003e\u003cu\u003e BIOS 下载网页\u003c/u\u003e\u003c/a\u003e的声明：它将从周五 11 月 22 日起移除旧的驱动和 BIOS。移除下载的旧驱动和 BIOS 针对的是早已终止支持的 Windows 操作系统如 98、ME、XP 以及旧的 Windows 服务器版本。英特尔不是唯一这么做的硬件供应商，惠普在 2017 年移除了终止支持的产品驱动，但戴尔和联想等公司仍然继续提供终止支持的设备驱动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-19T07:10:22Z",
+  "Author": "wenfeixiang"
+}

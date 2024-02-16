@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软准备在 6 月和 7 月推送更新移除 Adobe Flash Player",
+  "Link": "https://www.solidot.org/story?sid=67687",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAdobe Flash 于 2020 年 12 月 31 日终止支持，微软在去年底\u003ca href=\"https://www.solidot.org/story?sid=65952\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e更新 KB4577586 永久性移除 Adobe Flash，在移除之后用户将无法再重新安装。该更新是可选的，未通过 Windows Server Update Service (WSUS) 自动推送给用户。微软计划在 2021 年通过 WSUS 将该补丁提供给用户。现在微软\u003ca href=\"https://www.windowslatest.com/2021/05/04/windows-10-patch-tuesday-security-update-will-remove-flash-player-in-july/\"\u003e\u003cu\u003e公布了时间表\u003c/u\u003e\u003c/a\u003e：从 2021 年 6 月开始 KB4577586 将包含在 Windows 10 v1809 及以上版本的预览更新中，从 7 月开始 KB4577586 将包含在 Windows 10 v1507 和 v1607 的最新累积更新中，以及 Windows 8.1、Windows Server 2012 和 Windows Embedded 8 Standard 的安全更新中。\n\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-05T12:53:50Z",
+  "Author": "WinterIsComing"
+}

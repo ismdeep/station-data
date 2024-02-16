@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "sublime插件：序列反向互补",
+  "Link": "https://blog.zzbd.org/2016/10/20/sublime-atcg/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e最近需要频繁对oligonucleotide做反向、互补操作，sublime text的\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/hackerfriendly/ACTG\"\u003eactg\u003c/a\u003e插件倒是可以满足用快捷键实时转换，可惜只能做reverse complement一个操作。于是自己动手改了个，暂且命名为atcg吧！\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003cbr/\u003e懒得弄到package control上，所以要用的话需要手动下载到sublime的包目录。使用很简单，\u003ccode\u003ectrl\u003c/code\u003e+\u003ccode\u003eshift\u003c/code\u003e+\u003ccode\u003er\u003c/code\u003e是反向，\u003ccode\u003ectrl\u003c/code\u003e+\u003ccode\u003eshift\u003c/code\u003e+\u003ccode\u003ec\u003c/code\u003e是互补，\u003ccode\u003ectrl\u003c/code\u003e+\u003ccode\u003er\u003c/code\u003e+\u003ccode\u003ec\u003c/code\u003e是反向互补。mac系统ctrl换成command键。原插件还有fasta类文件后缀自动高亮的功能，所以也一并继承。代码托管在github上=\u0026gt;\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/flashlab/\"\u003eflashlab\u003c/a\u003e/\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/flashlab/ACTG\"\u003eACTG\u003c/a\u003e\u003cbr/\u003e另外吐槽一下mac的command键，基本就是win/linux ctrl键的角色，确非要逆着大多数人的习惯来，这种个性真不是很懂。。。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2016-10-20T11:04:44Z",
+  "Author": "J. F"
+}

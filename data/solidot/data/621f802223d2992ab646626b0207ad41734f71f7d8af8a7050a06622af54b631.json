@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Manifest V3 并没有改进 Chrome 的安全",
+  "Link": "https://www.solidot.org/story?sid=61605",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在安全、隐私和性能的名义下，Google Chrome 提出了新扩展系统 \u003ca href=\"https://docs.google.com/document/d/1nPu6Wy4LWR66EFLeYInl3NzzhHzc-qnk4w4PX-0XMw8/edit#\" target=\"_blank\"\u003e\u003cu\u003eManifest v3\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.solidot.org/story?sid=61103\"\u003e\u003cu\u003e计划\u003c/u\u003e\u003c/a\u003e最快本月初释出  Manifest v3 预览版。有没有改进隐私和性能，目前还看不出来。但它究竟有没有改进安全性？ EFF 认为Manifest V3 \u003ca href=\"https://www.eff.org/deeplinks/2019/07/googles-plans-chrome-extensions-wont-really-help-security\"\u003e\u003cu\u003e并没有改进 Chrome 的安全\u003c/u\u003e\u003c/a\u003e，Google 的声明不是真的：Manifest V3 仍然允许扩展和以前一样观察数据，包括用户访问的网址和网页内容，它没有改变另一种提取用户浏览数据的内容脚本的工作方式，仍然允许扩展在所有网站上运行。Google 对扩展规则的数量设置了上限，它没有杀死广告屏蔽扩展，但它遏制了创新，而且并没有证明这么做是必要的。EFF 建议 Google 如果想要改进安全可以在扩展审核上做得更好些。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-05T09:06:28Z",
+  "Author": "wenfeixiang"
+}

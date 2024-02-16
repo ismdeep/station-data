@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 测试 Android Messages 的端对端加密",
+  "Link": "https://www.solidot.org/story?sid=66164",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://arstechnica.com/gadgets/2020/11/google-is-testing-end-to-end-encryption-in-android-messages/\"\u003e\u003cu\u003e开始测试\u003c/u\u003e\u003c/a\u003e其短消息服务 Rich Communication Service（或 RCS ）的端对端加密功能。过去十年，在 NSA 告密者 Edward Snowden 披露 NSA 的大规模监视之后，人们对端对端加密的兴趣日益高涨。端对端的加密和解密是在通讯端的双方进行的，因此服务商也无法知道会话内容，这能有效防止第三方监听。目前 Google 的端对端加密只提供给 Android Messages 的 beta 版用户。Android Messages 的通信双方必须都启用该功能之后才能真正端对端加密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-23T07:50:40Z",
+  "Author": "WinterIsComing"
+}

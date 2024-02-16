@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究人员悄悄破解勒索软件 Zeppelin",
+  "Link": "https://www.solidot.org/story?sid=73414",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2020 年 5 月，一家公司感染了新勒索软件 Zeppelin，更糟糕的是备份数据也被加密了。在两周之后，老板准备屈服按要求支付赎金。这时候他们收到了一个意想不到的电话，一位 FBI 特工告诉他们不要支付赎金，可以联络一家网络安全咨询公司 Unit 221B，他们能破解密码。这家公司的创始人 Lance James 在 Zeppelin 的加密程序中发现了多个漏洞，允许他使用大约 100 台云端服务器在几个小时内暴力破解密钥。Unit 221B 不愿意声张他们的破解能力，因为如果被 Zeppelin 作者知道的话，漏洞会被堵上，破解也就失效了。Unit 221B 帮助数十名受害者避免支付赎金，而结果是 Zeppelin 勒索软件黑帮逐渐停止了活动。现在他们能公开自己的破解方法了。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-18T15:51:56Z",
+  "Author": "WinterIsComing"
+}

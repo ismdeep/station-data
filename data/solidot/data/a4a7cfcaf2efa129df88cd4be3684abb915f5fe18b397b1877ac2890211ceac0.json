@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "友讯科技无意修复新发现的路由器远程劫持漏洞",
+  "Link": "https://www.solidot.org/story?sid=62185",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t友讯科技（D-Link）\u003ca href=\"https://threatpost.com/d-link-home-routers-unpatched/148941/\"\u003e\u003cu\u003e无意修复\u003c/u\u003e\u003c/a\u003e新发现的路由器远程劫持高危漏洞，理由是相关型号的路由器已经终止支持。漏洞 CVE-2019-16920 存在于 DIR-655、DIR-866L、DIR-652 和 DHP-1565 家用无线路由器的最新固件中，这些产品已经不再销售，但以亚马逊为例，第三方销售商\u003ca href=\"https://www.amazon.com/gp/offer-listing/B008PBU5GA/ref=dp_olp_all_mbc?ie=UTF8\u0026amp;condition=all\"\u003e\u003cu\u003e仍在出售\u003c/u\u003e\u003c/a\u003e。问题根源在于命令执行功能缺乏对任意命令执行的完整性检查，允许攻击者获取管理密码或安装后门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-09T04:26:05Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "无偿工作的开源开发者发现自己的力量",
+  "Link": "https://www.solidot.org/story?sid=70425",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t尽管工作没有报酬，部分开源开发者\u003ca href=\"https://news.slashdot.org/story/22/01/18/1756218/open-source-developers-who-work-for-free-are-discovering-they-have-power\"\u003e\u003cu\u003e开始意识到他们拥有巨大的力量\u003c/u\u003e\u003c/a\u003e，因为其项目被世界最大最赚钱的公司使用。一月初，两个流行的 NPM 包——“colors”和“faker”的开发者 Marak Squires 故意更改代码，破坏了这两个包的功能，在调用时，它会输出“LIBERTY LIBERTY LIBERTY”（自由），然后是乱码，出现无限循环。虽然 Squires 没有透露此举原因，但他之前曾在 GitHub 上表示，“我不想用无偿工作支持财富 500 强（和其他的小公司）了。”Squires 的修改破坏了其他流行的项目，包括亚马逊的 Cloud Development Kit，因为他的库每周在NPM 上安装近 2000 万次，数千个项目直接依赖于它们。NPM 在几个小时之内对这个流氓版本进行了回滚，而 GitHub 则暂停开发者账户作为回应。\n\u003cbr/\u003e\n\u003cbr/\u003e\nNPM 的回应在预料之中，之前曾发生过恶意代码被添加到库中，最终被回滚以控制损害，GitHub 的做法却是件新鲜事：该代码托管平台删除了 Squires 的整个帐户，即使他是这些代码的所有者，并且有权随心所欲地对它们进行修改。这并不是开发者第一次用他们的代码表示抗议。2016 年在与 Kik messenger 就他拥有的另一个开源项目的命名发生争执之后，“left-pad”的开发者从 NPM 上撤下了他的代码，破坏了数以万计依赖它的网站。令人惊讶的是，尽管偶尔会有知名的库抗议这个行业运作的方式，但此类事件并不常见：尽管许多价值数百万美元的产品是在开源开发者的工作上创造出来的，可是开源开发者仍在无偿工作，竭尽所能地维护自己的项目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-19T08:43:43Z",
+  "Author": "wanwan"
+}

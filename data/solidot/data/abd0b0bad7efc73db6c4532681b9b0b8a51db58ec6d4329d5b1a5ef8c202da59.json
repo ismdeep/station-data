@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stack Overflow 透露攻击者利用 Stack Overflow 上的建议入侵该网站",
+  "Link": "https://www.solidot.org/story?sid=66787",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年 5 月，流行编程讨论社区 Stack Overflow 承认它被入侵了，但在攻击者尝试获得更多权限前被阻止了。Stack Overflow 称有大约 200 名用户的信息泄露。本周，Stack Overflow\u003ca href=\"https://www.theregister.com/2021/01/27/stack_overflow_2019_hack_was/\"\u003e\u003cu\u003e 公开\u003c/u\u003e\u003c/a\u003e了这次入侵的\u003ca href=\"https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/\" target=\"_blank\"\u003e\u003cu\u003e更多细节\u003c/u\u003e\u003c/a\u003e，称攻击者利用了 Stack Overflow 上面的建议入侵其系统。攻击始于 4 月 30 日，攻击者首先伪装成客户发送邮件请求获得源代码的拷贝用于审计目的，但遭到拒绝。几天后，攻击者使用特制的登陆请求绕过访问控制成功登陆了 StackOverflow 的开发环境，然后成功提权，访问了 JetBrains 的持续整合产品  TeamCity。攻击者并不熟悉 TeamCity，因此使用了 StackOverflow 上的建议使用和配置 TeamCity，克隆了托管在 GitHub Enterprise 上的多个代码库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-28T05:54:19Z",
+  "Author": "WinterIsComing"
+}

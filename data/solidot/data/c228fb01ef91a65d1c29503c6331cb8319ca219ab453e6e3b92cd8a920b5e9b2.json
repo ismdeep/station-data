@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Eclipse 基金会推出 Visual Studio Code 的替代 Eclipse Theia",
+  "Link": "https://www.solidot.org/story?sid=64035",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEclipse 基金会\u003ca href=\"https://sdtimes.com/softwaredev/eclipse-foundation-offers-open-source-alternative-to-visual-studio-code/\"\u003e\u003cu\u003e推出\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://github.com/microsoft/vscode\"\u003e\u003cu\u003eVisual Studio Code\u003c/u\u003e\u003c/a\u003e 的替代 \u003ca href=\"https://theia-ide.org/\"\u003e\u003cu\u003eEclipse Theia\u003c/u\u003e\u003c/a\u003e。Visual Studio Code 采用 MIT 许可证，而 Theia 采用 Eclipse Public License v2.0 许可证。Eclipse 基金会称，相比 Visual Studio Code，Theia 的架构更具有模块化，设计运行在桌面和云端，由社区主导开发，采用供应商中立的治理模式。Theia 项目最初由爱立信和 TypeFox 在 2016 年启动，后来联络了 Eclipse 基金会，在 2019 年成为基金会的候选托管项目。项目的早期贡献者包括了 ARM、Arduino、EclipseSource、Ericsson、Google Cloud、IBM、Red Hat、SAP 和 TypeFox。Theia 允许开发者安装和重复使用 VS Code 的扩展，并可以针对特定用例进行定制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-05T09:54:38Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源框架 SkyPilot 帮助你减少云计算费用",
+  "Link": "https://www.solidot.org/story?sid=73640",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t依赖云计算可能会导致成本失控。为了解决这个问题，加州伯克利实验室 Sky Computing Lab 的研究人员推出了一个开源框架 SkyPilot，帮助用户货比三家减少云计算费用。SkyPilot 使用一个算法判断哪个云服务区域或提供商对给定项目的费用最合算。该程序考虑了工作负载的资源要求（是否需要 CPU、GPU 或 TPU），然后自动确定哪个云服务区域有可用的计算资源完成工作，将其发送到费用最低的选项执行。SkyPilot 开发者和博士后\n Zongheng Yang 举例说，Azure 目前提供了最便宜的 Nvidia A100 GPU 实例，而 Google 云和 AWS 则分别溢价 8%  和 20%。CPU 的价格差异甚至可能超过 50%。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/skypilot-org/skypilot\u003cbr/\u003e\nhttps://www.datanami.com/2022/12/12/uc-berkeley-launches-skypilot-to-help-navigate-soaring-cloud-costs/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-13T14:26:14Z",
+  "Author": "Wilson"
+}

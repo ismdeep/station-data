@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.6 的新特性",
+  "Link": "https://www.solidot.org/story?sid=63473",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 5.6 合并窗口关闭，现在是时候总结下三个月后释出的新版本的\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=linux-56-features\u0026amp;num=1\"\u003e\u003cu\u003e新特性\u003c/u\u003e\u003c/a\u003e了：支持 WireGuard，USB4，Nouveau 驱动支持 NVIDIA GeForce RTX 2000 系列显卡，AMD Pollock 支持，AMD Zen 3 早期支持、改进 AMD Zen/Zen2 热功率报告，Amazon Echo 主线支持，F2FS 实验性压缩支持，修正了华硕 AMD 笔记本电脑的过热/降频问题， Multi-Path TCP 支持，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-10T05:50:18Z",
+  "Author": "WinterIsComing"
+}

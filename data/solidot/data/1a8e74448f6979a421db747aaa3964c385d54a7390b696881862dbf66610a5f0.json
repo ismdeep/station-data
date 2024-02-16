@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔芯片安全问题将会存在很长时间",
+  "Link": "https://www.solidot.org/story?sid=62412",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t稳定版内核维护者 Greg Kroah-Hartman 在欧洲开源峰会上发表主题演讲时指出，英特尔芯片的安全问题\u003ca href=\"https://www.zdnet.com/article/top-linux-developer-on-intel-chip-security-problems-theyre-not-going-away/\"\u003e\u003cu\u003e将会存在很长时间\u003c/u\u003e\u003c/a\u003e。这些被称为 MDS、RDDL、Fallout 和 Zombieland 的芯片漏洞从某种程度上说都是相同的问题或者说是相同问题的不同变种，但解决方法各不相同。举例来说，RIDL 和 Zombieload 漏洞能跨应用程序、虚拟机和安全区域（secure enclaves）窃取数据，讽刺的是英特尔软件防护扩展(SGX)在芯片内本是保护数据安全的，结果本身却有很多漏洞。Kroah-Hartman 称为了修复每一个曝出的问题，你必须同时给 Linux 内核、CPU BIOS 和微码打上补丁。这不只是 Linux 的问题，任何操作系统都面临相同的问题。他承认 OpenBSD 给出了解决此类漏洞的最近解决方案：关闭英特尔处理器的超线程，克服带来的性能损失。Kroah-Hartman 称，你必须选择性能还是安全，而这里不存在好的选择。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-29T10:27:20Z",
+  "Author": "wenfeixiang"
+}

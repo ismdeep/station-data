@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 2.7 结束支持",
+  "Link": "https://www.solidot.org/story?sid=63173",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 20 年之后 Python 2 系列\u003ca href=\"https://pythonclock.org/\"\u003e\u003cu\u003e正结束支持\u003c/u\u003e\u003c/a\u003e，2020 年 4 月发布的 v2.7.18 \u003ca href=\"https://www.theregister.co.uk/2020/01/03/python_2_gets_frozen/\"\u003e\u003cu\u003e将是最后一个版本\u003c/u\u003e\u003c/a\u003e，之后开发者不再修复安全漏洞，仍然使用 Python 2 的用户将会面临日益增多的安全风险。接替 Python 2 的 Python 3 早在 2008 年就已经发布，但由于它不向后兼容，导致许多用户仍然停留在 Python 2 系列。Python 2 系列结束支持的时间也一再推后，因为很多用户还没有做好迁移准备。部分企业仍然会继续支持 Python 2.7，Red Hat 去年宣布它将会一直支持 Python 2.7 到 2024 年。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-06T06:02:30Z",
+  "Author": "WinterIsComing"
+}

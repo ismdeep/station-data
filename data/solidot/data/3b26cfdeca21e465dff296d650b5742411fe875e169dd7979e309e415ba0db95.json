@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PyPI 软件包库发现恶意挖矿程序",
+  "Link": "https://www.solidot.org/story?sid=68115",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在 Python 软件包仓库 PyPI \u003ca href=\"https://blog.sonatype.com/sonatype-catches-new-pypi-cryptomining-malware-via-automated-detection\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e伪装成合法程序包含挖矿软件的恶意包。这些恶意软件包利用输错名字的方式安装到受害者计算机上，例如一个流行的软件包叫 matplotlib，攻击者上传了名字相似的软件包 mplatlib 或 maratlib。恶意代码包含在 setup.py 文件内，会在计算机上安装挖矿程序 ubqminer 或 T-Rex。这些恶意软件包共下载了约 5000 次，由同一位用户上传，最早上传是在 4 月份。其它流行的软件包库发现过类似的攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-24T09:07:39Z",
+  "Author": "WinterIsComing"
+}

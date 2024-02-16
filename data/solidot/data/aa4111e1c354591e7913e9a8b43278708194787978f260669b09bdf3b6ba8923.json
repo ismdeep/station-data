@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "TikTok 等应用被指监视剪贴板内容",
+  "Link": "https://www.solidot.org/story?sid=64779",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年 3 月，研究员 Talal Haj Bakry 和 Tommy Mysk \u003ca href=\"https://www.mysk.blog/2020/03/10/popular-iphone-and-ipad-apps-snooping-on-the-pasteboard/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，数十个 iOS 应用存在获取用户隐私数据的严重问题，其中之一就是大受欢迎的短视频应用 TikTok。虽然遭到曝光，但至今这些应用都没有改变其做法。苹果刚释出了 iOS 14 Beta 版本，其中一项功能是每次有应用读取剪贴板内容它会警告用户，TikTok 等应用监视剪贴板的做法\u003ca href=\"https://arstechnica.com/gadgets/2020/06/tiktok-and-53-other-ios-apps-still-snoop-your-sensitive-clipboard-data/\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e并引发了\u003ca href=\"https://www.youtube.com/watch?v=pRSWdtoUAjo\"\u003e\u003cu\u003e广泛关注（YouTube 视频）\u003c/u\u003e\u003c/a\u003e。通过持续监视剪贴板，应用可以获得非常敏感的用户信息如密码、数字钱包地址、账号重置链接，以及私密信息。苹果系统的剪贴板内容会在关联设备之间共享，这项功能被称为通用剪贴板，允许一台设备复制的内容可以在另一台设备上使用。剪贴板很有可能会分享非常敏感的数据，如密码、比特币地址等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T04:43:34Z",
+  "Author": "WinterIsComing"
+}

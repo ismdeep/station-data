@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "利用神经网络将 1896 年的《火车进站》放大到 4K",
+  "Link": "https://www.solidot.org/story?sid=63427",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《\u003ca href=\"https://youtu.be/MT-70ni4Ddo\"\u003e\u003cu\u003e火车进站(Arrival of a Train at La Ciotat)\u003c/u\u003e\u003c/a\u003e》（YouTube）是电影史上最著名的影片之一，这部在 1896 年上映的 50 秒无声短片展现了一辆火车在蒸汽机车的牵引下，驶进法国小镇 La Ciotat 火车站的情景。电影由卢米埃尔兄弟拍摄。125 年之后，Denis Shiryaev \n利用神经网络将这部经典影片\u003ca href=\"https://youtu.be/3RYNThid23g\"\u003e\u003cu\u003e放大到 4K\u003c/u\u003e\u003c/a\u003e（YouTube）。Shiryaev 使用了 Topaz Labs 开发的商业图像编辑软件 \u003ca href=\"https://topazlabs.com/gigapixel-ai/\"\u003eGigapixel AI\u003c/a\u003e，该软件允许将图像按比例放大 600%，为了避免放大后的图像模糊软件会在图像中加入真实的细节。神经网络在分析了大量成对的图像之后学会如何在新图像中填充细节。Shiryaev 的 4K 视频仍然是黑白的，下一步自然是\u003ca href=\"https://arstechnica.com/science/2020/02/someone-used-neural-networks-to-upscale-a-famous-1896-video-to-4k-quality/\"\u003e\u003cu\u003e给视频添加颜色了\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-05T07:47:58Z",
+  "Author": "WinterIsComing"
+}

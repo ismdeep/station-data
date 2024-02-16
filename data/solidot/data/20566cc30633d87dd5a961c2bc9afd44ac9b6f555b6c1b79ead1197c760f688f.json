@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DARPA 与英特尔签署协议开发实用全同态加密",
+  "Link": "https://www.solidot.org/story?sid=67149",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国国防部高级研究计划署（DARPA）与芯片巨人\u003ca href=\"https://www.techrepublic.com/article/darpa-taps-intel-to-help-build-the-holy-grail-of-encryption/\"\u003e签署了协议\u003c/a\u003e，开发实用的全同态加密。全同态加密（Fully homomorphic encryption，简写 FHE）允许对密文进行特定的代数运算得到仍然是加密的结果，与对明文进行同样的运算再将结果加密一样。这项技术可以在加密的数据中进行检索、比较等操作，整个处理过程中无需对数据进行解密。同态加密技术从根本上解决将数据及其操作委托给第三方时的保密问题。由于 FHE 会带来巨大的性能开销，因此其普及相对比较缓慢。英特尔声称，相比现有的 CPU 驱动的 FHE，它开发的专用加速芯片能将处理时间降低五个量级。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-09T04:37:02Z",
+  "Author": "WinterIsComing"
+}

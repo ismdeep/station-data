@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cloudflare 与互联网档案馆合作存档网站内容",
+  "Link": "https://www.solidot.org/story?sid=65577",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCDN 服务商 Cloudflare 与互联网档案馆合作\u003ca href=\"http://blog.archive.org/2020/09/17/internet-archive-partners-with-cloudflare-to-help-make-the-web-more-useful-and-reliable/\" target=\"_blank\"\u003e\u003cu\u003e存档网站内容\u003c/u\u003e\u003c/a\u003e。启用 Cloudflare Always Online 服务的网站内容将会自动存档，如果原始内容托管方发生意外而不可用，那么 Cloudflare 将会通过互联网档案馆将网页内容呈现给用户。互联网档案馆的 Wayback Machine 至今存档了 4680 亿个网页，每天增加 10 亿新存档网页。Cloudflare CEO 兼联合创始人  Matthew Prince 表示 Wayback Machine 是一个令人印象深刻的基础设施，双方的合作将能让互联网更有弹性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T05:58:18Z",
+  "Author": "WinterIsComing"
+}

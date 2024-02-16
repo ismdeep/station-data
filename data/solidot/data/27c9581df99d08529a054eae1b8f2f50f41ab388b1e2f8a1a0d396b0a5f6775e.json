@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 称自动插入返利代码是失误所致",
+  "Link": "https://www.solidot.org/story?sid=64600",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Chromium 的浏览器 Brave 最近被发现当用户输入数字货币交易所和钱包网站的网址时，浏览器会自动在网址后面添加返利代码。Brave 的这一做法\u003ca href=\"https://www.solidot.org/story?sid=64593\" target=\"_blank\"\u003e\u003cu\u003e引发了广泛争议\u003c/u\u003e\u003c/a\u003e。Brave 创始人兼 CEO Brendan Eich 在 Twitter 上发表\u003ca href=\"https://twitter.com/BrendanEich/status/1269313200127795201\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，称这是\u003ca href=\"https://it.slashdot.org/story/20/06/07/2217224/brave-browser-mistake-adds-its-referrer-code-for-cryptocurrency-sites\" target=\"_blank\"\u003e\u003cu\u003e一次错误所致\u003c/u\u003e\u003c/a\u003e，他们已经迅速修复了错误。但对 Brave 源代码的\u003ca href=\"https://github.com/brave/brave-core/commit/e8fdde70a3ac2c25e6ccc567bc93c6d4059c2d72\"\u003e\u003cu\u003e搜索\u003c/u\u003e\u003c/a\u003e显示，这个错误存在了超过 10 周时间，自动添加返利代码是在 3 月 25 日加入到代码中的，支持的网站包括了 Binance、Coinbase、Ledger 和 Trezor。Eich 表示用户可以在设置页面 brave://settings 禁用自动完成添加返利代码，如果支持者愿意启用那将是十分令人感谢的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-08T07:49:53Z",
+  "Author": "WinterIsComing"
+}

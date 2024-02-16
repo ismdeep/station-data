@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 将能隐藏用户 IP 地址",
+  "Link": "https://www.solidot.org/story?sid=76421",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chrome 开发者在邮件列表上披露了名为 IP Protection 的新隐私保护功能，利用代理服务器隐藏用户的 IP 地址。类似第三方 cookie，IP 地址能用于跟踪用户，相比 cookie 它缺乏有效的保护手段。Google 开发者提出的 IP Protection 将是可选启用，分阶段推出，只对一组特定的域名使用代理服务器隐藏 IP，这些域名被认为会跟踪用户。第一阶段是测试，Google 将使用自己的代理服务器对自己的域名代理请求，此举主要是为了测试基础设施，给自己更多时间精选准备代理的域名列表。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\n\nhttps://groups.google.com/a/chromium.org/g/blink-dev/c/9s8ojrooa_Q\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-23T10:22:22Z",
+  "Author": "Wilson"
+}

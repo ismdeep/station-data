@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 混淆包被发现隐藏了秘密后门",
+  "Link": "https://www.solidot.org/story?sid=76609",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Checkmarx 报告了针对 Python 开发者的供应链攻击，攻击者发布了 8 个用于混淆代码的 Python 软件包，其中植入了具有高度侵入性的后门。这些软件包共被下载了 2348 次。以第八个混淆包 pyobfgood 为例，一旦安装，攻击者基本上可以完全控制受害者的电脑，能窃取主机信息、窃取 Chrome 保存的密码、设置键盘记录器、下载文件、屏幕截图和录屏录音、通过增加 CPU 占用等方法关闭电脑或导致蓝屏死机、加密文件、执行任何指令，等等。软件包的下载绝大部分来自美国（62%）、其次是中国（12%）和俄罗斯（6%）。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/\u003cbr/\u003e\nhttps://checkmarx.com/blog/python-obfuscation-traps/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-13T14:11:19Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 开源可扩展文本编辑器库 Lexical",
+  "Link": "https://www.solidot.org/story?sid=71241",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFacebook 开源可扩展文本编辑器库 \u003ca href=\"https://lexical.dev/\" target=\"_blank\"\u003e\u003cu\u003eLexical\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/facebook/lexical\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上采用 MIT 许可证。Lexical 的核心是一个文本编辑引擎，一个构建功能丰富的 Web 编辑器平台。Facebook 相信用户不应该在每一个实现中重复编写相同的富文本功能。Lexical 提供了一组模块化包，可用于添加常见功能如列表、链接和表格。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-14T06:41:35Z",
+  "Author": "WinterIsComing"
+}

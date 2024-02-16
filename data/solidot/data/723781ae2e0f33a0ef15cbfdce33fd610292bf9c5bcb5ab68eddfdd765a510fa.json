@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌克兰逮捕黑客 Sanix",
+  "Link": "https://www.solidot.org/story?sid=64430",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t乌克兰安全部门\u003ca href=\"https://krebsonsecurity.com/2020/05/ukraine-nabs-suspect-in-773m-password-megabreach/\" target=\"_blank\"\u003e\u003cu\u003e宣布逮捕\u003c/u\u003e\u003c/a\u003e黑客 Sanix（a.k.a.“Sanixer“)，称他们在其计算机上找到的记录显示他出售各种数据库，包括登陆凭证、电邮收件箱、银行卡的 PIN 码，数字货币钱包，PayPal 账号和漏洞信息。Sanix 因在去年一月出售容量超过 87GB 的数据库 \u003ca href=\"https://www.solidot.org/story?sid=59352\" target=\"_blank\"\u003e\u003cu\u003eCollection #1\u003c/u\u003e\u003c/a\u003e 为闻名，其中包含了 7.73 亿电子邮件地址和 2122 万个唯一密码。但该数据库并不是近期泄露的，而是几年前泄露用户账号信息整理而来。Sanix 在接受采访时承认了这一点，表示手中还有较新的泄露账号信息，总容量超过 4TB。Sanix 不是什么犯罪大师，他留下了很多线索可以跟踪到其真实身份。在被捕前，网上记录显示他在忙碌的兜售窃取的各种用户信息数据库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-21T07:46:51Z",
+  "Author": "WinterIsComing"
+}

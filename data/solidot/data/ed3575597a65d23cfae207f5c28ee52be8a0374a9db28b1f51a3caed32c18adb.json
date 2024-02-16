@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家现在能在几分钟内通过 PC 组装出完整基因组",
+  "Link": "https://www.solidot.org/story?sid=68958",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://phys.org/news/2021-09-scientists-entire-genomes-personal-minutes.html\"\u003e\u003cu\u003e开发出一项新技术\u003c/u\u003e\u003c/a\u003e，能在 PC 上重建包括人类基因组在内的全基因组组装。\u003ca href=\"https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00332-X\" target=\"_blank\"\u003e\u003cu\u003e这项研究\u003c/u\u003e\u003c/a\u003e发表在 9 月 14 日的《Cell Systems》杂志上，其灵感来自由单词而非字母为语言模型所实现的浓缩构建单元方式，找到了一种更为紧凑的基因组数据表达途径。为了比现有技术更高效地完成基因组排列，研究人员转向语言模型，希望超越以往在所有可能的计数对之间进行成对比较的“笨”办法。研究人员基于 \u003ca href=\"https://en.wikipedia.org/wiki/De_Bruijn_graph\"\u003e\u003cu\u003ede Bruijn 图\u003c/u\u003e\u003c/a\u003e（一种用于基因组排列的简单、高效数据结构）概念开发出一种极小空间 de Bruijn图（mdBG），其使用被称为极小值的短核苷酸序列来代替单核苷酸。一位研究人员称，“我们的极小空间 de Bruijn 图只需要存储总核苷酸中的一小部分，同时保留整个基因组结构，因此能够获得远高于经典de Bruijn图的存放效率。”\n\u003cbr/\u003e\u003cbr/\u003e\n研究人员利用这种方法为黑腹果蝇排列出了高精度HiFi数据（具有几乎完美的单分子读取精度），同时成功还原出由 Pacific Biosciences（PacBio）提供的人类基因组数据。在评估所生成的基因组时，研究人员发现基于 mdBG 软件进行基因组组装的时间消耗仅为其他组装方案的三十三分之一，所占用的随机存取存储器（RAM）硬件容量则为八分之一。他们的软件在进行 HiFI 人类数据执行基因组组装时速度可达 Peregrine 组装程序的 81 倍，内存占用量则仅为十八分之一；与 hifiasm 组装程序相比快 338 倍，内存占用量为十九分之一。接下来，研究人员又使用这种新方法为 661406 个细菌基因组的集合构建起一份索引，这也是迄今为止同类基因组的最大集合。他们发现，这项新技术能够在 13 分钟之内完成对整个集合内抗菌素抗性基因的搜索操作，而传统标准序列比对则需要 7 个小时。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-16T08:41:26Z",
+  "Author": "wanwan"
+}

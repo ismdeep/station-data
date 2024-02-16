@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "近半数 macOS 恶意程序来自一个应用",
+  "Link": "https://www.solidot.org/story?sid=73411",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tElastic Security Labs 发布了其报告《2022 Global Threat Report》，只有 6.2% 的恶意程序是针对 macOS 设备，而针对  Windows 和 Linux 的恶意程序分别占 54.4% 和 39.4%。其中令人意外的是近半数 macOS 恶意程序来自一个应用 MacKeeper，讽刺的是该应用自称零努力就能保护 Mac 干净且安全。但因为该应用拥有广泛的权限，能访问进程和文件，攻击者能滥用它，保护系统安全的应用变成了一种安全风险。MacKeeper 还被指对新手而言难以卸载，很多用户还将其标记为恶意杀毒软件。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.elastic.co/blog/forecast-and-recommendations-2022-elastic-global-threat-report\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-18T13:21:00Z",
+  "Author": "WinterIsComing"
+}

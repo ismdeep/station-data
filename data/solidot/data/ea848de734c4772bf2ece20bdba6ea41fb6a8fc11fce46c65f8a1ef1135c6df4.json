@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Scott Aaronson 认为 Google 的量子处理器确实是一大突破",
+  "Link": "https://www.solidot.org/story?sid=62359",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 和加州圣芭芭拉的研究人员本周在《自然》期刊上发表论文,宣布在量子计算领域取得了一项重大突破，展现了量子计算相对于经典计算的优越性——它的 53 量子比特处理器在 200 秒内完成了最快超级计算机需要一万年才能完成的任务。这项研究引发了争议，有多台超算位居 Top 500 榜单前列的蓝色巨人公开反驳，称他们的超算能在较短时间内——2.5 天—— 完成相同的任务。Google 的可编程量子处理器 Sycamore 用 200 秒完成了 100 万随机取样，而 IBM 使用 200 petaflop 的超算花了 2.5 天，从时间对比上看量子计算的优越性已经非常明显了。量子计算专家 Scott Aaronson \u003ca href=\"https://www.scottaaronson.com/blog/?p=4372\" target=\"_blank\"\u003e\u003cu\u003e认为 Google 的量子处理器确实是一大突破\u003c/u\u003e\u003c/a\u003e，他指出 Google 的估算没有考虑到 IBM 的超算 Summit 有惊人的存储空间，正好能将 53 量子比特的所有量子状态矢量都储存在它 250 petabytes 硬盘里。如果 Google 或其它公司的量子芯片能提高到 55 量子比特，那么 Summit 的存储空间就不够了。如果提高到 60 量子比特，你将需要 33 个 Summit 超算。他认为 IBM 和 Google 之间的竞争有点类似上世纪末的卡斯帕罗夫对垒深蓝，讽刺的是这一次蓝色巨人扮演的是卡斯帕罗夫的角色。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-24T10:58:12Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FFmpeg 4.3 释出",
+  "Link": "https://www.solidot.org/story?sid=64683",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFFmpeg 多媒体框架\u003ca href=\"http://ffmpeg.org/download.html#release_4.3\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e最新的 4.3 \u0026#34;4:3\u0026#34;。FFmpeg 被多媒体应用广泛使用，其中之一是 VLC。最新的版本包含了大量新的过滤器和解码器，其中就\u003ca href=\"https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/refs/heads/release/4.3:/Changelog\"\u003e\u003cu\u003e包括了\u003c/u\u003e\u003c/a\u003e：v360 过滤器，支持 AMD AMF 编码器，支持 AV1 编码器和帧合并比特流过滤器，等等。AV1 是 AOMedia 释出的开源的免专利费编解码器，其 4K UHD 视频压缩率高于竞争的编码器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-17T04:01:15Z",
+  "Author": "WinterIsComing"
+}

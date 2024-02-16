@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ProtonMail Android app 开源",
+  "Link": "https://www.solidot.org/story?sid=64209",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加密邮件服务商 ProtonMail \u003ca href=\"https://protonmail.com/blog/android-open-source/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源 Android 版应用，\u003ca href=\"https://github.com/ProtonMail/proton-mail-android/blob/release/LICENSE\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上，采用 GNU GPLv3 许可证。ProtonMail 旗下的每一个应用都已开源。ProtonMail 称，选择开源是因为安全是它最优先考虑的事情，有很多活动人士和异议人士使用它的服务，而要确保安全，它必须让所有软件通过独立严格的第三方检查。它委托安全公司 SEC Consult 检查了 Android  版本，在通过审查之后它开源了该版本，因为开源能向社区提供透明性和责任性，增加用户对产品的信任度。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-24T07:46:26Z",
+  "Author": "WinterIsComing"
+}

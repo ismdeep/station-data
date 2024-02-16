@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Onyx 勒索软件会毁掉而不是加密大文件",
+  "Link": "https://www.solidot.org/story?sid=71391",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOnyx 勒索软件最近“崭露头角”，攻击者采用其他勒索软件组织常用的方法：先窃取数据再加密，窃取的数据被用于二次勒索。安全研究员 MalwareHunterTeam 对获得的加密程序样本进行分析，\u003ca href=\"https://www.bleepingcomputer.com/news/security/psa-onyx-ransomware-destroys-large-files-instead-of-encrypting-them/\"\u003e\u003cu\u003e发现勒索软件会用随机数据覆写容量大于 200MB 的文件\u003c/u\u003e\u003c/a\u003e，加密容量小于 200MB 的文件。这意味着受害者支付赎金之后容量大于 200MB 的文件仍然会无法恢复，因此不建议受害者支付赎金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-28T09:01:46Z",
+  "Author": "WinterIsComing"
+}

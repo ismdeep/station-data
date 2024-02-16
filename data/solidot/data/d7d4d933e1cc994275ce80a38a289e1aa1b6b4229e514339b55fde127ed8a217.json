@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 加入对协调火星时的支持",
+  "Link": "https://www.solidot.org/story?sid=67381",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了让 OpenBSD 能在地球之外的地方工作，开发者\u003ca href=\"https://marc.info/?l=openbsd-cvs\u0026amp;m=161730046519995\u0026amp;w=2\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e加入对协调火星时（MTC）的支持。协调火星时类似地球的世界标准时间。火星的旋转速度比地球略慢，一天时间为 24 小时 39 分钟 35.244 秒，显然处理时间的接口和程序会出现问题。通过将时区设置为 TZ=MCT，OpenBSD 将能在火星上正常工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-02T05:03:39Z",
+  "Author": "WinterIsComing"
+}

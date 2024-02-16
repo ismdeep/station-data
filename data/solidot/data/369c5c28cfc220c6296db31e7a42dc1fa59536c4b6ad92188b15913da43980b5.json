@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Play 仍然存在恶意应用问题",
+  "Link": "https://www.solidot.org/story?sid=63928",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Play 应用商店虽然会预先对应用进行安全扫描，但还有部分恶意应用能逃避检测上架供用户下载。安全公司  Check Point 的研究人员\u003ca href=\"https://research.checkpoint.com/2020/google-play-store-played-again-tekya-clicker-hides-in-24-childrens-games-and-32-utility-apps/\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e了 56 个应用包含有恶意程序 Tekya，其中 24 个应用是面向儿童的。Tekya 用于生成欺诈性点击。Google 在收到举办之后移除了所有 56 个应用。这些应用被下载了大约 170 万次。杀毒软件公司  Dr.Web \u003ca href=\"https://news.drweb.com/show/?i=13740\u0026amp;lng=en\"\u003e\u003cu\u003e报告了\u003c/u\u003e\u003c/a\u003e另一个未被发现的恶意应用，它被下载了 70 多万次，包含了恶意程序 Android.Circle.1，具有广告软件和欺诈性点击功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-25T13:38:45Z",
+  "Author": "WinterIsComing"
+}

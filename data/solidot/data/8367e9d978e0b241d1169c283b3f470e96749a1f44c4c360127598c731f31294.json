@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 95 移除 FTP 支持",
+  "Link": "https://www.solidot.org/story?sid=69319",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://chromereleases.googleblog.com/2021/10/stable-channel-update-for-desktop_19.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Chrome v95，主要变化包括：移除对 File Transfer Protocol(FTP) 协议的支持，不再支持网址如 ftp://；移除对 Universal 2nd Factor (U2F)标准的支持；浏览器 cookies 加入文件大小限制；移除对结尾为数字的非 IPv4 主机名网址的支持，如 http://example.0.1；加入了新的 UI 组件 Side Panel，可用于访问 Reading List 和书签，该组件需要手动启用；其他还有安全修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-21T06:01:43Z",
+  "Author": "WinterIsComing"
+}

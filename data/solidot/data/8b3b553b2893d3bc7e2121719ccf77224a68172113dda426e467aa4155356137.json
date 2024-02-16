@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软出席 X.Org 开发者大会",
+  "Link": "https://www.solidot.org/story?sid=65582",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果几年前你说多名微软开发者会在 X.Org 开发者大会上发表演讲，你一定会大笑。但今年的虚拟会议 XDC2020 微软不仅仅是银级赞助商，它的开发者在开幕日\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Microsoft-XDC-2020\" target=\"_blank\"\u003e\u003cu\u003e就做了三次演讲\u003c/u\u003e\u003c/a\u003e。微软开发者谈论了 WSL 图形架构、WSL 下的 X11/Wayland 应用支持，以及 Mesa Direct3D 12 映射层。微软正在向开发者力推它的 WSL 子系统，目的的吸引开发者使用 Windows 而不是 Linux 发行版作为开发系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T09:16:48Z",
+  "Author": "WinterIsComing"
+}

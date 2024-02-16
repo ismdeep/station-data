@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中外黑客文化的差异",
+  "Link": "https://www.solidot.org/story?sid=61716",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周举行的 Black hat 会议上，在中国举办过 DEF CON 安全会议与中国黑客有过交流的 Jeff Moss \u003ca href=\"https://www.digitalmunition.me/hack-computers-to-steal-someones-identity-in-china-why-you-can-just-buy-one-from-a-bumpkin-for-like-3k/\" target=\"_blank\"\u003e\u003cu\u003e谈论了中国与外界不同的黑客文化\u003c/u\u003e\u003c/a\u003e。首先是身份盗窃在中国不需要入侵系统以窃取陌生人的身份，一个人的身份是可以直接购买的，价格大约在 3000 美元左右，相当于低收入人群的一年收入；因为可能存在一个 ID 多次出售的现象，买家会立即检查该 ID 是否已被使用。拒绝服务攻击也不是简单的租赁僵尸网络向目标发动攻击，而是网络罪犯可以向企业行贿，将网络流量重路由经过目标的网络。内容分发也存在明显差异，中国有四家 ISP，其中电信和联通占据了主要份额，但它们之间的互联带宽很小，导致企业必须在双方的网络内都设立数据中心以快速向这些 ISP 的客户传递内容，这增加了安全和技术负担。他讲的情况众所周知，可能有些夸大。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-14T06:54:28Z",
+  "Author": "wenfeixiang"
+}

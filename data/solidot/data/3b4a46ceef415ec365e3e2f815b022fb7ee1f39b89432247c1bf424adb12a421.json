@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 劫持链接插入返利代码",
+  "Link": "https://www.solidot.org/story?sid=64593",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当用户在 Brave 的地址栏输入 binance.com、binance.us、coinbase.com、ledger.com 和 trezor.io 等数字货币交易所和钱包网站的网址时，浏览器会自动在网址后面\u003ca href=\"https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/\" target=\"_blank\"\u003e\u003cu\u003e添加返利代码\u003c/u\u003e\u003c/a\u003e（类似 ref=123456）。用户搜索 “bitcoin”、“btc”、“ethereum”、“eth”、“litecoin”、“ltc” 或“bnb”引导到 binance.com 时 Brave 也会插入返利代码。Coinbase 的登录页甚至会显示“Brave Software International invited you to try Coinbase!”Brave 创始人兼 CEO Brendan Eich 在 Twitter 上\u003ca href=\"https://twitter.com/BrendanEich/status/1269289242905042944\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e他们与币安（binance）有返利合作关系。Brave 的这一做法引发了\u003ca href=\"https://news.ycombinator.com/item?id=23442027\"\u003e\u003cu\u003e广泛争议\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-07T06:50:08Z",
+  "Author": "WinterIsComing"
+}

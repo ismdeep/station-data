@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.3 发布",
+  "Link": "https://www.solidot.org/story?sid=62083",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核开发者邮件列表上\u003ca href=\"https://lkml.org/lkml/2019/9/15/241\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.3。主要新特性包括：新系统调用 \u003ca href=\"https://lwn.net/Articles/789023/\"\u003e\u003cu\u003epidfd_open()\u003c/u\u003e\u003c/a\u003e帮助解决进程 ID 重用问题；任务调度器支持 \u003ca href=\"https://lwn.net/Articles/762043/\"\u003e\u003cu\u003eUtilization clamping\u003c/u\u003e\u003c/a\u003e，该机制设计让调度器能更好的了解特定进程的需求；支持 AMD Navi GPU，支持 兆芯 x86 CPU，兆芯是台湾威盛（VIA）与中国政府的合资企业；支持  Intel Speed Select；英特尔 Tremont 芯片引入了三个新的 \u003ca href=\"https://lwn.net/Articles/790920/\"\u003e\u003cu\u003eumonitor\u003c/u\u003e\u003c/a\u003e 指令； 支持 0.0.0.0/8 IPv4 IP 段；支持 IoT ACRN supervisor；等等，更多可\u003ca href=\"https://kernelnewbies.org/Linux_5.3\"\u003e\u003cu\u003e浏览\u003c/u\u003e\u003c/a\u003e kernelnewbies。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-16T03:05:36Z",
+  "Author": "wenfeixiang"
+}

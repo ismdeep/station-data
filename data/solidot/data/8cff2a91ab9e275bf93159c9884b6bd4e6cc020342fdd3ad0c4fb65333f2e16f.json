@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软为 IE 加入禁用 JScript 的选项",
+  "Link": "https://www.solidot.org/story?sid=65854",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t作为 2020 年 10 月例行安全更新的一部分，微软为 IE \u003ca href=\"https://www.zdnet.com/article/microsoft-adds-option-to-disable-jscript-in-internet-explorer/\" target=\"_blank\"\u003e\u003cu\u003e加入了\u003c/u\u003e\u003c/a\u003e一个选项允许系统管理员禁用 IE 的 JScript 组件。JScript 引擎最早包含在 1996 年发布的 IE3 中，是微软根据 JavaScript 语言标准 ECMAScript 实现的 JS 方言。JScript 引擎已停止开发，微软在 2009 年发布 IE8 之后就放弃了 JScript 引擎，但它作为 IE 内部组件仍然存在于 Windows 操作系统中。因为它不再活跃开发和很少发布安全更新，因此成为攻击者的一个重要攻击目标。在放弃 11 年之后微软终于在注册表中引入了选项\u003ca href=\"https://support.microsoft.com/en-us/help/4586060/option-to-disable-jscript-execution\" target=\"_blank\"\u003e\u003cu\u003e允许系统管理员\u003c/u\u003e\u003c/a\u003e启用相应注册表键禁止 jscript.dll 执行代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-20T08:21:44Z",
+  "Author": "WinterIsComing"
+}

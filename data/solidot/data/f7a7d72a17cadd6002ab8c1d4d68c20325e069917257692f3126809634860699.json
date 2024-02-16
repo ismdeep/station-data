@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "电邮中的跟踪像素日益流行",
+  "Link": "https://www.solidot.org/story?sid=66948",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在电邮中使用跟踪技术\u003ca href=\"https://www.bbc.com/news/technology-56071437\" target=\"_blank\"\u003e\u003cu\u003e正日益常见\u003c/u\u003e\u003c/a\u003e。被称为跟踪像素的技术可记录邮件是否以及何时打开；邮件被打开了多少次；打开邮件的设备类型；用户的粗略位置。这项技术可被用于判断一个特定电邮推广活动的影响，以及记录下更多的客户肖像细节。跟踪像素通常是只有  1x1 像素的  .GIF 或 .PNG 文件，被插入到插入到电邮的页眉、页脚或正文中，用户的裸眼是无法识别出它的。用户可以使用电邮程序的免费插件剥离掉大部分跟踪像素。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-17T15:54:36Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PHP 8.1.0 发布",
+  "Link": "https://www.solidot.org/story?sid=69797",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPHP 语言释出了\u003ca href=\"https://www.php.net/releases/8.1/zh.php\"\u003e \u003cu\u003e8.1.0\u003c/u\u003e\u003c/a\u003e 版本。主要新特性包括：枚举、只读属性、First-class 可调用语法、纤程、交集类型和性能改进等。Phoronix 对比了 PHP 8.1、PHP 8.0.13、PHP 7.4.26、PHP 7.3.33、PHP 7.0.33 和 PHP 5.6.40 等在使用 AMD EPYC 72F3 的 Linux 服务器上的性能，显示 PHP 8.1 比之前的版本（主要是 PHP 8.0.13 ）更强或相差无几。此外，Jetbrains 上周\u003ca href=\"https://blog.jetbrains.com/phpstorm/2021/11/the-php-foundation/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e与其它公司合作成立非营利组织 PHP 基金会，资助 PHP 的开发，开发者可通过 php-src 全职或兼职从事 PHP 语言的开发，但基金会对语言的变更没有任何决策权，它资助的开发工作也不一定能合并到的 PHP 中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-29T04:38:09Z",
+  "Author": "WinterIsComing"
+}

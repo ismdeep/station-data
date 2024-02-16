@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "运行 Linux 的 150 美元 RISC-V 电脑",
+  "Link": "https://www.solidot.org/story?sid=66662",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t迷你 PC 制造商 Seeed Studios 与 BeagleBoard \u003ca href=\"https://arstechnica.com/gadgets/2021/01/seeed-and-beagleboard-team-up-to-provide-a-new-risc-v-based-linux-pc/\" target=\"_blank\"\u003e\u003cu\u003e合作生产\u003c/u\u003e\u003c/a\u003e可负担的 RISC-V 系统 BeagleV，设计运行 Linux 操作系统，售价 150 美元，但其大规模供应要到今年 9 月。BeagleV 配备了一个 StarFive 公司制造的双核 1GHz 主频的 RISC-V CPU VIC7100。除了两个 RISC-V 核心外，VIC7100 还包含了一个用于机器视觉应用的 Tensilica Vision VP6 DSP，一个神经网络引擎，一个单核 NVDLA (Nvidia Deep Learning Accelerator) 引擎。BeagleV 不是第一代通用 RISC-V Linux PC，但应该是目前比较让人负担得起的。它支持 Fedora Linux，未来将支持 Debian Linux 和 FreeRTOS。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件，它吸引了越来越多的企业，其生态系统\u003ca href=\"https://www.solidot.org/story?sid=63740\"\u003e\u003cu\u003e正在快速扩张\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-14T14:09:07Z",
+  "Author": "WinterIsComing"
+}

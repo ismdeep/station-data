@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SpaceX 称 bug 导致它未能收到 ESA 的信息",
+  "Link": "https://www.solidot.org/story?sid=61970",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tESA 通过官方推特发表\u003ca href=\"https://www.solidot.org/story?sid=61942\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，为了防止与 SpaceX 的 Starlink 卫星相撞，它的地球观测卫星 Aeolus 执行了一次紧急机动，它称在联系 SpaceX 后对方表示没有计划转移 Starlink 44 卫星的轨道。此事引发了对 SpaceX 的批评。SpaceX 的代表随后\u003ca href=\"https://www.space.com/spacex-starlink-esa-satellite-collision-avoidance.html\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，8 月 28 日 ESA 联络它时两颗卫星的碰撞风险是 1:50000，两个机构都认为没有必要执行轨道机动。美国空军之后更新了信息提高碰撞风险，但因为 bug 它的操作人员没有看到后续的通讯。SpaceX 表示它正在调查这一问题，将采取纠正措施。如果看到后续信息它会与 ESA 协调规避碰撞的最佳行动方案。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-04T12:39:25Z",
+  "Author": "WinterIsComing"
+}

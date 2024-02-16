@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国海岸警卫队设施感染勒索软件",
+  "Link": "https://www.solidot.org/story?sid=63136",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国海岸警卫队在一则安全通知中称，它的一处海事设施\u003ca href=\"https://www.zdnet.com/article/us-coast-guard-discloses-ryuk-ransomware-infection-at-maritime-facility/\" target=\"_blank\"\u003e\u003cu\u003e感染了\u003c/u\u003e\u003c/a\u003e勒索软件 Ryuk，致使其停止运作 30 多个小时。海岸警卫队没有透露海事设施的位置，表示它相信勒索软件渗透到其网络是通过发送给一名雇员的钓鱼邮件。一旦雇员点击了嵌入在恶意邮件长的链接，勒索软件随后访问了企业信息网络文件，加密，阻止访问关键文件。海岸警卫队称，病毒在 IT 网络中扩散，甚至影响到了监视和控制货物驳运的工控系统，加密了对操作流程至关重要的文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-02T03:43:23Z",
+  "Author": "WinterIsComing"
+}

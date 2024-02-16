@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达释出驱动支持视频超分辨率",
+  "Link": "https://www.solidot.org/story?sid=74261",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达释出最新版驱动，为 RTX 30 和 40 系列显卡加入了视频超分辨率（RTX Video Super Resolution）功能，类似游戏使用的深度学习超级采样（Deep Learning Super Sampling，DLSS），RTX VSR 利用 AI 技术将 360p 到 1440p 分辨率的视频放大到最高 4K 分辨率。RTX VSR 此前只支持英伟达的 Shield TV，现在扩大到支持最新版本的 Chrome 和 Edge 浏览器。英伟达称，近八成的互联网带宽被用于串流视频，而九成的视频是用 1080p 或更低分辨率串流。当用户在高于 1080p 的显示屏上观看视频，浏览器使用简单的放大技术让视频分辨率匹配显示屏的分辨率，导致的结果是视频经常有模糊。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blogs.nvidia.com/blog/2023/02/28/rtx-video-super-resolution/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-01T02:52:50Z",
+  "Author": "Wilson"
+}

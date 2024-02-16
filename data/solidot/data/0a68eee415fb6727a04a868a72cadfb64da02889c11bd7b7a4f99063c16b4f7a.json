@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "墨干V1.1.0发布了，文档格式支持Unicode",
+  "Link": "https://www.solidot.org/story?sid=72641",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://gitee.com/XmacsLabs/mogan/releases/tag/v1.1.0\"\u003e墨者实验室\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;\u003ca href=\"https://gitee.com/XmacsLabs/mogan/releases/tag/v1.1.0\" target=\"_blank\"\u003e立即下载\u003c/a\u003e或者\u003ca href=\"https://www.bilibili.com/video/BV1re4y1Z7fP\"\u003e观看发布会视频\u003c/a\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e墨干是下一代结构化编辑器，支持以结构化的方式编辑数学公式、BibTeX条目等等。\u003cbr/\u003e\n\u003c/i\u003e\n\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e墨干V1.1.0发布了，两大重要变更：\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e①文档格式支持将中文序列化为Unicode,不再使用Cork编码\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e②大量BibTeX相关错误修复和功能增强\u0026#34;\u003c/i\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-01T03:28:56Z",
+  "Author": "WinterIsComing"
+}

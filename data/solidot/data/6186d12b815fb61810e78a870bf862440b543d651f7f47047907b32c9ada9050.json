@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox OS 复活",
+  "Link": "https://www.solidot.org/story?sid=73036",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 在 2016 年放弃了它的开源移动操作系统 Firefox OS，之后在 Firefox OS 基础上出现了主要针对功能机市场的商业操作系统 KaiOS。但令人失望的是 KaiOS 既封闭还会跟踪用户并且有广告。它的分支 GerdaOS 则许诺将开放性带到 KaiOS 设备上。现在，\u003ca href=\"https://capyloon.org/\"\u003e\u003cu\u003eCapyloon 项目\u003c/u\u003e\u003c/a\u003e决定\u003ca href=\"https://tuxphones.com/capyloon-firefox-os-b2gos-linux/\" target=\"_blank\"\u003e\u003cu\u003e复活\u003c/u\u003e\u003c/a\u003e Firefox OS，将其带到现代 Linux 智能手机上，如 PinePhone Pro、Purism Librem 5 和 Pixel 3A。该项目还处于早期阶段，项目主页也不够清晰。它的前端 Nutria 能运行旧的 Firefox OS 应用，还可能在 Android 设备上通过启动 Google GSI (Generic System Image) 在 Android 内核上测试 Firefox OS UI。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-12T09:51:53Z",
+  "Author": "WinterIsComing"
+}

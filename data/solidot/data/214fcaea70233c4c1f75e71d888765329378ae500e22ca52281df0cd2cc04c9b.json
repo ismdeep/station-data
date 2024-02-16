@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯封锁 Tor 节点",
+  "Link": "https://www.solidot.org/story?sid=69947",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯通信监管机构  Roskomnadzor \u003ca href=\"https://arstechnica.com/information-technology/2021/12/tor-is-under-threat-from-russian-censorship-and-sybil-attacks/\"\u003e\u003cu\u003e本周二开始大规模封锁 Tor 节点\u003c/u\u003e\u003c/a\u003e。Tor 匿名网络在俄罗斯大约有 30 万用户，占到了用户总数的 15%。俄罗斯的 ISP 是从 12 月 1 日开始屏蔽 Tor 节点，Roskomnadzor 威胁要屏蔽主要的 Tor 网站，几个小时后它兑现了威胁。它在周三解释其决定时指出，Tor 网络提供了访问非法内容的服务，“今天对该资源的访问已被限制。”Tor 项目创建了一个可以在俄罗斯境内访问的镜像，它呼吁用户创建更多网桥，网桥是不公开的 Tor 节点，使用 obfs4 协议隐藏 Tor 流量。截至上个月，Tor 网络大约有 900 个网桥节点。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-09T13:55:19Z",
+  "Author": "WinterIsComing"
+}

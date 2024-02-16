@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FishPig 电商软件遭攻击被植入后门",
+  "Link": "https://www.solidot.org/story?sid=72773",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t电商软件 FishPig 的分发服务器\u003ca href=\"https://arstechnica.com/information-technology/2022/09/breach-of-software-maker-used-to-backdoor-as-many-as-200000-servers/\"\u003e\u003cu\u003e遭黑客入侵\u003c/u\u003e\u003c/a\u003e，攻击者在付费软件模块 Magento 2 中植入后门，导致使用 Magento 2 的客户系统感染了 Rekoobe，该后门允许攻击者向被感染的服务器远程发送指令。FishPig 督促客户重新安装或更新现有扩展。FishPig 正在调查攻击者是如何入侵其系统的，暂时还不清楚是通过服务器漏洞还是应用程序漏洞。FishPig 是一家 Magento-WordPress 集成销售商，Magento 是一个开源电商平台，FishPig 的软件被多达 2 万个网站使用。这次\u003ca href=\"https://fishpig.co.uk/security-announcements/#X20220913\"\u003e\u003cu\u003e供应链攻击\u003c/u\u003e\u003c/a\u003e只影响付费的 Magento 2 模块。黑客入侵可能发生在 8 月 19 日前后，开发商已经向过去 12 周下载软件的所有用户发送了警告邮件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-15T08:00:17Z",
+  "Author": "WinterIsComing"
+}

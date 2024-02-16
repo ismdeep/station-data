@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 对美国用户默认启用 DNS over HTTPS",
+  "Link": "https://www.solidot.org/story?sid=63638",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/blog/2020/02/25/firefox-continues-push-to-bring-dns-over-https-by-default-for-us-users/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，从 2 月 25 日起 Firefox 开始对美国用户默认启用 DNS over HTTPS（DOH）。DOH 设计通过 HTTPS 加密向第三方或用户自己搭建的 DNS 服务器发出域名查询请求。Mozilla 认为 DoH 是更安全的域名解析方法。Mozilla 表示，如果用户选择了家长控制或禁用 DoH，它会尊重用户的选择；除非企业配置明确启用 DoH 它会遵守企业配置禁用 DoH；如果因为故障或其他问题导致域名查询失败它会回滚到操作系统默认使用的 DNS 服务器。想要关闭 DoH 的用户可以打开 about:config，搜索 network.trr，将 network.trr.mode 的值设为 5。目前 Firefox 可选择的 DNS 服务器提供商\u003ca href=\"https://www.solidot.org/story?sid=62982\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e Cloudflare 和 NextDNS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-26T09:11:04Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软建议 Windows 11 用户卸载可选更新 KB5012643",
+  "Link": "https://www.solidot.org/story?sid=71482",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软建议 Windows 11 用户卸载可选更新 \u003ca href=\"https://support.microsoft.com/en-us/topic/april-25-2022-kb5012643-os-build-22000-652-preview-43a75ee7-d857-4943-a2b9-f961538bd2b0\" target=\"_blank\"\u003e\u003cu\u003eKB5012643\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.extremetech.com/computing/335100-microsoft-recommends-people-uninstall-optional-windows-11-update\"\u003e\u003cu\u003e原因是\u003c/u\u003e\u003c/a\u003e它会导致应用程序崩溃。IT 管理员报告，部分 .NET Framework 3.5 应用无法启动，受影响应用使用了 NET Framework 3.5 中特定的可选组件，如 Windows Communication Foundation (WCF) 和 Windows Workflow (WWF)。KB5012643 还被发现破坏了安全模式，用户在无网络安全模式下可能会看到屏幕闪烁。微软还指出，依赖 explorer.exe 的组件如文件资源管理器、开始菜单和任务栏，也可能会受影响而不稳定。目前解决问题的方法是卸载该更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-10T07:57:28Z",
+  "Author": "WinterIsComing"
+}

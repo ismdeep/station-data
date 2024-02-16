@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布 Ryzen 6000 系列移动处理器和 3D 缓存处理器 5800X3D",
+  "Link": "https://www.solidot.org/story?sid=70242",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 CES 2022 年展会上，AMD \u003ca href=\"https://www.anandtech.com/show/17166/amd-announces-ryzen-6000-mobile-cpus-for-laptops-zen3-on-6nm-with-rdna2-graphics\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://www.amd.com/zh-hans/products/ryzen-processors-laptop\" target=\"_blank\"\u003e\u003cu\u003eRyzen 6000\u003c/u\u003e\u003c/a\u003e 系列移动处理器。相比去年上市的 Ryzen 5000 系列移动处理器，Ryzen 6000 系列的主要区别是 CPU 核心更新到  Zen3+，使用台积电的 N6 制造工艺改进了性能和功耗，GPU 核心升级到  RDNA2，不再使用落后两代的 Vega 核心。AMD 声称新移动处理器的 CPU 性能提高最多 30%，GPU 性能提高最多 2 倍，网络浏览和串流视频时功耗减少 15-40%。AMD 同时\u003ca href=\"https://www.anandtech.com/show/17152/amd-cpus-in-2022-ces\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e采用 3D 缓存技术大幅增加 CPU L3 缓存的产品 Ryzen 7 5800X3D，它将在今年春天上市。AMD 只发布一款产品的目的主要是试水，未来 3D 缓存会扩大到其它产品。5800X3D 相比 5800X 降低了频率，可能是为了减少积热问题：5800X 的基频 3.8GHz 最高 4.7GHz，而 5800X3D 的基频 3.4GHz 最高 4.5GHz。除此之外，使用台积电 5 纳米工艺制造的下一代 Zen 4 处理器将在下半年发布，将使用 AM5 插槽支持 DDR5 和 PCIe 5.0。AMD 去年\u003ca href=\"https://www.anandtech.com/show/17164/amds-fidelityfx-super-resolution-to-become-driver-feature-radeon-super-resolution\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e的超分辨率技术 FidelityFX Super Resolution (FSR)将成为一项驱动功能 Radeon Super Resolution (RSR)。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-05T04:08:57Z",
+  "Author": "WinterIsComing"
+}

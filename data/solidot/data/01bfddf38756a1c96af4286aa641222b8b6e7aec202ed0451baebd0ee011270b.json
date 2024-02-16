@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 将加入数据泄露通知服务",
+  "Link": "https://www.solidot.org/story?sid=61834",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 正在 Chrome 中\u003ca href=\"https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-if-logins-are-found-in-a-data-breach/\" target=\"_blank\"\u003e\u003cu\u003e内置数据泄露通知服务\u003c/u\u003e\u003c/a\u003e，当用户使用已泄露的凭证登录网站浏览器将会发出警告。此前 Mozilla 和 Have I Been Pwned 合作推出了 Firefox Monitor 服务，通知用户他们的用户名密码等信息是否泄漏，该服务正被整合到 Firefox 中。Google 最近发布了 Password Checkup 扩展，提供类似的警告。通过 Password Checkup Google 发现  1.5% 登录信息被泄露了，26% 的用户在收到警告之后改变了密码。这一发现促使 Google 决定将泄露通知服务整合到浏览器中。使用 Chrome 78 Canary 测试版的用户可通过chrome://flags 搜索 leak 将 Password Leak Detection 设为 Enabled 启用该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-23T11:39:52Z",
+  "Author": "wenfeixiang"
+}

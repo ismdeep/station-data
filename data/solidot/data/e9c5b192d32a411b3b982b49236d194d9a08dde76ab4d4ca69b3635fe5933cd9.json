@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows CE 的时代结束",
+  "Link": "https://www.solidot.org/story?sid=76432",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t诞生于 1996 年的 Windows 嵌入式操作系统 Windows CE（Windows Embedded Compact）本月迎来了它的结束之日。Windows CE 最初是 Windows 的精简版本，之后逐渐发展成为全新的操作系统，有着自己的 CE 内核，而不是传统 Windows 操作系统使用的 NT 内核，它的最后一个版本是 Windows Embedded Compact 2013 或者叫 Windows CE 8.0，该版本于 2018 年 10 月结束主流支持（Mainstream Support），2023 年 10 月结束延长支持（Extended Support）。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://learn.microsoft.com/en-us/lifecycle/end-of-support/end-of-support-2023\u003cbr/\u003e\nhttps://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-24T10:48:47Z",
+  "Author": "Wilson"
+}

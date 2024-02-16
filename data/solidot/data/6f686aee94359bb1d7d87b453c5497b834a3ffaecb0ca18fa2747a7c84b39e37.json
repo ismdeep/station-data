@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 计算器移植到到 Linux",
+  "Link": "https://www.solidot.org/story?sid=65830",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软去年公开了计算器应用的源代码，\u003ca href=\"https://snapcraft.io/blog/the-windows-calculator-on-linux-with-uno-platform\"\u003e现在\u003c/a\u003e  Uno Platform 社区成员将其\u003ca href=\"https://platform.uno/blog/windows-calculator-on-linux-via-uno-platform\"\u003e\u003cu\u003e移植\u003c/u\u003e\u003c/a\u003e至到 Linux 平台，用 Snap 格式打包发布在 Canonical 的 \u003ca href=\"https://snapcraft.io/uno-calculator\" target=\"_blank\"\u003e\u003cu\u003eSnapstore\u003c/u\u003e\u003c/a\u003e（如果使用 Ubuntu 系统可在终端里输入 snap install uno-calculator）。Snap 是 Canonical 开发的应用打包格式，旨在减少依赖库问题，但最近因为 Canonical 在 Ubuntu 操作系统中强推 Snap 应用而在开源社区引发了争议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-17T11:02:27Z",
+  "Author": "WinterIsComing"
+}

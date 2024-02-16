@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitLab 服务器被利用发动 DDoS 攻击",
+  "Link": "https://www.solidot.org/story?sid=69509",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitLab 的自托管服务器漏洞\u003ca href=\"https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/?__cf_chl_jschl_tk__=FlJZH_5NDxGQ5ozwb._RT5lSmGTrm3eVNkob5eFxdMA-1636074102-0-gaNycGzNCT0\" target=\"_blank\"\u003e\u003cu\u003e被利用发动 DDoS 攻击\u003c/u\u003e\u003c/a\u003e，攻击流量一度超过 1 Tbps。Google 安全工程师发现了这次 DDoS 攻击，攻击者利用了编号为  \u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2021-22205\" target=\"_blank\" rel=\"noreferrer noopener nofollow\"\u003eCVE-2021-22205\u003c/a\u003e 的漏洞去控制服务器，GitLab 已在今年 4 月将其修复，但不是所有自托管服务器打上了补丁。漏洞位于 \u003ca href=\"https://exiftool.org/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\"\u003eExifTool\u003c/a\u003e 库内，该软件库被用于移除上传到 Web 服务器中的图像元数据。GitLab 在社区版 GitLab Community Edition (CE) 和企业版 Enterprise Edition (EE)中使用了 ExifTool。有大约 6 万 GitLab 自托管服务器联网，其中一半也就是大约 3 万没有打补丁。利用漏洞的 \u003ca href=\"https://github.com/CsEnox/Gitlab-Exiftool-RCE\"\u003e\u003cu\u003ePOC\u003c/u\u003e\u003c/a\u003e 在今年 6 月公布，而攻击也是始于 6 月。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-05T05:19:20Z",
+  "Author": "WinterIsComing"
+}

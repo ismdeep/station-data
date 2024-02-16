@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 改变缓存机制",
+  "Link": "https://www.solidot.org/story?sid=65757",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了保护用户隐私，Chrome \u003ca href=\"https://www.zdnet.com/article/chrome-changes-how-its-cache-system-works-to-improve-privacy/\" target=\"_blank\"\u003e\u003cu\u003e改变了浏览器缓存系统的工作方式\u003c/u\u003e\u003c/a\u003e。HTTP Cache 或 Shared Cache 保存了网页加载的资源副本，如图像、CSS 文件和 JS 文件。如果用户重新访问了同一个网站或使用相同资源的网站，浏览器可以直接从内部缓存里加载资源，无需重新下载文件。这一缓存机制已经行之有效的工作了许多年，但最近几年被广告商和分析公司利用去跟踪用户，比如能检测用户访问了哪些网站，能发动跨站搜索攻击和实施跨站跟踪等等。从刚刚发布的 Chrome 86 开始，Google 将逐步改变缓存机制。Google 引入了名为 cache partitioning 的功能去改变资源的保存，以前资源的存储键只有一个项，现在将包含三个项，包括域名、当前帧和网址。新的机制能阻挡之前对缓存机制的攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-10T05:12:04Z",
+  "Author": "WinterIsComing"
+}

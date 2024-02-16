@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "针对企业 VPN 的电话钓鱼攻击",
+  "Link": "https://www.solidot.org/story?sid=65314",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月黑客对 Twitter 的攻击首先是利用电话对公司员工发动社交工程攻击窃取到登陆凭证，而类似的攻击方法正越来越常见。因新冠疫情，科技公司推广了远程在家办公政策，而为了安全访问公司内网，企业通常会向员工提供 VPN。有攻击者组合了电话社交工程和钓鱼网站试图窃取企业的 VPN 登陆凭证。\u003ca href=\"https://krebsonsecurity.com/2020/08/voice-phishers-targeting-corporate-vpns/\"\u003e\u003cu\u003e这种方法的成功率相当高\u003c/u\u003e\u003c/a\u003e。类似 Twitter 攻击，钓鱼者首先打电话给目标机构的远程办公员工，自称来自 IT 部门，试图帮助解决 VPN 问题。钓鱼者会诱骗受害者访问冒充企业 VPN 登陆入口的钓鱼网站，输入登陆凭证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-21T08:50:27Z",
+  "Author": "WinterIsComing"
+}

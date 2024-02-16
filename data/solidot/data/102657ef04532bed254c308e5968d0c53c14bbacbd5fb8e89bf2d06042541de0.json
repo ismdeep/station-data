@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitLab 屏蔽伊朗访问",
+  "Link": "https://www.solidot.org/story?sid=65908",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGitLab 从 10 月 3 日起\u003ca href=\"https://ahmadhaghighi.com/blog/2020/gitlab/\" target=\"_blank\"\u003e\u003cu\u003e开始根据 IP 地址屏蔽伊朗人的访问\u003c/u\u003e\u003c/a\u003e，之后几天开始屏蔽伊朗开发者的账号。GitLab 此举是为了遵守美国的出口管制政策。伊朗开发者联络 GitLab 希望能暂时解锁账号访问以导出项目，但遭到了拒绝，表示无法提供临时的解锁，开发者只能依赖于项目在本地的备份。GitLab 不是第一家屏蔽伊朗开发者访问代码托管服务商，在这之前，为了遵守美国对伊朗的制裁，GitHub、Google Developer、AWS、Docker、NPM、Android\n、Go、Kubernetes 等都屏蔽了伊朗人的访问。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-26T04:23:46Z",
+  "Author": "WinterIsComing"
+}

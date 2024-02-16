@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 111.0 启用文件系统访问 API",
+  "Link": "https://www.solidot.org/story?sid=74402",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 Firefox 111.0。主要新特性包括：启用 Windows 原生通知，生成随机电邮地址和电话号码的 Firefox Relay 服务的用户可选择直接从凭证管理器创建假电邮；启用文件系统访问 API，等等。文件系统访问 API 允许操作用户本地设备上的文件，支持读写和保存，调用该 API 将会要求得到用户的明确许可，并且在标签关闭之后需要重新获得授权。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.mozilla.org/en-US/firefox/111.0/releasenotes/\u003cbr/\u003e\nhttps://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-15T12:36:15Z",
+  "Author": "Wilson"
+}

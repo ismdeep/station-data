@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "托管在 Bitbucket 上的恶意盗版软件被下载了 50 多万次",
+  "Link": "https://www.solidot.org/story?sid=63439",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Cybereason 的研究人员\u003ca href=\"https://www.cybereason.com/blog/the-hole-in-the-bucket-attackers-abuse-bitbucket-to-deliver-an-arsenal-of-malware\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，源码托管平台 Bitbucket 被滥用托管了恶意盗版软件，这些软件被下载了 50 多万次。攻击者使用了多个账号去传播恶意盗版或破解软件，其恶意功能包括窃取电子邮件凭证和其它敏感用户信息，安装勒索软件，窃取数字货币，悄悄利用计算机资源挖掘数字货币等等。攻击者上传了 Adobe Photoshop 等商业软件的破解版本，安装文件捆绑了恶意程序，这些恶意程序包括：Predator、Azorult、Evasive Monero Miner、STOP Ransomware 等等。Bitbucket 在接到通知后已经删除了这些恶意程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-06T07:40:28Z",
+  "Author": "WinterIsComing"
+}

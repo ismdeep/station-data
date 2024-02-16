@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "RMS 在 EmacsConf 2020 上回答提问",
+  "Link": "https://www.solidot.org/story?sid=66298",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t67 岁的 Richard Stallman（RMS）出席了 EmacsConf 2020 虚拟大会，\u003ca href=\"https://emacsconf.org/2020/talks/39/\"\u003e\u003cu\u003e发表了演讲\u003c/u\u003e\u003c/a\u003e并回答了观众的提问。RMS 说他大部分时间使用 Emacs，偶尔用一下 libre office 和媒体播放器，偶尔还会用 SSH 连到运行 Emacs 的机器。他阅读了很多 PDF，用 \u003ca href=\"http://xournal.sourceforge.net/\" target=\"_blank\"\u003e\u003cu\u003eXournal\u003c/u\u003e\u003c/a\u003e 给PDF 做注解。对于 Emacs 的未来，RMS 说他看不见未来，但根据过去的经验未来将会富有挑战性。有观众说假设他被巴士撞了不得不离开，对于项目的未来他留下什么建议？他说，捍卫自由维持强大的社区，如果要在吸引更多开发者和捍卫自由做选择，选择后者，“小心守护你的灵魂”。他的用 GNU/Linux 发行版是 \u003ca href=\"https://trisquel.info/\" target=\"_blank\"\u003eTrisquel\u003c/a\u003e，不用 Emacs 的邪恶模式（Evil 是 Vi 扩展层）或 Vi(m)。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-07T14:10:48Z",
+  "Author": "WinterIsComing"
+}

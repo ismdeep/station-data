@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员披露 Android 0day 提权漏洞",
+  "Link": "https://www.solidot.org/story?sid=61995",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t趋势科技 Zero Day Initiative 的研究人员\u003ca href=\"https://www.zerodayinitiative.com/advisories/ZDI-19-780/\" target=\"_blank\"\u003e\u003cu\u003e披露了\u003c/u\u003e \u003c/a\u003eAndroid 操作系统的一个\u003ca href=\"https://arstechnica.com/information-technology/2019/09/android-zeroday-gives-hackers-a-way-to-elevate-attacks/\"\u003e\u003cu\u003e 0day 提权漏洞\u003c/u\u003e\u003c/a\u003e，允许在受影响设备上已获得低访问权限的攻击者进一步提升权限。漏洞位于捕捉实时视频的 V4L2 驱动中，是在执行操作前未验证对象的存在导致的。安全专家称，已获得 V4L 子系统访问权限的应用或代码可利用该漏洞进行提权。发现漏洞的安全研究人员称在 3 月通知了 Google，6 月 Google 确认漏洞将会修复，但到了 8 月 Google 表示没有进一步的更新。漏洞至今没有修复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-06T07:46:49Z",
+  "Author": "wenfeixiang"
+}

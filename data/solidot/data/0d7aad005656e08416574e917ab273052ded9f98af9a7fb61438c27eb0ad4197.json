@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软必应用户数据泄露",
+  "Link": "https://www.solidot.org/story?sid=65621",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在微软的一台服务器上\u003ca href=\"https://www.wizcase.com/blog/bing-leak-research/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e暴露的必应用户数据。这些数据来自 iOS 和 Android 的必应应用，包括唯一用户 ID、搜索查询、位置、时间，以及访问的搜索结果页。微软的服务器原本是有密码保护的，但在 9 月 10 日到 9 月 16 日之间密码取消了。安全研究人员还在数据库里发现必应用户搜索儿童色情并访问了相关搜索页面。研究人员在 9 月 13 日就将这一事故报告给了微软，但直到 16 日服务器才被再次被加密保护。研究人员建议用户在搜索时使用 VPN 等保护措施。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-23T05:32:23Z",
+  "Author": "WinterIsComing"
+}

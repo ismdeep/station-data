@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "针对手游玩家的供应链攻击",
+  "Link": "https://www.solidot.org/story?sid=66833",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://arstechnica.com/information-technology/2021/02/new-supply-chain-attack-uses-poisoned-updates-to-infect-gamers-computers/\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e针对手游玩家的供应链攻击。未知攻击者入侵了开发 NoxPlayer 的  BigNox，NoxPlayer 被用于在 PC 和 Mac 上模拟 Android 系统，用户主要用它玩 Android 手游。它非常受欢迎，在全世界有 1.5 亿用户。攻击者在入侵了 BigNox 的软件分发系统之后对部分用户推送了恶意更新，操纵了两个文件：BigNox 的主二进制程序 Nox.exe  和更新程序 NoxPack.exe。恶意更新是在去年 9 月推送的，攻击者在去年年底和今年初向特定受害者推送了后续恶意更新。研究人员认为这些恶意程序主要用于监视目标，受害者位于台湾、香港和斯里兰卡。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-02T10:13:49Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "欧洲警方破解犯罪组织使用的加密通讯网络数百人被捕",
+  "Link": "https://www.solidot.org/story?sid=64841",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在法国警方破解犯罪组织使用的加密通讯网络植入间谍程序监视其通讯之后，欧洲警方通力协作\u003ca href=\"https://www.bbc.com/news/uk-53263310\" target=\"_blank\"\u003e\u003cu\u003e逮捕了数百人\u003c/u\u003e\u003c/a\u003e，扣押了大量的毒品、枪支和现金，如英国扣押了 5400 万英镑现金，荷兰扣押了 8000 公斤海洛因和 1200 公斤冰毒以及 2000 万欧元现金。本案的规模前所未见。\u003ca href=\"https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked\"\u003e\u003cu\u003e犯罪分子使用的加密网络是名叫 Encrochat 的加密 Android 手机\u003c/u\u003e\u003c/a\u003e。Encrochat 自称是一个端对端的安全解决方案，其部分型号是基于西班牙公司的 BQ Aquaris X2 手机，手机可以切换运行两个系统，一个是未加密的标准 Android 系统，另一个则是加密版本，安装了 Encrochat 加密消息应用，所有消息都路由经过其服务器，手机还移除了 GPS、摄像头和麦克风功能。Encrochat 以订阅的模式出售手机，一部手机一年的订阅费用多达数千美元。Encrochat 自称是一家合法的公司，但没人知道公司所有者和位置。它的很多客户被认为都是犯罪分子，法国当局称超过九成的法国 Encrochat 客户从事犯罪活动。Encrochat 手机有一项功能，在需要的时候可以输入 Pin 码清空手机。正是这项功能的失效让 Encrochat 注意到它成为了政府机构的目标。今年 5 月 Encrochat 用户报告清空手机的功能失效了。在调查之后 Encrochat 发现手机功能失效的原因是手机被安装了恶意程序。恶意程序能在消息加密发送前读取和将其储存，恶意程序是专门为 X2 型号手机定制的。Encrochat 随后推送了更新恢复了功能，但恶意程序也紧跟着更新并变得更强大。Encrochat 还意识到它的 SIM 卡供应商 KPN 可能正在与当局合作。它决定立即关闭 SIM 和其网络。它向所有客户发去通知，警告设备已经不再安全，建议立即关机并将其抛弃。但为时已晚，欧洲各国警方发起了大规模行动，逮捕了数以百计的毒贩和武器交易商。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T07:58:02Z",
+  "Author": "WinterIsComing"
+}

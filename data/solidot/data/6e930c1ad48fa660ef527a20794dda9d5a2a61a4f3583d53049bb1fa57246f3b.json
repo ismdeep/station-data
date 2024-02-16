@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "少数数据集支配着机器学习研究",
+  "Link": "https://www.solidot.org/story?sid=69895",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUCLA 和 Google Research 的研究人员在预印本网站发表论文《\u003ca href=\"https://arxiv.org/pdf/2112.01716.pdf\"\u003e\u003cu\u003eReduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research\u003c/u\u003e\u003c/a\u003e》（PDF），\u003ca href=\"https://www.unite.ai/a-cartel-of-influential-datasets-are-dominating-machine-learning-research-new-study-suggests/\"\u003e\u003cu\u003e指出\u003c/u\u003e\u003c/a\u003e机器学习研究领域被少数开源数据集支配的现状。研究人员分析了 2015-2020 年之间不同机器学习社区使用的数据集，发现少数数据集被集中使用。在分析 43,140 个样本中，超过五成使用的数据集来自于 12个精英机构。研究人员认为这种高度集中化的趋势带来了实用性、伦理甚至政治方面的问题。研究人员称，计算机视觉受政府影响最大，自然语言处理受最少影响。计算机视觉尤其是脸部识别领域常用的数据集得到了企业、美国军方和中国政府（MS-Celeb-1M、 CASIA-Webface、IJB-A、VggFace2，其中 MS-Celeb-1M 因隐私争议被撤回）的资助。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-06T14:06:33Z",
+  "Author": "WinterIsComing"
+}

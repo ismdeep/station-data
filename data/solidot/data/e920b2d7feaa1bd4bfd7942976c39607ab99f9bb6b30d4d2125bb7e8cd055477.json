@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Home 设备“不小心”记录了你的所有声音",
+  "Link": "https://www.solidot.org/story?sid=65199",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.protocol.com/google-smart-speaker-alarm-adt\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e，其 Google Home 语音助手“不小心”启用了一项功能，允许其激活记录了周围的所有声音。在正常情况下，Google Home 设备只在听到特定命令之后激活，如“Ok, Google”或“Hey, Google”。在唤醒之前，它会持续的监听是否有命令下达，但不会记录它听到的声音。Google 称在最近的一次更新之后部分用户意外启用了这项功能，它已经回滚了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-10T07:22:22Z",
+  "Author": "WinterIsComing"
+}

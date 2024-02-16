@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI 因字节跳动使用 GPT 训练自己的 AI 模型而封锁其账号",
+  "Link": "https://www.solidot.org/story?sid=76900",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTikTok 母公司字节跳动一直秘密使用 OpenAI 的技术开发其代号为 Project Seed 的大模型。这种做法在 AI 领域通常被认为是令人尴尬的，也违反了 OpenAI 的服务条款——禁止将其模型输出用于开发竞争的 AI 模型。字节跳动的内部文件证实，在大模型开发的几乎每一个阶段，该公司都依赖于 OpenAI API。字节跳动员工在内部通信平台飞书中甚至讨论了“数据脱敏”。字节跳动员工经常达到 OpenAI API 的限额。在报道发表之后，OpenAI 发言人表示已经封锁了字节跳动的账号。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://slashdot.org/story/23/12/15/2346251/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-16T14:11:44Z",
+  "Author": "Wilson"
+}

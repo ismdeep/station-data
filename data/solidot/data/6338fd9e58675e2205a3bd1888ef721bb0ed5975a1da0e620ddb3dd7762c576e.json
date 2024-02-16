@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件安装合法 Gigabyte 驱动去关闭安全软件",
+  "Link": "https://www.solidot.org/story?sid=63463",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Sophos \u003ca href=\"https://news.sophos.com/en-us/2020/02/06/living-off-another-land-ransomware-borrows-vulnerable-driver-to-remove-security-software/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，勒索软件 RobbinHood 正采用一种新颖的方法防止其在被感染设备上加密文件的操作\u003ca href=\"https://www.zdnet.com/article/ransomware-installs-gigabyte-driver-to-kill-antivirus-products/\"\u003e\u003cu\u003e被杀毒软件阻止\u003c/u\u003e\u003c/a\u003e。攻击者首先在受害者的网络内获得立足之地，然后安装合法的  Gigabyte 内核驱动 GDRV.SYS，这个驱动存在漏洞，攻击者能利用漏洞获得内核访问权限，利用内核访问权限攻击者临时禁用了 Windows OS 的驱动签名强制，之后安装恶意内核驱动 RBNL.SYS，使用这个驱动关闭杀毒软件或其它设备上运行的安全产品，执行 RobbinHood 加密文件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-08T07:45:48Z",
+  "Author": "WinterIsComing"
+}

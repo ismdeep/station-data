@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DeepMind 的 AI 帮助发现新猜想和定理",
+  "Link": "https://www.solidot.org/story?sid=69854",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003cspan\u003eAlphabet 旗下\u003c/span\u003e DeepMind 公司的\u003ca href=\"https://www.nature.com/articles/d41586-021-03593-1\" target=\"_blank\"\u003e\u003cu\u003e AI 技术帮助数学家发现了新猜想和定理\u003c/u\u003e\u003c/a\u003e。 从 1960 年代开始，数学家开始使用计算机帮助发现规律和提出猜想，但人工智能系统尚未普遍应用于理论数学研究领域。\n\n论文通讯作者、DeepMind 的 Alex Davies 和数学家一起\u003ca href=\"https://news.sciencenet.cn/htmlnews/2021/12/470079.shtm\" target=\"_blank\"\u003e\u003cu\u003e建立了一个机器学习框架\u003c/u\u003e\u003c/a\u003e，用于协助数学研究。他们的算法搜索数学对象间潜在的规律和联系，尝试寻找意义。其后由数学家接手，利用这些观察来引导他们对潜在猜想的直觉。他们将机器学习框架这一方法应用于两个纯数学领域，发现了拓扑学(对几何形状性质的研究)的一个新定理，以及一个表示论(代数系统研究)的新猜想。他们总结认为，机器学习框架能鼓励未来数学和人工智能领域的合作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-02T14:31:05Z",
+  "Author": "WinterIsComing"
+}

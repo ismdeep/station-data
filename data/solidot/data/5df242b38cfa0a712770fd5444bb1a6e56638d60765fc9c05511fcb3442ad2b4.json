@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bcachefs 计划递交到 Linux 6.6",
+  "Link": "https://www.solidot.org/story?sid=75498",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 6.5 合并窗口在几天前关闭，备受瞩目的 Bcachefs 文件系统因争论而未能包含在 Linux 6.5 内。项目主开发 Kent Overstreet 表示将会在 Linux 6.6 合并窗口开启时再次递交合并请求。也就是差不多两个月后。Bcachefs 试图实现类似 XFS/EXT4 的性能以及类似 Btrfs 和 ZFS 的特性。但补丁规模太大，除了 Bcachefs 模块本身内核也需要做出改动，因此在合并期间引发了分歧，最终未能进入 Linux 6.5。Overstreet 目前正致力于增强 Bcachefs。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-12T15:37:15Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客窃取 LastPass 源代码",
+  "Link": "https://www.solidot.org/story?sid=72594",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t提供密码管理服务的 LastPass 发表\u003ca href=\"https://blog.lastpass.com/2022/08/notice-of-recent-security-incident/\"\u003e声明\u003c/a\u003e，称黑客窃取了它的部分源代码。LastPass 称，两周前他们检测到开发环境中有异常活动，随后展开的调查发现未经授权的黑客通过一个入侵的开发者账号获得了对部分开发环境的访问权限，窃取了部分源代码和私有技术信息。LastPass 表示它已经采取了应对措施，并雇佣了一家网络安全和取证公司。它强调没有任何证据表明黑客访问了客户数据或密码库。LastPass 解释说，它利用了行业标准的 Zero Knowledge 零知识架构确保它也不知道客户的主密码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-27T15:00:41Z",
+  "Author": "WinterIsComing"
+}

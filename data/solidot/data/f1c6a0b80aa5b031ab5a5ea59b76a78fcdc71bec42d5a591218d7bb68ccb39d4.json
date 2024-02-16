@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客的新后门程序利用了 MQTT 协议",
+  "Link": "https://www.solidot.org/story?sid=74296",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 ESET 报告，黑客组织 Mustang Panda aka TA416 和 Bronze President 部署了一种新的后门程序 MQsTTang。恶意程序主要通过钓鱼邮件传播，通过一个 GitHub 软件库下载负荷，它会在注册表增加一个启动时运行的注册表项去实现持久存在。为了躲避监测它利用了 MQTT 协议去进行指令通信。MQsTTang 还会检查主机上是否存在调试器或监控工具，如果有发现，它会相应的改变行为。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-03T15:17:48Z",
+  "Author": "Wilson"
+}

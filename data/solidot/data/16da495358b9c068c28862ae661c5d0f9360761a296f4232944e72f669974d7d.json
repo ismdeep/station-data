@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布 Ryzen 4000 移动 APU，最高 8 核 16 线",
+  "Link": "https://www.solidot.org/story?sid=63181",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 的 Zen 架构处理器正在桌面台式机市场全方面挑战英特尔，而在笔记本市场，AMD 的处理器过去几年一直只有中低端产品，没有挑战英特尔的高端产品。在本周举行的 CES 展会上，基于 Zen 2 架构台积电 7 纳米工艺的新一代 APU 改变了这一状况。AMD \u003ca href=\"https://www.anandtech.com/show/15324/amd-ryzen-4000-mobile-apus-7nm-8core-on-both-15w-and-45w-coming-q1\" target=\"_blank\"\u003e\u003cu\u003e宣布了 Ryzen 4000 移动 APU\u003c/u\u003e\u003c/a\u003e，最高型号 8 核 16 线。AMD 发布了完整的 APU 移动产品线，从低端的 4 核 4 线 Ryzen 3 4300U 到高端的 8 核 16 线 Ryzen 7 4800U（功耗 15 W） 和 Ryzen 7 4800H（H 代表强调高性能，相应的功耗也更高达到 45W）。对于 U 系列 APU，AMD 提供了  12W 到 25W 的可配置 TDP 选项，允许 OEM 厂商根据自己的设计调整功耗，以突出高性能或是突出便捷性。采用 Ryzen 4000 移动 APU 的首批产品将在今年第一季度晚些时候面世。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-07T03:35:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 86.0 释出",
+  "Link": "https://www.solidot.org/story?sid=67023",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/86.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003eFirefox 86.0\u003c/u\u003e\u003c/a\u003e。主要新特性包括：支持同时观看多个画中画视频；引入隐私保护功能 Total Cookie Protection，每个网站都有自己的“cookie 罐”，防止 cookie 用于跨站跟踪；改进了打印功能；本地 HTML 网页支持阅读模式；从 Firefox 86  开始，建立 WebRTC 的 PeerConnections 不再支持 DTLS 1.0，最低版本至少为 DTLS 1.2；bug 修正等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-24T12:42:44Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "通用无线和远程管理电动汽车电池",
+  "Link": "https://www.solidot.org/story?sid=65513",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t智能手机的电池如果坏了，你可以更换电池或干脆花钱更换整部设备，抱怨下电池寿命太短。电动汽车无法按照这种模式工作，汽车需要电池能和汽车一样耐用。实现这一目标的一种方法是密切跟踪每一辆电动汽车里的电池状况，了解如何延长电池使用寿命的知识，设计寿命更长的新版本。\u003ca href=\"https://spectrum.ieee.org/cars-that-think/energy/batteries-storage/ieee-spectrum-exclusive-gm-can-manage-an-evs-batteries-wirelesslyand-remotely\"\u003e\u003cu\u003e这就是通用汽车无线电池管理系统的任务\u003c/u\u003e\u003c/a\u003e，这套系统由通用和 Analog Devices 合作打造，包括特斯拉在内的电动汽车制造商尚未研发出同类系统。通用的系统利用了整合在电路板上的 RF 天线，天线能通过 2.4 GHz 无线协议传输数据，能将测量的电池电压等数据传输给通用的云端服务器。它能全面监视电池的健康状况和运行状况，包括在不同气候和用例下的实时驾驶数据。无线管理系统能在电池组之间平衡电荷以实现最优性能。软件和电池节点能通过无线方式重编程，为防止黑客入侵它在设计时就采用了端对端加密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-11T12:41:49Z",
+  "Author": "WinterIsComing"
+}

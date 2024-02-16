@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "流行 Javascript 库在安装时展示广告",
+  "Link": "https://www.solidot.org/story?sid=61846",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如何支持开源开发者？捐赠还是广告？多个流行的 NPM JS 库选择了广告，core-js 的作者通过广告\u003ca href=\"https://github.com/zloirock/core-js/issues/548\"\u003e\u003cu\u003e推销自己\u003c/u\u003e\u003c/a\u003e，而 Standard 的作者则决定在安装时\u003ca href=\"https://github.com/standard/standard/issues/1381\" target=\"_blank\"\u003e\u003cu\u003e展示广告\u003c/u\u003e\u003c/a\u003e，这些做法都引发了\u003ca href=\"https://news.slashdot.org/story/19/08/25/1813213/standard-a-javascript-style-guide-library-with-3m-downloads-per-month-now-showing-ads-when-installed-via-npm\"\u003e\u003cu\u003e争议\u003c/u\u003e\u003c/a\u003e。Standard 是一个 Javascript 风格指南库，每月下载量大约 300 万次，开发者 Feross Aboukhadijeh 表示这是一项实验，旨在找到支持开源开发的可持续方法。他表示，在安装 Standard 14 会展示赞助商的信息，赞助费用直接支付了维护时间，包括新功能、修正、回答用户提问和改进文档。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-26T04:27:08Z",
+  "Author": "wenfeixiang"
+}

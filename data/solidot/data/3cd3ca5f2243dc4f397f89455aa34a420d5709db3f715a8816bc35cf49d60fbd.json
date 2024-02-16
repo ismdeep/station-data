@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gitlab 支持将 ActivityPub 协议用于合并请求",
+  "Link": "https://www.solidot.org/story?sid=75900",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Gitlab 的官方文档，它正准备支持联邦宇宙协议 ActivityPub。ActivityPub 是一个 W3C 标准，其最知名的实现是去中心化微博客服务 Mastodon 以及 Reddit 的去中心化替代 Lemmy。Gitlab 允许用户创建各自的实例，但实例之间如何互动？通过支持 ActivityPub 不同 Gitlab 实例之间可以互相关注（或叫订阅），创建分支（fork）、可以递交合并请求，可以就合并请求展开讨论，然后合并代码。Gitlab 将逐步实现 ActivityPub 的功能，首先是社交功能，实现跨实例的订阅，最终实现跨实例合并请求。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://gitlab.com/groups/gitlab-org/-/epics/11247\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-26T03:42:11Z",
+  "Author": "Wilson"
+}

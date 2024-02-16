@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "深度学习识别显微照片中的细菌",
+  "Link": "https://www.solidot.org/story?sid=73110",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华盛顿大学研究人员\u003ca href=\"https://news.sciencenet.cn/htmlnews/2022/10/487937.shtm\"\u003e开发出\u003c/a\u003e深度学习软件 Omnipose，能帮助解决在显微镜图像中识别各种微小细菌的挑战。\u003ca href=\"https://www.nature.com/articles/s41592-022-01639-4\"\u003e\u003cu\u003e研究论文\u003c/u\u003e\u003c/a\u003e发表在《自然·方法学》杂志上。\u003ca href=\"https://github.com/kevinjohncutler/omnipose\"\u003e\u003cu\u003eOmnipose\u003c/u\u003e\u003c/a\u003e 的源代码托管在 GitHub 上，采用非商业许可证。研究人员发现，在大型细菌图像数据库上训练的 Omnipose 在表征和量化混合微生物培养物中的无数细菌方面表现良好，并消除了其前身可能出现的一些错误。此外由于不同细菌的光学特性存在差异，Omnipose 在克服识别问题方面表现出色。研究人员称，Omnipose 在各种细胞形态和模式上的高性能，可能会从以前无法访问的显微镜图像中解开信息，这或将改变生物图像分析的游戏规则。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-20T03:03:12Z",
+  "Author": "WinterIsComing"
+}

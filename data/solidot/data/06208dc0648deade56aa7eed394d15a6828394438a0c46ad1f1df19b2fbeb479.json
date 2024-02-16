@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "国内下载站提供的开源编辑器被发现捆绑了恶意代码",
+  "Link": "https://www.solidot.org/story?sid=64075",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司\u003ca href=\"https://www.huorong.cn/info/1586357607452.html\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，国内下载站西西软件园提供的开源编辑器 Notepad++ 被发现捆绑了恶意代码，而这个恶意脚本代码与勒索软件 WannaRen 有关联，该勒索软件可能通过国内下载站进行传播。在中文搜索引擎百度搜索 Notepad++，排在前几位的都是下载站，而不是官网 \u003ca href=\"https://notepad-plus-plus.org/downloads/\"\u003e\u003cu\u003enotepad-plus-plus.org\u003c/u\u003e\u003c/a\u003e，如果下载站的版本存在恶意代码，那么可能会有很多中国用户受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-09T12:49:07Z",
+  "Author": "WinterIsComing"
+}

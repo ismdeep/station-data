@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "10 亿用户信息泄露",
+  "Link": "https://www.solidot.org/story?sid=62715",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，他们在 10 月 16 日发现了一个托管在 Google Cloud 上的无密码保护的可公开访问的 Elasticsearc 服务器，储存了 4 TB 数据，包含了多达 40 亿用户账号，其中非重复账号数超过 12 亿。这是至今来自单个组织的最大规模数据泄露。泄露的数据包含了名字、电子邮件地址、电话号码、LinkedIN 和 Facebook 账号信息。这些信息被认为来自于两家数据聚合和浓缩公司 People Data Labs 和 OxyData.io，不包含敏感数据如密码和信用卡。安全研究人员联络了 PDL 被告知服务器不属于他们，PDL 使用的是 AWS 云服务。研究人员猜测这些数据来自 PDL 的客户或其它收集多个数据源的数据聚合服务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-23T12:21:22Z",
+  "Author": "WinterIsComing"
+}

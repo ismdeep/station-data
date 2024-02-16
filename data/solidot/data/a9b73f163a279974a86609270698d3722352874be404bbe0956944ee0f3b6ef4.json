@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "摩根大通从内部代码和材料中替换术语  Master 和 Slave",
+  "Link": "https://www.solidot.org/story?sid=64846",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了试图解决公司内部的种族主义问题，摩根大通（JPMorgan Chase）正从内部代码和技术材料中\u003ca href=\"https://www.reuters.com/article/us-minneapolis-police-jp-morgan-race-exc/exclusive-jpmorgan-drops-terms-master-slave-from-internal-tech-code-and-materials-idUSKBN2433E4?il=0\"\u003e\u003cu\u003e替换掉\u003c/u\u003e\u003c/a\u003e blacklist、master 和 slave 等术语。它不是第一家这么做的公司和机构，但可能是金融行业首个采取这一措施的投行。在程序或硬件中，master 和 slave 被用于描述一个进程控制另一个进程或一个设备控制另一个。blacklist 则被用于描述被自动拒绝的条目，Whitelist 意思相反表示自动批准。哥伦比亚商学院编程教授 Mattan Griffel 称，此类的术语长期受到争议，很难改变。在银行内部代码中替换掉这些术语可能需要花费数百万美元和数个月的工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T13:33:31Z",
+  "Author": "blackhat"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Wine 5.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63332",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWine (Wine Is Not an Emulato）项目\u003ca href=\"https://www.winehq.org/news/2020012101\" target=\"_blank\"\u003e\u003cu\u003e释出了 5.0 版\u003c/u\u003e\u003c/a\u003e，包含了 7400 多个 bug 修正，大量的音频图形改进，改善了 Linux 上的游戏性能。主要改进包括：为了让游戏认为 Wine 是一个真实的 Windows 环境，绝大部分模块转换为 PE 格式而不是 ELF 二级制，希望此举能让版权保护和反作弊程序不再标记 Wine 下的游戏是修改过的；支持多个显示器；重新实现 XAudio2 库；支持 Vulkan 1.1 规格。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-22T12:05:44Z",
+  "Author": "WinterIsComing"
+}

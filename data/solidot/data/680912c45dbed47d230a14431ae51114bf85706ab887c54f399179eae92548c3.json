@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Armbian 22.02 释出",
+  "Link": "https://www.solidot.org/story?sid=70812",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Debia 专门针对 ARM 单板电脑和开发板的 Armbian 项目释出了 \u003ca href=\"https://www.armbian.com/download/?device_support=Supported\"\u003e\u003cu\u003e22.02\u003c/u\u003e\u003c/a\u003e。单板电脑开发商使用的内核通常经过了大量修改，与主线相去甚远，发布之后基本上就不再更新了，留下了大量的 bug 和各种漏洞，就像早期的 Android 生态系统。Armbian 之类的项目有效的解决这种问题，它支持超过 60 种基于 ARM 的单板电脑和开发板。Armbian 22.02 加入了对 Debian unstable（sid）的支持，Raspberry Pi 镜像，新的 Extensions 构建框架，改进构建自动化（持续集成和持续部署）等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T13:17:17Z",
+  "Author": "WinterIsComing"
+}

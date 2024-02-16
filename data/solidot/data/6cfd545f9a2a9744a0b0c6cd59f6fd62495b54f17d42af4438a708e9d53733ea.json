@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "7-zip 支持 Windows Mark-of-the-Web 安全功能",
+  "Link": "https://www.solidot.org/story?sid=71913",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t7-zip 加入了对 Windows Mark-of-the-Web 安全功能的支持。当用户从网络下载文档和可执行文件，Windows 会对其加入特定的标识符 Mark-of-the-Web，告诉操作系统和支持的应用程序，文件是从另一台计算机或网络上下载的，打开文件可能会存在安全风险。举例来说，Microsoft Office 在打开文件时会检查 Mark-of-the-Web，如果有该标识符它会在保护视图下打开文件，文件处于只读模式，禁用了宏功能。7-zip 是最流行的解压缩软件之一，其作者 Igor Pavlov 在 \u003ca href=\"https://www.7-zip.org/history.txt\" target=\"_blank\" rel=\"nofollow noopener\"\u003e7-zip 22.00\u003c/a\u003e 中加入了一个新设置，\u003ca href=\"https://www.bleepingcomputer.com/news/microsoft/7-zip-now-supports-windows-mark-of-the-web-security-feature/\" target=\"_blank\"\u003e\u003cu\u003e允许用户启用\u003c/u\u003e\u003c/a\u003e Mark-of-the-Web 功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-22T15:57:42Z",
+  "Author": "WinterIsComing"
+}

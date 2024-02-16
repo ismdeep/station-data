@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究员披露三个 iOS 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=69052",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因为苹果的推诿拖延，安全研究员\u003ca href=\"https://habr.com/en/post/579714/\" target=\"_blank\"\u003e披露了四个 iOS 漏洞\u003c/a\u003e，其中一个已修复(14.7)，另外三个都是尚未修复的 0day(15.0)。这些漏洞早就报告给了苹果，其中时间最长的达到了半年，但苹果要么不在安全公告中披露修复的漏洞，要么承诺处理但没有兑现，Google Project Zero 的披露政策是报告后 90 天（不管漏洞有没有修复），这位安全研究员认为等待的时间已经够长了，因此决定全部公开。他不是唯一一个对苹果 Security Bounty 项目不满的安全研究员。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-24T15:05:10Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 在量子纠错上取得进步",
+  "Link": "https://www.solidot.org/story?sid=74218",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t阻碍量子处理器走向实用的一大挑战是它出错的概率是传统处理器的上万亿倍，而量子比特数越多通常错误率也越高。Google 现在在量子纠错上取得了进步：让错误率随量子比特数的增加而下降成为可能。它的下一代量子处理器 Sycamore 在量子比特数上与上一代相同，但性能有了改进。Google 研究人员在《自然》期刊上发表研究报告，描述了两种纠错的方法，其中一种的错误率比另一种下降了 0.11%。但目前的错误率仍然太高，我们还需要更长时间才会看到量子处理器展现出它优于经典处理器的地方。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.nature.com/articles/s41586-022-05434-1\u003cbr/\u003e\nhttps://arstechnica.com/?p=1919484\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-23T11:50:04Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "将 2D 照片转变为 3D 虚拟场景",
+  "Link": "https://www.solidot.org/story?sid=71068",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达研究院\u003ca href=\"https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 Instant NeRF（Instant Neural Graphics Primitives），能在数秒内使用多幅 2D 照片转创建 3D 模型。\u003ca href=\"https://github.com/NVlabs/instant-ngp\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。根据 2D 照片创建 3D 场景的技术被称为逆向渲染（Inverse Rendering），传统方法需要数小时甚至更长时间，英伟达开发的 NeRF 能将这一过程在极短时间内完成。NeRF 训练一个小型神经网络，通过预测 3D 空间任意点向任意方向辐射的光线颜色重建场景。英伟达负责图形研究的副总裁 David Luebke 称，Instant NeRF 对 3D 的重要性不亚于数码相机和 JPEG 压缩对 2D 摄影的重要性。该公司利用这项新技术使用旧照片重建了著名的安迪·沃霍尔（Andy Warhol）拍摄快照的 \u003ca href=\"https://youtu.be/DJ2hcC1orc4\"\u003e\u003cu\u003e3D 场景\u003c/u\u003e\u003c/a\u003e（YouTube）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-26T10:41:52Z",
+  "Author": "WinterIsComing"
+}

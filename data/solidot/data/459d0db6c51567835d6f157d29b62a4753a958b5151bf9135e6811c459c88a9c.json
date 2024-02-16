@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux内核v5.10新增支持AWS Nitro Enclave",
+  "Link": "https://www.solidot.org/story?sid=65885",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道 \u0026#34;\u003ci\u003e最近Linux内核v5.10合并了\u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=726eb70e0d34dc4bc4dada71f52bba8ed638431e\" target=\"_blank\"\u003eNitro Enclaves的代码\u003c/a\u003e。Nitro Enclaves( NE)是AWS EC2的enclave（飞地）方案，针对敏感业务和常规EC2实例虚拟主机之间进行隔离的同时也可以提供远程证明等安全服务，主VM启动后可以派生一个enclave后进行资源分配（CPU，内存），每个enclave会映射一个运行于主VM的进程从而使用ioctl()和NE driver进行通信，每个enclave都运行独立的OS，即一个小型版本的GNU/Linux系统，这个系统会把内核镜像，ramdisk等都打包成统一的EIF（Enclave Image Format）格式。Enclave基本上是一个和Atomic类似的只读系统，这降低了攻击平面，而远程证明可以通过\u003ca href=\"https://aws.amazon.com/kms/\" target=\"_blank\"\u003eAWS的KMS服务\u003c/a\u003e完成，其威胁建模中最大的风险来自于虚机逃逸漏洞和云厂商的作恶，从这个层面上看，未来AWS的EC2公有云用户可以收益于NE，但真正的福音恐怕是\u003ca href=\"https://aws.amazon.com/outposts/\" target=\"_blank\"\u003eAWS Outposts\u003c/a\u003e的用户。从NE的设计和实现可以看出，AWS对于用户的需求和场景定位非常清晰，这避免了\u003ca href=\"https://www.solidot.org/story?sid=61490\" target=\"_blank\"\u003eIntel SGX设计过度复杂导致的一系列问题\u003c/a\u003e。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-22T09:41:22Z",
+  "Author": "WinterIsComing"
+}

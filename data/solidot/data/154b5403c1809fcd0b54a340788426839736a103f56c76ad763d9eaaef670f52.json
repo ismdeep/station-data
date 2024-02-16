@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国安全公司披露 NSA 黑客行动",
+  "Link": "https://www.solidot.org/story?sid=70758",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t北京奇安盘古实验室发布\u003ca href=\"https://www.pangulab.cn/files/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.zh-cn.pdf\"\u003e\u003cu\u003e报告（PDF）\u003c/u\u003e\u003c/a\u003e，披露了\u003ca href=\"https://www.pangulab.cn/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group/\"\u003e\u003cu\u003e NSA 的黑客行动\u003c/u\u003e\u003c/a\u003e。报告称，2013 年盘古实验室研究员在针对某国内要害部门主机的调查过程中，提取了一个经过复杂加密的 Linux 平台后门，其使用的基于 SYN 包的高级隐蔽信道行为和自身的代码混淆、系统隐藏、自毁设计前所未见。在不能完全解密的情况下，进一步发现这个后门程序需要与主机绑定的校验码才能正常运行，随后研究人员又破解了校验码，并成功运行了这个后门程序，从部分行为功能上断定这是一个顶级 APT 后门程序，但是进一步调查需要攻击者的非对称加密私钥才能激活远控功能，至此研究人员的调查受阻。基于样本中最常见的字符串“Bvp”和加密算法中使用数值 0x47，命名为“Bvp47”。2016 年 The Shadow Brokers 宣称成功黑进了“方程式组织”，并于 2016 年和 2017 年先后公布了大量黑客工具和数据。盘古实验室成员从其公布的文件中，发现了一组疑似包含私钥的文件，恰好正是唯一可以激活 Bvp47 顶级后门的非对称加密私钥，可直接远程激活并控制 Bvp47 顶级后门。可以断定，Bvp47 是属于“方程式组织”的黑客工具。方程式组织隶属于 NSA，即 Bvp47 是 NSA 的顶级后门。盘古实验室为多起 Bvp47 同源样本事件起了一个代号“电幕行动”。电幕（Telescreen）是英国作家乔治·奥威尔在小说《1984》中想象的一个设备，可以用来远程监控部署了电幕的人或组织，“思想警察”可以任意监视任意电幕的信息和行为。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-24T06:26:29Z",
+  "Author": "WinterIsComing"
+}

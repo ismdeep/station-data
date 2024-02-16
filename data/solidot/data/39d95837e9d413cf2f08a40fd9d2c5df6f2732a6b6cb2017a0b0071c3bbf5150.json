@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 将逐步停止支持 user agent",
+  "Link": "https://www.solidot.org/story?sid=63932",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 宣布 Chrome 浏览器将逐步停止支持用户代理字符串（User-Agent string），改用新 API \u003ca href=\"https://github.com/WICG/ua-client-hints\"\u003e\u003cu\u003eClient Hints\u003c/u\u003e\u003c/a\u003e，“给予用户更好的控制与网站共享的信息”。在现实中，Google 是\u003ca href=\"https://news.ycombinator.com/item?id=22685018\"\u003e\u003cu\u003e少数\u003c/u\u003e\u003c/a\u003e利用 User-Agent 限制其它浏览器使用其服务的大型公司，此外因 Chrome 的高占有率很多网站也是专为其优化的，这种局面促使其它浏览器伪造 User-Agent \u003ca href=\"https://www.solidot.org/story?sid=60388\" target=\"_blank\"\u003e\u003cu\u003e冒充 Chrome\u003c/u\u003e\u003c/a\u003e。用户代理字符串的使用可追溯到 1990 年代初的 Mosaic 浏览器，浏览器访问网站时会发送包含浏览器名字和版本号的字符串，Netscape 之后采用了用户代理字符串并加入了额外的信息如操作系统和语言。网站则根据用户代理字符串信息避免使用特定浏览器版本不支持的功能。Chrome 将从 v81 开始逐步停止支持 User-Agent，到 v85 完全停止支持。目前还不知道其它浏览器是否会采取类似的行动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-26T02:32:08Z",
+  "Author": "WinterIsComing"
+}

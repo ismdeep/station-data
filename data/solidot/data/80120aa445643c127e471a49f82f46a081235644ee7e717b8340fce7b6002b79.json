@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "200 家美国公司遭遇供应链攻击",
+  "Link": "https://www.solidot.org/story?sid=68192",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t勒索组织 REvil 利用软件供应链攻击\u003ca href=\"https://www.bbc.com/news/world-us-canada-57703836\" target=\"_blank\"\u003e\u003cu\u003e同时勒索了\u003c/u\u003e\u003c/a\u003e大约 200 家美国公司。攻击者针对了软件供应商 Kaseya，然后通过 Kaseya 将勒索软件传播到使用其软件的公司。Kaseya 发表声明称，它的一个运行在企业服务器、桌面计算机和网络设备上的软件可能被入侵，它督促客户使用它的 VSA 工具立即关闭服务器。受到影响的企业可能超过 200 家。Kaseya 称它有超过 1 万家客户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-03T15:19:51Z",
+  "Author": "WinterIsComing"
+}

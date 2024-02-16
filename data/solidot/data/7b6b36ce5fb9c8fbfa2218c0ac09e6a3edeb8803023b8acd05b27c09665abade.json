@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "立陶宛对三款中国产手机进行安全审查",
+  "Link": "https://www.solidot.org/story?sid=69021",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t立陶宛国家网络安全中心（NCSC）对三款中国产手机进行了\u003ca href=\"https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf\"\u003e\u003cu\u003e安全审查\u003c/u\u003e\u003c/a\u003e（PDF）：华为 P40 5G、小米 Mi 10T 5G 和 一加 \u003ca href=\"https://www.oneplus.com/8t/specs\"\u003e8T 5G\u003c/a\u003e。NCSC 发现小米手机预装的非标准浏览器 Mi Browser 包含了两个值得注意的模块：其一是读取浏览和搜索历史并将数据发送到小米服务器的 Google Analytics，该模块默认激活；其二是 Sensor Data 模块，它会收集与应用活动相关的 61 个参数，数据在加密之后发送到小米位于新加坡的服务器。小米用户的手机号码还会悄悄通过加密 SMS 短信注册到新加坡的服务器激活云服务，这一短信对用户是不可见的。多个小米系统应用会从新加坡服务器下载 MiAdBlackListConfig 文件，该文件包含了 449 个与宗教、政治和社会团体相关的记录。MiAdBlackListConfig 的内容过滤功能在欧洲地区默认关闭，但由于手机会定期下载该文件，小米能在任何时候远程激活该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-23T01:17:29Z",
+  "Author": "WinterIsComing"
+}

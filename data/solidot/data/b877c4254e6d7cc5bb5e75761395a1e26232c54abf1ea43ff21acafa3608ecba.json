@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "台积电谈 7 纳米和 5 纳米工艺",
+  "Link": "https://www.solidot.org/story?sid=61565",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在最近举行的 2019 VLSI Symposium 和 SEMICON West 2019 会议上，台积电\u003ca href=\"https://fuse.wikichip.org/news/2567/tsmc-talks-7nm-5nm-yield-and-next-gen-5g-and-hpc-packaging/\" target=\"_blank\"\u003e\u003cu\u003e谈论了它的 7 纳米、 5 纳米甚至 3 纳米工艺\u003c/u\u003e\u003c/a\u003e。台积电认为，它的 7 纳米节点 N7 是目前能提供的最先进逻辑电路技术，它的绝大部分客户直接从 16 纳米节点 N16 转到了 N7，N10 被认为是短命的技术。相比 N16，N7 提供了 3.3 倍的路由门密度，35-40% 的速度改进或 65% 的低功耗。台积电称，从 N10 上面学到的知识帮助它快速减少了 N7 的缺陷密度，它认为 N7 将占到全年收入的四分之一。台积电已经开始提供优化版的 N7 工艺，它被称为 N7 性能加强版或 N7P， 比  N7 提供了 7% 的性能改进或最高 10% 的低功耗，N7 或 N7P 都采用深紫外光刻，而 N7+ 则是第一代在部分关键层上采用极紫外光刻技术的版本，晶体管密度达到了 1.2 倍，性能提升 10% 或最多 15% 的低功耗。N6 则是 N7 的极紫外版本，在更多层上使用极紫外光刻。之后的节点工艺包括 N5、N5P 和 N3，其中 N3 将在 2022 年左右推出，台积电在工艺技术将领先于英特尔和三星一代。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-01T07:02:38Z",
+  "Author": "wenfeixiang"
+}

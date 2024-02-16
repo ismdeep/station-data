@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "IBM 发布完全同态加密工具集",
+  "Link": "https://www.solidot.org/story?sid=64617",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tIBM \u003ca href=\"https://www.ibm.com/blogs/research/2020/06/ibm-releases-fully-homomorphic-encryption-toolkit-for-macos-and-ios-linux-and-android-coming-soon/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e完全同态加密（fully homomorphic encryption，FHE）工具集，源代码发布在 GitHub 上，采用 MIT 许可证。目前 FHE 工具集只支持 \u003ca href=\"https://github.com/IBM/fhe-toolkit-macos\" target=\"_blank\"\u003e MacOS\u003c/a\u003e 和 \u003ca href=\"https://github.com/IBM/fhe-toolkit-ios\"\u003e\u003cu\u003eiOS\u003c/u\u003e\u003c/a\u003e，未来几周会发布支持 Linux 和 Android 的版本。同态加密允许对密文进行特定的代数运算得到仍然是加密的结果，与对明文进行同样的运算再将结果加密一样。这项技术可以在加密的数据中进行检索、比较等操作，整个处理过程中无需对数据进行解密。同态加密技术从根本上解决将数据及其操作委托给第三方时的保密问题。今天的文件通常是在传输和存储时加密，使用时解密，存在安全漏洞，FHE 可解决该问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-09T14:41:14Z",
+  "Author": "WinterIsComing"
+}

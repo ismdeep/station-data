@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 考虑给加载缓慢的网站加上标记",
+  "Link": "https://www.solidot.org/story?sid=62574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 认为网站加载越快越好，对于加载缓慢的网站搜索巨人认为应该对其公开的羞辱。Chrome 官方博客\u003ca href=\"https://blog.chromium.org/2019/11/moving-towards-faster-web.html\"\u003e\u003cu\u003e宣布了一项计划\u003c/u\u003e\u003c/a\u003e：给加载缓慢的网站引入标记（badging）。未来这种标记可能会包含速度之外的因素。Google 希望网站开发者提前做好准备，它推荐了一系列工具帮助开发者识别导致网站加载缓慢的因素，这些工具包括 \u003ca href=\"https://developers.google.com/speed/pagespeed/insights/\" target=\"_blank\"\u003e\u003cu\u003ePageSpeed Insights\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://developers.google.com/web/tools/lighthouse/\" target=\"_blank\"\u003e\u003cu\u003eLighthouse\u003c/u\u003e\u003c/a\u003e， 并推荐阅读 \u003ca href=\"https://web.dev/fast\"\u003e\u003cu\u003eWeb.dev/fast\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-12T07:12:18Z",
+  "Author": "wenfeixiang"
+}

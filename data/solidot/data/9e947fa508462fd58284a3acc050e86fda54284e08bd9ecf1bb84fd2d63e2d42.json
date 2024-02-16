@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "油泵和常见路由器一样存在安全隐患",
+  "Link": "https://www.solidot.org/story?sid=70998",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几年发生了多起加油站油泵被入侵，数百甚至数万加仑的汽油被盗的安全事件。油泵和家用路由器一样\u003ca href=\"https://myfox8.com/news/north-carolina/high-point/its-apparently-easy-to-bypass-a-gas-pump-and-steal-400-gallons-or-more/\"\u003e\u003cu\u003e存在安全隐患\u003c/u\u003e\u003c/a\u003e。卡巴斯基研究人员在 2018 年发现部分油泵使用的嵌入式控制器让它容易被黑客控制。控制器单元运行基于 Linux 的系统，安装了一个迷你 httpd 服务器。控制器是加油站的核心，它们很多都年代久远，是在十多年前安装到加油系统中的，而且与互联网相连。研究人员认为，一名技术精湛的黑客能从世界任何地方进入加油系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-20T11:30:23Z",
+  "Author": "WinterIsComing"
+}

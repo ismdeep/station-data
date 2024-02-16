@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究发现 Brave 收集的数据最少",
+  "Link": "https://www.solidot.org/story?sid=63688",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t都柏林圣三一学院教授 Douglas J. Leith 发表研究报告《\u003ca href=\"https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf\" target=\"_blank\"\u003e\u003cu\u003eWeb Browser Privacy: What Do Browsers Say When They Phone Home\u003c/u\u003e\u003c/a\u003e》（PDF），\u003ca href=\"https://www.zdnet.com/article/brave-deemed-most-private-browser-in-terms-of-phoning-home/\"\u003e\u003cu\u003e分析了\u003c/u\u003e\u003c/a\u003e Google Chrome、Mozilla Firefox、Apple Safari、Brave、Microsoft Edge 和 Yandex Browser 收集用户数据的情况。作者收集了浏览器在首次安装、关闭重启、粘贴和输入网址以及闲置情况下的网络流量，显示 Brave 发送的数据最少，其次是  Chrome、Firefox 和 Safari，收集数据最多的是 Edge 和 Yandex Browser。Brave 发送到其服务器的数据没有发现用户识别信息；Chrome、Firefox 和 Safari 发送的遥测数据包括了浏览器的标识符和用户输入的网址信息，Firefox 可以设置关闭遥测但默认情况下启用了；Microsoft Edge 和 Yandex Browser 发送的数据包括了与设备硬件关联的唯一标识符，Edge 发送了硬件 UUID，Yandex 发送了硬件序列号和 MAC 地址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-03T06:36:32Z",
+  "Author": "WinterIsComing"
+}

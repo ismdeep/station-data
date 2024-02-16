@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ESNI 进入草案状态",
+  "Link": "https://www.solidot.org/story?sid=64664",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着越来越多的网站普及 HTTPS，明文的服务器名称指示（Server Name Indication，SNI）成为新的隐私漏洞。通过明文 SNI，ISP 或任何网络中间人将会知道你访问了哪个网站，最近一部分网站的屏蔽方法就升级到 SNI 检测。加密 SNI（ESNI）将会堵上这个漏洞。互联网工程任务组最近发布了 \u003ca href=\"https://tools.ietf.org/html/draft-ietf-tls-esni-07\" target=\"_blank\"\u003e\u003cu\u003eTLS Encrypted Client Hello（即 ESNI）的草\u003c/u\u003e\u003c/a\u003e案，标志着这项功能进入到了草案状态。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-15T10:44:03Z",
+  "Author": "WinterIsComing"
+}

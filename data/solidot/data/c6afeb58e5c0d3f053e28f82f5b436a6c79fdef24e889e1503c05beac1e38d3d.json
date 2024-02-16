@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Xmacs v2020.4 发布了",
+  "Link": "https://www.solidot.org/story?sid=67127",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://gitee.com/xmacs\"\u003eXmacsLabs\u003c/a\u003e 写道 \u0026#34;Xmacs致力于成为用于编辑代码和轻量级标记文本的结构化编辑器。\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e直接\u003ca href=\"https://gitee.com/xmacs/Xmacs/releases/v2020.4\" target=\"_blank\"\u003e点我\u003c/a\u003e在Gitee可以下载Windows和macOS平台下载安装包。\n\u003c/p\u003e\n\u003cp\u003eXmacs v2020.4的重要变更如下：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n基于GNU TeXmacs v1.99.19\u003c/li\u003e\n\u003cli\u003e使用最新的plugins\u003c/li\u003e\n\u003cli\u003e使用Qt 5\u003c/li\u003e\n\u003cli\u003e额外的插件：quiver(\u003ca href=\"https://gitee.com/xmacs/quiver\" rel=\"nofollow noreferrer noopener\" target=\"_blank\"\u003ecode\u003c/a\u003e/\u003ca href=\"https://q.uiver.app/\" rel=\"nofollow noreferrer noopener\" target=\"_blank\"\u003eq.uiver.app\u003c/a\u003e)\u003c/li\u003e\u003c/ul\u003e\n\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-07T09:18:00Z",
+  "Author": "WinterIsComing"
+}

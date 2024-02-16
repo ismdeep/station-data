@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "利用屏幕亮度变化窃取数据",
+  "Link": "https://www.solidot.org/story?sid=63458",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在\u003ca href=\"https://www.solidot.org/story?sid=52681\"\u003e\u003cu\u003e路由器 LED 灯\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://www.solidot.org/story?sid=48715\"\u003e\u003cu\u003e风扇噪音\u003c/u\u003e\u003c/a\u003e和\u003ca href=\"https://www.solidot.org/story?sid=49304\"\u003e\u003cu\u003e机械硬盘声音\u003c/u\u003e\u003c/a\u003e之后，以色列本·古里安大学的一组研究人员提出了一种从物理隔离的不联网设备上窃取数据的新方法：\u003ca href=\"https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-using-screen-brightness-variations/\"\u003e\u003cu\u003eLCD 屏幕亮度变化\u003c/u\u003e\u003c/a\u003e。新的攻击方法被称为 \u003ca href=\"https://arxiv.org/pdf/2002.01078.pdf\"\u003e\u003cu\u003eBRIGHTNESS（PDF）\u003c/u\u003e\u003c/a\u003e，基于对 LCD 显示屏亮度设置的微调，这种微调人眼无法察觉，但使用算法可以探测和提取。攻击者首先需要感染物理隔离的计算机系统，然后收集想要窃取的数据，改变显示屏颜色设置调整明亮度，上下调整明亮度以中继文件的 0/1 二进制模式一次一比特，攻击者从附近用视频记录这些变化，对记录的视频进行分析然后重组文件。这种数据窃取方法是很慢的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-07T12:50:16Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司 Malwarebytes 称它遭到 SolarWinds 黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=66731",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Malwarebytes 发表\u003ca href=\"https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，称它也遭到了 SolarWinds 黑客的入侵。Malwarebytes 称它并没有使用 SolarWinds 的软件，它确认存在另一个入侵途径。调查人员发现攻击者访问了部分公司内部邮件，但没有发现有证据显示攻击者访问或入侵了 Malwarebytes 的任何产品环境。Malwarebytes 是第四家披露遭到 SolarWinds 黑客攻击的公司，其它三家是微软、安全公司 FireEye 和 CrowdStrike，其中 CrowdStrike 表示黑客对其网络的入侵并没有成功。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-22T06:32:38Z",
+  "Author": "WinterIsComing"
+}

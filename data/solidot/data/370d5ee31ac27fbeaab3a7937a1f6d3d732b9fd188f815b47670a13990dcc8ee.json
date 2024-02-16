@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员介绍放大低分辨率图像的新方法",
+  "Link": "https://www.solidot.org/story?sid=68786",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 研究人员在 AI 博客上\u003ca href=\"https://www.dpreview.com/news/0501469519/google-researchers-detail-new-method-upscaling-low-resolution-images-with-impressive-results\"\u003e\u003cu\u003e介绍了一项新技术\u003c/u\u003e\u003c/a\u003e，能以惊艳效果增强低分辨率图像。这篇博文题为《\u003ca href=\"https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html?m=1\" target=\"_blank\"\u003e\u003cu\u003e使用扩散模型生成高保真图像\u003c/u\u003e\u003c/a\u003e》，详细介绍了 Google 研究人员如何开发出两项 AI 技术，在拍摄低分辨率图像之后如何通过选择性破坏及重建原始输入内容以稳定提高分辨率。首先是使用通过重复细化的超分辨率（\u003ca href=\"https://iterative-refinement.github.io/\" target=\"_blank\"\u003e\u003cu\u003eSuper-Resolution via Repeated Refinements\u003c/u\u003e\u003c/a\u003e）技术，“这是一种超分辨率扩散模型，能将低分辨率图像作为输入，利用纯噪声构建起相应的高分辨率图像。”在本质上，该模型先将纯高斯噪声应用于低分辨率图像，之后再使用降噪技术有效重构四倍一截输入分辨率的、几乎没有噪声的图像。之后研究人员使用\u003ca href=\"https://cascaded-diffusion.github.io/\" target=\"_blank\"\u003e\u003cu\u003e级联扩散模型（CDM）\u003c/u\u003e\u003c/a\u003e以智能化方式将高斯噪声与模糊应用于输出图像，之后重复整个过程。谷歌将这项技术称为“条件增强”，能把图像质量提升至超越当前 AI 增强技术的水平，甚至 BigGAN-deep 与 VQ-VAE-2 也不能与之匹敌。根据 Google 的介绍，这项新技术“在将图像分辨率缩放至低分辨率输入图像的 4 倍到 8 倍时，取得了良好的面部与自然图像超分辨率基准效果。”在实验当中，研究人员成功使用 64 x 64 像素图像输出了极为清晰锐利的 1024 x 1024 像素图像。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-02T06:39:20Z",
+  "Author": "wanwan"
+}

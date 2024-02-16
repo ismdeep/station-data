@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows XP 泄露的源代码能编译可工作的操作系统",
+  "Link": "https://www.solidot.org/story?sid=65712",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWindows XP 和 Windows Server 2003 的源代码最近被人泄露，源代码被确认是真实的，有 YouTube 主播\u003ca href=\"https://www.zdnet.com/article/windows-xp-leak-confirmed-after-user-compiles-the-leaked-code-into-a-working-os/\" target=\"_blank\"\u003e\u003cu\u003e将源代码编译成可工作的操作系统\u003c/u\u003e\u003c/a\u003e。消息来源称，源代码是真实的但并不完整。下载源代码的 NTDEV 成功编译了 Windows XP 代码和 Windows Server 2003 代码。NTDEV 表示源代码确实不完整，缺少了 winlogon.exe 和许多驱动。Windows Server 2003 泄露的代码要比 XP 更完整，但和 XP 一样，也缺少 Winlogon。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-02T15:28:00Z",
+  "Author": "WinterIsComing"
+}

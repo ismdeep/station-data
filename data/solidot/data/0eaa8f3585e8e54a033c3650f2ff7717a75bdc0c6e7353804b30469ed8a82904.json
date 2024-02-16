@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "代码错误劣化英特尔 GPU 光线跟踪性能",
+  "Link": "https://www.solidot.org/story?sid=72254",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔 Linux GPU 驱动开发者\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-Vulkan-RT-100x-Improve\"\u003e\u003cu\u003e递交了一个修正\u003c/u\u003e\u003c/a\u003e，使得英特尔 GPU 的光线跟踪性能提升百倍。该更新合并到了 Mesa 22.2 中，预计会在 8 月底提供给终端用户。英特尔旧驱动的问题是光线跟踪工作使用的临时内存没有使用更快的 GPU 显存，而是使用了较慢的系统内存，持续的将数据转移到内存然后再返回无疑劣化了性能。确保光线跟踪使用显存将性能提升了百倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-26T08:42:44Z",
+  "Author": "WinterIsComing"
+}

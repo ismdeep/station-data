@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat 为杀死 CentOS 发行版辩护",
+  "Link": "https://www.solidot.org/story?sid=66454",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCentOS 理事会成员 Karsten Wade 为 Red Hat 用 CentOS Stream 替代 CentOS 发行版\u003ca href=\"https://www.theregister.com/2020/12/22/red_hat_defends_its_centos/\"\u003e\u003cu\u003e辩护\u003c/u\u003e\u003c/a\u003e，称两个项目是“对立的”，Stream 是 CentOS 的一个令人满意的替代。CentOS Linux 是企业发行版 Red Hat Enterprise Linux (RHEL) 的下游发行版，而 CentOS Stream 则是 RHEL 的上游发行版。作为  RHEL 的免费替代，CentOS 非常受欢迎。Wade  证实废弃 CentOS 的决定是 Red Hat 推动的，表示理事会批准了这一决定。对于 CentOS 留下的空白，他表示 Stream 能覆盖现有用户 95% 的工作负荷。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-23T07:50:24Z",
+  "Author": "WinterIsComing"
+}

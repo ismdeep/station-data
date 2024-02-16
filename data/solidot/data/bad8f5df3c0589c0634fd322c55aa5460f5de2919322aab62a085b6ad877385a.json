@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 应用支持加入到 Windows 11 Beta",
+  "Link": "https://www.solidot.org/story?sid=69320",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在宣布  Windows 11 时透露它能运行 Android 应用。Windows 11 将引入 Windows Subsystem for Android （WSA）子系统，类似 Windows Subsystem for Linux (WSL)。但本月初 Windows 11 正式发布时该功能还没有做好准备，现在微软\u003ca href=\"https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/\"\u003e\u003cu\u003e开始向 Windows 11 Beta 通道用户提供 WSA\u003c/u\u003e\u003c/a\u003e。微软官方博客表示，它与英特尔和亚马逊合作向美国地区的合格设备提供 WSA 和亚马逊应用商店 Amazon Appstore 的预览版，Windows 11 Beta 用户可以通过亚马逊应用商店下载各种 Android 应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-21T07:03:25Z",
+  "Author": "WinterIsComing"
+}

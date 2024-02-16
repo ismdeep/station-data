@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 内核维护者封杀明尼苏达大学",
+  "Link": "https://www.solidot.org/story?sid=67561",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t明尼苏达大学的博士生 Qiushi Wu 和助理教授 \u003ca href=\"https://www-users.cs.umn.edu/~kjlu/\"\u003e\u003cu\u003eKangjie Lu\u003c/u\u003e\u003c/a\u003e 发表了论文《\u003ca href=\"https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf\"\u003e\u003cu\u003eOn the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits\u003c/u\u003e\u003c/a\u003e》，通过有意向内核递交含有安全漏洞的补丁测试悄悄向开源软件引入漏洞的可行性。两位研究人员称，他们向大学的评审委员会递交了实验申请，因为不涉及人类研究评审会批准了他们的实验。而当他们的补丁获得维护者的积极评价之后，他们立即通知维护者补丁是有漏洞，不要合并存在问题的补丁。他们的论文将在五月举行的 IEEE Symposium on Security and Privacy 虚拟会议上公开发表。Linux 内核社区随后知道了这次实验，但当有更多明尼苏达大学的研究人员递交存在疑问的补丁之后，稳定版内核维护者 Greg \u003cspan\u003eKroah\u003c/span\u003e-Hartman \u003ca href=\"https://twitter.com/gregkh/status/1384785747874656257\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e不再接受该大学的任何补丁，称内核开发者不愿意被做实验，内核也不是做实验的地方，研究人员是在浪费维护者的时间。此举也可能是向\u003ca href=\"https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/\"\u003e大学施压\u003c/a\u003e，希望评审会不要再批准此类的实验。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-21T15:24:54Z",
+  "Author": "WinterIsComing"
+}

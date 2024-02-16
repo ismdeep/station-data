@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "InfluxDB 的未来将基于 Rust 和 Apache Arrow",
+  "Link": "https://www.solidot.org/story?sid=66065",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用 Go 语言开发的开源时序型数据库 InfluxDB \u003ca href=\"https://www.influxdata.com/blog/announcing-influxdb-iox/\"\u003e\u003cu\u003e宣布了未来的开发计划\u003c/u\u003e\u003c/a\u003e：InfluxDB IOx，用 Rust 语言开发，使用\u003ca href=\"https://arrow.apache.org/\" target=\"_blank\"\u003e\u003cu\u003e Apache Arrow\u003c/u\u003e\u003c/a\u003e 和柱列式数据结构。InfluxDB 项目创始人 Paul Dix 称，Rust 能给予运行时行为和内存管理更细粒度控制，它带来的额外好处是并发编程更容易消除了数据竞争。InfluxDB IOx 目前还处于早期开发阶段，计划明年初发布  alpha 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-11T09:30:31Z",
+  "Author": "WinterIsComing"
+}

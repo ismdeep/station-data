@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Slackware 15.0 发布最后一个 RC 版本",
+  "Link": "https://www.solidot.org/story?sid=70365",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t至今仍在维护的历史最悠久的 Linux 发行版 Slackware \u003ca href=\"http://www.slackware.com/changelog/current.php?cpu=i386\" target=\"_blank\"\u003e\u003cu\u003e释出了 15.0 RC3\u003c/u\u003e\u003c/a\u003e，第三个也是最后一个预发行版本，正式版本的发布日益逼近，目前代码基本上 99% 冻结，发布前主要是修 bug 或解决性能下降问题。Slackware 的上一个稳定版本 14.2 是在 2016 年发布的。Slackware 15.0 的主要变化包括：KDE Plasma 5.21、Xfce 4.16 和 GNOME 3.36/3.38，其它应用包括 Python 3.9，Mozilla Firefox 91.3 和 Thunderbird 91.5 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-14T06:29:43Z",
+  "Author": "WinterIsComing"
+}

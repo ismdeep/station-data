@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stability AI 发布 Stable Video Diffusion",
+  "Link": "https://www.solidot.org/story?sid=76688",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAI 创业公司 Stability AI 发布了它的视频生成模型 Stable Video Diffusion，源代码采用 MIT License 发布在 GitHub 上，权重发布在 Hugging Face 上。Stable Video Diffusion 基于 Stable Diffusion，有两种输出形式，能以每秒 3-30 帧的定制帧速生成 14 和 25 帧。Stability AI 称其模型的表现好于私有模型。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://stability.ai/news/stable-video-diffusion-open-ai-video-model\u003cbr/\u003e\nhttps://github.com/Stability-AI/generative-models\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-22T06:20:53Z",
+  "Author": "Wilson"
+}

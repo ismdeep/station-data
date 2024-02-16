@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 90 终止支持 FTP",
+  "Link": "https://www.solidot.org/story?sid=68356",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 90 终止了对 FTP 协议的支持，Mozilla 给出的最主要理由是安全。\u003ca href=\"https://blog.mozilla.org/security/2021/07/20/stopping-ftp-support-in-firefox-90/\" target=\"_blank\"\u003e\u003cu\u003e官方博客称\u003c/u\u003e\u003c/a\u003e，最大的安全风险是 FTP 以明文传输数据，允许攻击者窃取、欺骗甚至修改传输的数据。至今很多恶意程序的传播是通过入侵 FTP 服务器，通过 FTP 协议下载恶意程序到终端用户的设备上。FTP 协议从 Firefox 88 起就被禁用了，Firefox 90 正式终止了对 FTP 协议的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-22T13:45:11Z",
+  "Author": "WinterIsComing"
+}

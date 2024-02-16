@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 20.3 \"Una\" 发布",
+  "Link": "https://www.solidot.org/story?sid=70302",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux Mint 发行版宣布释出 20.3 (\u0026#34;Una\u0026#34;) ，包含三种不同桌面环境：\u003ca href=\"https://blog.linuxmint.com/?p=4220\"\u003eCinnamon\u003c/a\u003e、\u003ca href=\"https://blog.linuxmint.com/?p=4219\"\u003eMATE\u003c/a\u003e 和 \u003ca href=\"https://blog.linuxmint.com/?p=4218\"\u003eXfce\u003c/a\u003e。 Mint 20.3 是一个长期支持版本，将一直支持到 2025 年。每一个不同桌面环境有着不同的新功能——\u003ca href=\"https://www.linuxmint.com/rel_una_cinnamon_whatsnew.php\"\u003eCinnamon\u003c/a\u003e、\u003ca href=\"https://www.linuxmint.com/rel_una_mate_whatsnew.php\"\u003eMATE\u003c/a\u003e 和 \u003ca href=\"https://www.linuxmint.com/rel_una_xfce_whatsnew.php\"\u003eXfce\u003c/a\u003e)，以 \u003ca href=\"https://www.linuxmint.com/rel_una_cinnamon.php\"\u003eCinnamon\u003c/a\u003e 版本为例：默认禁用了 Snap 应用商店（即 Ubuntu Store），原因是安全风险和控制集中的争议；Hypnotix IPTV 支持暗色模式，支持 Xtream API；文档管理器 Thingy；Sticky 笔记应用支持搜索；外观主题，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-10T07:05:40Z",
+  "Author": "WinterIsComing"
+}

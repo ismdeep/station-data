@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《堡垒之夜》诉讼案披露有多达 1.28 亿苹果用户下载了包含 XcodeGhost 的应用",
+  "Link": "https://www.solidot.org/story?sid=67718",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEpic Games 和苹果公司围绕《堡垒之夜》内置支付系统的诉讼案披露了 2015 年发生的至今苹果生态系统最严重安全事故的影响规模。2015 年，有中国黑客利用 Xcode 编译器在中国网络下载缓慢的弱点以及中国大型互联网企业缺乏内部监管的缺点发布了修改版本，修改版的 Xcode 编译器能在编译中将后门恶意程序嵌入到 iOS 应用中，该恶意程序被称为 \u003ca href=\"https://www.solidot.org/story?sid=45575\"\u003e\u003cu\u003eXcodeGhost\u003c/u\u003e\u003c/a\u003e，一开始主要影响中国，但之后扩散到美国等地区。根据苹果内部电子邮件披露的\u003ca href=\"https://www.vice.com/en/article/n7bbmz/the-fortnite-trial-is-exposing-details-about-the-biggest-iphone-hack-of-all-time\"\u003e\u003cu\u003e数据\u003c/u\u003e\u003c/a\u003e，有超过 2500 款应用感染了 XcodeGhost，这些应用被全世界 1.28 亿用户下载，其中美国用户 1800 万，总下载量 2.03 亿次。中国占到了 55% 的受影响用户和 66% 的下载量。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-08T13:59:30Z",
+  "Author": "WinterIsComing"
+}

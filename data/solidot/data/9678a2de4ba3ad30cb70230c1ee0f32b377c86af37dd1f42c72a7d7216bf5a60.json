@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意 Tor 出口节点如何利用用户",
+  "Link": "https://www.solidot.org/story?sid=65203",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 出口节点是构成 Tor 回路的三个中继的最后一跳，连接了 Tor 匿名网络与开放互联网。根据目标网站使用的是 HTTPS 还是 HTTP 协议，决定了出口节点是否能看到和操纵用户访问的内容。研究人员报告，\u003ca href=\"https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac\" target=\"_blank\"\u003e\u003cu\u003e恶意 Tor 出口节点的情况过去几个月恶化了\u003c/u\u003e\u003c/a\u003e，恶意出口节点的比例占到了所有出口节点的 24%。这意味着 Tor 浏览器用户有很高的可能性会通过恶意出口节点访问目标网站。恶意出口节点背后的运营者会对 Tor 用户发动中间人攻击，选择性的移除 HTTP-to-HTTPS 重定向，利用被称为 ssl stripping 的方法让目标网站通过 HTTP 而不是 HTTPS 加密连接访问，攻击者将能看到 Tor 用户访问的明文内容，并根据需要修改传输的内容。攻击者主要针对的是数字货币相关的网站，会修改 HTTP 明文流量中的钱包地址，用自己控制的钱包地址替换用户传输的地址，窃取比特币。此类的攻击并非罕见，但攻击规模如此巨大则是前所未有。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-10T13:00:44Z",
+  "Author": "WinterIsComing"
+}

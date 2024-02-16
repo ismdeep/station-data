@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MIPS 宣布其 RISC-V 处理器设计",
+  "Link": "https://www.solidot.org/story?sid=71498",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMIPS 已经\u003ca href=\"https://www.solidot.org/story?sid=67144\"\u003e\u003cu\u003e投奔\u003c/u\u003e\u003c/a\u003e RISC-V 阵营。MIPS Tech 不再开发自己的 MIPS CPU 指令集架构，它刚刚\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=MIPS-New-RISC-V-May-2022\" target=\"_blank\"\u003e宣布了\u003c/a\u003e自己的 RISC-V 设计 eVocore P8700 和 I8500，\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=MIPS-New-RISC-V-May-2022\" target=\"_blank\"\u003e\u003cu\u003e声称在性能和可扩展性处于领先\u003c/u\u003e\u003c/a\u003e。MIPS eVocore P8700 能扩展到 64 个集群、512 个核心和 1024 个线程，预计第四季度公布。eVocore I8500 针对的是注重效率的 SoC 应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-11T08:51:56Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯政府黑客利用物联网入侵网络",
+  "Link": "https://www.solidot.org/story?sid=61621",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软安全研究人员通过官方博客\u003ca href=\"https://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/\"\u003e\u003cu\u003e发出警告\u003c/u\u003e\u003c/a\u003e，为俄罗斯政府工作的黑客正利用各种物联网设备如打印机和视频解码器作为立足点渗透到目标的网络中。一旦进入到网络，攻击者只需要简单执行网络扫描去寻找其它不安全的设备，发现更高权限的账号从而访问到更高价值的数据。微软研究人员是在今年四月发现利用物联网的攻击行动。俄罗斯黑客利用了 IP 电话、打印机和视频解码器，其中两起案例中，设备使用的是默认很容易猜测出的秘密，另外一起案例的设备使用了存在已知漏洞的固件。微软认为，发起攻击的是与俄罗斯政府有关联的黑客组织 Strontium，aka Fancy Bear 或 APT28。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-06T08:42:34Z",
+  "Author": "wenfeixiang"
+}

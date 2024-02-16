@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "高通芯片漏洞影响三成智能手机",
+  "Link": "https://www.solidot.org/story?sid=67711",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t全世界大约有三成智能手机受高通调制解调器芯片的\u003ca href=\"https://therecord.media/an-estimated-30-of-all-smartphones-vulnerable-to-new-qualcomm-bug/\"\u003e一个新漏洞的影响\u003c/a\u003e。该漏洞编号 CVE-2020-11292，位于高通的 mobile station modem (MSM)芯片中。该芯片用于连接移动网络，是最广泛使用的移动芯片之一，全世界大约四成的智能手机使用了高通的 MSM 芯片，但真正受影响的只有三成。以色列安全公司 Check Point 的研究人员从 Qualcomm MSM Interface (QMI)协议中\u003ca href=\"https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/\"\u003e\u003cu\u003e发现了一个漏洞\u003c/u\u003e\u003c/a\u003e，该协议允许芯片与手机操作系统进行通信，使用 MSM 芯片的手机没有都包含 QMI 协议。研究人员称，通过 QMI 协议接收的畸形 Type-Length-Value (TLV)数据包能触发缓冲溢出，允许攻击者执行其代码。研究人员称，漏洞利用无法隐藏在第三方应用，但能隐藏在蜂窝通信或多媒体内容中。Check Point 在去年通知了高通，补丁也已经提供给了 Android 厂商，但不清楚 Android 厂商是否会向受影响设备推送补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-08T01:35:40Z",
+  "Author": "WinterIsComing"
+}

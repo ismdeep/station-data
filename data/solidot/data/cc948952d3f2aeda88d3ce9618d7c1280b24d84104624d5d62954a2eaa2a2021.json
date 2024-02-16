@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "elementary OS 6 发布",
+  "Link": "https://www.solidot.org/story?sid=68513",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\telementary OS 桌面发行版\u003ca href=\"https://blog.elementary.io/elementary-os-6-odin-released/\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e代号为 Odin 的 elementary OS 6。elementary OS 使用神话中的人物命名，如 5.0 版命名为 Juno，为罗马主神朱庇特之妻，而 Odin 则是北欧神话中的主神奥丁。elementary OS 设计易于使用，新版本的主要特性包括：新的夜间模式主题；应用中心 AppCenter 中所有应用都使用 Flatpaks 格式打包发行，Flatpaks 是Red Hat 主导开发的打包格式；支持多点触摸；重新设计了邮件客户端，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-11T10:45:06Z",
+  "Author": "WinterIsComing"
+}

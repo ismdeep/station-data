@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 修复 Chrome 79 数据丢失 bug",
+  "Link": "https://www.solidot.org/story?sid=62978",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.zdnet.com/article/google-fixes-chrome-79-data-loss-bug-on-android/\" target=\"_blank\"\u003e\u003cu\u003e开始推送更新\u003c/u\u003e\u003c/a\u003e修复上周曝出的 Chrome 79 数据丢失 bug。该 bug 主要影响基于 WebView/Chrome 的 Android 应用，原因是 Chrome 79 改变了 user profile 目录的位置，AppCache、File System、localStorage、IndexedDB、Service Workers 和 WebSQL 等 API 生成的用户数据留在了旧的目录，没有迁移到新的目录，结果就是升级到新版本的用户发现许多 Android 应用突然重置、数据丢失或账号锁定。在开发者报告之后，Google Chrome 团队暂停了更新推送。Google 发言人称，用户数据仍然是完整的，在更新之后所有受影响的数据将会恢复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T05:57:11Z",
+  "Author": "WinterIsComing"
+}

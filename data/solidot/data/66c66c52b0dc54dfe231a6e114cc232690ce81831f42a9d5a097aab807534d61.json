@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FAA 系统中断原因是数据库文件损坏",
+  "Link": "https://www.solidot.org/story?sid=73878",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFAA 的空中任务通知系统 NOTAMs (Notice to Air Missions) 周三发生严重故障，一度导致全美停飞航班。FAA 表示初步判断问题根源是一个受损的数据库文件，没有证据表明这是一次网络攻击。NOTAMs 的备份系统也发现有文件受损。计算机问题在周二晚些时候就出现了，FAA 采取的做法是在周三凌晨航班比较少的情况下重启了系统，这需要 90 分钟时间，但在重启之后系统的功能没有完全恢复，FAA 在东部时间早晨 7:30 下达了全美的停飞令，导致了大规模航班延误和机场瘫痪。FAA 的这起事故凸显了其老化的基础设施需要大规模翻修。因为预算问题，FAA 推迟了技术更新，知情人士认为该机构现在应该会寻找预算更新系统。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://edition.cnn.com/travel/article/faa-ground-stop-causes/index.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-12T10:18:11Z",
+  "Author": "Wilson"
+}

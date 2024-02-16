@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "埃及使用 Google Play 传播间谍应用",
+  "Link": "https://www.solidot.org/story?sid=62179",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t很可能与埃及政府有关联的黑客组织使用官方应用商店 Google Play 去传播间谍应用，他们针对的目标包括记者、律师和反对派政客。安全公司  Check Point Technologies \u003ca href=\"https://arstechnica.com/information-technology/2019/10/egypt-used-google-play-in-spy-campaign-targeting-its-own-citizens-researchers-say/\"\u003e披露\u003c/a\u003e，黑客组织使用的一个间谍应用叫 IndexY，主要功能是查询电话号码，它需要的一个权限是访问呼叫历史和联络人，虽然权限敏感，就其功能而言似乎是合理的。然而在背后它记录了每一次呼入呼出的电话，以及日期和时间。应用硬编码了域名  indexy[.]org，该域名上的文件显示开发者积极的收集和分析呼叫信息。在被下架之前它的安装量大约 5000 次。Check Point  认为黑客组织使用了至少三种间谍应用，另外两种是  iLoud 200% 和 v1.apk。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-08T11:02:18Z",
+  "Author": "wenfeixiang"
+}

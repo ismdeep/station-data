@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "凹语言 v0.3.1 发布，支持多包",
+  "Link": "https://www.solidot.org/story?sid=73378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t小w同学 写道\u003ci\u003e \u0026#34;凹语言™（凹读音 “Wa”）是国内 Gopher 针对 WASM 平台设计的的通用编程语言，支持 Linux、macOS 和 Windows 等主流操作系统和 Chrome 等浏览器环境，同时也支持作为独立 Shell 脚本和被嵌入脚本模式执行。主页：https://wa-lang.org 。v0.3.1 更新内容：1. 完善 WAT 后端, 支持多包； 2. LLVM 后端支持基本数值运算 (依赖 clang 和 llc) ；3. wazero 更新到 v1.0.0-pre.3。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-16T02:30:55Z",
+  "Author": "WinterIsComing"
+}

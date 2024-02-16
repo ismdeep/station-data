@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "500 Chrome 扩展悄悄上传数百万用户的私人浏览数据",
+  "Link": "https://www.solidot.org/story?sid=63527",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://duo.com/labs/research/crxcavator-malvertising-2020\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，超过 500 个 Chrome 扩展被发现会\u003ca href=\"https://arstechnica.com/information-technology/2020/02/500-chrome-extensions-secretly-uploaded-private-data-from-millions-of-users/#p3\" target=\"_blank\"\u003e\u003cu\u003e悄悄将数百万用户的私人浏览数据上传\u003c/u\u003e\u003c/a\u003e到攻击者控制的服务器。Google 收到报告之后已将这些扩展全部移除。这些扩展属于一个运行了很长时间的恶意广告欺诈计划的一部分，独立研究员  Jamila Kaya 和思科 Duo Security 的研究人员识别了 71 个安装量超过 170 万次的  Chrome Web Store 扩展，Google 在收到报告之后识别了另外 430 个功能类似扩展。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-14T08:28:17Z",
+  "Author": "WinterIsComing"
+}

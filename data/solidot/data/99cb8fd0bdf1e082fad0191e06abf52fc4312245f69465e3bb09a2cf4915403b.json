@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Django 4.0 RC1 发布",
+  "Link": "https://www.solidot.org/story?sid=69714",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWeb 开发框架 Django 释出了 4.0 的\u003ca href=\"https://www.djangoproject.com/weblog/2021/nov/22/django-40-rc1/\" target=\"_blank\"\u003e\u003cu\u003e首个预发布版本\u003c/u\u003e\u003c/a\u003e，正式版本计划在 12 月 6 日左右发布，如有延迟会通过开发者邮件列表通知。Django 4.0 的\u003ca href=\"https://docs.djangoproject.com/en/4.0/releases/4.0/\"\u003e\u003cu\u003e主要变化\u003c/u\u003e\u003c/a\u003e包括：支持 Python 3.8、3.9 和 3.10，Django 3.2.x 系列是支持 Python 3.6 和  3.7 的最后版本；默认时区实现 zoneinfo；新密码哈希函数 scrypt，但因为需要更多内存和 OpenSSL 1.1+ 没有默认启用；Redis 缓存后端；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-23T04:12:38Z",
+  "Author": "WinterIsComing"
+}

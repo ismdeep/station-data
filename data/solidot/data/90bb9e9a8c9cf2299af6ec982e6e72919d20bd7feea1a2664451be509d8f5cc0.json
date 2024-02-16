@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "汇丰将 65 个关系数据库迁移到一个全球数据库",
+  "Link": "https://www.solidot.org/story?sid=64662",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t跨国公司在绝大部分国家的分支都运行着相同的软件，但软件的版本不完全相同。在每一个国家它都需要定制功能去满足当地的需要，以及遵守当地的监管要求。维护应用程序的同一个版本和同一种数据模型基本上是不可能的。结果是他们需要多个关系数据库，这增加了维护的复杂性和开销。汇丰数据设计师 Narasimha Reddy 在  MongoDB.Live 上\u003ca href=\"https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，为了简化应用交付该银行正将 65 个关系数据库迁移到一个全球 MongoDB 数据库，它在各国的分支机构不再需要维护一个不同的数据库。这将能减少成本，增加灵活性，更容易进行全球的分析和报告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-15T07:51:13Z",
+  "Author": "WinterIsComing"
+}

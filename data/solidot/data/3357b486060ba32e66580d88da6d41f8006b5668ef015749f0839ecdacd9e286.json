@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国政府和军事网站被发现地理屏蔽来自中国和香港地区访问",
+  "Link": "https://www.solidot.org/story?sid=65216",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"/~净网2020\"\u003e净网2020\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;美国国务卿蓬佩奥最近的有关“净网”的\u003ca href=\"https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/\"\u003e声明\u003c/a\u003e，引发了中美两国有关网络技术军备竞赛的担忧。密歇根大学审查星球（\u003cspan class=\"text-slate\"\u003eCensored Planet\u003c/span\u003e）最近\u003ca href=\"https://censoredplanet.org/hongkong\" target=\"_blank\"\u003e一项研究表明\u003c/a\u003e，美国政府已经开始采取措施，阻止来自中国 IP 地址的访问。有意思的是，这项限制还适用于香港地区。2020 年 6 月下旬，一位《华尔街日报》记者向审查星球提供了 59 个无法在香港访问的美国政府和军事网站。经过审查星球深入的调查发现 DNS 解析器遭到地理屏蔽，TCP 路由跟踪表明网站管理员采取了基于 IP 的屏蔽方式，一些网站的访问展示了 403 页面。香港地区和中国大陆的测试结果非常相似，表明其政策可能相同。审查星球认为美国对世界某些地区采用地理屏蔽，为因特网开放式交流开创了危险的先例，“净网”则加剧了这种担忧。审查星球将积极监测这一变化，并收集能提升该严厉政策透明度的数据。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-11T13:29:41Z",
+  "Author": "WinterIsComing"
+}

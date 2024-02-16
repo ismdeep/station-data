@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软修补了被黑客利用的 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=67179",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年 1 月，Google \u003cu\u003e\u003ca href=\"https://www.solidot.org/story?sid=66772\"\u003e警告\u003c/a\u003e有\u003c/u\u003e黑客组织对安全研究员发动了针对性攻击。为了建立信誉和联系安全研究员，黑客首先创建了安全博客和 Twitter 账号与潜在目标进行互动，然后发帖发视频声称完成了某个漏洞利用。在与目标建立初步联系之后，黑客会询问目标是否愿意共同研究漏洞，然后提供一个 Visual Studio 项目，其中包含了一个定制的恶意程序 DLL。除了社会工程攻击外，黑客还成功入侵了访问他们博客的安全研究员的计算机系统。当时受害者的系统打了最新的补丁，Google 当时表示他们暂时还不知道入侵机制。微软在周二的例行安全更新中\u003ca href=\"https://arstechnica.com/gadgets/2021/03/microsoft-patches-critical-0day-that-north-korea-used-to-target-researchers/#p3\" target=\"_blank\"\u003e修复了\u003c/a\u003e编号为 \u003ca href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26411\"\u003e\u003cu\u003eCVE-2021-26411\u003c/u\u003e\u003c/a\u003e 的高危漏洞，堵上了被朝鲜黑客利用的 0day。CVE-2021-26411 是一个内存损坏漏洞，影响 IE 和 Edg。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-11T13:34:21Z",
+  "Author": "WinterIsComing"
+}

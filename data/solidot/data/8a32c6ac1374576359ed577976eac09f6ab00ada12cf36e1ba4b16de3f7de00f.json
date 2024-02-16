@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 3.0 将支持基于 AMD HIP 的 GPU 加速",
+  "Link": "https://www.solidot.org/story?sid=69632",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名的开源 3D 图形软件项目 Blender 预计将在 12 月发布 v3.0 版本。Blender 3.0 将部分重写核心的 Cycles 渲染引擎（被称为 \u003ca href=\"https://code.blender.org/2021/04/cycles-x/\"\u003e\u003cu\u003eCycles X\u003c/u\u003e\u003c/a\u003e），以技术和性能理由移除对 AMD GPU 的 OpenCL 渲染支持。AMD 和 Blender 项目紧密合作使用 AMD HIP API\u003ca href=\"https://gpuopen.com/blender-cycles-amd-gpu/?utm_source=twitter\u0026amp;utm_medium=social\u0026amp;utm_campaign=blender\" target=\"_blank\"\u003e\u003cu\u003e 改进 GPU 渲染支持\u003c/u\u003e\u003c/a\u003e，确保 AMD GPU 用户能充分利用 Cycles X 带来的所有增强。HIP C++ Runtime API 应该能提供比 OpenCL C Runtime API 更好的性能，不过它只支持 RDNA2 架构的 AMD 显卡，能支持 RDNA1 显卡但不保证支持完善，之前几代的 AMD 显卡则都不支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-16T07:44:04Z",
+  "Author": "WinterIsComing"
+}

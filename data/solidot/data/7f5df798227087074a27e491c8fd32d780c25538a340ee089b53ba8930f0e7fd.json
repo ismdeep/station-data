@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用智能合约漏洞窃取 3100 万美元加密货币",
+  "Link": "https://www.solidot.org/story?sid=69843",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客利用区块链创业公司 MonoX Finance 智能合约的漏洞\u003ca href=\"https://arstechnica.com/information-technology/2021/12/hackers-drain-31-million-from-cryptocurrency-service-monox-finance/\" target=\"_blank\"\u003e\u003cu\u003e窃取了\u003c/u\u003e\u003c/a\u003e价值 3100 万美元的加密货币。该公司使用名为 MonoX 的去中心化金融协议让用户在没有传统交易所要求的情况下交易数字货币代币。其原理是将存入的代币与 vCASH 组合成一个虚拟对，设计提供单一的代币池。在此次攻击中，黑客利用相同的代币作为 tokenIn 和 tokenOut——也就是用一种代币交易另一种代币，每次交易之后 MonoX 会通过计算更新价格，用户发送的代币 tokenIn 的价格会下降，而收到的代币价格会增加。tokenIn 和 tokenOut 使用相同的代币进行交易本来是不允许的，但 MonoX 的软件漏洞允许交易发生，让黑客能人为抬高 MONO 代币的价格，然后在以太坊和 Polygon 区块链上兑换了价值 3100 万美元的加密货币。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-02T06:52:37Z",
+  "Author": "WinterIsComing"
+}

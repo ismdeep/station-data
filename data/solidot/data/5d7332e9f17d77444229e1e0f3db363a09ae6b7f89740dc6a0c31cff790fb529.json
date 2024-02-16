@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出更新简化 Windows 11 用户更改默认浏览器",
+  "Link": "https://www.solidot.org/story?sid=71099",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软释出更新 KB5011563，\u003ca href=\"https://www.theverge.com/2022/3/29/23001277/microsoft-windows-11-default-browser-new-options\"\u003e\u003cu\u003e简化了\u003c/u\u003e\u003c/a\u003e Windows 11 用户更改默认浏览器。Windows 11 在发布之初更改默认浏览器相当繁琐，用户需要修改一遍 HTM、HTML、PDF、SHTML、SVG,、WEBP、XHT、XHTML、FTP、HTTP 和 HTTPS 等文件类型和链接类型打开的默认浏览器。浏览器开发商 Mozilla、Brave，甚至 Chrome 都批评了微软的做法。最新的补丁允许用户通过一次点击改变默认的浏览器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-30T06:04:16Z",
+  "Author": "WinterIsComing"
+}

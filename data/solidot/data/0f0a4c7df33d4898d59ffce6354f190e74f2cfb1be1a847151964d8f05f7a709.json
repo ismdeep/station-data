@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布 FSR 2.0",
+  "Link": "https://www.solidot.org/story?sid=70995",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 宣布了 \u003ca href=\"https://community.amd.com/t5/gaming/announcing-and-first-look-at-amd-fidelityfx-super-resolution-2-0/ba-p/516395\"\u003e\u003cu\u003eFSR 2.0\u003c/u\u003e\u003c/a\u003e，将在下周举行的游戏开发者大会上公布更多细节。AMD 是在去年发布了 \u003ca href=\"https://www.amd.com/zh-hans/technologies/fidelityfx-super-resolution\"\u003e\u003cu\u003eFidelityFX Super Resolution（FSR\u003c/u\u003e\u003c/a\u003e），运用空间提升算法实现超高画质的边缘和细节，帮助提高部分游戏的帧率。FSR 不同于英伟达的 Deep Learning Super Sampling (DLSS)，没有使用 AI 训练模型，而是采用传统图像处理算法，其优点是容易整合到游戏中，支持旧显卡，甚至包括竞争对手的旧显卡。DLSS 需要英伟达显卡上的专门硬件重构图像，它甚至能重建出比原生画质更高的像素数。FSR 依赖和受制于游戏的基本像素，难以真正挑战 DLSS。这是 AMD 在 FSR 2.0 中准备改进的地方：新技术能预测和绘制图像，取代传统的抗锯齿技术 TAA。FSR 2.0 预计将在第二季度正式推出，AMD 尚未透露更多技术细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-19T10:17:38Z",
+  "Author": "WinterIsComing"
+}

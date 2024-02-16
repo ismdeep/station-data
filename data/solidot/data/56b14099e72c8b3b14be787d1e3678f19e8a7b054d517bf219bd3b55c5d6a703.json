@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员在 AI 的神经元隐藏恶意程序",
+  "Link": "https://www.solidot.org/story?sid=68371",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据发表在预印本网站 arXiv 上的\u003ca href=\"https://arxiv.org/abs/2107.08590\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e，中科院大学的三名研究人员报告恶意程序能在不被发现的情况下\u003ca href=\"https://www.vice.com/en/article/bvzp78/researchers-hid-malware-inside-an-ais-neurons-and-it-worked-scarily-well\" target=\"_blank\"\u003e\u003cu\u003e嵌入到机器学习模型的人工神经元中\u003c/u\u003e\u003c/a\u003e。研究人员认为，随着神经网络的广泛使用，未来这种方法将会广泛用于传播恶意程序。使用真实的恶意程序样本，研究人员替换了 AlexNet 模型最多 50% 的神经元，而同时模型精度仍能保持在 93.1% 以上。研究人员称，利用隐写术他们能在 178MB 大小的 AlexNet 模型结构中嵌入最多 36.9MB 的恶意程序，部分模型测试了 58 种常用杀毒软件，这些安全软件没有检测出病毒。机器学习模型包含了数百万参数和复杂的神经元结构，研究人员发现，改变部分神经元对性能不会产生多少影响。恶意程序在嵌入到神经元时被拆解了，利用一个恶意接收程序可以将其重新组装成功能完整的恶意程序，而恶意程序在这个过程中会被检测出来。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-24T15:30:30Z",
+  "Author": "WinterIsComing"
+}

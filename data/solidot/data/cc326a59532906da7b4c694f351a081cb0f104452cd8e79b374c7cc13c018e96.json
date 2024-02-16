@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软测试在文件管理器中展示广告",
+  "Link": "https://www.solidot.org/story?sid=70952",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软 Windows 11 最新测试版本（ Insider build）测试在文件管理器中\u003ca href=\"https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/\" target=\"_blank\"\u003e\u003cu\u003e推广其自家产品\u003c/u\u003e\u003c/a\u003e。测试版用户在发现该功能后分享了屏幕截图：微软在系统默认的文件管理器上方显示文字广告推荐用户使用它的其它产品，如“write with confidence across documents, email, and the web with advanced writing suggestions from Microsoft Editor” 。用户抱怨称文件管理器是最不应该展示广告的地方，这一做法会将用户导向替代的文件管理器。目前看来微软没有对所有测试版用户展示广告，而是在进行某种 A/B 测试。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-15T12:13:33Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软或在设计自己的 ARM CPU",
+  "Link": "https://www.solidot.org/story?sid=66447",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t彭博社援引匿名消息来源\u003ca href=\"https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs?sref=SvwPxqpB\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，在苹果之后微软正在设计自己的 ARM CPU。消息来源称，微软正在设计的 CPU 是用于数据中心的，它还在探索为 Surface 产品线设计桌面级 CPU，类似苹果的 M1。消息人士称，数据中心用的 CPU 是“非常可能”，而 Surface 用的 CPU 则只是可能。软件巨人的芯片设计部门由微软  Azure 云业务副总裁负责。鉴于它在桌面领域与英特尔、AMD 和高通之间的密切关系，数据中心 CPU 确实更有可能。亚马逊就为它的数据中心设计了 Graviton 处理器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-22T11:57:00Z",
+  "Author": "WinterIsComing"
+}

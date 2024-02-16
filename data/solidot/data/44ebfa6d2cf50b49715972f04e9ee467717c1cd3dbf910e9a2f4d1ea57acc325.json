@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 90 支持 Fetch Metadata Request Headers",
+  "Link": "https://www.solidot.org/story?sid=68261",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla\u003ca href=\"https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/\"\u003e\u003cu\u003e 宣布\u003c/u\u003e\u003c/a\u003e Firefox 90 将支持 \u003ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers#fetch_metadata_request_headers\" target=\"_blank\"\u003e\u003cu\u003eFetch Metadata Request Headers\u003c/u\u003e\u003c/a\u003e，它能保护用户抵御多种跨源威胁如跨站请求伪造，跨站泄漏和预测跨站执行旁路攻击。新的 HTTP 请求头文件 Sec-Fetch-Site 允许 Web 应用服务器区分来自相应 Web 应用程序的同源请求和来自攻击者控制网站的跨源请求。通过检查 Sec-Fetch-* Headers 允许 Web 应用服务器拒绝或忽略恶意请求。总共有四种不同的  Sec-Fetch-* 请求头文件：Dest、Mode、Site 和 User。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-12T14:53:38Z",
+  "Author": "WinterIsComing"
+}

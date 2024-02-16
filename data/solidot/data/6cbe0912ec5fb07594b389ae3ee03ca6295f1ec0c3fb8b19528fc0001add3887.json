@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WireGuard 宣布 Windows 下的内核模式实现 WireGuardNT",
+  "Link": "https://www.solidot.org/story?sid=68483",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWireGuard 项目\u003ca href=\"https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e Windows 下  VPN 协议的内核模式实现 \u003ca href=\"https://www.wireguard.com/install/\"\u003e\u003cu\u003eWireGuardNT\u003c/u\u003e\u003c/a\u003e。WireGuard 在 Windows 下的早期实现是一个用 Go 语言开发的用户空间实现 wireguard-go。它在当时需要关联一个虚拟网络设备，WireGuard 作者 Jason Donenfeld 不满意 OpenVPN 项目提供的虚拟网络接口 tap-windows，因此从头实现了他自己的 \u003ca href=\"https://www.wintun.net/\"\u003eWintun\u003c/a\u003e。Wintun 相对于 tap-windows 而言是一大改进，OpenVPN 项目之后自己也实现了对 Wintun 的支持。但 wireguard-go 仍然需要持续的在内核空间和用户空间之间上下文切换。为了移除这一性能瓶颈，虚拟网卡和加密等整个堆栈都需要移到内核。测量\u003ca href=\"https://arstechnica.com/gadgets/2021/08/wireguard-goes-fully-windows-native-with-experimental-wireguardnt-driver/#p3\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，内核模式实现 WireGuardNT 比用户空间实现 wireguard-go 要快 10-25%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-07T06:49:54Z",
+  "Author": "WinterIsComing"
+}

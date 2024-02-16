@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发布了 OneDrive 的 64 位版本",
+  "Link": "https://www.solidot.org/story?sid=67444",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软预装在 Windows 10 操作系统中的云储存和同步软件 OneDrive 终于\u003ca href=\"https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-sync-64-bit-for-windows-now-in-public-preview/ba-p/2260619\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了\u003ca href=\"https://aka.ms/onedrive-64-bit-preview\" target=\"_blank\"\u003e\u003cu\u003e首个 64 位版本\u003c/u\u003e\u003c/a\u003e。该版本目前还是预览版本非正式版本。微软称，如果用户使用 64 位操作系统，计划使用到大文件或者文件数量很多，那么 64 位版本是正确的选择。但 64 位版本只支持 x86 不支持 ARM，如果使用的是  Windows 10 on ARM 电脑如 Surface，那么现阶段还是只能选择用 32 位版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-09T10:53:01Z",
+  "Author": "WinterIsComing"
+}

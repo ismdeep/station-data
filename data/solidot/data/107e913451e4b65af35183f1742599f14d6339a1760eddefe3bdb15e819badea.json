@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Krita 4.3 发布",
+  "Link": "https://www.solidot.org/story?sid=64713",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源数字绘图项目 Krita 释出了\u003ca href=\"https://krita.org/en/item/krita-4-3-0-released/\"\u003e\u003cu\u003e最新的 4.3 版\u003c/u\u003e\u003c/a\u003e。主要变化包括：全新的画笔预设，渐变映射过滤器加入彩色模式选项，全新的调色过滤器和高通滤波器，扩大了脚本 API，修正了渐变映射过滤器的内存泄露，改进了图层样式性能，等等。更多可查看\u003ca href=\"https://krita.org/en/krita-4-3-release-notes/\" target=\"_blank\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-19T14:05:08Z",
+  "Author": "WinterIsComing"
+}

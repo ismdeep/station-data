@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 构建自己的 Chromium 浏览器",
+  "Link": "https://www.solidot.org/story?sid=65993",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t基于 Debian Linux 和 Ubuntu 的桌面发行版 Linux Mint 项目\u003ca href=\"https://www.zdnet.com/article/linux-mint-introduces-its-own-take-on-the-chromium-web-browser/\" target=\"_blank\"\u003e\u003cu\u003e决定构建\u003c/u\u003e\u003c/a\u003e自己的 Chromium 浏览器。多年来，Linux Mint 一直使用 Ubuntu 构建的 Chromium 版本。但 Ubuntu 的开发商 Canonical 发布的 Chromium 版本开始从 APT 兼容的 DEB 包迁移到 Snap 打包格式。Snap 通过整合需要加载的不同库来减少依赖问题，但也存在容量过大启动过慢的缺陷。Canonical 强推 Snap 打包格式的做法已经在社区引发了争议，而 Linux Mint 早些时候\u003ca href=\"https://www.solidot.org/story?sid=64554\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e不会安装任何 Snap 应用。它现在决定利用源代码构建自己的 Chromium 版本。为了加快构建速度，Linux Mint 项目为此分配了一台高端计算机——Ryzen 9 3900、128GB RAM、NMVe——将构建时间从 6 个多小时减少到 1 个多小时。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-04T03:16:30Z",
+  "Author": "WinterIsComing"
+}

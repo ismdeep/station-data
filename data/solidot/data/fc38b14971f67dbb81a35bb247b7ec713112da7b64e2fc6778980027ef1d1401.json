@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司发现包含完整间谍软件功能的 Android 恶意程序",
+  "Link": "https://www.solidot.org/story?sid=67341",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Zimperium 的研究人员\u003ca href=\"https://blog.zimperium.com/new-advanced-android-malware-posing-as-system-update/\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e包含完整间谍软件功能的先进 Android 恶意程序。恶意程序伪装成系统更新，通过第三方应用商店传播。它的功能包括：窃取 IM 消息，窃取 IM 数据库文件（如果可以 root），检查默认浏览器的书签和搜索，检查 Google Chrome、 Mozilla Firefox 和 Samsung Internet Browser 的书签和搜索历史，搜索特定扩展  .pdf、.doc、 .docx、.xls 和 .xlsx 的文件，检查剪贴板数据，检查通知内容，记录音频，记录电话呼叫，利用前置或后置摄像头定期拍照，窃取照片和视频，跟踪 GPS 位置，窃取短信，等等。受影响的消息应用包括 WhatsApp。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-29T09:03:23Z",
+  "Author": "WinterIsComing"
+}

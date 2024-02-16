@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Exchange 遭遇 2022 年 bug",
+  "Link": "https://www.solidot.org/story?sid=70223",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用户通过社交媒体\u003ca href=\"https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，从 1 月 1 日起微软的 Microsoft Exchange 服务器无法发送邮件。原因被发现是 FIP-FS 扫描引擎\u003ca href=\"https://it.slashdot.org/story/22/01/01/2333225/year-2022-bug-breaks-email-delivery-for-microsoft-exchange-on-premise-servers\"\u003e\u003cu\u003e导致的\u003c/u\u003e\u003c/a\u003e。从 Exchange Server 2013 起，微软默认启用了 FIP-FS 反垃圾邮件和反恶意软件扫描引擎。微软使用了一个有符号 32 位整型变量储存日期值，其最大值为 2,147,483,647，而 2022 年日期的最小值为  2,201,010,001，大于最大值，导致了扫描引擎初始化失败，无法释放邮件。微软已经创建了\u003ca href=\"https://techcommunity.microsoft.com/t5/exchange-team-blog/email-stuck-in-transport-queues/ba-p/3049447\"\u003e\u003cu\u003e一个脚本\u003c/u\u003e\u003c/a\u003e解决这个问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-02T16:02:16Z",
+  "Author": "WinterIsComing"
+}

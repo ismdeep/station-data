@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 将自动让用户使用双因素认证",
+  "Link": "https://www.solidot.org/story?sid=67708",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 负责身份和用户安全的高管  Mark Risher 宣称，密码是在线安全的最大单一威胁，因为密码容易被窃取，强密码则很难记住，最终迫使用户重复利用密码。如果密码失窃，那么会有多个账号面临风险。Google 已经支持使用双因素认证（2FA）保护账号安全，但 2FA 是可选的。现在，Mark Risher 表示 Google 准备\u003ca href=\"https://www.pcworld.com/article/3617949/google-will-make-two-factor-authentication-mandatory-soon.html\"\u003e\u003cu\u003e让有“合适配置”的用户账号自动使用 2FA\u003c/u\u003e\u003c/a\u003e。用户可选择不使用。所谓“合适配置”是指用户已经有账号的恢复信息，如手机号码或额外的电邮。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-07T14:33:20Z",
+  "Author": "WinterIsComing"
+}

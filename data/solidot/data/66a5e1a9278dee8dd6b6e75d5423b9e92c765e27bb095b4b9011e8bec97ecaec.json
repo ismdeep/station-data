@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "缺乏资助不是开源软件安全的唯一问题",
+  "Link": "https://www.solidot.org/story?sid=70153",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLog4j 高危漏洞再次引发了开源软件安全的讨论，许多人认为开源软件主要是维护者在业余时间维护，他们严重缺乏资助。但开源软件安全基金会总经理 \u003ca href=\"https://en.wikipedia.org/wiki/Brian_Behlendorf\" target=\"_blank\"\u003e\u003cu\u003eBrian Behlendorf\u003c/u\u003e\u003c/a\u003e 指出缺乏资助不是开源软件安全的\u003ca href=\"https://openssf.org/blog/2021/12/16/open-source-foundations-must-work-together-to-prevent-the-next-log4shell-scramble/\"\u003e\u003cu\u003e唯一问题\u003c/u\u003e\u003c/a\u003e。他\u003ca href=\"https://news.slashdot.org/story/21/12/25/0552232/will-it-take-more-than-open-source-funding-to-prevent-the-next-log4j\"\u003e\u003cu\u003e概述了\u003c/u\u003e\u003c/a\u003e降低安全风险的七个要点，包括安全扫描、外部审计、依赖性跟踪、框架测试、整个组织范围内的安全团队，要求项目删除旧的、有漏洞的代码。他指出太多的组织未能应用筹集到的资金或设定标准流程去改进安全实践，不明智的热衷于增加代码行数而不是改善代码质量。他说没有谈论资金并不是钱不重要，开源开发者及其支持者应该得到更多报酬和更多的赞美，但如果你说给开源维护者更多钱他们就能写出更安全的代码，这事实上是一种侮辱。公地悲剧的发生是因为下游用户以为上游开发者已在安全方面做到位了，以为酬劳由他人支付他们可以搭便车。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-28T04:10:50Z",
+  "Author": "WinterIsComing"
+}

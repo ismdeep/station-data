@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Valve 推出 Steam Deck 兼容性项目",
+  "Link": "https://www.solidot.org/story?sid=69283",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tValve 正准备在年底发售 Steam Deck 掌机，但发布之后，庞大的 Steam 游戏库究竟有多少游戏能完美兼容掌机？Valve 为解决这个问题\u003ca href=\"https://www.steamdeck.com/zh-cn/verified\" target=\"_blank\"\u003e\u003cu\u003e推出了 Steam Deck 兼容性项目\u003c/u\u003e\u003c/a\u003e。Steam Deck 运行的 Linux 系统，通过 Proton 兼容 Windows 游戏，Valve 将根据四个标准——输入，游戏有完整的控制器支持；显示，游戏支持默认分辨率（1280x800 或 1280x720），默认设置良好，文字清晰可读；无缝体验；系统支持，游戏及其所有中间件均应受到 Pronton 支持，包括反作弊支持——将游戏分成四种类别：已验证，无需任何额外操作即可在 Steam Deck 上顺利运行；可玩，可能需要用户进行一些手动调整才能游玩；不支持，无法在 Steam Deck 上运行；未知，尚未检查此游戏的兼容性。根据 Valve 的\u003ca href=\"https://partner.steamgames.com/doc/steamdeck/compat\"\u003e\u003cu\u003e估计\u003c/u\u003e\u003c/a\u003e，如果开发商递交游戏进行兼容性评估，整个评估流程预计需要大约一周时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T05:31:15Z",
+  "Author": "WinterIsComing"
+}

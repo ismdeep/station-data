@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "彻底关闭 ThinkPad 的触控板",
+  "Link": "https://liam.page/2018/11/20/turn-off-touchpad-of-ThinkPad/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e这是一篇简单的记录。\u003c/p\u003e\n\u003cp\u003e新电脑是 ThinkPad。众所周知，TP 的小红点（TrackPoint）很好用。相应的，TP 的触控板就不怎么好用了。特别地，TP 的触控板在打字的时候，经常会误触导致光标漂移。\u003c/p\u003e\n\u003cp\u003e因此，我需要关闭触控板。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e网上爬文，大多数结果都告诉要安装 UltraNav 的驱动。从联想官网上下载安装驱动后，TP 提示说找不到相关设备。看起来是驱动与硬件不匹配导致的。遂删除驱动。\u003c/p\u003e\n\u003cp\u003e最后想到，BIOS 能控制各种输入输出设备。遂在重启时进入 BIOS 设置（Enter 键），找到触控板（TouchPad）设置，将其设置为 disabled。完成！\u003c/p\u003e\n\u003cfigure class=\"highlight plaintext\"\u003e\u003ctable\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd class=\"gutter\"\u003e\u003cpre\u003e\u003cspan class=\"line\"\u003e1\u003c/span\u003e\u003cbr/\u003e\u003cspan class=\"line\"\u003e2\u003c/span\u003e\u003cbr/\u003e\u003cspan class=\"line\"\u003e3\u003c/span\u003e\u003cbr/\u003e\u003c/pre\u003e\u003c/td\u003e\u003ctd class=\"code\"\u003e\u003cpre\u003e\u003cspan class=\"line\"\u003eReboot\u003c/span\u003e\u003cbr/\u003e\u003cspan class=\"line\"\u003eHold \u0026#39;Enter\u0026#39;\u003c/span\u003e\u003cbr/\u003e\u003cspan class=\"line\"\u003eBIOS -\u0026gt; config -\u0026gt; keyboard/mouse -\u0026gt; TouchPad (disabled)\u003c/span\u003e\u003cbr/\u003e\u003c/pre\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/figure\u003e\n\n    \u003c/div\u003e",
+  "Date": "2018-11-20T13:34:35Z",
+  "Author": "Liam Huang"
+}

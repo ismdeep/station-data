@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Grub2 更新导致部分 Linux 发行版系统无法启动",
+  "Link": "https://www.solidot.org/story?sid=65109",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGRUB2 引导程序\u003ca href=\"https://www.solidot.org/story?sid=65102\"\u003e\u003cu\u003e曝出\u003c/u\u003e\u003c/a\u003e名为“BootHole”的漏洞，允许恶意攻击者完全绕过 UEFI Secure Boot。主要 Linux 发行版都释出了补丁。但根据 \u003ca href=\"https://bugzilla.redhat.com/show_bug.cgi?id=1861977\"\u003e\u003cu\u003eRed Hat Bugzilla\u003c/u\u003e\u003c/a\u003e 和 Launchpad 上的 \u003ca href=\"https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889509\"\u003e\u003cu\u003ebug 报告\u003c/u\u003e\u003c/a\u003e，在安装更新重启之后，部分系统无法启动。无法启动的系统包括了 RHEL 8.2、 Ubuntu 16.04.6 LTS 以及 Ubuntu 18.04 等等。如果你在云端平台上使用的是 Ubuntu 18.04，那么 apt-get update 去更新 GRUB2 之后就可能会看到系统重启失败的错误信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-31T07:40:27Z",
+  "Author": "WinterIsComing"
+}

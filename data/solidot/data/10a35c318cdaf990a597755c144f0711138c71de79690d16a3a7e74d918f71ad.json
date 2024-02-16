@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Curl 8.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=74441",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t庆祝项目诞生 25 周年，curl 作者 Daniel Stenberg 宣布释出 v8.0.0 ，称该版本没有 API 或 ABI 破坏，也就是不会造成向后兼容性问题。该版本修复了 6 个新漏洞，其中 5 个危险等级低，另外一个为中等。它的另一个主要变化是构建系统不再支持缺乏可工作 64 位数据类型的系统，其它主要是 bug 修复。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-20T13:24:50Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "越南黑客参与门罗币挖矿活动",
+  "Link": "https://www.solidot.org/story?sid=66247",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t越来越多的政府支持黑客被发现也从事常见的网络犯罪活动。Bismuth，aka APT32 和 OceanLotus，是一个越南黑客组织，其活动始于 2012 年，它主要是收集情报帮助越南政府处理外交、经济和政治决策。微软安全团队本周发表\u003ca href=\"https://www.microsoft.com/security/blog/2020/11/30/threat-actor-leverages-coin-miner-techniques-to-stay-under-the-radar-heres-how-to-spot-them/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e称，Bismuth 最近在对越南和法国的私营部门和政府机构发动攻击时部署了门罗币挖矿程序。微软研究人员猜测一种可能的原因是试图通过部署挖矿程序来伪装成普通的黑客组织；另一种可能的原因是创造新的收入来源。俄罗斯、伊朗和朝鲜的黑客组织最近也被发现在从事网络间谍活动时从事获利性活动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-01T11:58:10Z",
+  "Author": "WinterIsComing"
+}

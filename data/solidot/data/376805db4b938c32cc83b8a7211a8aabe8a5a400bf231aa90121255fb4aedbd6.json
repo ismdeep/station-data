@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 发布扩展允许创建和共享特定段落链接",
+  "Link": "https://www.solidot.org/story?sid=64712",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 Google Chrome 浏览器\u003ca href=\"https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg/related\" target=\"_blank\"\u003e\u003cu\u003e引入了\u003c/u\u003e\u003c/a\u003e名为 Scroll to Text 的新功能，允许用户分享页面内特定语句或段落的链接。现在 Google 发布了扩展 \u003ca href=\"https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg/related\" target=\"_blank\"\u003e\u003cu\u003eLink to Text Fragment\u003c/u\u003e\u003c/a\u003e，将这项功能\u003ca href=\"https://arstechnica.com/gadgets/2020/06/google-pushes-text-fragment-links-with-new-chrome-extension/\" target=\"_blank\"\u003e\u003cu\u003e正式提供给用户\u003c/u\u003e\u003c/a\u003e\u003cu\u003e。Text Fragment 网址主要特别之处在于字符串“#:~:text=”后的短语，举例来说，\u003ca href=\"https://en.wikipedia.org/wiki/Cat#:~:text=Most%20breeds%20of%20cat%20have%20a%20noted%20fondness%20for%20sitting%20in%20high%20places\" target=\"_blank\"\u003e\u003cu\u003ehttps://en.wikipedia.org/wiki/Cat#:~:text=Most breeds of cat have a noted fondness for sitting in high places\u003c/u\u003e\u003c/a\u003e，在 Chrome 中打开这个网址会进入维基百科的猫页面，滚动到匹配 Most breeds of cat have a noted fondness for sitting in high places 的文字。\t\t\t\t\t                \u003c/u\u003e\u003c/div\u003e",
+  "Date": "2020-06-19T14:02:37Z",
+  "Author": "WinterIsComing"
+}

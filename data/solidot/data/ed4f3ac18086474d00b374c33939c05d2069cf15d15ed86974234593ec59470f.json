@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.10 将 2038 年问题变成 2486 年问题",
+  "Link": "https://www.solidot.org/story?sid=65839",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 内核的下一个版本 5.10\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=XFS-Linux-5.10\" target=\"_blank\"\u003e\u003cu\u003e 引入了\u003c/u\u003e\u003c/a\u003e针对 XFS 文件系统的改进，其中包括部分解决 2038 年问题的补丁。2038 年问题是指类 Unix 系统采用的是 32 位时间计数 time_t，计数从 1970 年开始，到 2038 年 1 月将会溢出。为了应对 2038 年问题，XFS 文件系统允许的时间戳范围从之前的 1901 年 12 月到 2038 年 1 月扩大为 1901 年 12 月到 2486 年 7 月。为了保存向后兼容性，该功能未默认启用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-19T05:35:31Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 19.10 (Eoan Ermine)发布",
+  "Link": "https://www.solidot.org/story?sid=62279",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu \u003ca href=\"https://wiki.ubuntu.com/EoanErmine/ReleaseNotes\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e 发布 19.10 \u0026#34;Eoan Ermine\u0026#34;，同时释出的还有衍生版本如 Ubuntu Budgie、Kubuntu、Lubuntu、Ubuntu Kylin、Ubuntu MATE、Ubuntu Studio 和 Xubuntu，其中 Kylin 是与中国合作开发的发行版。19.10 的主要变化包括：内核升级到 5.3， gcc 9.2，glibc 2.30，OpenJDK 11，rustc 1.37，Python 3.7.5，Python 3.8.0，ruby 2.5.5，php 7.3.8，perl 5.28.1，golang 1.12.10。桌面环境 GNOME 3.34，支持 ZFS 作为 root 文件系统；LibreOffice 6.3，Firefox 69，Thunderbird 68，PulseAudio 13.0 等等。Kylin 或中文名优麒麟 19.10 的主要变化包括：增强了控制面板，改进了麒麟软件中心，添加了连接隐藏 wifi 的功能，金山 WPS 实现 PDF 文件阅读和插入公式功能，搜狗输入法可以对离线词库进行导入导出，等等，更多可浏览\u003ca href=\"http://www.ubuntukylin.com/news/1910_released-cn.html\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-18T03:50:40Z",
+  "Author": "wenfeixiang"
+}

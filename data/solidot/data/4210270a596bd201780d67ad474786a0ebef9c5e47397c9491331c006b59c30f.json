@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenWRT 曝远程代码执行漏洞",
+  "Link": "https://www.solidot.org/story?sid=63387",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t路由器发行版 OpenWrt \u003ca href=\"https://lists.infradead.org/pipermail/openwrt-devel/2020-January/021544.html\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个远程代码执行漏洞，OpenWrt opkg 包中的一个 bug 会导致包管理器忽略库索引嵌入的 SHA-256 校验和，事实上绕过了下载 .ipk 文件的完整性检查。由于 opkg 包以 root 权限运行，对整个文件系统具有读访问权限，意味着 .ipk 包嵌入的恶意负荷能执行任意代码。开发者已经释出了新版本修复了漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-01T13:25:18Z",
+  "Author": "WinterIsComing"
+}

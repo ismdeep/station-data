@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MojoJS-Animation开源JS动画引擎",
+  "Link": "https://www.solidot.org/story?sid=63374",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/scottcgi/MojoJS-Animation\"\u003e代码搬运工\u003c/a\u003e 写道 \u0026#34;MojoJS-Animation是一个超级简洁高效的JS动画引擎（\u003ca href=\"https://github.com/scottcgi/MojoJS-Animation\" target=\"_blank\"\u003eGitHub\u003c/a\u003e），功能特点如下： \n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\n\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e支持CSS Style和Transform动画。 \u003c/li\u003e\n\u003cli\u003e支持队列和并发动画。 \u003c/li\u003e\n\u003cli\u003e支持多个元素的组动画。 \u003c/li\u003e\n\u003cli\u003e支持动画延迟执行。 \u003c/li\u003e\n\u003cli\u003e支持组动画完成的事件回调（不是单个元素完成回调）。 \u003c/li\u003e\n\u003cli\u003e支持可配置的动画链式调用。 支持标准和自定义的Tween缓动算法。\u003c/li\u003e\u003c/ul\u003e\n当前版本v2.0.2，其通用的Tween缓动动画实现框架，可以使用任意编程语言移植实现，\u003ca href=\"https://scottcgi.github.io/MojoJS-Animation/demo/animation-demo.html\"\u003e更多在线实例和代码。\u0026#34;\u003c/a\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-30T09:25:16Z",
+  "Author": "WinterIsComing"
+}

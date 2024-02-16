@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI 限制 ChatGPT 一直重复单词",
+  "Link": "https://www.solidot.org/story?sid=76807",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle DeepMind 和华盛顿大学等机构的研究人员上月底发表了一篇论文，介绍了一种对 OpenAI ChatGPT 的攻击方法：他们让 ChatGPT 3.5-turbo 一直重复特定单词。AI 机器人会一遍遍返回同一个单词，直到达到某个限制，之后机器人开始返回从互联网上抓取的训练数据集，这些数据集会包含敏感的用户身份信息。这一攻击披露之后，OpenAI 限制了 ChatGPT 重复单词的次数。机器人在重复几十或几百次之后会停止输出相同单词，表示无法继续下去。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://it.slashdot.org/story/23/12/04/171259/asking-chatgpt-to-repeat-words-forever-is-now-a-terms-of-service-violation\u003cbr/\u003e\nhttps://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-05T14:07:54Z",
+  "Author": "Wilson"
+}

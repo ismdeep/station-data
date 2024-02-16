@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "应用内浏览器的安全隐患",
+  "Link": "https://www.solidot.org/story?sid=72526",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究\u003ca href=\"https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，流行 iOS 应用如 TikTok、Instagram、FB Messenger 和 Facebook 都支持用户在应用内打开浏览器访问第三方网站，期间会植入跟踪代码。以 TikTok 为例，它会记录用户的所有键盘输入，包括密码信用卡信息等敏感数据，以及屏幕上的每一次点击。从技术上说这相当于安装了一个键盘记录器。在这一报道发表之后，TikTok 发表\u003ca href=\"https://www.forbes.com/sites/richardnieva/2022/08/18/tiktok-in-app-browser-research/\" target=\"_blank\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，证实该功能存在，但 TikTok 并没有利用这些代码。TikTok 表示应用内浏览器旨在提供更好的用户体验，它植入第三方网站的 JS 代码是为了调试、排错和性能监视。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-21T11:22:41Z",
+  "Author": "WinterIsComing"
+}

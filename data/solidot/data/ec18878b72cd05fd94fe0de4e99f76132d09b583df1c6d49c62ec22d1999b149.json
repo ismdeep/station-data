@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VLC 4.0 新界面预览",
+  "Link": "https://www.solidot.org/story?sid=66939",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对于绝大部分用户来说，他们通常并不喜欢改变已经熟悉的应用的界面。每一个应用程序改变 UI 都会招致大量的反对。流行的开源多媒体播放器 VLC 准备释出最新的 4.0 版本，而这一版本将会大幅改变 UI。用户可以下载\u003ca href=\"https://artifacts.videolan.org/vlc/nightly-snap/\" target=\"_blank\"\u003e\u003cu\u003e隔夜更新版本\u003c/u\u003e\u003c/a\u003e去体验下即将到来的变化。\u003ca href=\"https://arstechnica.com/gadgets/2021/02/vlc-4-0-sneak-peek-a-look-at-its-work-in-progress-new-interface/\" target=\"_blank\"\u003e\u003cu\u003eVLC 4.0 新界面\u003c/u\u003e\u003c/a\u003e的一大变化是从文件浏览器转变成媒体浏览器。VLC 4.0 之前的版本，从 VLC 1.0 到 3.x，都是打开一个空白的播放器窗口，它著名的交通锥标显示在中心位置。VLC 4.0 则将打开一个媒体浏览窗口，显示视频文件夹里的所有视频的缩略图。新的顶部菜单栏加入了音乐、浏览和发现选项。目前发现功能还没有完整实现。VLC 4.0 预计将在年内发布，目前还没有具体的时间表。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-16T12:47:31Z",
+  "Author": "WinterIsComing"
+}

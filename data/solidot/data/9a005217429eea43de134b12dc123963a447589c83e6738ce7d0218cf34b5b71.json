@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度开发者发布 DahliaOS/FImage，可以直接在个人电脑上体验 Fuchsia 操作系统了",
+  "Link": "https://www.solidot.org/story?sid=67914",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://fuchsia-china.com\"\u003eFuchsia 中文社区\u003c/a\u003e 写道 \u0026#34;Google 在上周通过向 Nest Hub 设备推送的方式正式\u003ca href=\"https://fuchsia-china.com/google-releases-fuchsia-os-nest-hub/\" target=\"_blank\"\u003e发布\u003c/a\u003e了 Fuchsia 操作系统，很快现在，一群印度开发者创造了更简单的方式可以在个人电脑上\u003ca href=\"https://fuchsia-china.com/fuchsia-os-emulator-dahliaos-fimage/\"\u003e体验 Fuchsia了\u003c/a\u003e。Fuchsia 操作系统从一开始就是用开放的方式在开发的，这就意味着你可以自行下载源代码（ Fuchsia中国镜像 \u003ca href=\"https://fuchsia.fsf.org.cn\"\u003ehttps://fuchsia.fsf.org.cn\u003c/a\u003e），自己在电脑上编译，然后模拟器或者 Google Pixelbook 上运行，然而这对于一部分关注 Fuchsia 的朋友来说是一个非常艰巨和困难的任务，尤其是对于一些非开发者来说是一个几乎不可能完成的任务。\u003ci\u003e\n\n为了方便一些非技术背景的朋友体验 Fuchsia 操作系统，Dahlia OS - 一群印度的 Fuchsia \n爱好者做了点努力，目标是打造一个结合 Fuchsia 和 Linux 优点的桌面体验环境，也可以叫“便携式 Fuchsia \n模拟器”、“FImage”，它将在模拟器中运行 Fuchsia 操作系统所需要的最少软件包集合打包在一起，包括 Fuchsia \n本身的预构建版本。这个模拟器包含的功能来自 Fuchsia 操作系统的已公开代码，事实上 Google 的开发进度应该远大于此，也许未来 \nGoogle 也可能发布自己的官方模拟器，不过 DahliaOS 团队的最新消息是他们准备将 FImage 项目更新到新版本，并且也会定期维护。\n\u003c/i\u003e\n\u003cp\u003e如果你准备试试的话最新的 FImage 下载地址在这里：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eGitHub（官方）：\u003ca href=\"https://github.com/dahliaOS/fimage/releases\"\u003ehttps://github.com/dahliaOS/fimage/releases\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e中国服务器镜像：\u003ca href=\"https://mirrors.lug.org.cn/dahliaOS/\"\u003ehttps://mirrors.lug.org.cn/dahliaOS/\u003c/a\u003e\u0026#34;\u003c/li\u003e\u003c/ul\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-31T14:12:32Z",
+  "Author": "WinterIsComing"
+}

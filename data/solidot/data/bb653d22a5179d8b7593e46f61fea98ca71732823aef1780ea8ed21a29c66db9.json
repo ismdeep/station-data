@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "1990 年代的移动加密算法被发现含有后门",
+  "Link": "https://www.solidot.org/story?sid=68058",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1990 年代的加密算法受制于出口管制规定，强加密算法被限制出口，因此很多当时广泛使用的加密算法是所谓的“弱加密”，也就是可能含有有意加入的后门，使得加密后的数据容易破解。现在，德国波鸿鲁尔大学的研究人员与法国和挪威的同事合作发表了\u003ca href=\"https://eprint.iacr.org/2021/819\"\u003e\u003cu\u003e一篇论文\u003c/u\u003e\u003c/a\u003e，发现 1990 年代实现的移动手机加密算法 GEA-1 \u003ca href=\"https://www.miragenews.com/a-backdoor-in-mobile-phone-encryption-from-90s-578914/\" target=\"_blank\"\u003e\u003cu\u003e含有后门\u003c/u\u003e\u003c/a\u003e。GEA-1 仍然包含在最近几年发售的  Android 和 iOS 手机中，它本应该早在 2013 年就需要被淘汰了。这个后门对情报机构可能没什么价值了，因为任何人都可以利用该漏洞。研究人员分析了两种加密 2G 数据的算法  GEA-1 和 GEA-2，它们都是弱加密算法，其中 GEA-1 密钥非常容易破解，因此被认为包含有意加入的后门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-17T08:51:23Z",
+  "Author": "WinterIsComing"
+}

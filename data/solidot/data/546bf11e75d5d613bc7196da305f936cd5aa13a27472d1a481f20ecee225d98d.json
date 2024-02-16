@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "木马版 Tor 浏览器以俄语用户为目标窃取加密钱包",
+  "Link": "https://www.solidot.org/story?sid=74522",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯安全公司卡巴斯基报告了针对俄罗斯和东欧等俄语用户的木马版 Tor 浏览器，浏览器植入了剪切板恶意程序，设计窃取用户的加密钱包。俄罗斯在 2021 年底屏蔽了 Tor 网站，因此给嵌入了恶意程序的修改版  Tor 浏览器留出了空间。俄罗斯用户占到了  Tor 浏览器全球用户的 15%。  Tor 浏览器被用于访问暗网，也被加密货币用户广泛使用。卡巴斯基表示此类的攻击并不具有新意，但受影响用户仍然很多。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttp://securelist.com/copy-paste-heist-clipboard-injector-targeting-cryptowallets/109186/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-29T07:58:06Z",
+  "Author": "Wilson"
+}

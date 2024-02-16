@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Kernel 移植到 N64",
+  "Link": "https://www.solidot.org/story?sid=66496",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源开发者 Lauri Kasanen \u003ca href=\"https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将 Linux Kernel 移植到任天堂的 N64 主机上。\u003ca href=\"https://github.com/clbr/n64bootloader/releases\"\u003e\u003cu\u003e源代码和程序\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上。\u003ca href=\"https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%8264\"\u003e\u003cu\u003eN64\u003c/u\u003e\u003c/a\u003e 是任天堂在 1990 年代中期发布的家用主机，是最畅销也是最受欢迎的游戏机之一。这不是第一次 Linux 移植到 N64，但之前没有人尝试将代码合并到内核主线。Kasanen 的代码并非是基于旧的移植，他也不知道有没有人需要它。他表示做件事纯粹是因为“我能做到”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-28T05:02:03Z",
+  "Author": "WinterIsComing"
+}

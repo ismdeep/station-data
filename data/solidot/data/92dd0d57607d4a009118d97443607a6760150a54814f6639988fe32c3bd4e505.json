@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Comcast 和 Mozilla 在 DoH 上合作",
+  "Link": "https://www.solidot.org/story?sid=64782",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国电信公司 Comcast 宣布与 Mozilla \u003ca href=\"https://arstechnica.com/tech-policy/2020/06/comcast-mozilla-strike-privacy-deal-to-encrypt-dns-lookups-in-firefox/\" target=\"_blank\"\u003e\u003cu\u003e合作部署加密 DNS 查询服务\u003c/u\u003e\u003c/a\u003e。Comcast 的 DNS over HTTPS (DoH) 将对使用 Comcast 宽带的 Firefox 用户默认启用，但这些用户仍然可以选择其它 DoH 服务如  Cloudflare 和 NextDNS。Comcast 是美国第一家加入 Mozilla 的 Trusted Recursive Resolver (TRR)项目的 ISP。Firefox CTO Eric Rescorla 表示将 ISP 引入 TRR 项目将可以在不打乱现有用户体验的情况下保护用户在线隐私。Comcast 则承诺它不会保留、出售和转让任何用户个人信息。Comcast 和 Mozilla 尚未宣布何时推出 Comcast 的 DoH。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T07:00:27Z",
+  "Author": "WinterIsComing"
+}

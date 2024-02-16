@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "强大的 AI 能在单台计算机上训练",
+  "Link": "https://www.solidot.org/story?sid=64994",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t训练最新 AI 系统需要惊人的计算资源，这意味着囊中羞涩的学术界实验室很难赶上富有的科技公司。但一种新的方法可以让科学家在单台计算机上训练先进的 AI。2018 年 OpenAI 报告每 3.4 个月训练最强大 AI 所需的处理能力会翻一番，其中深度强化学习对处理尤为苛刻。现在，南加州大学和英特尔实验室的研究人员找到了一种方法，在实验室使用的高端计算机上\u003ca href=\"https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer\" target=\"_blank\"\u003e\u003cu\u003e训练深度强化学习\u003c/u\u003e\u003c/a\u003e。他们的\u003ca href=\"https://arxiv.org/abs/2006.11751\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e（预印本）发表在上周的机器学习国际会议上。需求是发明之母，论文主要作者  Aleksei Petrenko 是南加州的研究生，英特尔的实习生。在实习结束之际他无法再访问芯片巨人的超级计算机，继续未完成的深度强化学习项目。因此他和同事决定寻找方法在简单系统上继续工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-20T08:10:18Z",
+  "Author": "WinterIsComing"
+}

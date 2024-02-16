@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究生解决了有数十年历史的 Conway 扭结问题",
+  "Link": "https://www.solidot.org/story?sid=64421",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2018 年夏天，Lisa Piccirillo 在一个低维拓扑和几何会议上听到了一个有意思的小问题，她认为可以使用在研究生时学到的技术去解决它。她不认为这是一个真正的数学问题，而是把它当作空闲时间做的家庭作业。这个问题是传奇数学家 John Horton Conway 在 50 多年前发现的，询问以他名字命名为的 Conway 扭结是否是高维扭结切片。Conway 扭结有 11 个交叉点，已经困扰了数学家数十年。Piccirillo 花了不到一周的时间得出了答案：\u003ca href=\"https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/\" target=\"_blank\"\u003eConway 扭结不是切片\u003c/a\u003e。几天后，她遇到了得州奥斯丁的数学教授 Cameron Gordon，漫不经心的谈到了她的解决方案。Gordon 大吃一惊，认为这是可以发表在数学界权威期刊《Annals of Mathematics》上的成果。Piccirillo 现在在 Brandeis 大学做博后，因为这个证明而从 MIT 得到了教职。\u003ca href=\"https://annals.math.princeton.edu/2020/191-2/p05\"\u003e\u003cu\u003e她的证明\u003c/u\u003e\u003c/a\u003e（\u003ca href=\"https://arxiv.org/abs/1808.02923\"\u003e\u003cu\u003e预印本\u003c/u\u003e\u003c/a\u003e）发表在二月份的《Annals of Mathematics》上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T14:54:19Z",
+  "Author": "ai"
+}

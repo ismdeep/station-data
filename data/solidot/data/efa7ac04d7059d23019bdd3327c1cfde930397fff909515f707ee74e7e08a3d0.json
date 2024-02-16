@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "发现 Linux 内核的随机挂起 Bug",
+  "Link": "https://www.solidot.org/story?sid=75251",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在模拟器 QEMU 中运行 Linux 6.4 被发现会在启动时随机挂起，然而概率非常低，大约启动 1000 次会发生一次，因此除了测试者可能其他人不会注意到。为了寻找罪魁祸首，测试者使用二分法，在 21 小时内启动了 Linux 292,612 次，最终发现问题根源是 2023 年 4 月递交的一个 commit，撤回该 commit 就能修复问题。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lkml.org/lkml/2023/6/13/733\u003cbr/\u003e\nhttps://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-15T02:42:03Z",
+  "Author": "Wilson"
+}

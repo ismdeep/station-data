@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenBSD 7.3 释出",
+  "Link": "https://www.solidot.org/story?sid=74628",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenBSD 发行版释出了 v7.3。主要新特性包括：PCIe 3.0 PHY 驱动，LibreSSL v3.7.2，OpenSSH 9.3，金士顿 NV2 NVMe 驱动，perl 5.36.0，zlib 1.2.13，大量的 bug 修复和改进，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.openbsd.org/73.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-11T06:30:31Z",
+  "Author": "Wilson"
+}

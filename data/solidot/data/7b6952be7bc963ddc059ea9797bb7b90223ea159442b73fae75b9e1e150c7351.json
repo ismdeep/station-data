@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目推出捆绑 VPN 的隐私浏览器",
+  "Link": "https://www.solidot.org/story?sid=74572",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目宣布与 Mullvad VPN 合作推出隐私浏览器 Mullvad Browser，没有使用 Tor 网络，而是搭配 VPN 隐藏网络痕迹。Mullvad Browser 也是基于 Firefox，由 Tor 项目工程师开发，设计最小化跟踪和指纹， 支持 Windows、MacOS 和 Linux，源代码托管在 GitHub，采用 Mozilla Public License V2 许可证。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://mullvad.net/en/blog/2023/4/3/mullvad-vpn-and-the-tor-project-team-up-to-release-the-mullvad-browser/\n\u003cbr/\u003e\nhttps://github.com/mullvad/mullvad-browser\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-03T15:30:11Z",
+  "Author": "Wilson"
+}

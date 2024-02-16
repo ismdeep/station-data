@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软宣布 Windows 10 May 2021 Update",
+  "Link": "https://www.solidot.org/story?sid=67673",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正式将 Windows 10 在 2021 年上半年的更新\u003ca href=\"https://www.windowslatest.com/2021/04/29/microsoft-announces-windows-10-may-2021-update-version-21h1/\" target=\"_blank\"\u003e\u003cu\u003e命名为 May 2021 Update\u003c/u\u003e\u003c/a\u003e，它预计将在本月推送给 Windows 用户。May 2021 Update 不是一次巨大变化的更新，微软主要是尝试引入了对远程工作场景的支持，支持外置 Windows Hello 摄像头，这对于需要参加视频会议的用户有帮助；改进了 Windows Defender Application Guard (WDAG)，该功能提供给企业级和专业用户，它是基于 Hyper-V 的虚拟层，能在用户浏览不受信任的网站时保护计算机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-02T12:41:09Z",
+  "Author": "WinterIsComing"
+}

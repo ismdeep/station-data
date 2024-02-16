@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "德国国家医保系统将采用 Matrix",
+  "Link": "https://www.solidot.org/story?sid=68350",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国国家医保系统(\u003ca href=\"http://gematik.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\u003egematik\u003c/a\u003e)\n的专用即时通信网络 TI-Messenger \u003ca href=\"https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix\" target=\"_blank\"\u003e\u003cu\u003e将基于 Matrix\u003c/u\u003e\u003c/a\u003e。Matrix 是一个端对端加密、去中心化的即时通讯系统，它没有中心服务器，通过网桥与其它平台互通。德国的决定意味着将有超过 15 万医疗机构使用 Matrix。德国的数字医疗现代化法案于 2021 年 6 月生效，要求寻找一个即时通讯解决方案，该任务由 gematik 负责，TI-Messenger 是 gematik 的互操作安全即时通讯标准的技术规范，而这个规范是基于 Matrix。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-22T02:23:44Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Haiku R1/beta2 发布",
+  "Link": "https://www.solidot.org/story?sid=64626",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源 BeOS 操作系统 Haiku 在发布\u003ca href=\"https://www.solidot.org/story?sid=58101\" target=\"_blank\"\u003e\u003cu\u003e第一个 beta\u003c/u\u003e\u003c/a\u003e 版本 20 个月之后释出了\u003ca href=\"https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2/\"\u003e\u003cu\u003e第二个 beta 版本\u003c/u\u003e\u003c/a\u003e。BeOS 操作系统在 2001 年被 Palm 收购后停止开发，Haiku 项目在这之后不久正式启动，2002 年发布了首个版本，2012 年发布 Haiku  R1 Alpha 4.1，六年后发布了 Haiku R1/beta1。beta2 相比 beta1 改进了硬件支持和整体稳定性。beta 版本意味着它的功能已经完整，但还存在已知或未知的 bug。新版的主要变化包括：改进 HiDPI 支持，改进 Deskbar，新的输入设备偏好设置面板，改进内置的浏览器 WebPositive，更多的移植软件，改进了安装程序，NVMe 支持，改进 XHCI (USB3)  支持，改进内核稳定性和性能，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-10T14:19:20Z",
+  "Author": "WinterIsComing"
+}

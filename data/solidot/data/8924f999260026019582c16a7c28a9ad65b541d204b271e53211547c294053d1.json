@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客从西部数据窃取到了 10 TB 数据",
+  "Link": "https://www.solidot.org/story?sid=74667",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数据存储巨头西部数据本月初证实它在 3 月 26 日遭到入侵，但没有透露更多信息。现在参与发动此次攻击的一名黑客公开接受采访，披露了更多相关信息。黑客称他们从西部数据窃取到了大约 10 TB 数据，正在与西数谈判至少八位数的赎金。作为证据，黑客分享了一份使用西数证书签名的文件，证明他们现在能冒充西数给文件签名。黑客还分享了西数高管未公开的电话号码，以及一张高管们开电话会议的截图——其中一位参与者是西数的首席信息安全官。黑客表示他们入侵的目的是获利，因此没有用勒索软件加密西数的文件，如果西数拒绝或不理睬他们的要求，他们将会公开西数的数据。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-14T08:29:08Z",
+  "Author": "Wilson"
+}

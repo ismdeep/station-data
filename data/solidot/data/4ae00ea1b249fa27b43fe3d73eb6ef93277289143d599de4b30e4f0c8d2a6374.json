@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 的网站数据设置豁免了 Google 旗下网站",
+  "Link": "https://www.solidot.org/story?sid=65836",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位扩展开发者注意到，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 旗下网站如搜索和 YouTube 的数据在关闭之后并没有删除。他对其进行了一番测试，在没有登陆 Chrome  或任何 Google 服务的情况下 YouTube 等 Google 服务的数据在浏览器关闭之后仍然保留了，也就是说 Google 旗下网站默认\u003ca href=\"https://lapcatsoftware.com/articles/chrome-google.html\"\u003e\u003cu\u003e豁免于用户设置\u003c/u\u003e\u003c/a\u003e。Google 的做法再次\u003ca href=\"https://news.ycombinator.com/item?id=24817304\"\u003e\u003cu\u003e引发了争议\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-19T02:09:17Z",
+  "Author": "WinterIsComing"
+}

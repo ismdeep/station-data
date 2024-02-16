@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.15 Kernel 发布",
+  "Link": "https://www.solidot.org/story?sid=69445",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lkml.org/lkml/2021/10/31/203\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.15，该版本的 commit 数是 5.x 系列最少。主要新变化包括：Paragon Software 开发的 NTFS3 内核驱动，改进对微软 NTFS 文件系统的支持；新内核模块 KSMBD 实现了服务器端 SMB3 协议；在 DRAM 满的情况下内存页的内容转移到持久性内存而不是直接丢弃；Btrfs 文件系统加入了对 fs-verity 和 id mapping 的支持；监视特定用户空间进程内存访问模式的 \u003ca href=\"https://lwn.net/Articles/812707/\"\u003e\u003cu\u003eDAMON\u003c/u\u003e\u003c/a\u003e（代表 Data Access MONitor）；\u003ca href=\"https://lwn.net/Articles/864184/\" target=\"_blank\"\u003e\u003cu\u003eprocess_mrelease(2)\u003c/u\u003e\u003c/a\u003e系统调用；\u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=e5e726f7bb9f\" target=\"_blank\"\u003e\u003cu\u003eReal Time locking progress\u003c/u\u003e\u003c/a\u003e；cgroup支持 SCHED_IDLE；\u003ca href=\"https://lwn.net/Articles/857148/\"\u003e\u003cu\u003eprintk() indexing\u003c/u\u003e\u003c/a\u003e，等等，更多可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.15\" target=\"_blank\"\u003e\u003cu\u003eKernelNewbies 5.15\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T03:26:47Z",
+  "Author": "WinterIsComing"
+}

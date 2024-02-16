@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客正在利用 SonicWall 的一个 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=66832",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t网络安全设备供应商 SonicWall 周一表示，黑客\u003ca href=\"https://arstechnica.com/information-technology/2021/02/hackers-are-exploiting-a-critical-zeroday-in-firewalls-from-sonicwall/\" target=\"_blank\"\u003e\u003cu\u003e正在利用\u003c/u\u003e\u003c/a\u003e其一款设备的一个 0day 漏洞。漏洞位于  Secure Mobile Access 100 设备中，影响的固件版本为 v10.x，补丁要到周二才会释出。安全公司 NCC Group 早些时候称，它的团队观察到尝试利用  SonicWall SMA 100 设备漏洞的迹象，表示正与 SonicWall 合作深入调查。SonicWall 在安全公告中将正被利用的漏洞称为 \u003ca href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0001\"\u003eSNWLID-2021-0001\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-02T09:37:55Z",
+  "Author": "WinterIsComing"
+}

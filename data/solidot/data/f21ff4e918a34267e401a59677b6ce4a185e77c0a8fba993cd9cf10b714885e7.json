@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果默认邮件应用发现安全漏洞",
+  "Link": "https://www.solidot.org/story?sid=64194",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 ZecOps 发表\u003ca href=\"https://blog.zecops.com/vulnerabilities/unassisted-ios-attacks-via-mobilemail-maild-in-the-wild/\"\u003e报告\u003c/a\u003e称，苹果设备的默认 iOS 邮件应用存在严重漏洞，已被黑客利用发动攻击。ZecOps CEO Zuk Avraham \u003ca href=\"https://cn.reuters.com/article/apple-devices-risk-0422-wedn-idCNKCS22502A\" target=\"_blank\"\u003e表示\u003c/a\u003e，他发现证据显示，这一漏洞至少在六起网络入侵事件中被利用。苹果发言人承认，iOS 邮件应用存在漏洞，该公司已经开发了一个修复程序，将在即将发布的更新中推出。研究显示，漏洞可以远程触发，在对高端用户的黑客攻击中已经被利用。Avraham 表示，黑客需要先通过邮件应用程序向受害者发送一封表面看空白的电子邮件，强制设备崩溃并重置。这样的崩溃就为黑客窃取设备上照片和联系人详细信息等其他数据打开了大门。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-23T04:36:59Z",
+  "Author": "WinterIsComing"
+}

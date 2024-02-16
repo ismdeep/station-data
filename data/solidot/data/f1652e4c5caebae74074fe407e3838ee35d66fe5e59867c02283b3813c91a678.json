@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国警告对工业控制系统的攻击",
+  "Link": "https://www.solidot.org/story?sid=71272",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国联邦机构 CISA、NSA、FBI 和能源部\u003ca href=\"https://www.bleepingcomputer.com/news/security/us-warns-of-govt-hackers-targeting-industrial-control-systems/\"\u003e\u003cu\u003e联合发表声明\u003c/u\u003e\u003c/a\u003e，对政府支持黑客攻击工业控制系统\u003ca href=\"https://www.bleepingcomputer.com/news/security/us-warns-of-govt-hackers-targeting-industrial-control-systems/\" target=\"_blank\"\u003e\u003cu\u003e发出警告\u003c/u\u003e\u003c/a\u003e。警告称，黑客能使用定制模块化恶意软件扫描、破坏和劫持工业控制系统（ICS）和监测控制和数据采集（SCADA）设备。有可能被破坏和劫持的设备包括施耐德电气的 MODICON 和MODICON Nano PLC，欧姆龙 Sysmac NJ 和 NX PLC，以及 Open Platform Communications Unified Architecture (OPC UA)服务器。过去几年，越来越多的有政府背景的黑客选择以工控系统作为攻击目标，而工控系统是基础设施的重要组成部分。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-18T06:39:08Z",
+  "Author": "WinterIsComing"
+}

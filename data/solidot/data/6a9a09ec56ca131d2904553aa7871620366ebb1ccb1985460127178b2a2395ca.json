@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 关闭被制裁公司的俄罗斯开发者账号",
+  "Link": "https://www.solidot.org/story?sid=71273",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯开发者\u003ca href=\"https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，如果他们为被制裁公司工作或者曾经在这些公司工作过，那么 GitHub 可能会在未预先警告的情况下关闭他们的账号。对账号的限制始于 4 月 13 日，对企业和个人账号没有加以区分。账号的内容也会被清空，软件库将无法访问，问题和 pull request 同样如此。有俄罗斯开发者联络了 GitHub，得到的\u003ca href=\"https://docs.github.com/en/site-policy/other-site-policies/github-and-trade-controls\"\u003e\u003cu\u003e回应\u003c/u\u003e\u003c/a\u003e是美国对俄罗斯公司的制裁，受影响的开发者可以上诉，只要证明被制裁实体与其账号无关联。一位开发者在 Twitter 上\u003ca href=\"https://twitter.com/Black2Fan/status/1515004839679639555\"\u003e\u003cu\u003e说\u003c/u\u003e\u003c/a\u003e，他有可能恢复账号，因为被制裁的实体是其前雇主。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-18T07:54:18Z",
+  "Author": "WinterIsComing"
+}

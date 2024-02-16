@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "QQ拼音的小发现",
+  "Link": "https://blog.zzbd.org/2010/10/31/QQpinyin/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e今天比较无聊，寝室的哥们儿围坐着看《金刚》，我是没什么兴趣，就跟大家分享个小发现吧！\u003c/p\u003e\u003cp\u003e据说最近腾讯比较高调，跟360剑拔弩张，给广大无聊网民提供了不错的话题。各大论坛也是发帖发的不亦乐乎。每每看到满屏幕洋洋洒洒洒的“剖析”，咱只是微微一笑。从来不用360，没了QQ2010咱照样上网聊天~~有必要弄得全国上下像陷入互联网危机似的吗？\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e不好意思，回到正题。QQ拼音一个巨大的优势就是，可以利用QQ号同步个人词库。听说Google拼音也可以同步，只是需要翻墙，这无疑让很多忠实的Google粉丝不得不忍痛割爱。（搜狗拼音没用过，不了解）所谓“同步”即时记录用户的输入习惯，比如，连续输一个很长的句子，给出的选择项可能需要调整个别字，调整完后就会记录这个句子，下次再输同样的字母串就能准确给出中文词条。（说的比较罗嗦，各位应该都懂）这个词库只能同步到服务器，不能下载。但是本地却保留有一份，xp下这个文件的位置在\u003ccode\u003eC:\\Documents and Settings\\Administrator\\Application Data\\Tencent\\QQPinyin\\Sync\\Base\\{1234567}\u003c/code\u003e最后的数字是你的QQ号。这个文件夹下的\u003ccode\u003eudict.img\u003c/code\u003e就是个人词库，用记事本或者Notepad++之类的打开就能看见每条记录了。汉字和字母后的数字是你输入的次数，**\u003ccode\u003eZ\u003c/code\u003e \u003cstrong\u003e可能是分隔符。我的词库里有\u003c/strong\u003e\u003ccode\u003e14361\u003c/code\u003e**个记录，主要是一些口语化的短句。。。唉，看着这些句子，往昔的记忆又被勾勒出来，越来越觉得自己很搞笑，哈哈哈。\u003c/p\u003e\u003cp\u003e有了这个文件，如果换用别的输入法，可以尝试着把它导入进去，何不为美事一桩呢？（QQ可能不高兴了），管他呢，呵呵。其他几个文件，\u003ccode\u003eenguser.dat\u003c/code\u003e可能是记录英文单词联想的，比方说，输\u003cstrong\u003eautohotkey\u003c/strong\u003e就只需要输\u003cstrong\u003eaut\u003c/strong\u003e就出来了。\u003ccode\u003eudict.mod.img\u003c/code\u003e也是记录词条，但是小得多，功能不详。\u003ccode\u003eurl.dat\u003c/code\u003e当然是记录网址联想输入的咯。\u003c/p\u003e\u003cp\u003e趁腾讯没发现这个之前赶快备份吧！晚了你可就被QQ拼音拴住咯。\u003c/p\u003e\u003cp\u003ePS：虽说我对TX好感度不佳，但是不妨碍我喜欢用他的产品，在这点上没必要有感情色彩。但如果TX是Japanese的公司，打死我都不会用，一分钱都不会让他赚走。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-10-31T02:16:07Z",
+  "Author": "J. F"
+}

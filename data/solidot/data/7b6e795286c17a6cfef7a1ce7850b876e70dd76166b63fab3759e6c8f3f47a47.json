@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "7 纳米和 14 纳米 CPU 的超频差异",
+  "Link": "https://www.solidot.org/story?sid=61847",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDragonFly BSD 项目负责人 Matthew Dillon 在个人博客上谈论了\u003ca href=\"http://apollo.backplane.com/2019-Zen2Missive.html\"\u003e\u003cu\u003e AMD 的 Zen 2 CPU\u003c/u\u003e\u003c/a\u003e，分析了台积电 7 纳米节点和英特尔 14 纳米+++...节点芯片在超频上的差异。因为物理节点的差异，英特尔 14 纳米节点的温度和频率并非线性相关，超频 9900K 到它的温度上限之后可以继续增加更多功率去获得更高的频率。但 7 纳米的 Zen 2 不是这么工作的，它的温度和频率是直接线性相关的，提高频率会带来温度的上升。在 Zen 2 系统上，超频的关键是用冷却器降低温度而不是增加功率。另一个差异是提升单核的频率。作者认为，随着英特尔工艺节点的改进，芯片巨人也将会面临相同的温度频率关联问题，增加功率去实现超频将走入死胡同。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-26T04:45:19Z",
+  "Author": "wenfeixiang"
+}

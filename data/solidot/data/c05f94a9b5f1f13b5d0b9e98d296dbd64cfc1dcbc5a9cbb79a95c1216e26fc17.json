@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 发起 Open Usage Commons，IBM 对商标转让有异议",
+  "Link": "https://www.solidot.org/story?sid=64897",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 宣布成立名为 \u003ca href=\"https://openusage.org/\"\u003e\u003cu\u003eOpen Usage Commons\u003c/u\u003e\u003c/a\u003e 的组织去管理开源项目的商标。Google 称，自由公平的开源商标使用对于开源项目的长期可持续性至关重要，但理解和管理商标需要很多法律知识，绝大多数项目维护者可能无法靠自己完成这件事。Open Usage Commons 旨在帮助每一个人——从维护者到下游用户到生态系统公司——了解商标的使用和管理。Open Usage Commons 管理的首批开源项目商标为——Web 应用框架 Angular，基于 Web 的团队协作工具 Gerrit，以及连接管理和确保微服务安全的开源 mesh 平台 Istio。前两个都是 Google 的产品，最后一个则是 Google 和 IBM 主导的项目。对于 Google 未经社区同意或通知社区就将 \nIstio 的商标转让给 Open Usage Commons，IBM 发表声明\u003ca href=\"https://developer.ibm.com/components/istio/blogs/istio-google-open-usage-commons/\" target=\"_blank\"\u003e\u003cu\u003e表达了不同意见\u003c/u\u003e\u003c/a\u003e，称这违背了开放治理的项目管理模式，与他们早先达成的共识——在成熟之后将 Istio 项目交给 CNCF 管理——不一致，IBM 希望 Google 重新考虑下。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-09T10:35:14Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Elementary OS 5.1 Hera 发布",
+  "Link": "https://www.solidot.org/story?sid=62874",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tElementary OS 发行版释出了最新的大更新\u003ca href=\"https://blog.elementary.io/introducing-elementary-os-5-1-hera/\"\u003e\u003cu\u003e 5.1 Hera\u003c/u\u003e\u003c/a\u003e。Elementary OS 用希腊罗马神话人物命名，5.0 版命名为 Juno，为罗马主神朱庇特之妻；Hera 则是希腊主神宙斯之妻，两人地位相当。5.1 Hera 的主要变化包括：重新设计了登录和锁屏欢迎功能，新的 Onboarding 应用，支持 Flatpak 打包格式，名叫 Sideload 的系统工具帮助用户简化 Flatpak 应用的安装，改进了 AppCenter 的速度，改进系统设置和易访问性，等等。更多可阅读发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-06T12:59:40Z",
+  "Author": "WinterIsComing"
+}

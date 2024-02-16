@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "如何从头实现µGo语言",
+  "Link": "https://www.solidot.org/story?sid=69697",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://github.com/chai2010/ugo-compiler-book\" target=\"_blank\"\u003e《从头实现µGo语言》\u003c/a\u003e是一本国内Go语言爱好者新创建的开源图书，作者希望展示如何从头实现一个Go语言的子集µGo语言。将包含Go语言词法解析、语法树构建、函数闭包、接口、CGO的实现等内容，最终通过输出LLVM编译为本地可执行程序。如果读者对Go语言标准库中语法树的用法感兴趣，也可以参考作者的另一本\u003ca href=\"https://github.com/chai2010/go-ast-book\" target=\"_blank\"\u003e《Go语法树入门——开启自制编程语言和编译器之旅！》\u003c/a\u003e。欢迎大家关注。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-21T04:43:06Z",
+  "Author": "WinterIsComing"
+}

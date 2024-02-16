@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《死亡搁浅》PC 版测试显示 AMD 的开源 FidelityFX CAS 表现强于英伟达的 DLSS",
+  "Link": "https://www.solidot.org/story?sid=64845",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t小岛秀夫的末世送快递游戏《\u003ca href=\"https://store.steampowered.com/app/1190460/DEATH_STRANDING/\" target=\"_blank\"\u003e\u003cu\u003e死亡搁浅\u003c/u\u003e\u003c/a\u003e》将于 7 月 14 日正式发布 PC 版本，主要新闻媒体如 Ars 都发表了预览报道。Ars \u003ca href=\"https://arstechnica.com/gaming/2020/07/why-this-months-pc-port-of-death-stranding-is-the-definitive-version/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e， 《死亡搁浅》PC 版实现了两种利用深度学习改进采样的技术：英伟达私有的  DLSS，以及 AMD 开源、平台中立的  \u003ca href=\"https://www.amd.com/en/technologies/radeon-software-fidelityfx\"\u003e\u003cu\u003eFidelityFX CAS\u003c/u\u003e\u003c/a\u003e。DLSS 只能运行在英伟达显卡上，而 CAS 既支持 AMD 显卡也支持英伟达的，它是中立的。因为下一代 PS 和 Xbox 主机都采用 AMD 的方案，PS5 和 Xbox Series X 也都将支持 CAS。Ars 在测试中意外的发现，启用 FidelityFX CAS 之后系统的表现明显强于启用英伟达的 DLSS。相比在 1080p 下未启用 CAS，在 1440p 下启用 CAS 后速度提升了 5fps。这可能只是个案，与游戏开发商的优化有关联。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T13:14:51Z",
+  "Author": "WinterIsComing"
+}

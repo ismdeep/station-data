@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ghostcat 漏洞影响过去 13 年发布的所有 Apache Tomcat 版本",
+  "Link": "https://www.solidot.org/story?sid=63676",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGhostcat 漏洞\u003ca href=\"https://www.zdnet.com/article/ghostcat-bug-impacts-all-apache-tomcat-versions-released-in-the-last-13-years/\" target=\"_blank\"\u003e\u003cu\u003e影响\u003c/u\u003e\u003c/a\u003e过去 13 年发布的所有 Apache Tomcat 版本，该漏洞允许攻击者控制系统。\u003ca href=\"https://www.chaitin.cn/zh/ghostcat\"\u003e\u003cu\u003eGhostcat\u003c/u\u003e\u003c/a\u003e 是中国安全公司长亭科技发现的，存在于  Tomcat AJP 协议中，攻击者通过 Tomcat AJP Connector 可以读取或包含 Tomcat 上所有 webapp 目录下的任意文件，例如可以读取 webapp 配置文件或源代码。此外在目标应用有文件上传功能的情况下，配合文件包含的利用还可以达到远程代码执行的危害。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-02T04:49:18Z",
+  "Author": "WinterIsComing"
+}

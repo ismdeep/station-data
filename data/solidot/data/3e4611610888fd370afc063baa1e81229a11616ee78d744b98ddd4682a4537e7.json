@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome For Android 将显示“快速网页”标签",
+  "Link": "https://www.solidot.org/story?sid=65274",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://blog.chromium.org/2020/08/highlighting-great-user-experiences-on.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Chrome For Android 的右键菜单将显示“快速网页（Fast page）”标签：用户右键网页中的一个超链接，会看到有关该链接相应的标记。快速网页由 Google 的 \u003ca href=\"https://web.dev/vitals/\" target=\"_blank\"\u003e\u003cu\u003eWeb Vitals\u003c/u\u003e\u003c/a\u003e 判断。Web Vitals 是 Google 今年早些时候提出的一个倡议，为 Web 开发者和网站站长提供一组统一的衡量指标，改进网站用户体验和性能。这组指标将测量网页加载性能，Google 建议在 2.5 秒内完成大部分内容加载；交互延迟低于 100 毫秒；网页需要有良好的视觉稳定性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-18T06:17:47Z",
+  "Author": "WinterIsComing"
+}

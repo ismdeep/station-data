@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Calibre 4.0 发布",
+  "Link": "https://www.solidot.org/story?sid=62155",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源电子书管理程序 Calibre 在 3.0 发布两年之后\u003ca href=\"https://calibre-ebook.com/new-in/thirteen\"\u003e\u003cu\u003e释出了 4.0 版本\u003c/u\u003e\u003c/a\u003e。Calibre 4.0 主要的一个变化是 Content server 使用的 web 内容渲染引擎从 Qt WebKit 迁移到 Qt WebEngine，原因是前者不再维护。切换到 Qt WebEngine 也使得 Calibre 重写了电子书浏览器、PDF Output 等组件，Content server 加入了元数据编辑、电子书移除和添加，转换到所有支持格式等功能。因为渲染引擎发生了变化，因此部分功能不再兼容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-04T15:20:51Z",
+  "Author": "wenfeixiang"
+}

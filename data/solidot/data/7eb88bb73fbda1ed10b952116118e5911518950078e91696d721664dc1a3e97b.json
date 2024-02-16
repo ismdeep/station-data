@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "联发科被指在测试中作弊",
+  "Link": "https://www.solidot.org/story?sid=64071",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t智能手机制造商在性能测试中作弊已经不是新闻了。ARM 芯片设计公司联发科\u003ca href=\"https://www.anandtech.com/show/15703/mobile-benchmark-cheating-mediatek\" target=\"_blank\"\u003e\u003cu\u003e被发现在测试中作弊\u003c/u\u003e\u003c/a\u003e。所谓作弊是指将测试应用加入到白名单设置在最高性能下运行这些应用，而不是像普通应用那样运行。Anandtech \u003ca href=\"https://www.anandtech.com/show/15703/mobile-benchmark-cheating-mediatek\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，联发科基于 Cortex-A75 的旧芯片组被发现比联发科更强的基于 Cortex-A77 的新芯片组 Dimensity 1000L 在 PCMark 测试中的成绩更好，这极为反常，此外旧芯片只有 2 个核心而新芯片有 4 个核心，结果却是前者测试成绩更优。这一现象不限于个别手机厂商，而是普遍存在于使用联发科芯片的手机中。因此作者分析了联发科的固件，发现了名叫 power_whitelist_cfg.xml 的文件，该文件将流行的测试应用都加入到了白名单，其中包括了 PCMark、安兔兔、AndroBench2、GeekBench 和鲁大师等。对于 Anandtech 的发现，联发科在一份声明中称为特定应用进行优化是行业惯例，其他公司也是这么做的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-09T09:09:40Z",
+  "Author": "WinterIsComing"
+}

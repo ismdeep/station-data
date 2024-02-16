@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新漏洞让攻击者能劫持 VPN 连接",
+  "Link": "https://www.solidot.org/story?sid=62869",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员发现了\u003ca href=\"https://seclists.org/oss-sec/2019/q4/122\"\u003e\u003cu\u003e一个漏洞\u003c/u\u003e\u003c/a\u003e允许攻击者劫持 VPN 连接。漏洞\u003ca href=\"https://linux.slashdot.org/story/19/12/05/2022205/new-linux-vulnerability-lets-attackers-hijack-vpn-connections\"\u003e\u003cu\u003e存在于\u003c/u\u003e\u003c/a\u003e使用  Weak Host Model 的 TCP/IP 协议栈，主要影响同一子网络中的 VPN 连接，比如同一个 WiFi 网络。在测试中，研究人员劫持了访问他们控制的无线网络的 VPN 连接。因为漏洞与 TCP/IP 协议栈相关，它影响 Linux 发行版，BSD 发行版、macOS、iOS 和 Android，对  OpenVPN、WireGuard 和 IKEv2/IPSec 都有效。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-06T09:36:03Z",
+  "Author": "WinterIsComing"
+}

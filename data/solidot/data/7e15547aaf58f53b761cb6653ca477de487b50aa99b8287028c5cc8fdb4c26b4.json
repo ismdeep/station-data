@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数以百计的 SugarCRM 服务器被感染恶意程序",
+  "Link": "https://www.solidot.org/story?sid=73882",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去两周，黑客利用 SugarCRM 系统的一个高危漏洞传播恶意程序控制服务器。漏洞是在 2022 年 12 月爆出的，当时没有补丁属于 0day，公开漏洞的人还发布了漏洞利用代码，称它是一个身份验证绕过加远程代码执行漏洞，这意味着攻击者不需要身份凭证就可以在存在漏洞的服务器上远程运行恶意代码。SugarCRM 官方在 1 月 5 日发布公告证实了该漏洞。提供网络监测服务的 Censys 安全研究人员周三报告，在其监测到的 3059 台 SugarCRM 服务器中有 354 台 SugarCRM 感染了恶意程序植入了后门。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://sugarclub.sugarcrm.com/engage/b/sugar-news/posts/jan-5-2023-security-vulnerability-update\u003cbr/\u003e\nhttps://arstechnica.com/information-technology/2023/01/hundreds-of-sugarcrm-servers-infected-with-critical-in-the-wild-exploit/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-12T14:49:16Z",
+  "Author": "wanwan"
+}

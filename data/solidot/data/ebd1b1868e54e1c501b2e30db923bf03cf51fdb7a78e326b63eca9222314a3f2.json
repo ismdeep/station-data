@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNU TeXmacs v1.99.12 发布了",
+  "Link": "https://www.solidot.org/story?sid=62972",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/texmacs/texmacs\"\u003eTeXmacs中文社区\u003c/a\u003e 写道 \u0026#34;\u003ci\u003eGNU TeXmacs是一个\u003cb\u003e自由的\u003c/b\u003e所见即所得的结构化编辑器，非常适合经常编辑数学公式的科技工作者。\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eGNU TeXmacs支持Windows/macOS/Linux三大平台，也支持FreeBSD，大家可以前往\u003ca href=\"http://texmacs.org/tmweb/home/welcome.en.html\"\u003e官网\u003c/a\u003e（最下面有各个版本的下载链接）下载最新版本。\n\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eGNU TeXmacs的源代码托管在Savannah上，我们在Github上每5分钟从Savannah的代码仓库同步一次代码，同时也在\u003ca href=\"https://github.com/texmacs/texmacs\" target=\"_blank\"\u003eGitbhub\u003c/a\u003e上接收Pull Request。大家可以在官方邮件列表中讨论关于GNU TeXmacs一切，也可以在GNU TeXmacs维护者们搭建的\u003ca href=\"http://forum.texmacs.cn/\" target=\"_blank\"\u003e论坛\u003c/a\u003e上讨论。\n\u003c/p\u003e\n\u003cp\u003e本次发布包含以下改进：\u003c/p\u003e\n\u003cp\u003e1. 完善了法语和丹麦语的界面翻译\u003c/p\u003e\n\u003cp\u003e2. 支持Java语言的代码块\u003c/p\u003e\n\u003cp\u003e3. 新增了使用Python撰写插件的文档\u003c/p\u003e\n\u003cp\u003e4. Asymptote, DraTex, Gnuplot, Graphviz, Xypic 这些插件使用Python重新实现，并且可以在Windows/macOS/Linux三个平台上使用\u003c/p\u003e\n\u003cp\u003e5. 新增SymPy插件\u003c/p\u003e\n\u003cp\u003e6. 改善导出成HTML时，公式的展示（使用MathJax或者图片）\u003c/p\u003e\n\u003cp\u003e7. 改善了语法高亮功能中对于数值的解析\u003c/p\u003e\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T01:16:21Z",
+  "Author": "WinterIsComing"
+}

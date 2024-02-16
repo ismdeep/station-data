@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 以隐私理由将 Chromium 的默认搜索引擎改为 DDG",
+  "Link": "https://www.solidot.org/story?sid=72572",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 以隐私理由将 Chromium 浏览器的默认搜索引擎从 Google \u003ca href=\"https://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg760508.html\" target=\"_blank\"\u003e\u003cu\u003e改为 DuckDuckGo\u003c/u\u003e\u003c/a\u003e。Chromium 是 Chrome 的开源项目，但仍然包含有 Google 的服务。Debian 开发者是在今年初讨论用 DDG \u003ca href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=956012\" target=\"_blank\"\u003e\u003cu\u003e替换 Google\u003c/u\u003e\u003c/a\u003e。它是通过受管理的策略文件（/etc/chromium/policies/managed/\u003csomefile\u003e.json）实现这一变动的。用户仍然可以自己修改默认的搜索引擎。\u003c/somefile\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-25T07:58:47Z",
+  "Author": "WinterIsComing"
+}

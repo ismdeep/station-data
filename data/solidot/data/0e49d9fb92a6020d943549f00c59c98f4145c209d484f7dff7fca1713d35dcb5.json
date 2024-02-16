@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 将限制 Android 应用在后台访问地理位置数据",
+  "Link": "https://www.solidot.org/story?sid=63607",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.zdnet.com/article/google-to-put-a-muzzle-on-android-apps-accessing-location-data-in-the-background/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e打击滥用系统权限访问不必要地理位置数据的 Android 应用。从今年五月开始，Google 将要求所有 Android 应用开发者更新应用，Android 应用只有在需要地理位置信息的情况下才能请求访问此类信息。Google 将逐个审查每一个应用，如果应用请求访问地理位置数据但不在应用中立即使用 Google 会将其从应用商店 Play Store 下架。Google 表示会审查自己的应用。此举旨在打击悄悄收集地理位置数据的应用，此类的后台地理位置数据在收集后会出售给分析公司和广告商。从 8 月 3 日起，Google 计划评估每一个新递交的应用，检查是否请求访问后台地理位置数据，是否确实需要这一数据才能工作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-22T12:44:57Z",
+  "Author": "WinterIsComing"
+}

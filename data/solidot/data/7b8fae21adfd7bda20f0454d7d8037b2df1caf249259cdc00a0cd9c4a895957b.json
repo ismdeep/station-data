@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bitcoin Gold 再次遭到 51% 攻击",
+  "Link": "https://www.solidot.org/story?sid=63362",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t数字货币 Bitcoin Gold（BTG）\u003ca href=\"https://thenextweb.com/hardfork/2020/01/27/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange/\"\u003e\u003cu\u003e再次遭到 51% 攻击\u003c/u\u003e\u003c/a\u003e，攻击者在控制区块链之后双花了价值约 7.2 万美元的 BTG——所谓双花是指重复使用 BTG。上一次它遭到 51% 攻击\u003ca href=\"https://www.solidot.org/story?sid=56594\"\u003e\u003cu\u003e是在 2018 年 5 月\u003c/u\u003e\u003c/a\u003e。在最新的攻击中，攻击者在控制了 51% 的算力之后先后两次重组了区块链网络，第一次双花了 1,900 BTG (约 $19,000)，第二次 5,267 BTG ($53,000)。要控制 51% 的算力数字货币开发者 James Lovejoy 估计攻击者只需要花大约 1200 美元去租赁机器。任何实体在控制了区块链网络 51% 的算力之后可以决定网络拒绝或接受哪个区块链版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-28T12:47:51Z",
+  "Author": "WinterIsComing"
+}

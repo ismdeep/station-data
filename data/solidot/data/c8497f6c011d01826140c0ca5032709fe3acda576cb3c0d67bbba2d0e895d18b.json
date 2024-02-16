@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "木兰语言开发者为夸大道歉",
+  "Link": "https://www.solidot.org/story?sid=63296",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t“木兰”语言研发团队负责人刘雷为\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/1/434969.shtm\" target=\"_blank\"\u003e\u003cu\u003e夸大宣传 “木兰”道歉\u003c/u\u003e\u003c/a\u003e。“木兰”语言在宣布之后通过中科智芯（北京）的网站放出了下载，但网友在下载之后发现它是基于 Python，并非是开发者此前所谓的完全自主开发。刘雷在\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/1/434969.shtm\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中称：\u003ci\u003e为了更好地在中小学中普及计算思维，本人带领团队开发了一种称为“木兰“的编程语言。它包含三个组成部分：一、在语言规范上借鉴了 Lua 语言的特性并进行了扩展，增加数据表达方法等新的特性；二、开发了支持少儿编程教育的可视化编程环境；三、针对 8 位 AVR 单片机，实现了相应的编译器和运行时系统，开发了能模拟多任务执行的虚拟机。以上产品已经在数百所中小学中，开展了 10 万人次的编程科普活动。针对 STM32 单片机，我们是基于 Python 开源编译器进行的二次开发，也就是先将木兰语言的源程序转换为 Python 的中间表示（AST），再在 Python虚 拟机上运行。这就是在开发和运行环境中会包含 Python 系统的原因。\u003c/i\u003e更新：刘雷被计算所\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/1/435012.shtm\"\u003e\u003cu\u003e停职\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-19T03:29:53Z",
+  "Author": "WinterIsComing"
+}

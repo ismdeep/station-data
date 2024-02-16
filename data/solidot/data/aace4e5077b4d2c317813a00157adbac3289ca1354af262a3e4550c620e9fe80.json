@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 恶意程序数量去年增长 35%",
+  "Link": "https://www.solidot.org/story?sid=70419",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t针对 Linux 设备的恶意程序数量\u003ca href=\"https://www.bleepingcomputer.com/news/security/linux-malware-sees-35-percent-growth-during-2021/\"\u003e\u003cu\u003e去年增长 35%\u003c/u\u003e\u003c/a\u003e，这些恶意程序主要通过感染物联网设备组建僵尸网络发动 DDoS 攻击。运行不同 Linux 版本的物联网设备功能有限，但联合起来能发动规模惊人的 DDoS 攻击。除了发动 DDoS 功能，Linux 物联网设备还能用于挖掘加密货币，发送垃圾邮件等等。安全公司 Crowdstrike 的报告称，2021 年针对 Linux 系统的恶意程序数量比 2020 年增加了 35%；其中 XorDDoS、Mirai 和 Mozi 恶意程序家族占到了 22%；其中尤以 Mozi 数量最多，Mozi 恶意程序样本数量同比增长了 10 倍，XorDDoS 同比增长了 123%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-19T05:16:46Z",
+  "Author": "WinterIsComing"
+}

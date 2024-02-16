@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为发布鸿蒙",
+  "Link": "https://www.solidot.org/story?sid=61667",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在华为开发者大会上，消费者业务 CEO 余承\u003ca href=\"http://www.bjnews.com.cn/finance/2019/08/09/613366.html\" target=\"_blank\"\u003e\u003cu\u003e东正式宣布\u003c/u\u003e\u003c/a\u003e基于微内核的全场景分布式 OS “鸿蒙”。余承东表示，安卓 / Linux 内核代码庞大冗余，难以保证不同终端体验流畅，再加上多终端互联对设备安全提出更高的要求，需要一一个强大的 OS 系统将硬件和软件进行整合。鸿蒙系统将首先用于智能电视荣耀智慧屏上，他称，“如果安卓无法用于华为的手机，我们可以随时使用鸿蒙系统，但我们考虑到合作伙伴的关系和开发者的工作量，我们优先使用安卓系统。”余承东表示鸿蒙系统将全面开源，但不清楚何时公开源代码，它此前拖了很长时间才开源面向物联网的实时操作系统 \u003ca href=\"https://github.com/LiteOS/LiteOS\"\u003e\u003cu\u003eLiteOS\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-09T07:31:58Z",
+  "Author": "wenfeixiang"
+}

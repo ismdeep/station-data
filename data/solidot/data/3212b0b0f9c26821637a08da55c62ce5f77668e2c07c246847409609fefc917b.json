@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BlueKeep 漏洞正被利用",
+  "Link": "https://www.solidot.org/story?sid=62483",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年五月，微软不同寻常的向已终止支持的 Windows XP 和 Windows 2003 释出了安全更新，修复一个据称能像 WannaCry 蠕虫那样快速传播恶意程序的漏洞。该漏洞被称为 BlueKeep，位于远程桌面服务中。微软以及美国 NSA 都先后\u003ca href=\"https://www.solidot.org/story?sid=60838\"\u003e\u003cu\u003e发出警告\u003c/u\u003e\u003c/a\u003e，呼吁 Windows XP 及其它受影响版本的用户及时打上补丁。除了 XP，Windows 7、Windows Server 2008 R2 和 Windows Server 2008 也都存在该漏洞。安全研究人员现在报告，\u003ca href=\"https://www.forbes.com/sites/daveywinder/2019/11/03/windows-bluekeep-attack-that-us-government-warned-about-is-happening-right-now/#3f342afb31a0\"\u003e\u003cu\u003eBlueKeep 攻击正在进行之中\u003c/u\u003e\u003c/a\u003e。目前攻击者主要利用该漏洞挖掘数字货币，未来可能将其用于其它恶意目的。至今仍然有 70 万台 Windows 系统没有打上补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-04T13:10:03Z",
+  "Author": "wenfeixiang"
+}

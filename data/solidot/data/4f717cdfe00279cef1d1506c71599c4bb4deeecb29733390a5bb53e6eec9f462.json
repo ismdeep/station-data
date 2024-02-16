@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GCC 10.1 发布",
+  "Link": "https://www.solidot.org/story?sid=64305",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在第一个公开版本发布 33 年之后，GCC 编译器项目释出而来\u003ca href=\"https://gcc.gnu.org/pipermail/gcc-announce/2020/000163.html\"\u003e\u003cu\u003e 10.1 版本\u003c/u\u003e\u003c/a\u003e。新版本的编译器和库改进了 C++20 语言支持，C2X 增强，多方面的优化增强和 bug 修正，多个编译器后端的硬件启用改变和增强，新的实验性\u003ca href=\"https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/\"\u003e\u003cu\u003e静态分析\u003c/u\u003e\u003c/a\u003e，等等。更多可浏览\u003ca href=\"https://gcc.gnu.org/gcc-10/changes.html\"\u003e\u003cu\u003e发布公告\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-09T06:07:25Z",
+  "Author": "WinterIsComing"
+}

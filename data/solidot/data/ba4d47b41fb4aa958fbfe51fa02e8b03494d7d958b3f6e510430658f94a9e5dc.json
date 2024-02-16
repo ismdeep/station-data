@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "SUSE 将创建 Red Hat Enterprise Linux 的一个分支",
+  "Link": "https://www.solidot.org/story?sid=75489",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t企业发行版 SUSE 宣布将投资 1000 万美元创建一个 Red Hat Enterprise Linux（RHEL）的分支，将免费公开源代码。Red Hat 此前宣布其企业发行版 RHEL 的源代码仅通过 CentOS Stream 公开，付费客户和合作伙伴仍然可通过 Red Hat Customer Portal 访问到源代码。CentOS Stream 是一个滚动更新发行版，是 RHEL 的上游，此举增加了 RHEL 的社区发行版如 Alma Linux 和 Rocky Linux 以及甲骨文的企业发行版 Oracle Linux 构建 RHEL 二进制克隆版本的难度。SUSE 表示它在创建 RHEL 的兼容分支之后将其捐赠给开源基金会，然后提供替代源代码的持续访问。\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.suse.com/c/at-suse-we-make-choice-happen/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-12T03:33:43Z",
+  "Author": "Wilson"
+}

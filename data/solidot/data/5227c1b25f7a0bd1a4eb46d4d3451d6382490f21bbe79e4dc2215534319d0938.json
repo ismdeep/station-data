@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软正为 Windows 10 加入 Android 应用支持",
+  "Link": "https://www.solidot.org/story?sid=66245",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软据\u003ca href=\"https://www.windowscentral.com/windows-10-project-latte-android-apps\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e正为 Windows 10 加入 Android 应用支持。该项目被称为 Project Latte，将允许应用开发商无需改变代码或只要略微改一下代码就能将 Android 应用带到 Windows 10 上。在 Windows 上运行的 Android 应用将打包成 \u003ca href=\"https://docs.microsoft.com/en-us/windows/msix/overview\"\u003e MSIX 文件\u003c/a\u003e，可以通过 Windows Store 发行。Project Latte 将基于现有的 Windows Subsystem for Linux (WSL) 子系统。WSL 是 Windows 10 平台上的虚拟化 Linux 内核，让使用 Windows 命令行运行 Linux 应用成为可能，而 Android 也是运行在 Linux 内核上的。为了支持 Android 应用，微软需要实现它的 Android Runtime (ART)版本。微软预计将在明年宣布 Project Latte，预计它将会随 2021 年秋季更新释出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-01T10:40:08Z",
+  "Author": "WinterIsComing"
+}

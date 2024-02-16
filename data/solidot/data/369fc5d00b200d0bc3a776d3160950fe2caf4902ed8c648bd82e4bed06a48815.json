@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "TikTok 否认用户数据源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=72684",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上周五名叫 AgainstTheWest 的黑客组织在一个黑客论坛发帖声称入侵了 TikTok 和微信，称他们访问了一个阿里云实例，其中含有 TikTok 和微信用户数据。AgainstTheWest 称它访问了一个 790GB 大小的数据库，有 20.5 亿条记录，其中包括用户数据、平台统计、软件代码、cookies、身份令牌、服务器信息等等。TikTok \u003ca href=\"https://www.bleepingcomputer.com/news/security/tiktok-denies-security-breach-after-hackers-leak-user-data-source-code/\"\u003e\u003cu\u003e发表声明否认了黑客组织的说法\u003c/u\u003e\u003c/a\u003e，称黑客分享的源代码与该平台无关。微信尚未对此发表声明。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-06T03:10:04Z",
+  "Author": "WinterIsComing"
+}

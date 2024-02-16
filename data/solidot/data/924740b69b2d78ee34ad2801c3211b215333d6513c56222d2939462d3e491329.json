@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软用 Windows App SDK 取代 UWP",
+  "Link": "https://www.solidot.org/story?sid=69312",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正鼓励开发者采用 Windows App SDK 和 WinUI 3 开发 Windows 应用程序，它事实上\u003ca href=\"https://www.thurrott.com/dev/258377/microsoft-officially-deprecates-uwp\"\u003e\u003cu\u003e正式放弃了\u003c/u\u003e\u003c/a\u003e Universal Windows Platform (UWP)。微软曾计划将 UWP 作为一种通用的方案让开发者创建能在移动、桌面和主机上运行的应用，但应者寥寥。去年微软\u003ca href=\"https://www.solidot.org/story?sid=64418\"\u003e\u003cu\u003e透露了\u003c/u\u003e\u003c/a\u003e被称为 Project Reunion 的项目，试图整合 win32 桌面应用和 UWP 应用关键技术，使用 WinUI 3 作为 UI 框架。Project Reunion 就是今天的 Windows App SDK。微软表示，UWP 未来不会再加入新功能，只会引入 Bug、安全和可靠性修正。现有的 UWP 应用开发者如果对现状满意可以继续使用 UWP，但如果想要利用新功能或完全兼容新系统，则需要迁移到 Windows App SDK。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-20T13:18:20Z",
+  "Author": "WinterIsComing"
+}

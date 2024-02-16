@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Stockfish 14 发布",
+  "Link": "https://www.solidot.org/story?sid=68201",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源国际象棋引擎 \u003ca href=\"https://stockfishchess.org/blog/2021/stockfish-14/\"\u003e\u003cu\u003eStockfish 14\u003c/u\u003e\u003c/a\u003e 发布。它的象棋等级分 Elo 比 2016 年发布的版本 Stockfish 7 高 400+，过去五年 Stockfish 引擎平均每年增加 80 Elo。Stockfish 的神经网络 NNUE 有两大显著进步：与 Leela Chess Zero 团队的合作有了结晶，LCZero 提供了数十亿  Leela 评估的位置训练 NNUE；大幅更新了 NNUE 网络的架构。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-05T14:21:53Z",
+  "Author": "WinterIsComing"
+}

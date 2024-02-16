@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将整合客户端翻译功能",
+  "Link": "https://www.solidot.org/story?sid=62331",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 正在 Firefox 中\u003ca href=\"https://www.trustedreviews.com/news/firefox-translation-bergamot-mozilla-3948613\"\u003e\u003cu\u003e整合不收集用户数据的翻译功能\u003c/u\u003e\u003c/a\u003e。Google Chrome 内置的翻译功能 Google Translate 则会将用户数据发送到 Google 服务器。Firefox 整合的是名为 \u003ca href=\"https://browser.mt/\"\u003e\u003cu\u003eBeragmot\u003c/u\u003e\u003c/a\u003e 的客户端翻译引擎。Beragmot 得到了欧盟 300 多万英镑的资助，不同于基于云端的翻译功能，它直接运行在用户的机器上，能保护用户的隐私。通过与开源浏览器如 Firefox 进行整合，将简化非技术人员使用该功能。目前还不清楚 Mozilla 何时推出该功能。有报道称，Mozilla 正在雇佣神经网络机器翻译工程师帮助整合该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-22T11:56:10Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 社区投票选择“专注 Systemd  但支持探索替代”",
+  "Link": "https://www.solidot.org/story?sid=63099",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本月初，Debian 社区就支持非 systemd 初始化系统\u003ca href=\"https://www.solidot.org/story?sid=62885\"\u003e\u003cu\u003e进行投票\u003c/u\u003e\u003c/a\u003e，时间为 20 天。Debian 技术委员会在 2014 年采用 systemd 的决定引发了很多争议，五年之后Debian 又开始重新考虑支持 systemd 之外的其它初始化系统。投票共包含 8 个选项：继续专注于 systemd；systemd 但同时支持探索替代；支持多个初始化系统很重要；支持非 systemd 初始化系统，但避免阻碍进度；支持可移植性，避免阻碍进度；支持多个初始化系统是必要的；支持可移植性和多种初始化系统；进一步讨论。现在，Debian 社区完成了计票，第二选项“systemd 但同时支持探索替代”\u003ca href=\"https://vote.debian.org/~secretary/gr_initsystems/results.txt\"\u003e\u003cu\u003e获胜\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-29T09:11:08Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 从应用商店下架数十个悄悄收集数据的应用",
+  "Link": "https://www.solidot.org/story?sid=71173",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 从应用商店\u003ca href=\"https://www.wsj.com/articles/apps-with-hidden-data-harvesting-software-are-banned-by-google-11649261181\"\u003e\u003cu\u003e下架了\u003c/u\u003e\u003c/a\u003e数十个悄悄收集数据的应用。这些应用都使用了巴拿马公司 Measurement Systems S. de R.L. 开发的 SDK。含有该 SDK 的应用包括了下载量超过一千万的穆斯林祈祷应用，以及高速公路测速器监测应用，二维码阅读应用等。开发者称 Measurement Systems 付费将 SDK 加入到应用中。研究人员称这件事再次凸显了天上是不会掉馅饼的，他们公布了对 Measurement Systems 代码的\u003ca href=\"https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/\" target=\"_blank\"\u003e\u003cu\u003e分析\u003c/u\u003e\u003c/a\u003e。研究人员上个月向 Google 报告了其发现，Google 随后展开了调查，下架了含有该公司 SDK 的应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-07T07:37:07Z",
+  "Author": "WinterIsComing"
+}

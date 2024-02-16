@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软的广告植入导致 Windows 11 崩溃",
+  "Link": "https://www.solidot.org/story?sid=68811",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软的系统广告植入\u003ca href=\"https://www.xda-developers.com/microsoft-breaks-windows-11-by-injecting-ads/\" target=\"_blank\"\u003e\u003cu\u003e导致\u003c/u\u003e\u003c/a\u003e最新版本的 Windows 11 崩溃。微软从 Windows 10 起开始向系统推送广告，而即将在下个月正式发布的 Windows 11 也不例外。软件巨人刚刚向  Dev 和 Beta 渠道的测试者推送了 Windows 11 最新构建版本，测试者们随后就报告他们的开始菜单和任务栏一直崩溃。罪魁祸首被发现是微软植入到系统中的广告。广告旨在推广微软的\u003cspan\u003e即时协作工具 \u003c/span\u003eMicrosoft Teams，该应用已经整合在 Windows 11 中，广告会以通知的形式弹出，即使用户选择关闭了所有通知。此事最令人不可思议的是 Windows 11 shell 是如此的弱不禁风连广告都能将其崩溃。今天的 Windows 系统有很多组件会随时从云端抓取内容，从 Bing 锁屏墙纸到 Windows Update 到广告，当其中一个功能没有正常工作，问题就会随之出现。对于最新的问题，微软推送了修正，如果你的系统处于不可用的状态，那么你需要通过 CTRL-ALT-DEL 设法修改一个注册表项。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-04T03:16:15Z",
+  "Author": "WinterIsComing"
+}

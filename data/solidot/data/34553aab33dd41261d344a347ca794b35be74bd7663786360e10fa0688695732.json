@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FSF 和 GNU 官方 IRC 频道迁移到 Libera.Chat",
+  "Link": "https://www.solidot.org/story?sid=68030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因  Freenode IRC 网络组织结构最近的变动，自由软件基金会（FSF）在 5 月 27 日召开社区会议讨论 FSF 和 GNU 官方 IRC 频道的未来。会议\u003ca href=\"https://www.fsf.org/news/fsf-and-gnu-move-official-irc-channels-to-libera-chat-network\"\u003e\u003cu\u003e决定\u003c/u\u003e\u003c/a\u003e将官方 IRC 频道迁移到 Libera.Chat，立即生效，新官方频道包括 #fsf、#gnu 和 #libreplanet。FSF 是在 2002 年选择  Freenode 作为官方频道的，从 6 月 25 日 UTC 14:00 起，Freenode 网络中的 #fsf、#gnu 和 #libreplanet 将改为 ##fsf、##gnu 和 ##libreplanet，## 前缀代表非官方频道，这意味着它们不再由 FSF 或 GNU 工作人员管理。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-14T14:41:08Z",
+  "Author": "WinterIsComing"
+}

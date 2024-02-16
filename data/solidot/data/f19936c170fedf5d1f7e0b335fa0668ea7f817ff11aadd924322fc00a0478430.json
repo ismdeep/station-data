@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国国土安全部建议 IE 用户换到其它浏览器",
+  "Link": "https://www.solidot.org/story?sid=63353",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国国土安全部\u003ca href=\"https://www.us-cert.gov/ncas/current-activity/2020/01/17/microsoft-releases-security-advisory-internet-explorer\"\u003e\u003cu\u003e对一个 IE 漏洞发出警告\u003c/u\u003e\u003c/a\u003e，建议 IE 用户切换到 Microsoft Edge 或其它替代浏览器。该漏洞影响运行在 Windows 7、8.1 和 Windows 10 上的 Internet Explorer 9、10 和 11。微软通常要等到下月例行更新时才会释出更新修复漏洞。根据软件巨人的\u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV200001\"\u003e\u003cu\u003e安全警告\u003c/u\u003e\u003c/a\u003e，这是一个远程代码执行漏洞，与脚本引擎处理 IE 内存中的对象有关，攻击者可以利用该漏洞获得与当前用户相同的用户权限，也就是如果你是以管理员账号登陆，那么攻击者将能控制受影响的系统。微软警告用户不要点击陌生人发送的链接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-26T12:53:25Z",
+  "Author": "WinterIsComing"
+}

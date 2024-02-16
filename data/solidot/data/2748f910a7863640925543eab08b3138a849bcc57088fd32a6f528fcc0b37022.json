@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Matrix 默认私聊启用端对端加密",
+  "Link": "https://www.solidot.org/story?sid=64297",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMatrix 项目\u003ca href=\"https://matrix.org/blog/2020/05/06/cross-signing-and-end-to-end-encryption-by-default-is-here\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，其私聊功能将默认启用端对端加密。Matrix 是一个端对端加密、去中心化的实时通讯系统，它没有中心服务器，通过网桥与其它平台互通，它在去年六月发布了 1.0 版本。Matrix 开发者表示，自它首次宣布端对端加密和开始在 Riot 客户端中测试已过去了三年，在大量的打磨和改善用户体验之后，它现在宣布结束测试，在 Riot 中默认对所有新私聊启用端对端加密。 Riot 是最常用的 Matrix 客户端，这意味着 Matrix 作为一个整体默认启用了端对端加密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-08T06:59:48Z",
+  "Author": "WinterIsComing"
+}

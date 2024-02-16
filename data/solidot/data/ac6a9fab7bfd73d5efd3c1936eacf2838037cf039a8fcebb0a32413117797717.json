@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客使用泄露的勒索软件攻击俄罗斯公司",
+  "Link": "https://www.solidot.org/story?sid=71205",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 NB65 的黑客组织过去一个月使用 Conti 泄露的勒索软件源代码创建自己的勒索软件去\u003ca href=\"https://www.bleepingcomputer.com/news/security/hackers-use-contis-leaked-ransomware-to-attack-russian-companies/\" target=\"_blank\"\u003e\u003cu\u003e攻击俄罗斯公司\u003c/u\u003e\u003c/a\u003e。俄罗斯机构很少受到勒索软件攻击，这种情况被认为是出于一种默契，俄罗斯黑客通过不攻击本国机构而让执法机构对外国的攻击视而不见。NB65 攻击的机构包括了 Tensor、俄罗斯宇航局、电视广播公司 VGTRK 等。其中对 VGTRK 的攻击最引人注目，黑客窃取了 786.2 GB 数据，包括 900,000 电邮和 4,000 文件，发布在 DDoS Secrets 网站上。Conti 的源代码是在该组织公开支持俄罗斯后被支持乌克兰的成员\u003ca href=\"https://www.solidot.org/story?sid=70811\"\u003e\u003cu\u003e泄露的\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-11T09:51:53Z",
+  "Author": "WinterIsComing"
+}

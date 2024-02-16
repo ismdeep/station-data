@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客将恶意程序植入到 UEFI 固件中",
+  "Link": "https://www.solidot.org/story?sid=70467",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡巴斯基研究人员\u003ca href=\"https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/\" target=\"_blank\"\u003e\u003cu\u003e透露了\u003c/u\u003e\u003c/a\u003e植入到 UEFI 固件中的恶意程序 MoonBounce。该恶意程序被认为来自于 APT41 aka  Winnti 或 Double Dragon。恶意程序修改了主板上名为 SPI flash 的元件，它不在硬盘上，因此格式化硬盘或更换硬盘不会清除恶意程序。修改后的固件镜像允许攻击者拦截引导序列的执行流，引入一个复杂的感染链。研究人员认为，黑客对 UEFI 系统的工作原理有着深刻的理解。感染链只在内存中运行，硬盘上没有留下攻击痕迹。黑客主要对 IT 行业、社交媒体、电信、非营利组织和医疗机构进行攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-22T12:06:45Z",
+  "Author": "WinterIsComing"
+}

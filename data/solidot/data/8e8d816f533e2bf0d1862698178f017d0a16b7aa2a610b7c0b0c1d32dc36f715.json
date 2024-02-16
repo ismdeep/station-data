@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 认为闰秒过时了",
+  "Link": "https://www.solidot.org/story?sid=72279",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为了反映地球自转的变化，每隔几年时钟会增加或减去一秒。但闰秒对计算机来说一直是一个麻烦。由于 Linux 内核对闰秒准备不足，2012 年增加闰秒曾引发了一连串事故，部分网站还瘫痪了。2015 年 和 2016 年增加闰秒也都引发事故，但严重程度要比 2012 年轻得多。国际电信联盟将讨论在 2023 年取消闰秒。而做出这一决定前 Facebook/Meta \u003ca href=\"https://www.theregister.com/2022/07/26/leap_seconds/?td=rt-3a\" target=\"_blank\"\u003e\u003cu\u003e宣布闰秒过时了\u003c/u\u003e\u003c/a\u003e，认为引入新闰秒是危险之举，弊大于利，应引入新技术取代它。Meta 工程师提出的替代方案叫 \u003ca href=\"https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/\" target=\"_blank\"\u003e\u003cu\u003esmearing\u003c/u\u003e\u003c/a\u003e，将 1 闰秒分散到 17 个小时，系统增加额外的一秒但不需要插入闰秒。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-27T15:52:26Z",
+  "Author": "WinterIsComing"
+}

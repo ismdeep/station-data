@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新血液测试能检测出 50 种癌症",
+  "Link": "https://www.solidot.org/story?sid=64019",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国科学家\u003ca href=\"https://www.theguardian.com/science/2020/mar/31/new-blood-test-can-detect-50-types-of-cancer\" target=\"_blank\"\u003e\u003cu\u003e使用 4000 人的血液样本\u003c/u\u003e\u003c/a\u003e，开发出一种新的\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/4/437756.shtm\"\u003e\u003cu\u003e验血方法\u003c/u\u003e\u003c/a\u003e，可在癌症症状出现之前准确鉴定出 50 多种癌症。更重要的是，该方法还能识别出 12 种特别危险的癌症，包括通常到晚期才能诊断出的胰腺癌。研究人员是基于对垂死细胞释放到血液中的 DNA 进行测序，开发了几种验血检测癌症的方法。该团队发现，在大约一百万个位点寻找甲基化模式在筛查癌症方面最有希望。甲基是细胞添加到失活基因中的化学标签，癌细胞都具有异常的甲基化模式。研究人员用 1500 名癌症患者和 1500 名未进行癌症诊断的人的血液样本来训练机器学习系统，然后使用该系统分析了 650 例癌症患者和 610 例非癌症患者的血液样本。结果表明，机器学习系统在鉴别出癌症方面的特异性为99.3%，这意味着仅 0.7% 的非癌症患者被误认为罹患癌症。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-03T05:55:11Z",
+  "Author": "WinterIsComing"
+}

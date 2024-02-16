@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "部分 HPE 固态硬盘因固件问题会在 3 年 9 个月后数据全部丢失",
+  "Link": "https://www.solidot.org/story?sid=62754",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHPE 的企业级固态硬盘埋藏了定时炸弹。HPE \u003ca href=\"https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00092491en_us\"\u003e\u003cu\u003e发布紧急安全通知\u003c/u\u003e\u003c/a\u003e，称它的部分型号固态硬盘因为有缺陷的固件会导致其在通电时间 32,768 小时或 3 年 270 天 8 小时之后停止工作，硬盘里的数据会丢失并无法恢复，同时投入工作的固态硬盘会在几乎同一时间停止工作。在定时炸弹引爆之前客户必须更新固件，否则硬盘和数据都会完全损坏。受影响的型号包括：HPE ProLiant、Synergy、Apollo、JBOD D3xxx、D6xxx、D8xxx、MSA、StoreVirtual 4335 和 StoreVirtual 3200。根据 32768 这个数字\u003ca href=\"https://hardware.slashdot.org/story/19/11/26/164218/some-hpe-ssds-fail-after-3-years-and-9-months-company-warns\"\u003e\u003cu\u003e推测\u003c/u\u003e\u003c/a\u003e，硬盘控制器可能以 16 位整数的形式储存了通电时间。16 位整数的最大值是 32768，超过这个数就变成负值了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-27T03:42:39Z",
+  "Author": "WinterIsComing"
+}

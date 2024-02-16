@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软准备弃用 NTLM 作为身份认证协议",
+  "Link": "https://www.solidot.org/story?sid=76348",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软的 Windows 操作系统过去二十年一直使用 Kerberos 作为默认的身份认证协议，但在部分情况下操作系统会使用 NTLM（NT LAN Manager）。微软现在表示它准备扩大 Kerberos 的使用，最终弃用 NTLM。微软称，Kerberos 提供了更好的安全保障，比 NTLM 更具有扩展性，这是它作为 Windows 首选默认协议的原因。 微软称，它将逐渐减少 NTLM 的使用，采用数据驱动的方法去监视 NTLM 使用的减少情况，确定何时可以禁用 NTLM。\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.neowin.net/news/microsoft-wants-to-eventually-disable-ntlm-authentication-in-windows-11/\u003cbr/\u003e\nhttps://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-16T06:24:44Z",
+  "Author": "Wilson"
+}

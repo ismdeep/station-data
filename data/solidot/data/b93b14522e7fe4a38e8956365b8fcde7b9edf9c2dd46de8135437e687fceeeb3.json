@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌克兰反盗版公司要求 Google 屏蔽 127.0.0.1",
+  "Link": "https://www.solidot.org/story?sid=68598",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t乌克兰电视台 TRK 雇佣的反盗版公司 Vindex 向 Google 递交了 DMCA 通知，要求从搜索结果中移除 127.0.0.1:6878/ace/manifest.m3u。127.0.0.1 通常指向的是本地计算机，该 IP 对应的应该是网站服务器上的一个文件，但没有开启对外访问，而 Google 也不可能对此采取任何行动。Vindex \u003cu\u003e之后\u003c/u\u003e\u003ca href=\"https://torrentfreak.com/anti-piracy-firm-asks-google-to-block-127-0-0-1-210808/\" target=\"_blank\"\u003e\u003cu\u003e回应说\u003c/u\u003e\u003c/a\u003e，它是在 tvizor.org 网站的 HTML 代码中发现这个  127.0.0.1 链接的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-19T01:43:32Z",
+  "Author": "WinterIsComing"
+}

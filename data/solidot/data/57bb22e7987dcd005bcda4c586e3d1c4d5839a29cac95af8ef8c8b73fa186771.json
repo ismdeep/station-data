@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一张 5D 光盘可将 500TB 数据存储数十亿",
+  "Link": "https://www.solidot.org/story?sid=69487",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t南安普顿大学的研究人员\u003ca href=\"https://www.osa.org/en-us/about/newsroom/news_releases/2021/high-speed_laser_writing_method_could_pack_500_ter/\"\u003e\u003cu\u003e开发出\u003c/u\u003e\u003c/a\u003e一种快速节能的激光写入方法，可在石英玻璃中产生高密度纳米结构，可被用于五维（5D）光学数据存储，其密度比蓝光光盘存储技术\u003ca href=\"https://www.extremetech.com/extreme/328700-5d-optical-disc-could-store-500tb-for-billions-of-years\" target=\"_blank\"\u003e\u003cu\u003e高出10,000 倍以上\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-11-1365\u0026amp;id=462661\" target=\"_blank\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Optica》期刊上。\u003cbr/\u003e\n\u003cbr/\u003e\n这种数据存储使用玻璃盘中的三层纳米级点。点的大小、方向和位置（三个维度）提供了用于编码数据的五个“维度”。研究人员表示，5D 光盘在 138 亿年后仍可保持可读性，如果那时还有人来读取它们的话，可能更令人吃惊。在短期内，5D 光学介质即使加热到 1000 摄氏度也可以安然无恙。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n博士研究员 Yuhao Lei 设计的技术使用了具有高重复率的飞秒级激光。该过程一开始使用播种脉冲创建纳米空隙，快速脉冲实际上不需要写入任何数据。重复的弱脉冲利用了一种被称为近场增强（near-field enhancement）的现象以一种更温和的方式蚀刻纳米结构。研究人员评估了不同功率水平的激光脉冲，找到了一种可以在不损坏石英玻璃盘的情况下加快写入速度的功率水平。研究报告的最大数据速度是每秒 100 万立体像素，在 5D 光学系统中，每个位需要多个立体像素。折算出的数据率约为每秒 230 KB。按照这个速度，写满光盘实际可行了，单张光盘容量估计为 500TB。写入如此多数据大约需要两个月的时间，之后就无法更改了。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这项工作仍处于早期阶段，研究团队设法用 5D 光学介质写入并检索了 5GB 的文本数据。读取存储的数据所需的只是显微镜和偏光镜，应该可在无限长的时间内读取。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-03T11:34:34Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《十字军之王III》将允许合法化同性婚姻",
+  "Link": "https://www.solidot.org/story?sid=67414",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在中世纪策略游戏《十字军之王III》中，玩家可以通过一系列改革让中世纪文化接纳同性夫妇，但要允许合法化同性婚姻，现有的版本（v1.3）\u003ca href=\"https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689\" target=\"_blank\"\u003e\u003cu\u003e将需要修改游戏的二进制程序\u003c/u\u003e\u003c/a\u003e。原因是让两个角色结婚的游戏逻辑包含在二进制程序而不是脚本文件中，游戏引擎会单方面阻止同性婚姻。游戏开发商 Paradox 发表\u003ca href=\"https://forum.paradoxplaza.com/forum/threads/legalize-gay-modding.1419274/page-25#post-27415704\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，出于安全理由它禁止修改游戏的二进制程序 ck3.exe，称如果一切按计划进行下一个版本 v1.4 将允许 Mod 开发者实现合法化的同性婚姻。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-07T02:42:53Z",
+  "Author": "WinterIsComing"
+}

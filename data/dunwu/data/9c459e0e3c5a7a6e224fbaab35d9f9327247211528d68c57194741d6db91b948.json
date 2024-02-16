@@ -1,0 +1,8 @@
+{
+  "Source": "dunwu",
+  "Title": "Spring EL 表达式",
+  "Link": "https://dunwu.github.io/blog/pages/1f743f/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003ch1 id=\"Spring-EL-表达式\"\u003e\u003ca href=\"#Spring-EL-表达式\" class=\"headerlink\" title=\"Spring EL 表达式\"\u003e\u003c/a\u003eSpring EL 表达式\u003c/h1\u003e\u003ch2 id=\"参考资料\"\u003e\u003ca href=\"#参考资料\" class=\"headerlink\" title=\"参考资料\"\u003e\u003c/a\u003e参考资料\u003c/h2\u003e\u003cul\u003e\n\u003cli\u003e\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans\"\u003eSpring 官方文档之 Core Technologies\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://time.geekbang.org/course/intro/265\"\u003e《小马哥讲 Spring 核心编程思想》\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n    \u003c/div\u003e",
+  "Date": "2023-01-12T12:26:46Z",
+  "Author": "钝悟 ◾ Dunwu"
+}

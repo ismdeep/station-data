@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "calibre 5.0 发布",
+  "Link": "https://www.solidot.org/story?sid=65645",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源电子书管理软件 calibre \u003ca href=\"https://calibre-ebook.com/new-in/fourteen\"\u003e\u003cu\u003e释出了 5.0 版本\u003c/u\u003e\u003c/a\u003e。主要新特性包括：支持高亮；支持垂直和从右向左显示的文本；Python 2 已经终止了支持，calibre 迁移到了 Python 3，部分第三方插件尚未移植到 Python 3，因此在 calibre 5.0 中将无法工作；完整支持暗色模式；增强了电子书搜索功能；因为迁移到 Python 3，以及数据库格式略有改变，可能会出现一些不兼容的问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-25T05:35:57Z",
+  "Author": "WinterIsComing"
+}

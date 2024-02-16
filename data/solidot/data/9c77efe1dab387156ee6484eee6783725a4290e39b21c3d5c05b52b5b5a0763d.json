@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "可用于 Raspberry Pi 的 SDR 软件镜像",
+  "Link": "https://www.solidot.org/story?sid=63059",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件定义无线电（SDR）革命为无线电爱好者带来了大量的实验机会，但对于新手而言，眼花缭乱的 SDR 软件可能会让他们无从下手。这种情况下，你\u003ca href=\"https://hackaday.com/2019/12/20/all-your-sdr-software-in-a-handy-raspberry-pi-image/\"\u003e\u003cu\u003e可以使用别人打包的一整套软件\u003c/u\u003e\u003c/a\u003e：Luigi Cruz 将流行的 SDR 软件打包在  Raspberry Pi 的\u003ca href=\"https://pisdr.luigifreitas.me/\"\u003e系统镜像\u003c/a\u003e中，其中包括了 SDR Ange、Soapy Remote、GQRX、GNURadio、LimeUtil 和 LimeVNA。它支持 RTL-SDR、LimeSDR、PlutoSDR，Airspy 和 Airspy HF。所有这些都准备就绪，甚至都提供了桌面快捷方式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-25T09:35:19Z",
+  "Author": "WinterIsComing"
+}

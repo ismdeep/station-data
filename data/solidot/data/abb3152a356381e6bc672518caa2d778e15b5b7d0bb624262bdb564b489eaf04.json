@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "《矮人要塞》是如何开发的",
+  "Link": "https://www.solidot.org/story?sid=68424",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《矮人要塞》是一款能在互联网上留下烙印的独立游戏。它是免费游戏，在一个随机生成的幻想世界里玩家可以扮演一位冒险者或管理一个到处是矮人的要塞。整个游戏只有一名开发者：Tarn Adams，aka Toady One，项目始于 2002 年，最初是作为一个副业，从 2006 年开始变成全职，所有代码全是他一个人写的，他的兄弟 Zach Adams 帮助设计和创作了一些基于游戏的故事。到目前为止他的收入全部来自于捐赠，目前正在开发一个改进了 UI 的 Steam 付费版本。Tarn 接受采访\u003ca href=\"https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/\" target=\"_blank\"\u003e\u003cu\u003e谈论了游戏的创作\u003c/u\u003e\u003c/a\u003e，称主要使用 C 和 C++ 语言，开发工具此前是 Microsoft Visual Studio，现在改为 Visual Studio 社区版。游戏包含了 71.1 万行代码，因此漫长开发过程中面临的一个问题是遗忘，他努力维持变量和对象名称的一致性和可记忆，并且留下了足够多的注解。在开发《矮人要塞》期间他还尝试了数十个其它项目，有的只持续了几天，有的持续了数年。大部分与《矮人要塞》无关，但还有部分对开发《矮人要塞》有帮助。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-31T04:35:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome OS 替代 Ubuntu Web Remix",
+  "Link": "https://www.solidot.org/story?sid=66170",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu Unity 发行版团队\u003ca href=\"https://discourse.ubuntu.com/t/ubuntu-web-remix/19394\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e一个  Google Chrome OS/Chromium OS 的开源替代 \u003ca href=\"https://gitlab.com/ubuntu-web/ubuntu-web.gitlab.io\" target=\"_blank\"\u003e\u003cu\u003eUbuntu Web Remix\u003c/u\u003e\u003c/a\u003e，使用 Firefox 而不是 Chrome/Chromium。Ubuntu Unity 是使用  Unity 桌面的发行版，Ubuntu Web Remix 当然远远称不上是 Chrome OS 的成熟替代，Chrome OS 不需要维护，可以无缝更新，支持云端备份，而 Ubuntu Web Remix 只是提供一个简单的替代，强调隐私保护，预装了 Firefox 浏览器，以及部分来自 /e/ 的 web 应用，在 Linux 上运行 Android 应用的工具 Anbox。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-23T13:06:43Z",
+  "Author": "WinterIsComing"
+}

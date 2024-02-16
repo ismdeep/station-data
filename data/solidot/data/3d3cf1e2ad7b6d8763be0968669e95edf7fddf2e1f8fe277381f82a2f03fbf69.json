@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软公布 Windows 一个尚无补丁的蠕虫级漏洞",
+  "Link": "https://www.solidot.org/story?sid=63794",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软发布安全\u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/adv200005\"\u003e\u003cu\u003e公告\u003c/u\u003e\u003c/a\u003e，Server Message Block (SMB)v3.1.1 中的一个漏洞允许攻击者在服务器和终端用户计算机上\u003ca href=\"https://arstechnica.com/information-technology/2020/03/windows-has-a-new-wormable-vulnerability-and-theres-no-patch-in-sight/\"\u003e\u003cu\u003e执行代码\u003c/u\u003e\u003c/a\u003e。SMB 服务被用于在局域网本地和互联网上共享文件、打印机和其它资源。漏洞编号 CVE-2020-0796，影响 Windows 10 v1903 和 1909，以及 Windows Server v 1903 和 1909。微软尚未提供补丁，也没有透露它将何时释出补丁。微软发言人表示暂时无新信息与外界分享。微软表示，该漏洞可通过禁用压缩防止其被用于攻击 SMBv3 服务器，用户可通过 PowerShell 输入指令“Set-ItemProperty -Path \u0026#34;HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanServer\\Parameters\u0026#34; DisableCompression -Type DWORD -Value 1 -Force”关闭压缩。这并不能保护连接恶意 SMB 服务的客户端或服务器，但这一攻击将不会像蠕虫一样扩散。微软还推荐屏蔽用于发送 SMB 流量的端口 445。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-12T06:08:11Z",
+  "Author": "WinterIsComing"
+}

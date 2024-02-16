@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GCC 终于能正式支持兆芯陆家嘴 CPU",
+  "Link": "https://www.solidot.org/story?sid=71067",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t台湾威盛（VIA）与上海市政府的合资企业兆芯在 2019 年\u003ca href=\"https://www.solidot.org/story?sid=61083\" target=\"_blank\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e基于“陆家嘴（LuJiaZui）”微架构的 KX-6000，频率 3.0GHz，性能比上一代 KX-5000 系列提升了 50%，达到了英特尔 i5-7400 的水平。KX-6000 采用 16 纳米工艺制造，为八核 x86-64 处理器。Linux 内核在当时加入了对兆芯陆家嘴的支持，但广泛使用的编译器 GNU Compiler Collection 一直未能正确识别陆家嘴处理器，而是将其错误识别为英特尔的 Core 2 或i386 CPU。本周五兆芯的开发者递交了\u003ca href=\"https://gcc.gnu.org/pipermail/gcc-patches/2022-March/592269.html\" target=\"_blank\"\u003e\u003cu\u003e补丁\u003c/u\u003e\u003c/a\u003e为 GCC 加入了\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Zhaoxin-lujiazui-GCC\" target=\"_blank\"\u003e\u003cu\u003e对陆家嘴 CPU 的正式支持\u003c/u\u003e\u003c/a\u003e。兆芯目前在开发下一代的 KX-7000，采用台积电的 7 纳米工艺，原计划在 2021 年推出，但目前还没有新处理器的消息，可能因为新冠疫情或供应链问题而延期了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-26T08:56:56Z",
+  "Author": "WinterIsComing"
+}

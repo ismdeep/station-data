@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 96 发布",
+  "Link": "https://www.solidot.org/story?sid=70330",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/96.0/releasenotes/\"\u003e\u003cu\u003eFirefox 96\u003c/u\u003e\u003c/a\u003e。主要变化包括：显著改进了噪声抑制和自动增益控制，改善了回音消除，提供了更好的整体体验；大幅减少了主线程负载；默认执行 Cookie Policy: Same-Site=lax 政策，抵御跨站请求伪造（CSRF）攻击；修复了部分网站的视频质量下降问题；Web 开发方面的变化可参考\u003ca href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/96\"\u003e\u003cu\u003e开发者文档\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-11T15:53:56Z",
+  "Author": "WinterIsComing"
+}

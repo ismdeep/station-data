@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "人工智能语音分析帮助诊断阿尔兹海默症",
+  "Link": "https://www.solidot.org/story?sid=70506",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t众所周知，阿尔兹海默症很难诊断。医生通常会综合运用认知测试、脑成像和行为观察进行诊断，这种做法昂贵且耗时。但如果自己在家中轻松采集的快速语音样本\u003ca href=\"https://spectrum.ieee.org/ai-to-detect-alzheimers\" target=\"_blank\"\u003e\u003cu\u003e就能帮助识别阿尔兹海默症患者\u003c/u\u003e\u003c/a\u003e呢？名为 \u003ca href=\"https://www.canaryspeech.com/\" target=\"_blank\"\u003e\u003cu\u003eCanary Speech\u003c/u\u003e\u003c/a\u003e 的公司正在创造此类技术。其算法使用深度学习分析短语音样本，寻找阿尔兹海默症和其他疾病的迹象。深度学习提供商 Syntiant 最近宣布与 Canary Speech 合作，这将使 Canary 能通过医疗设备将主要用于医生办公室和医院的技术带入家中。虽然一些研究发现，使用语音和其他类型数据的深度学习技术在实验室环境中对患有阿尔兹海默症和其他疾病的人进行的分类非常准确，但现实世界中的结果可能会有所不同。尽管如此，人工智能和深度学习技术可能成为困难诊断的有用工具。\n\u003cbr/\u003e\n\u003cbr/\u003e\n大多数人认为阿尔兹海默症——这种最常见的痴呆症会影响记忆力。但是\u003ca href=\"https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(20)30327-8.pdf\" target=\"_blank\"\u003e\u003cu\u003e研究\u003c/u\u003e\u003c/a\u003e表明，阿尔兹海默症即使是在疾病的早期阶段也会影响说话和语言，那时候大多数症状都还难以察觉。虽然人们通常无法察觉这些微妙的影响，但是用成千上万患有/未患有这种疾病的人的语音训练出来的深度学习模型或许能分辨差异。Canary Speech 的首席执行官兼联合创始人 Henry O\u0026#39;Connell 表示：“你感兴趣的是，中枢神经系统在通过语言创造向你传达什么信息？”“这就是 Canary Speech 所做的——我们分析这些数据集。”\n\u003cbr/\u003e\n\u003cbr/\u003e\nO’Connell 表示，到目前为止，该算法一直是基于云端，但是 Canary 与 Syntiant 的合作让应用程序可以基于芯片，速度会更快，内存和存储容量也更大。新技术旨在集成到可穿戴设备中，在不到一秒的时间里分析 20 或 30 秒的语音样本，以分析阿尔兹海默症，并评估焦虑、抑郁甚至是一般能量水平。O’Connell 表示，在正确区分患有和未患有阿尔兹海默症的人的语音方面，Canary 系统的准确率约为 92.5%。一些研究表明，抑郁和焦虑等症状也会影响语言，O’Connell 表示 Canary 正在努力测试并提高算法的准确性，以检测此类状况。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-25T13:23:59Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 CPU 负载端口嗅探",
+  "Link": "https://www.solidot.org/story?sid=63115",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员利用英特尔 CPU 漏洞\u003ca href=\"https://gamozolabs.github.io/metrology/2019/12/30/load-port-monitor.html\"\u003e\u003cu\u003e实现了对其负载端口的嗅探\u003c/u\u003e\u003c/a\u003e。CPU 通过一系列端口发送指令，每一个端口服务于一组指令类型，如算术、内存加载/储存、矢量指令，实现负载端口的嗅探意味着能跟踪系统的所有内存访问。研究人员利用是的早些时候曝出的 Microarchitectural Data Sampling（MDS）漏洞。研究人员称，因为所有负荷都必须经过负荷端口，因此在理论上负荷执行的内容都能被观察到。这项研究将可以帮助深入理解英特尔 CPU 微架构的工作原理。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-30T14:59:09Z",
+  "Author": "WinterIsComing"
+}

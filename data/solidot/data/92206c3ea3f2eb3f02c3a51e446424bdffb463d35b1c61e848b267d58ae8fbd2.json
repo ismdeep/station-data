@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 将在后台检查保存的密码是否已被泄露",
+  "Link": "https://www.solidot.org/story?sid=76986",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 官方博客宣布，Chrome Safety Check 将在后台检查保存的密码是否已被泄露。此外，如果用户使用了一个已从扩展商店下架标记为危险的扩展，以及 Safe Browsing 启用阻止访问一个潜在不安全的网站，Chrome 都会警告桌面用户。Safety Check 会将已保存的登录凭证和已泄露的登录凭证进行对比，它还将检查容易通过暴力破解等手段破解的弱密码和易猜测密码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/google/google-chrome-now-scans-for-compromised-passwords-in-the-background/\u003cbr/\u003e\nhttps://blog.google/products/chrome/google-chrome-december-2023-update/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-26T15:45:31Z",
+  "Author": "Wilson"
+}

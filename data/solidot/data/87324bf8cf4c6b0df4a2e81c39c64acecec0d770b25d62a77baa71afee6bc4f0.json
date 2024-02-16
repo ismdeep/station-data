@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "创建开源浏览器的分支日益成为不可能的任务",
+  "Link": "https://www.solidot.org/story?sid=63866",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今天的主流浏览器几乎全部是基于开源浏览器，但开源社区流行的创建分支却日益变得不切实际，原因是 Web 和浏览器\u003ca href=\"https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html\"\u003e\u003cu\u003e变得太复杂了\u003c/u\u003e\u003c/a\u003e。W3C 的规格数量以平均每年 200 个的速度增长，这些规格大约有 200 万字，一个新的浏览器团队要按照这一速率去实现规格是非常困难的。W3C 目前的规格总文字数为 1.14 亿，比  C11、C++17、UEFI、USB 3.2 和 POSIX 规格文本等加起来还要多几千万，构建一个新的浏览器基本上是不可能的了。创建一个新的浏览器已经相当于阿波罗登月任务或曼哈顿工程了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-19T06:22:44Z",
+  "Author": "WinterIsComing"
+}

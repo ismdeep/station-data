@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 39 将改进游戏性能",
+  "Link": "https://www.solidot.org/story?sid=74785",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 发行版的下一个版本 v39 提议修改 vm.max_map_count 的值，从目前的 65530 增加到 2147483642 (MAX_INT - 5) 。为什么这么做呢？Valve 的掌机 Steam Deck 运行的 SteamOS 就使用了这个值，Fedora 跟着学是明智之举，有助于改进通过 Wine 或基于 Wine 的 Proton 兼容层运行 Windows 游戏的性能。流行游戏如 DayZ、Hogwarts Legacy 或 Counter Strike 2 等调用大量 mmaps   的 Windows 游戏将能实现开箱即用。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://fedoraproject.org/wiki/Changes/IncreaseVmMaxMapCount\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-25T12:14:01Z",
+  "Author": "Wilson"
+}

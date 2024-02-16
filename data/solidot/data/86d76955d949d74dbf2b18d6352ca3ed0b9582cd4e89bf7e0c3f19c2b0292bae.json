@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "西部数据证实它的低端 SSD 更换了闪存降低了性能",
+  "Link": "https://www.solidot.org/story?sid=68716",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t西部数据的低端 SSD 产品 WD Blue SN550 非常受欢迎，自 2019 年年底发布以来一直是各大网站“最佳SSD”榜单上的常客。这款产品采用四通道 PCI Express 3.0 接口，能提供比同价位 SATA SSD 更好的性能表现。但\u003ca href=\"https://arstechnica.com/gadgets/2021/08/silent-changes-to-western-digitals-budget-ssd-may-lower-speeds-by-up-to-50/\"\u003e\u003cu\u003e西部数据被发现替换该产品的闪存显著降低了性能\u003c/u\u003e\u003c/a\u003e。超能网通过评测\u003ca href=\"https://www.expreview.com/80127.html\"\u003e\u003cu\u003e指出\u003c/u\u003e\u003c/a\u003e，2021 年 7 月制造的新版在缓存被占满时的数据写入速度只有每秒 390 MB，仅相当于旧版 SN550 的一半。在对旧版 SN550 进行持续写入测试之后，得到的速度约为每秒610 MB。考虑到新旧两个版本的 SN550 使用相同的 SSD 控制器，因此速度变慢似乎是由劣质 NAND 闪存所导致。西部数据的一位发言人随后证实，他们已自 2021 年 6月 起更换了 NAND 闪存并更新了 WD Blue SN550 中的固件，同时调整了驱动器参数表以体现最新变化。公司发言人强调，“为了在未来提高透明度，我们承诺将在做出任何影响产品实际表现的调整时，及时公布新的参数资料。我们重视客户，也致力于为客户的数据存储需求提供最佳解决方案。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-27T08:28:31Z",
+  "Author": "wanwan"
+}

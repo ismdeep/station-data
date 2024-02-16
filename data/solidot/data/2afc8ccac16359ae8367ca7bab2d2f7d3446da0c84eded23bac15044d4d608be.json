@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Netflix 开源多语言记事本环境 Polynote",
+  "Link": "https://www.solidot.org/story?sid=62367",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNetflix 的技术团队\u003ca href=\"https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源多语言记事本环境 \u003ca href=\"https://polynote.org/\"\u003e\u003cu\u003ePolynote\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/polynote/polynote/blob/master/LICENSE\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上，采用 Apache License 2.0 许可证。Polynote 支持 Scala、Python、SQL 和 Vega。开发者称，Polynote 向数据科学家和机器学习研究员提供了一个记事本环境，允许自由无缝的整合基于 JVM 的机器学习平台。Polynote 受到了集成开发环境（IDE）的启发，提供了类似 IDE 的功能如交互式自动完成、参数提示、内联错误高亮、支持  LaTeX 的富文本编辑器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-25T05:06:27Z",
+  "Author": "wenfeixiang"
+}

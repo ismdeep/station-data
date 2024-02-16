@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 3.8 发布",
+  "Link": "https://www.solidot.org/story?sid=62239",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 语言项目\u003ca href=\"https://www.python.org/downloads/release/python-380/\"\u003e\u003cu\u003e正式释出了\u003c/u\u003e\u003c/a\u003e新的大更新版本 v3.8，下一个版本 3.9 已在开发之中。Python 语言每一年半时间发布一个大更新版本，今年早些时候开发者\u003ca href=\"https://lwn.net/Articles/791186/\" target=\"_blank\"\u003e\u003cu\u003e谈论加快发布节奏\u003c/u\u003e\u003c/a\u003e，比如采用一年一次大更新，但决定尚未作出。Python 3.8 的\u003ca href=\"https://docs.python.org/zh-cn/3.8/whatsnew/3.8.html\"\u003e\u003cu\u003e主要变化\u003c/u\u003e\u003c/a\u003e包括：新的赋值表达式语法 :=；新增了一个函数形参语法 / 用来指明某些函数形参必须使用仅限位置而非关键字参数的形式；用于已编译字节码文件的并行文件系统缓存；调试构建使用与发布构建相同的 ABI；f - 字符串支持 = 用于自动记录表达式和调试文档；新的 C API 用来配置 Python 初始化，等等，更多可浏览文档。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-15T03:56:52Z",
+  "Author": "wenfeixiang"
+}

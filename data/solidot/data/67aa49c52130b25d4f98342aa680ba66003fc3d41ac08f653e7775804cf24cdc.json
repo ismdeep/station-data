@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 11 'bullseye' 开发开始冻结",
+  "Link": "https://www.solidot.org/story?sid=66667",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 项目\u003ca href=\"https://lists.debian.org/debian-devel-announce/2021/01/msg00002.html\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e代号为 Bullseye 的 Debian 11 开发开始冻结，从 1 月 12 日起进入冻结程序，2 月 12 日软件冻结，停止接受新软件包；3 月 12 日硬冻结；完全冻结的日期未定。开发冻结意味着不会再加入新特性，之后所有的工作将集中在打磨上，改进软件的质量。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-15T06:58:06Z",
+  "Author": "WinterIsComing"
+}

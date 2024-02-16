@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "三星蓝光播放器故障的罪魁祸首是它下载的 XML 配置文件",
+  "Link": "https://www.solidot.org/story?sid=64986",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上个月，三星用户报告多款蓝光播放器突然\u003ca href=\"https://www.solidot.org/story?sid=64718\" target=\"_blank\"\u003e\u003cu\u003e停止工作\u003c/u\u003e\u003c/a\u003e。三星已宣布向受影响的用户提供免费的邮寄维修。对于故障原因，有人猜测可能是 HTTPS 证书过期了，但根据目前所知的消息，\u003ca href=\"https://www.theregister.com/2020/07/18/samsung_bluray_mass_dieoff_explained/\"\u003e\u003cu\u003e罪魁祸首是它下载的 XML 配置文件\u003c/u\u003e\u003c/a\u003e。受影响的播放器都联网了，不联网的播放器不受影响，这些播放器会记录用户活动然后将其发送给三星。播放器的活动记录和发送由一个 XML 日志策略文件定义。当用户接受了隐私条款之后播放器就会将日志发送给三星。即使用户不接受隐私条款不下载软件更新，只要联网播放器仍然会定时的从三星服务器获取配置文件。2020 年 6 月 18 日推送的 XML 配置文件没有格式化去兼容设备代码，它包含了空的  list 元素。正是这个空   list 元素导致了固件崩溃。由于每一次重启固件都被硬编码去解析 XML 配置文件，这就导致播放器循环崩溃重启。蓝光播放器无法通过软件补丁修复这个问题，只能邮寄送检。三星在 6 月 27 日替换了有问题的文件，防止它继续影响用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-19T12:43:26Z",
+  "Author": "WinterIsComing"
+}

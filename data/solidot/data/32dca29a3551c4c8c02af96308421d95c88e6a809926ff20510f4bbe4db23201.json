@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Sudo 漏洞让用户能获得 root 权限",
+  "Link": "https://www.solidot.org/story?sid=66793",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全审计公司 Qualys \u003ca href=\"https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一个有 10 年历史的 Sudo 严重漏洞，允许 Linux 用户获得 root 级别的权限。该漏洞被称为 \u003ca href=\"https://www.sudo.ws/alerts/unescape_overflow.html\" target=\"_blank\"\u003eBaron Samedit\u003c/a\u003e，编号 \u003ca href=\"http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3156\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eCVE-2021-3156\u003c/a\u003e，Sudo 团队已经释出了补丁。该漏洞允许已经获得低权限账号的攻击者获得 root 权限，即使账号没有列入控制账号访问的配置文件  /etc/sudoers 中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-28T11:22:03Z",
+  "Author": "WinterIsComing"
+}

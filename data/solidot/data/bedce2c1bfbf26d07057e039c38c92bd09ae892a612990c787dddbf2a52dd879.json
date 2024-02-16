@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": ".NET Core 3.0 结束了.NET Framework 的 API 移植",
+  "Link": "https://www.solidot.org/story?sid=62247",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t未来的.NET 框架将基于 .NET Core，而微软\u003ca href=\"https://github.com/dotnet/announcements/issues/130\"\u003e\u003cu\u003e已经基本完成了\u003c/u\u003e\u003c/a\u003e.NET Framework API 的移植。微软开发者称，.NET Core 1.0 只包含 18k .NET Framework API，到 2.0 中这一数量增加到了 60K，到 .NET Core 3.0 API 的移植数量超过了 120k，此外微软还加入了.NET Framework 中没有的 62K API。微软称它已经移植了 .NET Framework 应用所需所有的技术。对于没有计划移植的技术，微软计划在 MIT 许可证下开源更多 .NET Framework 代码库，由社区去创建相应的开源项目。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-15T12:11:37Z",
+  "Author": "wenfeixiang"
+}

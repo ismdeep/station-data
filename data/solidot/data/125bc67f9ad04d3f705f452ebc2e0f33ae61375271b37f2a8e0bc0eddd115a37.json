@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cloudflare 发布工具测试 ISP 是否部署 BGP 安全系统",
+  "Link": "https://www.solidot.org/story?sid=64171",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t边界网关协议 BGP 是互联网核心基础设施的组成部分，但过去几年 BGP 发生过许多次严重的路由泄漏，导致一个网络的流量被重定向路由经过其它网络。BGP 路由泄露有可能是失误造成的，但也有的因为频繁发生而被认为潜在具有恶意。BGP 的问题在于它过于信任收到的路由广播通告。名为 Resource Public Key Infrastructure (RPKI) 的\u003ca href=\"https://isbgpsafeyet.com/#what-is-rpki\"\u003e安全系统\u003c/a\u003e试图解决这个问题，通过 RPKI 来确保路由通告是合法的。但有多少 ISP 部署了 RPKI？云服务商 Cloudflare 发布了名叫 \u003ca href=\"https://isbgpsafeyet.com/\" target=\"_blank\"\u003e\u003cu\u003eIs BGP safe yet? \u003c/u\u003e\u003c/a\u003e的在线工具测试 ISP 是否部署 RPKI。举例来说，测试显示，中国电信 AS4134 没有使用 RPKI，因此这个工具会显示 BGP 不安全。它还建议用户透过社交网络公布测试结果，通过“公开羞辱”的方式督促 ISP 采取行动确保 BGP 安全。Cloudflare 的做法\u003ca href=\"https://www.aa.net.uk/etc/news/bgp-and-rpki/\"\u003e不是所有人都认同\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-20T13:51:47Z",
+  "Author": "WinterIsComing"
+}

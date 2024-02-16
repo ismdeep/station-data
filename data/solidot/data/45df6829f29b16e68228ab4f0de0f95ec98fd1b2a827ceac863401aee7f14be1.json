@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客通过联网打印机传播反抗不公平薪水和呼吁组建工会的宣言",
+  "Link": "https://www.solidot.org/story?sid=69875",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t网民通过社交媒体报告他们公司的联网打印机\u003ca href=\"https://hardware.slashdot.org/story/21/12/03/2226225/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos\" target=\"_blank\"\u003e\u003cu\u003e打印了\u003c/u\u003e\u003c/a\u003e反抗不公平薪水和呼吁组建工会的宣言。一份宣言称，“你的薪水是否过低？”“你有受法律保护的权利与你的同事讨论你的薪水...糟糕的薪水之所以存在是因为人们\u0026#39;愿意\u0026#39;为之工作。”安全研究人员观察到有黑客在大规模扫描开放 TCP 9100 端口的打印机设备，然后打印预先写好的文件，内容涉及到与 Reddit 子频道 /r/antiwork 相关的反资本主义内容。安全公司 GreyNoise 的创始人  Andrew Morris 称这一事件背后的一个或多个人通过 25 个服务器大规模传播这些印刷品。他\u003ca href=\"https://www.vice.com/en/article/qjbb9d/hackers-are-spamming-businesses-receipt-printers-with-antiwork-manifestos\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e无法确认受影响的打印机数量，搜索引擎 Shodan 的数据显示有数以千计的打印机暴露在互联网上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-04T15:08:13Z",
+  "Author": "WinterIsComing"
+}

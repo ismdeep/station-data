@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯运行 Linux 的自研 PC",
+  "Link": "https://www.solidot.org/story?sid=68504",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯 PC 制造商 IRU \u003ca href=\"https://www.theregister.com/2021/08/10/baikall_iru_arm_pcs/\" target=\"_blank\"\u003e\u003cu\u003e开始用本国研发的处理器制造\u003c/u\u003e\u003c/a\u003e\u003cu\u003e工作站\u003c/u\u003e，相关产品被认为主要供政府机构和军方使用。该公司也研发了面向普通用户的型号。IRU 使用的 SoC 由 Baikal 公司设计，利用了 Arm 和 MIPS 的技术，该 SoC 由 8 个 Arm Cortex-A57 核心运行频率 1.5GHz 和 8 个 Mali-T628 GPU 构成，支持双通道 DDR3/4 内存，4MB L2 缓存和 8MB L3 缓存，支持 PCIe 3、USB 3.0 和 2.0。A57 是 Raspberry Pi 4 使用的 A72 的上一代产品。PC 运行的操作系统是 \u003ca href=\"https://astralinux.ru/\"\u003e\u003cu\u003eAstra Linux\u003c/u\u003e\u003c/a\u003e，Baikal 称安装的软件都经过了政府部门的批准。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-10T11:02:23Z",
+  "Author": "WinterIsComing"
+}

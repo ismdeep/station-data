@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "BAT 创建新视频流标准",
+  "Link": "https://www.solidot.org/story?sid=70922",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国三大互联网巨头 BAT（字节跳动、阿里巴巴和腾讯）宣布\u003ca href=\"https://www.theregister.com/2022/03/11/bytedance_alibaba_tencent_video_standard/\" target=\"_blank\"\u003e\u003cu\u003e创建一种新视频流标准\u003c/u\u003e\u003c/a\u003e——“超低延迟直播协议信号标准（ultra-low latency live broadcast protocol signalling standard）”。新标准旨在解决视频流启动的问题，BAT 称现有的流媒体用户需要等待三到六秒钟才能开始观看视频，新标准试图将这一启动时间减少到一秒钟甚至半秒。新技术可能是基于 WebRTC，BAT 称 WebRTC 缺乏鲁棒的初始信号功能。新标准的代码尚未公开。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-11T14:37:46Z",
+  "Author": "WinterIsComing"
+}

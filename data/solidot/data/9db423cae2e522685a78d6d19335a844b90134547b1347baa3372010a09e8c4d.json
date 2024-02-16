@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NASA 成功修复哈勃望远镜",
+  "Link": "https://www.solidot.org/story?sid=68307",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在切换到备用硬件之后 NASA \u003ca href=\"https://www.nasa.gov/feature/goddard/2021/operations-underway-to-restore-payload-computer-on-nasas-hubble-space-telescope\" target=\"_blank\"\u003e\u003cu\u003e成功修复了\u003c/u\u003e\u003c/a\u003e哈勃太空望远镜。此前因为负荷计算机故障望远镜已经处于“安全模式”一个多月，故障的源头已被跟踪到一个向故障计算机供电的控制单元。NASA 切换的备用硬件包括了该电源控制单元和  Command Unit/Science Data Formatter (CU/SDF)，在切换完成之后，备用的负荷计算机启用加载飞行软件，开始进入到正常工作模式。下一步是将科学仪器从“安全模式”恢复到正常工作模式。这预计还需要一天时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-16T15:31:00Z",
+  "Author": "WinterIsComing"
+}

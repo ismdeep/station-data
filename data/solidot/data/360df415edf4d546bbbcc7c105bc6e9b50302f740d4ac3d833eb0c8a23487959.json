@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "关于 Linux 服务器普通用户 host 配置",
+  "Link": "https://www.solidot.org/story?sid=71294",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道\u003ci\u003e \u0026#34;由于连接 github.com 有时会超时，发现是因为访问域名服务器慢的问题。虽然一般可以通过设置代理，或者将主机及其对应的ip配置在linux的/etc/hosts中解决。但一般只有root用户对/etc/hosts有写权限，所以请问有没有“用户级”的host配置？（我google半天没查到），或者有没有其他的办法呀？（不想用代理QAQ）\n\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-20T03:11:01Z",
+  "Author": "WinterIsComing"
+}

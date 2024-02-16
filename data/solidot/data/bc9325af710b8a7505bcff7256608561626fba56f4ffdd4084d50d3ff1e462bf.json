@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果宣布了 M2 Ultra 芯片",
+  "Link": "https://www.solidot.org/story?sid=75164",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 WWDC 大会上，苹果宣布了用于 Mac Studio 和 Mac Pro 新工作站的 M2 Ultra 芯片。M2 Ultra 使用 5 纳米工艺制造，有 1,340 亿个晶体管，比 M1 Ultra 多 200 亿，它使用 UltraFusion 技术将两块 M2 Max 芯片封装在一起。内存最高支持 192GB，内存带宽 800GB/s。M2 Ultra 包含了一个 24 核的 CPU，其中 16 个性能核心和 8 个效能核心，GPU 有 60 核和 76 核两个版本，此外还配备了 32 核神经网络引擎，其性能比 M1 Ultra 提升最高 40%。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.apple.com.cn/newsroom/2023/06/apple-introduces-m2-ultra/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-06T07:07:55Z",
+  "Author": "Wilson"
+}

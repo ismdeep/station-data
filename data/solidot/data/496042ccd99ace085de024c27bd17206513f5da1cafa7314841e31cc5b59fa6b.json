@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.18 将改进对英特尔大小核的支持",
+  "Link": "https://www.solidot.org/story?sid=70640",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 5.18 将加入对 Intel Hardware Feedback Interface (HFI 或称为 Enhanced Hardware Feedback interface - EHFI)的支持，\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-HFI-For-Linux-5.18\"\u003e\u003cu\u003e以更好的利用英特尔新处理器的大小核\u003c/u\u003e\u003c/a\u003e。英特尔 Alder Lake 首次使用了混合核心，其中包括性能 P 核心和能效 E 核心，在理想情况下后台任务和轻量级负荷可以用 E 核心以节省电力，而延迟敏感和计算密集任务可使用 P 核心。但无论是 Windows 还是 Linux 对大小核的支持都称不上理想，Linux 可能更差，但这一情况将随着 Linux 5.18 的发布而有所改善。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-13T12:48:42Z",
+  "Author": "WinterIsComing"
+}

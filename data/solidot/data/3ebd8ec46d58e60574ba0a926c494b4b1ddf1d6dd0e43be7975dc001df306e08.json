@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ChromeOS 正在切分浏览器和操作系统",
+  "Link": "https://www.solidot.org/story?sid=75689",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChromeOS 正在将浏览器和操作系统分离开来。该项目代号 Lacros——代表 \u003cstrong\u003eL\u003c/strong\u003einux \u003cstrong\u003eA\u003c/strong\u003end \u003cstrong\u003eC\u003c/strong\u003eh\u003cstrong\u003eR\u003c/strong\u003eome \u003cstrong\u003eOS\u003c/strong\u003e。顾名思义，也就是将 ChromeOS 的 Linux OS 和 Chrome 浏览器分开，允许 Google 独立更新这两大组件。今天的 Chrome OS 系统 UI(包括 ash window manager、login screen 等) 和浏览器都位于相同的二进制程序中，分开之后将变成两个二进制程序，分别为 ash-chrome (系统 UI) 和 lacros-chrome (浏览器)，此举的一个意图是加入更多对 Wayland 的支持。ChromeOS 此前使用了一个 Google 自己开发的图形栈 Freon，而 Wayland 是今天包括 Android 在内的 Linux 系统和应用广泛使用的图形栈，它将作为 ChromeOS 的原生图形使用。Google 也将无需为 ChromeOS 定制 Chrome，可以直接使用 Linux 版本。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-03T03:16:45Z",
+  "Author": "Wilson"
+}

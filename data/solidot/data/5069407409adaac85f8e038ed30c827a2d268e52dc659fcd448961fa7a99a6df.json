@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FFmpeg 6.0 释出",
+  "Link": "https://www.solidot.org/story?sid=74253",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源多媒体框架 FFmpeg 项目释出了代号为冯·诺依曼（Von Neumann）的 v6.0。FFmpeg 被多媒体应用广泛使用，其中之一是 VLC。FFmpeg 6.0 的新特性包括：CLI 多线程，RISC-V 优化，AV1 硬件编解码支持英特尔、AMD 和英伟达，众多 API 改动，新解码器 Bonk、APAC、APAC、Mi-SC4、100i、VQC、FTR 等等。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttp://www.ffmpeg.org/download.html#release_6.0\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-28T07:54:36Z",
+  "Author": "Wilson"
+}

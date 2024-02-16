@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 13 虚拟化让 Pixel 6 手机能运行 Windows 11 和 Linux 发行版",
+  "Link": "https://www.solidot.org/story?sid=70653",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 最近开放测试的 Android 13 开发者预览版\u003ca href=\"https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e能让 Pixel 6 之类的硬件能运行 Windows 11 和 Linux 发行版。Android 13 利用了 KVM 虚拟化框架，Android 和 Web 开发者“\u003ca href=\"https://twitter.com/kdrag0n\"\u003e\u003cu\u003ekdrag0n\u003c/u\u003e\u003c/a\u003e” 在 Twitter 上发布了一系列视频，在 Pixel 6 手机上测试运行 \u003ca href=\"https://twitter.com/kdrag0n/status/1493088558676017152\" target=\"_blank\"\u003e\u003cu\u003eWindows 11\u003c/u\u003e\u003c/a\u003e、Ubuntu 21.10、\u003ca href=\"https://twitter.com/kdrag0n/status/1492833078410047488\" target=\"_blank\"\u003e\u003cu\u003eArch Linux Arm\u003c/u\u003e\u003c/a\u003e、Void Linux 和  Alpine Linux，并尝试玩了经典射击游戏 \u003ca href=\"https://twitter.com/kdrag0n/status/1493089098944237568\"\u003e\u003cu\u003eDoom\u003c/u\u003e\u003c/a\u003e（旧版）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-14T14:18:00Z",
+  "Author": "WinterIsComing"
+}

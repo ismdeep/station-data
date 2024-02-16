@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10、iOS 和 Chrome 等在中国安全挑战赛上被攻陷",
+  "Link": "https://www.solidot.org/story?sid=66035",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t中国白帽子黑客被限制参加国外的安全挑战赛如 Pwn2Own，于是他们创办了一个国内的比赛去展现自己的技艺。这个比赛叫\u003ca href=\"http://www.tianfucup.com/\"\u003e\u003cu\u003e天府杯\u003c/u\u003e\u003c/a\u003e，2018 年举办了第一届，第三届于上周末举行。在这次安全挑战赛上，运行在 iPhone 11 Pro 上的 iOS 14 、三星 Galaxy S20、Windows 10 v2004、Ubuntu、Chrome、Safari、Firefox、Adobe PDF Reader、Docker (Community Edition)、VMWare EXSi、QEMU、VirtualBox、普联和华硕的路由器等成功遭到攻陷。360政企安全漏洞研究院获得了最佳产品破解奖一等奖，蚂蚁安全光年实验室基础研究小组获得二等奖。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-09T05:27:27Z",
+  "Author": "WinterIsComing"
+}

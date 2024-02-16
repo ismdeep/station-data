@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Avast 称黑客通过窃取雇员的 VPN 凭证入侵了其内网",
+  "Link": "https://www.solidot.org/story?sid=62320",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t杀毒软件开发商 Avast 称黑客通过窃取雇员的 VPN 凭证\u003ca href=\"https://www.zdnet.com/article/avast-says-hackers-breached-internal-network-through-compromised-vpn-profile/\"\u003e\u003cu\u003e入侵了其内网\u003c/u\u003e\u003c/a\u003e，而该账户没有多步认证保护。Avast 在 9 月 23 日发现了入侵，它发现的证据显示攻击者对其基础设施的攻击至少可上溯到今年 5 月 14 日。攻击者获取的账户没有域管理员权限，但成功利用提权，攻击者设法获得了域管理员权限。突然的访问权限提升被 Avast 注意到并展开了调查，它有意让入侵的账户继续活跃，以跟踪其活动。Avast  称黑客的目的是向其流行的清理软件 CCleaner 注入恶意程序。此前 CCleaner 曾在 2017 年被植入恶意代码，那次攻击被认为\u003ca href=\"https://www.solidot.org/story?sid=53920\"\u003e\u003cu\u003e与中国有关\u003c/u\u003e\u003c/a\u003e。Avast 在发布新版 CCleaner 的同时改变了签名证书，并撤销了旧版本使用的证书，重置了所有雇员的凭证。Avast 称没有证据显示发动攻击的黑客与 2017 年入侵其基础设施的中国黑客组织是同一个组织。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-22T03:56:25Z",
+  "Author": "wenfeixiang"
+}

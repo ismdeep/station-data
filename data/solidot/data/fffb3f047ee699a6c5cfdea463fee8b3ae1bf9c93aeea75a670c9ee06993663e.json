@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "俄罗斯黑客释放的 U 盘蠕虫扩散到世界各地",
+  "Link": "https://www.solidot.org/story?sid=76690",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t俄罗斯黑客释放的 U 盘蠕虫扩散到了世界各地。有着 Gamaredon、Primitive Bear、ACTINIUM、Armageddon 和 Shuckworm 等众多名字的黑客组织主要针对乌克兰的实体目标，它被认为与俄罗斯联邦安全局有关联。它使用的一种恶意工具是通过 U 盘传播的蠕虫 LitterDrifter。安全公司 Check Point Research 的研究人员报告，他们在美国、越南、智利、波兰、德国和香港等国家和地区监测到了感染 LitterDrifter 的证据，表明了这种 U 盘蠕虫的扩展。乌克兰之外国家的感染数量接近其半数。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/?p=1985993\u003cbr/\u003e\nhttps://research.checkpoint.com/2023/malware-spotlight-into-the-trash-analyzing-litterdrifter/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-22T07:04:36Z",
+  "Author": "Wilson"
+}

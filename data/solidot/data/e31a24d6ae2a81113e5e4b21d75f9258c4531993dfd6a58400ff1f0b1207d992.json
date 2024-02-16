@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MojoJson 发布 v1.2 版本",
+  "Link": "https://www.solidot.org/story?sid=63234",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://github.com/scottcgi/MojoJson\"\u003e代码搬运工\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://github.com/scottcgi/MojoJson\" target=\"_blank\"\u003eMojoJson\u003c/a\u003e（Github）是一个超级轻量级和超级快速的 JSON 解析器，准确的说是一个通用的 JSON 解析算法，可以被任何编程语言实现。目前提供了\u003ca href=\"https://github.com/scottcgi/MojoJson/blob/master/MojoJson.cs\" target=\"_blank\"\u003e C#\u003c/a\u003e 的实现和 \u003ca href=\"https://github.com/scottcgi/MojoJson/blob/master/Json.c\" target=\"_blank\"\u003eC \u003c/a\u003e的实现，前者核心解析代码只有 400 行（不包括数据获取 API），后者只有 300 行（不包括基础数据结构）。\n\u003cp\u003ev1.2 版本优化了C#的实现，达到了无以复加的精快（就像叶问的咏春），并增加了 C 的实现版本，两种实现均无第三方依赖，一个文件导入任何项目，开启对 JSON 的数据掌控。\u003c/p\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e最后，MojoJson 执行 MIT License，无心智负担轻松使用。\u0026#34;\u003c/i\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-11T04:22:36Z",
+  "Author": "WinterIsComing"
+}

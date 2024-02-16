@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布采用 3D 缓存技术的 Epyc 处理器",
+  "Link": "https://www.solidot.org/story?sid=71026",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在第一款采用 3D 缓存技术的桌面处理器 Ryzen 7 5800X3D 之后，AMD \u003ca href=\"https://www.theregister.com/2022/03/21/amd_epyc_cpu/?td=rt-3a\" target=\"_blank\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e采用 3D 缓存技术的 Epyc 服务器处理器 Milan-X，其 L3 缓存高达 768MB，而去年发布的 Milan 处理器的 L3 缓存为 256MB。AMD 声称对于缓存敏感的计算任务，新芯片能带来巨大的性能提升，比英特尔最新的至强处理器快 23-88%。Milan-X 处理器兼容于现有的支持 Milan 处理器的平台。对于缓存不敏感的应用，新 Milan-X 与旧 Milan 没什么区别。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-22T14:00:37Z",
+  "Author": "WinterIsComing"
+}

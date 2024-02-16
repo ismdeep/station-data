@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将开始对加拿大用户默认启用 DoH",
+  "Link": "https://www.solidot.org/story?sid=68237",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 与加拿大 DoH 提供商 CIRA（Canadian Internet Registration Authority）合作，\u003ca href=\"https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/\" target=\"_blank\"\u003e\u003cu\u003e将开始对部分加拿大用户默认启用 DoH\u003c/u\u003e\u003c/a\u003e。DoH 代表 DNS-over-HTTPS，将加密用户的 DNS 请求，保护用户隐私和网络安全。Mozilla 将从 7 月 20 日开始对 1% 的 Firefox 加拿大用户默认启用 DoH，到 9 月下月覆盖到 100% 的用户。此前 Mozilla 在 2020 年 2 月对美国的 Firefox 用户启用了 DoH。CIRA 加入了 Mozilla 的 Trusted Recursive Resolver (TRR)项目，成为加拿大第一家全球第四家提供加密 DNS 服务的提供商，\u003ca href=\"https://wiki.mozilla.org/Security/DOH-resolver-policy\" target=\"_blank\"\u003e\u003cu\u003e其它三家\u003c/u\u003e\u003c/a\u003e是 Cloudflare、Comcast 和 NextDNS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-09T03:44:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "加密货币平台 MISO 遭遇供应链攻击",
+  "Link": "https://www.solidot.org/story?sid=68991",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSushiSwap 首席技术官表示，该公司的 MISO 平台\u003ca href=\"https://arstechnica.com/information-technology/2021/09/cryptocurrency-launchpad-hit-by-3-million-supply-chain-attack/\" target=\"_blank\"\u003e\u003cu\u003e遭到软件供应链攻击\u003c/u\u003e\u003c/a\u003e。SushiSwap 是一套社区驱动的去中心化金融（DeFi）平台，允许用户一站完成加密货币资产的交易、赚取、借出、借入及使用等操作。今年早些时候\u003ca href=\"https://medium.com/sushiswap-org/sushi-miso-the-perfect-combo-9883548706b1\"\u003e\u003cu\u003e推出\u003c/u\u003e\u003c/a\u003e的最新产品 Minimal Initial SushiSwap Moffering（MISO）是一个代币启动板，允许各加密货币项目在 Sushi 网络上发布自己的代币。与需要原生区块链及实体基础设施的传统加密货币不同，DeFi 代币是一种更易于实现的替代方案，能够直接在现有区块链上运行。例如任何人都可以在以太坊区块链上创建自己的“数字代币”，且无需从零开始构建新的加密货币。\u003cbr/\u003e\n\u003cbr/\u003e\nSushiSwap 首席技术官 Joseph Delong 在其  Twitter \u003ca href=\"https://archive.is/7U3gO\"\u003e\u003cu\u003e帖子\u003c/u\u003e\u003c/a\u003e中透露 MISO 启动板的拍卖机制已遭供应链攻击劫持。化名为\u003ca href=\"http://web.archive.org/web/20210917121931/https://github.com/AristoK3\"\u003e\u003cu\u003e AristoK3\u003c/u\u003e\u003c/a\u003e 的 GitHub 匿名合同工访问了项目代码库递交了\u003ca href=\"https://github.com/sushiswap/miso-studio/commit/46da2b4420b34dfba894e4634273ea68039836f1\" target=\"_blank\"\u003e恶意代码\u003c/a\u003e推送给了平台前端。攻击者在拍卖创建过程中插入了自己的钱包地址替换拍卖创建时的 auctionWallet。SushiSwap 已经要求加密货币交易所币安及 FTX 提供攻击者的记录，希望借此识别攻击者身份。币安方面表示正在调查这起事件，并提出与 SushiSwap 开展合作。攻击者共窃取了 864.8 个以太坊，价值约 300 万美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-18T10:32:02Z",
+  "Author": "wanwan"
+}

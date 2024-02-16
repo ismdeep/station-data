@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件 DeadBolt 以 QNAP NAS 设备为攻击目标",
+  "Link": "https://www.solidot.org/story?sid=72714",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tNAS 设备制造商 QNAP 发布\u003ca href=\"https://www.qnap.com.cn/zh-cn/security-advisory/qsa-22-24\"\u003e\u003cu\u003e安全警告\u003c/u\u003e\u003c/a\u003e，督促客户立即更新他们的联网存储设备，以防御勒索软件 DeadBolt 的攻击。DeadBolt 利用 QNAP NAS 设备上 Photo Station 软件的漏洞感染设备破坏用户储存的数以 TB 的数据。QNAP 督促客户禁用端口转发功能并更新固件修复漏洞。受影响的版本为：\u003cbr/\u003e\nQTS 5.0.1: Photo Station 6.1.2 及以上版本\u003cbr/\u003e\nQTS 5.0.0/4.5.x: Photo Station 6.0.22 及以上版本\u003cbr/\u003e\nQTS 4.3.6: Photo Station 5.7.18 及以上版本\u003cbr/\u003e\nQTS 4.3.3: Photo Station 5.4.15 及以上版本\u003cbr/\u003e\nQTS 4.2.6: Photo Station 5.2.14 及以上版本\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-08T11:33:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 将禁用 WEP 加密",
+  "Link": "https://www.solidot.org/story?sid=62601",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据微软刚刚更新的功能停止支持\u003ca href=\"https://docs.microsoft.com/zh-cn/windows/deployment/planning/windows-10-deprecated-features\"\u003e\u003cu\u003e文档\u003c/u\u003e\u003c/a\u003e，Windows 10 将禁用 WEP 加密。微软称，在 v1903 版本中，当 Windows 10 连接到使用 WEP 或 TKIP 加密的 Wi-Fi 网络时会显示警告信息，WEP 或 TKIP 加密都早已不再安全。Windows 10 的未来版本中将禁止使用这些旧加密技术，微软建议用户将 Wi-Fi 路由器更新使用 WPA2 或 WPA3 加密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-14T04:42:45Z",
+  "Author": "wenfeixiang"
+}

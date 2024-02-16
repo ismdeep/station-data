@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果释出 iOS 13.5.1 堵上 Unc0ver 越狱利用的漏洞",
+  "Link": "https://www.solidot.org/story?sid=64547",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果释出\u003ca href=\"https://support.apple.com/en-us/HT211214\"\u003e\u003cu\u003e iOS 13.5.1\u003c/u\u003e\u003c/a\u003e，堵上了 Unc0ver 越狱工具利用的内核漏洞。黑客最近\u003ca href=\"https://www.solidot.org/story?sid=64484\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e iPhone 新越狱工具 unc0ver，允许任何人获得运行 iOS 11 以上版本的手机 root 访问权限，用户将可以自由安装非官方应用商店的应用，但该越狱方法在重启之后就会失效。苹果在 iOS 13.5.1 的描述中称，该更新将会防止一个应用程序使用内核特权执行任意代码，换句话说 iOS 13.5.1 就是阻止越狱。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-02T13:48:44Z",
+  "Author": "WinterIsComing"
+}

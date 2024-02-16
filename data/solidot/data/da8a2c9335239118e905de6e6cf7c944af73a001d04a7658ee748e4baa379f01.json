@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "随着 Firefox 份额越来越低网站兼容性问题将会愈发突出",
+  "Link": "https://www.solidot.org/story?sid=76808",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着 Firefox 的市场份额越来越低，网站兼容性问题将会愈发突出。指导美国政府网站开发的 The U.S. Web Design System (USWDS) 声明支持根据 analytics.usa.gov 统计使用率超过 2% 的所有浏览器。过去 90 天，访问  analytics.usa.gov 的浏览器中 Chrome 占 49%，Safari 占 34.8%，Edge 8.5%，Firefox 只有 2.2 %。其中可能只有 Firefox 使用一个完全不同的渲染引擎。如果它的使用率低于 2% 的阈值，那么 USWDS 可以不再要求政府网站的开发者继续兼容 Firefox，这有可能在整个 Web 开发界产生涟漪效应，政府的决定会影响到无数企业，就像多米诺骨牌倒下一样，会有愈来愈多的网站不兼容 Firefox。Firefox 处于危机边缘。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://news.slashdot.org/story/23/12/05/0745251/firefox-on-the-brink\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-05T14:33:16Z",
+  "Author": "Wilson"
+}

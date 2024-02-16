@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Dropbox 开发密码管理器",
+  "Link": "https://www.solidot.org/story?sid=64577",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDropbox 在没有任何宣传的情况下在 Play Store 应用商店上架了一款应用 Dropbox Passwords。\u003ca href=\"https://play.google.com/store/apps/details?id=com.dropbox.passwords_android\" target=\"_blank\"\u003e\u003cu\u003eDropbox Passwords\u003c/u\u003e\u003c/a\u003e 是密码管理器，目前仅限邀请用户测试。从商店截图看，它现在的界面相当简陋。它的功能和其它密码管理器也十分相似：能为新账号生成密码，保存所有密码，并在所有设备之间同步。它使用了 zero-knowledge encryption 的方法加密用户登陆凭证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-05T01:56:48Z",
+  "Author": "WinterIsComing"
+}

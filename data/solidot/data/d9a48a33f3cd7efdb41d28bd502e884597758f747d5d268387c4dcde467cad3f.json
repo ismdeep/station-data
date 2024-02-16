@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Folding@Home 算力突破 exaFLOP 大关",
+  "Link": "https://www.solidot.org/story?sid=64133",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t蛋白质折叠分布式计算项目 Folding@home 最近\u003ca href=\"https://www.solidot.org/story?sid=63697\"\u003e\u003cu\u003e发起\u003c/u\u003e\u003c/a\u003e了 COVID-19 项目，以帮助科学家更好的\u003ca href=\"https://foldingathome.org/2020/03/15/coronavirus-what-were-doing-and-how-you-can-help-in-simple-terms/\" target=\"_blank\"\u003e\u003cu\u003e理解新冠病毒\u003c/u\u003e\u003c/a\u003e，了解其与 ACE2 受体是如何相互作用的，帮助开发治疗方法。这一行动受到了许多人的响应，短时间内用户数增长了 \u003ca href=\"https://www.solidot.org/story?sid=63885\"\u003e\u003cu\u003e12 倍\u003c/u\u003e\u003c/a\u003e，从 3 万增加到了 40 万。上月底，Folding@home 项目的算力\u003ca href=\"https://twitter.com/drGregBowman/status/1243206401213763585\"\u003e\u003cu\u003e突破\u003c/u\u003e\u003c/a\u003e了 exaFLOP 大关，领先英特尔、AMD 和克雷等公司一到两年。相比另一个最近终止的著名分布式计算项目 SETI@Home，Folding@home \u003ca href=\"https://arstechnica.com/science/2020/04/how-the-pandemic-revived-a-distributed-computing-project-and-made-history/\"\u003e可谓硕果累累\u003c/a\u003e，产生了 233 篇论文，其主要研究包括了激酶的动态性，G蛋白偶联受体，耐药菌和埃博拉病毒蛋白质。Folding@home 的峰值性能达到了 \u003ca href=\"https://stats.foldingathome.org/os\"\u003e1.5 exaFLOPs\u003c/a\u003e，是世界最快超算 Summit 的 7 倍多。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-16T04:36:09Z",
+  "Author": "WinterIsComing"
+}

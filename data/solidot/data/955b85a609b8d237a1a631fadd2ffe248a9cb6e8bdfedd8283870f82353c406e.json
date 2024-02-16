@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用 Slack 和社会工程技术窃取 EA 游戏源代码",
+  "Link": "https://www.solidot.org/story?sid=68021",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一组黑客组合利用 Slack 和社会工程技术从 EA 公司\u003ca href=\"https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack\"\u003e\u003cu\u003e窃取到了\u003c/u\u003e\u003c/a\u003e FIFA 21 和 Frostbite 引擎的源代码。黑客声称共窃取到了 780GB 数据，他们正在多个地下黑客论坛兜售源代码。黑客透露，他们首先花了 10 美元购买了能用于访问 EA  Slack 频道的 cookies，在使用窃取的 cookies 访问 EA Slack 频道后，他们向 IT 支持发信息称因为昨晚的派对手机丢失了，黑客请求 IT 支持发送新的多因素认证令牌。黑客称这一社会工程方法让他们两次得手。一旦利用认证令牌进入 EA 的企业内网，他们发现了 EA 开发者用于编译游戏的服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-12T00:28:15Z",
+  "Author": "WinterIsComing"
+}

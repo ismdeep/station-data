@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NYT、CNN 和 ABC 屏蔽 OpenAI 的 GPTBot 爬取内容",
+  "Link": "https://www.solidot.org/story?sid=75902",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约时报（NYT）、CNN、路透社、澳大利亚广播公司（ABC）、芝加哥论坛报、以及 Australian Community Media 旗下的坎培拉时报和纽卡斯尔先驱报等媒体都屏蔽了 OpenAI 的网络爬虫 GPTBot 抓取其网站上的内容。大语言模型需要海量数据进行训练，但数据的版权问题引发了很多争议。这些媒体公司都是本月内在 robots.txt 文件中禁止了 GPTBot 的访问。部分媒体还屏蔽了另一个被用于 AI 项目的爬虫程序 CCBot。CNN 证实它屏蔽了 GPTBot，但没有评论是否就其内容被 AI 系统使用采取进一步的行动。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-26T10:47:32Z",
+  "Author": "Wilson"
+}

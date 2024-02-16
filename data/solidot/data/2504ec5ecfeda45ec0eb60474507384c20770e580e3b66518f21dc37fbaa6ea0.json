@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客组织瞄准仙境传说的开发商",
+  "Link": "https://www.solidot.org/story?sid=64193",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 QuoIntelligence \u003ca href=\"https://quointelligence.eu/2020/04/winnti-group-insights-from-the-past/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，中国黑客组织尝试入侵《仙境传说》开发商韩国重力社的内部网络。攻击发生在今年初，尚不清楚是否成功。发动攻击的黑客组织被称为 Winnti (aka APT41、BARIUM、Blackfly)。安全公司称，他们从恶意程序中提取出的配置文件里发现了字符串 0x1A0: GRAVITY。安全研究人员认为这针对的是韩国《仙境传说》开发商重力社（Gravity Co., Ltd.）。Winnti 此前还对其它游戏公司发动过攻击。安全公司认为中国黑客组织是在空闲时间攻击游戏公司搞副业。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-22T15:06:45Z",
+  "Author": "WinterIsComing"
+}

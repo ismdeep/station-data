@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Pixel 4 的面部解锁能在睡眠情况下解锁",
+  "Link": "https://www.solidot.org/story?sid=62307",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 刚刚发布的旗舰手机 Pixel 4 引入了新的生物识别功能——人脸解锁。但该功能很快被发现存在漏洞，\u003ca href=\"https://www.bbc.com/news/technology-50085630\"\u003e\u003cu\u003e它能在用户闭着眼睛的情况下解锁手机\u003c/u\u003e\u003c/a\u003e。今天的手机包含了大量的私人信息，允许闭眼解锁或不知情下解锁意味着手机很容易被未经授权访问。Google 宣称手机的人脸解锁方案非常安全，但测试发现在假装睡眠的情况下手机也能被解锁。Google 的\u003ca href=\"https://support.google.com/pixelphone/answer/9517039\"\u003e\u003cu\u003e帮助页\u003c/u\u003e\u003c/a\u003e现在警告用户，人脸解锁可能会在闭眼时解锁。Google 称：“目视手机可能会让手机意外解锁；长相与您相似的人也能够解锁您的手机；如果有人将手机对着您的脸，也可以解锁您的手机（即使您闭上眼睛）。”如果用户担心人脸解锁不安全，可以关闭该功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T04:58:48Z",
+  "Author": "wenfeixiang"
+}

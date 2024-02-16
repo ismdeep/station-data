@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox for Mac 和 Linux 版引入新安全沙盒系统",
+  "Link": "https://www.solidot.org/story?sid=63634",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox 的 Mac 和 Linux 版本\u003ca href=\"https://www.zdnet.com/article/firefox-for-mac-and-linux-to-get-a-new-security-sandbox-system/\" target=\"_blank\"\u003e\u003cu\u003e引入了新的沙盒安全系统\u003c/u\u003e\u003c/a\u003e。该技术被称为 RLBox，它会隔离第三方库和应用的原生码，防止恶意代码逃逸到第三方库之外。RLBox 将沙盒技术带到了新的水平，它不是隔离应用和底层系统，而是隔离应用内部组件（或叫第三方库）和应用核心引擎。RLBox 的开发始于 2019 年，是 Mozilla 和加州圣迭戈、得州奥斯丁和斯坦福大学合作的一部分。它将随下个月发布的  Firefox 74 for Linux 和 4 月发布的 Firefox 75 for Mac 提供给用户，未来会扩大到其它平台如 Windows。\u003ca href=\"https://plsyssec.github.io/rlbox_sandboxing_api/sphinx/\"\u003eRLBox\u003c/a\u003e 是一个通用框架，可以被其它应用使用。它包括两个部分，其一是基于 WebAssembly 的沙盒环境，其二是可被其它应用使用的 API。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-26T06:45:37Z",
+  "Author": "WinterIsComing"
+}

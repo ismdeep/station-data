@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Gmail 开始向部分用户提供端对端加密",
+  "Link": "https://www.solidot.org/story?sid=73683",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 周五宣布向部分 Gmail 用户提供端对端加密——Google 称其为 Gmail CSE。一旦启用，邮件主体、附件和内嵌图像都将在传输和储存在网盘前由客户端的浏览器进行加密，Google 服务器将无法获得加密密钥，因此也无法对其进行解密。邮件的标题、时间戳和收件人名单不加密。目前该功能提供给 Google Workspace Enterprise Plus、Education Plus 或 Education Standard 客户，他们都可以申请 Gmail CSE beta。该功能暂时不会提供给普通用户。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\u003cbr/\u003e\nhttps://support.google.com/a/answer/13069736?hl=zh-Hans#zippy=%2Csend-and-receive-gmail-cse-emails%3A~%3Atext\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-18T13:14:27Z",
+  "Author": "Wilson"
+}

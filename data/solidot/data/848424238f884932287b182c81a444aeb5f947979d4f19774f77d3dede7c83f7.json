@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WhatsApp 的端至端加密并不私密",
+  "Link": "https://www.solidot.org/story?sid=68870",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tProPublica 发表了一篇\u003ca href=\"https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users\"\u003e\u003cu\u003e文章\u003c/u\u003e\u003c/a\u003e，研究了 WhatsApp 平台的隐私声明。WhatsApp 以端到端加密机制著称，大多数用户认为其母公司 Facebook 既无法读取消息内容、也无法将其转发给执法部门。但这种认知明显与一个简单的事实相矛盾—— Facebook 雇用了约 1000 名 WhatsApp 内容审核人员，他们的工作内容就是审查被标记的 WhatsApp 信息。WhatsApp 端到端加密机制中的漏洞很简单：任何 WhatsApp 消息接收者都可以对内容进行标记。标记之后，消息内容会被复制到收件人的设备上，再以独立消息的形式被发送到 Facebook 手中以供审核。与 Faecbook 平台的标准一样，WhatsApp 上的内容同样需要根据反欺诈、垃圾邮件、儿童色情及其他非法活动的标准接受审查。当消息接收者将 WhatsApp 信息做出标记时，当前内容将与同一线程中的最近四条先前消息一同接受处理，再以工单附件的形式被发送至审核系统。尽管还没有任何迹象表明 Facebook 会在未经收件人手动标记的情况下收集用户消息，但需要强调的是，这里面其实并没有什么技术障碍。“端到端加密”的安全性取决于端点本身——对于移动消息应用，也就是应用程序及其用户。例如，“端到端”加密消息传递平台可以选择对设备上的全部消息执行基于 AI 的自动内容扫描，之后将自动标记的消息转发至云端以采取进一步处理。如此一来，用户的隐私保障仍然只能由政策条款和对平台的信任来保证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-09T10:41:05Z",
+  "Author": "wanwan"
+}

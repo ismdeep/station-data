@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "成人网站泄露 108 亿条数据",
+  "Link": "https://www.solidot.org/story?sid=64284",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t成人网站 CAM4 因错误配置的 ElasticSearch 数据库\u003ca href=\"https://www.wired.com/story/cam4-adult-cam-data-leak-7tb/\" target=\"_blank\"\u003e\u003cu\u003e泄露了 108 亿条数据\u003c/u\u003e\u003c/a\u003e，包括名字、性取向、支付记录、电邮和聊天记录，总容量 7 TB。目前没有证据表明 CAM4 遭黑客入侵或数据库被恶意攻击者访问，但由于其数据库敞开了大门，所以并不意味着没有。泄露的数据非常全面，还包括国籍、注册日期、语言偏好、哈希密码和用户企业之间的电邮通信。在 108.8 亿条记录中，研究人员发现 1100 万条记录包含电子邮件地址，26392,701 条记录包含用户账号和网站系统的哈希密码。泄露的美国用户大约有 660 万，巴西 540 万，意大利 490 万，法国 420 万。CAM4 的母公司 Granity Entertainment 在收到报告之后迅速将数据库下线。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-06T13:48:18Z",
+  "Author": "WinterIsComing"
+}

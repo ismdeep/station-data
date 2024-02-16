@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.3 合并了硬件噪声工具 hwnoise",
+  "Link": "https://www.solidot.org/story?sid=74194",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 6.2 发布后，Linux 6.3 合并窗口开启。对代码合并的跟踪显示，Linux 6.3 合并了硬件噪声工具 hwnoise。hwnoise 与随机数生成器无关，而是用于测量操作系统导致的抖动（jitter），通常是因为内存或其他资源耗尽或有限而无法完成所要执行的操作，意味着实时应用或高性能计算应用出问题了。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Linux-6.3-hwnoise\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-21T14:25:57Z",
+  "Author": "Wilson"
+}

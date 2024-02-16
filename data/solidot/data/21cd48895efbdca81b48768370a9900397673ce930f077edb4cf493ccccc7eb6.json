@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WordPress 将为主题和扩展加入自动更新功能",
+  "Link": "https://www.solidot.org/story?sid=63830",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWordPress 作为最流行的博客平台，有着丰富的扩展和主题生态系统。然而主题和扩展也经常成为 WordPress 网站的安全隐患，原因是网站管理人员在安装扩展或主题之后就不再更新。当扩展或主题发现安全漏洞释出补丁后，很多 WordPress 网站被发现没有及时更新。现在，开发者正在为主题和扩展\u003ca href=\"https://www.zdnet.com/article/wordpress-to-add-auto-update-feature-for-themes-and-plugins/\"\u003e\u003cu\u003e加入自动更新功能\u003c/u\u003e\u003c/a\u003e，一旦推送给用户，网站管理者将可以在管理面板配置主题和扩展的自动更新。WordPress core 早在 2013 年发布的 v3.7 起就引入了安全补丁自动更新机制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-16T07:45:54Z",
+  "Author": "WinterIsComing"
+}

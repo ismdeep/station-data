@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Perl 项目宣布 Perl 7",
+  "Link": "https://www.solidot.org/story?sid=64766",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPerl 项目宣布了 \u003ca href=\"https://www.perl.com/article/announcing-perl-7/\"\u003e\u003cu\u003ePerl 7\u003c/u\u003e\u003c/a\u003e。与 Perl 6 的激进改变不同，Perl 7 实际上是 Perl v5.32 配上更符合现代趋势的默认设置。开发者称，对向后兼容的承诺使得他们不能改变默认设置，但为了最小化历史包袱的影响，他们决定在新的大版本中调整和启用新的默认设置。Perl v5 将进入到一个长期的维护模式，最长维护时间可能长达 10 年。因为   Perl 7 基本上就是 v5.32，CPAN（Comprehensive Perl Archive Network）中的模块无需大的改变。Perl 7 计划在明年发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-25T03:10:43Z",
+  "Author": "WinterIsComing"
+}

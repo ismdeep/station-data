@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果从 2019 年起就扫描 iCloud 邮件中的 CSAM 材料",
+  "Link": "https://www.solidot.org/story?sid=68677",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果\u003ca href=\"https://9to5mac.com/2021/08/23/apple-scans-icloud-mail-for-csam/\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e自 2019 年起就开始扫描客户 iCloud 邮件中的 CSAM（Child Sexual Abuse Material）。苹果计划未来将 iCloud 照片和 iCloud 备份纳入检查范畴，这一声明已经引发了广泛争议。\n\u003ci\u003e\n苹果反欺诈主管 Eric Friedman 曾发表过一则相当奇怪的声明，“苹果是儿童色情内容的最大分发平台。”这引起了疑问：既然苹果还没有扫描过 iCloud 中的照片，它如何得到这一结论的？苹果公司澄清，证实自 2019 年以来一直在扫描 iCloud 邮件并审查其中的 CSAM 内容。电子邮件未经加密，因此苹果在收发过程中扫描附件确实非常简单且合理。苹果还表示，他们也在对其他一些数据进行有限扫描，虽然不宜透露具体情况，但暗示这部分数据规模很小。苹果还着重强调，这部分“其他数据”并不包括 iCloud 备份。\n\u003cbr/\u003e\n尽管 Friedman 的声明听起来言之凿凿，但仍然令人生疑。据我们了解，苹果每年就 CSAM 内容提交的报告不过几百份，所以单凭电子邮件绝不能做出苹果服务器上存在大量儿童色情内容的断言。唯一的解释，就是 Friedman 在为内容扫描造势，毕竟目前除了苹果之外、其他云服务商都在通过扫描检查照片中的 CSAM 内容。如果其他服务禁用了曾经上传过 CSA M内容的账户，而 iCloud 却没有做出相应的响应，那么苹果平台必然成为此类内容的集散地。只有这样，Friedman 的声明才有其合理性。\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-25T07:32:15Z",
+  "Author": "wanwan"
+}

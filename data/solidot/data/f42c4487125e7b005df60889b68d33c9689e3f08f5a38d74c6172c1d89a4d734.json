@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "选择 NULL 作为车牌号并不是一个好主意",
+  "Link": "https://www.solidot.org/story?sid=61710",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t选择 NULL 作为个性车牌号似乎是一个好主意，在数据库里这是一个空值，它可能会混淆自动车牌阅读器和机动车辆管理局的罚单系统。但在实际中，\u003ca href=\"https://mashable.com/article/dmv-vanity-license-plate-def-con-backfire/\" target=\"_blank\"\u003e\u003cu\u003e它可能是一个糟糕的主意\u003c/u\u003e\u003c/a\u003e。在上周拉斯维加斯举行的 DEF CON 安全会议上，一位安全研究人员分享了他将 NULL 登记为个性车牌号的经历：收到了总金额上万美元的不属于他的交通罚单。这位研究者称自己是一个谨慎的司机，在登记 NULL 作为个性车牌号的第一年没有收到任何罚单。然后他尝试在加州机动车辆管理局网站登记他的车牌，结果系统不认为  NULL 是一个有效的值。接着问题越发严重，他的邮箱开始收到各种交通罚单。原因被认为是数据不完整导致的，这些罚单分配给了 NULL，意思是不知道肇事司机车牌，但他的个性车牌却把这些罚单都揽到了自己身上，他总共收到了超过 1.2 万美元的罚单。他尝试与加州车管局和洛杉矶警方解释，他们都建议他改变车牌号。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-13T12:48:09Z",
+  "Author": "wenfeixiang"
+}

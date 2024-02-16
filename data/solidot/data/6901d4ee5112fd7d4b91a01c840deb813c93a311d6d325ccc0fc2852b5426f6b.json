@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用量子计算机的汇编语言编程",
+  "Link": "https://www.solidot.org/story?sid=67006",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t量子计算远未成熟。有量子计算的硬件还需要配套的软件。现在，美国能源部桑迪亚国家实验室的一个开源汇编语言项目\u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/qscout-sandia-open-source-quantum-computer-and-jaqal-quantum-assembly-language\" target=\"_blank\"\u003e\u003cu\u003e试图解决量子计算的编程问题\u003c/u\u003e\u003c/a\u003e。物理学家 Susan Clark 的团队从能源部获得了总金额 2500 万美元的 5 年拨款，在他们的 QSCOUT 平台上运行来自学术界、企业和独立研究员的代码。\u003ca href=\"https://www.sandia.gov/quantum/Projects/QSCOUT.html\"\u003e\u003cu\u003eQSCOUT\u003c/u\u003e\u003c/a\u003e 代表 Quantum Scientific Computing Open User Testbed，他们的汇编语言被称为 Just Another Quantum Assembly Language 或者缩写 JAQAL。Google 和 IBM 等公司都开发了自己的量子计算机和编程语言，但 QSCOUT 的一大优势是它使用了离子俘获技术，比 Google 和 IBM 使用的超导技术更稳定，虽然速度比较慢，但能维持相干性，而 Google 和 IBM 的量子计算机会在一秒内失去相干性。 QSCOUT 的真正优势在于它允许用户控制计算机的运算。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-23T08:49:23Z",
+  "Author": "WinterIsComing"
+}

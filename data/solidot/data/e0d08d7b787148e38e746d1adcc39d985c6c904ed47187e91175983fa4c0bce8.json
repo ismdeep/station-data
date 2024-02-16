@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 释出紧急更新修复正被利用的 Chrome 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=71261",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 释出\u003ca href=\"https://chromereleases.googleblog.com/2022/04/stable-channel-update-for-desktop_14.html\"\u003e\u003cu\u003e紧急更新\u003c/u\u003e\u003c/a\u003e修复  Chrome 浏览器的两个漏洞，其中之一是\u003ca href=\"https://www.theregister.com/2022/04/15/google-third-fix-chrome-vulnerability/?td=keepreading-top\" target=\"_blank\"\u003e\u003cu\u003e正被攻击者利用\u003c/u\u003e\u003c/a\u003e的 0day 漏洞。这是今年至今 Google 第三次释出紧急更新。编号为 CVE-2022-1364 的漏洞属于类型混淆漏洞，此类漏洞是指程序用一种类型分配资源，但之后用一种不兼容的类型访问资源，在 C 或 C++ 语言中该漏洞会导致内存访问越界。该漏洞可能会导致浏览器崩溃或触发逻辑错误，攻击者可利用该漏洞执行任意代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-15T14:15:40Z",
+  "Author": "WinterIsComing"
+}

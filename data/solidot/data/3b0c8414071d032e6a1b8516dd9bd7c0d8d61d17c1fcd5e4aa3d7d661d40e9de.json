@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 从应用商店下架跟踪白俄抗议者的应用",
+  "Link": "https://www.solidot.org/story?sid=65429",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 从 Play Store\u003ca href=\"https://www.zdnet.com/article/google-removes-android-app-that-was-used-to-spy-on-belarusian-protesters/\"\u003e\u003cu\u003e 移除了\u003c/u\u003e\u003c/a\u003e跟踪和收集白俄抗议者个人信息的 Android 应用 \u003ca href=\"https://play.google.com/store/apps/details?id=com.moonfair.wlkm\" target=\"_blank\"\u003e\u003cu\u003eNEXTA LIVE\u003c/u\u003e\u003c/a\u003e (已下架)。NEXT LIVE 在官方应用商店存活了大约 3 周时间，下载量约数千次，评论数百条。它自称是白俄独立新闻机构 \u003ca href=\"https://nexta.tv/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eNexta\u003c/a\u003e 的官方Android应用。但 Nexta 上周在 Telegra 发表声明称它与该应用没有任何关系，指该应用设计收集用户信息，去匿名抗议者。一位白俄安全研究人员称，该应用定期收集地理位置数据，收集机主个人信息，然后上传到俄罗斯的一台服务器。该应用与俄罗斯的一个 IP 地址（rcpi.nextialive.roimaster[.]site (89.223.89[.]47）之间有通信。该 IP 曾被用于托管可疑域名。虽然没有假应用和白俄政府有联系的确证，但这并非第一次政府试图监视举行大规模抗议的公民。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-03T04:37:56Z",
+  "Author": "WinterIsComing"
+}

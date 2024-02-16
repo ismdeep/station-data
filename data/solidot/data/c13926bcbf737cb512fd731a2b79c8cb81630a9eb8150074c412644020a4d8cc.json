@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 称第三方攻击者使用其 API 匹配用户名和手机号码",
+  "Link": "https://www.solidot.org/story?sid=63421",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 12 月，安全研究员 Ibrahim Balic \u003ca href=\"https://security.solidot.org/story?sid=63050\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e他利用一个 Twitter Android app 漏洞匹配了 1700 万用户的手机号码。Twitter 的联络人上传功能会在上传通讯录之后返回匹配到的用户数据，也就是你可以知道一个随机生成的手机号码是否属于一位真实用户。现在，Twitter \u003ca href=\"https://privacy.twitter.com/en/blog/2020/an-incident-impacting-your-account-identity\"\u003e\u003cu\u003e发出警告\u003c/u\u003e\u003c/a\u003e，有第三方攻击者使用其官方 API \u003ca href=\"https://www.zdnet.com/article/twitter-says-an-attacker-used-its-api-to-match-usernames-to-phone-numbers/\" target=\"_blank\"\u003e\u003cu\u003e匹配用户名和手机号码\u003c/u\u003e\u003c/a\u003e。Twitter 称，它在调查 Ibrahim Balic 披露的安全漏洞期间发现有证据显示另外第三方也在利用该 API 漏洞，攻击者使用的部分 IP 地址与国家支持的黑客有关联。Twitter 表示，这一攻击只影响在设置页启用了“Let people who have your phone number find you on Twitter”的用户，没有提供手机号码的用户也不受影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-04T13:47:08Z",
+  "Author": "WinterIsComing"
+}

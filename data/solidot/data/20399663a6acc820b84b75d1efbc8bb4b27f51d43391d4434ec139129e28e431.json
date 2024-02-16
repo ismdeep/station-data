@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "未来的英特尔系统对开源固件日益不友好",
+  "Link": "https://www.solidot.org/story?sid=70791",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t自由固件项目 coreboo 的开发者\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-USF-FSP-3.0-Less-OSF\" target=\"_blank\"\u003e指出\u003c/a\u003e，未来支持 Firmware Support Package 3.0 和 Universal Scalable Firmware (USF)的英特尔系统将会对开源固件日益不友好。英特尔决定固件完全闭源不公开。英特尔上季度刚公布 USF 规范草案，据报道它专注于降低固件复杂性，跨 CPU 和 XPU 扩展，支持行业引导程序和 OS 负载，提高固件质量和安全性。但 Coreboot 开发者指出它对开源不友好。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-28T05:37:21Z",
+  "Author": "WinterIsComing"
+}

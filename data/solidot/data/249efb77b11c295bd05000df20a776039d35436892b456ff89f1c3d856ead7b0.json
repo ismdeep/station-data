@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.7 释出",
+  "Link": "https://www.solidot.org/story?sid=77075",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表宣布释出 Linux 6.7。该版本因新年假期推迟了一周发布。主要新特性包括：移除了对英特尔安腾架构的支持，新 futex2 API 的第一部分，io_uring 的 futex 支持，BPF 异常机制， bcachefs 文件系统，TCP 身份认证选项，内核同页合并智能扫描模式，Landlock 安全模块网络支持，Nouveau 驱动初步支持英伟达 GSP 固件，等等，更多可浏览 KernelNewbies 6.7（更新中）。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lore.kernel.org/lkml/CAHk-=widprp4XoHUcsDe7e16YZjLYJWra-dK0hE1MnfPMf6C3Q@mail.gmail.com/T/#u\u003cbr/\u003e\nhttps://kernelnewbies.org/Linux_6.7\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-08T07:04:02Z",
+  "Author": "Wilson"
+}

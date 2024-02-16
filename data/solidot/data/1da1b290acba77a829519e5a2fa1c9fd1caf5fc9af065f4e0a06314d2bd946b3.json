@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客将漏洞利用直接邮寄到目标收发室",
+  "Link": "https://www.solidot.org/story?sid=61651",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当你能大模大样的直接走进去为什么还要费力气寻找 0day 漏洞或暴力破解登录密码呢？IBM X-Force Red 的安全研究人员\u003ca href=\"https://techcrunch.com/2019/08/06/warshipping-hackers-ship-exploits-mail-room/\" target=\"_blank\"\u003e\u003cu\u003e开发了\u003c/u\u003e\u003c/a\u003e名为 warshipping 的漏洞利用概念原型，入侵目标网络的方法就是把它装在邮包里让邮递员送到目标的收发室。warshipping 不是新概念，它其实就是古代特洛伊木马的现代版本。warshipping 是一个手机大小的设备，支持 3G，能在任何有手机服务的地方进行远程控制，其制造成本大约为 100 美元。它能周期性的扫描附近网络，攻击者可以执行被动或主动的攻击去渗透目标的无线网络。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T09:18:59Z",
+  "Author": "wenfeixiang"
+}

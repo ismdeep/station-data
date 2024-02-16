@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 6.1-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=73081",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wj6y5fipM2A5kEuOO9qm5PBzUY=-m9viEahhtxT09KR_g@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 6.1-rc1，这标志着合并窗口的关闭，正式版预计会在 12 月发布。Linux 6.1 的补丁规模要比前一个版本小，但包含了部分期待已久的\u003ca href=\"https://www.phoronix.com/news/Linux-6.1-rc1-Released\"\u003e新功能\u003c/a\u003e，如 Rust 语言的基础设施，替代页回收 Multi-Gen LRU（缩写 MGLRU，Chrome OS 和 Android 的内核已包含该功能），英特尔 Arc 和 AMD RDNA3 显卡支持，Kernel Memory Sanitizer，AMD Platform Management Framework，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-17T10:54:08Z",
+  "Author": "WinterIsComing"
+}

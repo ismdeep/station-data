@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 组建安全联盟以帮助解决 Android 恶意程序问题",
+  "Link": "https://www.solidot.org/story?sid=62561",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAndroid 存在严重的恶意程序问题，甚至官方应用商店 Google Play 也不时发现隐蔽的恶意程序。为了解决该问题，Google 与安全公司 ESET、Lookout 和 Zimperium \u003ca href=\"https://arstechnica.com/gadgets/2019/11/google-enlists-outside-help-to-clean-up-androids-malware-mess/#p3\" target=\"_blank\"\u003e\u003cu\u003e合作组建了\u003c/u\u003e\u003c/a\u003e  App Defense Alliance，这三家公司多年来对  Android 恶意程序有广泛的研究，但他们都是在发现恶意程序之后报告给 Google，而通过  App Defense Alliance，这些安全公司将利用其工具扫描和评估开发者递交的应用，在恶意程序未上架 Google Play 前将其识别出来。每一家安全公司都会提供不同的方法去扫描应用，识别木马、广告程序和勒索软件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-11T08:32:22Z",
+  "Author": "wenfeixiang"
+}

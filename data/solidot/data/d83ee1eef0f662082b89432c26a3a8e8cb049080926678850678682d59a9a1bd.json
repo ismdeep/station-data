@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenTTD 13.0 释出",
+  "Link": "https://www.solidot.org/story?sid=74058",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t运输大亨的开源版本 OpenTTD 释出了 v13.0。主要新特性包括：界面可缩放到任意大小，改进使用 HiDPI 或混合 DPI 设置时的自动缩放；多道平交道口防止车辆停在路中间；天然河流在下游会越来越宽；新游戏窗口直接访问 NewGRF 和 Game Script 以及 AI 的设置，等等。  OpenTTD 逆向工程自 1995 年的游戏《Transport Tycoon Deluxe》，玩家通过公路、铁路、水路和航空运输乘客和货物以营利。玩家可以自由定制游戏内的各种元素，下载社区制作的各种 Mod，包括真实世界的车辆，新工业，自定义场景等。自 2004 年发布首个版本以来，OpenTTD 已经持续更新了近 20 年。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://store.steampowered.com/app/1536610/OpenTTD/\u003cbr/\u003e\nhttps://www.openttd.org/news/2023/02/05/openttd-13-0\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-06T13:47:28Z",
+  "Author": "Wilson"
+}

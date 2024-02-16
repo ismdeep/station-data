@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "恶意程序开发者转向新兴编程语言",
+  "Link": "https://www.solidot.org/story?sid=68400",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据黑莓研究人员公布的\u003ca href=\"https://www.blackberry.com/us/en/forms/enterprise/report-old-dogs-new-tricks\"\u003e\u003cu\u003e一份报告\u003c/u\u003e\u003c/a\u003e，恶意程序开发者转向新兴编程语言去躲避检测或解决开发流程中的难点。为了躲避检测恶意程序越来越多的使用多阶段恶意文件释放和加载器，一旦绕过安全控制之后它们会解码、加载和部署恶意程序。研究人员称，Go 语言吸引了 APT 组织和商业恶意程序开发者的极大兴趣，使用 Go 语言编写的恶意程序样本日益常见。另一种被用于编写恶意程序的新兴语言是 D 语言。恶意程序开发者在利用新技术更新技能方面是很擅长的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-29T02:18:12Z",
+  "Author": "WinterIsComing"
+}

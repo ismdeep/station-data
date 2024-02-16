@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Signal 无视代理漏洞，称“这不是风险”",
+  "Link": "https://www.solidot.org/story?sid=66889",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:realducksoft@gmail.com\"\u003eDuckSoft\u003c/a\u003e 写道\u003ci\u003e \u0026#34;最近，端到端加密消息平台 Signal 被伊朗政府封杀。为了帮助其用户绕过伊朗的审查制度，该公司提出了一个 \u003ca href=\"https://signal.org/blog/help-iran-reconnect/\" target=\"_blank\"\u003eTLS 代理\u003c/a\u003e 的变通方法。\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e然而，多名研究人员现在\u003ca href=\"https://github.com/net4people/bbs/issues/60\" target=\"_blank\"\u003e发现了该变通方法中的缺陷\u003c/a\u003e，可以让审查员或政府机构探查到 Signal TLS 代理，使这些保护措施失去意义，并可能给位于镇压政权的 Signal 用户带来影响。\u003c/i\u003e\u003c/p\u003e\n\u003ci\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e通过 Signal 的 GitHub 仓库报告这些缺陷的研究人员已经被公司禁言，而他们报告的问题也被删除。\u003c/i\u003e来源：\u003ca href=\"https://www.bleepingcomputer.com/news/security/signal-ignores-proxy-censorship-vulnerability-says-its-not-a-risk/\"\u003eBleepingComputer\u003c/a\u003e\u0026#34;\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-08T06:49:05Z",
+  "Author": "WinterIsComing"
+}

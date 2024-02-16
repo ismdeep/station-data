@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails 诞生十周年",
+  "Link": "https://www.solidot.org/story?sid=62966",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTails 发行版项目\u003ca href=\"https://tails.boum.org/news/celebrating_10_years/\"\u003e\u003cu\u003e庆祝其诞生十周年\u003c/u\u003e\u003c/a\u003e。Tails 是基于 Debian GNU/Linux 和 Tor 的 Live 操作系统，能安装在光盘、U 盘和 SD 卡上，可以随身携带，需要时直接从光盘、U 盘或 SD 卡启动。它预先配置让所有流量都经过 Tor，不留下任何跟踪痕迹。它最著名用户可能是 NSA 告密者 Edward Snowden。Tails 在 2009 年发布了第一个版本，最早它被称为 Amnesia Incognito Live System，至今发共发布了 98 个版本，被使用了超过 2500 万次。Tails 项目官方博客回顾了它的发展历史。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-17T09:27:33Z",
+  "Author": "WinterIsComing"
+}

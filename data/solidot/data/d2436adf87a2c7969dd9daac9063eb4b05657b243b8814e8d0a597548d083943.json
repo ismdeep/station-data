@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件组织向 SEC 投诉受害者未及时披露数据泄露",
+  "Link": "https://www.solidot.org/story?sid=76644",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名为 Alphv/BlackCat 的勒索软件组织向 SEC 投诉受害者未按照规定在四个工作日内披露数据被窃取事件。勒索软件组织声称它入侵了加州金融软件公司 MeridianLink，窃取了其客户数据，要求支付赎金否则将泄露窃取的数据。为了增加获得赎金的几率，该组织称已经向 SEC 投诉 MeridianLink，指控该公司未按 7 月公布的规定及时披露数据泄露。BlackCat 黑客称他们是在 11 月 7 日入侵了 MeridianLink，没有加密文件只是窃取了数据。MeridianLink 发言人证实遭到网络攻击，但尚未确认有客户数据被盗，称该公司的调查没有发现有未经许可访问其生产平台的证据，如果发现有客户数据被盗，将按照法律要求发布通知。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\n\nhttps://therecord.media/meridianlink-confirms-cyberattack-after-sec-threat\u003cbr/\u003e\nhttps://www.databreaches.net/alphv-files-an-sec-complaint-against-meridianlink-for-not-disclosing-a-breach-to-the-sec/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-17T05:59:06Z",
+  "Author": "Wilson"
+}

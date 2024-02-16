@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MIPS 投奔 RISC-V",
+  "Link": "https://www.solidot.org/story?sid=67144",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2018 年，Wave Computing 从 Imagination Technologies 收购 MIPS Technologies，\u003ca href=\"http://hdardware.solidot.org/story?sid=58985\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将在 2019 年第一季度发布 core R6 时开源。2019 年初它发起了 MIPS Open Initiative 倡议，但在 2019 年 11 月它终止了这一倡议。2020 年 4 月，Wave \u003ca href=\"https://www.solidot.org/story?sid=64199\" target=\"_blank\"\u003e\u003cu\u003e申请破产保护\u003c/u\u003e\u003c/a\u003e。2021 年 3 月，Wave 更名为 MIPS，宣布将放弃开发 MIPS 架构，\u003ca href=\"https://www.solidot.org/story?sid=64199\"\u003e\u003cu\u003e投奔\u003c/u\u003e\u003c/a\u003e RISC-V 阵营。RISC-V 和 MIPS 都是基于精简指令集（RISC）原则，但今天的 MIPS 公司只是挂了一个名字，它表示会继续履行重组前签署的授权协议。MIPS 已经加入了 RISC-V 基金会，而 RISC-V 基金会的 CTO Mark Himelstein 曾是 MIPS Technologies 的前雇员。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-09T01:26:12Z",
+  "Author": "WinterIsComing"
+}

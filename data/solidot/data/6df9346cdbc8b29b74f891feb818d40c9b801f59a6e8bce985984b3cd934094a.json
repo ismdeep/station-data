@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新闻集团遭黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=70574",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t旗下包括《华尔街日报》和《纽约邮报》等媒体的新闻集团周五\u003ca href=\"https://news.slashdot.org/story/22/02/05/2035236/major-us-news-publisher-breached-chinese-supply-chain-attack-suspected\" target=\"_blank\"\u003e\u003cu\u003e透露遭到了黑客入侵\u003c/u\u003e\u003c/a\u003e。入侵最早可以追溯到 2020 年 2 月，初步调查显示黑客是通过供应链实施入侵的，也就是通过新闻集团使用的第三方云服务入侵该公司。有数十名员工受到攻击的影响，黑客可能访问了他们的电子邮件和 Google Docs，其中包括发表文章的原稿。新闻集团是在今年 1 月 20 日发现了入侵，该公司表示客户和财务数据未受影响，公司运营也没有中断。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-06T14:41:05Z",
+  "Author": "WinterIsComing"
+}

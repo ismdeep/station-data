@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Lempel-Ziv 算法合作者被授予 IEEE 勋章",
+  "Link": "https://www.solidot.org/story?sid=66683",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年的 IEEE 勋章\u003ca href=\"https://spectrum.ieee.org/the-institute/ieee-member-news/ieee-medal-of-honor-goes-to-data-compression-pioneer-jacob-ziv\"\u003e\u003cu\u003e授予了 \u003c/u\u003e\u003c/a\u003eLempel-Ziv 算法合作者  \u003ca href=\"https://ethw.org/Jacob_Ziv\"\u003eJacob Ziv\u003c/a\u003e。Ziv 和 Abraham Lempel 分别在 1977 年和 1978 年开发了两种无损数据压缩算法 Lempel-Ziv 77 和 LZ78，为 GIF、PNG 和 ZIP 文件的开发奠定了基础。Lempel-Ziv 是第一种获得巨大成功的通用压缩算法。Ziv 开创了通用源编码，一系列无需知道固有信息压缩数据的算法，减少了从不失真和失真数据重建图像所需的数据率。Ziv 出生在以色列，在 MIT 读博，返回以色列后进入了国防部担任通信部门主管，1968 年进入了贝尔实验室，1970 年加入以色列理工学院。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-18T05:41:41Z",
+  "Author": "WinterIsComing"
+}

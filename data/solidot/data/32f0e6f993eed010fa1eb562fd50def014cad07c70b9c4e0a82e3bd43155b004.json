@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Qubes OS 4.1 发布",
+  "Link": "https://www.solidot.org/story?sid=70594",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全桌面操作系统 Qubes OS \u003ca href=\"https://www.qubes-os.org/news/2022/02/04/qubes-4-1-0/\" target=\"_blank\"\u003e\u003cu\u003e释出了 4.1 版本\u003c/u\u003e\u003c/a\u003e。Qubes OS 使用一组被称为 Qubes 的虚拟机将不同功能隔离开来，每一个应用程序都运行在各自的沙盒中，确保一个程序有安全漏洞不会影响到其它程序。Qubes OS 使用了 Xen 虚拟层（hypervisor）和 Qubes 隔离系统不同部分，其中 Xen Dom0 是系统中虚拟层之外权限最高的部分，提供了管理接口还充当了所有 Qubes 的显示管理器，如果有人能访问它那么就能在整个系统中为所欲为了，Qubes OS 4.1 的\u003ca href=\"https://lwn.net/Articles/873255/\"\u003e\u003cu\u003e一大变化\u003c/u\u003e\u003c/a\u003e就是将显示处理部分分离为一个独立的 GUI domain。4.1 版本的另一个变动是新的 Qrexec 策略系统，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-08T12:22:53Z",
+  "Author": "WinterIsComing"
+}

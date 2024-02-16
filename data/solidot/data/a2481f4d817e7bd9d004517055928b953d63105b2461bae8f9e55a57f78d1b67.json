@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tiktok 利用设备指纹跟踪用户",
+  "Link": "https://www.solidot.org/story?sid=62876",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对 Tiktok 应用和网站流量的分析\u003cu\u003e发\u003ca href=\"https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website/\"\u003e现\u003c/a\u003e\u003c/u\u003e，它会将用户数据发送给 Appsflyer 和 Facebook，会利用设备指纹跟踪用户。Tiktok 短地址被发现包含了安装 ID，可用于识别谁分享了视频。它甚至还能跟踪谁观看了视频。它使用的跟踪技术包括了 Canvas Fingerprinting，在后台使用矢量图形命令绘制图形，保存图像到一个栅格化 PNG 文件，根据硬件和浏览器该数据在不同设备之间具有唯一性；它还使用音频指纹识别观看者，内部生成音频然后记录比特流，这一数据在设备之间也具有唯一可识别性。北京字节跳动称指纹被用于识别恶意浏览器行为，但研究者对此表示质疑。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-07T13:49:53Z",
+  "Author": "WinterIsComing"
+}

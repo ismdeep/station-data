@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tim Berners Lee 的创业公司发布面向企业的隐私平台",
+  "Link": "https://www.solidot.org/story?sid=66052",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTim Berners-Lee 爵士创建的、旨在推广一种新网络数据架构的 Inrupt \u003ca href=\"https://yro.slashdot.org/story/20/11/09/1453252/tim-berners-lees-startup-inrupt-releases-privacy-platform-for-enterprises\"\u003e\u003cu\u003e公司推出\u003c/u\u003e\u003c/a\u003e了其首款\u003ca href=\"http://www.ftchinese.com/story/001090154\" target=\"_blank\"\u003e\u003cu\u003e适用于企业的 Solid 服务器\u003c/u\u003e\u003c/a\u003e，供英国国家医疗服务体系(NHS)、英国广播公司(BBC)和国民西敏寺银行(NatWest Bank)等十多家合作伙伴使用。Inrupt 的 Solid（社交链接数据）技术是 Tim 爵士和一支 MIT 计算机科学家团队开发的，该技术使用户能够创建自己的 Pod（个人在线数据库）。这使他们能够控制自己的数据，并按照自己的意愿授予第三方应用程序访问权限。例如英国国家医疗服务体系正在运行一个试点项目，允许用户在他们自己的Pod上存储个人医疗数据，上传来源于其他生活类应用的数据，并与医生和护理人员共享这些信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-10T09:59:45Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Edge 开始自动切换到 HTTPS",
+  "Link": "https://www.solidot.org/story?sid=67937",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果网站支持 HTTPS，Microsoft Edge 通过 HTTP 访问该网站时\u003ca href=\"https://www.bleepingcomputer.com/news/security/microsoft-adds-automatic-https-in-edge-for-secure-browsing/\" target=\"_blank\"\u003e\u003cu\u003e将自动切换到 HTTPS\u003c/u\u003e\u003c/a\u003e。该功能已包含在测试版本中，正在推送给部分挑选的 Microsoft Edge 92 用户。自动切换到 HTTPS 连接将能阻止中间人攻击，防止流量纂改。如果 Microsoft Edge 用户现在就想启用该功能，可以打开  edge://settings/privacy，启用 Automatically switch to more secure connections with Automatic HTTPS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-02T13:25:21Z",
+  "Author": "WinterIsComing"
+}

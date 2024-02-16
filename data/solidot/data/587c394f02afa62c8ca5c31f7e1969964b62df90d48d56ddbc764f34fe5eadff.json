@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Edge 被指悄悄导入了 Firefox 数据",
+  "Link": "https://www.solidot.org/story?sid=64757",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正通过 Windows Update 将它基于 Chromium 的新 Microsoft Edge 浏览器推送给 Windows 10 用户。部分 Firefox 用户报告 Microsoft Edge \u003ca href=\"https://news.softpedia.com/news/microsoft-edge-accused-of-sneakily-importing-firefox-data-on-windows-10-530338.shtml\" target=\"_blank\"\u003e\u003cu\u003e未经允许就导入了 Firefox 数据\u003c/u\u003e\u003c/a\u003e。部分 Firefox 用户报告他们尝试杀死新 Microsoft Edge 的初始设置进程，结果虽然安装向导关闭，但 Firefox 数据仍然被拷贝了。部分用户在 reddit 上报告同样的行为也在他们的计算机上发生了。微软尚未就此发表评论。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-24T05:45:34Z",
+  "Author": "WinterIsComing"
+}

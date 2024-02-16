@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "被盗走 16 比特币的男子起诉小偷的父母",
+  "Link": "https://www.solidot.org/story?sid=68706",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2018 年，Andrew Schober 在 Reddit 上点击了一个钱包应用 Electrum Atom 的链接，当时他并不知道这个钱包应用捆绑了一个剪切板恶意程序。恶意程序会监视剪切板，如果发现受害者复制了一个钱包地址它会悄悄将其替换为黑客控制的钱包地址。当 Schober 将 16.4 个比特币从一个账号转移到另一个账号时，地址被悄悄替换。这些比特币价值大约 100 万美元。Schober 在比特币被盗之后花了 1 万多美元请人调查幕后黑手。\u003ca href=\"https://krebsonsecurity.com/2021/08/man-robbed-of-16-bitcoin-sues-young-thieves-parents/\" target=\"_blank\"\u003e\u003cu\u003e调查人员通过跟踪比特币交易和 GitHub 等社交账号最终识别了两位黑客\u003c/u\u003e\u003c/a\u003e，但问题是犯罪发生时他们还没有成年。Schobe 因此决定先找他们的父母要回被盗的比特币。两位年轻黑客都是英国人。他致函给其父母后没有收到回应，随后就在美国的科罗拉多州法庭起诉两名少年及其父母。被告父母这时候回应了，他们没有否认指控，但表示诉讼时效已经过了。代表孩子父母的律师称，原告在诉状中提起的诉讼理由分别有两年和三年的时效，原告直到 2021 年 5 月 21 日距离盗窃案发生三年零五个月后才起诉，法院应该驳回诉讼。代表 Schober 的律师指出诉讼时效是从确认两位犯罪嫌疑人之后开始计算。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-26T15:31:51Z",
+  "Author": "WinterIsComing"
+}

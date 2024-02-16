@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达开源内核驱动 Nouveau 维护者辞职",
+  "Link": "https://www.solidot.org/story?sid=76124",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达 GPU 内核开源驱动 Nouveau 的维护者 Ben Skeggs 辞职，宣布退出开发。Ben Skeggs 此前一直为 Red Hat 工作，他从 2008 年起就担任 Nouveau 的维护者。他最后递交的补丁为内核驱动加入了利用英伟达 GPU 系统处理器 GSP 固件改进 RTX 20/30 系列显卡的硬件支持，加入对 RTX 40 Ada Lovelace GPU 的初步支持。英伟达最近开源了其内核驱动，但用户空间驱动仍然是闭源的。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Nouveau-Maintainer-Resigns\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-19T07:40:52Z",
+  "Author": "Wilson"
+}

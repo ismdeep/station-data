@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英伟达宣布新安培架构 GPU A100",
+  "Link": "https://www.solidot.org/story?sid=64378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英伟达 CEO 黄仁勋通过视频\u003ca href=\"https://blogs.nvidia.cn/2020/05/15/gtc-2020-keynote/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e该公司的新安培架构 GPU（英伟达 GPU 架构代号都以著名科学家的名字命名，如图灵、帕斯卡、特斯拉和安培），以及首款基于安培架构的 GPU A100，该 GPU 并非是面向消费者，而是面向机器学习和 HPC 市场。A100 使用台积电的 7 纳米工艺制造，晶体管数量超过 540 亿，英伟达称它是世界上最大的 7 纳米处理器；带有 TF32 的第三代 Tensor Core 核心，这是一种新的数值格式，可加速开箱即用的单精度AI训练；结构稀疏性（Structural sparsity）加速，这是一种新的高效技术，可以利用 AI 数学固有的稀疏性来获得更高的性能；多实例 GPU（Multi-instance GPU或MIG），允许将一个 A10 0分割为多达七个独立的 GPU，每个 GPU 都有自己的资源；第三代 NVLink 技术，使GPU之间的高速联接能力加倍，从而可以使多个 A100 服务器充当一个巨型 GPU。A100 的 FP32 性能达到了 19.5 TLFLOPs，相比下上一代特斯拉 V100 是 16.4 TFLOPs。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-15T13:49:31Z",
+  "Author": "WinterIsComing"
+}

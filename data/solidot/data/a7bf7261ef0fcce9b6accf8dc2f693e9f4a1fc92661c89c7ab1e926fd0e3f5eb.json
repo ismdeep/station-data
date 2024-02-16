@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "比特币控制在少部分投资者和矿工手中",
+  "Link": "https://www.solidot.org/story?sid=69399",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t比特币的流行没有改变它的一个原始属性：\u003ca href=\"https://www.bloomberg.com/news/articles/2021-10-25/bitcoin-still-concentrated-in-few-hands-study-finds\"\u003e\u003cu\u003e所有权集中在少部分人手中\u003c/u\u003e\u003c/a\u003e。根据美国国家经济研究局（NBER）的\u003ca href=\"https://www.nber.org/system/files/working_papers/w29396/w29396.pdf\"\u003e\u003cu\u003e一项研究（PDF）\u003c/u\u003e\u003c/a\u003e，前一万名个人投资者控制着比特币三分之一的流通币。截至去年年底比特币中介机构控制着约 550 万枚比特币，个人投资者控制着 850 万，其中前 1000 名投资者控制着 300 万枚，集中程度相当高。研究人员承认比特币的集中程度可能更高，比如他们没有将早期的约 2 万个比特币地址所有权分配给同一个人（中本聪），而是视为 2 万个不同的人。NBER 的研究还发现，10% 的矿工控制着 90% 的挖矿能力，其中 0.1% 的矿工（约 50 个）控制着 50% 的挖矿能力。高集中度让比特币容易受到 51% 的攻击。研究人员发现，比特币币值上升时集中度会下降，下跌时增加，这意味着币值暴跌时比特币网络发生 51% 攻击的概率更高。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-27T11:46:12Z",
+  "Author": "WinterIsComing"
+}

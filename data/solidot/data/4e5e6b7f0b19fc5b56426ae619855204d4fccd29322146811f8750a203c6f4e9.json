@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果、Google 和 Mozilla 封杀哈萨克斯坦政府 CA",
+  "Link": "https://www.solidot.org/story?sid=61805",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果、Google 和 Mozilla \u003ca href=\"https://www.zdnet.com/article/apple-google-and-mozilla-block-kazakhstans-https-intercepting-certificate/\" target=\"_blank\"\u003e\u003cu\u003e采取行动\u003c/u\u003e\u003c/a\u003e封杀了哈萨克斯坦政府上个月用于对加密流量发动中间人攻击的 CA。从今天开始， Chrome、Firefox 和 Safar 用户如果遇到使用哈萨克斯坦政府 CA 证书加密的 HTTPS 流量将会显示错误信息。主要浏览器开发商的这次协同行动是为了确保被迫安装证书的哈萨克网民的安全。上个月哈萨克斯坦的 ISP 强迫用户安装了 政府的 root CA ，官员给出的理由是保护公民的安全，抵御黑客攻击、网络欺骗和其它类型的网络威胁。但实际上哈萨克斯坦利用该 root CA 签发伪造证书拦截和解密加密流量。它被发现伪造了流行网站 Facebook、Google、Twitter、Instagram 和 YouTube 的证书。哈萨克斯坦政府本月初以实验结束终止了强行的证书的安装。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-21T12:12:08Z",
+  "Author": "wenfeixiang"
+}

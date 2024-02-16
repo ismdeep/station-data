@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Chrome 将逐步禁止不安全下载",
+  "Link": "https://www.solidot.org/story?sid=63545",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 想要确保必须通过 HTTPS 安全下载文件，它的浏览器 Chrome \u003ca href=\"https://security.googleblog.com/2020/02/protecting-users-from-insecure_6.html\"\u003e\u003cu\u003e将逐步禁止非 HTTPS 下载\u003c/u\u003e\u003c/a\u003e。此举被批\u003ca href=\"https://tech.slashdot.org/story/20/02/16/1926231/google-chrome-will-soon-start-blocking-insecure-downloads\"\u003e\u003cu\u003e是过度控制\u003c/u\u003e\u003c/a\u003e，只是制造安全的错觉。HTTP 相比 HTTPS 确实存在传输的文件可能被中间人拦截纂改，但如果没有签名等额外的安全措施，你并不能保证所下载文件未被修改。根据 Google 的计划，从 4 月发布的 Chrome 82 起，浏览器将对从安全网站下载的非 HTTPS 可执行内容发出警告。从 Chrome 83 起，浏览器将屏蔽此类的可执行文件下载。从 Chrome 84 起对存档文件如 .PDF 和 .docx 的非 HTTPS 下载发出警告。从 Chrome 85 起对非 HTTPS 的图像、音频、视频和文本展示发出警告。2020 年 10 月发布的 Chrome 86 将屏蔽 HTTPS 网站的所有非 HTTPS 内容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-17T05:37:46Z",
+  "Author": "WinterIsComing"
+}

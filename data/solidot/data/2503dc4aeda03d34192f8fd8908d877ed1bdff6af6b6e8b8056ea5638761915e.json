@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 和英特尔警告 Linux 高危蓝牙漏洞",
+  "Link": "https://www.solidot.org/story?sid=65812",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 和英特尔对 Linux 内核的一个高危蓝牙漏洞\u003ca href=\"https://arstechnica.com/information-technology/2020/10/google-and-intel-warn-of-high-severity-bluetooth-security-bug-in-linux/\" target=\"_blank\"\u003e发出警告\u003c/a\u003e。被称为 BleedingTooth 的漏洞允许攻击者在蓝牙接收范围内使用内核权限执行任意代码。漏洞位于内核蓝牙子系统 BlueZ 中，影响 Linux 2.4.6 及之后的版本。发现该漏洞的 Google 工程师 Andy Nguyen 表示会在不久之后公布细节。英特尔发布了\u003ca href=\"https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html\"\u003e\u003cu\u003e安全公告\u003c/u\u003e\u003c/a\u003e，它推荐用户升级到  5.10，但如果内核升级不可能，可以直接安装内核补丁去解决该问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-15T09:12:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeBSD 11.4 释出",
+  "Link": "https://www.solidot.org/story?sid=64687",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeBSD 项目释出了\u003ca href=\"https://www.freebsd.org/releases/11.4R/announce.html\"\u003e\u003cu\u003e FreeBSD 11.4-RELEAS\u003c/u\u003e\u003c/a\u003eE，11 稳定分支的第五个版本。主要变化包括：clang 和 llvm 等与上游同步更新到 10.0.0；Unbound 更新到 1.9.6，OpenSSL v1.0.2u，pkg(8) 1.13.2，KDE 5.18.4.1.19.12.3，GNOME v3.28，支持重命名 ZFS 书签，certctl(8)，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-17T06:59:50Z",
+  "Author": "WinterIsComing"
+}

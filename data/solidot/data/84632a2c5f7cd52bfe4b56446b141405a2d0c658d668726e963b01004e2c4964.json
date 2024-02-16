@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "加密流量超过九成",
+  "Link": "https://www.solidot.org/story?sid=62463",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Netmarketshare 的\u003ca href=\"https://netmarketshare.com/report.aspx?options=%7B%22filter%22%3A%7B%7D%2C%22dateLabel%22%3A%22Custom%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22secure%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22https%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-10%22%2C%22dateEnd%22%3A%222019-10%22%2C%22segments%22%3A%22-1000%22%7D\"\u003e\u003cu\u003e数据\u003c/u\u003e\u003c/a\u003e，2019 年 10 月加密 Web 流量的比例已经超过了九成。这一数据也可以通过其它来源进行验证：根据 Google 透明度报告“\u003ca href=\"https://transparencyreport.google.com/https/overview?hl=zh_CN\u0026amp;time_os_region=chrome-usage:1;series:time;groupby:os\u0026amp;lu=load_os_region\u0026amp;load_os_region=chrome-usage:1;series:page-load;groupby:os\"\u003e\u003cu\u003eChrome 中的 HTTPS 加密情况\u003c/u\u003e\u003c/a\u003e”，2019 年 10 月  Chrome 加载网页中启用加密的比例已经达到了 95%；而在全球范围，美国的 HTTPS 比例为 92%，俄罗斯 85%，日本 80%，印尼 74%。互联网上排名前 100 位的非 Google 网站中默认使用 HTTPS 的有 90 位。Google 没有提供中国的数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-02T11:32:43Z",
+  "Author": "wenfeixiang"
+}

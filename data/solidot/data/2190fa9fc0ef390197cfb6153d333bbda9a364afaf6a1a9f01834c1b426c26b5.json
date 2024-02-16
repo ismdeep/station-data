@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "服务器在情人节发生故障导致短信在 9 个月后才发送到接收者",
+  "Link": "https://www.solidot.org/story?sid=62560",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t16.8 万条在今年情人节发出的短信在 9 个月后才发送给接收者。原因是为美国移动运营商提供短信服务的 Syniverse 公司的\u003ca href=\"https://arstechnica.com/information-technology/2019/11/why-168149-valentines-day-text-messages-arrived-in-november/#p3\" target=\"_blank\"\u003e\u003cu\u003e一台服务器发生了故障\u003c/u\u003e\u003c/a\u003e。Syniverse 每个月为数百家移动运营商处理 6000 亿条短信，该公司称 99.8% 的短信能在 1 秒内传递出去。但服务器故障导致了部分短信延迟了 9 个月之久。该公司在一份\u003ca href=\"https://www.syniverse.com/insights/syniverse-statement-regarding-person-to-person-messaging-event\" target=\"_blank\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e中称，2019 年 2 月 14 日，一台服务器故障导致了队列中的短信没有传输出去。出于某种原因，该公司在随后的几个月里一直没有重新激活服务器。服务器是在 11 月 7 日重新激活的，结果是超过 16 万条情人节短信在 11 月 7 日发送了出去，给接收者带来不小的困惑，因为过去几个月部分发送者已经去世了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-11T07:51:30Z",
+  "Author": "wenfeixiang"
+}

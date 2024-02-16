@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 79 释出",
+  "Link": "https://www.solidot.org/story?sid=62914",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 释出了 \u003ca href=\"https://developers.google.com/web/updates/2019/12/nic79\"\u003e\u003cu\u003eChrome 79\u003c/u\u003e\u003c/a\u003e，引入了一系列新的功能。\u003ca href=\"https://www.zdnet.com/article/chrome-79-released-with-tab-freezing-back-forward-caching-and-loads-of-security-features/\"\u003e\u003cu\u003e其中包括\u003c/u\u003e\u003c/a\u003e：密码泄露检查工具 Password Checkup 从扩展变为内置，如果用户使用的密码已被泄露，Google 会警告并提示修改密码；Safe Browsing API 默认支持实时检查可疑网址；Predictive Phishing 警告支持所有储存在浏览器密码数据库内的用户名和密码；警告有“混合内容”的 HTTPS 网站；标签冻结将卸下所有不活跃时间超过 5 分钟的标签，释放 CPU 和内容资源给其它标签使用；支持后退缓存机制，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-11T09:46:29Z",
+  "Author": "WinterIsComing"
+}

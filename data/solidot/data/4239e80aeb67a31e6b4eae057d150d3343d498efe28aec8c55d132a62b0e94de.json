@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "把攻击者放进威胁模型，而不是安全研究者",
+  "Link": "https://www.solidot.org/story?sid=67581",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/hardenedlinux\"\u003eHardenedLinux\u003c/a\u003e 写道\u003ci\u003e \u0026#34;近日一篇于2021年2月公开的论文\u0026#34;\u003ca href=\"https://raw.githubusercontent.com/QiushiWu/qiushiwu.github.io/main/papers/OpenSourceInsecurity.pdf \" target=\"_blank\"\u003eOn the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits\u003c/a\u003e\u0026#34;和相关针对Linux内核社区故意投递恶意UAF漏洞的试验\u003ca href=\"https://www.solidot.org/story?sid=67561\"\u003e被内核维护者Greg Kroah-Hartman攻击\u003c/a\u003e而进入公共的视野，迫于媒体的压力明尼苏达大学\u003ca href=\"https://www.solidot.org/story?sid=67562 \" target=\"_blank\"\u003e宣布进行调查\u003c/a\u003e，Greg和一些内核维护者的指控在一些方面有失偏颇，首先，这是一项非常有趣的研究，真实世界的攻击者不论是否有相关公开的研究都会进行此类攻击和尝试，从这个角度，我们应该感谢明尼苏达大学的研究者。Greg单方面的\u003ca href=\"https://lore.kernel.org/linux-nfs/YH%2FfM%2FTsbmcZzwnX@kroah.com/\" target=\"_blank\"\u003e“决定”封杀明尼苏达大学邮箱的提交和撤回\u003c/a\u003e之前所有的代码贡献是过度反应，如果撤回之前代码贡献的原因仅仅是因为此次试验的内容，那内核社区是否应该考虑代码审核的过程过于脆弱。Greg如果有权封杀所有他个人不喜欢的安全研究者，是否意味着Linux内核社区默认赋予他这样的权利，幸运的是，\u003ca href=\"https://lore.kernel.org/lkml/18edc472a95f1d4efe3ef40cc9b8d2611d4ab990.camel@redhat.com\"\u003e并不是所有人都赞同Greg和媒体的说辞\u003c/a\u003e ,或许此举让\u003ca href=\"https://kernel.org/doc/html/latest/process/code-of-conduct.html\" target=\"_blank\"\u003eLinux内核社区的行为准则\u003c/a\u003e成为了笑话。另外，其他自由开源软件社区也同样面临恶意植入的问题，而这些实际的问题大量引入媒体而非专业人士的建议是不明智的，我们应该把攻击者放进威胁模型，而不是安全研究者和明尼苏达大学。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-23T06:59:35Z",
+  "Author": "WinterIsComing"
+}

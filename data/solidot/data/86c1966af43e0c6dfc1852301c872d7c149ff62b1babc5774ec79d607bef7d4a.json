@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新 H.266 VVC 编解码器效率比上一代提升 50%",
+  "Link": "https://www.solidot.org/story?sid=64876",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFraunhofer Heinrich Hertz 研究所\u003ca href=\"https://newsletter.fraunhofer.de/-viewonline2/17386/465/11/14SHcBTt/V44RELLZBp/1\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 H.266 Versatile Video Coding 编解码器，称效率比上一代 H.265/HEVC 提升最高 50%。Fraunhofer HHI 的行业合作伙伴包括苹果、爱立信、英特尔、华为、微软、高通和索尼。新闻稿称，今天压缩的视频数据占到了全球流量的八成，H.266 VVC 的前两代编解码器分别为 H.264/Advanced Video Coding (AVC) 和H.265/HEVC。Fraunhofer HHI 称，H.266/VVC 将能大幅减少移动网络传输视频的数据要求，传输 90 分钟的 UHD 视频 H.265/HEVC 编码需要传输 10GB 数据，而 H.266/VVC 编码只需要 5GB。新的视频编解码标准将能让 4K 或 8K 流媒体内容受益。H.264 到 H.266 都需要支付专利使用费的，Google 等公司主导推出了免专利的 AV1 编解码器，但 AV1 目前还\u003ca href=\"https://apple.slashdot.org/story/20/07/06/219225/new-h266-vcc-codec-up-to-50-more-efficient-than-previous-standard\" target=\"_blank\"\u003e\u003cu\u003e缺乏\u003c/u\u003e\u003c/a\u003e硬件支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-07T11:19:38Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开源蛋白质结构软件取得成功",
+  "Link": "https://www.solidot.org/story?sid=69688",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t弄清楚蛋白质中氨基酸的排序相对简单。但弄清楚排序如何转化为执行特定功能的复杂三维结构则极具挑战性。在几十年的缓慢进展之后，Google 的 DeepMind AI 小组宣布它在解决这个问题方面取得巨大进展。它在 7 月\u003ca href=\"https://www.solidot.org/story?sid=68308\"\u003e\u003cu\u003e开源了\u003c/u\u003e\u003c/a\u003e名为 AlphaFold 的系统。与此同时，一组学术研究人员发布了自己的蛋白质折叠软件 RoseTTAFold，部分使用了源自 DeepMind 的想法构建。\u003ca href=\"https://arstechnica.com/science/2021/11/new-protein-structure-software-put-to-use-on-big-complexes/\" target=\"_blank\"\u003e\u003cu\u003e这些工具的效果如何\u003c/u\u003e\u003c/a\u003e？即使它们不如某些统计数据显示的那么好，但很明显比曾经拥有的任何东西要好得多。科学家将如何使用它们？\n\u003cbr/\u003e\n\u003cbr/\u003e\n本周我们\u003ca href=\"https://www.science.org/doi/10.1126/science.abm4805\"\u003e\u003cu\u003e得到了部分答案\u003c/u\u003e\u003c/a\u003e，一项大型研究合作将该软件用于相关问题：这些单独的三维结构如何结合在一起，形成在生物学中执行一些最重要功能的大型多蛋白复合物。单个蛋白质单独工作很好，但是生物学的某些方面需要仔细协调多种化学变化，使其作为一系列有序、连续的步骤完成。对于这些过程来说，最为容易的是需要协调成为单一复合体一部分的蛋白质。例如复制我们染色体的复合物通常由十几种蛋白质组成。植物光合作用一部分的光合系统I 规模相似。核糖体将信使 RNA 中的信息翻译成蛋白质的氨基酸排序，某些物种中核糖体可能需要超过 75 种蛋白质。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-19T11:54:00Z",
+  "Author": "WinterIsComing"
+}

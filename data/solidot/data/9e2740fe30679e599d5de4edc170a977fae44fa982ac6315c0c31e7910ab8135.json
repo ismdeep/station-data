@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因合约代码错误 11539 枚 ETH 被永久锁定",
+  "Link": "https://www.solidot.org/story?sid=71336",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t3D 动画 NFT 项目 AkuDreams 因合约代码错误导致投标者的 11539.5 枚 ETH \u003ca href=\"https://twitter.com/0xfoobar/status/1517680400142716929\"\u003e\u003cu\u003e被永久锁定\u003c/u\u003e\u003c/a\u003e，无法退款。被锁定的加密货币价值 3420 万美元。智能合约代码存在两个 bug，其一是完成投标用户状态会设为 1，竞标失败后退款条件状态为 0，因此用户无法申请退款。而开发团队也无法取款，因为 refundProgress ≥ totalBids，totalBids 是卖出量，而代码应该针对是的报价人数——对应 bidIndex。Akutars \u003ca href=\"https://twitter.com/AkuDreams/status/1517857397209026560\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将向通行证持有者发放 0.5 ETH 退款。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-24T06:56:13Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "基于 Rust 的 Redox OS 接近自托管",
+  "Link": "https://www.solidot.org/story?sid=62816",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRedox OS 项目创始人 Jeremy Soller \u003ca href=\"https://www.theregister.co.uk/2019/11/29/after_four_years_rusty_os_nearly_selfhosting/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e它正接近自托管。Redox OS 是一个用 Rust 语言开发的类 Unix 操作系统项目，\u003ca href=\"https://www.solidot.org/story?sid=47576\"\u003e\u003cu\u003e其开发始于 2016 年\u003c/u\u003e\u003c/a\u003e，所谓自托管意味着 Rustc 编译器能运行在 Redox 上。Soller 还是 System76 公司的首席工程师，他表示现在能在一台公司的笔记本电脑上运行 Redox OS，完整支持键盘、触摸板、硬盘和网卡。Redox OS 的最新版本\u003ca href=\"https://www.redox-os.org/news/release-0.5.0/\"\u003e\u003cu\u003e是 0.5\u003c/u\u003e\u003c/a\u003e，它仍然是一个实验性质的早期版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-02T12:42:11Z",
+  "Author": "WinterIsComing"
+}

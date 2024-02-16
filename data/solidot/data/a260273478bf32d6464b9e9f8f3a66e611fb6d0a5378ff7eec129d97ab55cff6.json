@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LLVM 10.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63921",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLLVM 编译器套装项目释出了\u003ca href=\"https://releases.llvm.org/download.html#10.0.0\"\u003e\u003cu\u003e 10.0.0 版本\u003c/u\u003e\u003c/a\u003e。LLVM 项目目前的发布计划为每半年发布一个大版本。10.0.0 版本的主要变化包括：Clang 支持 C++ Concepts；Clang 默认不再运行在一个独立进程上；支持 Windows 10 内置的安全特性 Control Flow Guard (CFG)；支持更多处理器核心和特性，等等。更多可浏览 \u003ca href=\"https://releases.llvm.org/10.0.0/docs/ReleaseNotes.html\"\u003e\u003cu\u003eLLVM\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://llvm.org/releases/10.0.0/tools/clang/docs/ReleaseNotes.html\"\u003e\u003cu\u003eClang\u003c/u\u003e\u003c/a\u003e、Extra Clang Tools、lld 和 libc++ 的发布公告。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-25T02:15:34Z",
+  "Author": "WinterIsComing"
+}

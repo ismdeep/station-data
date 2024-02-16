@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "HardenedVault白皮书：赛博堡垒锻造之路",
+  "Link": "https://www.solidot.org/story?sid=68809",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net/\"\u003eHardenedVault\u003c/a\u003e 写道\u003ci\u003e \u0026#34;\u003ca href=\"https://hardenedvault.net/\" target=\"_blank\"\u003eHardenedVault\u003c/a\u003e近期发布了白皮书《\u003ca href=\"https://zhuanlan.zhihu.com/p/406518045\" target=\"_blank\"\u003e赛博堡垒锻造之路\u003c/a\u003e》，在当前的业务环境中，云和物联网网关无处不在，他们的共同点都是拥有完整的硬件和固件体系并且运行着Linux操作系统。2015\u003cspan lang=\"zh-CN\"\u003e年时，\u003c/span\u003ePaX/GRsecurity\u003cspan lang=\"zh-CN\"\u003e作者接受华盛顿邮报采访并揭露了\u003c/span\u003eLinux\u003cspan lang=\"zh-CN\"\u003e内核安全问题后由\u003c/span\u003eGoogle, RedHat, ARM, Intel组成的\u003cspan lang=\"zh-CN\"\u003e豪华阵容发起了\u003c/span\u003e\u003ca href=\"https://www.solidot.org/story?sid=48323\" target=\"_blank\"\u003eLinux\u003cspan lang=\"zh-CN\"\u003e内核自防护计划\u003c/span\u003e\u003c/a\u003e，可惜在6年后的今天此项目已经名存实亡，行业用户的生产环境依然每天都要面对来自Linux内核极大的安全挑战，即使如此，跟内核以下层面的威胁相比内核安全还不算是最核心的问题，Ring -1的虚拟化和Ring -2的UEFI/SMM的情况依旧不乐观，针对Ring -2的漏洞利用和持久化可让任何用户空间和内核层的检测手段失效，从防御的角度出发，芯片安全特性的开箱过程高度依赖于Ring -2和被称为\u003ca href=\"https://hardenedvault.net/2021/07/16/ciso-seceng_csme.html\" target=\"_blank\"\u003e”来自Ring -3世界的恶魔“的CSM\u003c/a\u003eE，非x86体系虽然会简单一点，但只是简单那么一点点而已。这种多元化生态所带来的是复杂性的提升，在错综复杂的关系中如果我们不能跳出当前的层面探究这些工程问题的本质，这场猫鼠游戏的结局必然是消耗了巨大的人力和财力并且最终难以达到行业对安全的预期，HardenedVault尝试借助计算机科学的力量去解决当前行业面临的安全问题，通过重新梳理从芯片，固件，操作系统到密码学中所涉及安全攻防对抗的部分形成更为有效的纵深防御体系，希望这些业界长期无法解决的尴尬问题可以通过量身打造赛博堡垒得到缓解。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-03T15:32:32Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "如何消除世界对密码的需求",
+  "Link": "https://www.solidot.org/story?sid=71020",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFIDO 联盟董事会成员包括 Amazon、Google、PayPal、RSA、Apple 和微软（以及 Intel 和 Arm）。该组织将其使命描述为\u003ca href=\"https://arstechnica.com/information-technology/2022/03/a-big-bet-to-kill-the-password-for-good/\" target=\"_blank\"\u003e\u003cu\u003e减少世界“对密码的过度依赖”\u003c/u\u003e\u003c/a\u003e。FIDO 发布了\u003ca href=\"https://media.fidoalliance.org/wp-content/uploads/2022/03/How-FIDO-Addresses-a-Full-Range-of-Use-Cases.pdf\" target=\"_blank\"\u003e\u003cu\u003e一份白皮书\u003c/u\u003e\u003c/a\u003e，阐述了愿景，即解决困扰无密码功能可用性的问题，这些问题阻碍了推广。\n\u003cbr/\u003e\n\u003cbr/\u003e\n这份白皮书是概念性而非技术性的，经过多年的投资，在将 FIDO2 和 WebAuthn 无密码标准集成到Windows、Android、iOS 等系统中后，现在取决于下一步的成功。FIDO 正寻找让无密码方案难以前进的核心问题。结论是一切都要归结为切换或添加设备的程序。例如如果设置新手机的过程过于复杂，又没有简单的方法可以登录你所有的应用程序和帐户，或者你必须使用密码重新建立对这些帐户的所有权，那么大多数用户都会觉得改变现状太麻烦了。\n\u003cbr/\u003e\n\u003cbr/\u003e\n无密码 FIDO 标准依赖设备的生物识别扫描仪或者主 PIN 码在本地验证身份，无需将数据通过互联网传输到网络服务器进行验证。FIDO 认为，最终解决新设备问题的关键概念是让操作系统实现“FIDO 凭据”管理器，类似于内置的密码管理器。这种机制不会直接存储密码，而是存储可以在设备之间同步并由设备的生物识别或者密码锁保护的加密密钥。在去年夏天全球开发者大会上，苹果宣布了自己的 FIDO 版本，这是一项被称为“Passkeys in iCloud Keychain”的 iCloud 功能，苹果称这是“对后密码世界的贡献。\n\u003cbr/\u003e\n\u003cbr/\u003e\nFIDO 的白皮书还包含了另一个部分，是对其规范的拟议补充，允许现有的设备（如笔记本电脑）充当硬件令牌，类似于独立的蓝牙身份验证加密狗，通过蓝牙提供物理身份验证。这个想法实际上仍然是防御网络钓鱼，因为蓝牙是一种基于邻近的协议，可以作为一种有用的工具，根据需要开发出不同版本的、真正的无密码方案，这些方案都无需保留备份密码。Google 产品经理 Christiaan Brand 专注于身份和安全以及在FIDO项目上的合作，他表示，密码式的计划在逻辑上遵循智能手机或多设备无密码未来的图景。Brand表示：“老实说，我们一直牢记‘让我们超越密码’这个宏伟愿景的最终状态，只有每个人口袋里都有手机，它才能实现。”对 FIDO 而言，当务之急是转变帐户的安全范式，使网络钓鱼成为过去。当被问及情况是否真的如此时，密码的丧钟是否真的最终敲响，Brand 变得严肃起来，但他毫不犹豫地回答：“我觉得一切都在聚拢。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-22T10:04:56Z",
+  "Author": "wanwan"
+}

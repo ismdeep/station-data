@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Workspace 用户账号将默认启用跟踪",
+  "Link": "https://www.solidot.org/story?sid=71097",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Google 的\u003ca href=\"https://support.google.com/a/answer/11194328?hl=zh-Hant\"\u003e\u003cu\u003e支持页面\u003c/u\u003e\u003c/a\u003e，从 3 月 29 日起 Google Workspace 用户账号\u003ca href=\"https://tutanota.com/blog/posts/google-turns-on-activity-tracking-even-if-turned-off/\" target=\"_blank\"\u003e\u003cu\u003e将默认启用跟踪\u003c/u\u003e\u003c/a\u003e。Google 称，自 2022 年 3 月 29 日起，管理控制台的“网络和应用程序活动”设定将会淘汰，届时所有使用者都会预设启用新的使用者设定：Google Workspace 搜索记录。该设定默认为启用。当使用者输入搜索字词时，系统会根据 Gmail 和 Google 云盘等 Google Workspace 服务中的搜索记录显示建议。如果管理员已在管理控制台中停用“网络和应用程序活动”，系统就会为 Google Workspace 使用者关闭这项设定。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-29T14:04:51Z",
+  "Author": "WinterIsComing"
+}

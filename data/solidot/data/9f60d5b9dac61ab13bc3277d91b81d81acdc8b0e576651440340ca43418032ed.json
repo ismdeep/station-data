@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布下一代 CPU 将支持 B450 和 X470 主板",
+  "Link": "https://www.solidot.org/story?sid=64414",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 此前透露，基于 Zen 3 架构的下一代处理器将不再支持前一代的 400 系列 B450 和 X470 主板，理由之一是这些主板 BIOS ROM 容量不够大。此举引发了社区的广泛争议。在收到大量批评之后，AMD \u003ca href=\"https://www.anandtech.com/show/15807/amd-to-support-zen-3-and-ryzen-4000-cpus-on-b450-and-x470-motherboards\"\u003e\u003cu\u003e撤回了决定\u003c/u\u003e\u003c/a\u003e，宣布 Zen 3 处理器将会继续支持上述旧主板。AMD 称，为了确保 ROM 的可用空间足够大，新的可选升级的 BIOS 将移除对许多现有处理器的支持；Zen 3 之后的处理器将不再支持这些旧主板；它会继续推荐客户选择 500 系列主板。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-20T06:44:10Z",
+  "Author": "WinterIsComing"
+}

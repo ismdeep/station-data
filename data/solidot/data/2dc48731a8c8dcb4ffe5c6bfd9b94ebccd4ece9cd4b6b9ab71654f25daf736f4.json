@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因为姓“True” iCloud 锁住了用户账号",
+  "Link": "https://www.solidot.org/story?sid=67133",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果程序员看起来\u003ca href=\"https://apple.slashdot.org/story/21/03/07/0127247/icloud-allegedly-locked-out-user-whose-last-name-is-a-boolean-value\" target=\"_blank\"\u003e\u003cu\u003e无法让服务正确区\u003c/u\u003e\u003c/a\u003e分字符串 True 和布尔值 True。美国电影电视演员、前模特 Rachel True 在 Twitter 上\u003ca href=\"https://twitter.com/RachelTrue/status/1368004197166108676?ref_src=twsrc%5Etfw\"\u003e\u003cu\u003e发帖\u003c/u\u003e\u003c/a\u003e称因为姓 True 她的 iCloud 账号遭到锁定，问题已经存在了半年之久。iCloud 客户端在解析其用户名时认为小写的 true 是一个布尔值，随后返回了错误信息，软件也停止工作。Rachel True 表示，如果她养宠物狗，她准备叫它 Boolean Bobby Drop Tables True。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-08T04:24:54Z",
+  "Author": "WinterIsComing"
+}

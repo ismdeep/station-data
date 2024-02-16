@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 88 将停止支持 FTP",
+  "Link": "https://www.solidot.org/story?sid=67509",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Chrome 之后，Mozilla Firefox 也将停止支持 FTP 协议。Mozilla 是在去年宣布它计划从浏览器中移除内置的 FTP 实现。即将在 4 月 19 日释出的 Firefox 88 \u003ca href=\"https://blog.mozilla.org/addons/2021/04/15/built-in-ftp-implementation-to-be-removed-in-firefox-90/\" target=\"_blank\"\u003e\u003cu\u003e将关闭 FTP 实现\u003c/u\u003e\u003c/a\u003e，Firefox 90 将移除 FTP。在停止支持之后，浏览器将会用外部应用打开 ftp:// 链接。此外 browserSettings.ftpProtocolEnabled 的设置将会变为只读，修改设置不会产生效果。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-16T06:30:45Z",
+  "Author": "WinterIsComing"
+}

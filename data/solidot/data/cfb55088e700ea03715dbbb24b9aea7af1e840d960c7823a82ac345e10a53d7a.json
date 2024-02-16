@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用泄露的 VPN 密码入侵 Colonial Pipeline",
+  "Link": "https://www.solidot.org/story?sid=67961",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t调查网络攻击的安全公司 Mandiant 的高级副总裁 Charles Carmakal 称，黑客是在 4 月 29 日通过一个 VPN 账号\u003ca href=\"https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password\" target=\"_blank\"\u003e\u003cu\u003e进入美国最大燃油管道公司 Colonial Pipeline 的内网\u003c/u\u003e\u003c/a\u003e。VPN 允许雇员远程访问公司内网。该账号当时已经不再使用了，但仍然能用于访问内网。账号使用的密码曾被泄露到暗网，这意味着一位 Colonial Pipeline 雇员可能有另一个使用相同密码的泄露账号。至于黑客是如何获得密码 Carmakal 表示无法确定。该 VPN 账号没有使用多因素身份验证，因此黑客只要使用账号名和密码就能进入内网。调查人员不知道黑客是如何获得正确的用户名的。Carmakal 称他们没有发现公司雇员曾遭到钓鱼攻击。5 月 7 日凌晨 5 点，Colonial 控制室的一名雇员看到了勒索通知，他通知了上司，上司随后开始了关闭管道的程序。上午  6:10，全部燃油管道被关闭。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-05T09:44:53Z",
+  "Author": "WinterIsComing"
+}

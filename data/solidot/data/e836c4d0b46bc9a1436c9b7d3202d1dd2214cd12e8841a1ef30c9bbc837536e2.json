@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度支付处理公司 Juspay 一亿多用户信息泄露",
+  "Link": "https://www.solidot.org/story?sid=66566",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t印度支付处理公司 Juspay 一亿多借记卡和信用卡用户的信息\u003ca href=\"https://www.businessinsider.in/tech/news/over-100-million-debit-and-credit-card-users-data-has-been-leaked-online-from-payments-processor-juspay-amazon-and-swiggy/articleshow/80096472.cms\" target=\"_blank\"\u003e\u003cu\u003e被泄露放到暗网销售\u003c/u\u003e\u003c/a\u003e。该公司的企业客户包括了亚马逊印度、Swiggy 和 MakeMyTrip 等。泄露的数据源自一个遭到入侵的 Juspay 服务器，该公司已经证实了此事，称入侵发生在 2020 年 8 月 18 日，泄露的数据集包括了非敏感的银行卡掩码信息、电话号码和电邮 ID。发现数据泄露的安全研究员 Rajshekhar Rajaharia 表示，如果黑客找到了哈希银行卡号码的加密算法，这一数据泄露将会严重得多。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-05T12:22:46Z",
+  "Author": "WinterIsComing"
+}

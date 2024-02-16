@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WireGuard 正式进入内核主线",
+  "Link": "https://www.solidot.org/story?sid=63369",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 刚刚发布了 Linux 5.5，开启了 Linux 5.6 合并窗口，他\u003ca href=\"https://lists.zx2c4.com/pipermail/wireguard/2020-January/004906.html\"\u003e合并了\u003c/a\u003e Dave Miller 的 net-next 树，这意味着 WireGuard 正式进入内核主线。WireGuard 是一种新兴的 VPN 实现，比 OpenVPN 和 IPSec 速度更快、攻击面更小，配置更简单。进入内核主线对这个开源项目而言是一个重要的里程碑。WireGuard 是基于 UDP，数据包在一端加密之后封装在 UDP 包内发送到远程端点，然后解密。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-29T11:55:23Z",
+  "Author": "WinterIsComing"
+}

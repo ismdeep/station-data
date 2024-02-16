@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 2.83 LTS 版发布",
+  "Link": "https://www.solidot.org/story?sid=64592",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开源 3D 图形设计软件 Blender \u003ca href=\"https://www.blender.org/download/releases/2-83/\" target=\"_blank\"\u003e\u003cu\u003e释出了 2.83 LTS 版\u003c/u\u003e\u003c/a\u003e，将提供两年的支持。开发者称，LTS 版本提供了大型项目所需的性能和稳定性。新的特性包括：使用新的 Volume 对象导入和渲染 OpenVDB 文件；VR 支持；OptiX 视窗去噪；Cloth Brush 能自动生成基于物理的逼真皱褶；Mesh Filter 新 Sharpen 模式；新的 Face Sets 系统；重写了 Grease Pencil 2D 动画工具集，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-07T06:07:06Z",
+  "Author": "WinterIsComing"
+}

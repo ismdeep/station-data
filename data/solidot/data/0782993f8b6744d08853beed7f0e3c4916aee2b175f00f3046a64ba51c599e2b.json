@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "惠普设备预装的软件发现漏洞",
+  "Link": "https://www.solidot.org/story?sid=62229",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t惠普设备预装的软件 HP Touchpoint Analytics \u003ca href=\"https://www.zdnet.com/article/vulnerability-found-and-fixed-in-hp-bloatware/\"\u003e\u003cu\u003e发现漏洞\u003c/u\u003e\u003c/a\u003e，允许恶意程序获得管理权限接管设备。SafeBreach Labs 的安全研究人员在夏天报告了该漏洞，惠普在本月释出更新修复了漏洞。惠普\u003ca href=\"https://support.hp.com/us-en/document/c06463166\"\u003e\u003cu\u003e建议\u003c/u\u003e\u003c/a\u003e其台式机和笔记本电脑用户尽可能及时更新客户端。HP Touchpoint Analytics 的功能主要是收集硬件性能的诊断信息，然后发送给惠普。该应用具有管理权限，安全研究人员发现可以劫持该应用加载恶意 DLL 文件运行恶意代码，该漏洞不允许黑客远程控制设备，但允许本地应用获得提权。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-14T08:08:06Z",
+  "Author": "wenfeixiang"
+}

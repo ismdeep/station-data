@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "难以移除的恶意程序 xHelper 感染 4.5 万 Android 设备",
+  "Link": "https://www.solidot.org/story?sid=62425",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 \u003ca href=\"https://www.symantec.com/blogs/threat-intelligence/xhelper-android-malware\"\u003e\u003cu\u003eSymantec\u003c/u\u003e\u003c/a\u003e 和 Malwarebytes 报告过去半年一种新的恶意程序 xHelper 缓慢\u003ca href=\"https://www.zdnet.com/article/new-unremovable-xhelper-malware-has-infected-45000-android-devices/\" target=\"_blank\"\u003e\u003cu\u003e感染了\u003c/u\u003e\u003c/a\u003e 4.5 万 Android 设备，新感染用户主要位于印度、美国和俄罗斯。这种恶意程序目前还比较“温和”，主要是弹出广告和垃圾信息，引诱用户安装其它应用程序。xHelper 主要通过捆绑在非官方应用感染用户设备，它的特别之处是会作为一个独立服务安装在系统中，用户卸载原捆绑的应用并不会卸载 xHelper，即使用户直接卸载 xHelper 它也会自动重新安装，恢复到出厂设置也无法移除 xHelper。安全公司还不清楚在恢复出厂设置后它如何生存下来的机制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-30T10:24:09Z",
+  "Author": "wenfeixiang"
+}

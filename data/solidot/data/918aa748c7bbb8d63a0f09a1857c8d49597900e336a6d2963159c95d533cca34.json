@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 披露地理栅栏搜查令占到了美国政府数据请求的四分之一",
+  "Link": "https://www.solidot.org/story?sid=68630",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.documentcloud.org/documents/21046081-google-geofence-warrants\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e越来越多的美国地方和州政府以及联邦执法机构向它递交地理栅栏搜查令。所谓的地理栅栏搜查令（geofence warrant）要求根据储存在 Google 服务器上的地理位置历史信息提供给定地理区域给定时间内的用户身份（比如用户可能在某个时间段内经过了某个正被调查的区域）。地理栅栏搜查令占到了 Google 从美国政府收到的所有数据请求的四分之一。2018 年它收到了 982 次地理栅栏搜查令，2019 年大幅增长到了 8,396 次，2020 年达到了 11,554 次。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-21T04:53:43Z",
+  "Author": "WinterIsComing"
+}

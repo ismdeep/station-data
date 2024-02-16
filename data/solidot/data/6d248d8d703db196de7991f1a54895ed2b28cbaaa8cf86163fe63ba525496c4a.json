@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "陶哲轩接近证明考拉兹猜想",
+  "Link": "https://www.solidot.org/story?sid=62941",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个看似十分简单的数学猜想却被数学家们互相警告不要陷入进去，但 UCLA 的数学家陶哲轩在证明该猜想上\u003ca href=\"https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/\"\u003e\u003cu\u003e取得了巨大进展\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://zh.wikipedia.org/wiki/%E8%80%83%E6%8B%89%E5%85%B9%E7%8C%9C%E6%83%B3\" target=\"_blank\"\u003e\u003cu\u003e考拉兹猜想\u003c/u\u003e\u003c/a\u003e（Collatz conjecture）可能是至今尚未证明的最简单数学猜想，由 Lothar Collatz 在 1930 年代提出，是指对于每一个正整数，如果它是奇数，则对它乘 3 再加 1，如果它是偶数，则对它除以 2，如此循环，最终都能够得到 1。举例来说，1 是奇数，乘 3 再加 1 变成偶数 4，两次除以 2 变成了 1，于是进入了一个循环。Collatz 猜测，如果所有正整数都按照这个规则处理，那么最终都会变成 1。陶哲轩在今年九月发表了\u003ca href=\"https://arxiv.org/abs/1909.03562\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，证明考拉兹猜想对于几乎所有数几乎都是正确的。他没有完全证明这一猜想，但已经是取得了过去几十年来的最大进展。陶哲轩说，他没有奢望证明这一猜想，但他的工作超出了他的预期。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-14T13:58:46Z",
+  "Author": "ai"
+}

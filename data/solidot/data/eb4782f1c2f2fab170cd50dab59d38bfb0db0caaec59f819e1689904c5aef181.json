@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 88.0 发布",
+  "Link": "https://www.solidot.org/story?sid=67537",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 发布了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/88.0/releasenotes/\"\u003e\u003cu\u003eFirefox 88.0\u003c/u\u003e\u003c/a\u003e。主要新特性包括：PDF 表格支持嵌入在 PDF 文件中的 JavaScript；触摸板的捏拉缩放支持 Linux；隔离 window.name 数据；关闭 FTP 支持；bug 修正，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-20T02:01:01Z",
+  "Author": "WinterIsComing"
+}

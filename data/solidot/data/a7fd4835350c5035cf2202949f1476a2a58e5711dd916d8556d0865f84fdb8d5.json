@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 91 增强了 Cookie 清理",
+  "Link": "https://www.solidot.org/story?sid=68510",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 刚刚释出的 Firefox 91 \u003ca href=\"https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/\"\u003e\u003cu\u003e增强了 Cookie 清理功能\u003c/u\u003e\u003c/a\u003e。新版本的 Firefox Strict Mode 能更容易的删除网站或跟踪器储存在计算机内的所有 cookies 和 supercookies。网上浏览时会在浏览器内储存很多数据，网站会设置 cookies 维持登陆状态，或储存偏好。此外还有用于改进浏览性能的缓存等数据，以及用于在不联网的情况下使用 Web 应用的离线数据。清除这些数据可用于隐藏身份或抹掉任何跟踪痕迹。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-11T08:51:08Z",
+  "Author": "WinterIsComing"
+}

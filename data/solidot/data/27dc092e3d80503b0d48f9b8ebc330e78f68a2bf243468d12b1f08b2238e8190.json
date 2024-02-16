@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 宣布基于短信的 2FA 身份验证仅限于付费用户",
+  "Link": "https://www.solidot.org/story?sid=74171",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter 宣布了一项安全政策改动，从即日起基于短信的 2FA 身份验证仅限于付费订阅用户 Twitter Blue。Twitter 的理由是基于短信的 2FA 遭到了恶意用户的滥用，但真实理由很可能是为了省掉一点钱。Twitter 表示将给非 Twitter Blue 30 天时间迁移到另一种 2FA 方法，3 月 20 日之后将不再允许非订阅用户使用基于短信的 2FA。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.twitter.com/en_us/topics/product/2023/an-update-on-two-factor-authentication-using-sms-on-twitter\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-18T12:44:26Z",
+  "Author": "Wilson"
+}

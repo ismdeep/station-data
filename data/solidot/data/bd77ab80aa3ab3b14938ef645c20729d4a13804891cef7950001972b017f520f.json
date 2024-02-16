@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitch 源代码和客户数据泄露",
+  "Link": "https://www.solidot.org/story?sid=69142",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客\u003ca href=\"https://sizeof.cat/post/twitch-leaks/\"\u003e公布了 128 GB 的种子文件\u003c/a\u003e，泄露了亚马逊旗下游戏直播平台 Twitch 源代码和客户数据。源代码来自于大约 6000 个内部 Git 库，其 comment 历史可上溯到非常早期，包括移动、桌面和主机客户端版本，私有的 SDK 和其内部使用的亚马逊 AWS 服务，代号为 Vapor 的未发布 Steam 竞争项目，2019 年的主播的支付报告，等等。Twitch \u003ca href=\"https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/\"\u003e\u003cu\u003e据报道\u003c/u\u003e\u003c/a\u003e已经知道了这次入侵事件，泄露的数据最早可能是在本周一获取到的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-06T09:36:10Z",
+  "Author": "WinterIsComing"
+}

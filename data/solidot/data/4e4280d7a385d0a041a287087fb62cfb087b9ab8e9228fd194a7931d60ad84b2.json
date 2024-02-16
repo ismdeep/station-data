@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WSL 预览版进入 Microsoft Store",
+  "Link": "https://www.solidot.org/story?sid=69212",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软正让 Windows Subsystem for Linux (WSL)\u003ca href=\"https://arstechnica.com/gadgets/2021/10/microsoft-puts-the-windows-subsystem-for-linux-in-its-app-store-for-faster-updating/#p3\" target=\"_blank\"\u003e\u003cu\u003e更容易获得和更容易更新\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://aka.ms/wslstorepage\" target=\"_blank\"\u003eWSL 预览版\u003c/a\u003e进入了 Microsoft Store 应用商店，Windows 11 用户可以下载和独立更新 WSL。Windows 内置的很多应用都转移到通过 Microsoft Store 更新而不是通过 Windows Updates 例行更新，这能让微软更灵活的决定何时更新应用。Microsoft Store 版本的 WSL 只是预览版，微软官方支持的版本仍然是内置在 Windows 中的版本。微软的长期目标是商店版本将是安装和使用 WSL 的最佳途径。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-13T05:32:16Z",
+  "Author": "WinterIsComing"
+}

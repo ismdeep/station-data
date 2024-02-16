@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 有了滚动发行版",
+  "Link": "https://www.solidot.org/story?sid=71072",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t诞生于 2004 年的 Ubuntu 发行版至今的发布频率都是每年两次。相比之下 Arch Linux 发行版采用的是滚动发布，因为能快速迭代而被 Steam Deck 采用作为其操作系统的基础。Arch Linux 的滚动更新模式已被软件行业广泛采用，但 Ubuntu 至今没有滚动更新版本，因此有开发者\u003ca href=\"https://www.neowin.net/news/ubuntu-becomes-a-rolling-release-with-rolling-rhino/\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了一个非官方的 Ubuntu 滚动发行版 \u003ca href=\"https://rollingrhinoremix.github.io/\"\u003e\u003cu\u003eRolling Rhino Remix\u003c/u\u003e\u003c/a\u003e。该版本通过跟踪开发中的软件包库实现滚动更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-27T14:11:48Z",
+  "Author": "WinterIsComing"
+}

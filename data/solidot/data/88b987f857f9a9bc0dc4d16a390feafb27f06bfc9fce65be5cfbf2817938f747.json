@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "报告称约 170 万 BTC 可能永久丢失",
+  "Link": "https://www.solidot.org/story?sid=62678",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCoin Metrics \u003ca href=\"https://www.clublaura.com/2019/11/19/lost-coins-study-estimates-btcs-true-supply/\"\u003e\u003cu\u003e估计\u003c/u\u003e\u003c/a\u003e，通过重复交易，奖励无人认领或盗窃等方式丢失的比特币\u003ca href=\"https://www.thepaper.cn/newsDetail_forward_5008239\"\u003e\u003cu\u003e近 170 万\u003c/u\u003e\u003c/a\u003e。该报告将丢失的比特币分为两类计算：可证明丢失的比特币与可能丢失的比特币。可证明丢失的比特币意味着能被证实永久丢失，可能丢失则代表极大概率永久丢失。可证明丢失的比特币包括创世币（最初产出的比特币），重复交易，无人认领的采矿奖励和 OP_return 输出（脚本操作码，用于承载额外交易信息）。在 OP_RETURN 输出标准化之前，大量的比特币被发送至伪造地址。报告称，有三个伪造地址中目前拥有 2200 个 BTC，这些比特币不会永远丢失，但不太可能恢复。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-20T10:00:44Z",
+  "Author": "WinterIsComing"
+}

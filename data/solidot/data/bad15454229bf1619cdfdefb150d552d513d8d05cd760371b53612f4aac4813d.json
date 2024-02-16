@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox UI 现在由 Web Components 构建",
+  "Link": "https://www.solidot.org/story?sid=62691",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 开发者 Brian Grinstead \u003ca href=\"https://briangrinstead.com/blog/firefox-webcomponents/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e Firefox UI 现在由 Web Components 构建，\u003ca href=\"https://hg.mozilla.org/mozilla-central/rev/def5ec4549e7\" target=\"_blank\"\u003e\u003cu\u003e移除了 XBL\u003c/u\u003e\u003c/a\u003e。Firefox UI 一开始是用  DOM 和 JS 构建的，在 20 多年前它们对原生应用而言是大胆的新技术。因而在 Web 平台还不支持它们前 Mozilla 自己实现了构建复杂 Web 应用所需的部分特性。这些特性慢慢演变成了标准规格如 CSS flexbox 和 Web Components。当这一切发生时，允许现有代码库使用原版本要求平台同时支持两者当然是最容易的事情，毕竟重写旧代码既困难也不划算。但 Firefox 决定实现 Web Components 并移植现有的 UI 组件，它采用了渐进的方式，耗时两年终于完成。这一成绩将允许 Mozilla 专注于现代 Web 标准，移除大量重复而复杂的功能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-21T07:47:43Z",
+  "Author": "WinterIsComing"
+}

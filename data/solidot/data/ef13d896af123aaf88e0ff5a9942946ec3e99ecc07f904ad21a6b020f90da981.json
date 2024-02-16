@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 2022 更新后英伟达显卡出现性能问题",
+  "Link": "https://www.solidot.org/story?sid=72866",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软刚刚释出了 Windows 11 的首次重大更新 v2022。英伟达 GeForce 显卡用户很快报告遭遇严重的性能问题：卡顿、帧率起伏，速度下降。英伟达\u003ca href=\"https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/501432/nvidia-frameview-sdk-service-causing-massive-lag-a/3283721/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e问题是部分 Windows 图形调试功能被错误启用造成的。它释出了  GeForce Experience 软件包的\u003ca href=\"https://www.nvidia.com/en-us/geforce/release-notes/GFE/3_26_0/Web/gfe-v3_26_0-web-release-highlights/?=\u0026amp;linkId=100000151391371\" target=\"_blank\"\u003e\u003cu\u003e一个 beta 版本\u003c/u\u003e\u003c/a\u003e，称能解决问题。这意味着问题根源在于英伟达软件的扩展组件而不是驱动。如果英伟达显卡用户只安装驱动而没有安装 GeForce Experience 软件，那么很有可能没有任何问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-24T11:06:48Z",
+  "Author": "WinterIsComing"
+}

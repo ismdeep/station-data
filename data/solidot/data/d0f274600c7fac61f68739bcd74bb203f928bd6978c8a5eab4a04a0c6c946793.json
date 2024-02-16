@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "神经元簇发能模拟 AI 学习策略",
+  "Link": "https://www.solidot.org/story?sid=69290",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t每当人类或者机器学会更好地完成一项任务时，都会留下一系列证据。一系列物理变化——大脑中的细胞或算法中的数值——是提高表现的基础。但系统如何准确地确定要进行哪些调整可不是一件小事。它被称为可信度赋值问题（credit assignment problem），大脑或者人工智能系统必须找出管线中哪些部分应对错误负责，然后对其进行必要的修改。简单说：这是一个问责游戏，找出是谁的过错。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\nAI 工程师用被称为反向传播(backpropagation)的算法解决了机器的可信度赋值问题，该算法在 1986 年由 Geoffrey Hinton、David Rumelhart 和  Ronald Williams 的\u003ca href=\"https://www.nature.com/articles/323533a0\"\u003e\u003cu\u003e工作\u003c/u\u003e\u003c/a\u003e推广开来。现在它是最成功的人工智能系统——深度神经网络（在输入层和输出层之间隐藏若干人工神经元层）学习的主要驱动力。根据发表在《Nature Neuroscience》期刊上的一篇\u003ca href=\"https://www.nature.com/articles/s41593-021-00857-x\" target=\"_blank\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，科学家现在可能终于在活着的大脑中\u003ca href=\"https://www.quantamagazine.org/brain-bursts-can-mimic-famous-ai-learning-strategy-20211018/\" target=\"_blank\"\u003e\u003cu\u003e找到了与之对等可实时工作的模型\u003c/u\u003e\u003c/a\u003e。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n由渥太华大学 Richard Naud 与麦吉尔大学和 Mila AI 研究所 Blake Richards 领导的一组研究人员发现了一种大脑学习算法的新模型，该模型可以模拟反向传播过程。它看起来非常逼真，以至于引起了实验神经科学家们注意，科学家现在对研究真正的神经元非常有兴趣，希望了解大脑是否真的这样做。柏林洪堡大学的实验神经科学家 Matthew Larkum 表示：“理论性的想法可以推动我们进行困难的实验，在我看来这篇论文已经超越了这一标准……它具有生物学意义上的合理性，而且可能会产生很大的影响。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-19T10:01:03Z",
+  "Author": "wanwan"
+}

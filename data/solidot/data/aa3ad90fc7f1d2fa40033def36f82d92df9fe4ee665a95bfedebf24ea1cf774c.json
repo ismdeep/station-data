@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "利用核辐射无线传输数据",
+  "Link": "https://www.solidot.org/story?sid=69687",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t工程师成功用核辐射而不是传统技术\u003ca href=\"https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly\" target=\"_blank\"\u003e\u003cu\u003e实现了\u003c/u\u003e\u003c/a\u003e数字编码信息的无线传输。无线电波和手机信号依靠电磁辐射通信，在一项新研究中，英国兰卡斯特大学的工程师与斯洛文尼亚的 Jožef Stefan 研究所合作，使用“快中子”传输数字编码信息。\n\u003cbr/\u003e\u003cbr/\u003e\n研究人员测量了来自 californium-252 的快中子的自发辐射，californium-252 是一种在核反应堆中产生的放射性同位素。调制的辐射经探测器测量记录在笔记本电脑上。\n\u003cbr/\u003e\u003cbr/\u003e\n信息例子如单词、字母表和一个盲选的随机数，被串行编码到中子场的调制中，然后输出到笔记本电脑上解码，在屏幕上恢复出被编码的信息。在一项双盲测试中，随机数生成器生成随机数字，在不知情的情况下对其进行编码、上传，然后进行传输和解码。所有的传输测试都被证明 100% 成功。\n\u003cbr/\u003e\u003cbr/\u003e\n兰卡斯特大学的 Malcolm Joyce 教授表示：“我们展示了快速中子辐射作为无线通信介质的潜力，可能适用于传统电磁传输不可行或存在固有限制的应用。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-19T11:29:17Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ScummVM 诞生二十周年，v2.5.0 发布",
+  "Link": "https://www.solidot.org/story?sid=69180",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tScummVM 模拟器项目诞生二十周年，开发者\u003ca href=\"https://www.scummvm.org/news/20211009/\" target=\"_blank\"\u003e\u003cu\u003e宣布释出 ScummVM 2.5.0 庆祝\u003c/u\u003e\u003c/a\u003e。ScummVM 最初是设计模拟运行 LucasArts 出品的一系列使用 Scumm 引擎的经典冒险游戏，如猴岛小英雄，但之后加入了非 Scumm 引擎游戏的支持，今天很多经典游戏都可以通过 ScummVM 运行。ScummVM 2.5 是首个支持  2.5D 游戏的版本，新增了对 Grim Fandango、The Longest Journey 和 Myst 3: Exile 的支持。除了支持更多引擎和游戏，新版本改进了兼容性，增加了新特性，重做了 GUI，支持 Unicode 字符，重写了 Nintendo DS 移植，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-10T14:05:02Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 收集敏感的用户数据以获得对第三方应用的优势",
+  "Link": "https://www.solidot.org/story?sid=65062",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着系统越来越封闭，Android 越来越多的被一些人认为是 Google 的\u003ca href=\"https://news.ycombinator.com/item?id=23955418\"\u003e\u003cu\u003e间谍工具\u003c/u\u003e\u003c/a\u003e。据 The Information 援引知情人士的消息\u003ca href=\"https://www.theinformation.com/articles/internal-google-program-taps-data-on-rival-android-apps\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e（付费墙），至少从 2013 年起名为 Android Lockbox 的项目\u003ca href=\"https://arstechnica.com/tech-policy/2020/07/android-user-data-gives-google-edge-over-third-party-apps-report-says/\" target=\"_blank\"\u003e\u003cu\u003e收集了敏感的 Android 用户数据\u003c/u\u003e\u003c/a\u003e。Google 内部团队跟踪了全世界对第一方应用的使用数据，同时利用 Lockbox 收集的第三方应用使用数据，向公司高管展示双方的对比表现。本月初 Google 在印度就使用了这一数据，搜索巨人计划推出 TikTok 的一个竞争应用。用户数据是通过 Google Mobile Services 服务搜集，除了中国大部分 Android 手机都预装了 GMS 服务。Google 的代表称它是通过一个 API 访问到第三方应用的使用数据，而该 API 自 2014 年起就提供给了第三方开发者，“API 不包含任何应用内活动的信息，我们的收集是公开的，受用户的控制。”如果 The Information 指控是精确的，那么反垄断监管机构可能有很多问题要问 Google。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-27T07:51:24Z",
+  "Author": "WinterIsComing"
+}

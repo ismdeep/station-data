@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 10.0 首个测试版发布",
+  "Link": "https://www.solidot.org/story?sid=64621",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor Browser 项目\u003ca href=\"https://blog.torproject.org/new-release-tor-browser-100a1\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出了10.0 分支的首个测试版本。Tor Browser 10.0a1 是于 Firefox to 68.9.0esr，内置扩展 HTTPS-Everywhere 升级到 2020.5.20，被称为 Snowflake 的网桥支持 Android 版本。\u003ca href=\"https://tb-manual.torproject.org/circumvention/#using-pluggable-transports\"\u003e\u003cu\u003eSnowflake\u003c/u\u003e\u003c/a\u003e 使用的是临时性的 WebRTC 代理，而名叫 \u003ca href=\"https://github.com/net4people/bbs/issues/9\" target=\"_blank\"\u003e\u003cu\u003eTurbo Tunnel \u003c/u\u003e\u003c/a\u003e的功能可以在一个代理失效之后在自动快速切换到另一个代理，不损失端对端会话状态。没有这项功能你只能靠运气能分配到一个长寿的临时代理。Turbo Tunnel 的设计还让同时在多个代理之间分割流量成为可能。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-10T08:32:39Z",
+  "Author": "WinterIsComing"
+}

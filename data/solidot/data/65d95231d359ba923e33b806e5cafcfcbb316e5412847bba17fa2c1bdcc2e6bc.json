@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CES 2022 将宣布新标准 HDMI 2.1a",
+  "Link": "https://www.solidot.org/story?sid=70197",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHDMI 标准一团糟。HDMI 2.1 尤其令人沮丧，电视制造商、线缆制造商和设备的随意支持让设置成为一种糟糕体验，如在 PS5 或 Xbox Series X 上设置游戏刷新率 120Hz。HDMI Forum 在 CES 之前\u003ca href=\"https://www.theverge.com/2021/12/29/22856103/hdmi-2-1a-spec-standard-mess-cables-source-based-tone-mapping-ces-2022\"\u003e\u003cu\u003e推出对 HDMI 规范栈的最新修订版\u003c/u\u003e\u003c/a\u003e，即 HDMI 2.1a，旨在让一切变得更好也更简单……这当然是开玩笑，这会让事情变得更复杂。从好的方面说：HDMI 2.1a 是 HDMI 2.1 即将推出的修订版，添加了一项主要的新功能，即 SBTM（基于源的色调映射）。SBTM 是一项新的 HDR 功能，可将部分 HDR 色调映射与电视或显示器正在执行的色调映射交割内容源如计算机或机顶盒处理。SBTM 不是新 HDR 标准——不是取代 HDR10 或杜比视界（Dolby Vision）。相反它旨在帮助现有的 HD R设置更好地工作，让内容源更好地优化它传输给显示器的内容，或者让源设备针对特定显示器配置内容，以此消除用户手动校准屏幕实现 HDR 的需要。其他用例可能包括混合内容类型的情况，例如流媒体（可以在黑白的文字窗口旁边播放 HDR 游戏）显示每个区域的内容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-30T10:19:55Z",
+  "Author": "wanwan"
+}

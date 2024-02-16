@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 121 释出",
+  "Link": "https://www.solidot.org/story?sid=77216",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla Firefox 的版本号现在超过了 Google Chrome。Google 释出 Chrome 121，修正了 17 个安全漏洞，其中 3 个高危。其它变化包括：新的标签组织 AI 功能，EditContext API，支持的剪贴板格式的特征检测，HTML 媒体元素的 Remote Playback API，WebGPU 改进，Chrome 121 的 Android 版本启用了 WebGPU，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-24T14:20:30Z",
+  "Author": "Wilson"
+}

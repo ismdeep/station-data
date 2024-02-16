@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 遭遇 DDoS 攻击",
+  "Link": "https://www.solidot.org/story?sid=76716",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从 11 月 18 日到 22 日，3D 开源建模软件项目 Blender 遭遇了持续五天的 DDoS 攻击，网站还一度下线。目前未知攻击者发起者身份及其动机，攻击者专注于发动拒绝服务攻击，因此项目和用户数据未受影响。Blender  是通过迁移到 CloudFlare 的 DDoS 缓解服务之后才解决问题。攻击在 23 日停止，网站恢复正常。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.blender.org/news/cyberattack-november-2023/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-24T13:53:11Z",
+  "Author": "Wilson"
+}

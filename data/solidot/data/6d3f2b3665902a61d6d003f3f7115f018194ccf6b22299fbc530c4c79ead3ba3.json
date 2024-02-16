@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 和高通合作让大模型在手机上运行",
+  "Link": "https://www.solidot.org/story?sid=75560",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 和高通合作让社交巨人的新模型 Llama 2 能在使用高通芯片的手机和 PC 上运行。至今为止，由于 AI 模型对算力和数据的巨大需求，大模型通常是在服务器集群和英伟达数据中心 GPU 上运行，高通想让大模型不仅仅是在云端，而是能在本地在边缘设备上运行，降低运行 AI 模型的成本。Meta 的第一代大模型 Llama 已有在手机上运行的版本，但性能受到很大限制。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.cnbc.com/2023/07/18/meta-and-qualcomm-team-up-to-run-big-ai-models-on-phones.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-19T10:43:32Z",
+  "Author": "Wilson"
+}

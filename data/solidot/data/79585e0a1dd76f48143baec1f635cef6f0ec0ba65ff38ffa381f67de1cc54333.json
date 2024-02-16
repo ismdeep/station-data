@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软使用恶意性质的弹出窗口让用户弃用 Google",
+  "Link": "https://www.solidot.org/story?sid=75947",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软被发现会在 Windows 11 用户玩游戏时弹出窗口，要求用户将 Chrome 中的默认搜索引擎从 Google 切换到 Bing。这不是正常的弹出窗口，没有出现在 Windows 11 通知中心，没有关联 Windows 11 的新功能推荐。它是某种的恶意可执行文件，位于 c:\\windows\\temp\\mubstemp 中，有微软的数字签名。微软公关总监 Caitlin Roulston 在一份声明中表示已经暂停通知，同时展开调查采取恰当行动以解决这一非预期行为。这并不是软件巨人第一次这么做。\n\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-31T06:44:44Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "U-2 飞行员佩戴的智能手表支持 GPS 和 GLONASS 导航系统",
+  "Link": "https://www.solidot.org/story?sid=63834",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国空军的  James M. \u0026#34;Mike\u0026#34; Holmes \u003ca href=\"https://arstechnica.com/gadgets/2020/03/why-are-u-2-jet-pilots-wearing-garmin-satellite-navigation-smartwatches/#p3\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e，U-2 高空侦察机的飞行员佩戴了佳明的智能手表，将其作为备份导航设备使用。位于北卡的 Beale 空军基地的第 99 侦察中队的 U2 飞行员从 2017 年下半年开始佩戴佳明 D2 Charlie 智能手表，该中队采购了 100 部智能手表。Holmes 口误说，该智能手表支持接收来自 GPS、中国的北斗，欧洲的伽利略以及俄罗斯的 GLONASS 导航系统的信号，GPS 受到干扰后可以切换到其它导航系统。佳明证实，D2 Charlie 不支持北斗和伽利略，只支持 GPS 和 GLONASS。佳明  Team X 软件负责人 Brian Plank 称，D2 默认的导航模式会持续对比美国和俄罗斯的卫星定位数据，尝试提供最精确的定位。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-16T12:11:10Z",
+  "Author": "WinterIsComing"
+}

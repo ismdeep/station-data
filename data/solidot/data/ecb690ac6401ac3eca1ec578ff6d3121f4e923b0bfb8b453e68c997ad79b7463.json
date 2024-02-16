@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "让 AI 遗忘你",
+  "Link": "https://www.solidot.org/story?sid=63286",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t无论你知不知情，你正源源不断的为 AI 算法供应数据。全世界的企业、政府和大学使用公民的医疗记录、购物历史和社交媒体数据去训练机器学习软件。这些数据可以重建追溯到个人。匿名将不复存在。为了恢复一定程度的隐私，欧洲和加州的隐私法提供了被遗忘的权利。但要让一个训练过的 AI 模型遗忘你它需要在去掉你的数据之后重新训练一遍。这是一个耗时耗电的过程。最近发表的两篇论文\u003ca href=\"https://spectrum.ieee.org/tech-talk/computing/software/researchers-can-make-ai-forget-you\" target=\"_blank\"\u003e\u003cu\u003e提供了方法更高效的从 AI 模型删除数据\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://papers.nips.cc/paper/8611-making-ai-forget-you-data-deletion-in-machine-learning\"\u003e\u003cu\u003e一篇\u003c/u\u003e\u003c/a\u003e来自斯坦福大学，\u003ca href=\"https://arxiv.org/abs/1912.03817\"\u003e\u003cu\u003e另一篇\u003c/u\u003e\u003c/a\u003e（预印本）来自多伦多大学。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-17T09:50:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 称 Git 证明他不是昙花一现",
+  "Link": "https://www.solidot.org/story?sid=62466",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在开源欧洲峰会上称，\u003ca href=\"https://www.techrepublic.com/article/linus-torvalds-git-proved-i-could-be-more-than-a-one-hit-wonder/\"\u003e\u003cu\u003eGit 证明他不是只能成功一次\u003c/u\u003e\u003c/a\u003e。他说人人都会怀疑自我，Linux 只是 UNIX 的重新实现，但 Git 给出了另一个证据。Torvalds 并没有将 Git 的成功全都归功于己，他只维护了 Git 半年时间，它的成功应该归功于其他人，而他所做的是设计。Git 完全改变了软件的开发方式，它之前的版本控制系统都没能像它那样促进合作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-02T15:41:52Z",
+  "Author": "WinterIsComing"
+}

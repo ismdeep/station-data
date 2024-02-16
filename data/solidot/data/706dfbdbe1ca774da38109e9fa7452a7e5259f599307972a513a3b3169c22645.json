@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用文本描述创造 Android 应用",
+  "Link": "https://www.solidot.org/story?sid=67963",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t孟加拉国技术工程大学和 UCLA 的研究人员\u003ca href=\"https://techxplore.com/news/2021-06-text2app-framework-android-apps-text.html\"\u003e\u003cu\u003e开发出一种框架\u003c/u\u003e\u003c/a\u003e，能从文本描述创造 Android 应用。\u003ca href=\"https://arxiv.org/pdf/2104.08301.pdf\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e（PDF）发表在预印本网站 arXiv 上。这项研究在人类语言和编程语言之间架起桥梁，让编程变得更容易。大部分此类的技术是基于端对端的神经网络机器翻译，类似 Google 翻译使用的技术。但绝大部分它们都无法生成包含数百行代码的应用。为了克服这一限制，研究人员创造了一种形式语言，能抓住应用代码中的复杂性。他们开发的框架被称为\u003ca href=\"https://techxplore.com/news/2021-06-text2app-framework-android-apps-text.html\"\u003e\u003cu\u003e Text2App\u003c/u\u003e\u003c/a\u003e，其演示发布在 GitHub 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-05T15:11:39Z",
+  "Author": "WinterIsComing"
+}

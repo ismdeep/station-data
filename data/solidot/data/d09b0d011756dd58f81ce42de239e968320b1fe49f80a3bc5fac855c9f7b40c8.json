@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软新文本语音模型能在 3 秒内复制任何人的声音",
+  "Link": "https://www.solidot.org/story?sid=73846",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软新文本语音模型 VALL-E 只要听 3 秒钟的声音样本就能复制任何人的声音。VALL-E 是一种基于转换器（transformer）的文本语音模型，比之前的模型有显著的改进，旧的模型需要长时间训练才能生成新的声音。此外，在生成的语音中声音的语调、卡里斯马（或魅力）和风格都完全一致。这是文本语音系统朝着更自然的声音迈出的重要一步。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://valle-demo.github.io/\u003cbr/\u003e\nhttps://mpost.io/vall-e-microsofts-new-zero-shot-text-to-speech-model-can-duplicate-everyones-voice-in-three-seconds/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-09T13:27:16Z",
+  "Author": "Wilson"
+}

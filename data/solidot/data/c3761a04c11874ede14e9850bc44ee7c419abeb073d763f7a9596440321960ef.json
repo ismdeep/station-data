@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件",
+  "Link": "https://www.solidot.org/story?sid=75041",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软宣布 Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件。以前在 Windows 上打开此类压缩文件需要安装第三方解压缩软件如开源的 7-zip。微软负责 Windows 业务的首席产品官 Panos Panay 表示 Windows 11 即将释出的更新将原生支持使用开源项目 libarchive 的压缩格式，该功能将通过本周晚些时候释出的一个开发版本提供给用户。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theverge.com/2023/5/23/23734625/microsoft-windows-11-rar-support-native\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-05-24T06:46:50Z",
+  "Author": "Wilson"
+}

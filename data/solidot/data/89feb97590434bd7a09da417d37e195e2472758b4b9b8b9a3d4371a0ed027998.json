@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "自毁开关 BusKill 帮助你保护计算机里的秘密",
+  "Link": "https://www.solidot.org/story?sid=70068",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://tech.slashdot.org/story/21/12/17/1530254/this-usb-kill-cord-can-instantly-wipe-your-laptop-if-snatched-or-stolen\" target=\"_blank\"\u003e\u003cu\u003e据说\u003c/u\u003e\u003c/a\u003e暗网市场丝绸之路的创始人 Ross Ulbricht 的笔记本电脑是在解锁的情况下被美国联邦特工抢走。他被怀疑是丝绸之路的创始人但没有确凿证据，执法部门需要笔记本电脑中的数据作为证据。为在解锁情况下拿到笔记本电脑，两名特工在 Ulbricht 面前演了一场打斗戏，吸引他的注意力后由第三名特工抢走电脑。\u003ca href=\"https://techcrunch.com/2021/12/16/buskill-kill-cord-self-destruct-laptop/\" target=\"_blank\"\u003e\u003cu\u003e如何在这种罕见的情况下\u003c/u\u003e\u003c/a\u003e保护计算机里的秘密？名叫 \u003ca href=\"https://www.crowdsupply.com/alt-shift/buskill\"\u003e\u003cu\u003eBusKill\u003c/u\u003e\u003c/a\u003e 的项目就是设计针对这种情况，保护记者和活动人士的数据安全。BusKill 是一种磁分离线缆，支持 macOS、Windows 和 Linux，用户可以配置当磁分离连接器被断开也就是笔记本电脑离开拥有者的情况下的应对措施，包括锁住计算机和自毁数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-20T14:16:57Z",
+  "Author": "WinterIsComing"
+}

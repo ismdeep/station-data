@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 发布勒索软件分析报告",
+  "Link": "https://www.solidot.org/story?sid=69255",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 委托网络安全公司 VirusTotal \u003ca href=\"https://www.zdnet.com/article/google-analysed-80-million-ransomware-samples-heres-what-it-found/\"\u003e\u003cu\u003e分析了\u003c/u\u003e\u003c/a\u003e来自 140 个国家的 8000 万勒索软件样本，发布了\u003ca href=\"https://storage.googleapis.com/vtpublic/vt-ransomware-report-2021.pdf\"\u003e\u003cu\u003e勒索软件分析报告\u003c/u\u003e\u003c/a\u003e（PDF）。根据递交的样本数，以色列、韩国、越南、中国、新加坡、印度、哈萨克斯坦、菲律宾、伊朗和英国是受勒索软件影响最严重的十个国家。报告称，2020 年上半年在勒索软件即服务组织 GandCrab 的推波助澜下，勒索软件活动达到了其峰值。研究发现 2020 年第一季度来自 GandCrab 的勒索软件样本非常多，之后开始下降，它今天仍然活跃但其样本数量已经降低了几个量级。GandCrab 占到了 2020 年以来样本数的 78.5%，之后是 Babuk 和 Cerber，分别占样本数的 7.6% 和 3.1%。95% 的勒索软件文件是 Windows 可执行文件或 DLL，2% 是基于 Android。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-15T11:16:51Z",
+  "Author": "WinterIsComing"
+}

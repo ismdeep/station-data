@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor 项目呼吁维基百科解除对 Tor 编辑的限制",
+  "Link": "https://www.solidot.org/story?sid=64776",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果你通过 Tor 匿名网络访问维基百科，然后看到某个条目决定编辑一下，你通常会看到 IP 受限的信息。虽然你可以请求解除对某个 Tor 出口节点 IP 的限制，但维基百科大部分情况下不会批准。Tor 项目官方博客现在\u003ca href=\"https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia\"\u003e\u003cu\u003e呼吁维基百科解除对 Tor 用户编辑的限制\u003c/u\u003e\u003c/a\u003e。开发者引用最近发表的一篇\u003ca href=\"https://arxiv.org/pdf/1904.04324.pdf\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e称，Tor 用户的编辑质量并不差。研究人员分析了 2007 到 2018 年之间绕过 Tor 禁令的 Tor 用户完成的 1.1 万次编辑，与未登陆以 IP 地址记录的用户完成的编辑以及首次编辑的用户质量进行对比，发现彼此的编辑质量相近，平均而言 Tor 用户编辑质量高于以 IP 记录的非登陆用户。研究还发现 Tor 用户更关注受争议的主题。维基百科从 2007 年起就尝试屏蔽 Tor 用户，理由是故意破坏、垃圾信息和滥用。Tor 开发者表示，这项研究讲述了不同的故事。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-27T12:54:34Z",
+  "Author": "WinterIsComing"
+}

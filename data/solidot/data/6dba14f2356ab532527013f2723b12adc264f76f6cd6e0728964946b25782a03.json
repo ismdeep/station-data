@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "多款思科路由器使用了静态证书和密钥",
+  "Link": "https://www.solidot.org/story?sid=62635",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://www.zdnet.com/article/cisco-all-these-routers-have-the-same-embedded-crypto-keys-so-update-firmware/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e思科的 RV320 和 RV325 Dual Gigabit WAN VPN 路由器使用了静态证书和密钥，还发现了硬编码的密码哈希。思科释出了新固件，解决了安全研究人员发现的问题。思科\u003ca href=\"https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191106-rv32x\"\u003e\u003cu\u003e解释说\u003c/u\u003e\u003c/a\u003e，静态证书在固件开发过程中被用于测试目的，在产品从未被用于活跃功能，包括在正式产品中是因为开发团队的疏漏。安全研究人员还在其它型号的思科路由器中发现了类似的问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-17T13:29:01Z",
+  "Author": "wenfeixiang"
+}

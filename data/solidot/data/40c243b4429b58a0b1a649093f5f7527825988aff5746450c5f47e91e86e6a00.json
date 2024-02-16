@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DragonFly BSD 6.0 发布",
+  "Link": "https://www.solidot.org/story?sid=67736",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDragonFly BSD 发行版\u003ca href=\"https://www.dragonflybsd.org/release60/\"\u003e\u003cu\u003e发布了 v6.0 版本\u003c/u\u003e\u003c/a\u003e。主要变化包括：更新了 VFS 缓存系统，改进了内存分页，重写了 Callout API，改进了 EFI 帧缓存支持，更新了文件系统如 HAMMER2，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-11T10:21:35Z",
+  "Author": "WinterIsComing"
+}

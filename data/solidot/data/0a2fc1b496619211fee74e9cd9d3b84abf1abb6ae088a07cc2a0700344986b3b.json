@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 称与 Cloudflare 的合作不涉及金钱交易",
+  "Link": "https://www.solidot.org/story?sid=62378",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 在 Firefox 中引入的 DNS-over-HTTPS (DoH) 功能近期引发了许多批评，其中部分批评来自于 ISP 支持的游说组织，因为 DoH 会将用户的所有 DNS 请求加密经过云服务公司 Cloudflare 的服务器，ISP 将会不知道用户的明文 DNS 请求，对于它们的数据收集是一大打击。但所有 DNS 流量都经过 Cloudflare 还被批评存在隐私隐患，用户将需要信任一家私人公司不会利用他们的数据。对于这些批评，Mozilla 更新了它的 \u003ca href=\"https://support.mozilla.org/zh-CN/kb/dns-over-https-doh-faqs\" target=\"_blank\"\u003e\u003cu\u003eDNS-over-HTTPS (DoH) FAQ\u003c/u\u003e\u003c/a\u003e 进行了回应，Mozilla 称它与 Cloudflare 的合作不涉及任何金钱交易，在启用前将会明示寻求用户的同意，用户可选择禁用或启用，选择 Cloudflare 是因为它能满足其严格的隐私要求。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-25T12:55:34Z",
+  "Author": "wenfeixiang"
+}

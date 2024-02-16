@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 释出紧急更新修复正被利用的 Firefox 0day",
+  "Link": "https://www.solidot.org/story?sid=76077",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出紧急更新修复了一个正被利用的 0day 漏洞，该漏洞影响 Firefox 和 Thunderbird。漏洞编号为 CVE-2023-4863，由 WebP 库(libwebp)中的堆缓冲区溢出引起，会导致崩溃到任意代码执行，攻击者能通过恶意 WebP 图像利用该漏洞。Mozilla 释出了 Firefox 117.0.1、Firefox ESR 115.2.1、Firefox ESR 102.15.1、Thunderbird 102.15.1 和 Thunderbird 115.2.2 修复漏洞。漏洞利用的细节尚未披露。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.mozilla.org/en-US/security/advisories/mfsa2023-40/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-13T15:18:48Z",
+  "Author": "Wilson"
+}

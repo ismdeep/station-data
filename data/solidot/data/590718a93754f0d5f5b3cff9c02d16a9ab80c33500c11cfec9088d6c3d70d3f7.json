@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "商业国际象棋软件被发现是基于开源软件 Stockfish",
+  "Link": "https://www.solidot.org/story?sid=66975",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t制作和销售国际象棋软件的 ChessBase 刚刚发布了 \u003ca href=\"https://en.chessbase.com/post/fat-fritz-2-0-the-new-number-1\"\u003e\u003cu\u003eFat Fritz 2\u003c/u\u003e\u003c/a\u003e，该公司称它是排名第一的国际象棋引擎，使用了新的神经网络，由 Albert Silver 训练。但 Fat Fritz 2 事实上是拷贝了开源国际象棋引擎 Stockfish，使用了不同的神经网络，变化很小。开源国际象棋组织对这一做法\u003ca href=\"https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off\" target=\"_blank\"\u003e\u003cu\u003e表达了谴责\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-19T13:28:25Z",
+  "Author": "WinterIsComing"
+}

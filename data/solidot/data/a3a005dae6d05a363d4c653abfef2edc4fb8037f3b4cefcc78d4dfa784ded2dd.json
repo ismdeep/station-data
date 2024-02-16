@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 将屏蔽西班牙 CA Camerfirma",
+  "Link": "https://www.solidot.org/story?sid=66801",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 决定计划于 4 月中旬释出的 Chrome 90 将移除对西班牙 CA Camerfirma 的支持，这意味着使用 Camerfirma 签发证书的网站在 Chrome 用户访问时将会显示错误信息。Camerfirma 被给了 6 周时间解释 2017 年以来与证书签发流程相关\u003ca href=\"https://wiki.mozilla.org/CA:Camerfirma_Issues#Issue_XX:_CP.2FCPS_of_Intesa_Sanpaolo_Sub-CA_is_Non-Compliant_.28Jan._2021.29\"\u003e\u003cu\u003e的 26 起事故\u003c/u\u003e\u003c/a\u003e。目前还没有其它浏览器开发商跟进，但行业专家相信未来几周 Apple、Microsoft 和 Mozilla \u003ca href=\"https://www.zdnet.com/article/google-bans-another-misbehaving-ca-from-chrome/\"\u003e\u003cu\u003e将会宣布类似的决定\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-29T11:25:18Z",
+  "Author": "WinterIsComing"
+}

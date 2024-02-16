@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 对内核支持 Rust 提议表态“不讨厌”",
+  "Link": "https://www.solidot.org/story?sid=67499",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件工程师 Miguel Ojeda \u003ca href=\"https://lkml.org/lkml/2021/4/14/1023\"\u003e\u003cu\u003e正式发布了\u003c/u\u003e\u003c/a\u003e Linux 内核支持 Rust 语言的 RFC 文件，Linux 作者 Linus Torvalds 在内核邮件列表上\u003ca href=\"https://lkml.org/lkml/2021/4/14/1099\"\u003e\u003cu\u003e回应称\u003c/u\u003e\u003c/a\u003e，他大体上对此“不讨厌（I don\u0026#39;t hate it）”。过去几个月内核社区讨论了对内存安全语言 Rust 的支持，在可预见的未来，Rust 语言将最主要用于写内核驱动和部分模块。Linus 认为要支持 Rust 还需要解决一系列问题，称如果会导致内核错误（Kernel Panic）将是不可接受的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-15T06:56:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "攻击者尝试向 PHP 官方 Git 库植入恶意代码",
+  "Link": "https://www.solidot.org/story?sid=67346",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPHP 项目维护者 Nikita Popov 周日\u003ca href=\"https://news-web.php.net/php.internals/113838\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，攻击者以他和 PHP 作者 Rasmus Lerdorf 的名义向 php-src 库\u003ca href=\"https://www.zdnet.com/article/official-php-git-server-targeted-in-attempt-to-bury-malware-in-code-base/\" target=\"_blank\"\u003e\u003cu\u003e加入了两个恶意 commits\u003c/u\u003e\u003c/a\u003e，声称是修正文字输入错误，但实际上是植入后门实现远程代码执行。Popov 称，开发团队不是十分确定攻击是如何发生的，但线索指示 git.php.net 官方服务器很可能遭到入侵，而不是个人的 Git 账号被窃取。恶意代码中包含了一条注解 “REMOVETHIS: sold to zerodium, mid 2017”，攻击被认为与加密货币无关，Zerodium 的 CEO Chaouki Bekrar 认为攻击者是在恶搞。恶意代码已经移除，调查正在进行之中。之前拥有写访问权限的开发者现在需要在 GitHub 加入 PHP 小组。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-29T14:35:58Z",
+  "Author": "WinterIsComing"
+}

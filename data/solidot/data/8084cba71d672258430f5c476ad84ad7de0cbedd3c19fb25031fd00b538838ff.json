@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "流量重定向 Rootkit 使用了微软签发的数字签名",
+  "Link": "https://www.solidot.org/story?sid=69384",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Bitdefender 的研究人员\u003ca href=\"https://www.bitdefender.com/blog/labs/digitally-signed-rootkitsare-back-a-look-atfivesys-and-companions/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，一种流量重定向 Rootkit 恶意程序以某种方式通过了驱动程序认证程序， 获得了微软签发的数字签名证书。有效的证书让 Rootkit 能绕过操作系统的限制。窃取企业的数字证书在网络犯罪领域并不罕见，但直接从微软获取合法证书则令人困惑。安全研究人员猜测可能是犯罪分子尝试着递交驱动进行验证，然后不知为何通过了审核获得了证书。名为 FiveSys 的 rootkit 被认为主要通过捆绑破解软件传播，它会安装一个定制 root 证书将流量重定向通过一个代理服务器，它主要被用于攻击网游玩家，旨在窃取登陆凭证和劫持游戏内购买。网络游戏内的虚拟物品交易会涉及到大量资金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-26T14:56:27Z",
+  "Author": "WinterIsComing"
+}

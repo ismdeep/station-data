@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.19 释出",
+  "Link": "https://www.solidot.org/story?sid=72317",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上宣布\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wgrz5BBk=rCz7W28Fj_o02s0Xi0OEQ3H1uQgOdFvHgx0w@mail.gmail.com/T/#u\"\u003e\u003cu\u003e释出 Linux 5.19\u003c/u\u003e\u003c/a\u003e。主要新特性包括：Arm \u003ca href=\"https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/scalable-matrix-extension-armv9-a-architecture\"\u003eScalable\nMatrix Extension\u003c/a\u003e 支持，io_uring 改进，\u003ca href=\"https://lwn.net/Articles/884104/\"\u003eBIG TCP\u003c/a\u003e 支持，改进随机数生成器，支持 AMD \u003ca href=\"https://www.amd.com/system/files/TechDocs/SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more.pdf\"\u003eSecure\nNested Paging\u003c/a\u003e 和英特尔 \u003ca href=\"https://www.intel.com/content/www/us/en/developer/articles/technical/intel-trust-domain-extensions.html\"\u003eTrusted\nDomain Extensions\u003c/a\u003e 机制，支持龙芯的 LoongArch CPU 架构，新的主动回收机制，等等，更多信息可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.19\"\u003eKernelNewbies 5.19\u003c/a\u003e。值得一提的是 Linus Torvalds 称这是他第三次使用苹果电脑用于 Linux 开发，在安装 Asahi Linux 的苹果 M1 笔记本电脑上写了发布公告，他主要将这台电脑用于测试和写作。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-01T01:37:10Z",
+  "Author": "WinterIsComing"
+}

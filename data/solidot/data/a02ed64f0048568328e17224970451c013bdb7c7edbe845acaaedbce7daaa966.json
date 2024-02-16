@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "最近修复的 Windows 漏洞允许攻击者成为管理员",
+  "Link": "https://www.solidot.org/story?sid=65546",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://arstechnica.com/information-technology/2020/09/new-windows-exploit-lets-you-instantly-become-admin-have-you-patched/\"\u003e\u003cu\u003e公布\u003c/u\u003e\u003c/a\u003e了一个最近修复的 Windows 漏洞利用 \u003ca href=\"https://www.secura.com/blog/zero-logon\"\u003e\u003cu\u003ePOC\u003c/u\u003e\u003c/a\u003e，允许本地网络的任意攻击者完全入侵 Windows 域。编号为 \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472\"\u003e\u003cu\u003eCVE-2020-1472\u003c/u\u003e\u003c/a\u003e 的高危漏洞是在上个月修复的，利用该漏洞需要攻击者已经在目标网络立足，如非特权用户或通过已遭到入侵的连接设备，该漏洞可被用于发动勒索软件攻击或植入间谍软件。安全公司 Secura 的研究人员发现并向微软报告了该漏洞，他们开发了能可靠利用漏洞的 POC，但直到认为补丁已经广泛安装之后才对外公开。该 POC 可以让攻击者迅速入侵 Windows domain，不需要任何用户身份凭证。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-15T09:54:33Z",
+  "Author": "WinterIsComing"
+}

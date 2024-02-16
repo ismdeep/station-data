@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Jim Keller 称他是 Zen 之叔而不是 Zen 之父",
+  "Link": "https://www.solidot.org/story?sid=68131",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t知名 CPU 架构师 Jim Keller 曾先后在 DEC、AMD、苹果、特斯拉和英特尔公司任职，目前在 AI 创业公司 Tenstorrent  担任 CTO，他接受采访\u003ca href=\"https://www.anandtech.com/show/16762/an-anandtech-interview-with-jim-keller-laziest-person-at-tesla\" target=\"_blank\"\u003e\u003cu\u003e谈论了过去的工作经历\u003c/u\u003e\u003c/a\u003e，尤其是在 AMD 的工作。AMD 基于 Zen 架构的系列处理器在 x86 芯片市场上赢得了越来越多的市场份额，JK 说这是一个复杂的项目，当他加盟 AMD 时， 公司 Bulldozer 和 Jaguar 架构的处理器有其特点但在市场上未取得成功，产品路线图也不是很激进，如果你已经落后了，你需要加快速度追赶不能一直落后。当时 AMD CPU 团队有 500 人，他后来准备离开时人数已经增加到了 2400 人。他的工作主要是决策，挑选出最合适的人去完成某个目标或工作。他参与了新 CPU 的方法设计、IP 重构、组织架构变更等，但并没有亲手去写电路图之类。许多人称赞他是 Zen 之父，他的工作更像是 Zen 的一个叔叔。在开发 Zen 架构时，AMD 有一个全球的设计方法团队，SoC 团队部分在奥斯丁，部分在印度，浮点缓存工作是在科罗拉多完成的，核心执行前端在奥斯丁，Arm 前端在  Sunnyvale。JK 说成功有很多的作者，而失败只有一个。他进入英特尔时管理的人数达到了 1 万人，因为保密协议他不能透露英特尔工作的细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-26T06:01:13Z",
+  "Author": "WinterIsComing"
+}

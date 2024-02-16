@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Riot Games 热门新作《Valorant》安装了 rootkit 去防止作弊",
+  "Link": "https://www.solidot.org/story?sid=64139",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t《英雄联盟》开发商 Riot Games 的多人竞技新作《Valorant》吸引了广泛关注。竞技或多人游戏面临的一大难题是反作弊，《Valorant》是如何反作弊的？根据\u003ca href=\"https://eune.leagueoflegends.com/en-pl/news/dev/dev-null-anti-cheat-kernel-driver/\"\u003e官方博客\u003c/a\u003e和 《Valorant》反作弊团队负责人在 reddit 上的\u003ca href=\"https://www.reddit.com/r/VALORANT/comments/fzxdl7/anticheat_starts_upon_computer_boot/fn6yqbe/\"\u003e回复\u003c/a\u003e，游戏安装了一个内核驱动，这个驱动在系统启动时就会运行，负责人声称驱动只在游戏运行时进行扫描，不会与服务器通信，不会收集或向 Riot Games 发送计算机信息。这名负责人表示，你必须相信他们，称驱动的安全性经过了多个内部团队的评估。然而类似 rootkit 的反作弊系统被认为是\u003ca href=\"https://www.osnews.com/story/131665/riot-games-maker-of-league-of-legends-installs-rootkit-with-their-new-hit-game-valorant/\"\u003e\u003cu\u003e一大安全隐患\u003c/u\u003e\u003c/a\u003e，尤其是 Riot Games 还是腾讯旗下的公司。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-16T08:50:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KDE.org 迁移到 Hugo",
+  "Link": "https://www.solidot.org/story?sid=65959",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t桌面环境项目 KDE 的主站 KDE.org \u003ca href=\"https://carlschwan.eu/2020/10/30/kde-org-hugo.html\"\u003e\u003cu\u003e开始使用\u003c/u\u003e\u003c/a\u003e一种新的静态网站生成器 \u003ca href=\"https://gohugo.io/\"\u003e\u003cu\u003eHugo\u003c/u\u003e\u003c/a\u003e。Hugo 是用 Go 语言开发的，而旧的网站使用的是 PHP。KDE 网站维护者称，新的网站改进了加载速度，但相比 PHP 网站并不显著。最大的改进是功能，可以使用 markdown 文件而不是 HTML 文件。新的系统能为网站的不同语言创建唯一网址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-31T05:37:59Z",
+  "Author": "WinterIsComing"
+}

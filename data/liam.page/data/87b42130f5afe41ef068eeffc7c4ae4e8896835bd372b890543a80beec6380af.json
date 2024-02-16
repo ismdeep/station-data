@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "修复 Win10 变更默认浏览器时设置 App 崩溃的问题",
+  "Link": "https://liam.page/2019/05/10/Setting-App-crash-when-changing-default-browswer-to-Chrome-due-to-Edge/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e单位配发的电脑问题比较多。昨天提交 IT 修复电脑时，出现了更多问题，不得不重装系统并升级为 Windows 10。初次接触 Windows 10 的我，又遇到了不少问题。所幸，大多数问题都经由 Google 帮助解决。但仍有一个问题始终无法解决：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eMicrosoft Edge 闪退；\u003c/li\u003e\n\u003cli\u003e退而求其次使用 Google Chrome，但尝试将 Chrome 设置为默认浏览器时，设置 App 崩溃，设置失败。\u003c/li\u003e\n\u003c/ol\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e显而易见，本质上是 Edge 有问题，连累了设置 App。Google 搜索的结果千篇一律，无非是删除当前用户 \u003ccode\u003eAppData\u003c/code\u003e 目录下 Edge 的相关文件后在 Powershell 中重新注册 Edge。但反复试验之后都无法解决问题。\u003c/p\u003e\n\u003cp\u003e最后在英文版 Microsoft Community 上找到了解决办法：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e设置 -\u0026gt; 应用 -\u0026gt; 应用和功能\u003c/li\u003e\n\u003cli\u003e搜索 Edge -\u0026gt; 单击 -\u0026gt; 高级选项\u003c/li\u003e\n\u003cli\u003e重置 -\u0026gt; 修复 -\u0026gt; 重置\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e这样一路操作会把 Edge 整个重置掉。此后再去设置当中修改默认浏览器就能绕过 Edge 崩溃的问题了。\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2019-05-10T03:18:36Z",
+  "Author": "Liam Huang"
+}

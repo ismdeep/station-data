@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 的 64 位 time_t 时间计数转换正在进行中",
+  "Link": "https://www.solidot.org/story?sid=77304",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为解决 32 位系统的 2038 年问题，Debian Experimental 开始用 64 位时间计数 time_t 重构软件包。2038 年问题是指类 Unix 系统采用的是 32 位时间计数 time_t，计数从 1970 年开始，到 2038 年 1 月将会溢出。Debian 开发者想要确保下一个版本能在 2038 年之后正常工作。此次 64 位 time_t 转换涉及到逾 1200 个软件包。下一个版本 Debian 13 Trixie 将于 2025 年发布，有充裕的时间完成 2038 年问题的处理。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/Debian-Experimental-64bit-Time\u003cbr/\u003e\nhttps://lists.debian.org/debian-devel-announce/2024/02/msg00000.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-02-04T12:28:19Z",
+  "Author": "Wilson"
+}

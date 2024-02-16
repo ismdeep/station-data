@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 扩展开发者将要求披露收集的用户数据",
+  "Link": "https://www.solidot.org/story?sid=66138",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://www.zdnet.com/article/starting-next-year-chrome-extensions-will-show-what-data-they-collect-from-users/\"\u003e\u003cu\u003e计划\u003c/u\u003e\u003c/a\u003e在 Chrome Web Store 商店页面加入一个新的区域，要求扩展开发者披露收集的用户数据以及如何处理用户信息。这一要求将于 2021 年 1 月 18 日生效。Google 现在已经在扩展开发者的 Web Store 控制面板中加入了相关选项。Google 不是唯一一个引入数据披露政策的公司，苹果在 WWDC 2020 上宣布所有 App Store 应用将要求展示隐私提示，列出应用收集的用户数据点，哪些数据点被用于跟踪用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-19T11:11:55Z",
+  "Author": "WinterIsComing"
+}

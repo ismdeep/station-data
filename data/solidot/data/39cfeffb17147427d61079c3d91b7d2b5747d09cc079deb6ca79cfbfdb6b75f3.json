@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "盈透证券的软件不能处理负值原油期货",
+  "Link": "https://www.solidot.org/story?sid=64315",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t4 月 20 日，美国原油期货历史上首次出现负值。在这起事件中，中行原油宝投资者\u003ca href=\"https://www.solidot.org/story?sid=64189\"\u003e\u003cu\u003e遭遇了\u003c/u\u003e\u003c/a\u003e巨额亏损，但中行不是唯一一家暴雷的券商：盈透证券的软件因为不能处理负值而给投资者带来了巨额损失。据彭博社的\u003ca href=\"https://www.bloomberg.com/news/articles/2020-05-08/oil-crash-busted-a-broker-s-computers-and-inflicted-huge-losses\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e（\u003ca href=\"https://archive.md/EGIGB\"\u003e\u003cu\u003e存档\u003c/u\u003e\u003c/a\u003e），Syed Shah 通常使用他的盈透证券账号买卖股票和期货，4 月 20 日，当原油期货价格越来越低时，他忍不住不断买进，以微不足道的一美分价格购买了 212 份期货合同。但他不知道的是，原油期货历史上首次的负值之旅破坏了盈透证券的软件，软件不能处理负号。当屏幕上显示的原油期货为每桶一美分时实际价格为每桶-$3.70。当原油期货探底至每桶-$37.63 期间，盈透证券没有显示任何负值。到了午夜，Shah 收到了一个灾难性的消息：他欠了盈透证券 900 万美元，而当天开始时他的账号里还有 7.7 万美元。他无比震惊。对原油期货投资者来说这是残酷的一天，但对盈透证券投资者来说这是盲目的一天，因为他们看不到负值。这次原油期货负值给盈透证券带来了上亿美元的损失。公司创始人 Thomas Peterffy 表示将用自有资金补偿客户因为价格低于零时遭遇的任何损失。4 月 20 日前五天，芝商所曾通知各大券商测试其系统是否能处理负数。盈透证券也收到了通知，但 Peterffy 认为升级公司的交易平台五天时间是远远不够的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-10T08:52:36Z",
+  "Author": "WinterIsComing"
+}

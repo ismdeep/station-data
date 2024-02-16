@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WebRTC 成为标准",
+  "Link": "https://www.solidot.org/story?sid=66784",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWebRTC \u003ca href=\"https://web.dev/webrtc-standard-announcement/\"\u003e\u003cu\u003e正式成为\u003c/u\u003e\u003c/a\u003e W3C 和 IETF 标准，它是一个为浏览器和移动应用提供实时通信功能的解决方案，其设想最初源自 Google，主流浏览器已经整合了该功能，而早在 2013 年 Mozilla 和 Google 就演示了跨浏览器的视频呼叫。WebRTC 使用了 Google 的 VP8（未来包括 AV1） 和 H.264 视频编解码器，音频编解码器主要是 Opus。它的连接是始终加密的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-28T05:04:58Z",
+  "Author": "WinterIsComing"
+}

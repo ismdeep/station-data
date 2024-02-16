@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rockstar 感谢玩家帮助它减少加载时间，官方补丁将在不久后释出",
+  "Link": "https://www.solidot.org/story?sid=67217",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRockstar 证实玩家发现的减少游戏加载时间的方法\u003ca href=\"https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/\"\u003e\u003cu\u003e将整合进官方补丁\u003c/u\u003e\u003c/a\u003e。这个存在了六年之久的问题靠玩家来解决可能会让 Rockstar 感到汗颜。本月初，一名《GTA Online》玩家兼开发者分析了游戏长达数分钟的加载时间，发现期间 CPU 单个核心的负荷几乎跑满，而网络、磁盘和 GPU 的使用率基本上都为零。那么是什么原因导致 CPU 成为瓶颈？进一步分析发现，原因是游戏需要解析一个 10MB 大小的 JSON 文件，而解析器本身有很大的问题。这位开发者对其进行了一番优化，成功将加载时间\u003ca href=\"https://www.solidot.org/story?sid=67058\"\u003e\u003cu\u003e缩短了 69.4%\u003c/u\u003e\u003c/a\u003e。Rockstar 通过 bug 悬赏项目向这位开发者奖励了 1 万美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-16T05:49:59Z",
+  "Author": "WinterIsComing"
+}

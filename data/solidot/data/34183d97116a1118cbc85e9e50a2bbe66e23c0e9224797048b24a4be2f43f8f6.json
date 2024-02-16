@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客入侵赌博公司窃取源代码而不是钱",
+  "Link": "https://www.solidot.org/story?sid=63576",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 \u003ca href=\"http://www.talent-jump.com/article/2020/02/17/CLAMBLING-A-New-Backdoor-Base-On-Dropbox-en/\"\u003e\u003cu\u003eTalent-Jump\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf\" target=\"_blank\"\u003e\u003cu\u003eTrend Micro\u003c/u\u003e\u003c/a\u003e 报告，从去年夏天起，一群中国专业黑客入侵了东南亚的赌博公司，\u003ca href=\"https://www.zdnet.com/article/chinese-hackers-have-breached-online-betting-and-gambling-sites/\" target=\"_blank\"\u003e\u003cu\u003e目的是窃取公司数据库和源代码\u003c/u\u003e\u003c/a\u003e而不是钱。发动攻击的黑客组织被称为  DRBControl，其行动可能与中国政府没什么联系。FireEye 去年称部分中国黑客组织在空闲时间会出于自己的兴趣和利益展开攻击行动。 DRBControl 首先对目标发动钓鱼攻击，当目标打开嵌入恶意程序的文件之后安装后门，然后下载各种工具展开行动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-19T12:45:47Z",
+  "Author": "WinterIsComing"
+}

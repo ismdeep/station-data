@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 发布了 Tor 网站",
+  "Link": "https://www.solidot.org/story?sid=70914",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter \u003ca href=\"https://arstechnica.com/tech-policy/2022/03/twitter-rolls-out-tor-service-amid-reports-of-russian-censorship/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e Tor 网站——即只能通过 Tor 匿名网络访问的网站。用户可以在 \u003ca href=\"https://www.torproject.org/download/\"\u003e\u003cu\u003eTor 浏览器\u003c/u\u003e\u003c/a\u003e或 \u003ca href=\"https://brave.com/privacy-features/\"\u003eBrave\u003c/a\u003e（隐私模式支持 Tor）上输入域名 twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion 访问 Twitter。 Tor 匿名网络通过至少三个中继节点路由流量，每一个节点都会加密数据，创造了一种类似洋葱的加密层，因此被称为洋葱路由。目前  Tor 网络有 7000 多个中继节点和约 3000 个网桥——网桥是不公开的中继，旨在规避审查。Facebook、BBC、德国之声、自由欧洲电台、《纽约时报》和 The Intercept 等知名网站都有\u003ca href=\"https://github.com/alecmuffett/real-world-onion-sites/blob/master/README.md#social-networks\"\u003e\u003cu\u003e Tor 镜像站\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-11T07:18:21Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亚马逊消费者业务关闭最后的甲骨文数据库",
+  "Link": "https://www.solidot.org/story?sid=62252",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t亚马逊\u003ca href=\"https://aws.amazon.com/cn/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它的消费者业务关闭了最后的甲骨文数据库。亚马逊称它的 DBA 多年来花费了大量时间去管理甲骨文数据库，现在它终于完成了从甲骨文数据库到 AWS 云服务的迁移，它将储存在约 7500 个甲骨文数据库内的 75 PB 内部数据迁移到了多个 AWS 数据库服务。迁移期间几乎没有发生下线事故，迁移之后数据库开支减少了六成以上，面向消费者的应用延迟减少了四成，数据库管理开销减少七成。电商巨头去年\u003ca href=\"https://www.solidot.org/story?sid=58337\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e它将移除甲骨文数据库，它的内部报告称甲骨文数据库曾导致会员日促销活动期间发生宕机事故。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-16T04:31:38Z",
+  "Author": "wenfeixiang"
+}

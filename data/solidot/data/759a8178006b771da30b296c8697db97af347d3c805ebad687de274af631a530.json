@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FTP 诞生五十周年",
+  "Link": "https://www.solidot.org/story?sid=67517",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1971 年 4 月 16 日是 \u003ca href=\"https://tools.ietf.org/html/rfc114\"\u003e\u003cu\u003eRFC 114\u003c/u\u003e\u003c/a\u003e 文档的发表日期，它标志着 FTP 协议的\u003ca href=\"https://www.filestash.app/2021/04/16/ftp-is-50-years-old/\" target=\"_blank\"\u003e\u003cu\u003e诞生\u003c/u\u003e\u003c/a\u003e。当时越南战争还在进行之中，TCP/IP 还不存在，telnet 还很新鲜。通过 16 个修订版本 FTP 加入了对 TCP/IP 的支持，引入了安全扩展 FTPS ，支持 IPv6。50 年后的今天，互联网上仍然有数百万台 FTP 服务器。由于它过于复杂，被认为安全性欠缺，过去几年 Chrome 移除了对 FTP  的支持，Mozilla 也将在 4 月 19 日发布的 Firefox 88 中\u003ca href=\"https://www.solidot.org/story?sid=67509\" target=\"_blank\"\u003e\u003cu\u003e禁用 FTP\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-17T12:05:18Z",
+  "Author": "WinterIsComing"
+}

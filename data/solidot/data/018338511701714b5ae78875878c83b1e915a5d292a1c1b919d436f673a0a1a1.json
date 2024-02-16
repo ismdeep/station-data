@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客入侵数以千计的监控探头",
+  "Link": "https://www.solidot.org/story?sid=67163",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一组黑客透露，他们\u003ca href=\"https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e硅谷创业公司 Verkada 收集的监控探头数据库，访问了超过 15 万探头的实时视频源，而这些探头安装在医院、企业、监狱、警察局和学校内。包括特斯拉、Cloudflare 在内的知名企业的监控探头遭到泄露。黑客演示了特斯拉位于上海的仓库内的监控探头视频，他们表示访问了 222 个特斯拉工厂和仓库探头。黑客此举是为了展示监控的无处不在，以及监控系统很容易遭到入侵。Verkada 表示它已经禁用了所有内部管理员账号，正与外部安全公司对此展开调查。特斯拉\u003ca href=\"https://cn.reuters.com/article/tesla-china-hacking-0310-wedn-idCNKBS2B2154?il=0\"\u003e\u003cu\u003e回应称\u003c/u\u003e\u003c/a\u003e已停止探头联网。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-10T09:52:45Z",
+  "Author": "WinterIsComing"
+}

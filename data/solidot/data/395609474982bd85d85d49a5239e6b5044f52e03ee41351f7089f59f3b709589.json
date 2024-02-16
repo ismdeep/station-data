@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客拖了 GETTR 用户数据库",
+  "Link": "https://www.solidot.org/story?sid=68223",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t利用 GETTR 存在 bug 的 API，黑客\u003ca href=\"https://www.vice.com/en/article/dyv44m/hackers-scrape-90000-gettr-user-emails-surprising-no-one\" target=\"_blank\"\u003e\u003cu\u003e抓取了\u003c/u\u003e\u003c/a\u003e超过 9 万用户的名字、电邮地址和 IP 等数据。GETTR 是前特朗普发言人 Jason Miller 上周推出的社交平台。有电邮地址泄露的用户承认注册了 GETTR。用泄露邮件地址尝试注册 GETTR 返回了“电邮地址已经使用”的错误信息。黑客在一个论坛上公开了这一数据库，暂时还不清楚数据库是否包含了所有 GETTR 用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-07T15:02:33Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 用 AI 帮助加速芯片设计",
+  "Link": "https://www.solidot.org/story?sid=68015",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 研究人员在《自然》期刊上\u003ca href=\"https://www.nature.com/articles/s41586-021-03544-w\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e利用 AI 减少设计芯片\u003ca href=\"https://www.nature.com/articles/d41586-021-01507-9\" target=\"_blank\"\u003e\u003cu\u003e所需的时间\u003c/u\u003e\u003c/a\u003e。这一成就被认为有助于加速芯片供应链。芯片的制造已经基本上自动化，但设计仍然依赖于人工过程。工程师和设计师使用计算机辅助设计软件，但这仍然需要几周甚至几个月的时间在可用空间内填满所有的元件。Google 研究人员展示了一个可能性：这个设计过程在 AI 的帮助下可以在不到一天时间内完成。研究人员使用了 1 万张芯片设计图去训练他们的软件，AI 随后学习如何在有限空间、布线和功耗下完成设计图。它完成设计不到 6 个小时，Google 已经将这一方法应用于自己的芯片 TPU（tensor processing uni）。这一方法还需要更多团队的测试，如果有更多的团队能复现成功，那么 AI 设计将成为芯片设计工具箱的重要组成部分。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-11T08:33:33Z",
+  "Author": "WinterIsComing"
+}

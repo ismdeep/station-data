@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 发布文本音乐生成开源 AI 工具 AudioCraft",
+  "Link": "https://www.solidot.org/story?sid=75691",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta 发布了一个开源 AI 工具 AudioCraft，允许用户通过文本提示生成音乐和音频。源代码托管在 GitHub 上，采用 MIT 许可证，模型权重采用 CC BY-NC-SA-4.0 授权，意味着商业使用受限。AudioCraft 包含了三个模型：MusicGen、AudioGen 和 EnCodec。其中 MusicGen 使用了 Meta 拥有的获得授权的音乐数据库训练，能从文本提示生成音乐；AudioGen 使用公共的音效库训练。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/\u003cbr/\u003e\nhttps://github.com/facebookresearch/audiocraft\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-03T03:59:15Z",
+  "Author": "Wilson"
+}

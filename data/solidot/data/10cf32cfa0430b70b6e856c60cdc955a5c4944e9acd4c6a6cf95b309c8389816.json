@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "索尼公布 PS5 规格",
+  "Link": "https://www.solidot.org/story?sid=63864",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在微软之后，索尼公布了\u003ca href=\"https://www.eurogamer.net/articles/digitalfoundry-2020-playstation-5-specs-and-tech-that-deliver-sonys-next-gen-vision\" target=\"_blank\"\u003e\u003cu\u003e PS5 规格\u003c/u\u003e\u003c/a\u003e。PS5 的硬件规格略微逊色于 Xbox Series X，这也意味着成本更低价格相对于微软的主机有可能更便宜。PS5 配备了 8 核 Zen 2 CPU@3.5GHz， 定制 RDNA 2 GPU 10.28 TFLOPs 36 CU@2.23GHz(Xbox 是 52 CU@1.825GHz)，内存 16GB GDDR6，硬盘是定制的 825GB SSD，4K UHD 蓝光。索尼 PS5 首席架构师 Mark Cerny 称，用 GPU 的 TFLOPs 数据对比主机的性能不公平也未必精确，PS5 的 GPU 是 10.28 TFLOPs，而 Xbox Series X 是 12 TFLOPs，Cerny 声称 PS5 的架构效率更高，CU 数量少但工作频率高，比 CU 数量多但工作频率低对游戏更有益。对于向后兼容性，索尼称 PS5 支持 PS4 游戏，而微软称 Xbox Series X 支持所有能工作在 Xbox One 上的游戏，包括 Xbox 360 和初代 Xbox。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-19T04:03:06Z",
+  "Author": "WinterIsComing"
+}

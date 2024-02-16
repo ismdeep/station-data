@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "wordpress-to-hexo",
+  "Link": "https://blog.zzbd.org/2015/04/22/wordpress-to-hexo/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e今天把之前wordpress备份的旧博文全部转成了markdown， 从09到13年，一共63篇。小站内容一下子丰富了不少～\u003c/p\u003e\u003cp\u003e首先简单处理了下图片见\u003ca href=\"/2015/04/20/web-image-fix/\"\u003eweb-image-fix\u003c/a\u003e，上传到了七牛云。然后优雅地\u003c/p\u003e\u003cfigure class=\"highlight ebnf\"\u003e\u003ctable\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd class=\"gutter\"\u003e\u003cpre\u003e\u003cspan class=\"line\"\u003e1\u003c/span\u003e\u003cbr/\u003e\u003c/pre\u003e\u003c/td\u003e\u003ctd class=\"code\"\u003e\u003cpre\u003e\u003cspan class=\"line\"\u003e\u003cspan class=\"attribute\"\u003ehexo migrate wordpress\u003c/span\u003e\u003c/span\u003e\u003cbr/\u003e\u003c/pre\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/figure\u003e\u003cp\u003e什么？报错？！，看上去像是一段文内js迷惑了分析器。删掉重来，终于开始刷屏，最后还是抛出一个读不懂的错误orz。随便打开一个md文件，顿时傻眼，这是啥呀，简直就是一堆乱码！有木有！回想下，当时用wordpress装了一堆插件，居然还是用Windows Live Writer码的字。图一时爽快，搞得各种空格、转义符、span font标签、js碎片乱飞啊，格式完全乱套了，简直毫无头绪啊，有木有！好在文章不多，而且不用管评论，那就一篇篇改吧！（现在看见span就想吐）\u003c/p\u003e\u003cp\u003e这次下定决心，一定要把文章都弄成标准markdown，严格区分换行和分段，绝不放过任何多出的空格。然后放弃分类功能，只留标签。整理过程中还是有不少遗憾，许多代码和附件都找不回来，都怨那些短命的网盘！有些文章内容虽然已经过时，但还是尽量原汁原味保留，不为什么，情怀～～\u003cbr/\u003e现在终于懂了，关注内容才是博客生存的根本，你所做的，只是在一张白纸上铺开文字，仅此而已。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2015-04-21T18:02:50Z",
+  "Author": "J. F"
+}

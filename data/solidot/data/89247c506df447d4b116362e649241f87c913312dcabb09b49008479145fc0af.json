@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "USB4 v2 支持最高 80 Gbps 的数据传输",
+  "Link": "https://www.solidot.org/story?sid=72658",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUSB 的命名方案日益令人感到糊涂。USB Promoter Group \u003ca href=\"https://arstechnica.com/gadgets/2022/09/usb-c-naming-to-somehow-get-worse-with-usb4-version-2-0/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了 USB4 v2 标准，其数据传输率最高能达到 80 Gbps ，两倍于现有的 USB4 v1 标准——但有的 USB4 v1 只支持最高 20Gbps 而不是 40Gbps。原因是 USB Type-C 连接线与 USB 协议的其它规格是分开的，连接线可以相同，但支持的传输率并不相同。USB Type-C 支持的 USB 规格包括了 USB4 2.0、USB4 1.0、USB 3.2 Gen 2x2、USB 3.2 Gen 2、USB 3.2 Gen 1 或 USB 2.0，以及英特尔的 Thunderbolt 协议。英特尔在 2017 年宣布免除 Thunderbolt 3 的版税，将其捐给 USB Promoter Group，USB4 就是基于 Thunderbolt 3 协议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-02T14:07:25Z",
+  "Author": "WinterIsComing"
+}

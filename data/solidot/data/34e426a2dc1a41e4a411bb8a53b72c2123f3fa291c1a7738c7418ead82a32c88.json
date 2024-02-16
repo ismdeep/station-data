@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Signal 收到加州中区检方的传票",
+  "Link": "https://www.solidot.org/story?sid=67643",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t加密消息应用 Signal \u003ca href=\"https://signal.org/bigbrother/central-california-grand-jury/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它收到了加州中区检察官办公室的传票，索要 Signal 用户数据，但在其它应用中很容易提取的用户信息在 Signal 服务器上是基本上不存在的。传票要求获得用户的地址、通信和账号相关的姓名。但 Signal 默认启用了端对端加密，不访问用户信息、好友列表、群组、通讯录、贴纸、用户档案名称等，它能向检方提供的信息只有用户账号创建的 Unix 时间戳和账号上一次连接服务器的时间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-28T15:17:38Z",
+  "Author": "WinterIsComing"
+}

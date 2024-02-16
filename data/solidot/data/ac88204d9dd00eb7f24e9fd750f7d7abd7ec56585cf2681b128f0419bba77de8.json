@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开源全同态加密的通用转译器",
+  "Link": "https://www.solidot.org/story?sid=68033",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://developers.googleblog.com/2021/06/our-latest-updates-on-fully-homomorphic-encryption.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e在 Apache License 2.0 许可证下开源首个全同态加密（FHE）的通用转译器，\u003ca href=\"https://github.com/google/fully-homomorphic-encryption\" target=\"_blank\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上。全同态加密允许对密文进行特定的代数运算得到仍然是加密的结果，与对明文进行同样的运算再将结果加密一样。这项技术可以在加密的数据中进行检索、比较等操作，整个处理过程中无需对数据进行解密。同态加密技术从根本上解决将数据及其操作委托给第三方时的保密问题。今天的文件通常是在传输和存储时加密，使用时解密，存在安全弱点，FHE 可解决该问题。FHE 也可以私密的方式使用敏感数据训练机器学习模型。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-15T05:23:09Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国移动运营商采取行动阻止短信劫持",
+  "Link": "https://www.solidot.org/story?sid=67342",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Motherboard \u003ca href=\"https://www.solidot.org/story?sid=67221\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e白帽子黑客花了 16 美元购买短信转发服务就能获得一个人的所有短信后，美国主要移动运营商 T-Mobile、Verizon 和 AT\u0026amp;T 采取行动改变了短信路由的方法，\u003ca href=\"https://www.vice.com/en/article/5dp7ad/tmobile-verizon-att-sms-hijack-change\"\u003e\u003cu\u003e阻止黑客截至目标手机的短信\u003c/u\u003e\u003c/a\u003e。运营商的行动影响所有移动生态系统中的短信供应商。在这之前，自称 Lucky225 的黑客只是花钱使用了商业短信营销服务商 Sakari 的服务，输入目标用户的手机号码，就能转发手机收到的短信。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-29T09:42:42Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CentOS Linux 的替代",
+  "Link": "https://www.solidot.org/story?sid=66365",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t我们熟知的 CentOS Linux 发行版可能死掉了，上周 Red Hat 出人意料的宣布其企业发行版的免费社区版本 CentOS Linux 将转变成一个滚动发行版 CentOS Stream，已发布的 CentOS 8 和 CentOS 7 将在明年和 2024 年终止支持。这一消息震惊了包括 CentOS 项目联合创始人在内的无数人。但基于 RHEL 的免费发行版并不只有 CentOS，\u003ca href=\"https://arstechnica.com/gadgets/2020/12/centos-linux-is-gone-but-its-refugees-have-alternatives/#p3\"\u003e\u003cu\u003e你可以使用其他替代\u003c/u\u003e\u003c/a\u003e，其中包括甲骨文的\u003ca href=\"https://www.oracle.com/linux/\" target=\"_blank\"\u003e\u003cu\u003e Oracle Linux\u003c/u\u003e\u003c/a\u003e；CloudLinux OS 项目维护者刚刚\u003ca href=\"https://blog.cloudlinux.com/announcing-open-sourced-community-driven-rhel-fork-by-cloudlinux\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将在明年一季度发布 CentOS 的免费替代；面向学术界的 \u003ca href=\"http://springdale.math.ias.edu/\" target=\"_blank\"\u003e\u003cu\u003eSpringdale Linux\u003c/u\u003e\u003c/a\u003e；CentOS 联合创始人 Greg Kurtzer 在听到这一震惊消息后宣布的新发行版 \u003ca href=\"https://rockylinux.org/\"\u003e\u003cu\u003eRocky Linux\u003c/u\u003e\u003c/a\u003e，名字是为了纪念另一位联合创始人 Rocky McGough；惠普企业维护的发行版 \u003ca href=\"https://www.clearos.com/\"\u003eClearOS\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-14T13:51:07Z",
+  "Author": "WinterIsComing"
+}

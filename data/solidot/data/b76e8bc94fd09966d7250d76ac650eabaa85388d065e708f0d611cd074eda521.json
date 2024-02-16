@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "浏览器扩展程序突出亚马逊自有品牌",
+  "Link": "https://www.solidot.org/story?sid=69833",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一款新浏览器扩展程序承诺会向你展示亚马逊搜索结果中哪些产品是自有品牌或者专属销售品牌的，让你能更好地了解谁在销售你想要购买的产品。该扩展名为 \u003ca href=\"https://themarkup.org/amazons-advantage/2021/11/29/introducing-amazon-brand-detector\" target=\"_blank\"\u003e\u003cu\u003eAmazon Brand Detector\u003c/u\u003e\u003c/a\u003e，使用了由 Markup 创建的亚马逊品牌列表，过滤器等技术（\u003ca href=\"https://themarkup.org/amazons-advantage/2021/10/14/how-we-analyzed-amazons-treatment-of-its-brands-in-search-results#identifying-amazons-brands-and-exclusives\" target=\"_blank\"\u003e\u003cu\u003e详见此处\u003c/u\u003e\u003c/a\u003e）监测并突出显示属于亚马逊 Our Brands 计划产品。在调查亚马逊如何在搜索结果中对其内部品牌进行排名之后，Markup 创建了扩展，表示该工具（可用于类 Chrome 浏览器和 Firefox）旨在使搜索更加透明。虽然亚马逊将其中一些搜索结果标记为“我们品牌的特色”，但并非所有结果都如此。这些标识文字很小且是灰色的，如果你不留心容易错过（特别是由于实际产品页面上不会有任何相关提示），它没有出现在该工具突出显示的每个结果上。亚马逊没必要对这些品牌含糊其辞：它有一个页面列出了“\u003ca href=\"https://www.amazon.com/b?ots=1\u0026amp;slotNum=6\u0026amp;imprToken=54beb966-08fd-0210-2be\u0026amp;ie=UTF8\u0026amp;node=17728530011\u0026amp;ascsubtag=%5B%5Dvg%5Bp%5D22572876%5Bt%5Dw%5Br%5Dreddit.com%5Bd%5DD\"\u003e\u003cu\u003e专有和精选独家品牌\u003c/u\u003e\u003c/a\u003e”，其中许多名称听起来很合理：Happy Belly、Wag、Nature\u0026#39;s Wonder。有些是亚马逊的自有品牌，有些是在亚马逊上\u003ca href=\"https://sell.amazon.com/programs/our-brands?ascsubtag=%5B%5Dvg%5Bp%5D22572876%5Bt%5Dw%5Br%5Dreddit.com%5Bd%5DD\" target=\"_blank\"\u003e\u003cu\u003e独家销售\u003c/u\u003e\u003c/a\u003e但不一定由该公司经营的“精选品”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-01T11:33:30Z",
+  "Author": "wanwan"
+}

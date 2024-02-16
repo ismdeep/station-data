@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DuckDuckGo 开放提供反跟踪电邮服务",
+  "Link": "https://www.solidot.org/story?sid=72590",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在封闭测试一年之后，DuckDuckGo \u003ca href=\"https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e向 DuckDuckGo 移动应用、浏览器扩展使用者开放提供其反跟踪电邮服务。这项服务将向用户提供 @duck.com 电邮地址作为邮件中转，它会在移除跟踪器之后转发到你的主邮箱地址。DuckDuckGo 称在封闭测试期间它处理的 85% 的邮件含有隐蔽的跟踪器。使用这项服务用户需要使用  \u003ca href=\"https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361\"\u003eiOS\u003c/a\u003e 或 \u003ca href=\"https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android\u0026amp;gl=US\"\u003eAndroid\u003c/a\u003e 版本的 DuckDuckGo 移动应用，Firefox、Chrome、Edge 等的\u003ca href=\"https://duckduckgo.com/email/\"\u003e\u003cu\u003e浏览器扩展\u003c/u\u003e\u003c/a\u003e， \u003ca href=\"https://arstechnica.com/gadgets/2022/04/duckduckgo-announces-a-new-privacy-focused-mac-web-browser/\"\u003ebeta Mac\u003c/a\u003e 浏览器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-26T11:03:19Z",
+  "Author": "WinterIsComing"
+}

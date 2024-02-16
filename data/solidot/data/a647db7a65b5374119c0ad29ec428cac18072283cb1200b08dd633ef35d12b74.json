@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "互联网工程任务组争论如何替换种族主义色彩的术语",
+  "Link": "https://www.solidot.org/story?sid=67502",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在互联网工程任务组(IETF)制定计划替换种族主义色彩术语近一年之后，\u003ca href=\"https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html\" target=\"_blank\"\u003e\u003cu\u003e共识仍未达成争论仍然在继续\u003c/u\u003e\u003c/a\u003e。IETF 由大约 7000 名志愿者组成，有两名全职雇员、一名执行董事和一名发言人，资金主要来自会费和注册费。它制定了互联网行业的各项标准，它并不能强迫科技巨头遵守它的指导方针，但巨头们通常会选择遵守因为 IETF 为工程问题创造了优雅的解决方案。去年 6 月的 Black Lives Matter 抗议活动促使社交媒体、代码平台和标准组织重新检查代码中常用的术语。民主和科技中心 CTO Mallory Knodel 向 IETF 递交提议呼吁使用更中性的术语。在邮件列表上，部分人表示支持，部分人认为需要修订，还有一部分强烈反对，认为是试图建立“真理部”。一个月后，IETF 指导组发表罕见的声明，称“排他性语言是有害的”。到目前为止，IETF 社区尚未在此问题上达成共识。行业中的其它人并没有等待，它们已经开始修改术语：MySQL 选择用“source”和“replica”替代“master”和“slave”，GitHub 选择用 “main” 替代 “master”，W3C 督促成员避免使用“master”和“slave”，IEEE 也在考虑类似的变动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-15T13:32:47Z",
+  "Author": "WinterIsComing"
+}

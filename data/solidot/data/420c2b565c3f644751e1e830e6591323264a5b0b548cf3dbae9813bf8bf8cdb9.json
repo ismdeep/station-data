@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook iOS SDK 导致众多应用崩溃",
+  "Link": "https://www.solidot.org/story?sid=64285",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t开发者在 Facebook iOS SDK 的 Github 问题页面\u003ca href=\"https://github.com/facebook/facebook-ios-sdk/issues/1374\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，多个版本的 SDK 导致了大量应用崩溃。Facebook SDK 被广泛用于身份验证和广告展示。开发者报告称，SDK 6.5.0、SDK 5.6.0、SDK CoreKit 6.0.0 等等都会导致应用崩溃。受影响的流行应用包括了 Spotify、TikTok、Pinterest、Winno 等等，还有中国开发者用中文爆粗口说 Facebook 的 SDK 应用导致了崩溃。暂时不清楚是什么导致了问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-07T06:09:47Z",
+  "Author": "WinterIsComing"
+}

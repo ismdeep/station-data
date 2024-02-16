@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "如何绕过 Matlab 的“弱化 AMD CPU” 功能",
+  "Link": "https://www.solidot.org/story?sid=62760",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 本周正式发售了第三代线程撕裂者 24 核的 3960X 和 32 核的 3970X，主要科技网站也都公布了评测，并与英特尔的同类产品进行了对比，大部分测试结果显示 AMD 的新线程撕裂者具有明显的优势，但还有一些评测类别英特尔的处理器似乎表现更强。但这一结果未必是因为英特尔 CPU 还具有优势（当然 AVX512 指令集支持上它确实有优势），而是与软件使用的库有关。以流行的商业数学软件 Matlab 为例，在测试中，英特尔的 10980XE 打败了 3960X 和 3970X。AMD 在 Matlab 上表现如此弱势的原因是因为 Matlab 使用了 Intel Math Kernel Library (MKL)，MKL 对竞争对手不友好，即使 AMD CPU 支持 AVX2 或 \u003cspan id=\"intelliTXT\" name=\"intellitxt\"\u003eSSE3-SSE4\u003c/span\u003e，MKL 也只用 SSE1。如果要让 MKL 更好的支持 AMD CPU，用户需要修改系统环境变量，设置 MKL_DEBUG_CPU_TYPE=5。重新测试后的结果\u003ca href=\"https://www.extremetech.com/computing/302650-how-to-bypass-matlab-cripple-amd-ryzen-threadripper-cpus\"\u003e\u003cu\u003e显示 AMD CPU 再次大胜英特尔\u003c/u\u003e\u003c/a\u003e。很多测试软件或商业软件都存在类似的问题，而大部分情况下用户对此并不知情。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-27T08:27:42Z",
+  "Author": "WinterIsComing"
+}

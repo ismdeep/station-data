@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "中国黑客组织攻击西澳洲政府",
+  "Link": "https://www.solidot.org/story?sid=64296",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tCheck Point Software Technologies \u003ca href=\"https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e中国黑客组织 Naikon 对包括西澳洲政府在内的亚太地区国家发动攻击。Naikon 的方法是先渗透进入一个政府机构，然后利用该机构的通讯录、文档和数据对其它政府目标发动针对性的钓鱼攻击，利用部门和政府之间的信任和外交关系去增加攻击的成功率。它使用名叫 Aria-body 的后门获得被感染计算机和网络的远程访问能力。Check Point 称，Naikon 主要针对不同政府的外交和科技部门，以及政府企业，它的动机被认为是收集地缘政治情报。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-08T06:21:48Z",
+  "Author": "WinterIsComing"
+}

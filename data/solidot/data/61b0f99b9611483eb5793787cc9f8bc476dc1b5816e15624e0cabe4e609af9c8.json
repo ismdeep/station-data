@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在 CEO 账号被劫持之后 Twitter 暂时关闭了短信发推功能",
+  "Link": "https://www.solidot.org/story?sid=61991",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTwitter CEO Jack Dorsey 的账号上周末遭到劫持，黑客不是暴力破解 Dorsey 的密码去实现账号劫持，而是利用 SIM swapping 去控制 Dorsey 的手机号码，然后向短信发推服务的供应商 40404 发送短信，以 Dorsey 的身份在其账号上发表各种攻击性言论。SIM swapping 是美国最近几年非常流行的社交工程方法，通过欺骗移动运营商的雇员将受害者的手机号码转到黑客控制的 SIM 卡。在最新的事故发生之后，Twitter \u003ca href=\"https://twitter.com/TwitterComms/status/1167591003143847936\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e暂时关闭了短信发推功能，但没有提供何时恢复该功能的时间表。Twitter 称 Dorsey 账号被劫持的问题在于移动运营商，\u003ca href=\"https://www.zdnet.com/article/twitter-disables-sms-to-tweet-feature-after-its-ceo-got-hacked-last-week/\"\u003e\u003cu\u003e需要移动运营商去解决漏洞\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-06T04:52:56Z",
+  "Author": "wenfeixiang"
+}

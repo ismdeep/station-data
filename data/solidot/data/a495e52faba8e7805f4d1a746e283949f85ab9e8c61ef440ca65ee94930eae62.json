@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Play Services 停止支持 Android 4.4",
+  "Link": "https://www.solidot.org/story?sid=75619",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 宣布其 Play Services 停止支持有十年历史的 Android 4.4 KitKat。Google 称 KitKat 的活跃设备不到 1%，没有多少理由继续支持。KitKat 设备在 7 月之后将无法再收到 Play Services  更新，意味着大部分应用将无法使用，意味着将可能会变成砖。不受支持的 Android 设备将无法登陆 Google 账号，用户将无法再使用 Play Store、Gmail、Google Maps 以及其它 Google 产品。除了淘汰 KitKat 外，Google 还停止支持同年推出的 Android 手表。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://android-developers.googleblog.com/2023/07/google-play-services-discontinuing-updates-for-kitkat.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-26T07:40:30Z",
+  "Author": "Wilson"
+}

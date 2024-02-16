@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 批准了内核锁定功能",
+  "Link": "https://www.solidot.org/story?sid=62171",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在多年的评估、讨论和重写之后，Linus Torvalds \u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=aefcf2f4b58155d27340ba5f9ddbe9513da8286d\"\u003e\u003cu\u003e批准了\u003c/u\u003e\u003c/a\u003e内核锁定功能。新功能 LSM (Linux Security Module) 将随 Linux kernel 5.4 \u003ca href=\"https://www.zdnet.com/article/linux-to-get-kernel-lockdown-feature/\" target=\"_blank\"\u003e\u003cu\u003e提供给用户\u003c/u\u003e\u003c/a\u003e。它将限制用户空间对内核的访问或修改，对 root 修改运行时内核施加了额外的限制，防止遭到入侵的 root 账号危及到系统的其它部分。LSM 一开始将是默认关闭，用户可选择启用，因为该功能有可能会破坏现有的系统。kernel 5.4 的其它\u003ca href=\"https://lwn.net/Articles/799425/\"\u003e\u003cu\u003e变化\u003c/u\u003e\u003c/a\u003e包括：Arm64 架构将能使用 52 位地址；移除英特尔的 MPX 功能；移除对 SGI SN2 架构的支持；\u0026#34;haltpoll\u0026#34; CPU 空闲调控器；支持联想 ThinkPad \u0026#34;PrivacyGuard\u0026#34; 功能，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-08T03:20:07Z",
+  "Author": "wenfeixiang"
+}

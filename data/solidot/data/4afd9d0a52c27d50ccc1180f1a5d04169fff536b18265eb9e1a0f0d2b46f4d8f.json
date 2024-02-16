@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "软件定义无线电网站疑在压力下关闭",
+  "Link": "https://www.solidot.org/story?sid=64652",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t软件定义无线电网站\u003ca href=\"https://sdr.hu/\"\u003e\u003cu\u003e sdr.hu\u003c/u\u003e\u003c/a\u003e 宣布关闭，站长给出的理由是这是一个个人业余爱好项目，他的关注点现在转移到了其他项目，既没有精力继续维护网站，也无法防止其被滥用。“防止被滥用”更像是一个来自当局施压的结果，许多人怀疑站长是在压力下\u003ca href=\"https://tech.slashdot.org/story/20/06/13/1424232/software-defined-radio-site-closes\" target=\"_blank\"\u003e\u003cu\u003e被迫关闭的\u003c/u\u003e\u003c/a\u003e。软件定义无线电主要是关于射频接收器，有时也涉及到发射器，它能利用现有组件重编程接收距离和频谱范围内的所有无线电频率。以前软件定义无线电需要价值一千美元的实验室设备，如今二十美元左右的设备和自由软件就可以实现。接收器通常是不受监管的，但发射器则受到严密监管。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-14T04:19:19Z",
+  "Author": "WinterIsComing"
+}

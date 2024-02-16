@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果修复导致部分 Mac 升级操作系统后无法启动的问题",
+  "Link": "https://www.solidot.org/story?sid=69527",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果上个月释出了 macOS Monterey，部分用户很快报告升级到新操作系统后无法启动。苹果现在\u003ca href=\"https://arstechnica.com/gadgets/2021/11/apple-fixes-bug-that-caused-macos-monterey-update-to-brick-some-apple-t2-macs/\"\u003e\u003cu\u003e证实\u003c/u\u003e\u003c/a\u003e问题与安全芯片 T2 有关。苹果在 2018 年之后发售的采用英特尔处理器的 Mac 电脑基本上都配备了 T2 芯片。苹果称，它识别和修复了 T2 固件问题，受影响客户可以联系客户获得帮助。如果你的 Mac 受到影响，苹果提供了一个\u003ca href=\"https://support.apple.com/zh-cn/guide/apple-configurator-2/apdebea5be51/mac\"\u003e\u003cu\u003e帮助页面\u003c/u\u003e\u003c/a\u003e介绍了恢复固件的流程。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-06T12:26:01Z",
+  "Author": "WinterIsComing"
+}

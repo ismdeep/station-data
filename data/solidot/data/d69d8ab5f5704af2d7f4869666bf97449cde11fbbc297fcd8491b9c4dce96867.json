@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司 FireEye 被黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=66317",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 FireEye 披露它\u003ca href=\"https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html\" target=\"_blank\"\u003e\u003cu\u003e遭到了国家级黑客的攻击\u003c/u\u003e\u003c/a\u003e。FireEye CEO Kevin Mandia 称，攻击者使用了非常新而且复杂的技术，窃取了公司红队使用的渗透测试工具。FireEye 已经在 GitHub \u003ca href=\"https://github.com/fireeye/red_team_tool_countermeasures\" target=\"_blank\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e检测出这些工具的特征。 FireEye 并没有透露更多细节，只是表示正在与 FBI 和微软等合作伙伴展开调查，他们的初步分析支持了该公司的结论。安全公司通常会有蓝队和红队，蓝队防御，红队进攻，而红队会开发出一些自己的进攻用的测试工具，这次攻击中被窃取的就是这些工具。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-09T07:06:01Z",
+  "Author": "WinterIsComing"
+}

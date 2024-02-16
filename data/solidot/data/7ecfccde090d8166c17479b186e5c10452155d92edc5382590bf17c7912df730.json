@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出 Windows 10 1909 镜像下载",
+  "Link": "https://www.solidot.org/story?sid=62813",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软释出了 Windows 10 1909 \u003ca href=\"https://www.microsoft.com/en-us/software-download/windows10\"\u003e\u003cu\u003e镜像下载\u003c/u\u003e\u003c/a\u003e，允许 Windows 10 用户快速升级到最新版本。 Windows 10 1909 相比 1903 是一次较小规模的更新。用户将需要先下载 Media Creation Tool，无法直接下载 ISO 镜像文件。\u003ca href=\"https://www.windowslatest.com/2019/12/01/download-windows-10-november-2019-update-iso-images/\"\u003e\u003cu\u003e要绕过这个限制\u003c/u\u003e\u003c/a\u003e，用户可以将浏览器的 useragent 设置成 Google Chrome (Android mobile)，欺骗微软以为你不是从 Windows 系统访问下载网站，然后就可以直接下载 ISO 镜像了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-02T10:19:27Z",
+  "Author": "WinterIsComing"
+}

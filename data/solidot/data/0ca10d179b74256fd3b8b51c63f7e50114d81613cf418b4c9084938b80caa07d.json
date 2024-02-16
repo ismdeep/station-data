@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软和 Google 的浏览器竞争",
+  "Link": "https://www.solidot.org/story?sid=63675",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t当基于 Chromium 的 MS Edge 用户访问 Google 的 Chrome Web Store 下载扩展，Google 会以安全理由建议用户切换到 Chrome。接近 Google 的知情人士称用的是 Chrome 的话，如果因某种缘故认为扩展不安全，Chrome 团队可以远程禁用扩展。但如用的是 MS Edge，Google 是无法远程禁用扩展的，因此 Google 才推荐用户切换到 Chrome。然而，Google 并未对同样基于 Chromium 的 Opera 用户发出相同的警告。Google 在恐吓用户，\u003ca href=\"https://www.pcworld.com/article/3528753/google-and-microsoft-are-killing-the-new-edge-browser-with-scare-tactics-over-extensions.html\"\u003e\u003cu\u003e而微软也在做同样的事情\u003c/u\u003e\u003c/a\u003e：当 MS Edge 用户尝试添加 Chrome 扩展，微软警告从非 Microsoft Store 来源安装的扩展是未经验证过的，可能会影响浏览器性能。来自任何地方的扩展都会影响浏览器性能，这是其本质所在。如果你在微软搜索引擎搜索“\u003ca href=\"https://cn.bing.com/search?q=Chrome+web+store\u0026amp;qs=n\u0026amp;form=QBLHCN\u0026amp;sp=-1\u0026amp;pq=chrome+web+store\u0026amp;sc=8-16\u0026amp;sk=\u0026amp;cvid=66E017D059E9467F9F6B2EAC642FAF34\"\u003e\u003cu\u003eChrome Web Store\u003c/u\u003e\u003c/a\u003e” ，第一个结果是微软的 Edge 浏览器广告。 两家公司都在做自己所认为的\u003ca href=\"https://tech.slashdot.org/story/20/02/29/066211/is-microsoft-retaliating-for-chromes-warnings-about-extension-security-in-edge\"\u003e\u003cu\u003e最正确的事情\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-02T02:51:52Z",
+  "Author": "WinterIsComing"
+}

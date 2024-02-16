@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用于反射放大攻击的武器化网络中间件",
+  "Link": "https://www.solidot.org/story?sid=68726",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"/~砍猪\"\u003e砍猪\u003c/a\u003e 写道\u003ci\u003e \u0026#34;Kevin Bock 等人在 USENIX Security 2021 会议上发表了论文 Weaponizing Middleboxes for TCP Reflected Amplification （\u003ca href=\"https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/\" target=\"_blank\"\u003eHTML\u003c/a\u003e, \u003ca href=\"https://geneva.cs.umd.edu/papers/usenix-weaponizing-ddos.pdf\" target=\"_blank\"\u003ePDF\u003c/a\u003e, \u003ca href=\"https://www.usenix.org/system/files/sec21_slides_bock.pdf\" target=\"_blank\"\u003e幻灯片\u003c/a\u003e），描述了攻击者利用网络中间件（middleboxes）和审查系统进行反射放大攻击的可行性。如今大多数反射拒绝服务攻击都是基于 UDP 的，TCP 连接需要三次握手增加了攻击者反射攻击的难度，完整的三次握手过程为客户端发送 SYN，服务端响应以 SYN+ACK，客户端回应 ACK，而攻击者伪造 IP 地址则不可能完成握手过程。论文作者发现大量的网络中间件不遵守 TCP 操作，这使得攻击成为可能。作者利用 Quack 扫描器发现网络链路上可能存在的中间件，并测试各种可能影响反射攻击的因素，结果发现某些配置错误的网络反射放大攻击可以是无限的，国家级的审查设备反射攻击倍率通常很低（防火长城为1.5倍，而沙特阿拉伯是个例外，约为20倍）。作者将其发现通知给了几个 CERT，包括 US-CERT。但 CNCERT/CC 似乎并没有被通报。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-28T09:58:18Z",
+  "Author": "matrix"
+}

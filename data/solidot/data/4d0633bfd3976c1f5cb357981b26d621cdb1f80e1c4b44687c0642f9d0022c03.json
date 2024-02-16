@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "甲骨文拷贝了亚马逊 API",
+  "Link": "https://www.solidot.org/story?sid=63180",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国最高法院将就 Google Android 系统拷贝甲骨文 Java API 一案举行听证会，裁决 API 在版权法下的法律地位。此案的结果将对 Google 等公司产生深远影响。API 本质上是指示计算机如何操作的语言，包含了一个与语法结构相关的命名命令表。Google 的 Android 设计兼容 Java，因此熟悉 Java 的程序员可以将经验和知识带到新的移动设备平台。为此 Android 必须拷贝相关的 Java API 命令和语法结构，甲骨文认为这种 Java API “重新实现”当于写未经授权的哈利波特小说，侵犯了其版权。然而拷贝 API 在软件行业是十分常见的做法，而甲骨文自己\u003ca href=\"https://arstechnica.com/tech-policy/2020/01/oracle-copied-amazons-api-was-that-copyright-infringement/\" target=\"_blank\"\u003e\u003cu\u003e也被发现拷贝了竞争对手亚马逊云服务 S3 的 API\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-06T13:16:54Z",
+  "Author": "WinterIsComing"
+}

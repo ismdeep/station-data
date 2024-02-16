@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布 64 核线程撕裂者 3990X",
+  "Link": "https://www.solidot.org/story?sid=63462",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t几年前最高端的消费者 CPU 还只有 8 核，而现在你能拿到 64 核了。AMD 正式发布 64 核线程撕裂者 3990X，主要科技网站如 \u003ca href=\"https://www.anandtech.com/show/15483/amd-threadripper-3990x-review\"\u003e\u003cu\u003eAnandtech\u003c/u\u003e\u003c/a\u003e 都发布了评测报告，结果显示除了 AVX-512，3990X 能轻松击败英特尔两万美元的双路 Xeon Platinum 8280。鉴于软件对多核的优化支持还不完善，3990X 并不是高性价比的高端处理器，价格只有其一半的 32 核线程撕裂者 3970X 可能更合算。Phoronix \u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=3990x-threadripper-linux\u0026amp;num=8\" target=\"_blank\"\u003e\u003cu\u003e测试了 3990X 在 Linux 下的性能\u003c/u\u003e\u003c/a\u003e，显示它能在不到两分钟内完成  LLVM 的编译，22 秒完成 Linux 5.4 kernel 的编译，它对于软件编译或其它基于 CPU 的渲染器或建模具有极大的帮助。此外 Linux 硬件供应商 System76 发布了\u003ca href=\"https://system76.com/threadripper\"\u003e\u003cu\u003e线程撕裂者工作站\u003c/u\u003e\u003c/a\u003e，可选 CPU 包括了 3990X。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-08T07:14:49Z",
+  "Author": "WinterIsComing"
+}

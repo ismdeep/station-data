@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔收购 Linutronix",
+  "Link": "https://www.solidot.org/story?sid=70766",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-Acquires-Linutronix\" target=\"_blank\"\u003e收购了\u003c/a\u003e专注于嵌入式 Linux 和实时计算的德国 Linux 咨询公司 Linutronix。通过收购英特尔获得的主要是 Linux 相关的资深开发者。Linutronix 的 CTO Thomas Gleixner 从 2008 年起就是内核 x86 架构的主要维护者。Linutronix 也是 PREEMPT_RT (Real Time) 项目的缔造者，PREEMPT_RT 被用于实时系统，但此前因为缺乏资金而没有合并到内核主线，在英特尔收购之后资金应该不会再成为问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-24T14:08:37Z",
+  "Author": "WinterIsComing"
+}

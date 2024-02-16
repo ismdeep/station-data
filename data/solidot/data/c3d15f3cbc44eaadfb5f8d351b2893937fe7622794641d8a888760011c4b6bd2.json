@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 74 发布",
+  "Link": "https://www.solidot.org/story?sid=63772",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/74.0/releasenotes/\" target=\"_blank\"\u003e\u003cu\u003e释出了 Firefox 74\u003c/u\u003e\u003c/a\u003e。主要新特性包括：密码管理器 Lockwise 的登陆管理支持逆向字典排序；支持从新 Microsoft Edge 导入书签和历史；扩展管理器能移除外部应用安装的扩展，从现在开始只有用户能安装扩展，不再允许应用安装；Facebook Container 支持加入非 Facebook 网站；部分支持 WebRTC 视频和语音呼叫隐藏 IP 以保护隐私；禁用 TLS 1.0 和TLS 1.1；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-10T13:07:52Z",
+  "Author": "WinterIsComing"
+}

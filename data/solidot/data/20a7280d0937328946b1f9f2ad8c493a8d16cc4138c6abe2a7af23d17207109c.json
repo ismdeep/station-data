@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为新旗舰手机被发现使用了美国零部件",
+  "Link": "https://www.solidot.org/story?sid=63997",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华为刚刚发布了新旗舰手机  P40，因美国的制裁没有预装任何 Google 的服务和应用。除非获得许可，美国公司也被禁止向华为供应零部件。深圳公司 XYZone 拆开了手机，分析了其零部件来源。结果发现了\u003ca href=\"https://arstechnica.com/gadgets/2020/03/huaweis-p40-phone-contains-us-parts-despite-blacklisting/#p3\" target=\"_blank\"\u003e\u003cu\u003e有多家美国公司的零部件\u003c/u\u003e\u003c/a\u003e。P40 的射频前端模块由三家美国公司 Qualcomm、Skyworks 和 Qorvo 供应，它是手机的关键零部件，用于连接天线，对呼叫和联网是必不可少的。Qualcomm 从美国商务部获得了出口许可，而 Skyworks 和 Qorvo 的情况未知。P40 的其它主要元件包括：索尼的镜头，京东方和 LG 的显示屏，NXP 的 NFC 芯片，三星的 NAND flash 芯片，德赛和新能源科技公司的电池，台积电制造的海思 SoC。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-01T06:58:56Z",
+  "Author": "WinterIsComing"
+}

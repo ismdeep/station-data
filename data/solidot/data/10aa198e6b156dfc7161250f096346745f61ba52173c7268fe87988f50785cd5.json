@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔第三次给 Zombieload 漏洞打补丁",
+  "Link": "https://www.solidot.org/story?sid=63361",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 5 月，计算机科学家\u003ca href=\"https://www.solidot.org/story?sid=62586\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e起名为 ZombieLoad 的 CPU 漏洞，该漏洞影响  2011 年之后发布的几乎所有英特尔处理器。和 Meltdown、Spectre  等漏洞类似，ZombieLoad 利用预测执行，去实现跨线程、权限边界和超线程的数据泄露。芯片巨人先后在去年 5 月 和 11 月释出了两次补丁去修复 Zombieload 漏洞。本周一，英特尔在\u003ca href=\"https://software.intel.com/security-software-guidance/software-guidance/l1d-eviction-sampling\"\u003e\u003cu\u003e安全通知\u003c/u\u003e\u003c/a\u003e中承认之前的修复并不充分，攻击者仍然能利用 Zombieload 泄露数据，它第三次\u003ca href=\"https://it.slashdot.org/story/20/01/27/2126231/intel-is-patching-its-zombieload-cpu-security-flaw-for-the-third-time\"\u003e\u003cu\u003e释出了补丁\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-28T09:41:08Z",
+  "Author": "WinterIsComing"
+}

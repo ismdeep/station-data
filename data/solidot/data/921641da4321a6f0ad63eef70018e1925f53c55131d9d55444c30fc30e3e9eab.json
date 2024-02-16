@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "开放基础架构安全防护：对抗复杂性",
+  "Link": "https://www.solidot.org/story?sid=70559",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://hardenedvault.net/\"\u003eHardenedVault\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;2022年1月25日，赛博堡垒（HardenedVault）创始人 Shawn Chang在第九界安天网络安全冬训营研讨会上分享了《\u003ca href=\"https://zhuanlan.zhihu.com/p/463621323\" target=\"_blank\"\u003e开放基础架构安全防护:对抗复杂性\u003c/a\u003e》(\u003ca href=\"https://www.bilibili.com/video/BV1FT4y1C7ZS\" target=\"_blank\"\u003e视频\u003c/a\u003e）的议题，主要围绕基础架构的定义、用实际案例分析了高级防护的趋势、威胁建模过程中遇到的常见问题及\u003ca href=\"https://zhuanlan.zhihu.com/p/463621323\" target=\"_blank\"\u003e打造开放的体系基础架构安全过程中关键性的组件\u003c/a\u003e等方面进行了介绍。2021年的公开披露信息来看，高级威胁有之前未见的两大趋势，规模化构建专注底层的攻击链条和更加精湛的攻击技术，Kaspersky针对2022年APT（高级可持续威胁）的趋势预测中直接指出了底层攻击的“热度”回归，\u0026#34;Bootkit is a new norm\u0026#34;沉积了数年之后再次进入主流视野。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-02T09:47:28Z",
+  "Author": "WinterIsComing"
+}

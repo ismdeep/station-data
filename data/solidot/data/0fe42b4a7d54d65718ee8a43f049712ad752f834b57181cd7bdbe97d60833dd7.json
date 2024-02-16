@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 称清空网站数据设置豁免 Google 旗下网站是程序错误",
+  "Link": "https://www.solidot.org/story?sid=65880",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tiOS 开发者  Jeff Johnson \u003ca href=\"https://www.solidot.org/story?sid=65836\"\u003e\u003cu\u003e几天前注意到\u003c/u\u003e\u003c/a\u003e，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 搜索和 YouTube 的数据在关闭之后并没有删除。\u003ca href=\"https://gizmodo.com/latest-chrome-bug-purged-browser-data-except-from-si-1845424226\" target=\"_blank\"\u003e\u003cu\u003e进一步调查发现\u003c/u\u003e\u003c/a\u003e，Google 和 YouTube 的 cookies 清空了，但本地储存里的数据没有删除，而 Google 服务保留的本地储存数据包括了设备 ID 和 GPS 位置。Google 发言人对此\u003ca href=\"https://www.theregister.com/2020/10/19/google_cookie_wipe\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，问题是一个程序错误，将会在未来几天释出补丁进行修正。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-22T06:45:51Z",
+  "Author": "WinterIsComing"
+}

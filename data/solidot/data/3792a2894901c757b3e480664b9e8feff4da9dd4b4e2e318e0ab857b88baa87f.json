@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "门罗币官网被黑，被植入窃取数字货币的恶意程序",
+  "Link": "https://www.solidot.org/story?sid=62686",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t门罗币官网被黑，命令行钱包程序\u003ca href=\"https://arstechnica.com/information-technology/2019/11/official-monero-website-is-hacked-to-deliver-currency-stealing-malware/\"\u003e\u003cu\u003e被替换为恶意版本\u003c/u\u003e\u003c/a\u003e。GetMonero 网站用户本周一报告，官网提供的命令行钱包软件的哈希值与网站提供的哈希值列表不符。用户还发现软件设计用恶意程序感染用户。GetMonero 网站之后证实遭到攻击。它发表\u003ca href=\"https://web.getmonero.org/2019/11/19/warning-compromised-binaries.html\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，强烈建议任何在  11 月 18 日 2:30 AM UTC 到4:30 PM UTC 之间下载命令行钱包软件的用户核对下哈希值，如果不匹配，删除并重新下载，不要以任何理由运行被感染的程序。对恶意程序的分析显示，当用户打开或创建钱包时会将钱包种子发送到服务器 node.hashmonero[.]com，然后将钱包里的数字货币发送到服务器  node.xmrsupport[.]co 和 45.9.148[.]65。一位 Reddit 用户称钱包里价值 7000 美元的数字货币失窃。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-21T03:56:54Z",
+  "Author": "WinterIsComing"
+}

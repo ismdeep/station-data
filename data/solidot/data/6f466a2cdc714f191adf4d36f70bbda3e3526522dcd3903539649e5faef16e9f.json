@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件攻击者向纽约律所勒索 4200 万美元",
+  "Link": "https://www.solidot.org/story?sid=64384",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约律所 \u003ca href=\"http://gsmlaw.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eGrubman Shire Meiselas \u0026amp; Sacks\u003c/a\u003e (GSMS) 上周遭到了勒索软件 REvil (Sodinokibi) 的攻击，在加密计算机系统中的文件前勒索软件先窃取了其内部文件。窃取到的文件包含了律所客户的法律文书，它的客户中有名人和知名企业，如  Lady Gaga、Madonna、Mariah Carey、Nicki Minaj、Bruce Springsteen、Bette Midler、U2、Outkast、Jessica Simpson、Cam Newton 和 Facebook。攻击者 5 月 7 日在暗网发布信息，公布了一些窃取到的文件截图，给律所一周时间协商和支付赎金。14 日是截止日期，REvil 背后的运营者发布了第二则信息，称律所只愿意支付 36.5 万美元，而他们的要求是 2100万美元，因此现在他们把赎金增加了一倍\u003ca href=\"https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/\" target=\"_blank\"\u003e\u003cu\u003e至 4200 万美元\u003c/u\u003e\u003c/a\u003e。作为惩罚，REvil 黑客发布了  2.4 GB 大小的文档，其中包含了 Lady Gaga 的法律文书，大部分是演出合同。黑客还威胁释出对美国总统特朗普不利的文件。但有娱乐网站称特朗普从未成为 GSMS 的客户，因此这可能只是虚张声势。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-16T09:48:01Z",
+  "Author": "blackhat"
+}

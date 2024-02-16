@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "以色列科学家利用白炽灯监听 25 米外的对话",
+  "Link": "https://www.solidot.org/story?sid=64679",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以色列本古里安大学的安全研究人员找到了一种方法\u003ca href=\"https://www.forbes.com/sites/daveywinder/2020/06/14/how-to-use-an-ordinary-light-bulb-to-spy-on-conversation-80-feet-away-security-research-lamphone-hack/#316e5de05be1\"\u003e\u003cu\u003e利用悬挂着的白炽灯监听 25 米外的对话\u003c/u\u003e\u003c/a\u003e。他们的监听设备是一台配备了电光传感器的望远镜，需要视线清晰没有障碍物，监听质量依赖于人与灯泡之间的距离和对话声音的响度。其背后的原理是对话或音乐的声音会在挂灯表面产生气压变化，导致其发生细微的振动。研究人员开发了名为 \u003ca href=\"https://www.nassiben.com/lamphone\" target=\"_blank\" class=\"color-link\" title=\"https://www.nassiben.com/lamphone\" rel=\"nofollow noopener noreferrer\" data-ga-track=\"ExternalLink:https://www.nassiben.com/lamphone\" aria-label=\"Lamphone\"\u003eLamphone\u003c/a\u003e 的算法去将灯泡振动的光学测量信息还原为声音。这种监听可以被动完成，不需要待在同一个房间。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-16T15:05:24Z",
+  "Author": "WinterIsComing"
+}

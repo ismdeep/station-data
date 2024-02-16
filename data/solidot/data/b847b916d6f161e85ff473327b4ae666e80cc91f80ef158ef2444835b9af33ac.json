@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 3.9 释出首个测试版本",
+  "Link": "https://www.solidot.org/story?sid=62676",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 3.9 \u003ca href=\"https://github.com/python/cpython/releases/tag/v3.9.0a1\"\u003e\u003cu\u003e释出了首个测试版本\u003c/u\u003e\u003c/a\u003e。详细变化可阅读官方的 \u003ca href=\"https://docs.python.org/3.9/whatsnew/3.9.html\"\u003e\u003cu\u003echangelog\u003c/u\u003e\u003c/a\u003e。Python 最近调整了发布周期，计划一年发布一个大版本，Python 3.9 是首个采用新发布周期的版本。根据\u003ca href=\"https://www.python.org/dev/peps/pep-0596/\"\u003e\u003cu\u003e计划\u003c/u\u003e\u003c/a\u003e，3.9 的首个 alpha 版本在 2019 年 11 月 19 日发布；首个 beta 版本在 2020 年 5 月 18 日发布，这将标志着功能冻结；首个预发布版本在 2020 年 8 月 10 日发布，正式版本在 2020 年 10 月 5 日发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-20T09:00:54Z",
+  "Author": "WinterIsComing"
+}

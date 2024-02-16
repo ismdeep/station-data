@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布 Ryzen 5000 系列处理器",
+  "Link": "https://www.solidot.org/story?sid=65743",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 在 10 月 8 日的发布会上正式宣布了基于 Zen3 架构的\u003ca href=\"https://www.amd.com/zh-hans/processors/ryzen\" target=\"_blank\"\u003e\u003cu\u003e Ryzen 5000 系列桌面处理器\u003c/u\u003e\u003c/a\u003e。为避免混淆，AMD 调整了 Ryzen 的命名。同一代 Ryzen 桌面处理器和整合 GPU 的 APU 发布时间通常相差半年，比如 Ryzen 3700 与 Ryzen 4800U 都是基于 Zen2 架构的 8 核处理器，但名字上却让人觉得 4800U 比 3700 高一代。因此 Zen3 桌面处理器跳过了 4000 直接改为 5000 ，与未来发布的 APU 命名统一起来。Ryzen 5000 系列将在 11 月 5 日上市，AMD 宣称它的新处理器全方面打败了英特尔处理器，IPC 提升了 19%。作为 x86 芯片市场上的领先者，它的价格不再比英特尔处理器便宜。AMD \u003ca href=\"https://www.anandtech.com/show/16148/amd-ryzen-5000-and-zen-3-on-nov-5th-19-ipc-claims-best-gaming-cpu\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e 4 款 Ryzen 5000 系列产品：5950X，16 核 32 线，4.9Ghz /3.4 Ghz，105W TDP，799美元；5900X，12 核 24线，4.8GHz / 3.7 GHz，105W TDP，549 美元；5800X  8 核 16 线，4.7 Ghz / 3.8GHz，05W TDP，449 美元；5600X，6 核 12 线，4.6GHz / 3.7 GHz，65W TDP，299 美元。新处理器比上一代同类产品贵 50 美元，但兼容前几代的主板，这与英特尔新处理器通常需要购买新主板的策略不同。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-09T00:19:57Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Disney+ 使用了极其严格的 DRM 保护",
+  "Link": "https://www.solidot.org/story?sid=62311",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t迪士尼的流媒体服务 Disney+ 即将正式推出，但如果你是 Linux 用户，那么你可能就需要留意了，因为它使用了极其严格的 DRM 保护，\u003ca href=\"https://hansdegoede.livejournal.com/22338.html\" target=\"_blank\"\u003e\u003cu\u003e你可能会遭遇无法播放的错误信息\u003c/u\u003e\u003c/a\u003e。Fedora 用户报告，在 Firefox 和 Chrome 浏览器上访问 Disney+ 都返回了错误码 83，在联络了迪士尼的技术支持之后技术支持似乎也一筹莫展，但表示知道这种情况。Disney+ 使用的 DRM 由 Google 的 Widevine 提供，Widevine 的 DRM 有三个安全级别，Linux PC 和许多 Android 设备只支持 level 1，而 Disney+ 设定了最高的安全等级，导致了许多不支持的设备返回了错误码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T09:05:38Z",
+  "Author": "wenfeixiang"
+}

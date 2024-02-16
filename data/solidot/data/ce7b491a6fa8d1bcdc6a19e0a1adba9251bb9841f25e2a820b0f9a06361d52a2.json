@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 0day 漏洞 Bad Binder",
+  "Link": "https://www.solidot.org/story?sid=62714",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Project Zero 官方博客\u003ca href=\"https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html\"\u003e\u003cu\u003e详细描述了\u003c/u\u003e\u003c/a\u003e一个 Android 0day 漏洞 Bad Binder 的发现和修复过程。补丁已包含在 10 月份 Android 的安全更新中，如果你的手机安全补丁程序级别为 2019 年 10 月，那么问题已被修复。Project Zero 开发者称，在夏末他们收到情报称以色列间谍软件开发商 NSO 正在利用一个 Android 0day 漏洞在目标设备上安装间谍软件 Pegasus。这是一个内核提权释放后使用漏洞，影响  Pixel 1 和 2，但不影响 Pixel 3 和 3a，它在内核版本 Linux kernel 4.14 中已经修复。利用这些情报安全研究人员很快识别了漏洞。该漏洞最早是在 2017 年 11 月发现和报告的，2018 年 2 月修复，在 Linux 4.14、Android 3.18、Android 4.4 和 Android 4.9 内核中修复，但没有包含在每月的 Android 安全通报中，因此很多已发布设备如 Pixel 和 Pixel 2 都没有打上补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-22T12:51:27Z",
+  "Author": "WinterIsComing"
+}

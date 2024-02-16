@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Xbox 和 Windows NT 3.5 源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=64438",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软初代 Xbox 主机和 Windows NT 3.5 的源代码\u003ca href=\"https://www.theverge.com/2020/5/21/21265995/xbox-source-code-leak-original-console-windows-3-5\" target=\"_blank\"\u003e\u003cu\u003e被泄露到网上\u003c/u\u003e\u003c/a\u003e，其真实性已得到确认，微软发言人表示正对此展开调查。初代 Xbox 主机的源代码包括了部分构建环境，Xbox Development Kit，用于测试的模拟器以及内部文档。Xbox 内核和源代码之前已私下在爱好者之间流传，它的公开对进一步发展 Xbox 游戏模拟器帮助不大。Windows NT 3.5 的源代码包括了所有必要的构建工具，Windows NT 3.5 早在 2001 年 12 月就已经结束支持，源代码泄露不会构成严重的安全问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-22T05:09:01Z",
+  "Author": "WinterIsComing"
+}

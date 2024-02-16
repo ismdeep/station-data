@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD GPU 部分源代码遭黑客窃取",
+  "Link": "https://www.solidot.org/story?sid=63936",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD \u003ca href=\"https://www.amd.com/en/corporate/data-update\"\u003e\u003cu\u003e发表声明\u003c/u\u003e\u003c/a\u003e，证实部分 GPU 相关文件被盗，但表示不是核心技术，正与执法机构合作对此展开调查。上周，自称 xxXsoullessXxx 的用户在 GitHub 创建了名为 AMD-navi-GPU-HARDWARE-SOURCE 的项目，AMD 随后发出了\u003ca href=\"https://github.com/xxXsoullessXxx/AMD-navi-GPU-HARDWARE-SOURCE\"\u003e DMCA 通知\u003c/a\u003e，而 GitHub 则迅速将库下架。黑客联络媒体\u003ca href=\"https://torrentfreak.com/amd-uses-dmca-to-mitigate-massive-gpu-source-code-leak-200325/\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e，她(其女性身份存疑)于2019 年 11 月在一台被入侵的计算机上发现了 AMD Navi GPU 硬件源代码。计算机没有安全保护，而里面的文件甚至没有加密。黑客称，源代码涉及 Navi 10 和 Navi 21 设备，微软即将发布的下一代主机 Xbox Series X 使用了 Navi 21 和 Arden。黑客称这些文件价值一亿美元，如果找不到买家，她会将其全部公开。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-26T06:59:44Z",
+  "Author": "WinterIsComing"
+}

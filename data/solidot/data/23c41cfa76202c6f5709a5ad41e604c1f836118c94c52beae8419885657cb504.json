@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MDN Web Docs 将使用 GitHub 更新内容",
+  "Link": "https://www.solidot.org/story?sid=65955",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 前不久裁员大约 250 人，MDN Web Docs 服务是\u003ca href=\"https://www.solidot.org/story?sid=65322\" target=\"_blank\"\u003e\u003cu\u003e受到影响\u003c/u\u003e\u003c/a\u003e的项目之一。现在 Mozilla \u003ca href=\"https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/\"\u003e\u003cu\u003e宣布了 MDN Web Docs 的“进化\u003c/u\u003e\u003c/a\u003e”：内容从 MySQL 数据库迁移托管到 GitHub。Mozilla 称这将能减少开发者的维护负担；改进了贡献者的工作流，从 Wiki 模式转移到 pull request 模式；有助于更好的构建社区互动；改进前端架构。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-30T09:20:19Z",
+  "Author": "WinterIsComing"
+}

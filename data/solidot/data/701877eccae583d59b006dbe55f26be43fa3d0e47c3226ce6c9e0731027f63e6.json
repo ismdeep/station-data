@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "前端开源JS引擎MojoJS-Animation更新v2.1.0",
+  "Link": "https://www.solidot.org/story?sid=68586",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"http://https://github.com/scottcgi/MojoJS-Animation\"\u003e匿名读者\u003c/a\u003e 写道 \u0026#34;\n开源强大、轻量、易用的JS动画引擎——\u003ca href=\"https://github.com/scottcgi/MojoJS-Animation\" target=\"_blank\"\u003eMojoJS-Animation（Github）\u003c/a\u003e，更新\u003cb\u003ev2.1.0\u003c/b\u003e版本，支持CSS和Transform动画，支持队列和并发动画，支持标准Tween Ease以及更多扩展算法，支持延迟、分组、链式调用，代码实现简洁高效，逻辑清晰环环相扣，\u003ca href=\"https://scottcgi.github.io/MojoJS-Animation/demo/animation-demo.html\" target=\"_blank\"\u003e在线实例效果（Github Page）\u003c/a\u003e。\u0026#34;\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-18T08:29:44Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Rust 语言成立自己的基金会",
+  "Link": "https://www.solidot.org/story?sid=65289",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRust 语言项目\u003ca href=\"https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e成立自己的基金会，基金会的第一项任务就是接管所有权。与 Rust、Cargo、crates.io 相关的商标和域名将转移到基金会名下，而基金会也将承担相应的财务责任。Rust 最初是 Mozilla 的一个研究项目，2015 年发布了 1.0 版本，此后它确立了项目方向，独立于 Mozilla 组织进行治理。2020 年 8 月 11 日，Mozilla 宣布了重组，裁掉了大约 250 名员工，其中包括 Rust 项目和社区的活跃成员。裁员对 Rust 项目本身也产生了不确定性和混乱。Rust 项目表示，担任 Rust 团队成员的 Mozilla 雇员将仍然是项目成员，即使他们受到裁员影响。如果他们选择减少对项目的参与，Rust 项目也将理解并完全支持其决定。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-19T10:21:01Z",
+  "Author": "WinterIsComing"
+}

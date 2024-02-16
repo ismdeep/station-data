@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究人员再次对 xHelper 发出警告",
+  "Link": "https://www.solidot.org/story?sid=64063",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://securelist.com/unkillable-xhelper-and-a-trojan-matryoshka/96487/\" target=\"_blank\"\u003e\u003cu\u003e再次对难以删除的恶意程序 xHelper 发出警告\u003c/u\u003e\u003c/a\u003e。过去一年，xHelper 主要通过第三方应用商店在俄罗斯、欧洲和西南亚运行 Android 6 和 7 的设备上传播。一旦安装它就难以卸载了，即使设备恢复到出厂设置也无法清除它。当它伪装成合法应用安装到设备上之后，它会通过互联网下载一个木马收集信息，然后下载另一个木马，再利用一组漏洞利用代码获得设备的 root 权限。这组漏洞利用代码主要针对中国制造的  Android 6 和 7 的设备。获得 root 权限之后，恶意程序会挂载到启用写访问的操作系统分区，改变 mount() 函数代码，防止其遭到删除。要彻底删除 xHelper 可能需要完全抹掉设备上的文件，重新安装一个干净的版本，恢复出厂设置无法消灭它。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-08T13:57:42Z",
+  "Author": "WinterIsComing"
+}

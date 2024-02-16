@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为混淆两个鸿蒙操作系统",
+  "Link": "https://www.solidot.org/story?sid=67944",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华为正式发布了鸿蒙操作系统，但它没有明确说明的是它其实有两个鸿蒙，这两个鸿蒙事实上是完全不同的：其一是针对物联网和智能手表的鸿蒙，它是基于华为开源的\u003ca href=\"https://openharmony.gitee.com/\"\u003e\u003cu\u003e LiteOS\u003c/u\u003e\u003c/a\u003e；第二个鸿蒙是用于智能手机和平板，它是基于 Android 源代码（AOSP），使用 Linux 内核，因此华为的智能手机能从 Android“升级”到鸿蒙。\u003ca href=\"https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/#p3\"\u003e\u003cu\u003e两个不同的操作系统使用相同的品牌肯定会造成混淆\u003c/u\u003e\u003c/a\u003e，但这给华为对鸿蒙的诠释留下了很大的空间。华为高管曾强调鸿蒙没有拷贝 Android 一行代码，这一声明适用于物联网版本的鸿蒙，但不适用于智能手机版本的鸿蒙。与此同时，华为消费者业务软件部总裁王成录\u003ca href=\"https://www.computerbase.de/2021-06/updates-fuer-diese-geraete-harmonyos-loest-android-aber-nicht-ganz-das-aosp-ab/\"\u003e\u003cu\u003e告诉\u003c/u\u003e\u003c/a\u003e\u003ca target=\"_blank\"\u003e德国媒体\u003c/a\u003e，手机版的鸿蒙是基于 AOSP，它遵守了开源许可证规定，履行了相关责任义务。从华为的演示看，手机版的鸿蒙使用了 Android 11 的代码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-03T09:52:50Z",
+  "Author": "WinterIsComing"
+}

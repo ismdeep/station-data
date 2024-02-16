@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "新恶意程序以软件盗版为攻击目标",
+  "Link": "https://www.solidot.org/story?sid=68067",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员 Andrew Brandt 发现了一种不同寻常的恶意程序，设计专门打击软件盗版。被称为 \u003ca href=\"https://news.sophos.com/en-us/2021/06/17/vigilante-antipiracy-malware/\" target=\"_blank\"\u003e\u003cu\u003eVigilante\u003c/u\u003e\u003c/a\u003e 的恶意程序通过盗版网站传播，受害者下载和执行后会将执行的文件名和 IP 地址发送给攻击者控制的服务器，然后修改主机的 Hosts 文件将一千多个盗版网站的域名指向本地地址 127.0.0.1，受害者如果不手动修改 Hosts 文件删除相关条目的话将会无法再访问盗版网站。被屏蔽的盗版网站包括了海盗湾 thepiratebay.com 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-18T05:52:12Z",
+  "Author": "WinterIsComing"
+}

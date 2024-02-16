@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linus Torvalds 谈英特尔的 AVX512 指令集",
+  "Link": "https://www.solidot.org/story?sid=64923",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t脾气暴躁的 Linux 作者\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linus-Torvalds-On-AVX-512\"\u003e\u003cu\u003e抨击了\u003c/u\u003e\u003c/a\u003e英特尔的 \u003ca href=\"https://en.wikipedia.org/wiki/AVX-512\" target=\"_blank\"\u003e\u003cu\u003eAVX512\u003c/u\u003e\u003c/a\u003e 指令集。高级向量扩展指令集（Advanced Vector Extensions，简称 AVX）是 x86 指令集架构的一个扩展，2008 年提出 2011 年产品面世；AVX2 将大多数整数命令操作扩展到 256 位，AVX512 进一步扩展到  512 位，但相比 AVX2 运行一条 AVX512 指令就会导致整个处理器的频率大幅降速，虽然它在基准测试中的表现非常出色，而所谓的测试就是只运行 AVX512 不考虑其它并没有体现实际使用场景。Linus Torvalds 抨击就是这一点。他说他希望 AVX512 死得其所，英特尔能将注意力转向其芯片的薄弱点——也就是浮点性能，而不是在测试中好看的东西，不是无意义的特殊使用场景。在历史上，英特尔处理器的浮点性能一直落后于竞争对手，它靠的是自己庞大的金库而不是技术打败了其它竞争对手。Torvalds 称，AVX512 是错误的东西，AVX2 已经足够好了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-13T03:09:25Z",
+  "Author": "WinterIsComing"
+}

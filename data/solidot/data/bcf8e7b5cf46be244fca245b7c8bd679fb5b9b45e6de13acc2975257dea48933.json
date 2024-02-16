@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 游戏为何在笔记本电脑的节能模式下运行更快？",
+  "Link": "https://www.solidot.org/story?sid=63836",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年的测试\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-iGPU-Powersave-GameMode\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，游戏《Shadow of the Tomb Raider》在英特尔 iGPU 节能模式下的帧速比高性能模式下还要高。这与我们对节能和高性能模式的理解显然存在巨大差异。英特尔开发者 Francisco Jerez 最近发布\u003ca href=\"https://lists.freedesktop.org/archives/intel-gfx/2020-March/233031.html\"\u003e补丁集\u003c/a\u003e解决这个问题。\u003ca href=\"https://arstechnica.com/gadgets/2020/03/power-management-is-hard-linux-patch-boosts-ice-lake-performance/\"\u003e\u003cu\u003e他解释说\u003c/u\u003e\u003c/a\u003e，如果你的系统瓶颈是  I/O，那么提高 CPU 的性能是没什么帮助的，因为如果 I/O 子系统不够快 CPU 无法处理更多的数据。对于笔记本电脑，因为内部空间有限，功耗有限，冷却能力也受到限制。在游戏场景下，GPU 部分处理的工作负荷远大于 CPU 部分，如果在此情况下提升 CPU 的工作频率和性能，你会浪费 TDP 预算去处理来自 CPU 的不必要废热。这就导致了 GPU 部分的性能下降。新的补丁集试图面对真实世界的瓶颈更好的进行频率缩放。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-16T14:28:55Z",
+  "Author": "WinterIsComing"
+}

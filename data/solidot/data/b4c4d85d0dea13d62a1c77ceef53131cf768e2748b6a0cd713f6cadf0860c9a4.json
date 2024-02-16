@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软修补了 6 个 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=67993",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软周二释出的例行安全更新\u003ca href=\"https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/\" target=\"_blank\"\u003e\u003cu\u003e修复了\u003c/u\u003e\u003c/a\u003e 49 个安全漏洞，其中 6 个正被利用。6 个 0day 漏洞：CVE-2021-33742 是 Windows HTML 组件的远程代码执行漏洞；CVE-2021-31955 是 Windows Kernel 的信息暴露漏洞；CVE-2021-31956 是 Windows NTFS 提权漏洞；CVE-2021-33739 是 Microsoft Desktop Window Manager 的提权漏洞；CVE-2021-31201 和 CVE-2021-31199 是 Microsoft Enhanced Cryptographic Provider 的两个提权漏洞。提权漏洞对攻击者具有高价值，一旦攻击者获得初始立足点之后他们通过提权获得系统或域级别的访问权限。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-09T06:13:45Z",
+  "Author": "WinterIsComing"
+}

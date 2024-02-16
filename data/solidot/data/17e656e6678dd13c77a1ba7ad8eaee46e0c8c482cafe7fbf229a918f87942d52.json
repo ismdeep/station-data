@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "PayPal 关闭了一位 Tor 长期支持者的账号",
+  "Link": "https://www.solidot.org/story?sid=67945",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t近二十年的时间里，\u003cspan\u003eLarry Brandt 一直使用 \u003c/span\u003ePayPal 账号租赁服务器运行 Tor 节点。但今年 3 月他收到了账号被封的通知。PayPal 在邮件里称他账号的活动危及 PayPal，账号里的钱会在 180 天后退还。他尝试联络客服解决问题但找不到人，因此他只能求助于电子前哨基金会（EFF）。EFF 代表他联络 PayPal，PayPal 否认封锁账号与 Tor 有关，但拒绝给出更详细的封号解释，也拒绝恢复其账号。EFF 发表\u003ca href=\"https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，要求 PayPal 发布透明度报告；如果要关闭用户账号，需要向客户提供更有意义的通知；提供一个有用的上诉流程。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-03T10:29:09Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "法国政府网站被入侵一千万用户信息泄露",
+  "Link": "https://www.solidot.org/story?sid=75919",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t法国政府的失业登记和救助机构的网站 Pôle emploi 被入侵，有一千万用户受到影响。被暴露的信息包括全名和社会安全号码，电邮地址、电话号码、密码和银行数据等不受影响。造成 Pôle emploi 被入侵的罪魁祸首被认为与 MOVEit 有关。MOVEit 是一个广泛使用的文件传输程序，今年早些时候 MOVEit 曝出的一个高危漏洞导致其客户遭遇数据大规模被盗。MOVEit 的漏洞允许 SQL 注入，通过输入特制字符串，攻击者可以诱骗 Web 应用返回敏感数据，赋予管理系统权限等。安全公司披露攻击者在利用漏洞疯狂抓取数据，而攻击者与勒索软件组织 Clop 有关。但目前 Clop 尚未证实是否是该组织入侵了 Pôle emploi。\n\n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/data-breach-at-french-govt-agency-exposes-info-of-10-million-people/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-28T15:52:56Z",
+  "Author": "Wilson"
+}

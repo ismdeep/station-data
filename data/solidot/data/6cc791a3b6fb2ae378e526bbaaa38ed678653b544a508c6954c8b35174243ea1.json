@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 78 发布",
+  "Link": "https://www.solidot.org/story?sid=62339",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://blog.chromium.org/2019/09/chrome-78-beta-new-houdini-api-native.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 \u003ca href=\"https://www.google.com/chrome/\"\u003e\u003cu\u003eChrome 78\u003c/u\u003e\u003c/a\u003e。主要变化包括：新标签页可定制菜单，为实验性功能，默认未激活，需要在 chrome://flags 中启用两个选项（chrome://flags/#ntp-customization-menu-v2 和 chrome://flags/#chrome-colors）；Tab Hover Cards，鼠标悬浮在一个标签上会显示标签的简略信息；对所有网站启用黑色模式 Forced Dark Mode；密码检查工具将警告用户密码是否泄漏，默认未启用，需要修改选项 chrome://flags/#password-leak-detection；实验性的 DNS-over-HTTPS (DoH)功能；移除旧的 XSS Auditor 功能；新 API 如  CSS Properties and Values API，Native File System API 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T07:38:35Z",
+  "Author": "wenfeixiang"
+}

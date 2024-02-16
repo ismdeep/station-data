@@ -1,0 +1,8 @@
+{
+  "Source": "donaldfeury.xyz",
+  "Title": "Concurrency in Go",
+  "Link": "https://donaldfeury.xyz/concurrency-in-go/",
+  "Content": "\u003csection class=\"gh-content gh-canvas\"\u003e\n        \u003cp\u003eMy second programming tutorial on Golang, this time on the basics of its concurrency primitives.\u003c/p\u003e\u003cp\u003eI applied some of the feedback from the first video and applied it to this one.\u003c/p\u003e\u003cp\u003eI contemplated talking about a few concurrency patterns commonly used in this video but decided it would be better to do that in a separate video. That way I can give each the time it deserves.\u003c/p\u003e\u003cfigure class=\"kg-card kg-embed-card\"\u003e\u003ciframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/yNOe3STbtGE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003c/figure\u003e\u003cp\u003eLet me know what y\u0026#39;all think about it.\u003c/p\u003e\u003cp\u003eIf you liked it and want to know when I post more, be sure to \u003ca href=\"https://www.youtube.com/channel/UCTHij3Ac5GizLsn5yB4IX_Q?sub_confirmation=1\"\u003esubscribe\u003c/a\u003e and thank y\u0026#39;all again for your time!\u003c/p\u003e\u003chr/\u003e\u003cp\u003eDid you find this information useful? If so, consider heading over to my \u003ca href=\"https://donaldfeury.xyz/donate/\"\u003edonation\u003c/a\u003e page and drop me some support.\u003c/p\u003e\u003cp\u003eWant to ask a question or just chat? Contact me \u003ca href=\"https://donaldfeury.xyz/contact\"\u003ehere\u003c/a\u003e\u003c/p\u003e\n    \u003c/section\u003e",
+  "Date": "2021-06-27T17:00:00Z",
+  "Author": "Donald Feury"
+}

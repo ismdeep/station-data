@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "推特机器人追踪俄罗斯寡头的飞机",
+  "Link": "https://www.solidot.org/story?sid=70826",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名大学生创建的 Twitter 机器人\u003ca href=\"https://arstechnica.com/tech-policy/2022/03/college-kids-twitter-bot-that-stalks-musks-jet-now-tracking-russian-oligarchs/\" target=\"_blank\"\u003e\u003cu\u003e正在跟踪\u003c/u\u003e\u003c/a\u003e 20 多位俄罗斯寡头拥有或租赁的 46 架喷气式飞机的动向，向 \u003ca href=\"https://www.adsbexchange.com/\" target=\"_blank\"\u003e\u003cu\u003eADS-B Exchange\u003c/u\u003e\u003c/a\u003e 发送更新信息，ADS-B Exchange 是一个从运行设备监视飞机动向的航空爱好者收集数据的网站，很多寡头受到了制裁和旅行禁令的打击。这不是 19 岁的佛罗里达大学学生\u003ca href=\"https://twitter.com/JxckSweeney\" target=\"_blank\"\u003e\u003cu\u003eJack Sweeney\u003c/u\u003e\u003c/a\u003e创建的机器人第一次成为新闻。Sweeney 还运营着\u003ca href=\"https://twitter.com/ElonJet\" target=\"_blank\"\u003e\u003cu\u003e@ElonJet\u003c/u\u003e\u003c/a\u003e，该账号跟踪特斯拉和 SpaceX 的首席执行官马斯克（Elon Musk）私人飞机的动向。马斯克对这种关注大为光火，在 Twitter 上给 Sweeney 发送私信，提出给他 5000 美元关闭该账户。Sweeney 没有接受，他想要一辆 Model 3，然后是5万美元，要求实习机会。他甚至向马斯克解释了他的机器人从哪里获取数据，这些数据都是公开的。到目前为止，马斯克还没有接受他的任何还价。\u003cbr/\u003e\n\u003cbr/\u003e\nSweeney 的机器人是通过 ADS-B 实现的，这是在美国和欧盟飞行的飞机必需系统。借助 ADS-B，飞机使用 GPS 及其机载传感器计算并定期发送其位置、高度和速度，任何拥有适当接收器的人都可以收听这些广播。该系统彻底改变了空中交通管制，可以提供每秒的准确位置和速度数据，远远超过地面雷达通常提供的 5 秒一次的频率。Sweeney 的 \u003ca href=\"https://twitter.com/RUOligarchJets\" target=\"_blank\"\u003e\u003cu\u003e@RUOligarchJets \u003c/u\u003e\u003c/a\u003e机器人可能会在俄罗斯在乌克兰的战争中充当一种开源情报。正如投资者和马斯克的粉丝使用 @ElonJet 来推测这位亿万富翁正在做什么一样，寡头的喷气式飞机的动向可能会实时揭示俄罗斯境内正在发生的事情的细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-02T10:25:18Z",
+  "Author": "wanwan"
+}

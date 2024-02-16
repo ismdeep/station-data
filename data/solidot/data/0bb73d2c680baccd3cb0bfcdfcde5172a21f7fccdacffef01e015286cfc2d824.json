@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "教父恶意程序不攻击俄语用户",
+  "Link": "https://www.solidot.org/story?sid=73730",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Group-IB 的研究人员报告，名为教父（Godfather）的 Android 银行木马正将 16 个国家的银行和加密货币应用用户作为攻击目标，涵盖美国、土耳其、西班牙、加拿大、德国、法国和英国的 215 家国际银行、94 个加密货币钱包和 110 个加密货币交易平台。研究人员报告，教父的一项有意思功能是不会攻击俄语用户或前苏联国家用户的语言，其中包括阿塞拜疆语、亚美尼亚语、白俄语、哈萨克语、吉尔吉斯语、摩尔多瓦语、乌兹别克语或塔吉克语。这可能表明教父的作者是俄语开发者。教父被认为是 Anubis 银行木马的新版本，两者共享了代码库。黑客在窃取用户的凭证和绕过二因素认证之后会将受害者银行账户和加密钱包内的资金全部转掉。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2022/12/22/godfather_banking_trojan/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-22T09:39:54Z",
+  "Author": "Wilson"
+}

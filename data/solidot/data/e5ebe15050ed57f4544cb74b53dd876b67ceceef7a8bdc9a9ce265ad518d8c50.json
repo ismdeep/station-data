@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "科学家利用光缆和光子芯片实现 1.84 Petabit/s 传输率",
+  "Link": "https://www.solidot.org/story?sid=73143",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t哥本哈根丹麦科技大学的科学家利用单根光缆和单个光子芯片\u003ca href=\"https://www.tomshardware.com/news/record-184-petabit-per-second-data-transfers-achieved-using-photonic-chip-and-fiber-optic-cable\"\u003e\u003cu\u003e实现了\u003c/u\u003e\u003c/a\u003e 1.84 petabit/s 数据传输率。这一壮举是在 7.9 公里距离上完成的。相比较下，全球网民每天使用的平均带宽为 1 petabit/s。随着数据使用量的增加，对带宽的需求也日益高涨。在标准光缆上使用紧凑单芯片实现 1.84 petabits/s 传输率的方案将会非常有吸引力。在实验中，数据流被分成 37 条，光子芯片将激光分成许多频率，为 37 条光纤数据流编码光数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-24T02:17:11Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔进入笔记本独显市场",
+  "Link": "https://www.solidot.org/story?sid=66006",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔\u003ca href=\"https://arstechnica.com/gadgets/2020/11/intel-enters-the-laptop-discrete-gpu-market-with-xe-max/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e入门级笔记本独显产品 Xe Max，在测试中它打败了英伟达的入门级产品 MX 350。这款产品将通过宏碁的 Swift 3x 笔记本电脑、华硕的 VivoBook Flip TP470 和戴尔的 Inspiron 15 7000 2-in-1 提供给客户。这不是英特尔第一次提供独显产品，它此前曾发布过多款独显，包括 i740、GMA 900、GMA 3000、Iris Pro Graphics 等等。英特尔称它的独显 Xe Max 能够与 Tiger Lake 使用的集显 Iris Xe 协同使用，这并非 AMD 或英伟达的显卡交火，而是将工作负荷分配到不同的 GPU 上处理。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-05T06:16:15Z",
+  "Author": "WinterIsComing"
+}

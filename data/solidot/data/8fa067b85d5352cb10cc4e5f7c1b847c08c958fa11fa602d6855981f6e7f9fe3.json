@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔 Arc GPU DX 9 驱动使用了开源代码 DXVK",
+  "Link": "https://www.solidot.org/story?sid=73594",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔 Arc GPU 独显在 DX 9 游戏下的性能相当差，它最近对 Arc 的 DX 9 驱动进行了大更新，结果发现新 DX 9 驱动使用了开源代码 DXVK，而英特尔的官方博客根本没有提到 DXVK，只有查看 readme 文件才发现是 DXVK。DXVK 是 Steam Play Proton 的一部分，而 Proton 是 Windows 兼容层项目 Wine 的分支，它能将 Direct3D 9、Direct3D 10 和 Direct3D 11 翻译到 Vulkan，它有 Linux 的原生实现，也支持 Windows。英特尔使用 DXVK 并不太意外，英伟达也在 RTX Remix 中使用了 DXVK。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://downloadmirror.intel.com/761751/readme.txt\u003cbr/\u003e\nhttps://www.gamingonlinux.com/2022/12/intel-using-dxvk-part-of-steam-proton-for-their-windows-arc-gpu-dx-9-drivers/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-08T06:56:12Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Raspberry Pi 基金会开源其面向儿童的代码编辑器",
+  "Link": "https://www.solidot.org/story?sid=75486",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRaspberry Pi 基金会开源了其面向儿童的在线代码编辑器。源代码托管在 GitHub 上。它的代码编辑器旨在帮助 7 岁以及以上儿童学习编程，通过将代码开源，它可以被重新利用和贡献代码。编辑器允许直接在浏览器上运行代码，不需要任何设置；如果登陆了 Raspberry Pi 账号，写的代码将会自动保存；未登陆的情况下代码会在会话中保存，刷新或关闭标签页不会导致代码丢失；用户可选择将代码下载到计算机上。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.raspberrypi.org/blog/code-editor-open-source/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-11T15:14:39Z",
+  "Author": "Wilson"
+}

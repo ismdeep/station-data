@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "旧电视导致英国村庄断网 18 个月",
+  "Link": "https://www.solidot.org/story?sid=65617",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去 18 个月，英国波厄斯郡的 Aberhosan 村每天早晨 7 点宽带信号就会丢失。工程师最终发现\u003ca href=\"https://www.bbc.com/news/uk-wales-54239180\" target=\"_blank\"\u003e罪魁祸首是一台旧电视机\u003c/a\u003e。感到万分窘迫的屋主立即承诺不会再打开那台电视机。现在该村有了稳定的宽带信号。不愿意披露身份的屋主每天早晨 7 点会打开那台二手电视机，电视机发射出的电子信号会干扰宽带信号。工程师在替换线缆但未能解决问题之后开始使用光谱分析仪寻找问题根源。他们发现干扰信号每天早晨 7 点会准时出现。电视机发射出的 single high-level impulse noise (SHINE) 会对其它设备造成电子干扰。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-22T12:37:05Z",
+  "Author": "WinterIsComing"
+}

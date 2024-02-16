@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国欧盟正式指责俄罗斯破坏卫星网络",
+  "Link": "https://www.solidot.org/story?sid=71499",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国欧盟周二\u003ca href=\"https://arstechnica.com/information-technology/2022/05/us-and-its-allies-say-russia-waged-cyberattack-that-took-out-satellite-network/\" target=\"_blank\"\u003e\u003cu\u003e正式指责俄罗斯需要为今年二月针对卫星网络的攻击负责\u003c/u\u003e\u003c/a\u003e，这次攻击瘫痪了乌克兰及其邻国的卫星网络，破坏了通信和一个风力发电场。2 月 24 日在俄罗斯攻击乌克兰前一小时，卫星通信公司 Viasat 位于欧洲和乌克兰的数千卫星终端遭到攻击，攻击者\u003ca href=\"https://www.solidot.org/story?sid=71147\"\u003e\u003cu\u003e利用了\u003c/u\u003e\u003c/a\u003e VPN 访问了该公司的 KA-SAT 卫星网络，通过搜索其内网找到了管理和运营的特定网络，同一时间向用户的调制解调器发送破坏指令覆写 Flash 存储器。攻击者使用的恶意程序被命名为 AcidRain，安全研究人员发现它与俄罗斯的 VPNFilter 的一个擦除器模块 dstr 存在 55% 的代码相似度。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-11T09:59:45Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Folding@home 加入新冠治疗方法研究",
+  "Link": "https://www.solidot.org/story?sid=63697",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t分布式计算项目 Folding@home \u003ca href=\"https://foldingathome.org/2020/02/27/foldinghome-takes-up-the-fight-against-covid-19-2019-ncov/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e加入新冠病毒 2019-nCoV 研究以帮助研究人员开发出治疗方法。Folding@home \u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/3/436581.shtm\"\u003e\u003cu\u003e指出\u003c/u\u003e\u003c/a\u003e：2019-nCoV 是 SARS 冠状病毒（SARS-CoV）的“近亲”，并且以类似的方式起作用。对于两种冠状病毒，当病毒表面的蛋白质与肺细胞上的受体蛋白质结合时，肺部感染就发生了。这种病毒蛋白称为刺突蛋白。由于蛋白质不会停滞，会摆动，折叠和以多种形状展开呈现，所以我们不仅需要研究病毒刺突蛋白的一种形状，还需要研究该蛋白摆动、折叠成其他形状的所有方式，以便更好地了解其与 ACE2 受体是如何相互作用的，从而可以开发出治疗抗体。了解这些信息，需要我们对 2019-nCoV 峰值蛋白的结构进行建模。我们需要构建可以实现此目标的计算模型，但它需要大量的计算能力。志愿者可以\u003ca href=\"https://foldingathome.org/start-folding/\" target=\"_blank\"\u003e\u003cu\u003e下载 Folding@home 软件\u003c/u\u003e\u003c/a\u003e，利用闲置算力展开研究。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-04T05:29:24Z",
+  "Author": "WinterIsComing"
+}

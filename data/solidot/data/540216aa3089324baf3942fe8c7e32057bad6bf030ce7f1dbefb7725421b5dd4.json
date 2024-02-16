@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英国网络安全机构督促开发者淘汰 Python 2",
+  "Link": "https://www.solidot.org/story?sid=61843",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython 2.x 即将终止支持，英国国家网络安全中心（NCSC）督促开发者\u003ca href=\"https://www.ncsc.gov.uk/blog-post/time-to-shed-python-2\" target=\"_blank\"\u003e\u003cu\u003e尽快淘汰 Python 2.x\u003c/u\u003e\u003c/a\u003e 迁移到 Python 3.x。Python 2.x 将于 2020 年 1 月 1 日终止支持，Python 核心开发者之后不再提供 bug 修正和安全更新。NCSC 警告如果继续使用 Python 2.x 开发的模块，将会\u003ca href=\"https://www.zdnet.com/article/uk-cybersecurity-agency-warns-devs-to-drop-python-2-due-to-looming-eol-security-risks/\" target=\"_blank\"\u003e\u003cu\u003e面临安全风险\u003c/u\u003e\u003c/a\u003e，因为漏洞总会出现，而新的漏洞不会再有人修正。NCSC 称，如果你维护了一个其他人依赖的库，你可能会阻止其他人更新到 Python 3。如果你无法将代码升级到 Python 3，一个选择是付费给商业公司继续支持 Python 2。NCSC 以勒索软件 WannaCry 举例说明使用不再支持的软件会发生什么。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-25T14:33:45Z",
+  "Author": "wenfeixiang"
+}

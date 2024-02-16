@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VMware 修补了一个危险等级 9.8/10 高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=73209",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVMware 修补了一个影响其 VMware Cloud Foundation 和 NSX Manager  产品的高危漏洞，该漏洞允许未经授权的黑客以最高的系统权限执行恶意代码。该漏洞编号为 CVE-2021-39144，危险等级 9.8/10，存在于 Cloud Foundation 个 NSX Manager 依赖的 XStream 开源库中，因为危险是如此之高，VMware 不同寻常的为不再支持的版本发布了补丁。该漏洞是由  Source Incite 的安全研究员  Sina Kheirkhah 和 Steven Seeley 发现的，他们同时发布了漏洞利用的 POC 代码。\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\n\u003ccenter\u003e\n\u003cbr/\u003e\n\u003c/center\u003e\n\u003cp\u003e\u003c/p\u003e\nhttps://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-29T10:04:01Z",
+  "Author": "WinterIsComing"
+}

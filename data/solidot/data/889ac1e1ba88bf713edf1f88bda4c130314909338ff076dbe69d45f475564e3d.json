@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome Web Store 将关闭支付系统",
+  "Link": "https://www.solidot.org/story?sid=65605",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t使用 Google 的服务就要做好有一天突然遭到关闭的心理准备。Google \u003ca href=\"https://developer.chrome.com/webstore/cws-payments-deprecation\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它的 Chrome Web Store 支付系统将在未来几个月内关闭，使用该支付系统的扩展需要迁移到其它支付方法。从 9 月 21 日起，开发者将无法创建新的 Chrome 付费扩展和应用内购买物品；12 月 1 日起关闭免费试用；2021 年 2 月 1 日起，现有的可购买物品和应用内购买将无法通过  Chrome Web Store 支付。Google 表示无法向扩展开发者提供批量导出现有用户授权的选项，所以开发者需要用户帮忙完成迁移。但这听起来完全不现实。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-22T00:45:21Z",
+  "Author": "WinterIsComing"
+}

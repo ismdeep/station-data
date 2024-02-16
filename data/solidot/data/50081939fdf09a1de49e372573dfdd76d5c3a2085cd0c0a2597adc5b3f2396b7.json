@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Kali Linux 2022.3 发布",
+  "Link": "https://www.solidot.org/story?sid=72423",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t用于渗透测试、安全审计和网络安全研究的发行版 Kali Linux 释出了 \u003ca href=\"https://www.kali.org/get-kali/\"\u003e\u003cu\u003e2022.3\u003c/u\u003e\u003c/a\u003e。主要新变化\u003ca href=\"https://www.bleepingcomputer.com/news/security/kali-linux-20223-adds-5-new-tools-updates-linux-kernel-and-more/\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e：改进虚拟机支持；新的网络分析工具 \u003ca href=\"https://www.kali.org/tools/bruteshark/\" rel=\"nofollow noopener\"\u003eBruteShark\u003c/a\u003e，开源应用漏洞关联和安全协调工具 \u003ca href=\"https://www.kali.org/tools/defectdojo/\" rel=\"nofollow noopener\"\u003eDefectDojo\u003c/a\u003e，漏洞利用框架 \u003ca href=\"https://www.kali.org/tools/phpsploit/\" rel=\"nofollow noopener\"\u003ephpsploit\u003c/a\u003e，针对 Lync/S4B/OWA/O365 的密码喷射攻击工具\u003ca href=\"https://www.kali.org/tools/sprayingtoolkit/\" rel=\"nofollow noopener\"\u003eSprayingToolkit\u003c/a\u003e，\u003ca href=\"https://www.kali.org/tools/shellfire/\" rel=\"nofollow noopener\"\u003eshellfire\u003c/a\u003e；Linux Kernel 5.18.5；改进  ARM 支持；等等。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-10T15:36:28Z",
+  "Author": "WinterIsComing"
+}

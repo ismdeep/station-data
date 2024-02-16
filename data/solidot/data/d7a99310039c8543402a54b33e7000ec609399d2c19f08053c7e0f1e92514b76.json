@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Python 是最流行的编程语言",
+  "Link": "https://www.solidot.org/story?sid=69181",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTIOBE Index \u003ca href=\"https://www.tiobe.com/tiobe-index/\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，Python 是今天最流行的编程语言，Java 和 C 统治编程语言的时代结束了。Python 作者 Guido van Rossum \u003ca href=\"https://developers.slashdot.org/story/21/10/09/0029238/beating-c-and-java-python-becomes-the-1-most-popular-programming-language-says-tiobe\"\u003e\u003cu\u003e称不知道如何回答合适\u003c/u\u003e\u003c/a\u003e，表示深感荣幸，感谢社区让 Python 如此成功。Python 的流行部分是因为数学科学和机器学习软件库如 NumPy、Pandas、Google 的 TensorFlow 和 Facebook 的 PyTorch 的兴起。荷兰软件质量保证公司 Tiobe 跟踪了编程语言的流行度长达二十年，它侧重于企业级语言，根据语言相关的搜索查询等因素进行排名，多年来 Java 和 C 一直排在最前面。但紧跟在后的 Python 超过了它们。排在前十的语言包括：Python，C，Java，C++，C#，Visual Basic，JavaScript，SQL，PHP 和 Assemblyy Language。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-11T04:25:56Z",
+  "Author": "WinterIsComing"
+}

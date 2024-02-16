@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 为什么能成功？",
+  "Link": "https://www.solidot.org/story?sid=68760",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 在诞生三十年之后已经无处不在：几乎所有大型网站都运行在 Linux 上；云服务最流行的系统是 Linux——即使是在微软的 Azure 云服务上最受欢迎的操作系统也是 Linux；所有 Top 500 超算都运行 Linux；Android 的流行让 Linux 成为最受欢迎的终端操作系统。但\u003ca href=\"https://news.slashdot.org/story/21/08/28/0340215/torvalds-gplv2-a-big-part-of-why-linux-spread-companies-getting-involved-hugely-important\" target=\"_blank\"\u003e\u003cu\u003e为什么 Linux 能够成功\u003c/u\u003e\u003c/a\u003e？Linux 作者 Linus Torvalds 认为 1992 年选择 GPLv2 许可证这一决定非常重要，他相信这是 Linux 广泛采用的一大原因，不是每个人都喜欢 GPLv2，他本人与 FSF 有不同观点，但他认为 GPLv2 起了很大作用，不应该忽视许可证问题。另一个重要原因是企业的参与，Linux 从诞生之初大企业就一直对其有兴趣，虽然部分开源社区对商业参与相当反感。Torvalds 还提到 Linux 曾是他的工作名，他一开始没有选择 Linux 作为新系统的名字是因为这会让人觉得太自大，可能就不会认真对待，因此挑选了名字 Freax，代表 Free Unix。但首位 Linux 管理员 Ari Lemmk 认为这个名字太蠢，因此选择 Linux 这个名字作为  Torvalds 的个人项目使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-31T14:18:53Z",
+  "Author": "WinterIsComing"
+}

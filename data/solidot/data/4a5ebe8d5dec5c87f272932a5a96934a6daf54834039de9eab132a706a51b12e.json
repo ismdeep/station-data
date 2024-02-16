@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 项目宣布改变版本号命名方案",
+  "Link": "https://www.solidot.org/story?sid=65578",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNOME 桌面环境项目\u003ca href=\"https://lwn.net/Articles/831746/#Comments\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e改变版本号\u003ca href=\"https://discourse.gnome.org/t/new-gnome-versioning-scheme/4235\"\u003e\u003cu\u003e命名方案\u003c/u\u003e\u003c/a\u003e。在发布了 GNOME 3.38 之后，原计划在 2021 年 3 月释出的下个版本 GNOME 3.40 将重命名为 GNOME 40，其开发周期将包含三个阶段：40.alpha，40.beta 和 40.rc。在第一个稳定版 GNOME 40.0 发布之后，随后的 bug 修正版本将在小数点后加 1，如 40.1、40.2、 40.3...下一个版本则是 GNOME 41。为什么要改变版本号？开发者表示版本数字太大了手指脚趾都数不过来了。主要原因是在可预见的未来开发者不会像 GNOME 2 到 GNOME 3那样改变核心的技术，因此大的版本号也就不会随之增加。所以开发者决定将 3.40 直接改名为 GNOME 40，而如果改名为 GNOME 4.0 则可能会带来意想不到的暗示，好像新旧版本之间发生了巨大变化。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T06:23:11Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "算法对戴口罩人脸的识别究竟有多好？",
+  "Link": "https://www.solidot.org/story?sid=64280",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t新冠疫情普及了佩戴口罩，增加了算法精确识别人脸的难度。中国科学报 3 月\u003ca href=\"https://www.solidot.org/story?sid=63799\"\u003e\u003cu\u003e报道称\u003c/u\u003e\u003c/a\u003e，为保障全国复工复产，以 BAT、商汤科技、云从科技等为代表企业开发出诸多戴口罩人脸识别产品，近日这些产品陆续投入使用。以前的人脸识别主要是针对全脸进行扫描，疫情暴发后，研发人员考虑了戴口罩的情况，加强了对眼睛、眉毛等重点区域的识别。但根据《连线》的\u003ca href=\"https://arstechnica.com/tech-policy/2020/05/how-well-can-algorithms-recognize-your-masked-face/\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，其有效性参差不齐。一名北京居民说，她不需要摘下口罩就能用支付宝识别人脸，很方便；但住在北京的  Gartner 分析师 Daniel Sun 说，在使用人脸识别支付时他必须远离人群摘下口罩。他认为 Covid-19 不会减少人脸识别算法的使用。提供人脸识别技术的日本电气公司 NEC 对佩戴口罩的人脸识别准确性比较谨慎，表示开发算法的实验室会测试佩戴口罩的人脸识别，因为在流感季节亚洲地区佩戴口罩十分常见。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-06T07:43:46Z",
+  "Author": "WinterIsComing"
+}

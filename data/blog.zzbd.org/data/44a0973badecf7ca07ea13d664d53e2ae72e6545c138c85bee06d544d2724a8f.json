@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "twitter tools 小手术",
+  "Link": "https://blog.zzbd.org/2010/05/02/twitter-tools/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e在别人博客里看见的一个小插件，顺手就牵过来了。最近有了它的版本更新了，于是之前的小改动也随之失效。其实很简单，就是觉得那个\u003ccode\u003ePowered by Twitter Tools\u003c/code\u003e太晃眼，同时也为了去掉链接，我可不想把\u003ccode\u003ealexking.org/projects/wordpress\u003c/code\u003e永远挂在首页。。。\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e编辑\u003ccode\u003etwitter-tools/twitter-tools.php\u003c/code\u003e 把\u003c/p\u003e\u003cblockquote\u003e\u003cp\u003e$output .= ‘\u003c/p\u003e\u003cp class=\"aktt_credit\"\u003e‘.’Powered by \u0026lt;a href=”\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://alexking.org/projects/wordpress\u0026gt;Twitter\"\u003ehttp://alexking.org/projects/wordpress\u0026gt;Twitter\u003c/a\u003e Tools‘.’\u003c/p\u003e‘;\u003cp\u003e\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e中的红色部分修改为\u003c/p\u003e\u003cblockquote\u003e\u003cp\u003eThanks to \u003cb\u003eTwitter Tools\u003c/b\u003e!\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e为了表示尊敬，字体用的是官网的背景色，大号字体带加粗。效果就是你所看到的。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-05-02T08:45:20Z",
+  "Author": "J. F"
+}

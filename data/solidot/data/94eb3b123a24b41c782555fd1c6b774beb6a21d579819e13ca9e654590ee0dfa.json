@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客组织窃取杀毒软件日志观察它的恶意程序有没有检测出",
+  "Link": "https://www.solidot.org/story?sid=64472",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 ESET 的研究人员披露了俄罗斯国家支持黑客组织 Turla \u003ca href=\"https://www.zdnet.com/article/turla-hacker-group-steals-antivirus-logs-to-see-if-its-malware-was-detected/\" target=\"_blank\"\u003e\u003cu\u003e发动的最新攻击\u003c/u\u003e\u003c/a\u003e。攻击发生在今年 1 月，三个目标分别是国家议会和外交部，黑客部署了新版的 ComRAT 恶意程序。旧版的 ComRAT 曾在 2008 年用于从五角大楼网络窃取数据。ComRAT 的最新版本是 v4，研究人员观察到了 ComRAT v4 的新变种包含了两项新功能：收集杀毒软件的日志和使用 Gmail 收件箱控制恶意程序。安全研究人员认为，黑客收集杀毒软件日志是为了更好的理解对其恶意程序的检测。如果程序被检测出来，他们可以进行调整以躲避检测。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-26T09:58:14Z",
+  "Author": "WinterIsComing"
+}

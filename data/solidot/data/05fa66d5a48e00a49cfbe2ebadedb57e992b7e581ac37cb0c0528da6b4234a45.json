@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "白俄试图限制互联网访问，但失败了",
+  "Link": "https://www.solidot.org/story?sid=65371",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本月初总统选举期间以及之后发生的大规模民众抗议，白俄曾尝试关闭互联网，限制流行社交平台和应用的访问，\u003ca href=\"https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575\"\u003e\u003cu\u003e但它的策略没有获得成功\u003c/u\u003e\u003c/a\u003e。IT \u003ca href=\"https://news.ycombinator.com/item?id=24290983\"\u003e\u003cu\u003e可能是\u003c/u\u003e\u003c/a\u003e白俄最重要的出口行业，彻底关闭互联网对政府而言并非是一个可行的策略。而至于限制流行社交平台，它使用的审查技术没有先进到能让大部分人无法访问。消息应用 Telegram 的创始人 Pavel Durov 在 8 月 10 日称，他们在白俄启用了反审查工具，对大部分用户恢复了 Telegram 的访问。政府对互联网的限制导致 VPN 使用大幅增长。在白俄的 Google Play 应用商店，Psiphon、X-VPN、Tachyon VPN 和 VPN Proxy Master 是 8 月 9 日下载量最高的 4 个应用。Psiphon 的 Michael Hull 称，8 月 11 日 Psiphon 在白俄的用户数突破了 175 万。白俄使用 DPI 去审查域名，而 Telegram 通过使用 IP 地址绕过了对域名的审查。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-27T12:33:53Z",
+  "Author": "WinterIsComing"
+}

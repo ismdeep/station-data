@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员利用设备 LED 电源指示灯恢复音频",
+  "Link": "https://www.solidot.org/story?sid=68591",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t以色列本古里安大学的研究人员展示了一种新的电子对话监控方法。近期发布的最新论文提出一种名为 \u003ca href=\"https://www.nassiben.com/glowworm-attack\"\u003e\u003cu\u003eGlowworm\u003c/u\u003e\u003c/a\u003e 的新型 TEMPEST（电磁环境安全防护）攻击手段，能够以被动方式捕捉扬声器与 USB 集线器上 LED 电源指示灯因电压变化引发的微小波动，进而转换为相应的音频信号。虽然 LED 信号强度的波动一般无法用肉眼察觉，但却已足够被耦合至简单光学望远镜的光电二极管所读取。扬声器工作时引发的电压变化会导致 LED 指示灯发生轻微闪烁，光电二极管能够将此转换为电信号，再通过简单的模数转换器（ADC）还原为能够直接播放的音频。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-18T11:00:48Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cloudflare 从 reCAPTCHA 迁移到 hCaptcha",
+  "Link": "https://www.solidot.org/story?sid=64069",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t云服务商 Cloudflare 的区分机器人和人类的检测程序\u003ca href=\"https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/\" target=\"_blank\"\u003e\u003cu\u003e从 Google 的 reCAPTCHA 迁移到了 hCaptcha\u003c/u\u003e\u003c/a\u003e。Cloudflare 称减少对 Google 服务的依赖可以增强隐私和更灵活的定制机器人检测程序。reCAPTCHA 最初是卡内基梅隆大学的一个研究项目，Google 在收购该项目之后将其作为免费服务提供给客户，作为交换是使用网站的访问者免费训练它的视觉识别系统。因为 Google 的商业模式是广告，收集用户数据日益引发了隐私方面的担忧。此外，Cloudflare 的客户遍及全世界，但在中国等地区，Google 的服务遭到了屏蔽。隐私和屏蔽是使用 Google 服务两大难题。Cloudflare 在评估了不同替代服务之后挑选了 \u003ca href=\"https://www.hcaptcha.com/\"\u003e\u003cu\u003ehCaptcha\u003c/u\u003e\u003c/a\u003e，原因包括它不出售个人数据，在测试中性能表现优异，在 Google 屏蔽的地区能正常工作，支持  \u003ca href=\"https://privacypass.github.io/\" target=\"_blank\"\u003ePrivacy Pass\u003c/a\u003e 减少出现的频率。 \t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-09T06:35:47Z",
+  "Author": "WinterIsComing"
+}

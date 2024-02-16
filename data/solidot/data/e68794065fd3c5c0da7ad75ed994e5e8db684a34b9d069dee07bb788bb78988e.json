@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WhatsApp 称 NSO Group 利用美国的服务器从事黑客行动",
+  "Link": "https://www.solidot.org/story?sid=64219",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWhatsApp 去年起诉了以色列间谍软件开发商 NSO Group，指控该公司的间谍软件 Pegasus 入侵了它的 1000 多名用户，其中包括知名人权律师、活动人士、记者和学者。NSO Group 则声称它的行动并没有接触美国领土。WhatsApp 在最新法庭文件中\u003ca href=\"https://tech.newstatesman.com/security/whatsapp-ties-nso-groups-hacking-operations-to-america-in-new-court-evidence\" target=\"_blank\"\u003e\u003cu\u003e反驳了这一说法\u003c/u\u003e\u003c/a\u003e，称 NSO Group 利用了美国公司的服务器从事黑客行动。WhatsApp 称，NSO Group 使用的一个 IP 地址关联了美国公司 QuadraNet Enterprises 唯一洛杉矶的一台服务器，在 NSO Group 的间谍行动中该服务器被使用了 700 多次。WhatsApp 还指出，NSO Group 使用的另一个 IP 地址关联了亚马逊在德国法兰克福的一台服务器，该公司的子域名 sip.nsogroup.com、sip.qtechnologies.com 和 sip.2access.xyz 在攻击期间托管在这台服务器上。WhatsApp 认为 NSO Group 违反了加州的计算机数据访问和欺诈法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-25T03:17:54Z",
+  "Author": "WinterIsComing"
+}

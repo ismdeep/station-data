@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "明尼苏达大学回应被内核封杀",
+  "Link": "https://www.solidot.org/story?sid=67562",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t明尼苏达大学计算机科学和工程系在获悉它的一名教员和学生因做了向 Linux 内核引入 bug 的研究而导致内核拒绝接受大学补丁之后发表\u003ca href=\"https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021\"\u003e声明\u003c/a\u003e，表示对此事非常严肃，已经立即停止了这方面的研究，将对研究方法和批准该研究方法的流程展开调查，确定合适的补救程序，防止未来发生类似的问题。他们会对外公布调查结果。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-22T02:44:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 新实验设置将大幅减少耗电",
+  "Link": "https://www.solidot.org/story?sid=64887",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChrome 的 Canary 版本\u003ca href=\"https://arstechnica.com/gadgets/2020/07/new-chrome-experiment-promises-up-to-28-more-battery-life/\" target=\"_blank\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e引入了名叫 Throttle Javascript timers in background 的新设置，新实验功能可以大幅减少耗电量，可能给笔记本电脑增加 2 个小时的运行时间。 Javascript 计时器通常被用于跟踪用户与网页之间的交互，检查如滚动位置、标签打开下的广告互动。对于后台未活动的标签计时器仍然会运行，虽然根据定义用户与后台标签之间并没有交互。如果你的浏览器打开了大量的标签，这些 JS 计时器会在没有任何意义的情况下消耗大量的电。新的 Throttle Javascript timers 设置如果启用的话，它将在后台标签不活动 5 分钟后关闭计时器，限制其每分钟唤醒一次。而在正常情况下，后台标签会每秒钟触发一次唤醒。测试显示，启用该设置能将笔记本电脑的电池续航力延长 28% 或两小时。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-08T12:58:19Z",
+  "Author": "WinterIsComing"
+}

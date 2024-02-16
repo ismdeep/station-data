@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "被解雇后员工销毁了 21 GB数据",
+  "Link": "https://www.solidot.org/story?sid=68804",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约一家信用联盟前雇员 Juliana Barile 承认，她在未经授权的情况下访问了该金融机构的计算机系统，在被解雇后\u003ca href=\"https://www.bleepingcomputer.com/news/security/fired-ny-credit-union-employee-nukes-21gb-of-data-in-revenge/\" target=\"_blank\"\u003e\u003cu\u003e销毁了超过 21 GB数据作为报复\u003c/u\u003e\u003c/a\u003e。根据法庭文件，被告身为该信用联盟的远程兼职员工，于 2021 年 5 月 19 日被解雇。尽管其他员工要求银行的 IT 支持服务商禁用 Barile 的远程访问凭证，但 IT 并没有及时进行删除。两天后即 5 月 21 日，Barile登录并持续接入约 40 分钟。在此期间，被告删除了 20000 多个文件和大约 3500 个目录，销毁了存储在银行共享驱动器上的约 21.3 GB 数据。被删除的文件包含与客户抵押贷款申请及金融机构反勒索保护软件相关的信息。\u003cbr/\u003e\n\u003cbr/\u003e\n除了删除客户及公司数据文件之外，Barile 还打开了多个机密 Word 文件，包括信用合作社董事会会议记录文件。五天后即 5 月 26 日，她还通过短信把销毁前雇主服务器上数据的情况告知一位朋友。她说，“他们没撤销我的访问权限，所以我就一通乱删。现在他们共享网络上的文件都没了。”虽然纽约信用合作社对这部分被删数据进行了部分备份，但 Barile 这一未授权入侵仍带来了超过 1 万美元的数据恢复开支。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-03T08:47:14Z",
+  "Author": "wanwan"
+}

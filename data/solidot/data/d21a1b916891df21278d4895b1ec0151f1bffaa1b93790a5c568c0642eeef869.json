@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 例行安全更新修复了一个蠕虫级漏洞",
+  "Link": "https://www.solidot.org/story?sid=64953",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软本周二\u003ca href=\"https://krebsonsecurity.com/2020/07/wormable-flaw-leads-july-microsoft-patches/\" target=\"_blank\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e例行安全更新，修复了 123 个安全漏洞，其中一个位于 Windows Server 属于高危蠕虫级漏洞，软件巨人警告可能很快它就会遭到利用，目前还没有任何有关该漏洞正被利用的报告。编号为  \u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1350\" target=\"_blank\"\u003e\u003cu\u003eCVE-2020-1350\u003c/u\u003e\u003c/a\u003e 的漏洞为远程可利用 bug，危险等级 10/10，影响绝大部分 Windows Server 版本，攻击者通过发送特质 DNS 请求就可利用该漏洞安装恶意程序。它被称为蠕虫级漏洞是因为恶意程序无需用户交互就能在存在漏洞的计算机之间传播。其它 17 个高危漏洞影响 Office、Internet Exploder、SharePoint、Visual Studio 和 .NET Framework。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-15T07:38:03Z",
+  "Author": "WinterIsComing"
+}

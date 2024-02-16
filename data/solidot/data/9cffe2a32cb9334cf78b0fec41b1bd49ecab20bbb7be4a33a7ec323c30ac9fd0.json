@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔芯片弱点允许攻击者窃取敏感信息",
+  "Link": "https://www.solidot.org/story?sid=62048",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2011 年，英特尔服务器处理器引入了一项新功能去提升性能，它允许网卡等外围设备直接访问 CPU 的最后一级缓存。被称为 DDIO（Data-Direct I/O）的功能通过避开系统主内存而增加了输入/输出带宽，减少延迟和功耗。但研究人员\u003ca href=\"https://arstechnica.com/information-technology/2019/09/weakness-in-intel-chips-lets-researchers-steal-encrypted-ssh-keystrokes/\"\u003e\u003cu\u003e警告称\u003c/u\u003e\u003c/a\u003e，攻击者能够滥用 DDIO 去获取按键或其它类型的敏感数据。最有可能的攻击场景发生在启用了 DDIO 和远程直接内存访问的数据中心和云端环境，攻击者可利用漏洞从一台服务器窃取另一台服务器和应用服务器之间交换的 SSH 保护的按键数据。研究人员将这种攻击称为 \u003ca href=\"https://www.vusec.net/projects/netcat/\"\u003e\u003cu\u003eNetCAT\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-11T07:42:56Z",
+  "Author": "wenfeixiang"
+}

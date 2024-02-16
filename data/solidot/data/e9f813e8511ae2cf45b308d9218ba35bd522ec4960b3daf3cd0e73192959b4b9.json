@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "印度发起 RISC-V 芯片应用设计比赛",
+  "Link": "https://www.solidot.org/story?sid=65284",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t印度正在努力推广国产芯片的使用，减少对外国芯片的依赖。它\u003ca href=\"https://www.theregister.com/2020/08/19/india_microprocessor_challenge_risc_v/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e RISC-V 芯片应用设计比赛，鼓励创业公司和学生使用该国自己设计的 RISC-V 芯片去构建各种应用，从物联网设备到机器人、无人机和天然气管道检漏器。比赛使用印度理工学院马德拉斯分校设计的 32 位 \u003ca href=\"https://shakti.org.in/index.html#intro\"\u003e\u003cu\u003eShakti\u003c/u\u003e\u003c/a\u003e 芯片和 64 位 \u003ca href=\"https://vegaprocessors.in/index.html\"\u003e\u003cu\u003eVEGA\u003c/u\u003e\u003c/a\u003e 芯片。两种芯片都是基于免版税的开源指令集架构 RISC-V。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-19T04:46:56Z",
+  "Author": "WinterIsComing"
+}

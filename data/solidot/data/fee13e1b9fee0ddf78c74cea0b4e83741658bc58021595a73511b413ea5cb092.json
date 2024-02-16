@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AI 从 NASA 的旧数据里识别出 50 颗新行星",
+  "Link": "https://www.solidot.org/story?sid=65372",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国华威大学的研究人员利用 AI 从 NASA 的旧数据里\u003ca href=\"https://www.cnn.com/2020/08/26/tech/ai-new-planets-confirmed-intl-hnk-scli-scn/index.html\" target=\"_blank\"\u003e\u003cu\u003e识别出 50 颗新行星\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/staa2498/5894933\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Monthly Notices of the Royal Astronomical Society》期刊上。华威大学的天文学家和计算机科学家构建了一个机器学习算法，用 NASA 开普勒太空望远镜收集的数据进行训练，一旦算法学会区分真实行星和假阳性，他们将其用于分析尚未证实的旧数据集，识别了 50 颗新的系外行星。这些行星最大的和海王星一样大，最小的比地球还要小，公转周期从 200 天到一天。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-27T12:54:16Z",
+  "Author": "WinterIsComing"
+}

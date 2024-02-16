@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "VLC 释出新版修复 13 个安全漏洞",
+  "Link": "https://www.solidot.org/story?sid=61814",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVideoLAN 项目释出了\u003ca href=\"https://www.videolan.org/security/sb-vlc308.html\" target=\"_blank\"\u003e\u003cu\u003e VLC 3.0.8\u003c/u\u003e\u003c/a\u003e，修复了 \u003ca href=\"https://www.theregister.co.uk/2019/08/21/vlc_security_patch/\" target=\"_blank\"\u003e\u003cu\u003e13 个安全漏洞\u003c/u\u003e\u003c/a\u003e。漏洞类型从拒绝访问到远程代码执行，目前还没有漏洞正被利用的报告。这些漏洞都可以通过打开一个嵌入恶意代码的媒体文件利用，部分漏洞可以通过浏览器插件利用。 13 个漏洞中有 11 个书 Semmle 安全团队的 Antonio Morales 发现的，另外两个由 Hyeon-Ju Lee 和 Xinyu Liu 发现。VLC 用户最好尽快升级。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T07:28:51Z",
+  "Author": "wenfeixiang"
+}

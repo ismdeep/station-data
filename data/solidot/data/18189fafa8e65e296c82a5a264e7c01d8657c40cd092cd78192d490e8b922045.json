@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeNAS 将发布基于 Linux 的版本",
+  "Link": "https://www.solidot.org/story?sid=64569",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeNAS 是设计用于 NAS(网络附加存储)设备的开源自由软件操作系统，该项目主要由 iXsystems 领导开发。FreeNAS 使用了 ZFS 文件系统，基于 FreeBSD 操作系统。现在 iXsystems \u003ca href=\"https://www.ixsystems.com/community/threads/starting-our-next-open-source-project-truenas-scale.85203/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了一个基于 Debian Linux 的版本叫 TrueNAS SCALE（FreeNAS 和 TrueNAS \u003ca href=\"https://www.solidot.org/story?sid=63742\" target=\"_blank\"\u003e\u003cu\u003e已经合并\u003c/u\u003e\u003c/a\u003e，统一使用 TrueNAS 这一名字）。SCALE 计划在 2021 年发布，目前还处于开发阶段，\u003ca href=\"https://github.com/truenas/\"\u003e\u003cu\u003e源代码\u003c/u\u003e\u003c/a\u003e托管在 GitHub 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-04T09:01:08Z",
+  "Author": "WinterIsComing"
+}

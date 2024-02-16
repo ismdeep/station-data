@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果据报道将从明年开始出售配备自有处理器的电脑",
+  "Link": "https://www.solidot.org/story?sid=64211",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t彭博社援引消息来源\u003ca href=\"https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e，苹果计划在 2021 年推出搭配自制 CPU 和 GPU 的 Mac 电脑。该项目的代号为 Kalamata。报道称，苹果正在为 Mac 开发三种不同的 SoC，基于为下一代 iPhone 开发的  A14 芯片。首批 Mac 芯片将包含 8 个高性能核心和 4 个节能核心，代号分别为 Firestorm 和 Icestorm。苹果计划未来增加更多核心。新的芯片将由台积电使用 5 纳米工艺制造。使用 ARM 桌面芯片的苹果产品最有可能是 MacBook Air 或 Mac mini，苹果不太可能立即为工作站电脑引入自制芯片。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-24T09:41:44Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "破解 Ken Thompson 的 BSD 密码",
+  "Link": "https://www.solidot.org/story?sid=62205",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t派生自 UNIX、有 40 多年历史的 BSD 称得上是古老的操作系统了，用今天的标准看它的安全性不会有多高。2014 年，Leah Neukirchen 从 BSD3 源码树中发现了密码文件\u003ca href=\"https://github.com/dspinellis/unix-history-repo/blob/BSD-3-Snapshot-Development/etc/passwd\" target=\"_blank\"\u003e /etc/passwd\u003c/a\u003e，包含了 UNIX/BSD 早期缔造者和开发者如 Dennis Ritchie、Ken Thompson、Brian W. Kernighan、Steve Bourne 和 Bill Joy 等人的密码。这些密码使用了 Descrypt 哈希算法加密，在 40 年前这种 \n算法是当时最先进的哈希加密算法了，但今天早已过时，Neukirchen 也很轻松的把大部分密码都破解了出来：Dennis Ritchie 的密码是 dmac（他的中间名字是 MacAlistair），Eric Schmidt 的密码是 wendy!!（他妻子的名字），Stephen Bourne 的密码就是 bourne，Kernighan 的密码是 /.,/.,。但还有几个人的密码他没能破解，其中之一是 Ken Thompson。Neukirchen 在  \u003ca href=\"https://www.tuhs.org/\"\u003eThe Unix Heritage Society\u003c/a\u003e 邮件列表上\u003ca href=\"https://inbox.vuxu.org/tuhs/87bluxpqy0.fsf@vuxu.org/\" target=\"_blank\"\u003e\u003cu\u003e发帖\u003c/u\u003e\u003c/a\u003e请求其他人帮忙破解。10 月 9 日，Nigel Williams \u003ca href=\"https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html\" target=\"_blank\"\u003e破解了这个密码\u003c/a\u003e，他使用 AMD Radeon Vega64 显卡运行 hashcat 程序耗时四天多的时间将其破解。Ken Thompson 使用了一个不同寻常的密码——p/q2-q4!，这是他喜爱的国际象棋游戏一种\u003ca href=\"https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._d4\" target=\"_blank\"\u003e\u003cu\u003e常用开局\u003c/u\u003e\u003c/a\u003e的描述记数法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-11T00:37:55Z",
+  "Author": "wenfeixiang"
+}

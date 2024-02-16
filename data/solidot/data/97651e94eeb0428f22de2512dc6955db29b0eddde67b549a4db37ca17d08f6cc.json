@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "自主机器人高速穿越未知森林",
+  "Link": "https://www.solidot.org/story?sid=69161",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苏黎世大学研究人员开发出一种方法，\u003ca href=\"https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html\" target=\"_blank\"\u003e\u003cu\u003e让四旋翼无人机利用自身的传感和计算高速穿越未知复杂环境\u003c/u\u003e\u003c/a\u003e。无人机在没有地图的情况下通常很难在未知复杂环境中找到自己的路。研究小组负责人 Davide Scaramuzza 称，要精通自主敏捷飞行，你需要在一瞬间理解环境，无论是机器人还是人类来说这都是一件困难的任务。人类的专家级飞行员需要在多年的训练后才能达到这个水平。Scaramuzza 和他的团队训练了一架无人机能保持 40 km/h 的速度飞越以前未见过的环境，如森林、建筑物、废墟和火车，而且不会撞上障碍物。无人机的神经网络通过观察模拟专家学习飞行。模拟专家是控制虚拟无人机在遍布复杂障碍的模拟环境中飞行的算法，有足够的时间和计算资源后它能找到最佳路径。此类模拟专家不能在模拟环境之外工作，但它的数据能用于训练神经网络如何根据自身的传感器数据预测最佳路线。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-08T13:24:16Z",
+  "Author": "WinterIsComing"
+}

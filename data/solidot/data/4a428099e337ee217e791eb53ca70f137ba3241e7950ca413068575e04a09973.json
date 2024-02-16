@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软安全软件加入对 Linux 和 Android 的支持",
+  "Link": "https://www.solidot.org/story?sid=64759",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软安全软件 Microsoft Defender \u003ca href=\"https://arstechnica.com/information-technology/2020/06/microsoft-is-adding-linux-android-and-firmware-protections-to-windows/#p3\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 Linux 的\u003ca href=\"https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344\" target=\"_blank\"\u003e\u003cu\u003e正式版本\u003c/u\u003e\u003c/a\u003e和 Android 的\u003ca href=\"https://www.microsoft.com/security/blog/2020/06/23/microsoft-continues-to-extend-security-for-all-with-mobile-protection-for-android/\" target=\"_blank\"\u003e\u003cu\u003e预览版本\u003c/u\u003e\u003c/a\u003e。微软去年将 Windows 自带的杀毒软件 Defender 带到了 macOS 平台，并改名为 Microsoft Defender，以表明该杀毒软件不再限于运行在 Windows 操作系统。上周 Microsoft Defender 还加入了新功能，支持\u003ca href=\"https://www.microsoft.com/security/blog/2020/06/17/uefi-scanner-brings-microsoft-defender-atp-protection-to-a-new-level/\"\u003e\u003cu\u003e扫描恶意固件\u003c/u\u003e\u003c/a\u003e。Microsoft Defender 的付费版本叫  Microsoft Defender ATP，面向企业级客户，每台机器每年 30 到 72 美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-24T06:35:51Z",
+  "Author": "WinterIsComing"
+}

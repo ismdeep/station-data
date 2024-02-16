@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "【LaTeX】Pro Git 中文版",
+  "Link": "https://liam.page/2014/04/01/LaTeX-Pro-Git-zh/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003ePro Git 是 Git Hub 员工 Scott Chacon 撰写的关于 Git 版本控制系统的书籍，其源码开源，托管在 \u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/progit/progit\"\u003eGit Hub\u003c/a\u003e 上。\u003c/p\u003e\n\u003cp\u003e我将当前（2014-4-2）的仓库克隆到本地，并将其中的 markdown 文件转换成了 LaTeX 文件，编译得到 PDF 档案。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003chr/\u003e\n\u003cp\u003e下载：\u003c/p\u003e\n\u003cp\u003e中文版：\u003ca href=\"//liam.page/attachment/attachment/Git/progit.zh.pdf\"\u003e//liam.page/attachment/attachment/Git/progit.zh.pdf\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e日文版：\u003ca href=\"//liam.page/attachment/attachment/Git/progit.ja.pdf\"\u003e//liam.page/attachment/attachment/Git/progit.ja.pdf\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e英文版：\u003ca href=\"//liam.page/attachment/attachment/Git/progit.en.pdf\"\u003e//liam.page/attachment/attachment/Git/progit.en.pdf\u003c/a\u003e\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2014-03-31T16:00:00Z",
+  "Author": "Liam Huang"
+}

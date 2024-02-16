@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DDoS 攻击 Tor 的成本分析",
+  "Link": "https://www.solidot.org/story?sid=61729",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 是最流行的匿名通信系统，它被普通公民、记者和活动人士用于绕过审查和保护隐私，也被网络罪犯用于非法活动隐藏个人身份。它也日益成为破坏、审查和攻击的目标。有许多方法可以阻止用户使用 Tor，如流量过滤、流量指纹、流量关联等等。在今天举行的 USENIX 安全会议上，美国海军研究实验室和乔治城大学的研究人员\u003ca href=\"https://www.usenix.org/system/files/sec19fall_jansen_prepub.pdf\"\u003e\u003cu\u003e发表论文（PDF）\u003c/u\u003e\u003c/a\u003e，探讨了利用 DDoS 攻击 Tor 降低其性能和可靠性的方法和成本。研究人员称，DDoS 攻击比其它阻止用户使用 Tor 的方法更为简单和有效，可以很容易租赁第三方服务器完成，无需像网络大炮那样动用整个国家的出口流量去发动攻击。研究人员称，对网桥发动洪水攻击每个月的费用只需要 1.7 万美元，攻击 TorFlow 带宽测量系统每个月只需要 2800 美元，对所有中继节点发动拥堵攻击每个月只需 1600 美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-15T07:29:04Z",
+  "Author": "WinterIsComing"
+}

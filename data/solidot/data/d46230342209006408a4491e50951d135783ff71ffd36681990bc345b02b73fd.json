@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客利用币安智能链储存恶意代码",
+  "Link": "https://www.solidot.org/story?sid=76357",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去两个月，黑客劫持了 WordPress 网站向访问者展示浏览器需要更新才能正常访问的信息，如果访客上当他们会下载恶意程序收集登陆凭证等敏感信息。恶意程序通常托管在 Web 服务上，一经发现会迅速被移除。但在这起攻击中，黑客利用了币安智能链的智能合约去储存永远无法移除的恶意代码。加密货币所使用的区块链在信息写入之后是很难移除的。\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-16T15:42:46Z",
+  "Author": "Wilson"
+}

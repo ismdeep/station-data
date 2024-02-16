@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LastPass 漏洞会向网站泄漏上一个登录凭证",
+  "Link": "https://www.solidot.org/story?sid=62103",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t密码管理器 LastPass \u003ca href=\"https://blog.lastpass.com/2019/09/lastpass-bug-reported-resolved.html/\"\u003e\u003cu\u003e修复了\u003c/u\u003e\u003c/a\u003e一个漏洞，该漏洞让一个网站\u003ca href=\"https://arstechnica.com/information-technology/2019/09/lastpass-fixes-bug-that-leaked-the-password-of-last-logged-in-account/\" target=\"_blank\"\u003e\u003cu\u003e能窃取\u003c/u\u003e\u003c/a\u003e用户使用 Chrome 或 Opera 扩展上一次登录的凭证。漏洞是 Google Project Zero 研究员 Tavis Ormandy \u003ca href=\"https://bugs.chromium.org/p/project-zero/issues/detail?id=1930\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e和报告的，与扩展产生弹出窗的方式有关。在某些情况下，网站能通过 HTML iframe 产生与 Lastpass popupfilltab.html 关联的弹出窗，泄漏最近一次访问的网站密码。LastPass 释出了 4.33.0，修复了该漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-17T07:41:55Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "引入噪声制造更好的传感器",
+  "Link": "https://www.solidot.org/story?sid=65502",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t对于绝大多数人造传感器来说，噪声是一个需要被抑制的问题。但宾夕法尼亚州立大学的研究人员发现，\u003ca href=\"https://phys.org/news/2020-09-sensor-noise.html\" target=\"_blank\"\u003e\u003cu\u003e引入恰到好处的噪声\u003c/u\u003e\u003c/a\u003e能增强普通传感器无法感知的微弱信号，使其能达到可检测出的水平。引入噪声增强微弱信号是动物世界常见的现象。举例来说，生活在浑水中的匙吻鲟（paddlefish）无法看见它们的食物水蚤，它有电感受器能接收 50 米外的水蚤发出的微弱电信号。通过增加噪声，它的电信号接收距离能增加到 75 到 100 米。另一个例子是吉丁虫（Jewel beetle），它能发现 50 英里外的森林大火，而最先进的红外传感器的探测距离只有 10 到 20 \n英里，原因是动物利用了名叫随机共振的现象。他们的\u003ca href=\"https://www.nature.com/articles/s41467-020-18195-0\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《Nature Communications》期刊上。这项研究可广泛用于低功耗应用场景的物联网。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-10T11:44:18Z",
+  "Author": "WinterIsComing"
+}

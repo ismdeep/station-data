@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Git v2.25.0 发布",
+  "Link": "https://www.solidot.org/story?sid=63287",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t分布式版本控制系统 Git \u003ca href=\"https://github.blog/2020-01-13-highlights-from-git-2-25/\"\u003e\u003cu\u003e释出了 v2.25.0\u003c/u\u003e\u003c/a\u003e。\u003ca href=\"https://www.kernel.org/pub/software/scm/git/\" target=\"_blank\"\u003e\u003cu\u003e主要新特性\u003c/u\u003e\u003c/a\u003e包括：部分克隆支持和稀疏检出。Git 库的克隆操作通常是拷贝全部数据，包括全部历史全部版本。对于大型库而言，克隆操作所需的网络传输和本地储存开销是巨大而难以承受的，甚至是不可能的，即使你只对小部分文件感兴趣。Git 的过去几个版本引入了局部克隆（Partial clones），该功能仍然属于实验性质，众多的 Git 托管服务商还没有支持该功能，如 GitHub。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-17T11:38:44Z",
+  "Author": "WinterIsComing"
+}

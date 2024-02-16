@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "单个漏洞穿透 macOS 所有安全防线",
+  "Link": "https://www.solidot.org/story?sid=72465",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 macOS 12.0.1 Monterey 中，苹果修复了一个进程注入漏洞 CVE-2021-30873。漏洞影响所有基于 macOS AppKit 的应用，\u003ca href=\"https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/\" target=\"_blank\"\u003e\u003cu\u003e研究人员利用该漏洞逃逸沙盒\u003c/u\u003e\u003c/a\u003e，root 提权，并绕过 SIP 文件系统限制。进程注入是指一个进程在另一个进程中执行代码的能力，在 Windows 中它被利用躲避反病毒扫描器的检测，在 macOS 中由于两个应用权限不同它的影响会更大。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-15T08:37:31Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "防火墙屏蔽了多个 DoH 服务器",
+  "Link": "https://www.solidot.org/story?sid=67104",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名读者 写道 \u003ci\u003e\u0026#34;DNS-over-HTTPS（DoH） 加密了 DNS 请求, 被用于规避 DNS 污染。 根据 \u003ca href=\"https://zh.greatfire.org/\"\u003egreatfire.org\u003c/a\u003e 的测试结果, \u003ca href=\"https://blocky.greatfire.org/detail/450314/https%3A%2F%2Fdns.nextdns.io\"\u003eNextDNS\u003c/a\u003e, \u003ca href=\"https://blocky.greatfire.org/detail/457686/https%3A%2F%2Fdns.quad9.net\"\u003eQuad9\u003c/a\u003e, \u003ca href=\"https://blocky.greatfire.org/detail/466103/https%3A%2F%2Fdns.adguard.com\"\u003eAdGuard\u003c/a\u003e, 在近日被屏蔽。 防火墙对这些域名没有使用 DNS 污染, 而是使用检测 SNI 和 IP 黑洞的方法。 Cloudflare 的 DoH 服务器\u003ca href=\"https://blocky.greatfire.org/detail/376061/https%3A%2F%2Fcloudflare-dns.com\"\u003e还没有\u003c/a\u003e被屏蔽。\u0026#34;\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-04T13:04:28Z",
+  "Author": "WinterIsComing"
+}

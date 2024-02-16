@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Github pages 可能遭遇中间人攻击",
+  "Link": "https://www.solidot.org/story?sid=63938",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://pages.github.com/\" target=\"_blank\"\u003e\u003cu\u003eGithub pages\u003c/u\u003e\u003c/a\u003e 可能遭遇中间人攻击。中国 IP 访问会显示一个无效的证书，域名所有者使用了一个腾讯的邮箱“346608453@qq.com”，Github 显然不可能会用腾讯邮箱。使用境外 IP 访问则返回了 DigiCert 签发的有效证书，使用的名字都是 GitHub。目前不清楚中间人攻击范围有多大。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-26T08:58:31Z",
+  "Author": "WinterIsComing"
+}

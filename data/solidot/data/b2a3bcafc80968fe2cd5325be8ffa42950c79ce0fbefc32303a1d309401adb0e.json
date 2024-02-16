@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软 Linux 发行版 CBL-Mariner 发布 2.0 版本",
+  "Link": "https://www.solidot.org/story?sid=71500",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软有自己的 Linux 发行版 CBL-Mariner，去年\u003ca href=\"https://www.solidot.org/story?sid=68310\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 1.0 版本，本周发布了\u003ca href=\"https://github.com/microsoft/CBL-Mariner/releases/tag/2.0.20220426-2.0\"\u003e\u003cu\u003e 2.0 版本\u003c/u\u003e\u003c/a\u003e，源代码公布在 Github 上。CBL-Mariner 不是桌面 Linux 而是服务器端 Linux，它在微软内部被用于云基础设施以及边缘计算产品和服务。它提供了一组云和边缘服务所需的通用软件包集，可以很容易根据需要引入额外的软件包。它是一个轻量级的发行版，可作为容器或容器主机使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-11T11:12:58Z",
+  "Author": "WinterIsComing"
+}

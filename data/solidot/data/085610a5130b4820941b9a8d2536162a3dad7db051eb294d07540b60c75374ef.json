@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Webmin 被植入后门长达一年多时间",
+  "Link": "https://www.solidot.org/story?sid=61817",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在最近举行的安全会议 DEFCON 上\u003ca href=\"https://www.securityweek.com/webmin-backdoored-over-year\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e Webmin 的一个安全漏洞，而在漏洞正式披露前 Webmin 的开发者并没有收到通知。漏洞主要影响 Webmin 1.882 到 1.921，如果没有修改默认设置大部分版本其实是无法被利用的，只有 Version 1.890 在默认设置下受到影响。Webmin 开发者\u003ca href=\"https://www.virtualmin.com/node/66890\"\u003e\u003cu\u003e解释说\u003c/u\u003e\u003c/a\u003e，恶意代码要利用漏洞 Webmin 需要修改设置  Webmin -\u0026gt; Webmin Configuration -\u0026gt; Authentication -\u0026gt; Password expiry policy 设为 Prompt users with expired passwords to enter a new one。默认情况下这个选项没有启用。开发者认为这是有意植入的后门，事故的调查仍然在进行之中。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-22T08:56:11Z",
+  "Author": "wenfeixiang"
+}

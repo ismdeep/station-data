@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "玩家用 Google 地图修复微软飞行模拟地图错误",
+  "Link": "https://www.solidot.org/story?sid=65405",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软飞行模拟 2020（FS2020）利用了微软的必应地图和程序化生成技术在游戏中创造出真实的地图。但必应地图的数据存在缺失，对于缺少的部分它导入了社区主导的 OpenStreetMap 地图数据。结果因为有人输错数据而在澳大利亚\u003ca href=\"https://www.solidot.org/story?sid=65326\"\u003e\u003cu\u003e创造了\u003c/u\u003e\u003c/a\u003e一座不存在的 212 层摩天大楼。FS2020 社区的玩家已经在游戏中发现了很多此类的错误，为了修正错误和填补空白玩家\u003ca href=\"https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/\" target=\"_blank\"\u003e\u003cu\u003e借鉴了\u003c/u\u003e\u003c/a\u003e微软的竞争对手、最为知名的地图服务 Google 地图。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-31T14:12:43Z",
+  "Author": "WinterIsComing"
+}

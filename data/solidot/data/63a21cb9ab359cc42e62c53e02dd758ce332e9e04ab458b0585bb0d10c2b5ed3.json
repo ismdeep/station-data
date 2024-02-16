@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.10 释出",
+  "Link": "https://www.solidot.org/story?sid=66353",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 于 2020-12-13 23:03 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=whCKhxNyKn1Arut8xUDKTwp3fWcCj_jbL5dbzkUmo45gQ@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.10。这意味着 5.11 合并窗口将在周一开启，鉴于圣诞新年假期即将来临，Linux 作者建议内核开发者们只递交已经准备就绪的补丁。Linux 5.10 是一个长期支持版本，其主要变化包括：Ext4 fast commit 支持，\u003ca href=\"https://lwn.net/Articles/826053/\"\u003e\u003cu\u003eio_uring 操作限制\u003c/u\u003e，\u003c/a\u003e支持 \u003ca href=\"https://lwn.net/Articles/834289/\" target=\"_blank\"\u003e\u003cu\u003eARM Memory Tagging Extension\u003c/u\u003e\u003c/a\u003e，新系统调用 \u003ca href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ecb8ac8b1f14\" target=\"_blank\"\u003eprocess_madvise(2)\u003c/a\u003e，\u003ca href=\"https://lwn.net/Articles/825415/\" target=\"_blank\"\u003e\u003cu\u003eSleepable BPF\u003c/u\u003e\u003c/a\u003e 等等。更多可查看 \u003ca href=\"https://kernelnewbies.org/Linux_5.10\"\u003e\u003cu\u003eKernelNewbies 5.10\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-14T04:54:27Z",
+  "Author": "WinterIsComing"
+}

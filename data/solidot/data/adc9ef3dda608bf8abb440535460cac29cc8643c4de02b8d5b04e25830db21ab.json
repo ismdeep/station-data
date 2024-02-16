@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zombieload v2 漏洞影响英特尔 Cascade Lake",
+  "Link": "https://www.solidot.org/story?sid=62586",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年 5 月，计算机科学家\u003ca href=\"https://www.solidot.org/story?sid=60611\" target=\"_blank\"\u003e\u003cu\u003e公开了\u003c/u\u003e\u003c/a\u003e英特尔处理器的新边信道攻击 ZombieLoad，攻击影响 2011 年之后发布的几乎所有英特尔处理器。现在新的 Zombieload 漏洞变种 v2 \u003ca href=\"https://www.zdnet.com/article/intels-cascade-lake-cpus-impacted-by-new-zombieload-v2-attack/\" target=\"_blank\"\u003e\u003cu\u003e能影响\u003c/u\u003e\u003c/a\u003e最近发布的英特尔处理器，其中包括 Cascade Lake。英特尔正在释出处理器的微码更新去修复最新的漏洞。Zombieload 漏洞与 之前披露的 Meltdown、Spectre 和 Foreshadow 漏洞类似，都是利用预测执行，去实现跨线程、权限边界和超线程的数据泄露。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-13T04:39:50Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chia 正在破坏硬盘供应链",
+  "Link": "https://www.solidot.org/story?sid=67897",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t创造 Chia 币的 Chia Network 总裁 Gene Hoffman 承认这种利用硬盘挖矿的加密货币\u003ca href=\"https://www.newscientist.com/article/2278696-bitcoin-rival-chia-destroyed-hard-disc-supply-chains-says-its-boss/\" target=\"_blank\"\u003e\u003cu\u003e破坏了硬盘供应链\u003c/u\u003e\u003c/a\u003e。比特币是基于所谓的工作量证明，需要执行大量无意义的计算，挖矿需要消耗惊人的电力；而 Chia 币是基于空间证明（Proof of Space），抛弃了计算改用空闲的硬盘空间。在理论上，它消耗很少的电力，但却导致了对硬盘的大量需求。目前有 1200 万 TB 的硬盘空间被用于挖掘 Chia 币。硬盘仍然需要能量生产和运行，而持续的读写被发现会大幅缩短寿命。 Hoffman 表示这个问题只影响最廉价的硬盘。他表示短期内硬盘供应会出现问题价格会上涨，但长期内随着制造商加快生产其价格会下跌。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-28T15:45:00Z",
+  "Author": "WinterIsComing"
+}

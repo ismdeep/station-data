@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软云服务三天发生了两次严重宕机事故",
+  "Link": "https://www.solidot.org/story?sid=65720",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t周一微软 Office365 云服务发生了大约 5 个小时的宕机；周四用户报告无法访问 Microsoft Exchange 服务。微软云服务三天\u003ca href=\"https://slashdot.org/story/20/10/03/2033215/microsoft-office-365-experienced-two-major-outages-within-3-days\"\u003e\u003cu\u003e发生了两次严重宕机事故\u003c/u\u003e\u003c/a\u003e，令一些人猜测微软存在 DevOps 问题。所谓 DevOps 是指缩短系统开发周期，持续交付高质量的软件代码。微软最近持续的宕机事故被认为就是推送软件更新导致的。一位不愿透露姓名的微软顶级合作伙伴高管表示，微软是一家以开发优先的公司，为什么会频繁发生开发相关的事故。“如果我们给客户造成了此类生产中断事故，我们是会被解雇的，并会在生态系统中加入到黑名单。”微软在公开声明中还为自己辩解，称没有云供应商能免于停机。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-04T11:17:32Z",
+  "Author": "WinterIsComing"
+}

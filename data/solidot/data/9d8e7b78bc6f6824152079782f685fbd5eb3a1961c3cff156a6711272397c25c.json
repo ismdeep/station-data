@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "伯克利宣布 AI 超算 Perlmutter",
+  "Link": "https://www.solidot.org/story?sid=67901",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国劳伦斯伯克利实验室的国家能源研究科学计算中心\u003ca href=\"https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e一台采用 AMD CPU 和英伟达 GPU 的新超算 Perlmutter，由 HPE 制造，使用了 6,159 个 Nvidia A100 GPU 和 1,500 个 AMD Milan CPU，双精度峰值性能  60 petaflops，基于英伟达半精度数值格式（FP64 Tensor Cores）的 AI 性能 3.8 exaflops。这台超算以 2011 年诺贝尔物理学奖得主 \u003ca href=\"https://en.wikipedia.org/wiki/Saul_Perlmutter\"\u003eSaul Perlmutter\u003c/a\u003e 的名字命名，将用于支持研究暗能量影响的  Dark Energy Spectroscopic Instrument 设备。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-29T13:49:43Z",
+  "Author": "WinterIsComing"
+}

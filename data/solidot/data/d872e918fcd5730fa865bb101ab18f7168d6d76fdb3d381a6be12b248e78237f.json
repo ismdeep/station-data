@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "机器学习可以既公平又准确",
+  "Link": "https://www.solidot.org/story?sid=69410",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡内基梅隆大学（CMU）的研究人员\u003ca href=\"https://www.cmu.edu/news/stories/archives/2021/october/machine-learning-fair-accurate.html\" target=\"_blank\"\u003e\u003cu\u003e挑战一个长期以来的假设\u003c/u\u003e\u003c/a\u003e，即在使用机器学习做公共政策决策时，要在准确性和公平性之间进行权衡。\n\n随着刑事司法、招聘、医疗保健服务和社会服务干预等领域对机器学习的使用不断增加，人们愈来愈担心此类应用会引入新的或者扩大现有的不平等，特别是针对少数族裔和经济劣势人群。为了防止此类偏见，机器学习系统的数据、标签、模型训练、评分系统等方面都进行了一些调整。基本的理论假设是这些调整让系统变得不太准确。\u003cbr/\u003e\n\u003cbr/\u003e\n卡内基梅隆的一个团队希望通过一项新的研究消除这些假设，\u003ca href=\"https://www.nature.com/articles/s42256-021-00396-x\"\u003e\u003cu\u003e研究论文\u003c/u\u003e\u003c/a\u003e发表在《Nature Machine Intelligence》上。\n\n研究人员发现，针对准确性进行优化的模型——机器学习的标准实践——可以有效地预测感兴趣的结果，但在干预建议方面表现出相当大的差异。当研究人员对旨在提高公平性的模型的输出进行调整时，他们发现基于种族、年龄或收入的差异（视情况而定）的不平等可以被消除，而且不会降低准确性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-28T09:41:02Z",
+  "Author": "wanwan"
+}

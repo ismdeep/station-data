@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 102 发布",
+  "Link": "https://www.solidot.org/story?sid=71970",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/102.0/releasenotes/\"\u003e\u003cu\u003e释出了 Firefox 102\u003c/u\u003e\u003c/a\u003e。主要新特性包括：窗口太拥挤？你现在可以在每次下载文件时禁用自动打开下载面板；在 Enhanced Tracking Protection 严格保护模式下削弱查询参数跟踪；支持 HBO Max、Funimation、Dailymotion、Tubi、Disney+ Hotstar 和 SonyLIV 等流媒体服务的画中画字幕和标题，等等。Firefox 102 是一个 ESR 版本，这意味着未来使用 Firefox 的程序和操作系统将会陆续更新到该版本，如 KaiOS 和 Thunderbird 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-29T03:27:42Z",
+  "Author": "WinterIsComing"
+}

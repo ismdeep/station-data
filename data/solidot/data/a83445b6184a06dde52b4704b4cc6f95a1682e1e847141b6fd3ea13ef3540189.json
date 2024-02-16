@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "沙特女子的 iPhone 如何帮助揭发世界各地的黑客攻击活动",
+  "Link": "https://www.solidot.org/story?sid=70708",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t沙特女权活动人士 Loujain al-Hathloul 帮助领导发起了结束对女司机禁令的运动，她以危害国家安全的理由被沙特关押了三年，2021 年 2 月释放，被禁止离境。在释放后不久她收到了 Google 的警告，称其 Gmail 邮箱成为国家支持黑客的渗透目标。她担心自己的 iPhone 也被入侵了，因此联络了加拿大多伦多大学的公民实验室（Citizen Lab）请研究人员帮忙寻找证据。在六个月的挖掘之后，实验室的研究员 Bill Marczak \u003ca href=\"https://www.reuters.com/technology/how-saudi-womans-iphone-revealed-hacking-around-world-2022-02-17/\" target=\"_blank\"\u003e\u003cu\u003e获得了惊人的发现\u003c/u\u003e\u003c/a\u003e：植入到手机的间谍软件的 bug 导致它留下了恶意图像文件的副本，间谍软件没有在窃取目标信息之后删除文件。这一发现是苹果去年 11 月对以色列公司 NSO 提起诉讼的基础。NSO 的间谍软件不需要用户点击，此类零点击恶意程序通常会在感染目标之后删除自己，因此研究人员找不到恶意程序样本进行调查。但 Marczak 和他的团队发现间谍软件出现了故障，留下了可以研究的样本。研究人员发现间谍软件通过不可见的短信向目标发送图像文件，图像文件诱骗 iPhone 允许它访问完整的内存，绕过安全防御，允许它安装间谍软件窃取用户信息。除了 NSO 外，安全研究人员还发现第二家以色列公司 QuaDream 也利用了相同 iPhone 漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-19T11:51:14Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国防承包商遭勒索软件攻击，至今未完全复工",
+  "Link": "https://www.solidot.org/story?sid=63731",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一家美国大型国防承包商在 1 月中旬\u003ca href=\"https://techcrunch.com/2020/03/05/cpi-ransomware-defense-contractor/\"\u003e\u003cu\u003e遭勒索软件攻击\u003c/u\u003e\u003c/a\u003e，至今未完全恢复。位于加州的 Communications \u0026amp; Power Industries (CPI)为雷达、导弹导引头和电子战技术提供配件，其客户包括了美国国防部及其研发机构 DARPA。事故发生在一月中旬，一位具有域管理权限的用户点击了恶意链接，触发了勒索软件对文件进行加密，数千台计算机都在同一域内，勒索软件快速扩散到每一个 CPI 办公室，包括现场备份（on-site backups）。该公司之后向攻击者支付了约 50 万美元赎金。部分包含敏感军事数据的计算机用解密密钥恢复数据，其中之一包含了与洛克希德马丁公司神盾系统相关的文件。到二月底只有四分之一的计算机恢复运行。许多计算机都重新安装了操作系统。CPI 发言人证实遭到了攻击，但拒绝提供更多信息，因此目前不清楚它感染了什么勒索软件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-06T12:28:33Z",
+  "Author": "WinterIsComing"
+}

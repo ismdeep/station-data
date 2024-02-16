@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 开发 Android 应用使用的语言迁移到 Kotlin",
+  "Link": "https://www.solidot.org/story?sid=73179",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta/Facebook \u003ca href=\"https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e它开发 Android 应用使用的语言从 Java 迁移到了 Kotlin，而 Kotlin 的代码行数突破了一千万。Kotlin 相对于 Java 的优势包括：内置为空性（nullability）处理，支持内联函数和 lambda 表达式，代码更短，能定义 DSL（Domain-specific language）。缺点是需要在很长时间内面对混合代码库，而 Kotlin 的流行度仍然远逊于 Java——Java 是世界第二大或第三大流行的语言。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-26T15:26:47Z",
+  "Author": "WinterIsComing"
+}

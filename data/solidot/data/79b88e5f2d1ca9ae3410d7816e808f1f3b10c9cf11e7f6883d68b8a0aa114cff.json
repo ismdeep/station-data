@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 11.0 发布",
+  "Link": "https://www.solidot.org/story?sid=69561",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目宣布\u003ca href=\"https://blog.torproject.org/new-release-tor-browser-11-0\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了 Tor Browser 11.0，首个基于 Firefox ESR 91 的稳定版本。除了 Firefox 91 带来的新特性如全新外观外，新版本的主要变化包括彻底淘汰 v2 onion 服务，访问 v2 onion 服务地址将会显示错误信息 Invalid Onion Site Address，v2 onion 网站需要更新升级到 v3；更新 Tor-0.4.6.8，修复了大量 bug，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-10T05:37:25Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "第一次启动  Google Chrome 会发生什么？",
+  "Link": "https://www.solidot.org/story?sid=61874",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tBrave 的 Jonathan Sampson 在 Twitter 上发表了一系列帖子，他在 Windows 机器上第一次安装了 \u003ca href=\"https://twitter.com/jonathansampson/status/1165493206441779200\"\u003e\u003cu\u003eGoogle Chrome\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://twitter.com/jonathansampson/status/1166138692509065218\" target=\"_blank\"\u003e\u003cu\u003eMicrosoft Edge (Chromium) Beta\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://twitter.com/jonathansampson/status/1165353213308129281\" target=\"_blank\"\u003e\u003cu\u003eOpera 和 Vivaldi \u003c/u\u003e\u003c/a\u003e 、\u003ca href=\"https://twitter.com/jonathansampson/status/1165377063932637184\" target=\"_blank\"\u003e\u003cu\u003eDissenter\u003c/u\u003e\u003c/a\u003e、\u003ca href=\"https://twitter.com/jonathansampson/status/1165391211999518720\"\u003e\u003cu\u003eBrave\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://twitter.com/jonathansampson/status/1165858896176660480\"\u003e\u003cu\u003eFirefox\u003c/u\u003e\u003c/a\u003e，每个浏览器在安装之后都打开几分钟，期间他会对浏览器发出的请求进行抓包，对抓包结果进行一番分析。他发现 Brave 会发出 23 个请求，访问的都是 Brave.com 域名；Firefox 会发出 26 个请求，部分与 Google 的服务有关；Edge 会发出超过 130 个请求，有微软的还有 Google、Facebook 和 Twitter 的，Edge 在首次运行之后还收集了用户系统的详细信息；Opera 发出的请求有些特别，它有 19 个请求指向了俄罗斯的 yandex.ru，还有亚马逊、ebay 和阿里巴巴，它还预加载了十多个第三方网站的 cookies，它甚至已经开始与第三方共享用户信息，许多人\u003ca href=\"https://news.ycombinator.com/item?id=20807133\"\u003e\u003cu\u003e声称\u003c/u\u003e\u003c/a\u003e这家中国公司拥有的挪威浏览器已经变成了间谍软件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-27T12:37:50Z",
+  "Author": "wenfeixiang"
+}

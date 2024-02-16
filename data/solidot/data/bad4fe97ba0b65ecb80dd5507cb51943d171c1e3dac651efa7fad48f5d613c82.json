@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布开源全局光照技术 GI-1.0",
+  "Link": "https://www.solidot.org/story?sid=73105",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD \u003ca href=\"https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e实时全局光照技术 GI-1.0，宣称相比其它全局光照实现在质量相当的情况下速度更快。GI-1.0 的\u003ca href=\"https://gpuopen.com/download/publications/GPUOpen2022_GI1_0.pdf\"\u003e\u003cu\u003e技术白皮书\u003c/u\u003e\u003c/a\u003e发表在 GPUOpen 上，将公开源代码但目前还没有发布。GI-1.0 利用了两种缓存机制，旨在为实时渲染管道提供高效的全局光照，无需任何内容预处理，仍然能提供高光照保真度。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-10-19T09:28:51Z",
+  "Author": "WinterIsComing"
+}

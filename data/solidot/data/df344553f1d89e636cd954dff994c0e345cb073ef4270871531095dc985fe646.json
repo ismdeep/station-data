@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "NSO Group 的间谍软件被用于入侵世界各地的记者和活动人士的手机",
+  "Link": "https://www.solidot.org/story?sid=68315",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t华盛顿邮报及其合作伙伴的调查\u003ca href=\"https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，以色列公司 NSO Group 的间谍软件 Pegasus 被用于入侵和尝试入侵记者、人权活动人士、企业高管以及被谋杀沙特记者 Jamal Khashoggi 未婚妻的智能手机。大赦国际和公民实验室\u003ca href=\"https://twitter.com/billmarczak/status/1416801514685796352\" target=\"_blank\"\u003e\u003cu\u003e还发现\u003c/u\u003e\u003c/a\u003e攻击者利用了一个零点击的 iMessage 漏洞利用入侵了运行 iOS 14.6 操作系统的设备安装 Pegasus。被攻击的目标手机包含在一个 5 万电话号码的名单中，这些名单集中在对公民进行监视的国家，它们都是 NSO 的客户，其中 1.5 万个号码位于墨西哥，以及中东国家和印度，法国和匈牙利也有少量号码在内。NSO 回应称这项发现是夸大其词和毫无根据的。调查发现，在 Khashoggi 被谋杀一天之后他的未婚妻 Hatice Cengiz 的手机被感染了间谍软件，他的另一位妻子 Hanan Elatr 则在其谋杀前数个月受到攻击，但不清楚攻击是否成功。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-19T02:21:38Z",
+  "Author": "WinterIsComing"
+}

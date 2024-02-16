@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 基金会成立 eBPF 基金会",
+  "Link": "https://www.solidot.org/story?sid=68538",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 基金会\u003ca href=\"https://linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e成立 \u003ca href=\"https://ebpf.io/\"\u003e\u003cu\u003eeBPF 基金会\u003c/u\u003e\u003c/a\u003e。创始成员包括 Facebook、Google、Isovalent、Microsoft 和 Netflix。eBPF 代表 extended BPF（Berkeley Packet Filter），允许开发者安全高效的将程序嵌入到任意的软件中，包括操作系统内核，它被用于实现各种基础设施用例，提供了显著的效率和性能增强，大幅降低了系统的复杂性。如 Facebook 将 eBPF 作为其数据中心的主软件定义负荷均衡器使用。eBPF 基金会将成为开源 eBPF 项目和技术的家庭，将主办主题峰会和其它合作活动推广 eBPF 生态系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-13T13:38:06Z",
+  "Author": "WinterIsComing"
+}

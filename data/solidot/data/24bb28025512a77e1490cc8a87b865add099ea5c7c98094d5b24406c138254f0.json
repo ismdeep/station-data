@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 开始测试网站隔离功能",
+  "Link": "https://www.solidot.org/story?sid=65892",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFirefox \u003ca href=\"https://www.zdnet.com/article/firefox-site-isolation-feature-enters-user-testing-expected-next-year/\" target=\"_blank\"\u003e\u003cu\u003e完成了网站隔离功能的开发\u003c/u\u003e\u003c/a\u003e，开始在 Firefox Nightly 的内部版本中启用测试。该功能预计将在明年发布的版本中提供。网站隔离是为了避免共享部分资源的网站纂改或窃取另一个网站的内容，因为共享资源也会共享进程。网站隔离消除了共享进程，确保不同网站运行在不同的进程上。Google 和 Mozilla 都各自开发了网站隔离功能，2017 年 12 月发布的 Chrome 63 已经引入了网站隔离功能，而 Mozilla 的开发\u003ca href=\"https://www.solidot.org/story?sid=57376\"\u003e\u003cu\u003e始于\u003c/u\u003e\u003c/a\u003e 2018 年 4 月的 Project Fission。网站隔离的一个代价就是内存开销增加，测量显示它增加了 10% 左右的内存使用。Mozilla 希望能将每个进程的内存占用减少到 10 MB 左右。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-23T05:55:20Z",
+  "Author": "blackhat"
+}

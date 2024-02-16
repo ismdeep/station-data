@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Backblaze 的数据显示固态硬盘可靠性强于机械硬盘",
+  "Link": "https://www.solidot.org/story?sid=72781",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t备份和云储存公司 Backblaze 过去五年的数据\u003ca href=\"https://www.backblaze.com/blog/ssd-drive-stats-mid-2022-review/\"\u003e\u003cu\u003e显示\u003c/u\u003e\u003c/a\u003e，固态硬盘(SSD)可靠性强于机械硬盘（HDD），SSD 的故障率远低于 HDD。Backblaze 对比了作为启动盘而不是存储盘的 SSD 和 HDD，除了启动外这些硬盘还被用于储存日志、临时文件、SMART 统计等数据。统计数据显示，SSD 的故障率前五年都比较平稳，但 HDD 在第五年故障率突然从前一年的 1.83 % 提高到了 3.55%，而 SSD 仍然维持在 1% 左右。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-16T06:56:47Z",
+  "Author": "WinterIsComing"
+}

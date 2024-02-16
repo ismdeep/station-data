@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GCC 放弃版权转让政策",
+  "Link": "https://www.solidot.org/story?sid=67932",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGCC 编译器项目和很多 GNU 项目一样，需要贡献者完成文书工作将版权转让给自由软件基金会（FSF）。现在 GCC 的指导委员会\u003ca href=\"https://gcc.gnu.org/pipermail/gcc/2021-June/236182.html\"\u003e\u003cu\u003e决定放宽这一要求\u003c/u\u003e\u003c/a\u003e，GCC 项目将会继续采用 GNU GPLv3 许可证，但不再要求版权转让给 FSF。这一变动与其它大型自由软件项目如 Linux 内核采取的做法保持一致。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-02T09:34:17Z",
+  "Author": "WinterIsComing"
+}

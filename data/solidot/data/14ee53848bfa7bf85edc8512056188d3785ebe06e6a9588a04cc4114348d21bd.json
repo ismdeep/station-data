@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "从简单 AI 获得新理解",
+  "Link": "https://www.solidot.org/story?sid=71258",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去两年人工智能程序的语言流畅度达到了惊人的水平。其中最优秀的程序都是基于 2017 年发明的、被称为 \u003ca href=\"https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)\"\u003e\u003cu\u003eTransformer\u003c/u\u003e\u003c/a\u003e 的架构。它以方程式列表的形式，作为程序遵循的一种蓝图。除了这个简单的数学概述之外，我们不知道 Transformer 对处理的单词做了什么。普遍的理解是它们以某种方式同时关注多个单词，从而可以立即进行“大图景”分析，但究竟是如何工作的——或者甚至这是否是准确理解 Transformer 的方式——都还不清楚。我们知道成分，但不知道配方。Anthropic 公司的研究人员\u003ca href=\"https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/\"\u003e\u003cu\u003e进行的两项研究\u003c/u\u003e\u003c/a\u003e开始从根本上弄清楚 Transformer 在处理和生成文本时在做什么。在 12 月发布的\u003ca href=\"https://transformer-circuits.pub/2021/framework/index.html\"\u003e\u003cu\u003e首篇论文\u003c/u\u003e\u003c/a\u003e中，他们着眼于架构的简化版本并充分解释了它们的功能。作者还展示了从学习基本语言模式到获得语言处理通用能力的简单 Transformer。\n\u003cbr/\u003e\n\u003cbr/\u003e\n在 3  月8 日发表的\u003ca href=\"https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html\"\u003e\u003cu\u003e第二篇论文\u003c/u\u003e\u003c/a\u003e中，研究人员表明，负责这种能力的相同组件在最复杂的 Transformer 中也发挥作用。虽然这些模型的运算在很大程度上仍难以理解，但是这些结果为理解提供了一个途径。理解Transformer 的难点在抽象性。传统程序遵循着一个可以理解的过程，如看到“绿色的”时输出“草”，而Transformer 则是将“绿色的”这个单词转换为数字，然后将其乘以某些值。这些值（也被称为参数）决定下一个单词是什么。它们在训练过程中得到微调，模型在这个过程中学会了如何产生最佳输出，但尚不清楚模型在学习的是什么。大多数机器学习程序将运算打包成模块化的成分，这些成分被称为神经元。Transformer 加入了一种额外的成分，被称为注意力头（attention head），成组的头分层排列（就像神经元一样）。但是头执行的操作和神经元完全不同。头通常被理解为允许程序记住输入的多个单词，但这种解释远非定论。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-15T09:45:07Z",
+  "Author": "wanwan"
+}

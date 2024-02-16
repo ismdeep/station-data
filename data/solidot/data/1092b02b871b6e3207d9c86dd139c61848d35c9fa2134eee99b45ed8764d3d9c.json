@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Fedora 38 释出",
+  "Link": "https://www.solidot.org/story?sid=74707",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFedora 38 正式版释出，比原定计划的早了一周。主要新特性包括：将超时关机（shutdown timeouts）从 90/120 秒减少到 15 秒，部分开发者认为太激进；启用帧指针构建，可能会导致性能略有下降，但未来的性能优化和调试将会更轻松。软件方面的更新包括：GNOME 44，默认包管理器的轻量级版本 Microdnf 被 dnf5 取代，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://fedoramagazine.org/announcing-fedora-38/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-19T06:55:43Z",
+  "Author": "Wilson"
+}

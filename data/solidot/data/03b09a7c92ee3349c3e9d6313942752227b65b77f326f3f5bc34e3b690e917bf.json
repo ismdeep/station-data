@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DarkHotel 利用深信服 VPN 漏洞入侵政府机构",
+  "Link": "https://www.solidot.org/story?sid=64052",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t奇虎 360 安全博客\u003ca href=\"https://blogs.360.cn/post/APT_Darkhotel_attacks_during_coronavirus_pandemic.html\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，政府支持的黑客组织 DarkHotel 利用深信服 SSL VPN 服务器\u003ca href=\"https://www.solidot.org/story?sid=64041\" target=\"_blank\"\u003e\u003cu\u003e 0day 漏洞\u003c/u\u003e\u003c/a\u003e入侵了中国政府机构。有 200 多台深信服服务器遭到入侵，一百多台位于政府机构的网络内。攻击者入侵服务器之后，劫持了用户的更新程序，用嵌入后面的版本替换了合法版本。后门版本的 SangforUD.exe 使用了伪装成深信服的签名。位于意大利、英国、巴基斯坦、吉尔吉斯斯坦、印尼、泰国、阿联酋、亚美尼亚、朝鲜等地的中国海外机构遭到攻击。四月初，攻击扩大到了北京和上海的政府机构。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-07T14:33:41Z",
+  "Author": "WinterIsComing"
+}

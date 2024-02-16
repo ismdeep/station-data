@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "MP3tag帮助文档翻译",
+  "Link": "https://blog.zzbd.org/2010/02/24/mp3tag/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e\u003ccode\u003e[Mp3tag](http://www.mp3tag.de/en/)\u003c/code\u003e一个很优秀的开源ID3工具。功能嘛，你可以自己百度一下，基本上搜到的解释都是一个版本 。官方版本内含了中文包（但也是部分），用起来很方便。\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e这个东东编辑歌曲ID3标签不在话下，而且绝对比直接编辑属性来的轻松。但这只是冰山一角，还有许多实用功能，比如标签，文件名，播放列表……都可以很方便的批量导入导出。想用到他们就必须学习帮助文档了，文档是一套网页，英文的，看起来费劲，而且我网上搜不到中文的详细使用。于是萌生了翻译的想法，其实就是修改HTML文件。我大概看了下，文作者档也不是一板一眼，有些地方还会幽上一默。比如\u003c/p\u003e\u003cblockquote\u003e\u003cp\u003eThis document gives a short introduction to the converters in Mp3tag. Please also try them, Mp3tag has an unlimited undo feature in case something is not like you would have expected it :-)\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e目前只完成四个网页，有兴趣的可以加入，工作量还是蛮大的。^-^\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-02-24T07:04:41Z",
+  "Author": "J. F"
+}

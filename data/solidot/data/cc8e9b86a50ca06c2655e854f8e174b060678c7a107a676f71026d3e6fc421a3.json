@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GoldenSpy 之前有 GoldenHelper",
+  "Link": "https://www.solidot.org/story?sid=64997",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t上月底，安全公司 Trustwave \u003ca href=\"https://science.solidot.org/story?sid=64772\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e藏身于航天信息股份有限公司智慧税务软件中的恶意后门 GoldenSpy。在这一报道公布之后，智慧税务软件下载了一个卸载程序，抹掉了所有 GoldenSpy 存在证据。Trustwave 在后续调查中发现了另一个与金税发票软件相关的恶意程序，它也与航天信息有关联。虽然功能上与 GoldenSpy 差别很大，但两者有很多相似之处。研究人员根据其指令控制域名 help.tax-helper.ltd 将其命名为 \u003ca href=\"https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/goldenspy-chapter-4-goldenhelper-malware-embedded-in-official-golden-tax-software/\"\u003e\u003cu\u003eGoldenHelper\u003c/u\u003e\u003c/a\u003e。GoldenHelper 活跃时间是在 2018 年 1 月到 2019 年 7 月，位于 GoldenSpy 之前，利用了多种技巧隐藏其恶意行为和逃避检测，包括随机生成文件名，用假的文件扩展如 .gif、.jpg 和.zip 下载可执行文件，随机文件系统位置和时间戳，使用基于 IP 的域名生成算法去改变指令服务器位置，等等。GoldenHelper 使用了浙江诺诺网络科技有限公司的证书签名，该公司是航天信息的子公司。包含 GoldenHelper 的税务软件由\u003ca href=\"http://www.baiwang.com/mainsite-new/about\" target=\"_blank\"\u003e\u003cu\u003e百望云\u003c/u\u003e\u003c/a\u003e开发。百望云和航天信息是金税发票系统的两家官方供应商。Trustwave 猜测，GoldenHelper突然终止活动的原因可能是很多安全软件将其样本识别为恶意程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-20T13:56:42Z",
+  "Author": "WinterIsComing"
+}

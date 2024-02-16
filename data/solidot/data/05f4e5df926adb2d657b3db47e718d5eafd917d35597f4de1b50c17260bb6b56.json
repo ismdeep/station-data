@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Blender 3.1 发布",
+  "Link": "https://www.solidot.org/story?sid=70902",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t仅仅相隔三个月时间，Blender 基金会宣布释出 \u003ca href=\"https://www.blender.org/download/releases/3-1/\"\u003e\u003cu\u003eBlender 3.1\u003c/u\u003e\u003c/a\u003e，新版包含了大量的改进和性能提升，其中包括对 Apple Metal（硬件加速 3D 图形和计算着色器 API） 的支持，相比使用 Apple M1 CPU 的实时渲染，使用 Apple Metal 的渲染时间减少了一半；等等，详细可浏览发布页面。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-10T05:51:31Z",
+  "Author": "WinterIsComing"
+}

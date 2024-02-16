@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 建造世界最快 AI 超算",
+  "Link": "https://www.solidot.org/story?sid=70491",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFacebook 母公司 Meta \u003ca href=\"https://ai.facebook.com/blog/ai-rsc\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它正在\u003ca href=\"https://spectrum.ieee.org/meta-ai-supercomputer\"\u003e\u003cu\u003e建造\u003c/u\u003e\u003c/a\u003e的世界最快 AI 超算 AI Research SuperCluster (RSC)。Meta 研究人员表示，新超算将能处理有数万亿参数的神经网络，相比下 OpenAI 的自然语言处理神经网络 GPT-3 有 1750 亿个参数。Meta AI 研究人员目前使用的 AI 超算有 22,000 个 Nvidia V100 Tensor Core GPU，新超算使用了 Nvidia 最新的 A100，目前包含 6,080 个 GPU，缓存容量 46 PB，主闪存 175 PB。在计算机视觉任务上新超算的性能比旧系统提高 20 倍，在大型自然语言处理上性能提升 3 倍。新超算在今年年中完成建造时将使用 16,000 个 GPU，储存容量达到 1 EB，能每秒处理 16 Tbps 的数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-25T04:39:07Z",
+  "Author": "WinterIsComing"
+}

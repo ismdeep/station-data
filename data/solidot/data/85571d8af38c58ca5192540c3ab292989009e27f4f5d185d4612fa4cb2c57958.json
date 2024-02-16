@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密",
+  "Link": "https://www.solidot.org/story?sid=74264",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 开始向部分 Gmail 和 Calendar 用户提供客户端加密，让用户能更好的控制谁能看到敏感的通信和日程表。客户端加密是指数据在本地加密然后才发送到服务器，相比之下服务器端加密是指客户端设备向中心服务器发送数据，然后在储存时使用其持有的密钥加密。从周二开始，Google 开始向 Gmail 和 Calendar Workspace 客户推送客户端加密。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://workspace.google.com/blog/product-announcements/gmail-and-calendar-client-side-encryption\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-01T07:18:24Z",
+  "Author": "Wilson"
+}

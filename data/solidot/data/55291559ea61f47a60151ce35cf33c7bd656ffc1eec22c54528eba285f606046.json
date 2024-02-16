@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter 源代码泄露",
+  "Link": "https://www.solidot.org/story?sid=74495",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Twitter 上周五递交到加州法庭的一份文件，它的部分私有源代码被泄露在代码托管平台 GitHub 上。泄露的部分是其  web service 多种功能和内部工具的源代码。Twitter 向 GitHub 递交了删除请求，GitHub 遵守了要求。泄露源代码的账号叫 FreeSpeechEnthusiast，这位用户是在今年初注册的，只上传了 Twitter 的代码。Twitter 正寻求识别该账号的身份，这位用户被认为是该公司的前雇员。Twitter 此前裁掉了数以千计的员工。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://web.archive.org/web/20230327021634/https://www.bloomberg.com/news/articles/2023-03-27/twitter-source-code-leak-turns-into-hunt-for-perpetrator\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-27T03:39:18Z",
+  "Author": "Wilson"
+}

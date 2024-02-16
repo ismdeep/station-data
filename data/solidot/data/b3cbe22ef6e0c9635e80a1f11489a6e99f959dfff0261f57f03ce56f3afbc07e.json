@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "一位工程师改动配置导致 Twitter 周一宕机",
+  "Link": "https://www.solidot.org/story?sid=74316",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在马斯克（Elon Musk）裁掉了数千员工之后，Twitter 服务的可靠性过去两个月出现了显著下降。本周一再次发生严重故障。据 Platformer 援引消息来源报道，这起事故是一位工程师改动配置导致的，马斯克据称非常生气。Twitter 最近宣布 API 不再免费提供给用户，它构建了一个新的付费 API 给开发者使用，而该项目只有一位网站可靠性工程师。这位工程师周一的错误配置变动破坏了整个 Twitter API。马斯克发推表示要重写代码栈。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.platformer.news/p/how-a-single-engineer-brought-down\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-07T06:01:24Z",
+  "Author": "Wilson"
+}

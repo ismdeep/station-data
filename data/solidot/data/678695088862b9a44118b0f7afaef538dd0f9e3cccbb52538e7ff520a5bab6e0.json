@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件利用 VPN 漏洞干扰生产设施",
+  "Link": "https://www.solidot.org/story?sid=67431",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡巴斯基研究人员\u003ca href=\"https://ics-cert.kaspersky.com/reports/2021/04/07/vulnerability-in-fortigate-vpn-servers-is-exploited-in-cring-ransomware-attacks/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，勒索软件  Cring 背后的运营者利用了一个早在 2018 年就修复的 Fortinet VPN 漏洞入侵了一家德国制造商，攻击者随后展开侦察，尝试窃取储存在内存中的域管理员凭证，最终安装了勒索软件 Cring。在此过程中，为了掩饰行动攻击者还将安装程序伪装成安全软件如卡巴斯基。Cring 在安装之后传播到了一台保存生产线所需数据库的服务器，导致了位于意大利的两处生产设施关闭两天。事故响应团队利用备份恢复了大部分加密的数据。受害者没有支付任何赎金。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-08T07:51:05Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软为其 Linux 系统开出 10 万美元赏金",
+  "Link": "https://www.solidot.org/story?sid=64291",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t如果黑客能成功渗透进其定制的 Linux 操作系统 Azure Sphere OS，微软愿意向黑客提供\u003ca href=\"https://msrc-blog.microsoft.com/2020/05/05/azure-sphere-security-research-challenge/\" target=\"_blank\"\u003e\u003cu\u003e最高 10 万美元\u003c/u\u003e\u003c/a\u003e的奖励。Azure Sphere OS 是为物联网平台开发的，设计运行在专门的芯片上。为了测试其安全性，软件巨人向入侵 Pluton 安全子系统或 Secure World 沙盒的黑客提供赏金。这一悬赏挑战项目从 6 月 1 日到 8 月 31 日，持续三个月。物理攻击不在范围之内，感兴趣的安全研究人员可以\u003ca href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-_Umm63bhBDnqWVLdjLiCRUMk5aM1JOOFk3UTdVT1pKMUtSOUo1U0Y4Mi4u\"\u003e\u003cu\u003e申请\u003c/u\u003e\u003c/a\u003e参与挑战。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-07T11:57:05Z",
+  "Author": "WinterIsComing"
+}

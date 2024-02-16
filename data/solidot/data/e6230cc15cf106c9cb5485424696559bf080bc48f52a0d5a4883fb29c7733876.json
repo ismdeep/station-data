@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Twitter Android app 漏洞被用于匹配 1700 万用户手机号码",
+  "Link": "https://www.solidot.org/story?sid=63050",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究员 Ibrahim Balic 利用一个 Twitter Android app 漏洞\u003ca href=\"https://techcrunch.com/2019/12/24/twitter-android-bug-phone-numbers/\" target=\"_blank\"\u003e\u003cu\u003e匹配了 1700 万用户的手机号码\u003c/u\u003e\u003c/a\u003e。Twitter 的联络人上传功能会在上传通讯录之后返回匹配到的用户数据，也就是你可以知道一个随机生成的手机号码是否属于一位真实用户。可能是为了防止此类的随机号码生成，Twitter 不接受序列格式的通讯录上传。但这一机制显然很容易绕过，Balic 生成了超过 20 亿个手机号码，将其顺序随机化，然后使用 Twitter Android app 上传。在两个月时间里他匹配了来自以色列、土耳其、伊朗、希腊、亚美尼亚、法国和德国的用户账号。Twitter 在 12 月 20 日封掉了他的账号阻止了他的手机号码匹配。Twitter 发言人已经证实了这一漏洞，表示正致力于让这一漏洞不能再被利用。Web 端的 Twitter 上传功能没有该漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-25T02:36:57Z",
+  "Author": "WinterIsComing"
+}

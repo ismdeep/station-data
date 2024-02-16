@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软称赞其内部开源开发模式",
+  "Link": "https://www.solidot.org/story?sid=66895",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t全世界有大约 2400 万名开发者，而使用微软开源编辑器 Visual Studio Code (VS Code) 作为 IDE 的开发者就有 1400 万，其中 2020 年增加了 500 万新用户。微软开发者部门的副总裁 Julia Liuson \u003ca href=\"https://www.zdnet.com/article/visual-studio-code-how-microsofts-any-os-any-programming-language-any-software-plan-is-paying-off/\" target=\"_blank\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e， VS Code 的战略就是全方面提供支持，让开发者可以使用任何语言在任何平台上开发程序。VS Code 支持 macOS、Windows 10，和多个 Linux 发行版，支持 Arm64 on Linux、Raspberry Pi  和 Chromebook。VS Code 支持的流行语言包括了 C++、C#、数据科学家使用的 Python 和多个 Python 库，以及 Java 和 JavaScript/Typescript。她说，有 200 万 Python 开发者和 100 多万 C++ 开发者使用 VS Code，Java 开发者的人数也接近 100 万。她还谈论了公司的内源开发模式——所谓内源就是在公司内部采用公开源代码和开放协作的开发模式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-08T13:03:37Z",
+  "Author": "WinterIsComing"
+}

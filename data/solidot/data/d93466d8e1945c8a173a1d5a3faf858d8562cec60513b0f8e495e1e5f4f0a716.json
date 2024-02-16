@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Dragon 飞船和 Falcon 9 火箭运行 Linux",
+  "Link": "https://www.solidot.org/story?sid=64527",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tSpaceX 的 Crew Dragon 飞船成功将 NASA 宇航员送入太空。飞船内的控制面板使用了令人耳目一新的触摸屏（宇航员\u003ca href=\"https://mobile.twitter.com/NASA/status/1266885097359388672\"\u003e\u003cu\u003e称\u003c/u\u003e\u003c/a\u003e屏幕下有物理按钮可在触摸屏失效时使用），宇航员的太空服也与传统太空服有\u003ca href=\"https://www.bbc.com/zhongwen/simp/science-52848732\"\u003e\u003cu\u003e明显差异\u003c/u\u003e\u003c/a\u003e，手套有触屏功能，有一根像“脐带” 似的缆线可以跟座椅连接，作为通讯和输送可呼吸空气的管道。Dragon 飞船和 Falcon 9 火箭\u003ca href=\"https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9/9446#9446\" target=\"_blank\"\u003e\u003cu\u003e都广泛使用定制版的 Linux 系统\u003c/u\u003e\u003c/a\u003e，飞行软件使用 C/C++ 编写，飞船内的图形显示应用是\u003ca href=\"https://news.ycombinator.com/item?id=23368109\" target=\"_blank\"\u003e\u003cu\u003e基于\u003c/u\u003e\u003c/a\u003e Chromium/JS。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-31T13:27:09Z",
+  "Author": "WinterIsComing"
+}

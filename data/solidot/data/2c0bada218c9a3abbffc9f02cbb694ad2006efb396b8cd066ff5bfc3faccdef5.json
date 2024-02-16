@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软称 Rust 是行业安全系统编程的最佳机会",
+  "Link": "https://www.solidot.org/story?sid=64661",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软云计算开发大使 Ryan Levick 在 AllThingsOpen 虚拟会议上称，就其核心而言，C++ 不是一种安全的语言。他解释了为什么微软正逐渐转移到 Rust 去构建基础设施软件，远离 C/C++，微软也鼓励软件行业的其它巨头考虑这么做。他说，我们正在使用的语言来自于一个不同的时代，C++ 不是一种内存安全的语言，对此人人都心知肚明。微软现在认定将 C++ 用于开发关键任务软件不再是可以接受的。行业需要转移到一种高性能、内存安全的语言去开发底层软件，\u003ca href=\"https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/#\" target=\"_blank\"\u003e\u003cu\u003e而 Rust 语言是软件行业的最佳机会\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-15T07:31:00Z",
+  "Author": "WinterIsComing"
+}

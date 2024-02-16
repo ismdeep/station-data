@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "纽约时报禁止将其文章用于 AI 训练",
+  "Link": "https://www.solidot.org/story?sid=75813",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t纽约时报被发现在 8 月 3 日更新了其服务条款，禁止将其内容——包括新闻报道、照片、图像、音频视频文件等——用于训练 AI 模型。此外，网络爬虫等自动化工具如果没有获得书面许可也被禁止抓取其内容。纽约时报还表示拒绝遵守这些规定的人会面临惩罚，但对此没有具体说明。时报网站的 robots.txt 文件没有任何修改。\n纽约时报的做法反映了最近几个月围绕 AI 训练的版权争议，其他媒体机构可能会采取类似的行动。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service\u003cbr/\u003e\nhttps://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-Service\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-08-16T10:20:15Z",
+  "Author": "Wilson"
+}

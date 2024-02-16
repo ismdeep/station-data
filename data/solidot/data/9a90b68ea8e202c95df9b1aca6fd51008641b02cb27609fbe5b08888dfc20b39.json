@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSH 8.2 发布",
+  "Link": "https://www.solidot.org/story?sid=63536",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenSSH 项目释出了 \u003ca href=\"http://www.openssh.com/txt/release-8.2\"\u003e\u003cu\u003e8.2 版本\u003c/u\u003e\u003c/a\u003e。上个月研究人员\u003ca href=\"https://www.solidot.org/story?sid=63252\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，SHA-1 哈希算法的构造前缀碰撞攻击成本降至  4.5 万美元。OpenSSH 开发者因此决定默认禁用 ssh-rsa 公钥签名算法，尽管存在更好的替代但 ssh-rsa 仍然使用广泛。这些替代算法包括 rsa-sha2-256/512、ssh-ed25519 和 ecdsa-sha2-nistp256/384/521 等。OpenSSH 将使用 UpdateHostKeys 检查服务器是否处理更安全的算法。OpenSSH 8.2 的另一个新特性是支持 FIDO/U2F 硬件令牌。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-15T13:31:38Z",
+  "Author": "WinterIsComing"
+}

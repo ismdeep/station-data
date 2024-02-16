@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD EPYC 的供应商锁定影响二手销售",
+  "Link": "https://www.solidot.org/story?sid=65500",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔至强 CPU 有 SGX，而 AMD EPYC CPU 也有 Secure Processor Platform Secure Boot(PSB)。PSB 是一个嵌入的  Arm Cortex-A5 微控制器，运行独立于主机的操作系统。PSB 拥有一项 SGX 所没有的功能：供应商锁定。该功能允许供应商将处理器与固件代码签名密钥绑定起来。这意味着某家 OEM 供应商的服务器 CPU 只能运行在该公司供应的主板上。目前所知道的是 Dell EMC 启用了该功能，超微（Supermicro）和泰安（Tyan）没有启用，它们的服务器主板可以交换 CPU。\u003ca href=\"https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/\"\u003e\u003cu\u003e启用该功能将会影响到服务器 CPU 二手市场\u003c/u\u003e\u003c/a\u003e，因为你不知道买到的 CPU 是否锁定了供应商。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-10T10:21:04Z",
+  "Author": "WinterIsComing"
+}

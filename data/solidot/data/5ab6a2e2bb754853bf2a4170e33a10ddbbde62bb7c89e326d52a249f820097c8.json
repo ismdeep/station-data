@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "数学家推翻百年问题的一个重要猜想",
+  "Link": "https://www.solidot.org/story?sid=70030",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t牛津大学数学家 \u003ca href=\"http://people.maths.ox.ac.uk/greenbj/\"\u003e\u003cu\u003eBen Green\u003c/u\u003e\u003c/a\u003e 在理解一个百年前组合数学问题方面取得重大进展，表明一个著名的猜想，正如蒙特利尔大学的 Andrew Granville 所说，“\u003ca href=\"https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/\"\u003e\u003cu\u003e不仅错了而且错得离谱\u003c/u\u003e\u003c/a\u003e”。\u003ca href=\"https://arxiv.org/abs/2102.01543\" target=\"_blank\"\u003e\u003cu\u003e新论文\u003c/u\u003e\u003c/a\u003e展示了如何创建超过数学家认为可能的长度的无序彩色珠串，拓展了 1940 年代以来的一系列工作，这些工作已应用于计算机科学等领域。\n\u003cbr/\u003e\n\u003cbr/\u003e\nRon Graham 是过去半个世纪顶尖的离散数学家之一，这个猜想是他在 17 年前提出的：你可以将多少蓝色和红色的珠子串在一起，而又不会创造任何长序列间隔均匀的单色珠子。（你可以决定对于每种颜色来说这个“长”有多长。）\n\u003cbr/\u003e\n\u003cbr/\u003e\n这是拉姆齐理论最古老的问题之一，探讨在必然出现有序之前，各种数学对象可增长到多大。珠串问题说起来容易，实际上却很难：对于长串，珠串可能的排列方式多到无法一一尝试。 斯坦福大学的 Jacob Fox 表示：“有时我们对一些看似非常基本的问题真的几乎一无所知。很多人会惊讶于我们对一些问题所知甚少，这个问题就是其中之一。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n近一个世纪以来，数学家都知道你不能无限地串珠子。一旦你为每种颜色选好了参数，在被迫创建超出你忍受范围的均匀间隔序列之前，你就只能串接这么多的珠子。如果你提高红色和蓝色的参数，可串接的珠子的总数会增加——但是增加的速度有多快？\n\u003cbr/\u003e\n\u003cbr/\u003e\n在这个问题的一个版本中，你禁止最短的均匀间隔的蓝色序列出现，\u003ca href=\"http://www.math.ucsd.edu/~fan/ron/papers/06_04_vdw.pdf\"\u003e\u003cu\u003eGraham 推测\u003c/u\u003e\u003c/a\u003e(PDF)会有一个简单的关系成立：可能的、最长的珠串长度大约是红色珠子参数的平方。所有数学家积累的数据资料都支持 Graham 的这一猜想。\n\u003cbr/\u003e\n\u003cbr/\u003e\n但现在 Green 证明这个猜想是错误的。在长达 68 页的论文中，他展示了如何制作比 Graham 预测的长得多的珠串。Green 融合了几何和动力系统创建无序珠串，他的结构建立早期的珠串结构之上，这种早期珠串结构应用在从矩阵乘法到密码学的各个学科中。Fox 表示，这种结构“对计算机科学中的一些问题非常重要。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-16T07:53:06Z",
+  "Author": "wanwan"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 将要求所有代码贡献者使用 2FA",
+  "Link": "https://www.solidot.org/story?sid=71425",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大代码托管平台 GitHub 宣布到 2023 年底所有上传代码的用户都必须使用双因素认证（2FA）。GitHub 首席安全官（CSO）Mike Hanley 在官方博客上\u003ca href=\"https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa\" target=\"_blank\"\u003e\u003cu\u003e宣布了这一政策\u003c/u\u003e\u003c/a\u003e，此举旨在预防开发者的账号被劫持，防止攻击者劫持账号后上传恶意代码对下游项目发动供应链攻击。Hanley 称，软件的供应链始于开发者，开发者的账号经常成为社交工程和劫持的目标，保护开发者免受此类攻击是保护供应链安全的第一步也是最重要的一步。GitHub 的内部数据显示，只有 16.5% 的活跃用户启用了增强保护措施，它希望通过引导开发者采取更安全的账号保护标准，提高软件开发社区的整体安全性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-05T05:32:32Z",
+  "Author": "WinterIsComing"
+}

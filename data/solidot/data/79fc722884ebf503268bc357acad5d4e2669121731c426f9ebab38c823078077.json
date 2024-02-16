@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "两行代码构成的 npm 包影响到了数百万项目",
+  "Link": "https://www.solidot.org/story?sid=64240",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个 npm 小项目的更新给整个 npm 生态系统\u003ca href=\"https://www.zdnet.com/article/another-one-line-npm-package-breaks-the-javascript-ecosystem/\"\u003e\u003cu\u003e制造了一场混乱\u003c/u\u003e\u003c/a\u003e，影响到了数百万 JS 项目。名叫 \u003ca href=\"https://github.com/then/is-promise\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eis-promise\u003c/a\u003e 的库包含了两行代码，其它项目可通过一行代码调用使用该库。它的功能是让开发者测试一个 JS 对象是否是 \u003ca href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003ePromise\u003c/a\u003e。尽管这个库只有两行代码，但它却是最流行的  npm 包之一，被超过 340 万个项目使用。上周末 is-promised 释出了一个更新，结果由于它不符合正确的 ES 模块标准，导致使用该库的其它项目在构建时出错。问题并没有导致现有 JS 项目崩溃，而主要无法编译新版本。许多知名的 JS 项目都受到影响，其中包括 Facebook 的 Create React App，Google 的 Angular.js 框架，Google 的 Firebasse-tools，亚马逊的 AWS Serverless CLI，Nuxt.js 等等。npm 生态系统的\u003ca href=\"https://www.solidot.org/story?sid=62277\"\u003e\u003cu\u003e依赖问题\u003c/u\u003e\u003c/a\u003e早在 \u003ca href=\"https://www.solidot.org/story?sid=47607\"\u003e\u003cu\u003e2016 年\u003c/u\u003e\u003c/a\u003e就引发过广泛关注。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-28T07:03:28Z",
+  "Author": "WinterIsComing"
+}

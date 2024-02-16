@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GitHub 废除基于密码的 Git 身份验证",
+  "Link": "https://www.solidot.org/story?sid=68537",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最大的代码托管平台 GitHub 在 13 日周五这天\u003ca href=\"https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/\" target=\"_blank\"\u003e\u003cu\u003e正式废除了\u003c/u\u003e\u003c/a\u003e基于密码的 Git 身份验证。从 09:00 PST 开始，使用 GitHub 的开发者将需要切换到基于令牌的身份验证去执行 Git 操作，基于令牌的认证包括个人接入、OAuth、SSH Key 或 GitHub App 安装令牌。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-13T11:55:01Z",
+  "Author": "WinterIsComing"
+}

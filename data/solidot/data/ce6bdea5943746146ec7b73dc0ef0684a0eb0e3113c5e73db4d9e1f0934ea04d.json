@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "亲乌克兰成员泄露 Conti 勒索软件组织聊天记录",
+  "Link": "https://www.solidot.org/story?sid=70811",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在俄罗斯入侵乌克兰之后，Conti 勒索软件组织的领导人在其官网上发布了一条激进的亲俄信息，之后一名据信来自乌克兰的成员\u003ca href=\"https://therecord.media/conti-ransomware-gang-chats-leaked-by-pro-ukraine-member/\" target=\"_blank\"\u003e\u003cu\u003e泄露了内部聊天记录\u003c/u\u003e\u003c/a\u003e。亲俄声明似乎以错误的方式影响了 Conti 的乌克兰成员，其中一人侵入了内部的 Jabber/XMPP 服务器。多名记者和安全研究人员收到了以电子邮件发来的内部日志。Recorded Future 的威胁情报分析师 Dmitry Smilyanets 过去曾与 Conti 组织有过交流，他证实了泄露的对话的真实性。泄露的数据包含 339 个 JSON 文件，每个文件包含一整天的日志。2021 年 1 月 29 日至 2022 年 2 月 27 日的对话已被泄露，可在此处\u003ca href=\"https://intelx.io/?did=51fbf19b-91f5-4d2d-b4e7-504477ebe916\" target=\"_blank\"\u003e\u003cu\u003e在线阅读\u003c/u\u003e\u003c/a\u003e，这些信息由安全公司 IntelligenceX 提供。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-01T10:23:37Z",
+  "Author": "wanwan"
+}

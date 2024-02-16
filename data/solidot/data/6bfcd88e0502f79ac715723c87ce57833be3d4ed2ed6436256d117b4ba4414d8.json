@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DDR5 内存标准规格公布",
+  "Link": "https://www.solidot.org/story?sid=64975",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tJEDEC 固态技术协会\u003ca href=\"https://www.jedec.org/news/pressreleases/jedec-publishes-new-ddr5-standard-advancing-next-generation-high-performance\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e下一代内存标准 DDR5 SDRAM 的\u003ca href=\"https://www.anandtech.com/show/15912/ddr5-specification-released-setting-the-stage-for-ddr56400-and-beyond\"\u003e\u003cu\u003e最终规格\u003c/u\u003e\u003c/a\u003e。DDR5 的工作电压从 DDR4 的1.2V 降至 1.1V，速率从 DDR4 的 3.2 Gbps 增加到 6.4Gbps，单芯片容量从上一代的 16 Gbit 增加到 64Gbit，UDIMM 最大容量增加到 128GB。JEDEC 预计 DDR5 会在 12 到 18 个月内开始采用，之后加速普及。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-17T08:45:43Z",
+  "Author": "WinterIsComing"
+}

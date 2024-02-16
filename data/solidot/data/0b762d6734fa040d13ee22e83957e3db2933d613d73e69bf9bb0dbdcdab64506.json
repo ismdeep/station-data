@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat 限制 RHEL 源码可得性",
+  "Link": "https://www.solidot.org/story?sid=75313",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat 宣布其企业发行版 RHEL（Red Hat Enterprise Linux）相关源码仅通过 CentOS Stream 公开。付费客户和合作伙伴仍然可通过 Red Hat Customer Portal 访问到源代码。限制 RHEL 源码可得性将加大社区发行版如 Alma Linux 和 Rocky Linux 以及甲骨文的企业发行版 Oracle Linux 提供 1:1 二进制兼容构建的难度。CentOS Stream 是一个滚动更新发行版，是 RHEL 的上游版本。CentOS 项目是在 2020 年停止提供传统的基于 RHEL 的社区发行版，之后 Alma Linux 和 Rocky Linux 出现去填补了原版 CentOS 的空白。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://lwn.net/Articles/935592/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-06-22T04:01:10Z",
+  "Author": "Wilson"
+}

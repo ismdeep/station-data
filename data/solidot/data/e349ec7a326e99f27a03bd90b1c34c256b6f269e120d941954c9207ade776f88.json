@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Netfilter 项目与 Patrick McHardy 达成和解",
+  "Link": "https://www.solidot.org/story?sid=70496",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国 Netfilter 内核子系统贡献者 Patrick McHardy 过去几年\u003ca href=\"https://www.solidot.org/story?sid=54151\"\u003e\u003cu\u003e引发了争议\u003c/u\u003e\u003c/a\u003e，他自行担负起了 GPL 执法的角色，联络德国的许多企业，以不遵守 GPL 为由索要小额金钱。在 18 个月内他利用这种方法勒索到了 200 万欧元。他的行为招致了 Netfilter 项目的公开反对。现在双方就此事\u003ca href=\"https://www.netfilter.org/files/2022-01-24-Translation_Court_Order_and_Settlement.pdf\"\u003e\u003cu\u003e达成和解\u003c/u\u003e\u003c/a\u003e，以后涉及 Netfilter 项目的任何执法行动都需要经过社区投票获得多数票之后才能进行。每一位活跃的核心团队成员都拥有投票权。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-25T07:41:16Z",
+  "Author": "WinterIsComing"
+}

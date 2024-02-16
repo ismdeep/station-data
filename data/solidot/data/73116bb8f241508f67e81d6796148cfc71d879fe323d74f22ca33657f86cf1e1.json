@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "分析 Parler 上的暴力话题标签",
+  "Link": "https://www.solidot.org/story?sid=66653",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在停止运营前用脚本抓取了 Parler 的帖子和评论之后，匿名数据科学家对内容展开了分析。在 Parler 上，用户只能用话题标签（hashtags）而不是帖子本身的文本内容去搜索帖子。导致的结果是用户为了让其内容能广为传播而在一个帖子内滥用了大量的话题标签。数据科学家根据这些话题标签分\u003ca href=\"https://anonymousdata.medium.com/violent-hashtag-frequencies-in-parler-eddab2871b66\" target=\"_blank\"\u003e\u003cu\u003e析了 Parler 上暴力主题的频率\u003c/u\u003e\u003c/a\u003e。分析显示，谋杀政客这一设想在美国大选前几个月就广泛讨论了，在大选之后吊死/处决的标签频率增加了一倍以上，在选举团投票日增加了三倍，冲击国会当天增加了一个数量级。Parler 允许攻击和吊死政客的想法在其平台上病毒式传播。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-13T15:30:35Z",
+  "Author": "WinterIsComing"
+}

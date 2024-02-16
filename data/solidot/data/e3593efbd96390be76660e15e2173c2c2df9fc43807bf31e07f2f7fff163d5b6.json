@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 将禁止外部域名访问本地网络",
+  "Link": "https://www.solidot.org/story?sid=70351",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t为防止恶意脚本悄悄在浏览器上执行本地 HTTP 请求，Chrome 将实现名为 \u003ca href=\"https://wicg.github.io/private-network-access/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\"\u003ePrivate Network Access (PNA）\u003c/a\u003e的 W3C 新规格\u003ca href=\"https://it.slashdot.org/story/22/01/12/2012211/chrome-will-limit-access-to-private-networks-citing-security-reasons\" target=\"_blank\"\u003e\u003cu\u003e阻止这一被恶意程序滥用的行为\u003c/u\u003e\u003c/a\u003e。新功能将在今年上半年推出，PNA 将在 Chrome 中引入一个机制，外部域名在尝试与本地网络设备建立连接前需要征得系统许可，如果本地设备如服务器或路由器没有回应，尝试建立连接的请求将被阻止。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-13T07:01:32Z",
+  "Author": "WinterIsComing"
+}

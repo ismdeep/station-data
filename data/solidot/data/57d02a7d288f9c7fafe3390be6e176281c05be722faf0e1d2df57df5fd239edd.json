@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究快速包管理的发行版 distri",
+  "Link": "https://www.solidot.org/story?sid=61789",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 生态系统充斥着各种发行版，名叫 distri 的新发行版是设计用于研究的，\u003ca href=\"https://michael.stapelberg.ch/posts/2019-08-17-introducing-distri/\"\u003e\u003cu\u003e它关注的重点是加快包管理\u003c/u\u003e\u003c/a\u003e，作者认为现有的包管理器太慢，因此创造新发行版让网络连接而不是包管理器成为主要的速度瓶颈。distri  的主要创意是将包视为只读镜像文件而不是可修改的存档。作者称好处是应用程序不会因为依赖包被无意或恶意修改而受损。\u003ca href=\"https://github.com/distr1/distri/tree/jackherer\"\u003e\u003cu\u003edistri \u003c/u\u003e\u003c/a\u003e源代码发布在 GitHub 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-20T12:26:37Z",
+  "Author": "wenfeixiang"
+}

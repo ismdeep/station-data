@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软透露 AI 基础设施 Singularity",
+  "Link": "https://www.solidot.org/story?sid=70752",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软研究人员在预印本网站 arxiv 上发表\u003ca href=\"https://arxiv.org/pdf/2202.07848.pdf\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/\"\u003e\u003cu\u003e透露了\u003c/u\u003e\u003c/a\u003e一个遍布全球的针对 AI 工作负荷的分布式基础设施 \nSingularity。论文主要介绍的是 Singularity 的调度器，但也透露了 Singularity 的部分细节。Singularity 服务器使用的 CPU 是英特尔的 Xeon Platinum 8168，GPU 是英伟达的 Tesla V100，内存 692GB。每台服务器有 8 个 V100 Model GPU，可能还配有 FPGA 等加速器。Singularity 有数万台服务器，这意味着 GPU 的数量将超过 10 万。微软研究人员称，Singularity 在调度深度学习工作负载上实现了重大突破，扩大或缩小使用的设备规模非常便利。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-23T14:03:57Z",
+  "Author": "WinterIsComing"
+}

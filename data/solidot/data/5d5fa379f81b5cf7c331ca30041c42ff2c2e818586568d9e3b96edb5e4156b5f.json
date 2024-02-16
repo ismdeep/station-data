@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Sudo 漏洞允许以 root 权限执行命令",
+  "Link": "https://www.solidot.org/story?sid=62245",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUNIX 和 Linux 操作系统广泛使用的工具 Sudo \u003ca href=\"https://thehackernews.com/2019/10/linux-sudo-run-as-root-flaw.html\" target=\"_blank\"\u003e\u003cu\u003e发现了一个高危漏洞\u003c/u\u003e\u003c/a\u003e，允许恶意用户或程序以 root 权限在目标系统上执行任意命令。Sudo 代表 superuser do，允许用户在不切换环境的情况下以不同权限运行程序或命令。苹果信息安全团队的 Joe Vennix 发现了编号为 CVE-2019-14287 的漏洞，攻击者只需要指定用户 ID 为 -1 或 4294967295 就可以以 root 用户权限执行命令。原因是将用户 ID 转换为用户名的函数不正确的将 -1 或 4294967295 视为 0，而 0 通常是 root 用户的用户 ID。漏洞影响刚发布的 1.8.28 之前的所有版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-15T09:36:16Z",
+  "Author": "wenfeixiang"
+}

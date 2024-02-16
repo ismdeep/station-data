@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "pdf to jpg",
+  "Link": "https://blog.zzbd.org/2010/04/18/pdf-to-jpg/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e推荐一个小工具\u003ccode\u003ePDF to JPEG Converter\u003c/code\u003e→把PDF文件转换成一张张的图片\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e最近在网上下载了一些PDF格式的资料，但要我坐在电脑前一句句消化这些无比专业的东西似乎不太现实 ，QQ，游戏，电影的快捷方式就在眼前，如何能沉的下来。。。原本想可以打印出来，算了下费用，立时打消了这个念头。然后又想到可以把PDF转换成HTML网页，这样就能躲在被窝里拿手机看了，上网一搜，PDF转html的工具还真不少有Verypdf，pdftiger，NitroPDF 等等都能做到这点。但结果发现，这些工具转换出来的网页都用到了JS和复杂的网页框架，低端手机根本对付不了，看来这个主意不行。。。\u003c/p\u003e\u003cp\u003e但办法总是有的，于是准备把PDF转成图片，在MP4上看。。。在百度上搜工具，挑来挑去还是看中了这款\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://www.digitzone.com/pdftojpg.html\"\u003ePDF to JPEG Converter\u003c/a\u003e这是官方介绍的功能：\u003c/p\u003e\u003cul\u003e\u003cli\u003e 支持批量处理，同时转换上百个PDF没问题（当然要考虑时间问题以及CPU能不能扛得住）\u003c/li\u003e\u003cli\u003e 支持英语，法语，德语，意大利语，中文，日语以及其他语言的文件（支持中文很重要）\u003c/li\u003e\u003cli\u003e Supports \u003cstrong\u003eCIDFont\u003c/strong\u003e and \u003cstrong\u003eType1,Type 3,TrueType\u003c/strong\u003e font and embedded fonts.\u003c/li\u003e\u003cli\u003e 支持所有windows平台（Win7支持）\u003c/li\u003e\u003cli\u003e 支持导出72-800分辨率的JPG图像\u003c/li\u003e\u003cli\u003e 支持PDF 1.7\u003c/li\u003e\u003cli\u003e 支持命令行运行\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e使用方法很傻瓜，一看就懂。比较可惜的是他不是免费的。。。但官网和帮助文档里都没提到试用版的限制，甚至连试用期都找不到。唯一发现的是有水印。值得注意的还有Help file里的一句话\u003c/p\u003e\u003cblockquote\u003e\u003cp\u003eBug Fixes for the version which you have purchased.\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e再多说一点，那个\u003cstrong\u003e分辨率\u003c/strong\u003e值不是越大越好，还要考虑你的设备，比如手机、MP4的分辨率。。。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-04-17T22:56:30Z",
+  "Author": "J. F"
+}

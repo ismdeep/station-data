@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "巨大补丁集大幅减少 Linux 构建时间和解决依赖地狱",
+  "Link": "https://www.solidot.org/story?sid=70264",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t资深内核开发者 Ingo Molnar \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-Fast-Kernel-Headers\"\u003e\u003cu\u003e递交了\u003c/u\u003e\u003c/a\u003e一个含有 2,297 个补丁的巨大补丁集，旨在加速 Linux 构建和解决依赖地狱问题。Linux 内核有大约 1 万个 main .h 头文件，在交叉依赖方面它们日益复杂而痛苦，在内核社区这一情况被称为依赖地狱。Ingo Molnar 从 2020 年开始完全重修内核的头文件层次结构，他的补丁集通过解耦分离文件，取消不必要的函数，自动处理头文件依赖，能将内核的构建时间减少 50~80%。在经过审核之后它有望进入内核主线。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-06T07:51:36Z",
+  "Author": "WinterIsComing"
+}

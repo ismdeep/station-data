@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ruby on Rails 作者谈如何写出优秀的代码",
+  "Link": "https://www.solidot.org/story?sid=64741",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRuby on Rails 作者 David Heinemeier Hansson 接受采访\u003ca href=\"https://developers.slashdot.org/story/20/06/20/0358229/david-heinemeier-hansson-explains-what-it-takes-to-write-great-code\"\u003e\u003cu\u003e谈论了如何写出出色的代码\u003c/u\u003e\u003c/a\u003e。他被问道作为一个见识了大量代码的人，好的差的代码是否能一目了然。Hansson 回答：如果代码很糟糕，在检查逻辑前你就察觉到。没有缩进，代码风格混乱，一点也不细心。学习写出出色的代码是一生的追求。正如我在 RailsConf 2014 上所说的，我们不是软件工程师，而是软件作者。相比工程，写作是更适合我们所从事工作的比喻。写作事关清晰，以一种清晰易懂的方式展示信息，因此人人都能理解。成为优秀的作者靠背字典是不行的。知道可用的单词知道开发模式不能让你成为出色的开发者。你必须发展出自己的见解，你需要决定你的系统最重要的是清晰。优秀程序员的定义是能写出清晰软件的人，而要成为优秀的程序员，唯一的方法是你必须阅读大量的软件和写大量的软件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-22T10:50:41Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件黑帮声称获得了育碧和 Crytek 的内部数据",
+  "Link": "https://www.solidot.org/story?sid=65821",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t勒索软件黑帮 Egregor \u003ca href=\"https://www.zdnet.com/article/ubisoft-crytek-data-posted-on-ransomware-gangs-site/\"\u003e\u003cu\u003e宣称\u003c/u\u003e\u003c/a\u003e获得了知名游戏公司育碧和 Crytek 的内部数据。 Egregor 在其网站上声称获得了育碧即将在本月晚些时候发布的游戏《Watch Dogs: Legion》的源代码，但暂时无法验证其声明是否属实。为了成功勒索受害者，流行的勒索软件在加密数据的同时会窃取数据，以防万一受害者利用备份恢复数据拒绝勒索时以泄露数据为由进行二次勒索。目前 Egregor 公开了 20 MB 的育碧数据和 300 MB Crytek 数据。育碧和 Crytek 拒绝置评。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-16T04:57:09Z",
+  "Author": "WinterIsComing"
+}

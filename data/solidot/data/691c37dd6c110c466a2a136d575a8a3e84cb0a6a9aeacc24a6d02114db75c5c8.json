@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "迪士尼专利基于区块链的电影发行系统",
+  "Link": "https://www.solidot.org/story?sid=67773",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t迪士尼\u003ca href=\"https://torrentfreak.com/disney-patents-blockchain-based-movie-distribution-system-to-stop-pirates-210512/\"\u003e\u003cu\u003e专利了\u003c/u\u003e\u003c/a\u003e基于区块链的电影发行系统，让盗版者更难盗版分发到影院的电影。被称为“\u003ca href=\"https://torrentfreak.com/images/disney-blockchain.pdf\"\u003e\u003cu\u003eBlockchain configuration for secure content delivery\u003c/u\u003e\u003c/a\u003e”的专利描述的是向电影院分发电影拷贝。这个过程容易被盗版者在期间或事后拦截。迪士尼认防盗版的安全机制如加水印并足以阻止盗版，因为此类机制都是被动反应而不是预防。它认为基于区块链的安全机制能更严格的控制电影分发过程。预定目标的电影院在允许播放内容前需要先进行验证，确保它们是真正的接收方。区块链安全系统还可以引入其它安全机制，如跟踪电影的播放次数，防止播放次数超过预期。目前还不清楚迪士尼是否会实现这一机制。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-14T13:24:27Z",
+  "Author": "WinterIsComing"
+}

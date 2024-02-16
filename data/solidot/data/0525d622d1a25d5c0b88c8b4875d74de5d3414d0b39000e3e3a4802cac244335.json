@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Red Hat Enterprise Linux 9 发布",
+  "Link": "https://www.solidot.org/story?sid=71511",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tRed Hat \u003ca href=\"https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e最新的企业发行版 Red Hat Enterprise Linux 9（RHEL 9），基于滚动更新发行版 CentOS Stream 的首个生产版本。Red Hat 在接管社区发行版 CentOS 之后切换到了滚动发行模式， CentOS 从基于 RHEL 的下游版本变成了 RHEL 的上游版本。Red Hat 的新闻稿充斥着营销术语，RHEL 9 本身事实上尚未正式提供给客户，详细的发布公告可浏览 \u003ca href=\"https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9-beta/html-single/9.0_release_notes/index\"\u003e\u003cu\u003eRHEL 9 beta\u003c/u\u003e\u003c/a\u003e 说明。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-12T11:09:20Z",
+  "Author": "WinterIsComing"
+}

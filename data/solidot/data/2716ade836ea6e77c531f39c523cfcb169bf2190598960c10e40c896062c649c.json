@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "入侵 20 名开发者帐号就可能危及半数 NPM 生态系统",
+  "Link": "https://www.solidot.org/story?sid=62277",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据一项研究，NPM JS 库生态系统\u003ca href=\"https://www.zdnet.com/article/hacking-20-high-profile-dev-accounts-could-compromise-half-of-the-npm-ecosystem/\"\u003e\u003cu\u003e比大多数人想象的更相互交织\u003c/u\u003e\u003c/a\u003e。德国的研究人员\u003ca href=\"https://www.usenix.org/system/files/sec19-zimmermann.pdf\"\u003e\u003cu\u003e分析了\u003c/u\u003e\u003c/a\u003e（PDF）NPM 生态系统的依赖图，他们下载了 2018 年 4 月前发布的所有 NPM JS 包的元数据，创建了一幅巨大的依赖图。研究人员还分析了相同包的不同版本，历史版本，以及包维护者和已知安全漏洞。研究人员想知道，入侵一名或多名维护者的帐号、一个包或多个包的漏洞对  NPM 生态系统会有多大影响，以及一次影响成千上万的项目的安全事故临界点。研究人员发现，临界点很容易达到，因为一个 NPM 包有着异常高数量的依赖，平均一个包加载了 39 名不同维护者的 79 个第三方包。一些流行的包使用了 100 多名维护者写的代码。研究人员发现，只要入侵 20 名最有影响力的包维护者帐号就可能危及半数 NPM 生态系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-17T11:54:23Z",
+  "Author": "wenfeixiang"
+}

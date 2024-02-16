@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LineageOS 18.1 发布",
+  "Link": "https://www.solidot.org/story?sid=67380",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t曾被称为 Cyanogen 的 Android 社区发行版 LineageOS 释出了 \u003ca href=\"https://lineageos.org/Changelog-25/\"\u003e\u003cu\u003ev18.1\u003c/u\u003e\u003c/a\u003e。LineageOS 18.1 是基于 Android 11，支持 60 多款智能手机，其中包括一加、Google、小米、索尼、摩托罗拉、LG 和三星。Google 公开的 Android 开源代码缺少设备特定的组件，LineageOS 所做的就是在 Android 开源代码中添加缺少的组件，然后用自己的开源应用替换私有的 Google 应用（用户仍然可以在 LineageOS 中安装 Google 应用），最后引入了定制和对修改友好的功能。所有的 LineageOS 代码\u003ca href=\"https://arstechnica.com/gadgets/2021/04/lineageos-18-1-brings-android-11-to-over-60-smartphones/\"\u003e都是开源的\u003c/a\u003e。\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-02T04:18:19Z",
+  "Author": "WinterIsComing"
+}

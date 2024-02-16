@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "220 万用户密码数据泄露",
+  "Link": "https://www.solidot.org/story?sid=62681",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHave I Been Pwned 维护者 Troy Hunt 称，加密钱包服务 GateHub 和游戏网站 EpicBot 的 220 万用户密码数据\u003ca href=\"https://arstechnica.com/information-technology/2019/11/password-data-dumped-online-for-2-2-million-users-of-currency-and-gaming-sites/\"\u003e\u003cu\u003e在网上公开\u003c/u\u003e\u003c/a\u003e。GateHub 被公开的数据库有 140 万账号，共 3.72GB，还包含了二步认证密钥，帮助记忆的短语，以及钱包哈希。EpicBot 数据库有 80 万账号，包含了用户名和 IP 地址。Gatehub 此前承认网站遭到入侵，数据库被非法访问，表示受影响的账号为 18,473 个。但最新公开的数据库显示入侵规模比之前认为的要大得多，账号数量多达 140 万而不是 1.8 万。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-20T12:39:54Z",
+  "Author": "WinterIsComing"
+}

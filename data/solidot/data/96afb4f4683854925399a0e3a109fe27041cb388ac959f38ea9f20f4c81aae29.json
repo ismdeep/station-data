@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开源 Cardboard",
+  "Link": "https://www.solidot.org/story?sid=62526",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle \u003ca href=\"https://developers.googleblog.com/2019/11/open-sourcing-google-cardboard.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e开源它基于智能手机的廉价 VR 体验设备 Cardboard。\u003ca href=\"https://github.com/googlevr/cardboard\"\u003e\u003cu\u003e软件源代码\u003c/u\u003e\u003c/a\u003e发布在 GitHub 上，采用 Apache License 2.0 许可证，Google Cardboard 仍然为 Google 的商标，并不能自由使用。Google 在 2014 年推出了 \u003ca href=\"https://arvr.google.com/cardboard/\"\u003e\u003cu\u003eGoogle Cardboard\u003c/u\u003e\u003c/a\u003e，一种简单的 DIY 头戴式纸盒设备，让任何人都能体验虚拟现实。Google 称，使用 Cardboard 和 Google VR SDK，开发者创造和分发了 1500 万个 Google Cardboard，但他们观察到其使用率在下降，人体他们也不再活跃开发 Google VR SDK。为了确保这种经济实惠的  VR 体验设备不会完全销声匿迹，Google 决定开源，并承诺会继续向该项目贡献代码，但该项目的未来将主要由开源社区决定。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-07T10:30:44Z",
+  "Author": "wenfeixiang"
+}

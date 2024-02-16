@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在边界层湍流现象发现百年后数学家推导出公式",
+  "Link": "https://www.solidot.org/story?sid=69670",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一个国际数学家团队发表了边界层湍流的\u003ca href=\"https://www.sciencedaily.com/releases/2021/11/211116131724.htm\"\u003e\u003cu\u003e完整描述\u003c/u\u003e\u003c/a\u003e。该团队由加州大学圣巴巴拉分校的 Björn Birnir 教授和奥斯陆大学的 Luiza Angheluta 教授领导。\u003ca href=\"https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043054\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e发表在《Physical Review Research》期刊上，综合了该主题数十年的工作。该理论将经验观察与 Navier-Stokes 方程——流体动力学数学基础——结合成一个数学公式。\n\u003cbr/\u003e\n\u003cbr/\u003e\n边界层湍流于 1920 年左右由匈牙利物理学家 Theodore von Kármán 和德国物理学家 Ludwig Prandtl 首次描述，两人都是流体动力学领域的杰出人物。复杂与非线性科学中心主任 Birnir 表示：“他们研究的是今天称为边界层湍流的现象”。这种现象是当流体与边界（例如流体表面、管壁、地球表面等）相互作用时引起的湍流。\n\u003cbr/\u003e\n\u003cbr/\u003e\nPrandtl 通过实验发现可根据与边界接近的程度将边界层划分为四个不同的区域。粘性层在边界附近形成，湍流被流动的厚度减弱。接着是过渡缓冲区，其次是惯性区，湍流发展得最充分。最后根据 von Kármán 的公式，尾流是边界层流动受边界影响最小的地方。\n\u003cbr/\u003e\n\u003cbr/\u003e\n流体离边界越远流动越快，但其速度以非常特定的方式变化。它的平均速度在粘性层和缓冲层中增加，然后在惯性层中转变为对数函数。Prandtl 和 von Kármán 发现的这种“对数定律”让研究人员感到困惑，他们努力了解它的来源以及如何描述它。\n\u003cbr/\u003e\n\u003cbr/\u003e\n流动的变化——或与平均速度的偏差——也显示出跨越边界层的特殊行为。研究人员试图了解这两个变量并推导出可以描述它们的公式。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-18T09:26:19Z",
+  "Author": "wanwan"
+}

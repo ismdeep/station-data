@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究发现在账号泄露之后用户很少换密码",
+  "Link": "https://www.solidot.org/story?sid=64546",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡内基梅隆大学安全与隐私研究所的研究人员\u003ca href=\"https://www.zdnet.com/article/after-a-breach-users-rarely-change-their-passwords-study-finds/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e，在账号泄露之后只有很少一部分用户会去更换密码。这一结果不是基于调查数据而是真实的用户浏览器流量。这项研究采用了卡内基梅隆大学 Security Behavior Observatory (SBO)项目收集的用户数据，出于学术研究的目的，用户自愿选择分享完整的浏览器流量。数据是在 2017 年 1 月到 2018 年 12 月之间收集的，除了 Web 流量外还有登陆网站的密码以及储存在浏览器内的密码。在数据收集期间，249 名用户中有 63 名用户有账号泄露，而这 63 名用户只有 21 名用户访问了发生账号泄露的网站去修改密码，而这 21 名用户中有 15 名是在发生账号泄露 3 个月内修改的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-02T13:12:54Z",
+  "Author": "WinterIsComing"
+}

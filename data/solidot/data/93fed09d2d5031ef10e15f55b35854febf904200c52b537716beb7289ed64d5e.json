@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软披露朝鲜黑客组织利用勒索软件获取赎金",
+  "Link": "https://www.solidot.org/story?sid=72147",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软安全团队\u003ca href=\"https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个以中小企业为勒索目标的朝鲜黑客组织 DEV-0530，该组织自称 H0lyGh0st，使用同名勒索软件入侵企业勒索赎金。DEV-0530 采用的策略和其它勒索软件组织类似，维护了一个 .onion 暗网网站与受害者沟通，在入侵之后，用扩展名  .h0lyenc 加密文件，然后索要比特币赎金。该组织也采用了双重勒索，威胁在社交网络披露企业数据或将数据发送给其客户。微软认为 DEV-0530 与朝鲜黑客组织 PLUTONIUM (aka DarkSeoul 或 Andariel)有关联，该组织使用了 PLUTONIUM 开发的工具。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-16T15:48:19Z",
+  "Author": "WinterIsComing"
+}

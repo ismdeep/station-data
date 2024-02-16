@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Travis CI 漏洞暴露数千开源项目的秘密",
+  "Link": "https://www.solidot.org/story?sid=68948",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTravis CI 的一个漏洞\u003ca href=\"https://arstechnica.com/information-technology/2021/09/travis-ci-flaw-exposed-secrets-for-thousands-of-open-source-projects/#p3\" target=\"_blank\"\u003e\u003cu\u003e可能导致数千开源项目的秘密如签名密钥、访问证书和 API 令牌漏出\u003c/u\u003e\u003c/a\u003e。Travis CI 是一个流行的软件测试工具，它提供了与源码托管平台如  GitHub 和 Bitbucket 的无缝整合，能直接克隆用户在 GitHub 中的代码库然后在虚拟环境中进行构建和测试。它被 90 万开源项目使用，有 60 万用户。研究员  Felix Lange 发现一个安全漏洞会导致 Travis CI 包含使用它测试的公开开源库的安全环境变量，环境变量含有通常敏感的信息如签名密钥、访问证书和 API 令牌。如果这些变量暴露，攻击者可借此进入组织的网络。编号为 CVE-2021-41077 的漏洞存在了大约 8 天，安全研究人员建议所有使用 Travis CI 的项目更换相关的密钥和令牌。而 Travis CI 处理这个问题的做法引发了广泛批评，它的安全公告对此问题的严重性轻轻带过。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-15T14:39:14Z",
+  "Author": "WinterIsComing"
+}

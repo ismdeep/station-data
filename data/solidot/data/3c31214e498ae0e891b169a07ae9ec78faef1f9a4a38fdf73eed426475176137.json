@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全研究员公开 Chrome 的漏洞利用",
+  "Link": "https://www.solidot.org/story?sid=67490",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位印度安全研究员在 GitHub 上公开了 Chrome/Chromium 漏洞的\u003ca href=\"https://github.com/r4j0x00/exploits/blob/master/chrome-0day/exploit.js\"\u003e\u003cu\u003e POC 利用代码\u003c/u\u003e\u003c/a\u003e，他并不是漏洞的发现者，而是通过逆向工程补丁重新实现漏洞利用，他的做法被一些人指责是\u003ca href=\"https://it.slashdot.org/story/21/04/13/1644217/security-researcher-drops-chrome-and-edge-exploit-on-twitter\"\u003e\u003cu\u003e不道德的\u003c/u\u003e\u003c/a\u003e。Rajvardhan Agarwal 称，两名安全研究员 Bruno Keith  和 Niklas Baumstark 在上周举行的 Pwn2Own 安全挑战赛上成功利用漏洞入侵 Chrome 和 Edge，赢得了 10 万美元奖金。根据规则，漏洞细节没有公开而是报告给了 Chrome 安全团队。Agarwal 在检查 Chrome 的 V8 JS 引擎源代码时注意到了修复该漏洞的补丁，这允许他通过逆向工程重新实现漏洞利用。V8 的漏洞补丁尚未整合到  Chrome 和 Edge 的正式版本中，基于 Chromium 的浏览器仍然容易受到攻击。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-14T10:26:35Z",
+  "Author": "WinterIsComing"
+}

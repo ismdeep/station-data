@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WhatsApp 的隐私友好替代",
+  "Link": "https://www.solidot.org/story?sid=66941",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWhatsApp 的服务条款变更\u003ca href=\"https://www.solidot.org/story?sid=66753\" target=\"_blank\"\u003e\u003cu\u003e引发了很多争议\u003c/u\u003e\u003c/a\u003e，加密邮件服务 Proton 官方博客介绍\u003ca href=\"https://protonmail.com/blog/whatsapp-alternatives/\" target=\"_blank\"\u003e\u003cu\u003e了多个隐私友好替代服务\u003c/u\u003e\u003c/a\u003e：Signal，开源端对端加密，缺点是注册需要手机号；Telegram 的缺点是私聊才端对端加密，群聊没有；Threema，开源端对端加密，但应用本身不免费；Wickr Me，不开源；Wire，注册需要手机号或电邮，记录大量元数据；Element，使用 Matrix 通信协议，基于去中心化联邦架构；Keybase，已被 Zoom 收购，记录元数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-16T15:41:57Z",
+  "Author": "WinterIsComing"
+}

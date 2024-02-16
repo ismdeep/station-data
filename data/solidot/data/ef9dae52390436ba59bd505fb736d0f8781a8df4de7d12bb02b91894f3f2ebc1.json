@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 基金会收到专利诉讼",
+  "Link": "https://www.solidot.org/story?sid=62136",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t名叫 Rothschild Patent Imaging LLC 的公司对 GNOME 基金会\u003ca href=\"https://lwn.net/Articles/800516/\"\u003e提起了\u003c/a\u003e专利侵权诉讼，指控 GNOME 桌面环境项目中的一个组件 Shotwell 照片管理器侵犯了它的专利“\u003ca href=\"https://patents.google.com/patent/US9936086B2/en\"\u003eWireless image distribution system and method\u003c/a\u003e ”。该专利最早是在 2008 年申请的，描述了无线连接图像捕捉设备和接收设备的系统和方法，这家公司看起来是一个典型的专利勒索者，除了 GNOME 基金会外，还有多家知名公司遭到起诉，这些公司包括 Pinterest、QNAP、Cyberlink 等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-28T07:36:22Z",
+  "Author": "wenfeixiang"
+}

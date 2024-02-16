@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Garmin 遭勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=65066",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t智能手表和可穿戴设备制造商 Garmin \u003ca href=\"https://www.zdnet.com/article/garmins-outage-ransomware-attack-response-lacking-as-earnings-loom/\" target=\"_blank\"\u003e\u003cu\u003e遭到了\u003c/u\u003e\u003c/a\u003e勒索软件攻击，旗下大部分服务下线。根据其最新的\u003ca href=\"https://connect.garmin.com/status/\" target=\"_blank\"\u003e\u003cu\u003e系统状态公告\u003c/u\u003e\u003c/a\u003e，部分服务正在逐渐恢复。在遭受攻击之后，Garmin 公布的服务器维护\u003ca href=\"https://www.garmin.com/zh-CN/outage/\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e称，“Garmin 服务器因正在维护，一些关联的特定服务将暂停运作，包含客服中心暂时无法接收Email 和线上咨询，相关应用程序(包含Garmin Connect国际服务器账号服务、Garmin Express、Launcher…等)将暂停数据同步、地图升级及软件更新服务。Garmin Connect 中国大陆服务器没有受到此次维护影响，如果您的账号注册在中国大陆服务器，在此期间可以正常使用并进行数据上传同步等服务。”根据 Garmin 雇员在社交媒体上发表的信息，该公司受到了新版勒索软件  WastedLocker 的攻击。Garmin 尚未公布事故细节。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-27T13:04:18Z",
+  "Author": "WinterIsComing"
+}

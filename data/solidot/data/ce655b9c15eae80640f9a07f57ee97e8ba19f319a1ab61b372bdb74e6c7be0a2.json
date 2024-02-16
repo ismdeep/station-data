@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome for Android 将正式提供 64 位版本",
+  "Link": "https://www.solidot.org/story?sid=64855",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t首个支持 64 位架构 ARM 处理器的 Android 版本是 2014 年 11 月发布的 Android 5.0 Lollipop，此后 Android 手机越来越多的使用 64 位处理器，到今天事实上几乎所有的 Android 设备都支持运行 64 位软件。然而市场占有率最高的 Google Chrome 浏览器至今没有提供 Android 平台的 64 位版本。32 位版本相比 64 位版本有着安全和性能方面的劣势。现在，Google Chrome \u003ca href=\"https://www.androidpolice.com/2020/07/03/chrome-for-android-is-finally-going-64-bit/\" target=\"_blank\"\u003e\u003cu\u003e终于准备提供 64 位版本了\u003c/u\u003e\u003c/a\u003e。从 Chrome 85 起，运行 Android 10 或更高版本的手机将会自动更新到 64 位版本，当前的稳定版 Chrome 83 和 beta 版 Chrome 84 仍然是 32 位应用。初步测试显示，64 位版本的性能优于 32 位版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-05T12:41:46Z",
+  "Author": "WinterIsComing"
+}

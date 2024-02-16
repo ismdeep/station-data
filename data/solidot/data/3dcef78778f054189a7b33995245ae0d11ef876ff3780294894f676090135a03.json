@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Excel 现在具备了图灵完备性",
+  "Link": "https://www.solidot.org/story?sid=66822",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软称它的电子表格程序 Excel 是一种编程语言，通过引入 LAMBDA，Excel 现在\u003ca href=\"https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/\"\u003e\u003cu\u003e具备了图灵完备性\u003c/u\u003e\u003c/a\u003e。\u003ci\u003e\n如果一种编程语言可以实现任何可能的算法，那么它就具备了\u003ca href=\"https://zh.wikipedia.org/wiki/%E5%9C%96%E9%9D%88%E5%AE%8C%E5%82%99%E6%80%A7\"\u003e\u003cu\u003e图灵完备性\u003c/u\u003e\u003c/a\u003e。微软剑桥研究院的 Calc Intelligence 项目与 Excel 团队合作，将电子表格公式转变成一种全面的编程语言。Excel 有两大缺点阻碍它成为真正的编程语言：其一是公式语言只支持数字、字符串和布尔值等标量值，其二是不支持定义新函数。去年 12 月微软宣布了 LAMBDA，允许用户使用 Excel 的公式语言定义新的函数——它被称为 LAMBDA 定义的函数。通过 LAMBDA，Excel 具备了图灵完备性，在理论上可以用 Excel 的公式语言写任何计算。LAMBDA 目前提供给了 Beta 测试用户。\u003c/i\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-01T12:19:53Z",
+  "Author": "WinterIsComing"
+}

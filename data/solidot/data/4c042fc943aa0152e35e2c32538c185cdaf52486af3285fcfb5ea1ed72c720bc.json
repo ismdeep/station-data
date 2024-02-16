@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "火星直升机在发生飞行异常之后安全着陆",
+  "Link": "https://www.solidot.org/story?sid=67895",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t火星直升机 Ingenuity \u003ca href=\"https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly\"\u003e\u003cu\u003e完成了在火星上的第六次飞行\u003c/u\u003e\u003c/a\u003e，期间发生飞行异常，但最终还是设法安全着陆。这次飞行计划在爬升到 10 米之后向西南方向飞行 150 米，再向南飞行 50 米，最后朝东北方向飞行 50 米，总飞行时间预计为 140 秒。但在第一阶段飞行结束时遇到了问题，Ingenuity 出现振荡，横摇和纵摇超过 20 度，电力消耗大幅增加。JPL 发现原因是 Ingenuity 用于估计速度和位置使用的图像丢失了一幅，破坏了后续图像的时间戳，导航算法因而发生了混乱。Ingenuity 还是能按照预定路线飞行和着陆，原因是为了避免飞尘它被编程在着陆前关闭视觉导航系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-28T15:09:21Z",
+  "Author": "WinterIsComing"
+}

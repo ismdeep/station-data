@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因安全漏洞 Google 暂时关闭了小米设备与 Nest 设备之间的连接",
+  "Link": "https://www.solidot.org/story?sid=63160",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名 Reddit 用户\u003ca href=\"https://www.reddit.com/r/googlehome/comments/eine1m/when_i_load_the_xiaomi_camera_in_my_google_home/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e，他购买的小米监控探头串联了 Google Nest 设备，当他通过应用查看探头拍摄的照片时却发现其他人家的静态照片，包括婴儿睡觉、婴儿玩玩具以及一名男性在椅子上睡觉的照片。Google 在了解此事之后\u003ca href=\"https://support.google.com/googlenest/thread/4094660?msgid=24592372\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e暂时关闭了小米设备与 Nest 设备之间的连接，称它正与小米合作解决该问题，在确保问题完全解决之前它不会恢复小米设备的摄像头连接功能。小米\u003ca href=\"https://it.slashdot.org/story/20/01/04/000243/google-disables-all-xiaomi-device-integrations-pending-security-review\" target=\"_blank\"\u003e\u003cu\u003e则发表声明\u003c/u\u003e\u003c/a\u003e，称问题是缓存更新导致的，如果用户的摄像头和显示器之间的网络状况较差它会展示静态照片。小米称只有 1044 名设置了该功能的用户受到影响，表示问题已经解决。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-04T08:01:24Z",
+  "Author": "WinterIsComing"
+}

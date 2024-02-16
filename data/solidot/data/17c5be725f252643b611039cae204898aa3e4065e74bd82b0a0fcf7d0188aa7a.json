@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么不要使用 VPN 服务",
+  "Link": "https://www.solidot.org/story?sid=62335",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在流行 VPN 服务  NordVPN 证实遭到入侵但披露滞后的\u003ca href=\"https://www.solidot.org/story?sid=62318\"\u003e\u003cu\u003e新闻\u003c/u\u003e\u003c/a\u003e传出之后，为什么\u003ca href=\"https://gist.github.com/joepie91/5a9909939e6ce7d09e29\" target=\"_blank\"\u003e\u003cu\u003e不要使用\u003c/u\u003e\u003c/a\u003e VPN 服务的\u003ca href=\"https://news.ycombinator.com/item?id=21326484\"\u003e\u003cu\u003e争论\u003c/u\u003e\u003c/a\u003e再起。VPN 是一种代理服务器，服务商能看到用户的所有流量，虽然有服务商自称不记录用户的任何日志，但你根本无法验证这一声明，我们可以基本确定 VPN 服务商记录了用户日志，否则碰上法律问题，你每月 5 到 10 美元的费用根本连律师的咖啡钱都不够出的。如果你需要确保浏览的安全和隐私，那么最好的方法是自己购买一个 VPS，然后搭建 VPN 服务，有很多软件可以选择，比如 \u003ca href=\"https://github.com/StreisandEffect/streisand/blob/master/README-chs.md\"\u003e\u003cu\u003eStreisand\u003c/u\u003e\u003c/a\u003e，\u003ca href=\"https://github.com/trailofbits/algo\"\u003e\u003cu\u003eAlgo\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T04:29:47Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 释出补丁修复一个正被利用的 Firefox 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63215",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/security/advisories/mfsa2020-03/#CVE-2019-17026\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e  Firefox v72.0.1 和 ESR 68.4.1，\u003ca href=\"https://www.zdnet.com/article/mozilla-patches-firefox-zero-day-reported-by-qihoo-360/\" target=\"_blank\"\u003e\u003cu\u003e紧急修复了\u003c/u\u003e\u003c/a\u003e一个正被利用的漏洞。该漏洞属于类型混淆，影响  IonMonkey，它是 Firefox JS 引擎 SpiderMonkey 的 JIT 编译器。该漏洞由中国安全公司奇虎 360 发现和报告，细节没有披露。该公司在一则已删除的推文中称，IE 也有一个 0day 漏洞也正被利用。这是 Mozilla 在过去一年修复的第三个 0day 漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-09T09:42:55Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Meta 测试 Messenger 默认启用端对端加密",
+  "Link": "https://www.solidot.org/story?sid=72468",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMeta/Facebook \u003ca href=\"https://about.fb.com/news/2022/08/testing-end-to-end-encrypted-backups-and-more-on-messenger/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它开始测试 Messenger 聊天默认启用端对端加密。端对端的加密和解密是在通讯端的双方进行的，因此服务商也无法知道会话内容，这能有效防止第三方监听。Meta 称除非用户选择向他们报告否则它也不会知道聊天内容，社交巨人计划到 2023 年在全球默认启用个人消息的通话和端对端加密。Messenger 还将继续提供阅后即焚的 Disappearing 功能，在端到端加密聊天中被查看的消息会在预先设定的时间段后自动消失。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-15T10:32:16Z",
+  "Author": "WinterIsComing"
+}

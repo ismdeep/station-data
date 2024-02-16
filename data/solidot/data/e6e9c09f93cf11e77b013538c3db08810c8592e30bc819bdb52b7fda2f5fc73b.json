@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么 Android12 有如此多的 Bug？",
+  "Link": "https://www.solidot.org/story?sid=70405",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAndroid 12 是该平台近期最雄心勃勃的更新之一，为操作系统各个方面带来了重大设计变化。它\u003ca href=\"https://www.theverge.com/22881882/android-12-google-pixel-6-pro-bugs-oneplus-oxygenos-12-samsung-one-ui-4-update\"\u003e\u003cu\u003e也是过去几年推出的最糟糕的 Android操 作系统之一\u003c/u\u003e\u003c/a\u003e。三星和一加都因严重 bug 报告暂停推出基于 Android 12 的稳定更新。Google 解决了 Pixel 6 用户提交的一系列 bug 报告——就在该公司正试图说服用户，它终于弄清楚如何打造出一款真正高端手机的时候。这到底是怎么回事？简单说是因为一些独特的复杂因素造成了这种状况，而 Android 本质上也有点混乱——和苹果的围墙花园相比，如果你想设计一个令人愉快的公园，就会出现这种情况。尽管外观焕然一新，推出了有吸引力的高端新机型，但 Android 仍然是 Android——好的方面如此，坏的方面也如此。\n\u003cbr/\u003e\n\u003cbr/\u003e\n为了弄清楚到底发生了什么，我们采访了 XDA Developers 前主编 Mishaal Rahman，他以挖掘 Android 代码库和发现 Google 的秘密闻名。在谈到 Pixel 6 的 bug 时，Rahman 猜测这与这次更新的规模异常大有很大关系。“包括我自己在内的许多人都称它为自 Android 5.0 Lollipop 以来最大的操作系统更新，Android 5.0 Lollipop 是好多年前的事了。界面和功能集发生如此多的巨大变化。”他还表示，Google 承诺每年发布一个新的 Android 更新可能会使事情变得更糟，因为它想做的事情太多了，而自我强加的一年开发周期并没有在时间表上留下太多回旋余地。“他们在 Android 11 向公众发布后立即就开始了——而且他们有一个严格的截止日期……之后他们就只专注于修复 bug。”再拖延下去，他们就有可能进入明年的开发周期。\n\u003cbr/\u003e\n\u003cbr/\u003e\n尝试为非 Google 设备提供及时的 Android 更新也可能适得其反。长期以来，Android 手机用户一直在要求\n更快的更新——除了 Google 的 Pixel 手机和昂贵的旗舰手机之外，许多设备都需要长时间等待操作系统更新。今年的更新来得更快。举个例子：三星用户习惯于在 Android 稳定版发布大约三个月后才能得到使用新版操作系统的 One UI 更新，但是今年One UI 4.0 在 Android 12 推出一个半月后就推出了。但今年的情况发生了变化，很多用户可能会选择更慢、更稳定的更新，而不是充满 bug 的快速更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-18T08:51:28Z",
+  "Author": "wanwan"
+}

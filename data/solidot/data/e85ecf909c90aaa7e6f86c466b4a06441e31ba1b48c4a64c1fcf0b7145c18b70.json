@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苏俄如何监听美国大使馆的打字员",
+  "Link": "https://www.solidot.org/story?sid=63225",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t最近出版的一本新书回顾了冷战期间美国和苏联之间的谍报战，讲述了\u003ca href=\"https://spectrum.ieee.org/tech-history/silicon-revolution/the-crazy-story-of-how-soviet-russia-bugged-an-american-embassys-typewriters\" target=\"_blank\"\u003e\u003cu\u003e一段尘封已久的供应链攻击案例\u003c/u\u003e\u003c/a\u003e：神秘的苏联工程师巧妙的替换 IBM 打字机零部件去监听美国大使馆打字员的打字内容，而 NSA 的电机工程师费了多年时间揭开了这一秘密。1970 年代末有多名美国间谍遭到逮捕，但美国情报界不知道他们的身份是如何曝光的。首次突破来自于在莫斯科大使馆无意发现的假烟囱腔内的八木天线，但天线的用途和无线发射机的下落仍然不明。NSA 工程师 Charles Gandy 对此展开了多年的寻找，他得到了里根总统的授权，将大使馆内的所有电子设备都安全打包运回美国。每个设备都被拆开，用 X 射线进行扫描。在进行了数万次扫描之后，技术人员在一台 IBM 打字机的 on/off 开关内发现了一个小线圈，Gandy 认为它充当了降压器为打印机内的东西供应低电压电。他最终发现，打印机内的有多个零件被替换了，一个外形相同的固体铝棒里面是空的，被放入了一个电路板和六个磁强计，磁强计能感知按键的移动，按键的信息被储存加密然后发送出去。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-10T06:46:29Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 基金会年度报告是在 Mac 上制作的",
+  "Link": "https://www.solidot.org/story?sid=66278",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinux 基金会公布了\u003ca href=\"https://www.linuxfoundation.org/blog/2020/12/download-the-2020-linux-foundation-annual-report/\"\u003e\u003cu\u003e年度报告\u003c/u\u003e\u003c/a\u003e，回顾了即将过去的 2020 年，表示对基金会和社区来说都是富有挑战性的一年。诸如此类。Linux 基金会是一个非营利性的贸易协会，旨在推广 Linux。你可能会以为报告是在某个 Linux 发行版用开源软件制作的，但对报告元数据的分析\u003ca href=\"https://daniel-lange.com/archives/166-No-dog-food-today-the-Linux-Foundation-annual-report.html\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e它是在苹果 MacOS Catalina 10.15.7 系统上使用 Adobe Creative Cloud 制作的，都是私有软件。报告使用的图像也被其他人使用了很多次，其历史也很悠久了，不会是 2019 年或 2020 年的，因为图像里的人运行的是配备英特尔 Core 2 Duo 处理器的 MacBook。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-04T12:25:09Z",
+  "Author": "blackhat"
+}

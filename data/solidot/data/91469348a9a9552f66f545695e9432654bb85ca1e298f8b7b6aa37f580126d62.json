@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails 4.4 发布",
+  "Link": "https://www.solidot.org/story?sid=63842",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAmnesia Incognito Live System Tails 发行版释出了 \u003ca href=\"https://tails.boum.org/news/version_4.4/index.en.html\"\u003e\u003cu\u003e4.4 版本\u003c/u\u003e\u003c/a\u003e，该版本修正了上一个版本的多个安全漏洞，建议用户尽可能快的升级。其它更新包括 Tor Browser 9.0.6，Thunderbird 68.5.0，Linux 5.4.19，修复了与  Wi-Fi 相关的问题。Tails 是基于 Debian GNU/Linux 和 Tor 的 Live 操作系统，能安装在光盘、U 盘和 SD 卡上，可以随身携带，需要时直接从光盘、U 盘或 SD 卡启动。它预先配置让所有流量都经过 Tor，不留下任何跟踪痕迹。它最著名用户可能是 NSA 告密者 Edward Snowden。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-17T06:59:07Z",
+  "Author": "WinterIsComing"
+}

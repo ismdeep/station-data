@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Android 11 引入多个系统安全加固",
+  "Link": "https://www.solidot.org/story?sid=64848",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 官方博客\u003ca href=\"https://security.googleblog.com/2020/06/system-hardening-in-android-11.html\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e将于秋季发布的 Android 11 操作系统的新安全加固功能。Android 11 的用户空间和内核将启用自动内存初始化，消除内存未初始化 bug；用户空间启用自动堆栈变量初始化；内核的自动堆栈和堆初始化；默认分配器用 Scudo 替换了jemalloc，对内存分配器进行了加固；生产中堆内存安全 bug 检测工具 GWP-ASan；支持内核 HWASAN，Android 10 的用户空间已经支持 HWASAN；等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-03T14:47:16Z",
+  "Author": "WinterIsComing"
+}

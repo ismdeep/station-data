@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "卡巴斯基相信它发现了新的 CIA 恶意程序",
+  "Link": "https://www.solidot.org/story?sid=67645",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t卡巴斯基相信它\u003ca href=\"https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/\" target=\"_blank\"\u003e\u003cu\u003e发现了 CIA 开发的新恶意程序\u003c/u\u003e\u003c/a\u003e。卡巴斯基是在一个恶意程序样本集中发现一个编程模式、风格和技术与 CIA 黑客工具 Lambert 相似的恶意程序，它将其命名为 Purple Lambert，编译时间是在 2014 年，部署时间可能是在 2014 年或 2015 年。Purple Lambert 的作用是充当后门去监听特定数据包的网络流量。上一次 CIA 黑客工具集大规模泄密是 2017 年的 Vault 7。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-29T03:17:28Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "专业软件的强制订阅让开源替代更有吸引力",
+  "Link": "https://www.solidot.org/story?sid=62557",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t越来越多的专业图形和 3D 软件开始采用强制性订阅模式，不再提供独立的零售版本。包括 3DMax、Maya、AutoCAD (Autodesk)和 Substance Painter (Adobe)的专业软件都只提供订阅选项，不能离线安装或激活，并且会每隔几天就会检查一次你的订阅情况，确保你支付了租金。如果停止支付订阅费用，你将无法再访问你创建任何项目。这种做法正迫使众多中小型企业转向了开源替代，没有任何限制的开源 3D 图形软件以及其它专业性质的开源软件日益\u003ca href=\"https://news.slashdot.org/story/19/11/09/064248/are-forced-subscriptions-driving-3d-users-to-open-source-tools\"\u003e\u003cu\u003e受到用户的青睐\u003c/u\u003e\u003c/a\u003e。它们在功能上也并不比私有订阅替代差，这些软件包括 3D 图形软件  \u003ca href=\"https://www.blender.org/\"\u003eBlender\u003c/a\u003e，多边形建模工具 \u003ca href=\"http://www.wings3d.com/\"\u003eWings 3D\u003c/a\u003e 和 \u003ca href=\"https://dust3d.org/\" target=\"_blank\"\u003eDust3D\u003c/a\u003e，CAD 建模工具 \u003ca href=\"https://www.freecadweb.org/\" target=\"_blank\"\u003eFreeCAD\u003c/a\u003e，PBR 纹理工具 \u003ca href=\"https://armorpaint.org/\" target=\"_blank\"\u003eArmorPaint\u003c/a\u003e，图像编辑软件 \u003ca href=\"https://www.gimp.org/\"\u003eGIMP\u003c/a\u003e、绘图工具 \u003ca href=\"https://krita.org/en/\"\u003eKrita\u003c/a\u003e、矢量绘图工具  \u003ca href=\"https://inkscape.org/\"\u003eInkscape\u003c/a\u003e 和 2D/3D 游戏引擎 \u003ca href=\"https://godotengine.org/\"\u003eGodot Engine\u003c/a\u003e 等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-11T04:55:35Z",
+  "Author": "wenfeixiang"
+}

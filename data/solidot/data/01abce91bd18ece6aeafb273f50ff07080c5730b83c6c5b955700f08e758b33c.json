@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 机器人程序模拟购物但不清空购物车",
+  "Link": "https://www.solidot.org/story?sid=64850",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 爬虫程序会模拟购物，在电商网站的购物车内加入商品检查下价格，然后头也不回就走了，留下了一大堆加入了商品的无用购物车。一年多来，电子商务网站的商家发现了一位神秘的买家，使用非常普通的名字如 John Smith 在他们网站上购物，每次只在购物车里加入一件商品，然后没多久就消失的无影无踪了，留下了几十个订单。许多线索指向了 Google：这位买家使用了 Gmail 邮箱如 john.smith.us2@gmail.com，john.smith.us30@gmail.com 等等，邮寄地址位于Google 总部所在地加州山景城。WSJ 联络了 Google，搜索巨人之后\u003ca href=\"https://www.wsj.com/articles/who-is-the-mystery-shopper-leaving-behind-all-those-online-shopping-carts-11593617464\" target=\"_blank\"\u003e\u003cu\u003e承认\u003c/u\u003e\u003c/a\u003e John Smith 是该公司的机器人程序，旨在确保产品的打包价是否与 Google Shopping 平台上的标价相同。Google 发言人\u003ca href=\"https://searchengineland.com/wsj-googlebot-can-add-products-to-shopping-carts-337098\"\u003e\u003cu\u003e称\u003c/u\u003e\u003c/a\u003e，他们使用自动系统确保消费者得到的是精确的价格信息，确保标价和加入到购物车后的价格相同。如果没有通过价格验证，自动系统将会拒绝批准商品上架。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-07-04T09:13:07Z",
+  "Author": "WinterIsComing"
+}

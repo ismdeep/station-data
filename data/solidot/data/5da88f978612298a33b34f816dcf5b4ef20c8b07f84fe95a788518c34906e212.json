@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "甲骨文靠拷贝 IBM 的 SQL 发家致富",
+  "Link": "https://www.solidot.org/story?sid=63803",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国最高法院本月晚些时候将就甲骨文诉 Google 的 Java API 侵权案举行听证会，结果被认为会对整个软件行业产生深远影响。Google 否认自己有错，版权法将“系统”和“操作方法”排除在版权保护之内。Google 称它的做法符合这些例外规定。软件行业密切观察着此案，微软和 IBM 都警告甲骨文的立场会给行业制造混乱。API 能被版权保护不仅会给让许多公司陷入法律上的麻烦，也不利于消费者。软件公司一直拷贝竞争对手产品的编程接口 API 去实现互操作性，允许客户将设计用于一个平台的软件重复用于另一个平台，减少切换开销。这也降低了创业公司进入的门槛，因为如果它们的软件能与客户熟悉的软件相兼容那么这将能更容易推销产品。\u003ca href=\"https://arstechnica.com/tech-policy/2020/03/before-it-sued-google-for-copying-from-java-oracle-got-rich-copying-ibms-sql/\" target=\"_blank\"\u003e\u003cu\u003e甲骨文本身就是靠这种方法起家的\u003c/u\u003e\u003c/a\u003e。它的数据库产品是基于 IBM 发明的 SQL 结构化查询语言，而它使用 SQL 并没有从 IBM 获得许可。甲骨文拷贝 SQL 的方式与 Google 拷贝 Java 的方式十分接近，当然甲骨文发言人对此有不同看法。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-12T13:48:55Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WordPress 插件 bug 允许攻击者远程重置网站内容",
+  "Link": "https://www.solidot.org/story?sid=63556",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t使用 ThemeGrill 商业主题的 WordPress 网站站长需要尽快更新随主题一起安装的插件，以修复可能导致网站所有内容归零的\u003ca href=\"https://www.zdnet.com/article/bug-in-wordpress-plugin-can-let-hackers-wipe-up-to-200000-sites/\" target=\"_blank\"\u003e\u003cu\u003e严重 bug\u003c/u\u003e\u003c/a\u003e。bug 存在于 \u003ca href=\"https://wordpress.org/plugins/themegrill-demo-importer/\" target=\"_blank\"\u003e\u003cu\u003eThemeGrill Demo Importer\u003c/u\u003e\u003c/a\u003e 中，该插件用于导入演示内容到 ThemeGrill 主题内，它被安装在 20 多万个网站上。WordPress 安全公司 WebARX \u003ca href=\"https://www.webarxsecurity.com/critical-issue-in-themegrill-demo-importer/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，旧版本 ThemeGrill Demo Importer 允许远程攻击者发送特质负荷到存在漏洞的网站触发插件功能。该功能会将所有网站内容重置为零，事实上清空启用 ThemeGrill 主题的网站所有内容。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-18T07:14:52Z",
+  "Author": "WinterIsComing"
+}

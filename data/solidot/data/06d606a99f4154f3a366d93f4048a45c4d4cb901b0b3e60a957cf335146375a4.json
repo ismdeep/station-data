@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将支持 AV1 硬件加速",
+  "Link": "https://www.solidot.org/story?sid=71044",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Bugzilla 上的\u003ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1652945\"\u003e\u003cu\u003e一则帖子\u003c/u\u003e\u003c/a\u003e，Mozilla 准备在 Firefox 中\u003ca href=\"https://www.neowin.net/news/two-years-after-chrome-and-edge-firefox-is-getting-av1-hardware-acceleration/\" target=\"_blank\"\u003e\u003cu\u003e正式加入\u003c/u\u003e\u003c/a\u003e AV1 视频格式的硬件加速支持。AV1 是 AOMedia 在 2018 年释出的开源免专利费编解码器，其 4K UHD 视频压缩率高于竞争的编码器。Mozilla 开发者计划在 Firefox 100 中实现 AV1 硬件解码支持，该版本计划在 2022 年 5 月 3 日发布。Google 和 微软是在 2020 年底在各自的浏览器 Chrome 和 Edge 中支持 AV1 硬件加速。Mozilla 没有匆忙跟随，原因是 AV1 硬件加速支持需要相应硬件的普及。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-24T06:16:35Z",
+  "Author": "WinterIsComing"
+}

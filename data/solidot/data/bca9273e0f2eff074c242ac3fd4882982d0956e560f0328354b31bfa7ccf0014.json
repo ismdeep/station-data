@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Wi-Fi 芯片漏洞影响数亿设备",
+  "Link": "https://www.solidot.org/story?sid=63672",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://arstechnica.com/information-technology/2020/02/flaw-in-billions-of-wi-fi-devices-left-communications-open-to-eavesdroppng/\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e一个影响数亿设备的 Wi-Fi 芯片漏洞，大部分设备已经打上了补丁。漏洞存在于 Cypress Semiconductor 和 Broadcom 制造的 Wi-Fi 芯片中，影响的设备包括了 iPhone、 iPad、Mac、Amazon Echo 和 Kindle、Android 设备、Raspberry Pi 3，以及华硕华为制造的 Wi-Fi 路由器。发现漏洞的安全公司 Eset 将其命名为 Kr00k，厂商已经为大部分受影响设备提供了补丁，但不清楚有多少设备安装了补丁。漏洞发生在设备与无线访问点解离过程中，附近的攻击者可以发送解离封包触发漏洞。苹果表示去年 10 月它就释出了补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-01T01:49:33Z",
+  "Author": "WinterIsComing"
+}

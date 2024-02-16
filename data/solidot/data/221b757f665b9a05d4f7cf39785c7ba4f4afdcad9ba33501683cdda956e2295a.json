@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员演示在芯片上集成水冷",
+  "Link": "https://www.solidot.org/story?sid=65499",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t液体冷却系统一大局限是需要先将芯片产生的热量带走送入水中，因此有研究人员考虑让芯片直接集成液冷。根据发表在《自然》期刊上的\u003ca href=\"https://www.nature.com/articles/d41586-020-02503-1\"\u003e\u003cu\u003e一项研究\u003c/u\u003e\u003c/a\u003e，瑞士洛桑联邦理工学院（EPFL）研究团队\u003ca href=\"http://news.sciencenet.cn/htmlnews/2020/9/445329.shtm\"\u003e\u003cu\u003e报告了\u003c/u\u003e\u003c/a\u003e首个微芯片内的集成液体冷却系统，这种新系统与传统的电子冷却方法相比，表现出了优异的冷却性能。这一成果意味着，通过将液体冷却直接嵌入电子芯片内部来控制电子产品产生的热量，将是一种前景可观、可持续，并且具有成本效益的方法。研究描述了一种全新集成冷却方法，对其中基于微流体的散热器与电子器件进行了共同设计，并在同一半导体衬底内制造。研究人员报告称，其冷却功率最高可达传统设计的 50 倍。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-10T07:39:50Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 从 MySQL 5.6 升级到 MySQL 8.0",
+  "Link": "https://www.solidot.org/story?sid=68360",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t社交巨人透露它的数据库版本从 MySQL 5.6 迁移到 MySQL 8.0。Facebook 称，上一次大版本升级到 MySQL 5.6 花了一年多时间才完成，当 5.7 发布时它正在开发 LSM-Tree 存储引擎 MyRocks，而这个引擎是基于 5.6，升级到 5.7 的同时开发存储引擎会显著拖慢整个进程，因此 Facebook 决定留在 5.6 等待 MyRocks 完成开发。当它完成 MyRocks 部署时 MySQL 8.0 发布了。此时 5.6 已接近寿命结束，加入 8.0 带来了很多新的功能，\u003ca href=\"https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/\" target=\"_blank\"\u003e\u003cu\u003e它决定升级到  8.0\u003c/u\u003e\u003c/a\u003e。这个过程比之前的升级更具挑战性。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-23T04:06:57Z",
+  "Author": "WinterIsComing"
+}

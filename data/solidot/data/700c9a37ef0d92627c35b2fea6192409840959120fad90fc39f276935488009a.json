@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 和甲骨文的云服务因英国高温天气而下线",
+  "Link": "https://www.solidot.org/story?sid=72189",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t周二英国多地的温度突破了 40 摄氏度，Google 和甲骨文在英国的数据中心\u003ca href=\"https://it.slashdot.org/story/22/07/19/204256/google-oracle-cloud-servers-wilt-in-uk-heatwave-take-down-websites\" target=\"_blank\"\u003e\u003cu\u003e发生了\u003c/u\u003e\u003c/a\u003e冷却相关的故障。根据 Google Cloud 的\u003cu\u003e状态\u003c/u\u003e\u003ca href=\"https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，伦敦三个数据中心中的一个在当天 10:13 PDT 发生了冷却故障，问题到 20:45 PDT 才完全解决。问题导致部分虚拟机停止工作，受影响网站下线。甲骨文在英国南部的数据中心也因为高温而关闭部分机器，导致客户无法访问或使用托管在当地的云基础设施。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-20T06:26:27Z",
+  "Author": "WinterIsComing"
+}

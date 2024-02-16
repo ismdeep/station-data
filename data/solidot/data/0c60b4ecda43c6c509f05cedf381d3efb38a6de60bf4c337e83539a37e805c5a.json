@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国政府想要 Signal 提供它没有收集的用户数据",
+  "Link": "https://www.solidot.org/story?sid=69446",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t端对端加密消息应用 Signal 通过其官方博客\u003ca href=\"https://signal.org/bigbrother/cd-california-grand-jury/\" target=\"_blank\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e它收到的一张法庭传票，要求提供它没有收集的用户隐私数据。加州中区的一个联邦大陪审团要求 Signal 提供大量用户数据，包括订户信息、财务信息、交易历史、通信等等，问题是 Signal \u003ca href=\"https://yro.slashdot.org/story/21/10/29/2215227/the-us-government-wants-signals-private-user-data-that-it-simply-doesnt-have\" target=\"_blank\"\u003e\u003cu\u003e根本没有收集此类信息\u003c/u\u003e\u003c/a\u003e，它无法访问用户的信息、聊天列表、群组、联系人、贴纸，个人资料名称或头像。Signal 能提供给法庭的只有账户创建和最后一次访问服务的 Unix 时间戳。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T05:01:13Z",
+  "Author": "WinterIsComing"
+}

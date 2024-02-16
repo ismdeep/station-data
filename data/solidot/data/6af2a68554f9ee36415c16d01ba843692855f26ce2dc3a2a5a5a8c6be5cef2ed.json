@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zyxel 产品发现硬编码管理账号",
+  "Link": "https://www.solidot.org/story?sid=66494",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tZyxel 防火墙、VPN 等产品\u003ca href=\"https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html\" target=\"_blank\"\u003e发现了\u003c/a\u003e一个硬编码管理账号或“后门”。Zyxel 已经释出了\u003ca href=\"https://www.zyxel.com/support/CVE-2020-29583.shtml\"\u003e\u003cu\u003e补丁\u003c/u\u003e\u003c/a\u003e修复了该问题。安全研究员称，后门账号存在于固件版本 4.60 patch 0 中，用户名为 zyfwp，该账号可通过 SSH 和 Web 接口登陆。该用户是不可见的，密码不可修改，在之前的固件版本中也存在同样的用户名，但并没有密码，因此后门账号是在 4.60 固件中引入的。根据  Project Sonar 的统计，有超过 10 万 Zyxel USG/ATP/VPN 设备将其 Web 接口暴露在互联网上。Zyxel 称，该账号是用于通过 FTP 从访问点传送自动固件更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-27T14:24:51Z",
+  "Author": "WinterIsComing"
+}

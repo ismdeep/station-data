@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Ubuntu 下一个版本默认不再支持 Flatpak",
+  "Link": "https://www.solidot.org/story?sid=74217",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tUbuntu 及其衍生发行版 Kubuntu 等联合宣布，计划在 2023 年 4 月释出的下一个版本 Lunar Lobster 默认移除对 Flatpak 格式的支持，以“改进新用户开箱即用的体验”。Flatpak 是与 Canonical 自家打包格式 Snap 竞争的格式， 默认不支持 Flatpak 意味着普通用户将只能使用 Snap 以及 Canonical 控制的应用商店。除了 Ubuntu 及其衍生发行版，很少有其它发行版使用 Snap。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://discourse.ubuntu.com/t/ubuntu-flavor-packaging-defaults/34061\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-23T11:21:07Z",
+  "Author": "Wilson"
+}

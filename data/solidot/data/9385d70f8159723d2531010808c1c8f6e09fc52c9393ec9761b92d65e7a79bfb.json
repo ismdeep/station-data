@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.8-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=64677",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.8 的首个 rc 版本，形容 Linux 5.8 的变更规模可以进入内核发布历史的前\u003ca href=\"https://www.zdnet.com/article/linus-torvalds-linux-kernel-5-8-is-one-of-our-biggest-releases-of-all-time/\"\u003e列\u003c/a\u003e。Linux 5.8 包含了 80 万行新代码，超过 1.4 万文件变更，占到了内核文件数的五分之一。之前几次大的内核版本主要是因为合并了驱动如 AMD GPU 驱动，Linux 5.8 略有不同，有相当大一部分是因为基础性的核心工作和清理，其变化包括了微软 Hyper-V 虚拟化平台更新，ARM 芯片，Direct Rendering Manager (DRM) 子系统等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-16T14:38:51Z",
+  "Author": "WinterIsComing"
+}

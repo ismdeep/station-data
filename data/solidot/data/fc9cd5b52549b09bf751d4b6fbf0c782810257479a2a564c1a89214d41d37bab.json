@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DNS 解析程序漏洞允许攻击者发动拒绝服务攻击",
+  "Link": "https://www.solidot.org/story?sid=64443",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDNS 解析程序的一个漏洞允许攻击者通过封包放大创造拒绝服务条件。该漏洞被称为 \u003ca href=\"http://cyber-security-group.cs.tau.ac.il/\"\u003e\u003cu\u003eNXNSAttack\u003c/u\u003e\u003c/a\u003e。攻击者\u003ca href=\"https://en.blog.nic.cz/2020/05/19/nxnsattack-upgrade-resolvers-to-stop-new-kind-of-random-subdomain-attack/\" target=\"_blank\"\u003e\u003cu\u003e滥用了 DNS 委托机制\u003c/u\u003e\u003c/a\u003e，它发送的委托只包含权威 DNS 服务器的名字但不包含其 IP 地址。DNS 解析程序不能向“名字”发送域名查询，因此解析器首先需要获得权威 DNS 服务器的 IPv4 或 IPv6 地址，之后才能继续查询域名。NXNSAttack 就是基于这一原理，攻击者发送的委托包含了假的权威服务器名字，指向受害者的 DNS 服务器，迫使解析程序对受害者的 DNS 服务器生成查询。一次查询会被放大数十次乃至数百次，对受害者服务器发动了拒绝服务攻击。众多 DNS 软件都受到影响，其中包括 ISC BIND (CVE-2020-8616)、NLnet labs Unbound (CVE-2020-12662)、PowerDNS (CVE-2020-10995)、 CZ.NIC Knot Resolver (CVE-2020-12667)、Cloudflare、Google、Amazon、Microsoft、Oracle(DYN)、Verisign、IBM Quad9 和 ICANN。细节可查阅\u003ca href=\"http://cyber-security-group.cs.tau.ac.il/dns-ns-paper.pdf\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-22T09:46:12Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "台积电称 2 纳米芯片开发生态系统基本完成",
+  "Link": "https://www.solidot.org/story?sid=76329",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t台积电称其 2 纳米工艺引入了多项新技术，包括 GAA 晶体管、背面供电和超高性能金属绝缘体-金属（SHPMIM）电容器等，芯片设计师将需要使用全新的 EDA（electronic design automation）、模拟和验证工具。2 纳米工艺预计将要到 2025 年下半年投产，时间还充裕，相关工具也基本准备就绪。目前 Cadence、Synopsys、Ansys、Siemens EDA 等开发的 EDA 工具都已经获得台积电认证，芯片开发者可使用这些工具设计芯片。 \n\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-13T07:04:20Z",
+  "Author": "Wilson"
+}

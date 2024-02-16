@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "小米想要禁止用户提取 apk 文件",
+  "Link": "https://www.solidot.org/story?sid=71617",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t通过 apk 文件在 Android 设备上安装应用对开发者和用户既方便又实用，但小米想要限制用户这么做。根据 AOSP（Android 开源项目）上的\u003ca href=\"https://android-review.googlesource.com/c/platform/system/sepolicy/+/2101015/1//COMMIT_MSG\"\u003e\u003cu\u003e讨论\u003c/u\u003e\u003c/a\u003e，小米工程师\u003ca href=\"https://www.mediarunsearch.co.uk/no-apk-xiaomi-wants-to-ban-app-file-extraction-on-android/\"\u003e\u003cu\u003e提议\u003c/u\u003e\u003c/a\u003e给 Android 添加 SELinux 策略禁止提取 apk，让用户只能通过官方商店或授权网站下载应用，小米的理由是 apk 文件可能含有来自私有来源的数据，比如其中的图像可能会被其他人拿来重复使用。Google 拒绝了这一提议。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-24T08:31:49Z",
+  "Author": "WinterIsComing"
+}

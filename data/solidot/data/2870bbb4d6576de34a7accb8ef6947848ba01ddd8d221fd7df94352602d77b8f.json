@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "广告屏蔽扩展被出售之后变成恶意程序",
+  "Link": "https://www.solidot.org/story?sid=65868",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tHugo Xu 在流行广告扩展 uBlock Origin 基础上开发了广告屏蔽扩展 Nano Adblocker 和 Nano Defender，安装量大约有 30 万。18 天前他\u003ca href=\"https://github.com/NanoAdblocker/NanoCore/issues/362\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e自己没有时间维护扩展，其开发落后于上游版本几个月，因此他决定出售发布在 Google 扩展商店 Chrome Web Store 中的版本所有权，声明对新开发者的任何行动不再负责任。几天前，uBlock Origin 的开发者 Raymond Hill \u003ca href=\"https://github.com/NanoAdblocker/NanoCore/issues/362#issuecomment-709428210\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e，新开发者释出了更新\u003ca href=\"https://arstechnica.com/information-technology/2020/10/popular-chromium-ad-blockers-caught-stealing-user-data-and-accessing-accounts/\"\u003e\u003cu\u003e加入了恶意功能\u003c/u\u003e\u003c/a\u003e。新版本会悄悄上传用户浏览数据，并操作用户的社交媒体账号给 Instagram 上的照片点赞。Google 在收到报告之后已经将扩展移除。Xu 表示发表在 Firefox 和 Microsoft Edge 扩展商店的版本不受影响。这不是第一次扩展转手之后变成了恶意程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-21T06:25:59Z",
+  "Author": "WinterIsComing"
+}

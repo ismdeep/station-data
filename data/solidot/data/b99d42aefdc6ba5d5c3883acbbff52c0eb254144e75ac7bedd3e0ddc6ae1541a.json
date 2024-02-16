@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Devuan 4.0 发布",
+  "Link": "https://www.solidot.org/story?sid=69256",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDevuan 发行版释出了代号为 Chimaer 的 \u003ca href=\"https://files.devuan.org/devuan_chimaera/Release_notes.txt\" target=\"_blank\"\u003e\u003cu\u003eDevuan 4.0\u003c/u\u003e\u003c/a\u003e。Devuan 4.0 是基于 Debian Bullseye，使用的内核版本为 Linux kernel 5.10；可选 init 系统包括 sysvinit、runit 和 OpenRC；改进了桌面支持；新的引导、显示管理器和桌面主题；增强了可访问性，等等。Devuan 发行版是因为初始化系统 systemd 争议而由一群不满的 Debian 开发者创建的不使用 systemd 的分支。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-15T11:52:45Z",
+  "Author": "WinterIsComing"
+}

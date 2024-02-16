@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 释出 Firefox 74.0.1 修复正被利用的漏洞",
+  "Link": "https://www.solidot.org/story?sid=64028",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/74.0.1/releasenotes/\"\u003eFirefox 74.0.1\u003c/a\u003e，修复了两个正被利用的 \u003ca href=\"https://www.mozilla.org/en-US/security/advisories/mfsa2020-11/\"\u003e\u003cu\u003e0day 漏洞\u003c/u\u003e\u003c/a\u003e。两个漏洞编号 CVE-2020-6819 和 CVE-2020-6820，都属于使用后释放（use-after-free）漏洞，前者与 nsDocShell 解构子有关，后者与 ReadableStream 有关。Mozilla 没有公布漏洞细节，只是表示两个漏洞正被利用发动针对性攻击。JMP Security 的安全研究员 Francisco Alonso 发现了这两个 0day 漏洞，根据其在 Twitter 上发表的\u003ca href=\"https://twitter.com/revskills/status/1246145858107838464?ref_src=twsrc%5Etfw\"\u003e\u003cu\u003e帖子\u003c/u\u003e\u003c/a\u003e，其它浏览器也可能受到影响。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-04T07:32:12Z",
+  "Author": "WinterIsComing"
+}

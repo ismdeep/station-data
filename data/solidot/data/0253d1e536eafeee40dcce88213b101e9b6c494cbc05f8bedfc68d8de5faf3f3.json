@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 开源 FSR 3",
+  "Link": "https://www.solidot.org/story?sid=76889",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 在 MIT 许可证下开源了 FSR（FidelityFX Super Resolution）3，与英伟达 DLSS 竞争的上采样技术，但与 DLSS 不同的是，它不依赖私有的 CUDA 核心，而是基于软件。FSR 3 组合了上采样和帧生成，它目前只支持 DirectX 12，对 Vulkan 的支持还在开发中，会在未来版本中发布。AMD 是在 9 月底发布了 FSR 3，当时只有《Forspoken》和《Immortals of Aveum》两款游戏支持，未来会有更多游戏支持，包括游戏科学的《黑神话：悟空》。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://gpuopen.com/fidelityfx-super-resolution-3/\u003cbr/\u003e\nhttps://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-15T04:11:51Z",
+  "Author": "Wilson"
+}

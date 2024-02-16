@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客花 16 美元就能获得一个人的所有短信",
+  "Link": "https://www.solidot.org/story?sid=67221",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位黑客\u003ca href=\"https://www.vice.com/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber\"\u003e演示了\u003c/a\u003e如何轻而易举的获取一个人的短信，只需要花钱不需要多少专门知识，而受害者甚至完全不知情。黑客利用的不是 SIM swapped，也不是依赖于 SS7（Signaling System Number 7）路由协议漏洞，而是借助商业短信营销服务 Sakari。Sakari 提供了短信群发和提醒服务，允许客户自己添加想要发送和接收短信的手机号码，它最便宜的方案只要 16 美元。如何获取目标手机的所有短信？方法很简单，直接用该手机号码注册然后选择接收短信，目标手机的短信就转发给了黑客。美国民主党参议员 Ron Wyden 认为，FCC 需要使用其权威迫使手机公司保护其网络，前主席 Pai 让行业自我监管的方法明显失败了。在掌握短信之后，攻击者可以进一步入侵使用手机号码的各类服务，如银行账号和消息应用。代表移动行业的贸易组织 CTIA 表示对此展开了调查，称没有运营商能复现攻击，没有观察到可疑活动的迹象。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-16T11:26:39Z",
+  "Author": "WinterIsComing"
+}

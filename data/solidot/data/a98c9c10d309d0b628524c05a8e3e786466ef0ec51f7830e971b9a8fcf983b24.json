@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FFmpeg 合并 JPEG-XL 图像格式支持",
+  "Link": "https://www.solidot.org/story?sid=71390",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t广泛使用的多媒体库 FFmpeg \u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=FFmpeg-JPEG-XL-Lands\"\u003e\u003cu\u003e合并\u003c/u\u003e\u003c/a\u003e了对 JPEG-XL 图像格式的支持。\u003ca href=\"https://en.wikipedia.org/wiki/JPEG_XL\"\u003e\u003cu\u003eJPEG-XL\u003c/u\u003e\u003c/a\u003e 是一个免版税的位图文件格式，支持有损和无损压缩，设计作为其它图像格式的通用替代。JPEG-XL 比特流在 2021 年底敲定，开始逐渐被闭源和开源应用采用。虽然 JPEG-XL 旨在免版税，但微软最近获得的 rANS(range Asymmetric Numeral System) 数据压缩相关专利引发了担忧，JPEG-XL 使用了这一压缩技术。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-28T07:57:07Z",
+  "Author": "WinterIsComing"
+}

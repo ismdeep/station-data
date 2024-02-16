@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.15-rc1 释出",
+  "Link": "https://www.solidot.org/story?sid=68901",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"http://lkml.iu.edu/hypermail/linux/kernel/2109.1/05136.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.15-rc1，该版本的 commit 数是 5.x 系列最少。主要新变化\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Linux-5.15-rc1\"\u003e\u003cu\u003e包括\u003c/u\u003e\u003c/a\u003e： Paragon Software 开发的 NTFS3 内核驱动，改进对微软 NTFS 文件系统的支持；内核空间 SMB3 文件服务器  KSMBD；AMD PassThru DMA 引擎驱动；英特尔 DG2/Alchemist 和 XeHP 显卡初步支持；改进  Apple M1 支持；等等。如果一切顺利，Linux 5.15 正式版将在 11 月释出。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-13T04:32:09Z",
+  "Author": "WinterIsComing"
+}

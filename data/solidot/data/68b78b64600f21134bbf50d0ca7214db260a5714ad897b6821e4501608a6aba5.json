@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "乌克兰核电站雇员联外网挖矿",
+  "Link": "https://www.solidot.org/story?sid=61839",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t乌克兰政府\u003ca href=\"https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/\"\u003e\u003cu\u003e正在调查\u003c/u\u003e\u003c/a\u003e核电站雇员为挖掘数字货币而将部分内部网络连到外网的事故。乌克兰情报部门将此次事故视为国家机密的潜在泄露，核电设施被归类为关键基础设施。调查人员正在检查攻击者是否可能利用挖矿机器作为立足点进入核电站的网络获取系统信息，比如内部的物理防御和保护。事故发生在南乌克兰核电站，7 月 10 日情报部门突击搜查了核电站，扣押了用于挖掘数字货币的计算机和设备。根据法庭文件，核电站雇员主要是利用显卡挖矿，用的是 AMD 的 Radeon RX 470 GPU，总共用了 11 张显卡。目前不清楚核电站的挖矿作业是如何暴露的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-24T14:45:40Z",
+  "Author": "wenfeixiang"
+}

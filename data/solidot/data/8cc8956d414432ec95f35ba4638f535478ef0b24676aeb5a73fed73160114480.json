@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "朝鲜黑客用签名的 macOS 恶意程序瞄准 IT 求职者",
+  "Link": "https://www.solidot.org/story?sid=72503",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t朝鲜黑客组织 Lazarus 的黑客\u003ca href=\"https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-signed-macos-malware-to-target-it-job-seekers/\" target=\"_blank\"\u003e\u003cu\u003e使用\u003c/u\u003e\u003c/a\u003e一种签名的 macOS 可执行文件冒充 Coinbase，引诱 Web3 领域的求职者打开恶意文件。冒充 Coinbase 的招聘文件命名为 Coinbase_online_careers_2022_07，打开之后它会显示虚假的 PDF 同时加载恶意 DLL，允许攻击者向被感染设备发送指令。安全公司 ESET 的研究人员还发现了 macOS 版本的恶意程序，专门为 macOS 系统编译。macOS 版本恶意程序使用了一个截至 8 月 12 日仍然有效的签名，该签名是在今年 2 月签发给名叫 Shankey Nohria 的开发者的。恶意程序没有经过公证——苹果检查程序是否有恶意成分的自动程序。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-18T07:51:06Z",
+  "Author": "WinterIsComing"
+}

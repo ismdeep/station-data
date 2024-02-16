@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 智能手机 PinePhone 开始交付",
+  "Link": "https://www.solidot.org/story?sid=63289",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPine64 \u003ca href=\"https://www.pine64.org/2020/01/15/pinephones-start-shipping-all-you-want-to-know/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它开始交付设计运行主线发行版的 Linux 智能手机 PinePhone。首批设备将从 1 月 17 日起\u003ca href=\"https://arstechnica.com/gadgets/2020/01/the-pinephone-starts-shipping-a-linux-powered-smartphone-for-150/\" target=\"_blank\"\u003e\u003cu\u003e交付给开发者和早期尝试者\u003c/u\u003e\u003c/a\u003e。手机没有预装用户操作系统，而是提供了出厂试验镜像，验证硬件是否能工作。用户可以在设备上刷自己想要的 Linux 发行版，目前支持的\u003ca href=\"https://wiki.pine64.org/index.php/PinePhone#Operating_Systems\"\u003e\u003cu\u003e系统\u003c/u\u003e\u003c/a\u003e包括了基于 Alpine Linux 的 postmarketOS，Ubuntu Touch，Sailfish OS，Maemo Leste，LuneOS 和 Manjaro。PinePhone 目前的目标用户需要对 Linux 富有经验。相比另一个运行 Linux 系统的智能手机 Purism Librem 5，PinePhone 更便宜价格更合理，前者高达 750 美元，而后者仅为 150 美元。它配备了中国公司全志的 A64 SoC，为四核 Cortex A53 CPU，芯片工艺制程为 40nm，内存 2GB，Mali-400 GPU，16GB ROM，2750mAh 可移除电池，后置摄像头 5MP，前置 2MP，显示器为 1440×720 IPS LCD。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-17T13:09:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在勒索软件攻击后连锁酒店切换到 Chrome OS",
+  "Link": "https://www.solidot.org/story?sid=70337",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t斯堪的纳维亚的一家连锁酒店上个月成为勒索软件攻击的受害者，酒店采取了一种新颖的应对方法——将所有受到影响的系统切换成 Chrome OS。Nordic Choice Hotels 在北欧经营着 200 多家酒店，12 月 2 日，酒店成了勒索软件攻击的受害者，黑客用 Conti 勒索软件对其部分内部系统进行加密。攻击让酒店员工无法访问客人的预订数据，也无法向新到来的客人发放房门卡。但是在刚刚发布的新闻稿中，Nordic Choice 表示，酒店没有联系黑客协商获得解锁受感染设备的解密密钥的赎金，而是选择将其整个 PC 机群\u003ca href=\"https://yro.slashdot.org/story/22/01/11/227251/hotel-chain-switches-to-chrome-os-to-recover-from-ransomware-attack\" target=\"_blank\"\u003e\u003cu\u003e从 Windows 迁移到 Chrome OS\u003c/u\u003e\u003c/a\u003e。\n\u003cbr/\u003e\n\u003cbr/\u003e\n连锁酒店解释称：“在不到 24 小时内，第一家酒店就用上了 Google 的 Chrome OS 生态系统。在接下来的两天里，整个公司的 2000 台计算机都完成了切换，涉及在五个不同国家的 212 家酒店。”Nordic Choice Hotels 的技术副总裁 Kari Anna Fiskvik 表示，在攻击之前，该酒店就已在进行一个试点项目测试该工具，希望通过这种要求不高的操作系统重新使用旧电脑以节省资金。Fiskvik 表示：“因此当我们突然不得不应对网络攻击时，在几秒钟之内就做出了全力以赴加快项目进度的决定。”Nordic Choice 表示，除了在攻击期间迁移的 2,000 台计算机之外，它还计划将另外 2,000 台计算机迁移到 Chrome OS 上。这家连锁酒店表示，让旧电脑改用 Chrome OS 而不是购买新硬件，有望省下 670 万美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-01-12T08:02:14Z",
+  "Author": "wanwan"
+}

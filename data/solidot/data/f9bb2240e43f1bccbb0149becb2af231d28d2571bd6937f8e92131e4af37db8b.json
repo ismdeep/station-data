@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "3CX 公司最初以为供应链攻击是误报",
+  "Link": "https://www.solidot.org/story?sid=74571",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tVoiP 软件提供商 3CX 遭遇了一次供应链攻击，该公司 CEO Nick Galea 称收到警告之后他的团队测试了产品，没发现问题，认为是一次误报。几天后又检查了一下，结果相同。他表示公司并没有无视警告。直到安全公司 Crowdstrike 提供了完整细节之后 3CX 才认识到这次入侵的规模。他表示响应供应链攻击是非常困难的。3CX 的日活用户高达 1200 万，包括知名公司如奔驰、麦当劳、宝马、假日酒店、NHS、美国运通、可口可乐和法国航空。对于这次供应链攻击，3CX 免费延长了客户三个月服务。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.theregister.com/2023/04/03/3cx_false_positive_supply_chain_attack/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-04-03T15:18:42Z",
+  "Author": "Wilson"
+}

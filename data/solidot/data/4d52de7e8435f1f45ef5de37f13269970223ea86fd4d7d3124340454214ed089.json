@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员披露专门针对泰国的 Linux 秘密恶意程序",
+  "Link": "https://www.solidot.org/story?sid=76847",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Group-IB 的研究人员披露了专门针对泰国公司的 Linux 恶意程序 Krasue。Krasue 是远程访问木马，活跃时间始于 2020 年，主要针对泰国电信公司。它包含了多个 rootkit 支持不同 Linux 内核版本，它集成了三个开源的 rootkit 包：Diamorphine，Suterusu 和 Rooty，通过挂钩 kill() 系统调用等隐藏活动和逃避检测。研究人员猜测它是作为攻击链的后期阶段部署的，旨在维持对入侵主机的访问。他们相信 Krasue 与微软安全博客在 2022 年披露的 XorDdos Linux 木马是同一位作者或至少能访问其源代码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/\u003cbr/\u003e\nhttps://www.group-ib.com/blog/krasue-rat/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-12-10T15:40:39Z",
+  "Author": "Wilson"
+}

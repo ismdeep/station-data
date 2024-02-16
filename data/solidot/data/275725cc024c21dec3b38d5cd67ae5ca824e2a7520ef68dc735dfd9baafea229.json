@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 发布第二代 EPYC 服务器处理器",
+  "Link": "https://www.solidot.org/story?sid=61647",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 发布了基于 Zen 2 架构的第二代 EPYC 服务器处理器。主要科技网站已经公布了评测报告，如 \u003ca href=\"https://www.anandtech.com/show/14694/amd-rome-epyc-2nd-gen\"\u003e\u003cu\u003eAnandtech\u003c/u\u003e\u003c/a\u003e，Phoronix 则评测了 EPYC 7502 + EPYC 7742 在 \u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=amd-epyc-7502-7742\u0026amp;num=1\"\u003e\u003cu\u003eLinux 下的性能\u003c/u\u003e\u003c/a\u003e。Anandtech 认为没有理由购买英特尔的服务器处理器了，AMD 处理器性能高 50 到 100%，但价格只有对方的 40%。除非你想要低端的服务器处理器，英特尔是无法与 AMD 进行竞争的：AMD 在提供更高性能的同时还提供了更低的价格，更多的内存通道，2 倍以上的 PCIe 总线数，还支持 PCIe 4.0。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T05:19:54Z",
+  "Author": "wenfeixiang"
+}

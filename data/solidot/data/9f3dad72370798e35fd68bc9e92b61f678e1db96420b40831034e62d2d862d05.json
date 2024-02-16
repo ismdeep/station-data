@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tails 4.5 发布，支持 Secure Boot",
+  "Link": "https://www.solidot.org/story?sid=64059",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t匿名发行版 Tail OS \u003ca href=\"https://tails.boum.org/news/version_4.5/index.en.html\" target=\"_blank\"\u003e\u003cu\u003e发布了 4.5 版本\u003c/u\u003e\u003c/a\u003e，主要新特性为支持在启用 Secure Boot 的计算机上启动。Tail OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下使用痕迹。Tails 4.5 的其他变化包括：Tor Browser 9.0.9，修复了多个安全漏洞，其中一个是高危。Tails 基本上每个月会发布一个小的更新版本，Tails 4.6 将在下个月发布，4.7 将在 6 月发布，而大版本更新则将间隔更长时间，Tails 5.0 计划在\u003ca href=\"https://redmine.tails.boum.org/code/projects/tails/roadmap\" target=\"_blank\"\u003e\u003cu\u003e明年 6 月发布\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-08T08:53:10Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "CDN 服务商和云服务公司加入安全路由倡议",
+  "Link": "https://www.solidot.org/story?sid=64026",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去几年，BGP 路由泄露问题引发了广泛关注。BGP 是互联网核心基础设施的组成部分，已有几十年历史，它的路由泄露会导致一国的审查波及到另一个国家，或者一个网络的流量被重定向路由经过其它网络。BGP 路由泄露事故会影响到无数人。六年前成立的 Mutually Agreed Norms for Routing Security(MANRS) 就是旨在解决这个问题。现在，主要 CDN 服务商和云计算公司亚马逊、Google、微软、Facebook、Akamai、Cloudflare、 Netflix 和 VeriSign 等\u003ca href=\"https://www.darkreading.com/perimeter/major-cloud-cdn-providers-join-secure-routing-initiative/d/d-id/1337458\" target=\"_blank\"\u003e\u003cu\u003e都加入到了这一安全路由倡议\u003c/u\u003e\u003c/a\u003e，利用多种方法阻止流量劫持和路由攻击。MANRS 的成员包括了近 300 家网络运营商和 48 个互联网交换点。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-03T13:48:59Z",
+  "Author": "WinterIsComing"
+}

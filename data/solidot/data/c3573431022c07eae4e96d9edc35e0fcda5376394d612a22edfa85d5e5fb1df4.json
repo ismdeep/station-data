@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软释出 Windows 11 首个预览版本",
+  "Link": "https://www.solidot.org/story?sid=68157",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软向测试者（或 Windows Insiders）释出了 Windows 11 的\u003ca href=\"https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/\" target=\"_blank\"\u003e\u003cu\u003e首个预览版本\u003c/u\u003e\u003c/a\u003e，Build 22000.5，允许测试者体验它最近展示了大部分新功能。Windows 11 最近公布的系统要求引发了很多争议，如英特尔酷睿处理器需要 8 代以上，而 AMD 处理器需要 Zen 2 以上。微软表示它将测试酷睿 7 代处理器和 AMD Zen 1 处理器是否满足要求，有结果后会公布。在收到用户反馈之后它\u003ca href=\"https://blogs.windows.com/windows-insider/2021/06/28/update-on-windows-11-minimum-system-requirements/\" target=\"_blank\"\u003e\u003cu\u003e临时下架了\u003c/u\u003e\u003c/a\u003e检查系统是否满足最低需求的 PC Health Check App。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-29T13:52:19Z",
+  "Author": "WinterIsComing"
+}

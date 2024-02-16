@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "波士顿动力的新产品是仓库机器人",
+  "Link": "https://www.solidot.org/story?sid=67357",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t波士顿动力的最新产品不是类似双足直立的 Atlas 也不是像狗一样四足行走的 Spot，而是基于轮式的\u003ca href=\"https://hardware.slashdot.org/story/21/03/29/1229222/boston-dynamics-new-robot-doesnt-dance-it-has-a-warehouse-job\" target=\"_blank\"\u003e\u003cu\u003e仓库机器人 Stretch\u003c/u\u003e\u003c/a\u003e，设计帮助高速搬运货物箱，它的机械臂使用真空动力抓取箱子。Stretch 源自几年前亮相的 Handle，后者也有一个吸力机械臂，但它使用类似赛格威平衡车的双轮来维持平衡，在实际操作时候需要较大的空间转向，在为卡车卸货时不是很方便。Stretch 改进了平衡设计，其底座内的四个轮子每个都可以独立移动，可以方便的左右或前后移动，效率比 Handle 更高。Stretch 每小时能搬运最多 800 个箱子，它的电池可以提供 8 小时的续航，客户可选择双电池将续航时间提高到 16 小时。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-31T05:21:09Z",
+  "Author": "WinterIsComing"
+}

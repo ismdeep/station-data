@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 地址栏默认不展示 HTTPS 和 WWW",
+  "Link": "https://www.solidot.org/story?sid=61600",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从最近发布的 Chrome 69 开始，桌面版和移动版的地址栏默认不再显示 HTTPS 和 WWW。如果用户想要查看完整的网址，桌面版需要点击两次，移动版需要点击一次。Google \u003ca href=\"https://bugs.chromium.org/p/chromium/issues/detail?id=883038#c114\"\u003e\u003cu\u003e此举\u003c/u\u003e\u003c/a\u003e旨在简化和提高 Chrome 的可用性。但 Google 此举\u003ca href=\"https://www.techrepublic.com/article/google-finally-chops-www-from-chromes-address-bar-despite-backlash-over-confusing-change/\" target=\"_blank\"\u003e再次招致了批评\u003c/a\u003e，批评者认为这会让用户迷惑或更可能访问域名相似的钓鱼网站。另一部分人则认为 Google 此举旨在推广自己的 Accelerated Mobile Pages（AMP），通过隐藏域名让用户不知道他们访问的是网页的 AMP 版本。Google 还表示它创建了一个\u003ca href=\"https://chrome.google.com/webstore/detail/suspicious-site-reporter/jknemblkbdhdcpllfgbfekkdciegfboi\" target=\"_blank\"\u003e\u003cu\u003e Chrome 扩展\u003c/u\u003e\u003c/a\u003e去展示完整域名，帮助高级用户识别可疑网站并报告给 Safe Browsing。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-05T04:55:23Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 开始测试受争议的扩展系统 Manifest V3",
+  "Link": "https://www.solidot.org/story?sid=62567",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 开始通过其测试版  Chrome Canary \u003ca href=\"https://www.bleepingcomputer.com/news/software/google-begins-testing-extension-manifest-v3-in-chrome-canary/\"\u003e测试\u003c/a\u003e受争议的新扩展系统 Manifest V3。在安全、隐私和性能的名义下，Manifest v3 限制了广告和内容屏蔽功能。Manifest v3 用 declarativeNetRequest API 取代了 webRequest API，允许设置模式匹配规则探测所请求流量并采取行动，但 Google 对规则的数量设置了上限。硬限制将会严重影响广告和内容屏蔽扩展的可用性。最新版的 Chrome Canary 包含了 declarativeNetRequest API，Google 表示 Manifest v3 的实现远未完成。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-11-11T12:03:01Z",
+  "Author": "wenfeixiang"
+}

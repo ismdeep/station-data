@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "蚂蚁金服数据库性能超过了甲骨文？",
+  "Link": "https://www.solidot.org/story?sid=62165",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t多家媒体报道了蚂蚁金服的开源关系数据库 \u003ca href=\"https://github.com/alibaba/oceanbase/tree/master/oceanbase_0.4\"\u003e\u003cu\u003eOceanBase v2.2 \u003c/u\u003e\u003c/a\u003e在行业标准的联机事务处理性能测试 TPC-C 中的\u003ca href=\"http://www.tpc.org/tpcc/results/tpcc_results.asp?print=false\u0026amp;orderby=tpm\u0026amp;sortby=desc\"\u003e\u003cu\u003e成绩\u003c/u\u003e\u003c/a\u003e击败了甲骨文的数据库。蚂蚁金服的成绩是在 10 月 1 日递交的，得分为 60,880,800，超过了甲骨文的 30,249,688。然而两者\u003ca href=\"https://developers.slashdot.org/story/19/10/06/198238/oracle-outperformed-tpc-benchmarks-show-alibabas-oceanbase-performs-twice-as-well\" target=\"_blank\"\u003e\u003cu\u003e其实没有多少可比性\u003c/u\u003e\u003c/a\u003e，因为甲骨文的得分是在 2010 年 12 月 2 日递交的，使用的硬件架构和软件在近 10 年之后已经没多少对比价值。甲骨文测试的数据库版本是 Oracle Database 11g R2 Enterprise Edition w/RAC w/Partitioning，操作系统是 Oracle Solaris 10，CPU 为 SPARC T3@ 1.65 GHz，共 1728 个核心；而蚂蚁金服使用的操作系统是 Aliyun Linux 2，处理器是 Intel Xeon Platinum 8163 @ 2.50GHz，共 6720 个核心。仅仅从硬件上看，两者之间就很难进行公平的比较。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-07T11:22:26Z",
+  "Author": "wenfeixiang"
+}

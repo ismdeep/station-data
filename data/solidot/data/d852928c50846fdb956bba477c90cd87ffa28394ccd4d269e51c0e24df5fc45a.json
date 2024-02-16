@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 将支持 QUIC 和 HTTP/3",
+  "Link": "https://www.solidot.org/story?sid=67518",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 宣布，\u003ca href=\"https://www.mozilla.org/en-US/firefox/nightly/all/\" target=\"_blank\"\u003eFirefox Nightly\u003c/a\u003e 和 \u003ca href=\"https://www.mozilla.org/en-US/firefox/all/#product-desktop-beta\" target=\"_blank\"\u003eFirefox Beta\u003c/a\u003e 默认启用了对 QUIC 和 HTTP/3 协议的支持，计划在五月底发布的正式版本默认将支持 HTTP/3。HTTP/3 是新版的 HTTP 协议，相比 HTTP/2 它有三个方面的性能改善：基于 UDP 连接时间较短；没有线端阻塞；能更好的检测和修复丢包。如果 Web server 支持 Firefox Nightly 和  Firefox Beta 将会自动尝试 HTTP/3。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-17T13:05:04Z",
+  "Author": "WinterIsComing"
+}

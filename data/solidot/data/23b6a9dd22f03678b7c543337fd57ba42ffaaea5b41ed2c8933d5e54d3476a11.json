@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "pip 20.3 释出",
+  "Link": "https://www.solidot.org/story?sid=66239",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPython Packaging Authority 宣布\u003ca href=\"https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e pip 20.3。由于改变了默认的依赖解析器，这个版本可能会造成破坏。pip 项目已经发布了如何测试和迁移到新解析器的\u003ca href=\"https://pip.pypa.io/en/latest/user_guide/#changes-to-the-pip-dependency-resolver-in-20-3-2020\"\u003e\u003cu\u003e用户指南\u003c/u\u003e\u003c/a\u003e。除了新的解析器，其它变化包括 Python 3.5 将在 pip 21.0 中移除，不再建议使用；pip 21.0 将在 2021 年 1 月释出，这个版本也将停止支持 Python 2.7，不再支持 Python 2.x 系列。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-01T05:00:29Z",
+  "Author": "WinterIsComing"
+}

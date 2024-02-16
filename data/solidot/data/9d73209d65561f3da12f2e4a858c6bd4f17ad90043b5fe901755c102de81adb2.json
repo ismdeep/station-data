@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Greg Kroah-Hartman 称他最爱的发行版是 Arch",
+  "Link": "https://www.solidot.org/story?sid=61930",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t稳定版内核维护者 Greg Kroah-Hartman 在开源峰会期间\u003ca href=\"https://www.tfir.io/2019/09/01/lets-talk-to-linux-kernel-developer-greg-kroah-hartman-open-source-summit-2019/\"\u003e\u003cu\u003e接受采访\u003c/u\u003e\u003c/a\u003e(视频)，\u003ca href=\"https://linux.slashdot.org/story/19/09/02/0018252/greg-kroah-hartman-reveals-his-new-favorite-linux-distro\"\u003e\u003cu\u003e谈论了\u003c/u\u003e\u003c/a\u003e后 Spectre 世界的安全，微软加入 Linux 发行版邮件列表，RMS 以及他最爱的发行版。Kroah-Hartman 称他的儿子和妻子都使用 MacBook，而他只使用 Linux，他不再使用 openSUSE 发行版，而是改用滚动发行版 Arch，构建系统运行 Fedora，虚拟机运行不同发行版 Gentoo、Dubya 和 Fedora 去测试不同的用户空间工具，他所有的笔记本电脑都切换到了 Arch。为什么使用 Arch？它是一个中立社区驱动的发行版，提供了他所需要的一切功能，工作良好，Wiki 文档非常出色。如果想要知道如何配置和使用一个用户空间程序， Arch Wiki 页面提供了最佳的答案。此外，Arch 与上游的关系密切，这对他的测试非常有帮助。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-02T04:56:39Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 搜索功能因微软服务宕机而短暂不可用",
+  "Link": "https://www.solidot.org/story?sid=63441",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t本周在 Microsoft Teams 之后，微软 Microsoft 365 的多个服务\u003ca href=\"https://www.theverge.com/2020/2/5/21124204/windows-search-down-blank-results-issues-microsoft-bing-outage\"\u003e发生了宕机事故\u003c/a\u003e。并影响到了 Windows 10 的搜索功能。从周三东部时间八点左右起，Windows search 返回了空白的搜索结果页，问题到 11:35 止修复。微软称问题是第三方光纤网络运营商的网络中断导致的。微软发言人在一份声明中称，对大部分用户来说问题已经解决，少部分用户可能需要重启机器。Windows search 使用了 Bing 后端提供来自网络的搜索结果。用户如果不想要联网搜索结果，\u003ca href=\"https://search.slashdot.org/story/20/02/05/2248212/windows-search-went-down-for-hours-because-of-a-microsoft-services-outage\" target=\"_blank\"\u003e\u003cu\u003e可以修改注册表\u003c/u\u003e\u003c/a\u003e：\n[HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Search]\n\u0026#34;BingSearchEnabled\u0026#34;=dword:00000000\n\u0026#34;CortanaConsent\u0026#34;=dword:00000000\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-06T09:53:19Z",
+  "Author": "WinterIsComing"
+}

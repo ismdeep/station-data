@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "“不小心删库”",
+  "Link": "https://www.solidot.org/story?sid=65833",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t提供在线计分板服务的 Keepthescore \u003ca href=\"https://keepthescore.co/blog/posts/deleting_the_production_database/\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e他们“不小心删了产品库”。幸运的是云服务商 DigitalOcean 每天会自动备份数据库，因此在删库之后他们使用备份数据库恢复了服务，但有大约 7 小时的数据永久丢失了。开发者承认他们也不知道是什么原因导致了删库，他们在代码中特别强调是删除 localhost 的数据库，但不知为何却把产品数据库删掉了。有人\u003ca href=\"https://news.ycombinator.com/item?id=24813795\"\u003e\u003cu\u003e猜测\u003c/u\u003e\u003c/a\u003e与 SSH 端口转发有关，开发者的开发机通过 SSH 连接到产品服务器，localhost 的数据库实际上就是产品数据库。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-18T13:06:51Z",
+  "Author": "WinterIsComing"
+}

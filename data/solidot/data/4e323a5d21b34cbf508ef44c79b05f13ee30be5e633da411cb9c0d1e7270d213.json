@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ChatGPT 能做什么，为什么它做到了",
+  "Link": "https://www.solidot.org/story?sid=74143",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tChatGPT 能自动生成流畅合理的文本，看似出自人类之手，这一成就非同凡响。它是如何做到的？ Mathematica 作者 Stephen Wolfram 写了一篇长文分析背后的工作原理。从根本上说，ChatGPT 总是尝试从目前的文本产生“合理的延续”，所谓合理是指在用数十亿网页文本训练之后人们期望看到的文本。举个例子，对于“The best thing about AI is its ability to”这句话后面应该跟什么，你可以扫描数十亿页文本中寻找到频率最高的词。ChatGPT 的方法类似，但它不是看字面意义上的文本，而是寻找某种“意义匹配”，它会生成一组候选词，每个词都有不同的概率——The best thing about AI is its ability to learn(4.5%)/predict(3.5%)/make(3.2%)...依此类推。但 ChatGPT 并不总是选择概率最高的词，因为这样产生的文本可能并不让人感兴趣，太平淡，它有时候会随机挑选低概率的候选词，产生一篇更有趣的文章。这就是为什么我们多次用相同的提问词问 ChatGPT 它很可能会产生不同的文章。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-02-15T12:45:24Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 的 Fuchsia 项目不推荐使用 Go 语言",
+  "Link": "https://www.solidot.org/story?sid=63627",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFuchsia OS 是 Google 正在开发的实验性操作系统，使用名叫 Zircon 的微内核。这个新操作系统引发了很多猜测，被认为将取代 Android 和 Chrome OS，但 Google 高管否认了这一说法，称其意图不是想成为新的 Android 或 Chrome OS，而是尝试在操作系统中引入最新技术，将项目上获得的知识整合到其它产品。根据 Fuchsia 项目的\u003ca href=\"https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md\"\u003e\u003cu\u003e编程语言政策\u003c/u\u003e\u003c/a\u003e，Google 推荐使用 C++ 和 Dart，但不推荐使用 Go 和 Rust（不支持终端开发者），Mozilla 的 Rust 语言比较新还没有广泛使用，而 Google 自己的 Go 语言不推荐则是因为性能方面的问题，用 Go 构建的系统组件比用  C++ 或 Rust 构建的组件占用更多内存和内核资源。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-25T12:39:11Z",
+  "Author": "WinterIsComing"
+}

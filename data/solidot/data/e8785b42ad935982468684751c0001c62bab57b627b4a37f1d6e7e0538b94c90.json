@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 资助用 Rust 语言为 Apache HTTP 开发安全模块 mod_tls",
+  "Link": "https://www.solidot.org/story?sid=66849",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 资助了 Internet Security Research Group(ISRG)的一个项目：用 Rust 语言为 Apache HTTP web server 项目\u003ca href=\"https://www.zdnet.com/article/google-funds-project-to-secure-apache-web-server-project-with-new-rust-component/\" target=\"_blank\"\u003e\u003cu\u003e开发\u003c/u\u003e\u003c/a\u003e安全模块 mod_tls。在 Apache web server 中，\u003ca href=\"https://httpd.apache.org/docs/current/mod/mod_ssl.html\"\u003e\u003cu\u003emod_ssl\u003c/u\u003e\u003c/a\u003e 用于支持建立 HTTPS 连接所需的加密操作。它是用 C 语言开发的，新的模块 \nmod_tls 将是用 Rust 语言开发，领导该项目开发的是软件咨询公司 Greenbytes 的创始人和 Apache HTTP Server 开发者 \u003ca href=\"https://eissing.org/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"\u003eStefan Eissing\u003c/a\u003e。ISRG 希望，在完成开发之后 Apache HTTP web serve 团队将采用 mod_tls 作为默认模块取代年代悠久不安全的 mod_ssl。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-03T14:18:14Z",
+  "Author": "WinterIsComing"
+}

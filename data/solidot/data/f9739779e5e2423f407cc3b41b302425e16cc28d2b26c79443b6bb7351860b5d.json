@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软在 DNA 数据存储上取得突破",
+  "Link": "https://www.solidot.org/story?sid=69861",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软与华盛顿大学分子信息系统实验室（MISL）合作在 DNA 存储上\u003ca href=\"https://gizmodo.com/microsoft-makes-breakthrough-in-the-quest-to-use-dna-as-1848149522\" target=\"_blank\"\u003e取得突破\u003c/a\u003e。发表在《Science Advances》期刊上的\u003ca href=\"https://www.science.org/doi/10.1126/sciadv.abi6714\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e中，该公司宣布了首个纳米级 DNA 存储写入器，研究小组预计可达到 25 x 10^6/平方厘米 DNA 写入密度，比以前提高“三个数量级”（千倍）。这是首次实现 DNA 存储所需的最低写入速度。\n\u003cbr/\u003e\n\u003cbr/\u003e\n微软是云存储领域最主要的参与者之一，它正研究 DNA 数据存储，以利用其无与伦比的密度、可持续性和保质期在竞争中获得优势。DNA 的密度能在 1 平方英寸存储 1EB 或者 10 亿 GB 的数据——比我们目前最好的存储方法——Linear Type-Open（LTO）磁带大几个数量级。这些优势在现实世界中意味着什么？据International Data Corporation 预测，到 2024 年，数据存储需求将达到 9 ZB。正如微软指出的，如果在 150 亿台设备上下载 Windows 11，也只要用 1ZB 的存储空间。使用当前的方法，存储这些数据需要数百万个磁带。不用磁带而用 DNA 的话，9ZB 的信息可存储在冰箱大小的地方（部分科学家认为，所有的发行电影可存放在方糖大小的地方）。但也许冰箱是一个更好的比喻，因为存储在 DNA 上的数据可保持数千年，而存储在磁带上的数据 30 年内就会开始丢失，如果是 SSD 和 HDD 的话，数据丢失得就更快了。\n\u003cbr/\u003e\n\u003cbr/\u003e\n寻找提高写入速度的方法解决了 DNA 存储的两大难题之一（另一个是成本）。掌握了最低写入速度阈值，微软开始推进下一阶段的工作。微软\u003ca href=\"https://www.techradar.com/news/microsoft-is-edging-closer-to-making-dna-storage-a-reality\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e：“下一步自然是在芯片中嵌入数字逻辑，实现对数百万个电极点的单独控制，以在 DNA 中每秒写入数千字节的数据，我们预计该技术会达到数十亿个电极的规模，能在 DNA 中每秒写入数兆字节的数据。这将使 DNA 数据存储性能和成本大幅接近磁带。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-03T08:26:39Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Pwn2Own 黑客挑战赛挑落 Windows、Ubuntu、macOS 和 VirtualBox",
+  "Link": "https://www.solidot.org/story?sid=63890",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t因新冠疫情和旅行限制，Pwn2Own 黑客挑战赛春季版首次在虚拟环境中进行。参赛队伍提前向组织者发送漏洞利用代码，然后在所有参赛者在场的情况下组织者直播执行利用代码。在两天的比赛中，有六支团队设法入侵了 Windows、macOS、Ubuntu、Safari、Adobe Reader、Oracle VirtualBox，所有漏洞都立即报告给了相关企业。其中安全研究员 Amat Cama 和 Richard Zhu 组建的  Team Fluoroacetate 得到了九分\u003ca href=\"https://www.zdnet.com/article/windows-ubuntu-macos-virtualbox-fall-at-pwn2own-hacking-contest/\"\u003e\u003cu\u003e赢得了比赛\u003c/u\u003e\u003c/a\u003e。大部分被利用的都是本地提权漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-21T13:37:09Z",
+  "Author": "WinterIsComing"
+}

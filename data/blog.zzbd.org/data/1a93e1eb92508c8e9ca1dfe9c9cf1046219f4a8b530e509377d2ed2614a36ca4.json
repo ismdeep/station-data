@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "鼠标小工具",
+  "Link": "https://blog.zzbd.org/2010/05/29/mouse-click/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e在小众上看到的一个小东西，觉得蛮有用，就简单介绍一下吧！\u003c/p\u003e\u003cp\u003e官方说明只有一句话\u003c/p\u003e\u003cblockquote\u003e\u003cp\u003eMouseClick is an application that will click the mouse for you. That’s all it does.\u003c/p\u003e\u003c/blockquote\u003e\u003cp\u003e它的作用就是为你点击鼠标，仅此而已。\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e首先到\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://ufridman.org/mouseclick.html\"\u003e官网\u003c/a\u003e下载程序，有mac、linux和windows版本。win版支持win7(看截图就知道了)，并且有两个Version它们的区别是：\u003c/p\u003e\u003cul\u003e\u003cli\u003e Version1 功能多一些 可以选择是否维持\u003ccode\u003e右击\u003c/code\u003e或\u003ccode\u003e双击\u003c/code\u003e模式(Stricky right-click and double-click)，如果你有连续双击的需求，比如一下打开多个图片，这个选项就很有必要。另外，在Options里可以可以看见点击的次数。\u003c/li\u003e\u003cli\u003e Version2 小巧易用这是最新版本，麻雀虽小，五脏俱全。只有一个exe文件，不依赖dll动态链接库。\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e使用很简单，解压出来，双击程序，在L【左击】 R【右击】 DC【双击】 SD【拖曳】模式中选择一个，然后点击小鼠标（2版中是点击S）。把鼠标停留在屏幕某处几秒钟就会执行相应的动作。__\u003ccode\u003e拖曳\u003c/code\u003e相当于按住鼠标左键不放，可以用来拉动滚动条，拖动窗口，这个可能需要练习一下__\u003c/p\u003e\u003cp\u003e简单说下设置项：\u003c/p\u003e\u003cul\u003e\u003cli\u003e Click delay ：设置从鼠标停止到执行动作的间隔时间，10为1秒，5就是0.5秒\u003c/li\u003e\u003cli\u003e Distance before click ：连续执行动作所需的最短距离。就是下次单击，鼠标要移开当前位置的最小距离，单位是像素\u003c/li\u003e\u003cli\u003e audible click ：点击时是否发声\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e还有一个比较酷的功能是可以设置快捷键，这样就可以结合其他的脚本程序协同工作了。\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-05-28T17:39:14Z",
+  "Author": "J. F"
+}

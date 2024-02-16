@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客退还 6 亿美元加密货币，声称是出于好玩",
+  "Link": "https://www.solidot.org/story?sid=68533",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t入侵 Poly Network 平台的黑客\u003cu\u003e正在\u003c/u\u003e\u003ca href=\"https://arstechnica.com/tech-policy/2021/08/hacker-is-returning-600m-in-crypto-claiming-theft-was-just-for-fun/\" target=\"_blank\"\u003e\u003cu\u003e退还\u003c/u\u003e\u003c/a\u003e窃取的 6 亿美元加密货币，声称是出于好玩。Poly Network 是一个区块链互通平台，允许在不同区块链之间转移令牌，它使用智能合约自动化这个过程，黑客利用了一个 Poly Network 智能合约的漏洞，该智能合约要求大量的流动性，因此不同区块链之间的交易能快速高效完成。黑客利用了 Poly Network 验证智能合约中的漏洞将一组公钥改变为黑客自己的私钥，密钥改变完成之后黑客能将大量资金转到个人钱包。黑客自称是出于安全考虑将加密货币转移到个人钱包的，担心如果将漏洞告诉其他人（包括项目团队）可能有人会无法抵挡如此巨大一笔金钱的吸引力。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-13T04:18:42Z",
+  "Author": "WinterIsComing"
+}

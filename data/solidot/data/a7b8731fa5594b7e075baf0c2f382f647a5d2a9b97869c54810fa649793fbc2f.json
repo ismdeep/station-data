@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Brave 在 Windows 用户电脑里安装了 VPN 软件",
+  "Link": "https://www.solidot.org/story?sid=76385",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 Brave 浏览器项目 GitHub 页面上的讨论和媒体的报道，Brave 在用户不知情下安装了 VPN 软件，无论用户有没有订阅它的 VPN 服务。Brave 是在 2022 年中与 VPN 和防火墙方案提供商 Guardian 合作推出 Brave Firewall + VPN，月费为 9.99 美元。从 Brave v1.59.117 开始，如果用户有管理权限，浏览器会在其安装文件夹下安装 VPN 服务 Brave Vpn Wireguard Service 和 Brave Vpn Service，两个服务都被标记为手动启动。Brave 工程副总裁 Brian Clifton 表示，理想的情况是 VPN 服务应该在购买后安装而不是浏览器安装时安装。这次事故被认为是无意中造成的。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/\u003cbr/\u003e\nhttps://github.com/brave/brave-browser/issues/33726\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-19T05:45:54Z",
+  "Author": "Wilson"
+}

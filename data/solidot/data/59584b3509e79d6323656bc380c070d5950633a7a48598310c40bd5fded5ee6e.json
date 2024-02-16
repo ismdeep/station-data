@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司等待 12 个月后才报告高危漏洞",
+  "Link": "https://www.solidot.org/story?sid=69612",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tPalo Alto Networks 的 GlobalProtect VPN 刚刚修复了一个缓冲溢出的高危漏洞，而安全公司 Randori 是在 12 个月前发现该漏洞，\u003ca href=\"https://arstechnica.com/gadgets/2021/11/vpn-vulnerability-on-10k-servers-has-severity-rating-of-9-8-out-of-10/\" target=\"_blank\"\u003e\u003cu\u003e但一直将其作为秘密内部使用\u003c/u\u003e\u003c/a\u003e，而不是尽快报告给软件供应商。编号为 \u003ca href=\"https://security.paloaltonetworks.com/CVE-2021-3064\"\u003e\u003cu\u003eCVE-2021-3064\u003c/u\u003e\u003c/a\u003e 的高危漏洞（威胁评分 9.8/10）影响 PAN-OS 8.1.17 之前的版本，已有超过一年历史，但 Randori 根据 Shodan 搜索发现有大约 1 万台联网的企业服务器运行存在漏洞的版本。为何不尽早报告漏洞？Randori 声称该漏洞作为红队的工具用于对客户的网络进行安全测试，表示 0day 漏洞对于客户以及整个网络安全世界的成功是必不可少的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-14T13:40:47Z",
+  "Author": "WinterIsComing"
+}

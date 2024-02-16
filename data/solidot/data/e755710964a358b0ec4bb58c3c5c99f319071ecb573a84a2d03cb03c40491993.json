@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "威尼斯法庭判决 GPL 条款是可执行的",
+  "Link": "https://www.solidot.org/story?sid=70154",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t威尼斯法庭本月中旬的一项判决\u003ca href=\"https://www.dynamic.ooo/press/groundbreaking-acknowledgment-of-free-software-in-italy/#\" target=\"_blank\"\u003e\u003cu\u003e裁定 GPL 是可执行的\u003c/u\u003e\u003c/a\u003e。本案的原告是 Ovation S.r.l.，该公司开发了 GNU GPL v3 授权的流行插件 Dynamic.ooo – Dynamic Content for Elementor，两名前开发者在离开公司之后成立新公司使用 Dynamic.ooo 的代码发布了自己的产品，但没有遵守 GNU GPL v3 许可证要求承认原始作品。被告发行自己产品的方式不符合 GPL 要求，包括列出修改，提及原始作品的所有者。被告在收到正式的终止信函之后仍然继续其非法行为。威尼斯法庭裁决被告删除侵权代码。这一裁决证明自由软件的自由并不是不受限制的自由。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-28T05:14:47Z",
+  "Author": "WinterIsComing"
+}

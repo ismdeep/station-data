@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国政府利用软件帮助撤销公民身份信息",
+  "Link": "https://www.solidot.org/story?sid=68704",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t根据 The Intercept \u003ca href=\"https://theintercept.com/2021/08/25/atlas-citizenship-denaturalization-homeland-security/\"\u003e\u003cu\u003e查看的文件\u003c/u\u003e\u003c/a\u003e，国土安全部用于扫描数百万移民记录的软件能自动将入籍美国人标记出来，并根据秘密标准随时撤销其公民身份。这款被称为 ATLAS 的软件可从移民档案中提取信息，并配合各类联邦政府数据库进行筛查分析。ATLAS 原则上用于查找对方的危险或欺诈行为，避免在美国的现有移民制度之下产生漏网之鱼。但移民倡导者则认为，这款程序的真正目的是为剥夺对方的公民身份创造借口。无论动机如何，从现有文件来看，ATLAS 的最终处理结果为驱逐出境。这里看到的文件全部来自国土安全部，并由 Open Society Justice Initiative 与 Muslim Advocates 依据《信息自由法案》在诉讼中获得。\u003cbr/\u003e\u003cbr/\u003e\n\nATLAS 帮助国土安全部调查移民的个人关系与背景，检查指纹等生物特征信息，并在某些情况下综合考量对方的种族、民族与国籍。ATLAS 会从各类未知来源获取信息，其中还涉及两类向来因管理不善而备受指责的信息源：FBI 的恐怖分子筛查数据库以及国家犯罪信息中心。此系统由 Amazon 的服务器提供支持，单在 2019 年年内就进行了 1650 万次筛查，并最终标记出 12 万多起潜在的欺诈或威胁国家/公共安全的案件。最，国土安全部的人员会介入以确定如何处理被 ATLAS 标出的移民，但软件本身仍有可能放大移民制度之内官僚主义错误造成的危害，并导致很多莫须有的除国籍与驱逐出境案件。Open Society Justice Initiative 律师Laura Bingham表示，“从我们目前掌握的审查结果来看，根据其对民族血统等非自然化影响的筛查方式，我们有充分的理由认为 ATLAS 已经对入籍公民构成了实际威胁。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-26T10:55:42Z",
+  "Author": "wanwan"
+}

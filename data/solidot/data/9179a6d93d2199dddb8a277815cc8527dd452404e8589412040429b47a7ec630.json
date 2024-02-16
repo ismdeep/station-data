@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenAI 遭遇 DDoS 攻击",
+  "Link": "https://www.solidot.org/story?sid=76579",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tOpenAI 的 AI 聊天服务 ChatGPT 及其 API 昨天遭遇了服务周期性中断事故，OpenAI 在事故声明中称遭到了 DDoS 攻击。它没有指出是谁发动了攻击，但自称 Anonymous Sudan 的组织称攻击是它发起的，攻击理由是 OpenAI 对以色列和巴勒斯坦的广泛偏见。Anonymous Sudan 称攻击使用了 SkyNet 僵尸网络，该僵尸网络自 10 月以来提供了压力服务，加入了对应用层 DDoS 攻击的支持。Anonymous Sudan 在今年 6 月成功 DDoS 攻击了微软的 Outlook.com、OneDrive 和 Azure Portal。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.bleepingcomputer.com/news/security/openai-confirms-ddos-attacks-behind-ongoing-chatgpt-outages/\u003cbr/\u003e\nhttps://status.openai.com/incidents/21vl32gvx3hb\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-09T10:37:41Z",
+  "Author": "Wilson"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Microsoft Edge 扩展商店发现冒牌的恶意扩展",
+  "Link": "https://www.solidot.org/story?sid=66171",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在 Google 和 Mozilla 之后，Microsoft Edge 扩展商店\u003ca href=\"https://arstechnica.com/gadgets/2020/11/fraudulent-add-ons-infiltrate-the-official-microsoft-edge-store/#p3\" target=\"_blank\"\u003e\u003cu\u003e也发现了\u003c/u\u003e\u003c/a\u003e假的恶意扩展。Edge 用户过去几天报告，他们用 Google 搜索时被重定向到其它网站，调查之后他们发现安装了伪装成合法扩展的假扩展，这些假扩展包括 NordVPN、Adguard VPN、TunnelBear VPN、The Great Suspender 和 Floating Player — Picture-in-Picture Mode。他们的名字和合法扩展相同，但并非由合法扩展的开发商发布到 Edge 扩展商店的。微软表示正对此展开调查，相关扩展已经从商店里移除。合法扩展开发商发现，除了在 Edge 商店发现冒牌扩展，他们在 Chrome Web Store 里也发现了冒牌货。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-23T13:25:48Z",
+  "Author": "WinterIsComing"
+}

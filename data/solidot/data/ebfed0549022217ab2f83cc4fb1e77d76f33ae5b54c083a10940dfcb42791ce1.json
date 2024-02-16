@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 10 发布",
+  "Link": "https://www.solidot.org/story?sid=65629",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目\u003ca href=\"https://blog.torproject.org/new-release-tor-browser-100\"\u003e\u003cu\u003e释出\u003c/u\u003e\u003c/a\u003e了桌面版本的 \u003ca href=\"https://www.torproject.org/zh-CN/download/\" target=\"_blank\"\u003e\u003cu\u003eTor Browser 10\u003c/u\u003e\u003c/a\u003e，Android 版本还在开发之中，预计未来几周发布。Tor Browser 10 基于 Firefox 78.3.0esr，更新 NoScript 11.0.44，Tor 0.4.4.5，默认禁用 TLS 1.0 和 1.1，包括了大量 bug 和安全修正。Tor Browser 10.0 将是最后一个支持 CentOS 6 的版本，从 10.5 系列开始将不再支持 CentOS 6。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-23T12:52:37Z",
+  "Author": "WinterIsComing"
+}

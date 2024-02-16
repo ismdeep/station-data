@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软对其云计算数据库漏洞发出警告",
+  "Link": "https://www.solidot.org/story?sid=68708",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软周四\u003ca href=\"https://cn.reuters.com/article/microsoft-cloud-data-security-warning-08-idCNKBS2FS04Q?il=0\"\u003e\u003cu\u003e警告\u003c/u\u003e\u003c/a\u003e其数以千计的云计算客户，网络入侵者可能有能力读取、改变甚至删除他们的主数据库。这些客户中包括一些全球最大的公司。该漏洞存在于微软 Azure 的旗舰产品 Cosmos 数据库。安全公司 Wiz 的一个研究团队发现，它能够访问控制数千家公司数据库的密钥。Wiz 的首席技术官 Ami Luttwak 是微软云安全集团的前首席技术官。由于不能自行更改这些密钥，微软周四向客户发送电邮，告诉他们创建新的密钥。微软给客户的电邮称，已经修复这个漏洞，而且没有证据表明这个漏洞已被利用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-08-27T02:33:20Z",
+  "Author": "WinterIsComing"
+}

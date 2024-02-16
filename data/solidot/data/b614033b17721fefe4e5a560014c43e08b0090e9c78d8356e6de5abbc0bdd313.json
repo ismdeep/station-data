@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WSL2 将成为 Windows 10 v2004 的一部分",
+  "Link": "https://www.solidot.org/story?sid=63819",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软官方博客\u003ca href=\"https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e，WSL2 将成为 Windows 10 v2004 的一部分提供给用户。WSL2 代表第二代 Windows Subsystem for Linux，它使用真正的 Linux 内核，第一代 WSL 只提供了等价的 Linux API，性能比原生 API 差很多，第二代将使用 Hyper-V 创建一个轻量级虚拟机运行真正的 Linux 内核。那么这个 Linux 内核将如何更新呢？微软官方博客表示，它将通过 Windows Update 像更新显卡驱动那样更新 Linux 内核，用户将能获得更敏捷更灵活更无缝的使用体验。用户可手动去检查更新或等待自动推送。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-14T13:33:31Z",
+  "Author": "WinterIsComing"
+}

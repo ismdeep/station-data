@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "EFF 就 Manifest V3 警告 Chrome 用户",
+  "Link": "https://www.solidot.org/story?sid=69963",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 本月初\u003ca href=\"https://yro.slashdot.org/story/21/12/09/219253/eff-warns-chrome-users-manifest-v3-is-deceitful-and-threatening\" target=\"_blank\"\u003e\u003cu\u003e通知扩展开发者\u003c/u\u003e\u003c/a\u003e，宣布从 2022 年 1 月 17 日起 Chrome Web Store 将停止接受可见性设为 Public 或 Unlisted 的新 Manifest V2 扩展，到 6 月这一限制将扩大到设为 Private 的新扩展。Google 开始加速推广受争议的 Manifest V3 扩展。在安全、隐私和性能的名义下，Manifest v3 限制了广告和内容屏蔽功能，对扩展规则的数量设置了上限。此举将严重影响广告和内容屏蔽扩展的可用性。电子前哨基金会 EFF 就此向 Chrome 用户\u003ca href=\"https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening\"\u003e\u003cu\u003e发出警告\u003c/u\u003e\u003c/a\u003e，称 Manifest V3 将严重损害到隐私保护方面的工作，Manifest V3 将限制广告和内容屏蔽扩展的性能， Google 是最大的网络广告公司，它的跟踪器安装在\u003ca href=\"https://spreadprivacy.com/biggest-tracker-networks/\" target=\"_blank\"\u003e\u003cu\u003e四分之三\u003c/u\u003e\u003c/a\u003e的网站上。它的限制“让人不寒而栗”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-12-10T13:23:22Z",
+  "Author": "WinterIsComing"
+}

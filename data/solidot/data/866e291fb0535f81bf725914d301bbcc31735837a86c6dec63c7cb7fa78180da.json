@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "过去五年的英特尔芯片都包含无法修复的漏洞",
+  "Link": "https://www.solidot.org/story?sid=63725",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t过去五年的英特尔芯片\u003ca href=\"http://blog.ptsecurity.com/2020/03/intelx86-root-of-trust-loss-of-trust.html\" target=\"_blank\"\u003e\u003cu\u003e都包含无法修复的漏洞\u003c/u\u003e\u003c/a\u003e。漏洞 \u003ca href=\"https://nvd.nist.gov/vuln/detail/CVE-2019-0090\"\u003eCVE-2019-0090\u003c/a\u003e 位于英特尔 CPU 和芯片组子系统  Converged Security and Management Engine(CSME) 的掩模型只读存储器(mask ROM)中，无法通过更新固件修复。安全公司 Positive Technologies 的专家称，问题不只是不可能修复处理器和芯片组掩模型只读存储器硬编码的固件错误，更令人担忧的是漏洞允许硬件层级的入侵，从整体上破坏了平台的信任链。成功利用该漏洞的攻击者可以绕过英特尔 Enhanced Privacy ID (EPID) 提供的安全保护，让提取芯片组加密密钥成为可能。而这个加密密钥不是平台特定的，英特尔同一代芯片组都使用相同的单一密钥。Positive Technologies 担心提取出密钥只是时间问题。一旦密钥泄露，混乱将会发生，硬件 ID 将能伪造，数字内容将能被提取，硬盘加密的内容将能被解密。英特尔表示它正在尝试屏蔽任何可能的利用矢量，但安全研究人员指出芯片巨人目前释出的补丁只能阻挡其中一种。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-06T06:02:32Z",
+  "Author": "WinterIsComing"
+}

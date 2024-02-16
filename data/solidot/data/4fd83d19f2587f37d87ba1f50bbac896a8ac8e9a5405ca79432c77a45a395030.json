@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员让亚马逊 Alexa 自己黑自己",
+  "Link": "https://www.solidot.org/story?sid=70875",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国皇家霍洛威大学和意大利卡利亚里大学的研究人员\u003ca href=\"https://arstechnica.com/information-technology/2022/03/attackers-can-force-amazon-echos-to-hack-themselves-with-self-issued-commands/\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e可利用亚马逊智能音箱 Amazon Echo 自己的扬声器发出语音命令，迫使其打开门，拨打电话和进行未经授权的购买，以及控制其它智能电器。研究人员发现，在唤醒词之后紧跟着一个可执行的命令，Amazon Echo 就会执行它，执行敏感命令需要口头确认，但只要在发出命令 6 秒后加上 yes 就能绕过。这一攻击被研究人员称为 Alexa vs. Alexa（或 AvA）。\u003ca href=\"https://arxiv.org/pdf/2202.08619.pdf\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在预印本网站 arxiv 上。亚马逊已经释出了补丁修复了漏洞。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-03-07T12:46:47Z",
+  "Author": "WinterIsComing"
+}

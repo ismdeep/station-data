@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国政府资助的 Android 手机预装了难以移除的恶意程序",
+  "Link": "https://www.solidot.org/story?sid=63228",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t研究人员\u003ca href=\"https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，美国政府补贴低收入用户的 Android 手机\u003ca href=\"https://arstechnica.com/information-technology/2020/01/us-government-funded-android-phones-come-preinstalled-with-unremovable-malware/\" target=\"_blank\"\u003e\u003cu\u003e被发现预装了\u003c/u\u003e\u003c/a\u003e难以移除的恶意程序。Virgin Mobile Assurance Wireles 项目的 UMX U686CL 手机以 35 美元的价格提供给合格用户。Malwarebytes 的研究人员在手机上发现了无需用户同意就能安装广告和其它不想要应用的恶意程序 Android/Trojan.Dropper.Agent.UMX。恶意程序隐藏在系统设置应用中，普通用户事实上不太可能将其卸载。研究人员发现的另一个潜在恶意应用是用于升级的 Wireless Update，它提供了机制无需用户同意安装不想要的应用，它是 Adups 的变种。上海广升信息技术有限公司的 Adups 在 2016 年被发现悄悄收集了用户数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-01-10T09:35:10Z",
+  "Author": "WinterIsComing"
+}

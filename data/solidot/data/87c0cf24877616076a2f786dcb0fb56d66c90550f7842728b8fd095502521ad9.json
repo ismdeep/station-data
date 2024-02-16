@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "darktable 4.0.0 发布",
+  "Link": "https://www.solidot.org/story?sid=72012",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t照片编辑软件 Darktable \u003ca href=\"https://www.darktable.org/2022/07/darktable-4.0.0-released/\"\u003e\u003cu\u003e发布了 4.0.0 版本\u003c/u\u003e\u003c/a\u003e。主要新特性包括：曝光和色彩校准模块新功能 Color and exposure mapping，Filmic v6 引入了新的色彩科学，高光重组模块引入了新的引导拉普拉斯方法，darktable Uniform Color Space 2022，重写 UI，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-03T13:55:35Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "FreeDOS 1.3 释出",
+  "Link": "https://www.solidot.org/story?sid=70728",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMS-DOS 开源替代 FreeDOS 的作者 Jim Hall \u003ca href=\"https://sourceforge.net/p/freedos/news/2022/02/freedos-13/\" target=\"_blank\"\u003e\u003cu\u003e正式发布了 1.3 版\u003c/u\u003e\u003c/a\u003e。FreeDOS 1.3 主要变化包括：新的 FreeCOM 0.85a，新 Kernel 2043 和支持 FAT32 的 8086 版本，软盘版本使用了压缩减少了一半需求，网络，新程序和游戏，软件包更新，NLS 更新，改进安装流程，等等。Jim Hall 在 1994 年发起了 FreeDOS 项目，当年发布了第一个 Alpha版 本，2006 年发布了 1.0 正式版，2012 年发布了 1.1 版本，2016 年\u003ca href=\"https://www.solidot.org/story?sid=50865\" target=\"_blank\"\u003e\u003cu\u003e发布\u003c/u\u003e\u003c/a\u003e了 1.2 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-02-21T15:30:25Z",
+  "Author": "WinterIsComing"
+}

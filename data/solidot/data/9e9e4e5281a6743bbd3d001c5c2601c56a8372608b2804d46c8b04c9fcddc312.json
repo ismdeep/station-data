@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "德国网络安全机构推荐 Firefox 为最安全的浏览器",
+  "Link": "https://www.solidot.org/story?sid=62280",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国联邦信息安全办公室（BSI）\u003ca href=\"https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Mindeststandards/Browser-Abgleich_Mindeststandard_Sichere_Web-Browser_V2_0.pdf\"\u003e\u003cu\u003e测试了\u003c/u\u003e\u003c/a\u003e（PDF）主流浏览器 Mozilla Firefox 68 (ESR)、Google Chrome 76、 Microsoft Internet Explorer 11 和 Microsoft Edge 44，Firefox 成为该机构在测试之后推荐的最安全浏览器。这次测试没有包含 Safari、Brave、Opera 或 Vivaldi。BSI 在上个月发布了安全浏览器指南，其中规定现代安全浏览器必须支持 TLS，必须有信任证书名单，必须验证加载的证书，必须使用图标显示连接加密还是不加密，必须支持 HTTP Strict Transport Security (HSTS) 等。BSI \u003ca href=\"https://www.zdnet.com/article/germanys-cyber-security-agency-recommends-firefox-as-most-secure-browser/\"\u003e\u003cu\u003e公布了\u003c/u\u003e\u003c/a\u003e测试浏览器的不足之处，如 Chrome、IE 和 Edge 缺乏对主密码机制的支持，IE 没有内置的更新机制，Chrome、IE 和 Edge 没有提供选项屏蔽遥测数据收集。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-18T04:11:08Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "现代软件开发是否太复杂",
+  "Link": "https://www.solidot.org/story?sid=69539",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t“复杂性会致命，”Lotus Notes 作者和微软资深工程师 Ray Ozzie 在 2005 年的一份\u003ca href=\"https://www.computerworld.com/article/2513705/ozzie-s--doomsday--memo-warns-microsoft-of-post-pc-days.html\" target=\"_blank\"\u003e\u003cu\u003e内部备忘录\u003c/u\u003e\u003c/a\u003e中写道。“它剥夺了开发人员的生命；使产品难以规划、构建和测试它带来了安全挑战；让用户和管理员感到沮丧。”\n\u003cbr/\u003e\n\u003cbr/\u003e\n如果 Ozzie 当时就认为软件开发过于复杂的话，你会忍不住好奇他会如何看待软件开发人员在云原生时代\u003ca href=\"https://developers.slashdot.org/story/21/11/06/0256200/is-modern-software-development-too-complex\"\u003e\u003cu\u003e所面临的复杂性\u003c/u\u003e\u003c/a\u003e。从你可以触摸的服务器上托管的整体架构中构建应用程序到将它们拆解成多个微服务，打包进容器，与 Kubernetes 调谐并托管在分布式云环境中，这种转变标志着软件的复杂程度激增。加上对功能丰富的消费级体验的期望，要求安全和富有弹性，这对开发人员提出了前所未有的高要求。\n\n\u003cbr/\u003e\n\u003cbr/\u003e\n亚马逊首席技术官 Werner Vogels 在 2019 年 AWS 峰会期间表\u003ca href=\"https://www.youtube.com/watch?v=vWfkbGF6fiA\" target=\"_blank\"\u003e\u003cu\u003e示\u003c/u\u003e\u003c/a\u003e：“当你迁移到如此普遍的微服务环境时，复杂性明显增加了。一切都在单一整体中的日子是否更容易？是的，对于某些部分肯定如此。”或者，正如他的同事、AWS 的 DevOps 产品营销主管 Emily Freeman 在 2021 年\u003ca href=\"https://siliconangle.com/2021/09/29/devops-dummies-author-emily-freeman-introduces-revolutionary-model-modern-software-development-awsq3/\"\u003e\u003cu\u003e所说的那样\u003c/u\u003e\u003c/a\u003e，现代软件开发是“一项关于熵的研究，并没有变得更简单。”\n\n另一方面，复杂的技术从未像现在这样现成、简单、易用，通常是通过一个API——从基本库和框架到图像识别功能甚至是整个支付堆栈。只要在上面组装和构建你的业务逻辑就可以了，但真的有那么简单吗？\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-08T11:15:33Z",
+  "Author": "wanwan"
+}

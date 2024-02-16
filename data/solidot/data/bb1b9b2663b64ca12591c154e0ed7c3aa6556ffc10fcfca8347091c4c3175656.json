@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Play 将限制应用查看设备上安装的应用",
+  "Link": "https://www.solidot.org/story?sid=67388",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 更新了 Google Play 应用商店发行应用的一系列政策，其中最重要的是将限制应用开发商\u003ca href=\"https://9to5google.com/2021/03/31/installed-android-apps-limit/\" target=\"_blank\"\u003e\u003cu\u003e查看设备上安装的其它应用\u003c/u\u003e\u003c/a\u003e。作为限制使用高风险/高敏感权限的一部分，Google 限制使用  QUERY_ALL_PACKAGES 权限，该权限允许读取设备上安装的应用列表。银行应用和数字钱包应用豁免于这一限制，它们可以出于安全考虑检查下设备上安装的应用。这一政策将从 2021 年 5 月 5 日开始执行。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-02T13:04:38Z",
+  "Author": "WinterIsComing"
+}

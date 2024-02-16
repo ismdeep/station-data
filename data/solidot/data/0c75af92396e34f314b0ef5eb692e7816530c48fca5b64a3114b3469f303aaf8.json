@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 拥有你个人项目的知识产权",
+  "Link": "https://www.solidot.org/story?sid=62986",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在俄罗斯互联网巨头 Rambler Group 以作者 Igor Sysoev 就职于该公司期间开发 Nginx 而声称拥有其所有权之后，其它公司类似的规定引发了\u003ca href=\"https://news.ycombinator.com/item?id=21823413\"\u003e\u003cu\u003e关注\u003c/u\u003e\u003c/a\u003e，而其中一家公司正是搜索巨人：根据 Google 的雇佣协议，它拥有你在公司期间所创造项目的知识产权，这一规定也适用于你的个人项目，以及旧项目在就职期间的新开发工作。Google 可能也觉得这一规定范围过于宽泛不近人情，因此还制定了一个程序，允许雇员递交申请\u003ca href=\"https://opensource.google/docs/iarc/\" target=\"_blank\"\u003e\u003cu\u003e让个人项目脱离 Google\u003c/u\u003e\u003c/a\u003e，但 Google 可能未必会批准每一个申请。Google 开发者 Hector Martin 在 Twitter 上\u003ca href=\"https://twitter.com/marcan42/status/1207234468928356352\"\u003e\u003cu\u003e发表了一系列帖子\u003c/u\u003e\u003c/a\u003e，描述了其个人项目的经历。在加盟 Google 前他维护了两个开源项目，分别是 AsbestOS (PS3 Linux)和 usbmuxd (iPhone USB comms daemon）。他递交了申请，Google 批准了 AsbestOS 但拒绝了 usbmuxd，没有给予解释，这导致他不得不交出 usbmuxd 的维护工作。Martin 在其它开源项目的经历也因为 Google 的这些规定而不是很愉快。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T14:13:39Z",
+  "Author": "WinterIsComing"
+}

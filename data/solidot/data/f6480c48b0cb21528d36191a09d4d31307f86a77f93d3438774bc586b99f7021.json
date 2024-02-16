@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 仍然保留了许多来自 Netscaps 代码",
+  "Link": "https://www.solidot.org/story?sid=63958",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t网景（Netscaps）在 1998 年开源了它的浏览器，Mozilla 在此基础上开发了 Firefox 浏览器。22 年之后，Firefox 经历了多次重大的迭代更新，目前正使用 Rust 语言对浏览器进行重构。那么 22 年的今天 Firefox 浏览器\u003ca href=\"https://retrocomputing.stackexchange.com/questions/14229/is-there-any-code-in-firefox-as-of-2020-that-comes-from-netscape-navigator\" target=\"_blank\"\u003e\u003cu\u003e还保留了\u003c/u\u003e\u003c/a\u003e多少来自 Netscape Navigator 的代码？\u003ca href=\"https://news.ycombinator.com/item?id=22707102\" target=\"_blank\"\u003e\u003cu\u003e答案是很多\u003c/u\u003e\u003c/a\u003e。根据版本历史，Firefox 的 HTML 解析器中的部分文件有 22 年历史；NetScape Portable Runtime 库 nsprpub 原始版本的 65,745 行代码有 36,046 行与当前版本相同，保留的比例占到了 54.8%。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-28T06:41:41Z",
+  "Author": "WinterIsComing"
+}

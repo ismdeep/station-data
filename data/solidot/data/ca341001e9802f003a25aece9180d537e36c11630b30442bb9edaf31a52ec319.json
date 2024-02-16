@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 向访问它网站的 Edge 用户推荐 Chrome",
+  "Link": "https://www.solidot.org/story?sid=63613",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上个月刚刚释出的新 Edge 浏览器是基于开源的 Chromium，与  Google Chrome 相同，支持访问 Chrome 的扩展商店下载安装扩展。然而当 Edge 用户访问 Chrome 的 Web Store，Google 的网站会显示提示\u003ca href=\"https://tech.slashdot.org/story/20/02/23/2252200/google-detects-edge-users-visiting-its-sites-urges-them-to-switch-to-chrome\" target=\"_blank\"\u003e\u003cu\u003e，建议用户切换到 Chrome\u003c/u\u003e\u003c/a\u003e“以更安全的使用扩展”。并不是所有基于 Chromium 的浏览器都收到类似的提示，Opera 用户访问 Google 旗下网站就没有任何切换到 Chrome 的建议。Firefox 用户当然早就看到过类似的“建议”了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-24T05:05:25Z",
+  "Author": "WinterIsComing"
+}

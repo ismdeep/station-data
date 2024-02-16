@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google 首次完成化学反应的量子模拟",
+  "Link": "https://www.solidot.org/story?sid=65381",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的研究人员首次使用量子计算机\u003ca href=\"https://www.newscientist.com/article/2253089-google-performed-the-first-quantum-simulation-of-a-chemical-reaction/\"\u003e\u003cu\u003e模拟了化学反应\u003c/u\u003e\u003c/a\u003e。模拟的化学反应非常简单，但这是朝着量子计算机实用化迈出的重要一步。\u003ca href=\"https://science.sciencemag.org/cgi/doi/10.1126/science.abb9811\"\u003e\u003cu\u003e研究报告\u003c/u\u003e\u003c/a\u003e发表在《科学》期刊上。原子和分子都受控于量子机制，要精确模拟其化学反应最佳的方法被认为是使用量子计算机。去年 Google \u003ca href=\"https://www.solidot.org/story?sid=62359\"\u003e\u003cu\u003e透露\u003c/u\u003e\u003c/a\u003e了可编程量子处理器 Sycamore。最新的研究就是利用了 Sycamore 去模拟两个氮原子和两个氢原子组成的二氮烯分子。量子模拟与经典计算机上的模拟一致。Google 的 Ryan Babbush 说我们正从完全不同的尺度去进行化学的量子计算。他表示未来可以使用量子模拟开发新的化合物。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-28T12:44:01Z",
+  "Author": "WinterIsComing"
+}

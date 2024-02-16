@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GnuCash 4.0 释出",
+  "Link": "https://www.solidot.org/story?sid=64808",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNU 财务软件项目 GnuCash 在邮件列表上\u003ca href=\"https://lists.gnucash.org/pipermail/gnucash-announce/2020-June/000324.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出最新的 GnuCash 4.0，项目源代码托管在 \u003ca href=\"https://sourceforge.net/projects/gnucash/\" target=\"_blank\"\u003e\u003cu\u003eSourceforge\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://github.com/Gnucash/gnucash\" target=\"_blank\"\u003e\u003cu\u003eGithub\u003c/u\u003e\u003c/a\u003e 上。新版引入了一个独立的可执行文件 gnucash-cli（Windows 版本是 gnucash-cli.exe），用于命令行操作如更新账簿中的价格；登记簿列宽度将根据类型组进行保存；支持应付账款和应收帐款， 改进翻译，bug 修复，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-30T07:22:02Z",
+  "Author": "blackhat"
+}

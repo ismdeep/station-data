@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软警告黑客正在利用一个 Windows 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=63910",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软警告黑客\u003ca href=\"https://arstechnica.com/information-technology/2020/03/attackers-exploit-windows-zeroday-that-can-execute-malicious-code/\"\u003e\u003cu\u003e正在利用\u003c/u\u003e\u003c/a\u003e一个 Windows 0day 漏洞去执行恶意代码。\u003ca href=\"https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/adv200006#ID0EMGAC\"\u003e\u003cu\u003e漏洞\u003c/u\u003e\u003c/a\u003e存在于 Adobe Type Manager Library 中，这个 DLL 文件被应用广泛用于管理和渲染 Adobe Systems 的字体。它由两个代码执行漏洞构成，可以通过不正确处理 Adobe Type 1 Postscript 格式的恶意主字型触发。攻击者诱骗目标打开恶意文档或在 Windows 预览面板浏览文件来利用该漏洞。在补丁释出前，微软建议用户禁用  Windows Explorer 的 Preview Pane 和 Details Pane，或禁用 WebClient 服务，重命名 ATMFD.DLL。采用这些权益方法可能会导致其它问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-24T05:12:12Z",
+  "Author": "WinterIsComing"
+}

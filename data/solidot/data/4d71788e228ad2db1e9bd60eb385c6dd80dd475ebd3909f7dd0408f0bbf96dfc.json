@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "维护者身处俄罗斯引发对内核 NTFS 驱动的担忧",
+  "Link": "https://www.solidot.org/story?sid=71373",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年底释出的 \u003ca href=\"https://www.solidot.org/story?sid=69445\"\u003e\u003cu\u003eLinux 5.15\u003c/u\u003e\u003c/a\u003e 合并了 Paragon Software 开发的 NTFS3 内核驱动，改进对微软 NTFS 文件系统的支持。Paragon 承诺它将会维护 NTFS3 驱动，尽管过去几个月递交的补丁列表在不断增长，但维护者一直\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=NTFS3-Linux-Driver-2022-Sad\"\u003e\u003cu\u003e没有对驱动进行重大更新\u003c/u\u003e\u003c/a\u003e，也没有将修正递交到上游。维护者没有回应任何修正的消息，也没有回应其他内核开发者提出的共同维护驱动的建议。维护者生活在俄罗斯可能是这一切的\u003ca href=\"https://linux.slashdot.org/story/22/04/26/1749239/concerns-raised-over-the-new-ntfs-linux-driver-that-merged-last-year\"\u003e\u003cu\u003e重要原因\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-27T04:08:19Z",
+  "Author": "WinterIsComing"
+}

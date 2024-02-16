@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 83 引入 HTTPS-Only 模式",
+  "Link": "https://www.solidot.org/story?sid=66119",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e即将发布的 Firefox 83 将引入新的安全功能—— HTTPS-Only 模式。启用该模式之后，Firefox 将会尝试只通过加密连接访问每一个网站，如果一个网站不支持加密连接 Firefox 将会请求用户许可。通过 HTTP 传输的内容是不受保护而且是明文的，HTTP over TLS (HTTPS)通过建立加密连接去解决这一安全问题。今天的大部分网站都已经支持 HTTPS。Mozilla 认为是时候让用户始终使用 HTTPS。HTTPS-Only 模式可在“选项”——“隐私与安全”，滚动到最下面选择启用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-11-17T11:56:26Z",
+  "Author": "WinterIsComing"
+}

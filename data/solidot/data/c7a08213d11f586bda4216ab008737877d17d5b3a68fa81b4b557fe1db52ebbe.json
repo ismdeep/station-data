@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "用户报告微软 Surface Pro 6 和 Surface Book 2 设备处理器频率被锁定到 400 MHz",
+  "Link": "https://www.solidot.org/story?sid=61749",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今天的笔记本电脑通常有过热保护，在过热的情况下降低处理器频率。即便是过热保护，你可能从没有遭遇过频率会被锁定在 400 MHz 这个 1990 年代奔腾 2 处理器的频率。微软 Surface Pro 6 和 Surface Book 2 用户报告它们的设备处理器频率被锁定到 400 MHz，部分情况下重启后问题照旧。微软发言人\u003ca href=\"https://www.zdnet.com/article/microsoft-surface-pro-6-and-surface-book-2-devices-are-throttle-locking-to-400-mhz/\" target=\"_blank\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e他们已经知道这一问题，将通过固件更新解决。用户早在一年前就反应频率会被锁定在 400 MHz，但在最新的固件更新之后，被称为 \u003ca href=\"https://www.reddit.com/r/Surface/comments/cnrnv8/surface_pro_6_cpu_speed_drops_down_to_04_ghz_when/\"\u003e\u003cu\u003e0.4 GHz \u003c/u\u003e\u003c/a\u003e的 bug 出现频率增加了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-16T10:08:34Z",
+  "Author": "wenfeixiang"
+}

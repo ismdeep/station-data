@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Zimbra 改变开源政策",
+  "Link": "https://www.solidot.org/story?sid=64137",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tZimbra 电邮和协作套装\u003ca href=\"https://forums.zimbra.org/viewtopic.php?f=9\u0026amp;t=68073\" target=\"_blank\"\u003e改变了开源政策\u003c/a\u003e。从 Zimbra 9 开始，它的二进制版本将不再向社区发布，而是只提供给 Zimbra Network Edition 客户。目前也没有计划向社区发布 Zimbra 9 的源代码。Zimbra 8.8.15 仍然会开源，并将一直支持到 2024 年 12 月 31 日。在其生命期内，Version 8.8.1 将会一直能获得更新。Zimbra 9 将是基于开放核心，但产品本身将不是开源的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-04-16T06:31:32Z",
+  "Author": "WinterIsComing"
+}

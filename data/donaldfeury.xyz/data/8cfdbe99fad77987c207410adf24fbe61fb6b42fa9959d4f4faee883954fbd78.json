@@ -1,0 +1,8 @@
+{
+  "Source": "donaldfeury.xyz",
+  "Title": "Replace the Official Spotify Client With spotify-tui and spotifyd",
+  "Link": "https://donaldfeury.xyz/ditch-the-spotify-client/",
+  "Content": "\u003csection class=\"gh-content gh-canvas\"\u003e\n        \u003cp\u003eI have an old Thinkpad X200 laptop and if there is one thing it doesn\u0026#39;t like, its Electron apps that consume 30% of its RAM.\u003c/p\u003e\u003cp\u003eSo I used a combination of two programs to replace the official Spotify client, \u003ca href=\"https://github.com/Rigellute/spotify-tui\"\u003espotify-tui\u003c/a\u003e and \u003ca href=\"https://github.com/Spotifyd/spotifyd\"\u003espotifyd\u003c/a\u003e, both of which are written in Rust.\u003c/p\u003e\u003cfigure class=\"kg-card kg-embed-card kg-card-hascaption\"\u003e\u003ciframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TaPWqXFtce8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003cfigcaption\u003eMy X200 Thinkpad Hates Electron\u003c/figcaption\u003e\u003c/figure\u003e\u003chr/\u003e\u003cp\u003eDid you find this information useful? If so, consider heading over to my \u003ca href=\"https://donaldfeury.xyz/donate/\"\u003edonation\u003c/a\u003e page and drop me some support.\u003c/p\u003e\u003cp\u003eWant to ask a question or just chat? Contact me \u003ca href=\"https://donaldfeury.xyz/contact\"\u003ehere\u003c/a\u003e\u003c/p\u003e\n    \u003c/section\u003e",
+  "Date": "2021-06-26T16:12:32Z",
+  "Author": "Donald Feury"
+}

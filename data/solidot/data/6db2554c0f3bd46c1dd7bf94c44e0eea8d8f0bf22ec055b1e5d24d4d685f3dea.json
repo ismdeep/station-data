@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软证实黑客对 SolarWinds 的供应链攻击它也是受害者",
+  "Link": "https://www.solidot.org/story?sid=66405",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软\u003ca href=\"https://cn.reuters.com/article/microsoft-hacker-attack-1218-idCNKBS28S0DP?il=0\"\u003e\u003cu\u003e表示\u003c/u\u003e\u003c/a\u003e在其系统中发现了与美国官员本周披露的大规模黑客攻击活动有关的恶意软件。微软是 Orion 的用户，Orion 则是 SolarWinds 出品的一款得到广泛使用的网络管理软件，曾被用于疑似俄罗斯对美国一些重要机构的攻击。“与其他 SolarWinds 客户一样，我们一直在积极寻找该行动者的踪迹，并可以确认在我们的环境中检测到了恶意的 Solar Winds 二进制文件，我们将其隔离并删除，”微软的一名发言人说，并称“没有迹象显示我们的系统曾被用来攻击他人”。一位熟悉黑客攻击行动的人士说，黑客利用了微软云产品，同时避开了微软的公司基础架构。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-18T05:35:07Z",
+  "Author": "WinterIsComing"
+}

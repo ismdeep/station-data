@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软如何判断你的网络是否受限",
+  "Link": "https://www.solidot.org/story?sid=73443",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软是如何判断你的网络是否受限？微软资深软件工程师、《The Old New Thing》作者 Raymond Chen 解释说，根据你的 Windows 版本而定，系统会尝试从一个专门的 Web 服务器上下载文件，可能是  http://www.msftncsi.com/ncsi.txt  或 http://www.msftconnecttest.com/connecttest.txt，如果下载成功而且包含正确的内容，Windows 会认为你拥有完整的互联网接入。如果出错了，根据错误它会认为能访问受限制或无互联网接入。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-22T07:29:12Z",
+  "Author": "WinterIsComing"
+}

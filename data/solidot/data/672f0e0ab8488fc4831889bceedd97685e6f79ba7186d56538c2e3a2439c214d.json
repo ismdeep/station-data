@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "高危 BIOS 漏洞影响多型号英特尔处理器",
+  "Link": "https://www.solidot.org/story?sid=69630",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔\u003ca href=\"https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00562.html\"\u003e\u003cu\u003e披露了\u003c/u\u003e\u003c/a\u003e两个高危漏洞影响多代英特尔处理器家族，漏洞允许攻击者和恶意程序获得更高的权限。漏洞由 SentinelOne 发现，编号为 CVE-2021-0157 和 CVE-2021-0158，CVSS v3 评分都是 8.3/10，前者与 BIOS 固件控制流管理有关，后者则与 BIOS 固件不正确输入验证有关。漏洞可被用于提权，但攻击者需要首先能物理访问机器。受影响的型号包括了 7 代、10 代和 11 代酷睿处理器，至强E、E3 v6 和 W 系列等。英特尔没有披露更多细节，它建议用户如果有可用 BIOS 更新就打上补丁。考虑到 7 代酷睿已有 5 年历史，主板供应商不太可能还会释出 BIOS 更新。 \t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-16T05:34:54Z",
+  "Author": "WinterIsComing"
+}

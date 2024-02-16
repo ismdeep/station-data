@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 11 将提供 Windows Subsystem for Android",
+  "Link": "https://www.solidot.org/story?sid=68124",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软在宣布 Windows 11 时透露它能运行 Android 应用。Windows Developer Platform 企业副总裁 Kevin Gallo 公开了这一功能背后的技术细节：Windows Subsystem for Android。它的作用类似 Windows Subsystem for Linux (WSL)，在 Android 应用模型和 Windows 应用模型之间提供一个代理原生应用，将有一个虚拟机提供对 Android Open Source Project (AOSP)的兼容。亚马逊已经\u003ca href=\"https://developer.amazon.com/zh/blogs/appstore/post/a7583854-9367-4480-99c4-15f91456558c/amazon-and-microsoft-create-new-opportunities-for-developers-and-increase-return-on-investment-in-the-amazon-appstore\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将和微软合作将其应用商店带到 Windows 11 上。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-06-25T06:53:38Z",
+  "Author": "WinterIsComing"
+}

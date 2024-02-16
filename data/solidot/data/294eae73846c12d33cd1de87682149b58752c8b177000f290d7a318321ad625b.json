@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软发现正被利用的 SolarWinds 0day 漏洞",
+  "Link": "https://www.solidot.org/story?sid=68270",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t身处去年对美国政府机构发动供应链攻击事件中心的 SolarWinds 公司\u003ca href=\"https://arstechnica.com/gadgets/2021/07/microsoft-discovers-critical-solarwinds-zero-day-under-active-attack/\"\u003e正忙于修补\u003c/a\u003e另一个正被利用的高危漏洞。微软发现了正被利用的漏洞，报告给了  SolarWinds 公司，该公司上周五释出了\u003ca href=\"https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35211\"\u003e\u003cu\u003e修复补丁\u003c/u\u003e\u003c/a\u003e。SolarWinds 称这次攻击与去年 12 月发现的供应链攻击不相干，影响其 Serv-U 产品线，有少数针对性的目标受到攻击，它还没有估计受漏洞直接影响的客户规模。漏洞存在于今年 5 月释出的最新 Serv-U version 15.2.3 HF1 版本中以及之前释出的所有版本中，运行  Serv-U version 15.2.3 HF1 的客户需要升级到 \u003ca href=\"https://customerportal.solarwinds.com/\"\u003e\u003cu\u003eHF2\u003c/u\u003e\u003c/a\u003e，运行 Serv-U 15.2.3 的客户需要先升级到 15.2.3 HF1 再打补丁 HF2；运行 Serv-U versions 15.2.3 之前版本的客户需要升级到 15.2.3，再打补丁 HF1 和 HF2。它督促所有客户立即更新。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-13T07:34:30Z",
+  "Author": "WinterIsComing"
+}

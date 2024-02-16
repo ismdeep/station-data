@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux Mint 准备支持 Wayland",
+  "Link": "https://www.solidot.org/story?sid=76462",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tDebian 发行版总是用《玩具总动员》系列中的玩具名字命名，《玩具总动员》中有一个小男孩叫 Sid，他会去破坏玩具，因此 Debian 用 Sid 命名它的不稳定分支，Sid 会破坏玩具，破坏 Debian，因此 Sid 中的软件包是不稳定的。基于 Debian 的发行版 Linux Mint 用女孩的名字命名，每个版本都有她的罗密欧（Romeo），罗密欧会伤她的心，因此罗密欧中的软件包是不稳定的。开发者表示，如果用户想要帮助他们测试不稳定的软件，可以在 Software Sources 中启用罗密欧。开发者同时表示，Linux Mint 准备支持 Wayland，但短时间内不会用它替代 Xorg。Cinnamon 6.0 将提供对 Wayland 的实验性支持，默认仍然是 Xorg。\n\n\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.linuxmint.com/?p=4591\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-10-27T06:56:53Z",
+  "Author": "Wilson"
+}

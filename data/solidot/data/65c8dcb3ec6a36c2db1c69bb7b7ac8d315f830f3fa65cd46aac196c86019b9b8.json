@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "UNIX 时间突破 16 亿秒",
+  "Link": "https://www.solidot.org/story?sid=65524",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"https://en.wikipedia.org/wiki/Unix_time\" target=\"_blank\"\u003e\u003cu\u003eUNIX 时间（Epoch time）\u003c/u\u003e\u003c/a\u003e是 UNIX 系统使用的时间表示方式，从协调世界时 1970 年 1 月 1 日 0 时 0 分 0 秒起开始计算，它不考虑闰秒，因此并不是协调世界时的真实表达。UNIX 时间每天固定为 86400 秒，每年 31556926 秒，到 2020 年 9 月 13 日晚上 8 点 26 分（GMT+8），它的总秒数突破了\u003ca href=\"https://www.epochconverter.com/\"\u003e\u003cu\u003e 16 亿\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-13T15:06:20Z",
+  "Author": "WinterIsComing"
+}

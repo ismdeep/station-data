@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "欧洲处理器计划测试首款 RISC-V 芯片",
+  "Link": "https://www.solidot.org/story?sid=69026",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t欧洲处理器计划（European Processor Initiative，EPI）成功对基于 RISC-V 架构的欧洲处理器加速器（European Processor Accelerator，EPAC）\u003ca href=\"https://www.theregister.com/2021/09/22/first_riscv_epi_chip/\" target=\"_blank\"\u003e\u003cu\u003e进行首轮测试\u003c/u\u003e\u003c/a\u003e，声称这是欧洲向本土超级计算硬件迈出的第一步。EPI 于 2018 年成立，旨在提高欧洲超级计算行业面对外国科技企业时的独立自主能力。其核心在于采用自由开源的 RISC-V 指令集架构，在欧洲境内开发并生产高性能芯片。项目的最新里程碑是成功交付 143 个 EPAC 芯片样品——这款加速器专为高性能计算应用所设计，由 GlobalFoundries 制造，芯片制程 22 纳米，旨在证明处理器的设计可行性，目前已通过初步测试、顺利完成了裸机“hello，world”程序的运行。这代表着一种快速转变。EPAC 的设计 3 月在 FPGA 上验证，项目于 6 月宣布进行流片测试，芯片面积 26.97 平方毫米，可放置 1400 万个实例、相当于 9300 万个门，其中包含 991 个存储器实例。虽然包含完整 EPAC 设计功能子集的 FPGA 芯片能在演示中成功启动 Linux 操作系统，但物理测试芯片目前还只能实现最基础的裸机工作负载测试——EPI 还有很多工作要做。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-23T03:48:45Z",
+  "Author": "wanwan"
+}

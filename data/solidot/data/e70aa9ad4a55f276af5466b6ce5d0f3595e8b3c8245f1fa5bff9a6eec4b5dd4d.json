@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.9 释出",
+  "Link": "https://www.solidot.org/story?sid=65770",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wi-u86++np80GQvgDuARdt9xpBNho6SjHLmYgm8jibGag@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.9。主要新特性包括：支持 x86 \u003ca href=\"https://lwn.net/Articles/821723/\"\u003e\u003cu\u003eFSGSBASE\u003c/u\u003e\u003c/a\u003e 指令集，FSGSBASE 是英特尔于 2012 年在 Ivy Bridge 系列处理器中引入的指令集，用于直接操作 FS 和 GS 基址寄存器，对 FSGSBASE 的支持能显著改进性能；死线调度器（deadline scheduler）\u003ca href=\"https://lwn.net/Articles/821578/\" target=\"_blank\"\u003e\u003cu\u003e支持 CPU 容量感知\u003c/u\u003e\u003c/a\u003e；\u003ca href=\"https://lwn.net/Articles/789023/\"\u003e\u003cu\u003eclose_range()\u003c/u\u003e\u003c/a\u003e系统调用；\u003ca href=\"https://lwn.net/Articles/817905/\"\u003e\u003cu\u003e主动内存压缩\u003c/u\u003e\u003c/a\u003e大幅减少大页分配延迟；文件系统、驱动等方面的更新，更多可浏览 \u003ca href=\"https://kernelnewbies.org/Linux_5.9\" target=\"_blank\"\u003e\u003cu\u003eKernelNewbies 5.9\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-12T03:29:02Z",
+  "Author": "WinterIsComing"
+}

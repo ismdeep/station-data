@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软 CTF 协议曝出漏洞，影响 XP",
+  "Link": "https://www.solidot.org/story?sid=61717",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle  Project Zero 安全团队的研究员 Tavis Ormandy \u003ca href=\"https://googleprojectzero.blogspot.com/2019/08/down-rabbit-hole.html\"\u003e\u003cu\u003e报告\u003c/u\u003e\u003c/a\u003e，微软鲜为人知的 CTF 协议存在漏洞，\u003ca href=\"https://www.zdnet.com/article/vulnerability-in-microsoft-ctf-protocol-goes-back-to-windows-xp/\"\u003e\u003cu\u003e很容易利用\u003c/u\u003e\u003c/a\u003e，已在受害者计算机获得立足之地的黑客或恶意程序可以利用该漏洞劫持任何 Windows 应用，接管整个操作系统。CTF 代表什么 Ormandy 没有查到，它是  Windows Text Services Framework (TSF) 的一部分，该系统用于管理 Windows 或 Windows 应用程序内的文本展示。当用户启动一个应用，Windows 会启动一个 CTF 客户端，这个客户端会从一个 CTF 服务器接收有关操作系统语言和键盘输入方法的指令。如果操作系统输入方法从一种语言切换到另一种语言， CTF 服务器会通知所有  CTF 客户端，实时改变语言。漏洞在于  CTF 服务器和客户端之间通信是不安全的，没有正确的身份验证。攻击者可以劫持另一个应用的 CTF 会话，伪装成服务器向客户端发送指令。如果应用运行在高权限上，攻击者可以控制整个操作系统。漏洞影响到 XP 以来的所有 Windows 版本，不清楚微软是否或何时会释出补丁。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-14T07:33:10Z",
+  "Author": "wenfeixiang"
+}

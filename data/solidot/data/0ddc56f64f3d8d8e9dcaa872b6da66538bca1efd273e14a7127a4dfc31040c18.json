@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Cerebras 的新 AI 芯片有 26 万亿晶体管",
+  "Link": "https://www.solidot.org/story?sid=67584",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年 11 月，硅谷创业公司 \u003ca href=\"https://www.cerebras.net/product/\" target=\"_blank\"\u003e\u003cu\u003eCerebras Systems\u003c/u\u003e\u003c/a\u003e 和美国能源部国家能源技术实验室\u003ca href=\"https://startup.solidot.org/story?sid=66140\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e了它的超大型 AI 芯片 Wafer Scale Engine（WSE)，其晶体管数量达到了 1.2 万亿。芯片制造商通常会把  12 英寸直径的硅锭切割成一块晶圆，然后再切割成数百个独立芯片，而 Cerebras 公司则是直接将一块晶圆加工成一个单一的巨大芯片。本周，Cerebras \u003ca href=\"https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors\" target=\"_blank\"\u003e\u003cu\u003e宣布了它的第二代芯片 WSE 2\u003c/u\u003e\u003c/a\u003e，它将于今年第三季度发布。WSE 2 的晶体管数量比第一代多 14 万亿达到 26 万亿，片内缓存达到 40GB，内存带宽 40 PB/s，采用 7 纳米工艺，而上一代使用的是 16 纳米工艺。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-23T12:24:00Z",
+  "Author": "WinterIsComing"
+}

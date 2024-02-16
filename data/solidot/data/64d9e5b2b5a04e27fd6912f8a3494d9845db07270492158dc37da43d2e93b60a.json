@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "REvil 勒索软件黑帮的幕后",
+  "Link": "https://www.solidot.org/story?sid=68235",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在对  Kaseya VSA 的客户发动规模惊人的供应链攻击之后，REvil 成为最为人瞩目的勒索软件犯罪团伙。安全公司 Palo Alto Networks \u003ca href=\"https://unit42.paloaltonetworks.com/revil-threat-actors/\" target=\"_blank\"\u003e\u003cu\u003e分析了\u003c/u\u003e\u003c/a\u003e REvil 发动攻击所采用的策略。REvil 通常采用的策略包括利用钓鱼攻击在受害者网络建立立足之地，当受害者打开恶意邮件附件之后它会安装 QakBot；或者利用嵌入宏的 Excel 文件安装银行木马 Ursnif；利用漏洞通过远程桌面协议访问联网的系统。一旦进入内部网络之后它会利用 Cobalt Strike BEACON，创建本地和域账号将账号添加到远程桌面用户组。在攻击的侦察阶段，它会使用开源工具收集情报，包括 Advanced Port Scanner、TCP View 和 KPort Scanner 等网络侦察工具，用 Bloodhound 和 AdFind 测绘网络，收集活动目录信息，甚至使用 ProcessHacker 和 PCHunter 收集主机进程和服务的情报。最后开始部署勒索软件加密文件和窃取数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-07-09T00:48:16Z",
+  "Author": "WinterIsComing"
+}

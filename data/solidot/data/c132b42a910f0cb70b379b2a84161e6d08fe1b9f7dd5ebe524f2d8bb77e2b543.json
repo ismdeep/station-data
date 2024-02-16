@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "OpenSSL 3.0.0 释出",
+  "Link": "https://www.solidot.org/story?sid=68846",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在更改版本号命名方案之后，OpenSSL 项目\u003ca href=\"https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/\" target=\"_blank\"\u003e释出了 v3.0.0\u003c/a\u003e，同时将许可证切换到 Apache 2.0，旧的 OpenSSL 和 SSLeay 双许可证仍然适用于旧版本。OpenSSL 项目是在 2018 年\u003ca href=\"https://www.openssl.org/blog/blog/2018/11/28/version/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e更改版本号，从 v1.x 版本直接跳到 v3.x 版本，略过 2.x 版本，原因是 OpenSSL FIPS 模块此前已经使用过 2.x 版本号。作为首个大版本号更新，OpenSSL 3.0.0 没有完全向后兼容旧版本，但绝大部分使用  OpenSSL 1.1.1 的应用仍然能正常工作，只需重新编译下。部分应用可能需要改动下才能编译和正确工作，还有许多应用需要改动，它已经发布了一个\u003ca href=\"https://www.openssl.org/docs/man3.0/man7/migration_guide.html\" target=\"_blank\"\u003e\u003cu\u003e迁移指南\u003c/u\u003e\u003c/a\u003e。OpenSSL 3.0 引入了很多新概念，其中之一是新的 FIPS 模块。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-08T02:38:09Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "福建福昕通知客户服务器遭到黑客入侵",
+  "Link": "https://www.solidot.org/story?sid=61920",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t福昕 PDF 阅读器和编辑器的开发商福建福昕软\u003ca href=\"https://www.zdnet.com/article/company-behind-foxit-pdf-reader-announces-security-breach/\"\u003e\u003cu\u003e通知客户\u003c/u\u003e\u003c/a\u003e，黑客入侵了它的服务器访问了用户数据。在给受影响客户的\u003ca href=\"https://zdnet2.cbsistatic.com/hub/i/2019/08/30/459868ee-501a-4122-957b-761474cf8399/819564a1d927d412d0f719de60a4b6b4/foxit-software-email.png\"\u003e\u003cu\u003e邮件通知\u003c/u\u003e\u003c/a\u003e中，福昕称，未经授权的黑客访问了 My Account 区域，可能访问的用户数据包括了用户名\n、电邮地址、企业名称、电话号码、用户账号密码和 IP 地址。它声称信用卡或其它支付信息没有暴露。福昕没有解释泄露的密码是否是加密或加盐还是明文储存，它建议用户下一次登陆时修改密码。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-31T13:18:30Z",
+  "Author": "wenfeixiang"
+}

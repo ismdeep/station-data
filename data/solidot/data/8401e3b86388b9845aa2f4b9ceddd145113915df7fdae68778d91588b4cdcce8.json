@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "加州旧金山承认向勒索软件支付了超过百万美元赎金",
+  "Link": "https://www.solidot.org/story?sid=64780",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t6 月 4 日，勒索软件 NetWalker 背后的攻击者在其暗网网站上将加州旧金山大学加入到了未支付赎金的受害者名单行列。6 月 19 日，加州旧金山从名单中移除了。6 月 26 日，加州旧金山发表\u003ca href=\"https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf\" target=\"_blank\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e，承认向 NetWalker 支付了 114 万美元赎金，表示被勒索软件加密的数据对学术工作非常重要，他们只能做出困难的决定支付赎金。声明没有提及备份，但看起来大学即使有备份也不足以恢复被加密的数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-28T05:10:43Z",
+  "Author": "WinterIsComing"
+}

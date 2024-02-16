@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "LastPass 披露最新安全事故",
+  "Link": "https://www.solidot.org/story?sid=73525",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t提供密码管理服务的 LastPass 披露了最新的安全事故。LastPass 称它最近在第三方云储存服务监测到异常活动，它立即启动了调查。初步结论是这次事故与今年八月的安全事故有关联。在今年 8 月黑客通过一个入侵的开发者账号获得了对部分开发环境的访问权限，窃取了部分源代码和私有技术信息。LastPass 称正在判断最新事故的影响范围，它表示客户的密码仍然是安全的，它利用了行业标准的 Zero Knowledge 零知识架构确保它也不知道客户的主密码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://blog.lastpass.com/2022/11/notice-of-recent-security-incident/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-01T05:28:36Z",
+  "Author": "Wilson"
+}

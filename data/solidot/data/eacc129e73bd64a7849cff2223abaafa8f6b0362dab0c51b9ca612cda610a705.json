@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 地址栏将默认使用 https",
+  "Link": "https://www.solidot.org/story?sid=67297",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle Chromium 博客\u003ca href=\"https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，从 Chrome v90 开始地址栏将默认使用 https。Google 称，当访问支持 https 的网站时，默认使用 https 能改进隐私保护提高加载速度。用户在地址栏手动输入网址时，通常不会包含 http:// 或 https://，如果是首次访问一个网站，Chrome 默认是使用 http://。这一做法源自过去，那个时候 https 的普及度还不高。随着 https 广泛使用，Chrome 将默认使用 https。对于不支持 https 的网站，Chrome 将在尝试失败之后后退到 http。 Chrome 桌面版和 Android 将率先支持这一变化，iOS 版本将在稍后支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-24T05:51:08Z",
+  "Author": "WinterIsComing"
+}

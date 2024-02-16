@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "美国联邦机构使用的密码有五分之一在安全审计中破解",
+  "Link": "https://www.solidot.org/story?sid=73865",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t美国内政部在安全审计中发现，逾五分之一的密码可以用标准方法破解。审计人员获得了 85,944 名联邦雇员账户密码的哈希值，然后用包含 15 亿单词的字典进行暴力破解。结果成功破解了其中 18,174 个哈希值，占到了总数的 21%。其中 288 个账户具有高权限，362 个账户属于政府高级雇员。审计人员仅仅在 90 分钟内就破解了 16% 的哈希值。最常见的密码是 Password-1234，有 478 人使用；Br0nc0$2012，有 389 人使用；Password123$ | 318；Password1234 | 274；Summ3rSun2020! | 191；0rlando_0000 | 160；Password1234! | 150...\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/?p=1909094\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-01-11T09:30:25Z",
+  "Author": "Wilson"
+}

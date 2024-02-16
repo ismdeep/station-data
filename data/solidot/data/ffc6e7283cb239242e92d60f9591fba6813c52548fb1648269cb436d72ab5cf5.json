@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔将终止基于 3D XPoint 技术的 Optane 业务",
+  "Link": "https://www.solidot.org/story?sid=72301",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在美光\u003ca href=\"https://www.solidot.org/story?sid=68180\"\u003e\u003cu\u003e卖掉\u003c/u\u003e\u003c/a\u003e它的 3D XPoint(Optane)工厂后，英特尔如今也透露\u003ca href=\"https://www.anandtech.com/show/17515/intel-to-wind-down-optane-memory-business\" target=\"_blank\"\u003e\u003cu\u003e它将结束其 Optane 业务\u003c/u\u003e\u003c/a\u003e。3D XPoint 是美光与英特尔合作开发的非易失性存储器（NVM）技术，英特尔为使用该技术的存储产品冠名 Optane。它的优点是比 NAND Flash 记忆芯片更快（速度提升 1000 倍），比 DRAM 芯片储存更多数据（速度是 DRAM 的十分之一，存储密度是 DRAM 的 10 倍），功耗比两者都低。但问题是此类产品的需求太低，美光和英特尔的业务连年亏损。英特尔在一份声明中表示它在评估剥离盈利不强的非战略核心类业务，在考虑之后它决定终止 Optane 业务的未来产品研发。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-29T08:58:52Z",
+  "Author": "WinterIsComing"
+}

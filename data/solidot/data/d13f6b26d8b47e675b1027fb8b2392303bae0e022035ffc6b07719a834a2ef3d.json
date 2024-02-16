@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 将在 Firefox 中加入第二个 DNS-over-HTTPS (DoH) 服务商",
+  "Link": "https://www.solidot.org/story?sid=62982",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.zdnet.com/article/mozilla-to-add-second-dns-over-https-doh-provider-in-firefox/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e NextDNS 将在 Cloudflare 之后成为第二个 DNS-over-HTTPS(DoH)服务商。DoH 旨在加密 DNS 请求，保护用户的隐私，在启用之后 DNS 查询流量将加密通过 443 端口传输出去。Mozilla 称，NextDNS 通过了它的 Trusted Recursive Resolver (TRR)项目制定的条件，将添加到 Firefox 作为第二个 DoH 选项。TRR 的条件包括：限制从用户收集的数据；透明化数据收集；承诺不审查、过滤或屏蔽 DNS 流量，除非来自执法机构的要求。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-18T08:30:00Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 70 发布",
+  "Link": "https://www.solidot.org/story?sid=62334",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 释出了 \u003ca href=\"https://www.mozilla.org/en-US/firefox/70.0/releasenotes/\"\u003e\u003cu\u003eFirefox 70\u003c/u\u003e\u003c/a\u003e。主要新变化包括：更新了 HTML \u0026lt;input\u0026gt; 元素，如果是输入密码则会提供选项生成安全密码，而生成的密码可以储存在 Firefox Lockwise中；社交网络跨站跟踪 cookies 屏蔽成为 Enhanced Tracking Protection 的一项标准功能；Lockwise 整合了来自 Firefox Monitor 的密码泄露警告；浏览器核心引擎改进了 Javascript Baseline Interpreter；采用集成显卡的 Windows 版本默认启用 WebRender 去改进图像渲染；macOS 版本改进了合成器减少电力消耗和加快页面加载；加入指示器显示使用地理位置的网站，等等。此外还有大量的与开发者相关的改进，具体可浏览\u003ca href=\"https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/\"\u003e\u003cu\u003e这篇介绍\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-23T03:35:03Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安装量逾百万的 WordPress 插件记录了明文密码",
+  "Link": "https://www.solidot.org/story?sid=75532",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAll-In-One Security（AIOS）是一款安装量逾百万的 WordPress 安全插件，三周前它被发现记录明文密码并将其存储在管理员可访问数据库中后释出了安全更新。开发者表示，用户登陆使用 AIOS 的网站后明文密码会被记录，该 bug 是在 5 月释出的 v5.1.9 中引入的，上周释出的 v5.2.0 修复了 bug 并从数据库里删除了相关数据。拥有最高全新的管理员可以访问明文密码。以明文形式储存密码是安全大忌。储存密码可接受的做法是使用哈希加密，因此即使密码数据库被恶意者窃取，他们通常会很难在短时间内暴力破解。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://arstechnica.com/security/2023/07/wordpress-plugin-installed-on-1-million-sites-logged-plaintext-passwords/\u003cbr/\u003e\nhttps://aiosplugin.com/all-in-one-security-aios-wordpress-security-plugin-release-5-2-0/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-07-17T07:51:24Z",
+  "Author": "Wilson"
+}

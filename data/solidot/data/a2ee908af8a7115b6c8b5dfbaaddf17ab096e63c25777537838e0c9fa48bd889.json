@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Bethesda 不小心自己破解了《DOOM Eternal》 的 DRM",
+  "Link": "https://www.solidot.org/story?sid=63894",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tBethesda 本周释出了备受好评的 FPS 大作《DOOM Eternal》。和最近几年的 3A 级游戏类似，它使用的 DRM 保护技术由 Denuvo 提供。破解组织破解 Denuvo DRM 的时间一直在缩短，而 《DOOM Eternal》 的破解\u003ca href=\"https://arstechnica.com/gaming/2020/03/bethesda-apparently-broke-its-own-denuvo-protection-for-doom-eternal/\"\u003e\u003cu\u003e实现了破解和发布的同步\u003c/u\u003e\u003c/a\u003e，原因是 Bethesda 自己在游戏的文件夹内\u003ca href=\"https://www.resetera.com/threads/so-it-appears-that-bethesda-forgot-to-remove-the-denuvo-less-exe-for-doom-eternal.176114/\"\u003e\u003cu\u003e提供了\u003c/u\u003e\u003c/a\u003e DRM-free 的可执行文件。Bethesda Launcher 版本的文件夹内有一个名叫 Original 的子文件夹，包含了一个  67MB 的可执行文件，这个文件可以替代大小为 370MB 的 DRM 保护的版本。这不是 Bethesda 第一次自己泄露游戏的 DRM-free 版本，去年发布的 《Rage 2》也被发现其 Bethesda Launcher 版本包含有 DRM-free 的可执行文件。听起来很完美，但《DOOM Eternal》被发现包含有影响游戏进程的\u003ca href=\"https://games.slashdot.org/story/20/03/21/0026226/bethesda-apparently-broke-its-own-denuvo-protection-for-doom-eternal\"\u003e\u003cu\u003e恶性 bug\u003c/u\u003e\u003c/a\u003e，而 Bethesda 修复了 DRM 版本，然而没有修复 DRM-free 版本。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-22T15:04:51Z",
+  "Author": "WinterIsComing"
+}

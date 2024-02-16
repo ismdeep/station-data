@@ -1,0 +1,8 @@
+{
+  "Source": "blog.zzbd.org",
+  "Title": "七天建站小结",
+  "Link": "https://blog.zzbd.org/2010/01/07/jian-zhan-yi-zhou/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\u003cp\u003e网站自开通已经过去一个星期了，\u003ca target=\"_blank\" rel=\"noopener\" href=\"http://flashlab.info/\"\u003eflashlab\u003c/a\u003e正在经历最难熬的时刻。\u003c/p\u003e\u003cp\u003e这七天里我几乎坚持每天写一篇博文，不断完善各项功能，力争在最短的时间里形成自己的风格。今天终于让google收录了一个页面，令人惊奇的是收录的居然不是主页，恩，我得反思一下，一定是主页有问题，但我也没做过任何优化呀。刚刚在\u003cstrong\u003egoogle管理员工具\u003c/strong\u003e里看到3号（网站提交的日子）、4号、7号都有抓取记录，而且返回404页面。回想一下，我的确对一些页面做了调整，但麻烦来了，由于我的固定链接都是“日期+文章名”的形式，在google里文章名都变成16进制代码了！这下可难把我难到了，究竟是那个页面出错呢？\u003cspan id=\"more\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e突然想到以前收藏了一个工具，呵呵，正好解决了我的问题。现在拿出来跟大家分享！上图：\u003cimg data-src=\"http://cdn.zzbd.org/2010-01-07-10-18-40.jpg\" alt=\"encode/decode tools\" title=\"code\"/\u003e\u003c/p\u003e\u003c/div\u003e",
+  "Date": "2010-01-06T18:34:53Z",
+  "Author": "J. F"
+}

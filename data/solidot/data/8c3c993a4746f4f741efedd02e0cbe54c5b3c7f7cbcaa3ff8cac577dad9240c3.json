@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "内核 AMD GPU 驱动代码行数超过 500 万行",
+  "Link": "https://www.solidot.org/story?sid=75965",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着 Linux 6.6 加入对即将推出的 AMD Radeon GPU 的支持，内核中 AMD GPU 驱动代码行数超了过 500 万行，而整个内核的代码行数大约为 3480 万行。大部分 AMD GPU 驱动代码是自动生成的头文件。针对英伟达 GPU 的开源驱动有大约  20.1 万行代码，英特尔 i915 DRM \n图形驱动有大约 38.1 万行代码。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://www.phoronix.com/news/AMD-5-Million-Lines\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-09-01T10:45:49Z",
+  "Author": "Wilson"
+}

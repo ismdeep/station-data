@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "不同 RNA 疫苗产生抗体的水平似存在差异",
+  "Link": "https://www.solidot.org/story?sid=68769",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一直以来，我们总是把 Moderna 与辉瑞/BioNTech 推出的 RNA 疫苗理解为等效方案。它们产生免疫力的原理完全相同，在成分上也高度相似。而且临床试验数据也表明，二者的功效区别不大——有效率都在 95% 左右。但刚刚发表的一篇\u003ca href=\"https://jamanetwork.com/journals/jama/fullarticle/2783797\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e颠覆了这一观点，\u003ca href=\"https://arstechnica.com/science/2021/08/rna-vaccines-seem-to-produce-very-different-antibody-levels/#p3\" target=\"_blank\"\u003e\u003cu\u003e发现\u003c/u\u003e\u003c/a\u003e二者引发的抗体反应有区别。Moderna 引发抗体水平的比例高达辉瑞/BioNTech 的两倍有余。虽然很难从单项研究中推断出更多结论，但这项研究在规模上相当庞大，所以结果也许可信。如果真是如此，我们可能需要对相对粗糙的抗体水平测量放低预期。 \u003cbr/\u003e\n\u003cbr/\u003e\n研究人员在这里只是测量了粘附在刺突蛋白上的总抗体水平。其中只有一部分被称为中和抗体，即能够附在刺突上以干扰蛋白质与细胞的相互作用、削弱病毒插入人体基因组的能力。但由于直接测量中和抗体非常困难，所以大多数研究只检测刺突蛋白上的总抗体量。但从技术上讲，总抗体量并不能等同于中和抗体量。这两种疫苗能不能产生相似水平的中和抗体，将成为下一项研究的重要探索目标。至少就目前来看，两种疫苗的总体保护效果基本一致，似乎可以表明二者产生的中和抗体没有多大差别。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-01T06:30:52Z",
+  "Author": "wanwan"
+}

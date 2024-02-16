@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "arm64 成为 FreeBSD 的一级支持架构",
+  "Link": "https://www.solidot.org/story?sid=67452",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFreeBSD 项目\u003ca href=\"https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e，从 FreeBSD 13 起 arm64 升级为一级支持架构，这意味着在 FreeBSD 13 的整个生命期内项目都将为 arm64 架构提供发布镜像、二进制包、安全和勘误更新。FreeBSD 项目最早是在 2014 年启动对 FreeBSD/arm64 的开发，2016 年发布的 FreeBSD 11 中正式引入对 arm64 架构的支持。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-10T04:48:25Z",
+  "Author": "WinterIsComing"
+}

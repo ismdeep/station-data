@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "维基媒体迁移到 GitLab",
+  "Link": "https://www.solidot.org/story?sid=65943",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t维基媒体基金会\u003ca href=\"https://www.mediawiki.org/wiki/GitLab_consultation#Outcome\" target=\"_blank\"\u003e\u003cu\u003e决定\u003c/u\u003e\u003c/a\u003e将其代码库从 Gerrit 迁移到自托管的 GitLab 社区版。维基媒体称，过去两年的开发者满意度调查显示对代码审查系统 Gerrit 的不满有点高，志愿者社区对其不满尤其高。越来越多的个人和团队放弃使用 Gerrit 改用第三方托管选项 GitHub。这些证据显示 Gerrit 没有促进开发而是放缓了开发，如果不能解决 Gerrit 上的可用性问题，开发者将会选择在他们偏爱的平台上构建项目。维基媒体发布工程团队在调查和评估之后选择迁移到 GitLab，GitLab 允许自托管，提供了 MIT 授权的社区版，符合基金会的自由和开源原则。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-10-29T07:50:53Z",
+  "Author": "WinterIsComing"
+}

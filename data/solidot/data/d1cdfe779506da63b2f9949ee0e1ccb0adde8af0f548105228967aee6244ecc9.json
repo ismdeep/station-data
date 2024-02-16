@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "黑客如何利用 Windows 任务调度程序植入持久性的后门",
+  "Link": "https://www.solidot.org/story?sid=71248",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软 Detection and Response Team (DART) 和 Threat Intelligence Center(MTIC) 的研究人员\u003ca href=\"https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/\"\u003e\u003cu\u003e披露\u003c/u\u003e\u003c/a\u003e了黑客组织 Hafnium 如何利用 Windows 任务调度程序\u003ca href=\"https://www.theregister.com/2022/04/14/microsoft-tarrask-malware-in-windows/\" target=\"_blank\"\u003e\u003cu\u003e植入持久性后门的方法\u003c/u\u003e\u003c/a\u003e。任务调度程序通常被 IT 管理员用于自动化琐碎的任务如更新程序、整理文件系统和启动特定应用。黑客滥用该功能创建隐藏任务，让被入侵的设备在重启之后仍然能远程访问：一旦重启，隐藏任务会与 Hafnium 的指令服务器重新建立后门连接。为了隐藏该任务，恶意程序通过令牌盗窃获得 SYSTEM 级权限，删除任务的安全描述项注册表值，在 GUI 和任务调度中将会看不到该任务，只有手动检查注册表才能发现隐藏任务。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-04-14T12:58:53Z",
+  "Author": "WinterIsComing"
+}

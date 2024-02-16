@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Facebook 警告 iOS 14 隐私设置将削弱其跟踪用户的能力",
+  "Link": "https://www.solidot.org/story?sid=65365",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tFacebook 警告开发者，即将发布的 iOS 14 的隐私设置\u003ca href=\"https://arstechnica.com/tech-policy/2020/08/ios-14-privacy-settings-will-tank-ad-targeting-business-facebook-warns/#p3\" target=\"_blank\"\u003e\u003cu\u003e将严重削弱其跟踪用户活动的能力\u003c/u\u003e\u003c/a\u003e，阻止其提供定向广告。iOS 14 预计在秋季发布，包含了多项消费者隐私保护功能，如果应用收集唯一设备识别码  IDFA，它将要求应用开发者通知用户。IDFA 是一个随机生成的标识符，由苹果分配给设备。应用可以使用这些标识符关联用户的活动，使用跨应用用户数据展示定向广告。在 iOS 14 中，访问  IDFA 数据将需要经过用户的同意。Facebook \u003ca href=\"https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch\"\u003e\u003cu\u003e告诉\u003c/u\u003e\u003c/a\u003e开发者，它旗下的应用如 Facebook、 WhatsApp、Instagram 和 Messenger 将不再收集 IDFA。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-27T05:26:14Z",
+  "Author": "WinterIsComing"
+}

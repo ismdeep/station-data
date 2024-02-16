@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 10 累积更新 KB4592438 被发现会损坏文件系统",
+  "Link": "https://www.solidot.org/story?sid=66423",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t德国用户报告，在  Windows 10 20H2 上安装累积更新 KB4592438 后执行 chkdsk 检查后导致了严重问题，\u003ca href=\"https://borncity.com/win/2020/12/18/windows-10-20h2-chkdsk-damages-file-system-on-ssds-with-update-kb4592438-installed/\"\u003e\u003cu\u003e它损坏了固态硬盘的文件系统\u003c/u\u003e\u003c/a\u003e。Windows 10 在重启之后无法启动。报告称，一位系统管理员在手动更新之后运行 chkdsk 命令检查驱动器是否有错误如果有则自动修复。结果迎接他的是蓝屏死机。有多名用户报告了相同的 bug。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-20T10:47:38Z",
+  "Author": "WinterIsComing"
+}

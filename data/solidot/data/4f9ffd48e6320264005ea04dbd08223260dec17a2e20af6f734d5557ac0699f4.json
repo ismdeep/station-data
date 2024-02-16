@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Linux 5.9-rc1 发布",
+  "Link": "https://www.solidot.org/story?sid=65263",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tLinus Torvalds 在内核邮件列表上\u003ca href=\"https://lore.kernel.org/lkml/CAHk-=wiwfkKp93C+yLqKWAU0ChBdeBDUhgOk09_=UQ8gOKbV3w@mail.gmail.com/T/#u\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e释出 Linux 5.9-rc1，\u003ca href=\"https://www.phoronix.com/scan.php?page=article\u0026amp;item=linux-59-features\u0026amp;num=1\"\u003e\u003cu\u003e新版变化\u003c/u\u003e\u003c/a\u003e很大一部分是 AMD GPU 头文件。AMD 的下一代 GPU 将于今年晚些时候发布，Linux 5.9 加入了对 AMD Sienna Cichlid 和 Navy Flounder 的支持；\u003ca href=\"https://lwn.net/Articles/821723/\"\u003e\u003cu\u003eFSGSBASE\u003c/u\u003e\u003c/a\u003e 支持，AMD Zen CPU 启用 P2PDMA（peer-to-peer direct memory access）；英特尔 Rocket Lake CPU 支持；支持英特尔 SERIALIZE 指令；实现更多 RISC-V 架构特性；ARM/ARM6 变频调控器默认使用 Schedutil；驱动和文件系统改进，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-17T06:47:00Z",
+  "Author": "WinterIsComing"
+}

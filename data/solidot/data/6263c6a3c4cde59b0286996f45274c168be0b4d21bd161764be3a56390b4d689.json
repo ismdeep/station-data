@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "因 IE11 Mozilla 冻结部分用户代理字符串",
+  "Link": "https://www.solidot.org/story?sid=73776",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t两周前，用户向 Mozilla 报告了一个用户代理字符串（UA string）引发的网站兼容性问题。UA string 始于 1990 年代，网站可以利用这一数据调整性能和功能，或屏蔽过时的浏览器。即将发布的 Firefox 110 的 UA string 是 Mozilla/5.0 (Windows NT 10.0; Win64; x64; \u003cb\u003erv:110.0\u003c/b\u003e) Gecko/20100101 Firefox/110，用户报告它导致了 bestbuy.com 显示错误信息，声称不支持该浏览器，它建议用户下载最新版本的 Chrome、Firefox 或 Microsoft Edge。调查发现，原因是 IE11 的 UA string——Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko。Firefox 110 的 UA string 包含了 rv:11，因此被网站识别为它不再支持的 IE11。Mozilla 的解决方法是冻结版本号，Mozilla/5.0 (Windows NT 10.0; Win64; x64; \u003cb\u003erv:109.0\u003c/b\u003e) Gecko/20100101 Firefox/110。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1805967\u003cbr/\u003e\nhttps://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-12-30T15:08:36Z",
+  "Author": "Wilson"
+}

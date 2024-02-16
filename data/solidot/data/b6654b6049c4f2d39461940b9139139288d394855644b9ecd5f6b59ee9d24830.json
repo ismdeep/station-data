@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Project 从其网络移除运行已结束支持版本的节点",
+  "Link": "https://www.solidot.org/story?sid=62221",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor Project 从其网络\u003ca href=\"https://www.zdnet.com/article/tor-project-removes-13-5-of-current-servers-for-running-eol-versions/\" target=\"_blank\"\u003e移除了\u003c/a\u003e 800 多台运行旧版本和已结束支持版本的服务器，移除的服务器数量占到了构成 Tor 网络的 6000 多台服务器的 13.5%。被移除的服务器中有约 750 个中继节点和 62 个出口节点。Tor Project 称它计划在 11 月释出软件更新默认拒绝连接到运行已结束支持版本的服务器。Tor 项目团队称他们是出于安全理由封掉这些服务器的。它是在上个月宣布移除旧版本服务器的计划，原计划移除 1,276 个服务器，在开发者发出邮件通知之后，许多服务器管理员更新了他们的软件，因此最终移除数量降至 800 多台。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-13T14:48:50Z",
+  "Author": "wenfeixiang"
+}

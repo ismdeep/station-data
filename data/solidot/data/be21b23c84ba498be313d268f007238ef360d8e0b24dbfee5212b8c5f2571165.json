@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Tor Browser 9.0 发布",
+  "Link": "https://www.solidot.org/story?sid=62384",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tTor 项目释出了基于 Firefox 68 ESR 的首个版本 \u003ca href=\"https://blog.torproject.org/new-release-tor-browser-90\"\u003e\u003cu\u003eTor Browser 9.0\u003c/u\u003e\u003c/a\u003e。Tor Browser 9.0 包含了大量组件更新，如桌面版更新到 Tor 0.4.1.6 和 OpenSSL 1.1.1d，Android 版更新到 Tor 0.4.1.5。对用户来说，Tor Browser 9.0 界面的最显著变化是工具栏没有了 Onion Button，用户可以在地址栏点击 i 图标查看 Tor 网络和重新选择 Tor 回路。从工具栏的 = 菜单用户可选择“新身份”和“新回路”。此外，Torbutton 和 Tor Launcher 与浏览器更紧密的整合在一起，用户不再能从 about:addons 页面看到这些扩展。网桥和代理设置整合到了浏览器的偏好设置页面，用户还可以从 about:preferences#tor 页面访问 Tor 网络设置。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-27T13:11:08Z",
+  "Author": "wenfeixiang"
+}

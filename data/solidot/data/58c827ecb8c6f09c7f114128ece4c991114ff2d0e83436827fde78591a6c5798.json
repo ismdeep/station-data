@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "安全公司发布了免费的 REvil 勒索软件解密工具",
+  "Link": "https://www.solidot.org/story?sid=68965",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全公司 Bitdefender \u003ca href=\"https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e免费的 REvil 勒索软件\u003ca href=\"http://download.bitdefender.com/am/malware_removal/BDREvilDecryptor.exe\"\u003e\u003cu\u003e主解密工具（exe）\u003c/u\u003e\u003c/a\u003e。REvil 今年 7 月\u003ca href=\"https://www.solidot.org/story?sid=68278\"\u003e\u003cu\u003e突然销声匿迹\u003c/u\u003e\u003c/a\u003e，当时它利用软件供应链同时对数千家公司发动了备受瞩目的勒索软件攻击。解密工具允许受害者免费恢复在 7 月 13 日前被加密的文件。该工具是 Bitdefender 与执法机构合作创造的，该公司披露它是从一个信任的执法机构合作伙伴获得了 REvil 的密钥，除此之外的信息无法公开。在执法部门的调查结束之后，如果它获得批准可能会公布更多信息。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-17T03:21:30Z",
+  "Author": "WinterIsComing"
+}

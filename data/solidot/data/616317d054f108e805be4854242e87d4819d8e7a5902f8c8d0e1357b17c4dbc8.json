@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Chrome 90 整合创建和共享特定段落链接功能",
+  "Link": "https://www.solidot.org/story?sid=67529",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2019 年， Google Chrome 浏览器引入了名为 Scroll to Text 的新功能，允许用户分享页面内特定语句或段落的链接。去年 Google \u003ca href=\"https://www.solidot.org/story?sid=64712\"\u003e\u003cu\u003e发布了\u003c/u\u003e\u003c/a\u003e扩展 Link to Text Fragment，将这项功能通过扩展提供给用户。现在，Chrome 90 \u003ca href=\"https://www.theverge.com/2021/4/17/22389519/google-feature-chrome-90-highlighted-links\" target=\"_blank\"\u003e\u003cu\u003e直接整合了\u003c/u\u003e\u003c/a\u003e该功能。当用户访问一个网页，高亮一段文字，点击右键，选择“copy link to highlight”，会产生一个以 # 结尾的链接，用户可以与其他人分享该链接。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-19T06:46:30Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "最近修复的甲骨文 WebLogic 漏洞正被攻击者利用",
+  "Link": "https://www.solidot.org/story?sid=66252",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t攻击者\u003ca href=\"https://arstechnica.com/information-technology/2020/12/oracle-vulnerability-that-executes-malicious-code-is-under-active-attack/\" target=\"_blank\"\u003e正在利用\u003c/a\u003e最近修复的甲骨文 WebLogic 漏洞去执行任意代码，包括让服务器成为僵尸网络一部分的恶意程序。编号为 CVE-2020-14882 的漏洞是在今年 10 月修复的，它允许攻击者无需身份验证就能远程执行任意代码。在甲骨文修复后不久\u003ca href=\"https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf\"\u003e\u003cu\u003e漏洞利用代码\u003c/u\u003e\u003c/a\u003e就公开了。DarkIRC、Cobalt Strike、Perlbot、Meterpreter 和 Mirai 僵尸网络都在尝试利用该漏洞入侵尚未打补丁的服务器。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-02T05:54:06Z",
+  "Author": "WinterIsComing"
+}

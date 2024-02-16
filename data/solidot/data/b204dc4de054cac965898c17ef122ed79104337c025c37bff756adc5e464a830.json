@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 新驱动让 SAM 功能支持旧显卡",
+  "Link": "https://www.solidot.org/story?sid=68933",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 在推出 Radeon RX 6800 系列显卡时加入了 \u003ca href=\"https://www.amd.com/zh-hans/technologies/smart-access-memory\" target=\"_blank\"\u003e\u003cu\u003eSmart Access Memory(SAM)\u003c/u\u003e\u003c/a\u003e 功能，允许 CPU 能访问更多的显存。通常处理器只能访问 256MB 的 GPU 显存，因此更大容量的游戏资源需要分解成更小的部分来进行传输，SAM 或 Resizable BAR 移除了这一限制，能显著提升部分游戏的性能。SAM 的支持此前需要 Ryzen 5000-系列 CPU 和 RX 6000 系列显卡，在释出最新的 \u003ca href=\"https://www.amd.com/en/support/kb/release-notes/rn-rad-win-21-9-1\" target=\"_blank\"\u003e\u003cu\u003eAdrenalin 21.9.1\u003c/u\u003e\u003c/a\u003e 驱动之后，SAM 能支持旧的 CPU 和 GPU。Adrenalin 21.9.1 也是首个正式支持 Windows 11 的 AMD 驱动。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-14T14:45:47Z",
+  "Author": "WinterIsComing"
+}

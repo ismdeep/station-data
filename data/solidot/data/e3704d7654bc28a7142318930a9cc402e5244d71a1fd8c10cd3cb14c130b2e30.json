@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 宣布开源 Radeon 光线追踪分析器 RRA",
+  "Link": "https://www.solidot.org/story?sid=73421",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tAMD 开源了它的 Radeon 开源光线追踪分析器 Radeon Raytracing Analyzer (RRA)，该工具旨在帮助开发者改进光线追踪性能。AMD 是在今年夏天宣布了 RRA，但 RRA 1.0 最初发布时只提供了二进制包，现在正式公布了其代码，源代码托管在 GitHub 上，采用 MIT 许可证，支持 Windows 和 Linux，其中 Linux 主要针对的是 Ubuntu 发行版。构建 RRA 需要 Qt 5.15。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://github.com/GPUOpen-Tools/radeon_raytracing_analyzer\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-20T10:38:42Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Jetbrains 回应《纽约时报》对其的报道",
+  "Link": "https://www.solidot.org/story?sid=66584",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在《纽约时报》\u003ca href=\"https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html\"\u003e\u003cu\u003e报道\u003c/u\u003e\u003c/a\u003e称俄罗斯黑客对 SolarWinds 的供应链攻击可能始于 Jetbrains 公司的 TeamCity 软件之后，Jetbrains 在官方博客发表声明\u003ca href=\"https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/\" target=\"_blank\"\u003e\u003cu\u003e对此做出回应\u003c/u\u003e\u003c/a\u003e。Jetbrains CEO Maxim Shafirov 称， TeamCity 是持续集成和部署系统，SolarWinds 是它的客户，使用 TeamCity 用于构建软件。对于其遭到入侵 SolarWinds 从未联系过 Jetbrains，它也是在报道发表之后才知道此事。如果 TeamCity 真的被黑客用于入侵，那么最有可能的原因是错误配置而不是特定的漏洞。其次，没有任何政府或安全机构就此事联络它，如果真有调查在进行之中，它会全方面配合。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-07T05:26:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "DuckDuckGo 浏览器屏蔽所有微软第三方 cookies",
+  "Link": "https://www.solidot.org/story?sid=72376",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t今年早些时候，因为与微软的搜索合作协议，DuckDuckGo \u003ca href=\"https://www.solidot.org/story?sid=71622\"\u003e\u003cu\u003e被发现\u003c/u\u003e\u003c/a\u003e没有屏蔽所有微软跟踪程序。当时 DuckDuckGo CEO Gabriel Weinberg 解释说，DuckDuckGo 浏览器屏蔽了所有微软的 cookies。但如果你访问了一个含有微软跟踪程序的网站，那么用户的数据将会暴露给 Bing 和 LinkedIn，这是 DuckDuckGo 与微软搜索合作协议（search syndication agreement）的结果。他承诺将改进与微软的交易。现在 DuckDuckGo \u003ca href=\"https://www.bleepingcomputer.com/news/security/duckduckgo-browser-now-blocks-all-third-party-microsoft-trackers/\"\u003e宣布\u003c/a\u003e它的浏览器能屏蔽所有微软第三方 cookies。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-08-05T14:47:43Z",
+  "Author": "WinterIsComing"
+}

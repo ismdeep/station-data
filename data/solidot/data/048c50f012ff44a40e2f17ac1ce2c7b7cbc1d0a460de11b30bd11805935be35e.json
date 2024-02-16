@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在医院遭勒索软件攻击之后转院的病人因抢救不及时死亡",
+  "Link": "https://www.solidot.org/story?sid=65580",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一名女性患者因病情危机需要急救，但附近的医院遭到了勒索软件攻击无法进行手术，她被迫转移到更遥远的医院，\u003ca href=\"https://arstechnica.com/information-technology/2020/09/patient-dies-after-ransomware-attack-reroutes-her-to-remote-hospital/\" target=\"_blank\"\u003e\u003cu\u003e因抢救不及时而死亡\u003c/u\u003e\u003c/a\u003e。遭到勒索软件攻击的是德国 Duesseldorf 大学医院。德国当局正在调查这起涉嫌过失杀人的案件。勒索软件攻击发生在上周四，30 台医院服务器被加密，攻击者留下消息指示 Duesseldorf 医院所属的 Heinrich Heine 大学联络他们。Duesseldorf  警方联络上了攻击者，告诉对方治疗急救患者的医院遭到攻击。攻击者据报道撤回了勒索的要求，提供了解密密钥解锁服务器，然后销声匿迹。攻击者据报道利用了 Citrix 软件的一个高危漏洞 \u003ca href=\"https://support.citrix.com/article/CTX267027\"\u003eCVE-2019-19781\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-18T07:30:29Z",
+  "Author": "WinterIsComing"
+}

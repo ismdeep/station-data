@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Mozilla 移除四个 Avast 和 AVG 扩展",
+  "Link": "https://www.solidot.org/story?sid=62837",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla 从 Firefox 扩展网站\u003ca href=\"https://www.zdnet.com/article/mozilla-removes-avast-and-avg-extensions-from-add-on-portal-over-snooping-claims/\"\u003e\u003cu\u003e移除了\u003c/u\u003e\u003c/a\u003e Avast 及其子公司 AVG 的四个扩展。这四个扩展是 Avast Online Security、AVG Online Security、Avast SafePrice 和 AVG SafePrice。前两个会对恶意或可疑网站显示警告，后两个则提供电商比价信息、打折和优惠券信息。Mozilla 是在收到  AdBlock Plus 扩展作者 Wladimir Palant 的举报之后移除这个四个扩展的。Palant 对 Avast Online Security 和 AVG Online Security 进行了分析，发现它们收集了超过其需求的信息，包括详细的用户浏览历史，Mozilla 和 Google 都禁止这一行为。 Avast 和 AVG SafePrice 都存在类似的问题。Avast 表示它正与 Mozilla 合作解决这个问题。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-12-04T07:43:03Z",
+  "Author": "WinterIsComing"
+}

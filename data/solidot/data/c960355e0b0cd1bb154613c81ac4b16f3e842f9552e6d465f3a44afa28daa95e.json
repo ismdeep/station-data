@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 77.0 发布",
+  "Link": "https://www.solidot.org/story?sid=64559",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tMozilla \u003ca href=\"https://www.mozilla.org/en-US/firefox/77.0/releasenotes/\"\u003e\u003cu\u003e释出了 Firefox 77.0\u003c/u\u003e\u003c/a\u003e。主要新变化包括：英国用户的新标签页显示 Pocket 推荐；向更多 Windows 用户推送 WebRender；通过新的 about:certificate 页管理 Web 证书；移除 browser.urlbar.oneOffSearches；改进  JavaScript 调试，支持 JavaScript API String.prototype.replaceAll()，bug 修复等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-03T13:19:43Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ARM 开源项目从 GitHub 迁移到 GitLab",
+  "Link": "https://www.solidot.org/story?sid=71554",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tARM 开源项目从 GitHub 迁移到 GitLab。GitLab 官方博客阐述了选择 GitLab \u003ca href=\"https://about.gitlab.com/blog/2022/05/17/arm-open-source-makes-a-seamless-migration-to-gitlab/\" target=\"_blank\"\u003e\u003cu\u003e作为自托管平台的优点\u003c/u\u003e\u003c/a\u003e：最大化选择和成本效益，最小化供应商锁定。使用 GitLab 将允许 ARM 使用自己的工具，不像 GitHub 是一个黑箱。ARM 芯片占到了移动市场的 95%，而 ARM 公司的业务是 IP 授权，大部分核心基础设施部署在私有硬件的，安全对其至关重要。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-05-17T15:40:02Z",
+  "Author": "WinterIsComing"
+}

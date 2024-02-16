@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "让 Emacs 再次流行起来",
+  "Link": "https://www.solidot.org/story?sid=64325",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tEmacs 编辑器诞生于 Linux 之前，曾比 Linux 更知名，但如今却变得相对默默无闻了。在 emacs-devel 邮件列表上，开发者们讨论了如何增强 Emacs 的吸引力，\u003ca href=\"https://lwn.net/SubscriberLink/819452/1480c3a59d3d9093/\" target=\"_blank\"\u003e\u003cu\u003e让它能再次流行起来\u003c/u\u003e\u003c/a\u003e。Emacs 原作者 RMS（Richard Stallman）也\u003ca href=\"https://tech.slashdot.org/story/20/05/08/2149203/richard-stallman-joins-discussion-about-changing-emacs-appearance-to-make-it-more-popular\"\u003e\u003cu\u003e加入了讨论\u003c/u\u003e\u003c/a\u003e。有讨论者称 Emacs 的按钮等 UI 太方方正正了，可以圆润一点，RMS 对此不以为然，他说也许我们应该实现一个模式给 Emacs 加入修饰，吸引那些只从表面判断事物的人。还有人认为图形设计元素确实有助于提高可用性，没有理由不去改善编辑器的默认外观。RMS 指出存在某些技术障碍去找到有兴趣也有能力改进 UI 的人，但最重要的是 Emacs 到基于 X 的 GUI 之间的接口代码需要由专家重写，在重写之前任何改动都可能会造成破坏。RMS 也同意图形设计能改善可用性，但问题显然比圆角形状更深层次。根据调查，微软的 Visual Studio Code(VSC)是目前最受欢迎的编辑器，而 Emacs 长期的竞争对手 Vim 也远比 Emacs 更流行。在邮件列表上，Emacs 的开发者也讨论了为什么 VSC 会更受欢迎，如何取长补短。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-05-11T07:34:38Z",
+  "Author": "WinterIsComing"
+}

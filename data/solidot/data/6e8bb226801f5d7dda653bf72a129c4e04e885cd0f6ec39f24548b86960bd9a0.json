@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究称广告产生的收入比挖矿脚本高得多",
+  "Link": "https://www.solidot.org/story?sid=61654",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在数字加密货币热的高峰期，一些网站通过嵌入挖矿脚本来尝试获得广告之外的替代收入，但挖矿消耗了太多的资源而引发了争议。现在，根据一项研究，\u003ca href=\"https://www.zdnet.com/article/three-ads-generate-5-5-times-more-revenue-than-a-web-based-cryptojacking-script/\"\u003e\u003cu\u003e挖矿带来的收入事实上远不如广告\u003c/u\u003e\u003c/a\u003e。在一次网站访问的平均持续时间内，三个广告带来的收入 5.5 倍于挖矿脚本。挖矿脚本要变得有利可图需要用户在网站停留时间超过 5.53 分钟。然而让用户在一个植入挖矿脚本的网站停留太长时间是有困难的，因为它会对用户的设备产生负面影响，会拖慢设备。使用挖矿脚本消耗的 CPU 资源 59 倍于广告，内存占用超过 1.7 倍。研究人员将在下个月举行的 Information Security Conference 会议上报告他们的\u003ca href=\"https://www.protasis.eu/m/filer_public/97/d7/97d770b6-31a3-48d1-9548-ef7573849307/panpapisc2019.pdf\"\u003e\u003cu\u003e研究\u003c/u\u003e\u003c/a\u003e(PDF）。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-08T10:48:21Z",
+  "Author": "wenfeixiang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "JavaScript 诞生二十五年",
+  "Link": "https://www.solidot.org/story?sid=66292",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t编程语言 JavaScript \u003ca href=\"https://www.zdnet.com/article/javascript-at-25-the-programming-language-that-makes-the-world-go-round/\" target=\"_blank\"\u003e\u003cu\u003e诞生二十五年\u003c/u\u003e\u003c/a\u003e，虽然\u003ca href=\"https://developers.slashdot.org/story/20/12/04/2139202/javascript-turns-25\"\u003e\u003cu\u003e饱受批评\u003c/u\u003e\u003c/a\u003e，但 JavaScript 已成为 Web 和浏览器应用的重要组成部分。Brendan Eich 在 1995 年花了 10 天设计出了 JavaScript 原型，在它大获成功之后，微软设计出了超集 TypeScript，之后 Google 的 V8 引擎，基于 V8 的 node.js，Facebook 的 React，等等帮助 JavaScript 迅速占领了从桌面到移动的广泛平台。JavaScript 现在是世界最流行的编程语言。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-12-07T06:24:03Z",
+  "Author": "WinterIsComing"
+}

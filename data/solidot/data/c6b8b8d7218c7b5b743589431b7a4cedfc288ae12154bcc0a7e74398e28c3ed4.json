@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "小米国行不再支持安装 Google 框架",
+  "Link": "https://www.solidot.org/story?sid=66835",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t小米用户在官方论坛询问无法使用 Google 服务框架。Google 服务框架已成为 Android 生态系统的重要组成部分，要使用官方应用商店 Google Play 必须安装 Google 服务框架。由于 Google 服务基本上在中国大陆无法使用，中国 Android 厂商在中国销售的手机不预装 Google 服务框架，但部分也在海外市场销售手机的厂商并没有完全禁止用户自行安装 Google 服务框架。现在小米用户报告所有 Google 应用都无法运行。小米员工\u003ca href=\"https://www.xiaomi.cn/post/24475920\"\u003e\u003cu\u003e回应称\u003c/u\u003e\u003c/a\u003e，“MIUI 国内版出于合规原因，未预置 Google 服务框架的机型，不再支持自行安装 GMS 服务”。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-02-02T12:58:24Z",
+  "Author": "WinterIsComing"
+}

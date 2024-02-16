@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果否认向腾讯共享用户访问的网址",
+  "Link": "https://www.solidot.org/story?sid=62238",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果 iOS 版 Safari 浏览器上周末\u003ca href=\"https://www.solidot.org/story?sid=62225\"\u003e\u003cu\u003e被发现会\u003c/u\u003e\u003c/a\u003e使用中国互联网巨头腾讯的 Safe Browsing 服务。此举引发了隐私方面的担忧。苹果公司发言人在一份声明中对此予以澄清，\u003ca href=\"https://www.theregister.co.uk/2019/10/14/apple_china_tencent/\" target=\"_blank\"\u003e\u003cu\u003e否认\u003c/u\u003e\u003c/a\u003e与腾讯共享用户访问的网址。苹果称，它通过名为 Safari Fraudulent Website Warning 的安全功能去标记恶意网站，保护用户的隐私和数据。Safari 将用户访问的网址和已知的恶意网站名单进行比较，如果是恶意欺诈性的网站会向用户展示警告。为完成这一任务，Safari 会从 Google  接受恶意网址名单列表；如果用户设备使用的区域码设定在中国大陆，那么它将从腾讯接受名单列表。用户访问的网址从未与 Safe Browsing 服务商进行共享，该功能也可以关闭。苹果称，腾讯可能会看到用户的 IP 地址。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-15T03:29:36Z",
+  "Author": "wenfeixiang"
+}

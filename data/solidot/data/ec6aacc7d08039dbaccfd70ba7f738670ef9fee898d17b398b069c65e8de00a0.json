@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "WebKit 公布反跟踪政策",
+  "Link": "https://www.solidot.org/story?sid=61728",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tWebKit \u003ca href=\"https://webkit.org/blog/9507/announcing-the-webkit-tracking-prevention-policy/\"\u003e\u003cu\u003e公布\u003c/u\u003e\u003c/a\u003e了它的\u003ca href=\"https://webkit.org/tracking-prevention-policy/\"\u003e\u003cu\u003e反跟踪政策\u003c/u\u003e\u003c/a\u003e，称这一政策制定受到了 Mozilla 的反跟踪政策的启发。WebKit 称浏览器将会默认屏蔽所有的秘密跟踪、跨站跟踪和指纹辨析跟踪技术等。如果一种跟踪技术无法完全在不损害用户的情况下阻止，它将会采取行动限制使用该技术的能力。如果限制也无效，那么 WebKit 将会通知用户潜在的跟踪并征询用户的同意。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-15T05:10:35Z",
+  "Author": "wenfeixiang"
+}

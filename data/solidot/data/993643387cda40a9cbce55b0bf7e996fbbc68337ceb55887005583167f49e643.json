@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "甲骨文 JDK 17 对商业使用免费",
+  "Link": "https://www.solidot.org/story?sid=69456",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t甲骨文逆转了 2018 年对 JDK 产品使用收费的决定，\u003ca href=\"https://www.infoq.com/news/2021/10/oracle-jdk-free-again/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e JDK 17 对商业使用免费。根据新的 \u003ca href=\"https://www.oracle.com/downloads/licenses/no-fee-license.html\"\u003eOracle No-Fee Terms and Conditions\u003c/a\u003e (NFTC)许可证，Oracle JDK v17 及未来的版本在新许可证下对商业和产品使用免费，只要不收费，重新发行 JDK 也是允许的。甲骨文在今年 9 月发布了 Java 17，这是一个长期支持版本，将一直\u003ca href=\"https://www.oracle.com/news/announcement/oracle-releases-java-17-2021-09-14/\"\u003e\u003cu\u003e支持到 2029 年 9 月\u003c/u\u003e\u003c/a\u003e，但免费的安全更新将只支持三年，之后在产品中继续使用 Oracle JDK 将需要商业许可证。甲骨文\u003ca href=\"https://developers.slashdot.org/story/21/10/31/0110237/oracles-jdk-17---free-again-for-commercial-use\"\u003e\u003cu\u003e此举\u003c/u\u003e\u003c/a\u003e被认为是吸引切换到 OpenJDK 的客户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-01T12:48:02Z",
+  "Author": "WinterIsComing"
+}

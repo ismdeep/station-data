@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "研究人员发现伪装成勒索软件的数据删除恶意程序",
+  "Link": "https://www.solidot.org/story?sid=67863",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员\u003ca href=\"https://s1.ai/agrius\" target=\"_blank\"\u003e\u003cu\u003e发现了\u003c/u\u003e\u003c/a\u003e一个以以色列为攻击目标、伪装成勒索软件的磁盘数据删除恶意程序。被称为 Apostle 的恶意程序早期版本存在 bug，在尝试删除数据时会失败。后期的版本修复了 bug，还引入了勒索软件行为，会留下勒索通知索要赎金解密加密数据。研究人员根据代码以及它使用的服务器认为开发该恶意程序的黑客组织与伊朗政府有关联。它的主要攻击目标是以色列。研究人员将该黑客组织命名为 Agrius，认为勒索软件功能是为了伪装毁灭数据的真实目的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-05-25T13:50:52Z",
+  "Author": "WinterIsComing"
+}

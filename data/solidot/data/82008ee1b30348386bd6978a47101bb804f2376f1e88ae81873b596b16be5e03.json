@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为什么机器学习难以理解因果性",
+  "Link": "https://www.solidot.org/story?sid=67412",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t人类很容易通过直觉就知道简单动作序列之间的因果性，但对于机器算法而言，\u003ca href=\"https://bdtechtalks.com/2021/03/15/machine-learning-causality/\" target=\"_blank\"\u003e\u003cu\u003e因果性仍然是一大挑战\u003c/u\u003e\u003c/a\u003e。机器学习，尤其是深度神经网络，擅长于从海量数据中识别微妙的模式，但它们很难像人类那样做出因果推断。这是机器学习难以推广到更广泛领域的一个原因。Max Planck Institute for Intelligent Systems、Montreal Institute for Learning Algorithms (Mila) 和 Google Research 的研究人员最近在预印本网站发表\u003ca href=\"https://arxiv.org/abs/2102.11107\" target=\"_blank\"\u003e\u003cu\u003e论文\u003c/u\u003e\u003c/a\u003e探讨了这一问题。研究人员指出，今天机器学习的成功很大程度上是对独立收集且恒等分布的数据集的大规模模式识别。但随着环境日益复杂，尤其是对自动驾驶来说，缺乏对因果性的理解使得 AI 难以预测和处理新的情况。这是为什么在数百万英里的训练之后，自动驾驶汽车仍然会犯奇怪而危险错误的原因。主流机器学习算法因其可扩展性而受到青睐，但基于统计规律而不是因果性进行训练的算法是很容易失效的。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-06T15:50:51Z",
+  "Author": "WinterIsComing"
+}

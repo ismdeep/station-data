@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "KaiOS 与 Mozilla 合作改进其 Gecko 引擎",
+  "Link": "https://www.solidot.org/story?sid=63807",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tKaiOS 的开发商\u003ca href=\"https://www.kaiostech.com/press/kaios-technologies-and-mozilla-partner-to-enable-a-healthy-mobile-internet-for-everyone/\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e与 Mozilla 合作增强 KaiOS 使用的 Gecko 引擎。KaiOS 是目前市场份额排在第三位的移动操作系统，主要用于智能较为有限的功能机（智能功能机），它是基于 Mozilla 开源的  Firefox OS 操作系统。所有改进和改动都将在 Mozilla Public License 许可证开源。双方的合作将包括更好的支持 PWA (Progressive Web App) 和WebAssembly，优化性能，支持 TLS 1.3，等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-03-13T06:18:54Z",
+  "Author": "WinterIsComing"
+}

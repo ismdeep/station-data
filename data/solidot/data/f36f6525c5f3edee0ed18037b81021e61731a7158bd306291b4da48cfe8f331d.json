@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "1000 多部 Android 手机被发现感染了新间谍软件",
+  "Link": "https://www.solidot.org/story?sid=69587",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t1,000 多名 Android 手机用户感染了一种新发现的恶意软件，它会悄悄实时录音录像、下载文件并执行其他监视活动。研究人员共发现了 23 个悄悄安装该间谍软件的应用，安全公司 Zimperium 的研究人员将间谍软件称为 PhoneSpy。它提供了一系列完整的功能，除了窃听和盗取文件之外，还包括传输 GPS 位置数据、修改 Wi-Fi 连接以及执行叠加攻击（overlay attacks）以获取 Facebook、Instagram、Google和 Kakao Talk 应用的密码。Zimperium 研究人员 Aazim Yaswant 在\u003ca href=\"https://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/\"\u003e\u003cu\u003e官方博客\u003c/u\u003e\u003c/a\u003e上写道：“这些恶意的 Android 应用被设计为在后台静默运行，不间断地监视受害者而不引起任何怀疑。我们相信 PhoneSpy 的幕后黑手收集了大量受害者的个人和公司信息，包括私人通信和照片。”\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-11-11T09:24:20Z",
+  "Author": "matrix"
+}

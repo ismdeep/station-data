@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "在雇员偷走主密钥后南非银行必须替换客户的 1200 万张卡",
+  "Link": "https://www.solidot.org/story?sid=64674",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t南非邮局的银行分支 \u003ca href=\"https://www.postbank.co.za/\"\u003e\u003cu\u003ePostbank\u003c/u\u003e\u003c/a\u003e 因欺诈性交易损失了 320 万美元，在雇员盗走其主密钥后它必须为客户更换 1200 万张银行卡。事故发生在 2018 年 12 月，有雇员将主密钥打印在一张纸上。主密钥为 32 位数字代码，可用于解密银行业务，访问和修改银行系统，生成客户卡的密钥。\u003ca href=\"https://www.timeslive.co.za/sunday-times/news/2020-06-14-postbank-forced-to-replace-12-million-bank-cards-after-employees-steal-master-key/\" target=\"_blank\"\u003e\u003cu\u003e当地媒体报道称\u003c/u\u003e\u003c/a\u003e，2019 年 3 月 到 12 月之间，其雇员利用主密钥登录系统，进行了 2.5 万笔欺诈交易，从客户账上窃取了超过 320 万美元。更换客户银行卡预计还会让其损失 5800 万美元。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-16T07:37:26Z",
+  "Author": "WinterIsComing"
+}

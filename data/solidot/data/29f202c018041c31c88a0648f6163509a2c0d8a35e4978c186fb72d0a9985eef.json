@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "ARM 宣布新架构 Arm v9",
+  "Link": "https://www.solidot.org/story?sid=67369",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英国芯片设计公司 ARM \u003ca href=\"https://arstechnica.com/gadgets/2021/03/arm-vision-day-outlined-upcoming-arm-v9-cpu-design/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e新一代的架构 Arm v9，基于新架构的商业产品预计将在明年初上市。Arm v9 改进了安全和矢量数学（意味着改进了 AI/ML 和数字信号处理），它的新机密计算架构（Confidential Compute Architecture）引入的一个核心概念是 realm。Realms 是容器化的隔离执行环境，对操作系统和管理程序是完全不透明的，而管理程序本身只负责调度和资源分配。Realms 们则通过 realm manager 管理，它的实现代码只有管理程序的十分之一。ARM 还没有公布详细的技术细节，相关信息将在 2021 年晚些时候发布。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-04-01T06:01:40Z",
+  "Author": "WinterIsComing"
+}

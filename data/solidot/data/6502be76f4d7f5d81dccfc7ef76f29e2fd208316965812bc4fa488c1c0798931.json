@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "日本动画工作室 Khara 切换到 Blender",
+  "Link": "https://www.solidot.org/story?sid=61753",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t日本动画工作室 Khara \u003ca href=\"https://www.blender.org/user-stories/japanese-anime-studio-khara-moving-to-blender/\" target=\"_blank\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e将把开源软件 Blender 作为主要的 3D CG 开发工具，Blender 将用于它正在制作的 EVANGELION:3.0+1.0 项目。Khara 至今使用的主力开发工具是 Autodesk的 “3ds Max”，EVANGELION:3.0+1.0 也是主要用 3ds Max 开发，但工作室开始切换到 Blender，主要原因是  3ds Max 对小型工作室太贵了。3ds Max 采用订阅模式，每位用户每年收费  254,880 日元。 Khara 一度准备迁移到 Maya，但 Blender 吸引了他们的注意。Blender 是开源软件，可免费使用，与商业软件有着几乎相同的功能。最新版本的 Blender 2.8 有意填补了与 3ds Max 的差异，对于想要使用 Blender 的用户来说学习曲线不会太陡。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-16T12:56:50Z",
+  "Author": "wenfeixiang"
+}

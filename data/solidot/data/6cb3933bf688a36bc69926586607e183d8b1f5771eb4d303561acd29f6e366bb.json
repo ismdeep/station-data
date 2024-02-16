@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Firefox 用户访问 YouTube 时人为加入了 5 秒加载延迟",
+  "Link": "https://www.solidot.org/story?sid=76670",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一位 Mozilla Firefox 用户在 Reddit 论坛上报告了一个异常情况：在新标签页打开一个 YouTube 视频时不知为何加载超级慢。其他 Firefox 用户很快发现 YouTube 的 polymer 脚本中有一行人为引入 5 秒加载延迟的代码：“setTimeout(function(){c();a.resolve(1)},5E3);”，根据上下文，该代码被认为是 YouTube 最近采取的反广告屏蔽扩展的功能的一部分。使用流行广告屏蔽扩展 UBO 的用户可以在过滤器中加入“www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)”来绕过这段恼人的加载延迟。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://old.reddit.com/r/firefox/comments/17ywbjj/whenever_i_open_a_youtube_video_in_a_new_tab_its/k9w3ei4/?context=3\u003cbr/\u003e\nhttps://www.youtube.com/s/desktop/96766c85/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-11-20T12:14:08Z",
+  "Author": "Wilson"
+}

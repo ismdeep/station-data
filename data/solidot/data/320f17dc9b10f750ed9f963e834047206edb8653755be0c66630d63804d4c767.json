@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "写了个 WebSSH，给有需要的人",
+  "Link": "https://www.solidot.org/story?sid=62073",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t\u003ca href=\"mailto:ranqus@gmail.com\"\u003eRui NI\u003c/a\u003e 写道 \u003ci\u003e\u0026#34;从 Google Reader 还存在的时候就订阅了 Solidot，今天终于有东西能拿出来提交了。\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e我写了一个 WebSSH，可以部署在云或者自己的 VPS 上，通过它作为中间人去连接其他的 SSH 主机。源码仓库：\u003ca href=\"https://github.com/niruix/sshwifty\" target=\"_blank\" title=\"https://github.com/niruix/sshwifty\"\u003ehttps://github.com/niruix/sshwifty\u003c/a\u003e，演示：\u003ca href=\"https://sshwifty.herokuapp.com/\" target=\"_blank\" title=\"https://sshwifty.herokuapp.com/\"\u003ehttps://sshwifty.herokuapp.com/\u003c/a\u003e（公共服务请不要提交和连接重要的东西哟）。\u003c/p\u003e\n\u003cp\u003e在源码仓库的\u003ca href=\"https://github.com/niruix/sshwifty/releases\" target=\"_blank\" title=\"Release\"\u003eRelease\u003c/a\u003e页面可以下载到预编译的二进制包，你也可以直接用 \u003cspan style=\"background-color: rgb(204, 204, 204);\"\u003e\u003c/span\u003e\u003cspan style=\"background-color: rgb(204, 204, 204);\"\u003edocker run --detach --restart=always --publish 8182:8182 --name sshwifty niruix/sshwifty:latest\u003c/span\u003e 把它直接部署在 Docker 里。\u003c/p\u003e\n\u003c/i\u003e\n\u003cp\u003e\u003ci\u003e就是这样了。欢迎点 Star、Fork、提 Issue，Enjoy！:D\n\u0026#34;\u003c/i\u003e\u003c/p\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-09-13T06:18:59Z",
+  "Author": "wenfeixiang"
+}

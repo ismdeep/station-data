@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔准备引入无需重启更新固件功能",
+  "Link": "https://www.solidot.org/story?sid=68993",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔准备通过  \u003ca href=\"https://lore.kernel.org/lkml/cover.1631600169.git.yu.c.chen@intel.com/T/#m7962a60c7e10346582f701128b8d790b8fa67c7b\"\u003ePlatform Firmware Runtime Update 和 Telemetry \u003c/a\u003e驱动代码为 Linux 内核\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=Intel-Seamless-Update\" target=\"_blank\"\u003e\u003cu\u003e引入 Seamless Update 功能\u003c/u\u003e\u003c/a\u003e，即无需重启就能更新固件。Seamless Update 针对的是数据中心和企业级客户，这些客户对停机时间有着高服务水平协议（service level agreements，SLA），而更新固件通常需要重启系统使得服务下线数分钟影响到 SLA。Seamless Update 设计在更新固件过程中不需要重启。英特尔可能会在明年发布  Xeon Scalable \u0026#34;Sapphire Rapids\u0026#34;时推出 Seamless Update。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-18T15:30:41Z",
+  "Author": "WinterIsComing"
+}

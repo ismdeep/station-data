@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AMD 调查 450Gb 数据遭窃取的安全事件",
+  "Link": "https://www.solidot.org/story?sid=71971",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t黑客组织 RansomHouse 宣布从 AMD 公司窃取到 450Gb 数据，声称该公司使用了弱密码如 password 保护其网络。AMD 表示\u003ca target=\"_blank\" href=\"https://it.slashdot.org/story/22/06/28/167245/ransomhouse-extortion-group-claims-amd-as-its-latest-victim\"\u003e正对此安全事件展开调查\u003c/a\u003e。RansomHouse 的帖子称它是在 2022 年 1 月 5 日入侵 AMD 的网络，窃取到 450Gb 的数据。如果 Gb 没有写错的话，这意味着该组织\u003ca href=\"https://www.tomshardware.com/news/amd-purportedly-targeted-by-ransomhouse-extortion-group-450gb-of-data-stolen\"\u003e\u003cu\u003e只窃取\u003c/u\u003e\u003c/a\u003e到 56 GB 的数据。RansomHouse 嘲讽了 AMD 使用弱密码，称它还从 AMD 安全部门窃取到了文件，显示该部门获得了大量融资。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-06-29T07:01:57Z",
+  "Author": "WinterIsComing"
+}

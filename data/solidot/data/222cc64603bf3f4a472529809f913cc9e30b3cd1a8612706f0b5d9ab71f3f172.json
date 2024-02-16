@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "为电信服务商提供短信路由的公司被黑客入侵了五年",
+  "Link": "https://www.solidot.org/story?sid=69147",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一家客户包括 AT\u0026amp;T、T-Mobile、Verizon、沃达丰以及中国移动的公司 Syniverse 证实黑客从 2016 年起\u003ca href=\"https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked\"\u003e\u003cu\u003e多次访问内部数据库\u003c/u\u003e\u003c/a\u003e。Syniverse 在 1990 年代开发了首个无线 SS7 网络，是全球电信基础设施的关键组成部分。上月底 Syniverse 在向 SEC 递交的文件中透露未知个人或组织入侵了它的  Electronic Data Transfer (EDT) 系统，影响大约 235 名客户。它是在 2021 年 5 月发现了入侵，而攻击始于 2016 年 5 月。它的每一个客户都有数以千万计的用户。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-10-06T15:29:05Z",
+  "Author": "WinterIsComing"
+}

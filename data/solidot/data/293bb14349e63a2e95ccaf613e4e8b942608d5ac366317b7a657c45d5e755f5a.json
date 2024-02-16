@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Windows 静默更新修复新发现的英特尔 CPU 预测执行漏洞",
+  "Link": "https://www.solidot.org/story?sid=61636",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软上个月向 Windows 操作系统推送了静默更新，\u003ca href=\"https://arstechnica.com/information-technology/2019/08/silent-windows-update-patched-side-channel-that-leaked-data-from-intel-cpus/\"\u003e\u003cu\u003e堵上了\u003c/u\u003e\u003c/a\u003e一个新发现的英特尔 CPU 预测执行漏洞。安全公司 Bitdefender 的研究人员周二\u003ca href=\"https://www.bitdefender.com/business/swapgs-attack.html\"\u003e\u003cu\u003e披露了该漏洞\u003c/u\u003e\u003c/a\u003e，漏洞影响 2012 年之后的所有英特尔 CPU，由研究人员在 12 个月前发现并报告给英特尔。通过滥用预测执行，攻击者可以打开一条旁路，泄漏加密密钥、密码、私人对话以及其它被保护的秘密。新的攻击利用了名叫 SWAPGS 的指令，类似 2018 年公开的 Spectre 和 Meltdown 漏洞。研究人员测试了两款 AMD CPU，没有发现存在相同漏洞的证据。微软上个月释出的\u003ca href=\"https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1125\"\u003e\u003cu\u003e更新\u003c/u\u003e\u003c/a\u003e改变了 CPU 预测访问内存的方式，补丁不需要微码更新，漏洞编号 CVE-2019-1125。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-07T08:55:08Z",
+  "Author": "wenfeixiang"
+}

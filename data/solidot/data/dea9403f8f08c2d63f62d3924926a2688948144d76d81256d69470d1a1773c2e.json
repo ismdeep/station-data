@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "内核开发者讨论停止支持部分旧 CPU",
+  "Link": "https://www.solidot.org/story?sid=66633",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t随着 Linux 5.10 作为最新的长期支持版本将维护五年时间，内核开发者\u003ca href=\"https://www.phoronix.com/scan.php?page=news_item\u0026amp;px=2021-Linux-Drop-Old-CPUs\" target=\"_blank\"\u003e\u003cu\u003e开始讨论\u003c/u\u003e\u003c/a\u003e移除一系列已经很久没有更新的旧的或淘汰的 CPU。这些 CPU 即使有人在使用也可以继续使用现有的长期支持版本。开发者讨论移除的对象主要是 ARM CPU，这些 CPU 有五年以上时间没有任何变更。除了 ARM CPU，提议移除的 CPU 还有 SPARC/Sun4M，PowerPC/CELL (与 PlayStation 3 代码分开) ，MIPS JAZZ  等等。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-01-12T09:55:24Z",
+  "Author": "WinterIsComing"
+}

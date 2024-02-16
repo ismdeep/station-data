@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "LaTeX 模板：lpaper",
+  "Link": "https://liam.page/2016/08/30/LaTeX-template-lpaper/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cblockquote\u003e\n\u003cp\u003e这是一篇很水的博文。\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e最近因为一些事情，仿照 CEJ 的模板，基于 \u003ccode\u003erevtex4-1\u003c/code\u003e 做了个「基佬紫」配色的模板。想了想，还是放出来，大家想要的话自取；模板还很不完善，如果有兴趣给我发 PR 帮我一起改进就更欢迎了。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e地址：\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://github.com/Liam0205/lpaper/releases\"\u003ehttps://github.com/Liam0205/lpaper/releases\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg data-src=\"/uploads/images/LaTeX/lpaper_01.png\"/\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg data-src=\"/uploads/images/LaTeX/lpaper_02.png\"/\u003e\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2016-08-30T15:55:10Z",
+  "Author": "Liam Huang"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Google Analytics 的轻量级开源替代",
+  "Link": "https://www.solidot.org/story?sid=64703",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 利用 Google Analytics 分析工具跟踪用户引起了越来越多网站的担忧。自 Google  收购 Urchin 将其重命名为 Google Analytics 并免费提供十多年以来，它已经成为了最流行的网站分析工具，根据 BuiltWith 的统计，前 10 万网站中有 86% 使用 GA，前 100 万网站有 64% 使用。除了隐私担忧外，全能的 Google Analytics 超出了很多网站的需求，它们中的许多只是想知道页面流量以及流量来自何处。因此更简单更轻量级的 GA 逐渐流行起来并不令人奇怪。LWN \u003ca href=\"https://lwn.net/SubscriberLink/822568/61d29096a4012e06/\"\u003e\u003cu\u003e介绍了\u003c/u\u003e\u003c/a\u003e两个开源替代：\u003ca href=\"https://www.goatcounter.com/\"\u003e\u003cu\u003eGoatCounter\u003c/u\u003e\u003c/a\u003e 和 \u003ca href=\"https://plausible.io/\"\u003e\u003cu\u003ePlausible\u003c/u\u003e\u003c/a\u003e。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-06-18T12:32:34Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "韩国政府探索从 Windows 迁移到 Linux",
+  "Link": "https://www.solidot.org/story?sid=63490",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t去年五月，由于 Windows 7 即将终止支持，韩国内政部\u003ca href=\"https://www.solidot.org/story?sid=60659\"\u003e\u003cu\u003e宣布\u003c/u\u003e\u003c/a\u003e它考虑切换到 Linux。背后的一个原因是费用，从 Windows 7 升级到 Windows 10 需要花费 7800 亿韩元，切换到 Linux 不仅能减少费用而且有助于减少对单一操作系统的依赖。现在，韩国战略和规划部表示\u003ca href=\"https://www.zdnet.com/article/south-koreas-government-explores-move-from-windows-to-linux-desktop/\" target=\"_blank\"\u003e\u003cu\u003e政府正探索将 330 万台政府计算机中的绝大部分迁移到 Linux\u003c/u\u003e\u003c/a\u003e。韩国国防和国家警察厅已在使用基于 Ubuntu Linux 18.04 LTS 的 Harmonica OS 3.0，韩国邮政总局正迁移到基于 Linux 的 TMaxOS，国防与公共行政和安全部在使用基于 Debian Linux 的 Gooroom Cloud OS，这是类似 Chrome OS 的云端操作系统。政府计算机仍然会使用 Windows，Linux 更多是作为虚拟桌面或云端服务器使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-02-11T08:31:58Z",
+  "Author": "WinterIsComing"
+}

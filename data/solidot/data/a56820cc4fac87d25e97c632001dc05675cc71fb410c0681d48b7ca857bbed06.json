@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "量子编程框架 Cirq 1.0 发布",
+  "Link": "https://www.solidot.org/story?sid=72210",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGoogle 的开源量子编程框架 Cirq \u003ca href=\"https://opensource.googleblog.com/2022/07/Cirq-Turns-1.0.html\"\u003e\u003cu\u003e释出了\u003c/u\u003e\u003c/a\u003e第一个\u003ca href=\"https://quantumai.google/cirq\"\u003e\u003cu\u003e正式版本\u003c/u\u003e\u003c/a\u003e。Cirq是一个编写、运行和分析量子计算机程序结果的 Python 框架，是为有几百个量子比特和几千个量子门的计算机设计的。Cirq 1.0 是 Google 和行业以及学术界过去四年共同努力的结晶。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-07-21T11:24:26Z",
+  "Author": "WinterIsComing"
+}

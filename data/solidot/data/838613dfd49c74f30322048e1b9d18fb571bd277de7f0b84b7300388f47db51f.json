@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "华为否认其海思视频监控芯片有后门",
+  "Link": "https://www.solidot.org/story?sid=65587",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t安全研究人员在基于华为海思芯片的设备中\u003ca href=\"https://kojenov.com/2020-09-15-hisilicon-encoder-vulnerabilities/\" target=\"_blank\"\u003e\u003cu\u003e发现了多个高危漏洞\u003c/u\u003e\u003c/a\u003e，其中包括可访问管理界面的后门密码。华为随后发表\u003ca href=\"https://www.huawei.com/cn/psirt/security-notices/2020/huawei-sn-20200917-01-hisilicon-cn\"\u003e\u003cu\u003e声明\u003c/u\u003e\u003c/a\u003e否认其海思视频监控芯片有后门，称漏洞并非由海思提供的芯片及 SDK 包引入。华为称，海思 SD K包中，默认不会启动任何网络服务，不会设置任何账号及相关密码。同时，海思将“二次开发网络安全注意事项”文档随软件包提供给设备商，文档中建议在产品的最终量产版本中增加权限管理与安全配置功能。它表示存在漏洞的代码属于设备商应用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-09-19T09:30:43Z",
+  "Author": "WinterIsComing"
+}

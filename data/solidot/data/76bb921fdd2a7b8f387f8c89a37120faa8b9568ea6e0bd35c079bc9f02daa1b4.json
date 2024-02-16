@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "佳能遭遇勒索软件攻击",
+  "Link": "https://www.solidot.org/story?sid=65170",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t佳能的 image.canon 照片和视频储存服务公布了\u003ca href=\"https://image.canon/st/zh/index.html?region=6\" target=\"_blank\"\u003e\u003cu\u003e一则通知\u003c/u\u003e\u003c/a\u003e，称 7 月 30 日它的 10GB 长期存储服务发现了一个问题，为了展开进一步调查而临时停用了服务。调查之后它发现 6 月 16 日前储存的部分照片和视频丢失了。它在 8 月 4 日恢复了服务。佳能没有透露更多信息，但消息来源透露它\u003ca href=\"https://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\"\u003e遭遇了勒索软件 Maze 的攻击\u003c/a\u003e，多个系统和应用、电邮服务受到影响。Maze 通常会先窃取数据再加密数据，该组织据称从佳能公司内部窃取到了 10 TB 的数据。image.canon 的宕机据黑客称与他们无关。佳能对此报道表示正在进行调查。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2020-08-06T13:52:24Z",
+  "Author": "WinterIsComing"
+}

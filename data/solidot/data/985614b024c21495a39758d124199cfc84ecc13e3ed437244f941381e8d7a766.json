@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "勒索软件 GermanWiper 破坏数据然后索要赎金",
+  "Link": "https://www.solidot.org/story?sid=61592",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t一种新的勒索软件\u003ca href=\"https://www.zdnet.com/article/germanwiper-ransomware-hits-germany-hard-destroys-files-asks-for-ransom/\"\u003e\u003cu\u003e正在德国扩散\u003c/u\u003e\u003c/a\u003e。被称为 GermanWiper 的勒索软件通过电子邮件传播，感染之后它不是加密文件而是用随机字符覆写文件永久性的破坏用户数据。但在破坏数据之后它还会索要赎金。但支付赎金并不能恢复数据，除非用户有离线备份，否则遭到破坏的数据不可能恢复。好消息是这种破坏性的勒索软件只在德语国家传播，主要是德国。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-03T15:28:09Z",
+  "Author": "wenfeixiang"
+}

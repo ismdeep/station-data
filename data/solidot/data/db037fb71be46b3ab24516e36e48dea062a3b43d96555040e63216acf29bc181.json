@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AWS 准备对 IPv4 地址收费",
+  "Link": "https://www.solidot.org/story?sid=77162",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t从 2 月 1 日开始，最大的云计算服务商 AWS 将对 IPv4 地址收费，每小时 0.005 美元，每月约 4 美元。原因是 IPv4 地址日益稀缺，获取的成本在增加。每月 4 美元对普通用户可能并不多，但对基于 AWS 的基础设施服务商而言意味着数百万美元的额外开支。这些公司可以选择将成本转嫁给客户，或者提供代理等权宜方法，或者 只提供IPv6。IPv6 的普及度有望加速。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://tech.slashdot.org/story/24/01/17/116235/brace-yourself-ipv6-is-coming\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-01-18T05:51:57Z",
+  "Author": "Wilson"
+}

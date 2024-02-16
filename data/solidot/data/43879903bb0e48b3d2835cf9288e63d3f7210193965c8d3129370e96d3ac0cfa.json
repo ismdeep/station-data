@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "AlphaBay 前管理员重建暗网市场",
+  "Link": "https://www.solidot.org/story?sid=69068",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t2017 年，美国执法机构关闭了暗网市场 AlphaBay，在泰国\u003ca href=\"https://www.solidot.org/story?sid=53173\"\u003e逮捕了\u003c/a\u003e管理员  Alexandre Cazes（后在监狱中自杀），扣押了位于立陶宛的服务器，并利用获得的用户数据\u003ca href=\"https://www.solidot.org/story?sid=53561\"\u003e\u003cu\u003e破获\u003c/u\u003e\u003c/a\u003e了一个贩毒集团。但  AlphaBay 另一名管理员 DeSnake 一直逍遥在外，最近他再次现身重建了暗网市场，并高调\u003ca href=\"https://arstechnica.com/tech-policy/2021/09/he-escaped-the-dark-webs-biggest-bust-now-hes-back/#p3\" target=\"_blank\"\u003e\u003cu\u003e接受了《连线》采访\u003c/u\u003e\u003c/a\u003e。他通过 DeSnake 使用的签名密钥证明了自己的身份，新版的 AlphaBay 市场不再使用比特币而只允许使用门罗币，门罗币设计更难被跟踪。AlphaBay 除了能通过 Tor 访问外还允许通过另一个去中心匿名网络 I2P 访问，而 DeSnake 鼓励用户切换到 I2P，警告 Tor 可能容易被监视。DeSnake 称 Cazes 被逮捕部分归咎于对比特币区块链的交易分析，而分析门罗币的交易要困难得多。他还采用了多种安全保障措施，确保他的计算机在脱离其控制之后能抹掉数据。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-09-27T03:14:28Z",
+  "Author": "WinterIsComing"
+}

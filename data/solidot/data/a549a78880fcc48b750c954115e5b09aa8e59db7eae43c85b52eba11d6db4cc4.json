@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "Debian 投票是否允许默认加载非自由固件",
+  "Link": "https://www.solidot.org/story?sid=72827",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t在一个月的讨论之后，Debian 项目宣布对是否允许默认加载非自由固件\u003ca href=\"https://www.debian.org/vote/2022/vote_003\"\u003e\u003cu\u003e举行投票\u003c/u\u003e\u003c/a\u003e，截至日期为 10 月 1 日。Debian 社区采用的是\u003ca href=\"https://zh.wikipedia.org/wiki/%E5%AD%94%E5%A4%9A%E5%A1%9E%E6%8A%95%E7%A5%A8%E6%B3%95\"\u003e孔多塞投票法\u003c/a\u003e。此次投票共六个选项：\u003cbr/\u003e\n\u003ci\u003eOnly one installer, including non-free firmware；\u003cbr/\u003e\nRecommend installer containing non-free firmware；\u003cbr/\u003e\nAllow presenting non-free installers alongside the free one；\u003cbr/\u003e\nInstaller with non-free software is not part of Debian；\u003cbr/\u003e\nChange SC for non-free firmware in installer, one installer；\u003cbr/\u003e\nChange SC for non-free firmware in installer, keep both installers。\n\u003c/i\u003e\n允许非自由固件是\u003ca href=\"https://www.solidot.org/story?sid=72602\" target=\"_blank\"\u003e\u003cu\u003e为了改进可及性\u003c/u\u003e\u003c/a\u003e。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。目前\n Debian 发行版默认不加载非自由固件，要盲人用户自己去摸索调整是非常困难的。因此 Debian \n开发者提议在官方镜像中包含非自由固件。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-09-21T03:36:46Z",
+  "Author": "WinterIsComing"
+}

@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "微软开源 exFAT，提供给 Linux 内核",
+  "Link": "https://www.solidot.org/story?sid=61892",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t微软杰出工程师兼 Linux 基金会董事会成员 John Gossman \u003ca href=\"https://cloudblogs.microsoft.com/opensource/2019/08/28/exfat-linux-kernel/\"\u003e\u003cu\u003e宣布了\u003c/u\u003e\u003c/a\u003e微软爱 Linux 的最新成果：向 Linux 内核开源并提供 exFAT 相关专利，更新了\u003ca href=\"https://docs.microsoft.com/zh-cn/windows/win32/fileio/exfat-specification\" target=\"_blank\"\u003e\u003cu\u003eexFAT 技术规范\u003c/u\u003e\u003c/a\u003e，移除了保密通知和授权协议。软件巨人接下来是不是应该开源 NTFS 文件系统了？FAT 是最早的软盘文件系统之一，是 MS-DOS 和 Windows 早期版本的默认文件系统，exFAT 是 FAT 的扩展文件系统，FAT 如今已经很少使用，但 exFAT 仍然被数以亿计的存储设备使用，是 SD Card 协会大容量 SD 卡的官方文件系统。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-08-29T04:17:34Z",
+  "Author": "wenfeixiang"
+}

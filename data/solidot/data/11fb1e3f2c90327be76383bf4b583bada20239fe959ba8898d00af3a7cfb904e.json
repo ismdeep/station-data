@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "苹果将随机化 Mac 序列号",
+  "Link": "https://www.solidot.org/story?sid=67189",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t苹果将改变 Mac 序列号生成的方法。序列号\u003ca href=\"https://arstechnica.com/gadgets/2021/03/apple-will-randomize-mac-serial-numbers-starting-this-year/\" target=\"_blank\"\u003e\u003cu\u003e将完全随机化生成\u003c/u\u003e\u003c/a\u003e，这意味着未来用户、IT 经理和维修店技术人员将无法从系统提供的序列号收集到可用的信息。目前 Mac 使用的序列号反映了电脑组装的时间、位置以及存储容量等配置信息。随机化之后这些信息将无法再收集到，新的序列号在 8 到 12 个字符长之间。新方法预计将应用于今年晚些时候推出的  MacBook Air、MacBook Pro、iMac 和 Mac Pro。苹果的内部邮件称新序列号原计划今年初就开始实行，但因故推迟了。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2021-03-13T01:09:25Z",
+  "Author": "WinterIsComing"
+}

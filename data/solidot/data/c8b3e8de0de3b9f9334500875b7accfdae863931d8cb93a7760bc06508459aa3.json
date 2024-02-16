@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "TeamViewer 否认自己正被入侵",
+  "Link": "https://www.solidot.org/story?sid=62308",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t国内媒体最近\u003ca href=\"https://new.qq.com/omn/20191012/20191012A09KK200.html\"\u003e\u003cu\u003e报道称\u003c/u\u003e\u003c/a\u003e，深圳网络与信息安全信息通报中心发布文件，TeamViewer 后台关系系统被国外黑客组织攻陷，所有安装了 TeamViewer 远程控制软件的终端，能被黑客任意访问和控制。该报道被认为源于安全公司 FireEye 首席安全架构师 Christopher Glyer 在 Twitter 上的一系列帖子，Glyer 称黑客组织 APT41 \u003ca href=\"https://twitter.com/cglyer/status/1182413194360508419\"\u003e\u003cu\u003e入侵了\u003c/u\u003e\u003c/a\u003e TeamViewer。该帖子被认为遭到误读，安全事故不是发生在现在，而是发生在过去。TeamViewer 是流行的远程控制和桌面共享软件，它在 2016 年\u003ca href=\"https://www.solidot.org/story?sid=48442\" target=\"_blank\"\u003e\u003cu\u003e曾发生安全事故\u003c/u\u003e\u003c/a\u003e，该公司\u003ca href=\"https://community.teamviewer.com/t5/Announcements/FireEye-clarification-regarding-misleading-Social-Media-post/td-p/73804\"\u003e\u003cu\u003e澄清\u003c/u\u003e\u003c/a\u003e它的软件能安全使用。\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2019-10-21T07:10:55Z",
+  "Author": "wenfeixiang"
+}

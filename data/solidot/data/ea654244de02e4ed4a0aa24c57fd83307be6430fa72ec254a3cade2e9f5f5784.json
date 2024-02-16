@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "英特尔披露软件定义硅的细节",
+  "Link": "https://www.solidot.org/story?sid=73476",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t英特尔正式披露了按照客户需求通过软件激活特定功能和加速器的 Intel On Demand 程序。即将推出的第四代至强处理器 Xeon Scalable Sapphire Rapids 将支持这一机制，帮助芯片巨人减少 SKU 的数量降低成本。英特尔称它即将推出的 Xeon Scalable Sapphire Rapids 加入了各种特定用途的加速器和安全技术，客户不是在任何时候都需要。为了给终端客户提供投资方面的灵活性，英特尔将在客户购买时禁用他们不需要的功能，如果需要则再额外付费通过软件激活。这一机制就是所谓的软件定义硅晶片（Software Defined Silicon 或 SDSi）。Intel On Demand 程序提供的按需激活技术清单包括：Software Guard Extensions、Dynamic Load Balancer (DLB)、Intel Data Streaming Accelerator (DSA)、Intel In-Memory Analytics Accelerator (IAA)、Intel In-Memory Analytics Accelerator 和 Intel QuickAssist Technology (QAT)。 \n\u003cbr/\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\u003cbr/\u003e\nhttps://www.intel.com/content/www/us/en/products/docs/ondemand/overview.html?s=31\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2022-11-25T03:35:24Z",
+  "Author": "faif"
+}

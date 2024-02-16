@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "GNOME 44 发布",
+  "Link": "https://www.solidot.org/story?sid=74469",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\tGNOME 项目释出了 v44。GNOME 44 代号吉隆坡，选择这一名字旨在表彰 2022 年 GNOME 亚洲峰会的主办方所做的工作。新版的主要变化包括：Epihaphy (GNOME Web) 浏览器移植到 GTK4，网络面板可直接添加 WireGuard VPN，设置应用大修，改进了快速设置菜单，文件选择器加入网格视图，Software 提供了更流畅更快的体验，低电量通知改进，等等。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://release.gnome.org/44/\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2023-03-23T06:50:02Z",
+  "Author": "Wilson"
+}
