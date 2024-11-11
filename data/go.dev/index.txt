@@ -229,3 +229,16 @@ e96cbcd95fded5a15731b07255da4a4064048e986e3b7691154b7a79a51e7efc https://go.dev/
 819fd27c0753904d2d249d857e822233cb22205e19684803d1aa4cba9393024e https://go.dev/blog/json-rpc
 20963c45ea2457a7220deb3b04772e0ed5280f15fc8247ef15fee0d5ef88e560 https://go.dev/blog/protobuf
 89d4ea493e67228fcab26258ce51d82565e3ad472a03b6b5d2650567c440ef60 https://go.dev/blog/hello-world
+a4d4f5a79ba2a17a8959e5ec218ed36c29d1f6f265618e919044f5ccc161e9b3 https://go.dev/blog/alias-names
+a7997af9b5e1c4a0dbb2276887cb455649d6f03790d6f6cc230775aa9011e323 https://go.dev/blog/llmpowered
+b0e77cc5b1b4234d9be4c9cc44e80ec34d04a364e116fa189db98c1e27ff489c https://go.dev/blog/survey2024-h2
+ab687be36d0f707e3cd8cee127e5f3080c97b0e80deeb092bdec055dc5e7f84a https://go.dev/blog/gotelemetry
+b9fe6511833edefc4566b1d39f512b2f23d777c88c1d766eb2d766aeb408e10a https://go.dev/blog/unique
+b8357eace51b4d17d9d6818a674ef095aa82545a039481322c8bc42694c50fbc https://go.dev/blog/range-functions
+941c7dcae0bb72ea7b6ce397b414601790e4ac642e832dc551d7485dcaf5c854 https://go.dev/blog/go1.23
+38f758832fd7f1dbb7af4600e4d20b2ae5b0a9f258858c08177f60ebbb3065a6 https://go.dev/blog/chacha8rand
+d25fa97f4b217c6a695feef1bcd350f5dde005826c84cdb80f588d7952e3f1f1 https://go.dev/blog/randv2
+fc2d3e97689b985fa50123277d1cfff67fb2262304f945bfe05df0fe20ac7daa https://go.dev/blog/survey2024-h1-results
+0b09f33d12c8cac330de25641d8b7ea60d2c6afead366c8869bc243f709db537 https://go.dev/blog/execution-traces-2024
+fb1c2e645fb156606ad5b303284a35f4c35efb82222a901a81cabf130a345422 https://go.dev/blog/generic-slice-functions
+a9d4bfa331567edb9ce089e9a3b4e6e60a97608b06fead664d6dc1eb258870fd https://go.dev/blog/go1.2

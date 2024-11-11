@@ -16,3 +16,5 @@ e23b9e07ccd419f315b6da5e59ecfd6127cdb7ee58a4cc24ca694aa9c7803c2a https://blog.ke
 5bea1a42d5090ff952ca7b5cf32c9138810a5bf2305dc520c7047007c6308ad4 https://blog.keldos.me/2017/01/zhuangzi-1/
 58133ddf338aa8924821d1b4f257ad6824ccb64b1445a8f4af91ed37afbb9468 https://blog.keldos.me/2021/05/typora-latex-css/
 c665062b38620614b9369c3bebff72dc37da2f0fb30d6beaccaf906f98b60040 https://blog.keldos.me/2021/05/md-latex-template/
+c40d1312ab238ba814a1705883315e418587afde50f562802fff85d6846d0fcd https://blog.keldos.me/2024/07/douhaozaihangshou/
+808551a0f516a86480fc46fa4f33b4c483e5cb3c7e702ddca320e5dc16b7a848 https://blog.keldos.me/2024/03/2023Review/

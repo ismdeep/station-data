@@ -27,6 +27,17 @@ func TestGetChannelInfo(t *testing.T) {
 			},
 			wantErr: false,
 		},
+		{
+			name: "",
+			args: args{
+				channelHomeURL: "https://www.youtube.com/@laogao",
+			},
+			want: &ChannelInfo{
+				ChannelID: "UCMUnInmOkrWN4gof9KlhNmQ",
+				Name:      "老高與小茉 Mr & Mrs Gao",
+			},
+			wantErr: false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

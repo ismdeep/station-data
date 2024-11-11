@@ -1,0 +1,8 @@
+{
+  "Source": "liam.page",
+  "Title": "最大摄氧量是什么？",
+  "Link": "https://liam.page/2024/04/21/VO2-Max/",
+  "Content": "\u003cdiv class=\"post-body\" itemprop=\"articleBody\"\u003e\n\n      \n        \u003cp\u003e用了 8 年的 Apple Watch，一直就知道其中有「最大摄氧量」（Apple 翻译做有氧适能水平）这一身体指标。由于最近自身身体上出现的一些问题，开始更加关注它。\u003c/p\u003e\n\u003cp\u003e由于 Apple 健康中给出的最大摄氧量相关的解释不甚清晰，所以检索资料后，对最大摄氧量做一些简单的记录。\u003c/p\u003e\n\u003cspan id=\"more\"\u003e\u003c/span\u003e\n\n\u003cp\u003e最大摄氧量是评估身体摄取（与肺脏关系最大）、运输（和心脏关系较大）、利用（和肌肉组织关系较大）能力的指标。其公式可以表述为\u003c/p\u003e\n\u003cp\u003e\u003ccode\u003e$\\text{$\\text{VO}_2$ MAX} = \\text{MHR}\\times\\text{SV MAX}\\times\\text{A-V $\\text{O}_2$ diff}.$\u003c/code\u003e\u003c/p\u003e\n\u003cp\u003e这里\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMHR 是最大心率。这是一个估算值。对于身体健康的成人来说，它与年龄（周岁）负相关。具体计算方法为 \u003ccode\u003e$220 - \\text{年龄}$\u003c/code\u003e。对于有特别的病史的人（比如有过心肺手术术后病史的人），MHR 的计算方法不能就此预估，应当咨询医生。\u003c/li\u003e\n\u003cli\u003eSV MAX 是心脏每一次搏动射血量（每搏输出量）的最大值，是评估心脏能力的重要指标。\u003c/li\u003e\n\u003cli\u003eA-V O2 diff 则是动静脉中含氧量的差异，是评估机体利用氧气能力的重要指标。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e可见，在 SV Max 和 A-V O2 diff 不变的情况下，随着年龄的增长，VO2 Max 的指标确实会逐渐降低。但若保持运动，可使指标降低的速率变慢。\u003c/p\u003e\n\n    \u003c/div\u003e",
+  "Date": "2024-04-21T14:33:16Z",
+  "Author": "Liam Huang"
+}

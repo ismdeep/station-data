@@ -62,3 +62,5 @@ f16dd90e51312869f9a8a75b9cddc8d4aef517b3b6f8999a23bb1ba7525bcc14 https://www.evi
 95999529676a581b192b963d67958315d35e7d948acc2e47161754d473440270 https://www.evilsocket.net/2015/07/25/Bettercap-A-complete-modular-portable-and-easily-extensible-MITM-framework/
 5ac9ffa3601730c6bbc9d74a1598e7e62b7ef7685a2d73c89351f379ed1d6f5a https://www.evilsocket.net/2015/02/11/Hackers-Phishing-Leakers-A-new-BitCoin-phishing-social-technique/
 c57f29435986a9db9f1043b80c0e9bcaf2d5bf9217ef84572c141002720e8384 https://www.evilsocket.net/2015/02/01/Huawei-Modems-Authentication-Bypass/
+508825e3f9ec63975f6a3f3fa65bd0d27c1cbb465e92a350ddf4c024187b54ac https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/
+affde2ffa82adf5abf1468a543811b684d06aa5a1b1e1a25825235389efa1a1b https://www.evilsocket.net/2024/09/13/Introducing-bettercap-2-4-0-CAN-bus-hacking-WiFi-bruteforcing-and-builtin-web-UI/

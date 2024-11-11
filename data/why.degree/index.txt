@@ -16,3 +16,4 @@ f636fbe69b0b13678daeb23afda34a9a018396293b01169d3e14010a77dec2c9 https://why.deg
 cbee5be0ec52759c370994ed984aec8ca35c55a44ef46be70f7884a6b7bf3e40 https://why.degree/junior-what/
 55a10e57efaa99c1ece72ffdbc56839612db837e3a7d2d747cce49377a16407e https://why.degree/next-gen-devs/
 d49e903a9caf7f37ee6fa9fec996f25cad00ada434d5d408793f582e85afbc58 https://why.degree/motivation/
+51e02ad13a5577e37c8f12c5bdd574da11c1e4f3e0c5ac17ad11d63b4088870b https://why.degree/on-concurrent-dictionaries/

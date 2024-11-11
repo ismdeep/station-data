@@ -188,3 +188,7 @@ c60b198eefa625681aef271f2aa21528bb334782ef7de8863f5ef7e140d59bf0 https://izsk.me
 74f52819df57a70a19b38718d895ca9d19a266c07995f36ec8ede60b81adfcd9 https://izsk.me/2017/10/10/python%E9%97%AD%E5%8C%85%E5%8F%8A%E8%A3%85%E9%A5%B0%E5%99%A8/
 b9ea127e58c6e57772f3a39d63fcc9fa4b0916078d8bfbebbc0e3eb0728aa45f https://izsk.me/2017/08/12/python%E4%B8%AD%E8%B0%83%E7%94%A8sqlplus%E7%94%9F%E6%88%90%E5%A4%9A%E5%AE%9E%E4%BE%8Boracle-awr-html%E6%8A%A5%E5%91%8A/
 f0526fd71e520f4f38d8a9d06f0ae2da65097092dcfd5dc9ca38c7f9014a301f https://izsk.me/2017/10/08/pyinstaller%E6%89%93%E5%8C%85Flask(%E4%BA%8C)/
+ae6cf6c0b30412ac689d30e5ba32dd62169815a50654b03df9def61938090aee https://izsk.me/2024/08/10/cilium-on-kubernetes-errors-apiratelimit/
+f37739527d82f4ce8c304b261978115ffafaf984fd5a9837b72407c6acb3811f https://izsk.me/2024/08/04/Kubernetes-prombles/
+8e4cb854cbb1c257e3e9bfdb54aeef25bdbc535d245581bdfbf43be794b0ed8e https://izsk.me/2024/05/31/volcano-actions-plugins/
+725e07c49b91dc8cb4372c979d0b5129605f95e3e12e558cc0bbf9dda21684d1 https://izsk.me/2023/12/29/2023/

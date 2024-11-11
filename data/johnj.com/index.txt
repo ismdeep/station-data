@@ -118,3 +118,6 @@ f9042fa64b3bb70f551bf77623cd7c25a3a88e09f73a0891bf943d5262587af8 http://johnj.co
 ad1166de6232211cc32b0e7743beb9ae60e10eca978ac15af3911d053c16e5e8 http://johnj.com/posts/halfway-around-the-world/
 8a30cf04b126f76c8d5bae9b1e9fba622c198b7850dde71a238ef0fa6b089ff6 http://johnj.com/posts/launched/
 2fafb9087cdfd89bb0dd93852ba736da28f4fa207ae7ca507be6306faa100cdd http://johnj.com/posts/getting-ready/
+db761cbb08687b477a0a7e0a7825ad33c7f0ad4f289718b7ae3c6412fc240bae http://johnj.com/posts/to-the-metal/
+352697bcdbf63770a4d242775c34df230e10ae8d7504eeb380c85f3e83057fba http://johnj.com/posts/wrangling-dreams/
+945d842b65745aee3a3be35dae87a0da2fe075faa65698b284142ab3db8330a8 http://johnj.com/posts/programming-languages-and-art-media/

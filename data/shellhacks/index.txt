@@ -632,3 +632,10 @@ c7c1f132ae6579f357a7eb3135b98d6dbb0cc6a6bc51c164203151dadbeb77cc https://www.she
 4314a0f12ca788d4d8bc77853950b8ab0acf7b00a355dec947d650579200c828 https://www.shellhacks.com/fast-connection-ssh-aliases/
 a71f9148a5485877f5bbc1e22ff5204f82f5675e2a5a48f65891de077fbf97de https://www.shellhacks.com/ssh-public-key-authentication/
 2f8335c0848e1ef43d2cc213442b88ae8c402ac88072d24667b5d2380cd372a4 https://www.shellhacks.com/encrypt-decrypt-file-password-openssl/
+fb63579630b6946fb7c62e4822f1a3514af7ec4a5f422fa485f6636bdf241246 https://www.shellhacks.com/kubectl-delete-context-cluster-user/
+cde0ef652a28ffee0765b07782bbb61f949bbb142583ee5ae9481932f728aa7e https://www.shellhacks.com/k8s-spread-pods-evenly-on-nodes-in-different-zones-regions/
+50cc63196aa4dc30508f143cd097ce036b48e1d232a07c76528b2103fffe881e https://www.shellhacks.com/kubectl-add-label-to-kubernetes-node/
+acc2dd5543c69a26f1bcaaf4d8794631e478d247ea9425192c7980bef08f3835 https://www.shellhacks.com/mikrotik-nordvpn-setup/
+ce2c4b5b3cb3fcb3eeb017ca0c3c7394beb14e360bdf5bc015bcb1ff4cbb05f7 https://www.shellhacks.com/git-change-remote-url/
+0d55d35a8a9c25bb6b393ca45301515aaf6bcdcf7eabe0564063a7a7784a0b1b https://www.shellhacks.com/argocd-reset-admin-password/
+8bbacecad5e8653bf23a0cc6a5a1eb6cb00ab43998250838c602ee0c488f59bb https://www.shellhacks.com/home-assistant-ssh-connection-using-terminal/

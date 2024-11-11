@@ -378,3 +378,7 @@ aa5e99883a58f6e44fe9d28ab634c3ad6d7ef6f74a29c20076838d3bb95490ab https://liam.pa
 496cb896f3cf94247b39d4bc51d0265575e18c83c724438863e15116bebbb27c https://liam.page/2013/11/20/LaTeX-How-to-find-out-where-a-macro-is-defined/
 1d7e0fa3e7dc14a292a7ce53429220243e0274be821146fcda171b66ad688dac https://liam.page/2013/10/18/LaTeX-websites/
 a3accd0a61ac8bc81703315c053b7aaef648074f35fc9de3ef3066f132314a79 https://liam.page/2013/11/04/LaTeX-listings-copy/
+4710d015878aa65f140625f2aa436a8e3b7f0a750c47e6561b8aafbe0eb7c73c https://liam.page/2024/10/04/notes-on-Exercise-Physiology-chap-01-Aerobic-and-anaerobic-exercise/
+fa0eed7e139820429060fc901df542cefc568615a342d81e369f77b9318e05aa https://liam.page/2024/04/21/VO2-Max/
+49cd69b791a1932f583ad354f2a99e08fa5db975bc117196b5455ee23ef61d9b https://liam.page/2024/04/21/book-review-a-general-narration-of-math-physics-and-chemistry/
+11d95e32e078eedb559e33d6495d5f6fa4511c3127c73e74fb35229bc547520e https://liam.page/2024/03/17/book-review-tanrensheng/

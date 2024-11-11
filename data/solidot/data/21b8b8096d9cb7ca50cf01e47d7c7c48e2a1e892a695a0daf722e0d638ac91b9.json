@@ -1,0 +1,8 @@
+{
+  "Source": "solidot",
+  "Title": "MIT 研究称大模型并不能连贯的理解世界",
+  "Link": "https://www.solidot.org/story?sid=79739",
+  "Content": "\u003cdiv class=\"p_mainnew\"\u003e\n\t\t\t\t\t虽然大模型输出的结果令人印象深刻，但 MIT 的一项研究发现它并不能连贯的理解世界。举例来说，一种流行的生成式 AI 模型能正确提供纽约市的逐向导航路线，但不能正确形成纽约市内地图。模型虽然能正确导航，但当研究人员关闭部分街道以及增加绕行线路，其导航能力会显著下降。研究人员进一步发现，大模型还会隐式的在网格之间生成不存在的街道，弯曲和连接遥远的交叉口。\n\u003cp\u003e\u003c/p\u003e\n\u003c!--more--\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cbr/\u003e\nhttps://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105\u003cbr/\u003e\t\t\t\t\t                \u003c/div\u003e",
+  "Date": "2024-11-11T08:27:27Z",
+  "Author": "Wilson"
+}
